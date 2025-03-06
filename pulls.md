@@ -32,9 +32,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/162671) 413 additions and 59 deletions in 9 files</sub><br />
 
-* **[ash-google](https://github.com/ash-google)** &mdash; Add SDK version validation to the dependency checker.<br />
-  <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162713) 110 additions and 1 deletion in 2 files</sub><br />
-
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/162731) 99 additions and 3 deletions in 2 files</sub><br />
 
@@ -172,9 +169,6 @@
 
 * **[Darien Romero Leiva](https://github.com/DarienRomero)** &mdash; Add documentation for the secondary button<br />
   <sub>[#164555](https://github.com/flutter/flutter/pull/164555) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164555) 3 additions and 0 deletions in 1 file</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [macOS] wide gamut support for Impeller applications on macOS.<br />
-  <sub>[#164671](https://github.com/flutter/flutter/pull/164671) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164671) 104 additions and 22 deletions in 13 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and link to `Infra-Triage.md`.<br />
   <sub>[#164673](https://github.com/flutter/flutter/pull/164673) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164673) 170 additions and 5 deletions in 2 files</sub><br />
