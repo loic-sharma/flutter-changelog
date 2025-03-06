@@ -116,9 +116,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Handle RPCErrorKind.kConnectionDisposed<br />
   <sub>[#164299](https://github.com/flutter/flutter/pull/164299) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164299) 129 additions and 5 deletions in 7 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [stable] Cherry-pick change to CanvasKit build flags to fix double download<br />
-  <sub>[#164341](https://github.com/flutter/flutter/pull/164341) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164341) 13 additions and 5 deletions in 3 files</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update the `RefreshProgressIndicator` widget to the 2024 Material Design appearance<br />
   <sub>[#164384](https://github.com/flutter/flutter/pull/164384) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164384) 158 additions and 36 deletions in 3 files</sub><br />
 
@@ -158,9 +155,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes the scrolling issue when a read-only field is present<br />
   <sub>[#164499](https://github.com/flutter/flutter/pull/164499) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164499) 102 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][iOS] increase max concurrent background tasks to 64.<br />
-  <sub>[#164506](https://github.com/flutter/flutter/pull/164506) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164506) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix Android SystemUiOverlayStyle issue when showing CupertinoSheet<br />
   <sub>[#164511](https://github.com/flutter/flutter/pull/164511) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164511) 64 additions and 1 deletion in 2 files</sub><br />
 
@@ -178,7 +172,4 @@
 
 * **[Darien Romero Leiva](https://github.com/DarienRomero)** &mdash; Add documentation for the secondary button<br />
   <sub>[#164555](https://github.com/flutter/flutter/pull/164555) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164555) 3 additions and 0 deletions in 1 file</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use device private on non-iOS devices.<br />
-  <sub>[#164601](https://github.com/flutter/flutter/pull/164601) opened on on March 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164601) 33 additions and 170 deletions in 4 files</sub><br />
 
