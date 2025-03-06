@@ -81,7 +81,7 @@
   <sub>[#163934](https://github.com/flutter/flutter/pull/163934) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163934) 26 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
-  <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 42 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164002) 42 additions and 3 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix spelling in navigation bar docs<br />
   <sub>[#164067](https://github.com/flutter/flutter/pull/164067) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164067) 1 addition and 1 deletion in 1 file</sub><br />
