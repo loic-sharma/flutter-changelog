@@ -182,3 +182,6 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Link the Mac_ios microbenchmarks_ios issue to the bringup: true in ci config for easier discovery<br />
   <sub>[#164694](https://github.com/flutter/flutter/pull/164694) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164694) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add hintMaxLines in InputDecorationTheme<br />
+  <sub>[#164695](https://github.com/flutter/flutter/pull/164695) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164695) 40 additions and 1 deletion in 2 files</sub><br />
+
