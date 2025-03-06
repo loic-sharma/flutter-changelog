@@ -1138,7 +1138,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-8 commits.
+9 commits.
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_android] Platform view support<br />
   <sub>[#8466](https://github.com/flutter/packages/pull/8466) merged on March 4, 2025 &mdash; **Extra large:** [94 comments](https://github.com/flutter/packages/pull/8466) over 1 month, 2291 additions and 708 deletions in 44 files</sub><br />
@@ -1159,6 +1159,10 @@
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; [go_router_builder]: Fix `The argument type 'String?' can't be assigned to the parameter type 'String' because 'String?' ` on path and query params<br />
   <sub>[#8737](https://github.com/flutter/packages/pull/8737) merged on March 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8737) over 4 days, 17 additions and 11 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Karibash](https://github.com/Karibash), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; manual roll with video player test disabled<br />
+  <sub>[#8803](https://github.com/flutter/packages/pull/8803) merged on March 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8803) over 13 hours, 13 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [shared_preferences_android] dependabot takeover datastore <br />
   <sub>[#8784](https://github.com/flutter/packages/pull/8784) merged on March 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8784) over 18 hours, 7 additions and 3 deletions in 3 files</sub><br />
