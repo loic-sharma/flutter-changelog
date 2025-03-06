@@ -173,3 +173,9 @@
 * **[Darien Romero Leiva](https://github.com/DarienRomero)** &mdash; Add documentation for the secondary button<br />
   <sub>[#164555](https://github.com/flutter/flutter/pull/164555) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164555) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [macOS] wide gamut support for Impeller applications on macOS.<br />
+  <sub>[#164671](https://github.com/flutter/flutter/pull/164671) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164671) 104 additions and 22 deletions in 13 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and link to `Infra-Triage.md`.<br />
+  <sub>[#164673](https://github.com/flutter/flutter/pull/164673) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164673) 170 additions and 5 deletions in 2 files</sub><br />
+
