@@ -153,7 +153,7 @@
   <sub>[#164496](https://github.com/flutter/flutter/pull/164496) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164496) 15 additions and 115 deletions in 11 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes the scrolling issue when a read-only field is present<br />
-  <sub>[#164499](https://github.com/flutter/flutter/pull/164499) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164499) 108 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#164499](https://github.com/flutter/flutter/pull/164499) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164499) 103 additions and 1 deletion in 3 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix Android SystemUiOverlayStyle issue when showing CupertinoSheet<br />
   <sub>[#164511](https://github.com/flutter/flutter/pull/164511) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164511) 64 additions and 1 deletion in 2 files</sub><br />
@@ -193,4 +193,7 @@
 
 * **[Bobek Bobekos](https://github.com/bobekos)** &mdash; [CP][Stable] Fix race condition causing crash when interacting with an animating scrollable<br />
   <sub>[#164708](https://github.com/flutter/flutter/pull/164708) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164708) 57 additions and 1 deletion in 2 files</sub><br />
+
+* **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL<br />
+  <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164720) 1 addition and 1 deletion in 1 file</sub><br />
 
