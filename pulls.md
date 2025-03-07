@@ -114,7 +114,7 @@
   <sub>[#164384](https://github.com/flutter/flutter/pull/164384) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164384) 158 additions and 36 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Convert AppLinkSettings to kotlin <br />
-  <sub>[#164391](https://github.com/flutter/flutter/pull/164391) opened on on February 28, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/164391) 300 additions and 173 deletions in 33 files</sub><br />
+  <sub>[#164391](https://github.com/flutter/flutter/pull/164391) opened on on February 28, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/164391) 293 additions and 180 deletions in 33 files</sub><br />
 
 * **[Giacomo Pignoni](https://github.com/GiacomoPignoni)** &mdash; [Web] fix Image fit when using ImgElementPlatformView<br />
   <sub>[#164400](https://github.com/flutter/flutter/pull/164400) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164400) 38 additions and 3 deletions in 2 files</sub><br />
