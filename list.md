@@ -132,7 +132,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Clip layers reduce rrects and paths to simpler shapes when possible
-  <sub>[#164693](https://github.com/flutter/flutter/pull/164693) merged on March 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164693) over 20 hours, 221 additions and 52 deletions in 5 files</sub>
+  <sub>[#164693](https://github.com/flutter/flutter/pull/164693) merged on March 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164693) over 20 hours, 221 additions and 52 deletions in 5 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Web] Improve onboarding docs
