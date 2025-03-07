@@ -1405,7 +1405,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-16 commits.
+18 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add new design for previous and next page buttons
   <sub>[#11770](https://github.com/flutter/website/pull/11770) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11770) over 1 hour, 76 additions and 68 deletions in 4 files</sub>
@@ -1428,6 +1428,10 @@
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Close And Menu Toggle
   <sub>[#11760](https://github.com/flutter/website/pull/11760) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11760) over 2 days, 22 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraints for stable 3.7
+  <sub>[#11786](https://github.com/flutter/website/pull/11786) merged on March 7, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11786) over 15 hours, 154 additions and 154 deletions in 153 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove CupertinoSegmentedControl from the widget catalog
   <sub>[#11787](https://github.com/flutter/website/pull/11787) merged on March 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11787) over 43 minutes, 0 additions and 10 deletions in 1 file</sub>
@@ -1455,6 +1459,10 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update set-up-app-links.md
   <sub>[#11761](https://github.com/flutter/website/pull/11761) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11761) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Flutter Layout Overview > Add balanced support for Material and Cupertino libraries.
+  <sub>[#11785](https://github.com/flutter/website/pull/11785) merged on March 7, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11785) over 16 hours, 214 additions and 115 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Navigate to a new screen and back (add stronger iOS support)
