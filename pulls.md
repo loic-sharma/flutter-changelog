@@ -188,11 +188,11 @@
 * **[icnahom](https://github.com/icnahom)** &mdash; Fix typo in carousel.dart<br />
   <sub>[#164727](https://github.com/flutter/flutter/pull/164727) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164727) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] assorted Vk Fixes.<br />
+  <sub>[#164744](https://github.com/flutter/flutter/pull/164744) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164744) 62 additions and 17 deletions in 3 files</sub><br />
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dynamic Threading<br />
   <sub>[#164748](https://github.com/flutter/flutter/pull/164748) opened on on March 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/164748) 208 additions and 309 deletions in 16 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont redundantly set stencil reference on vulkan backend.<br />
-  <sub>[#164763](https://github.com/flutter/flutter/pull/164763) opened on on March 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164763) 60 additions and 0 deletions in 5 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view theme<br />
   <sub>[#164769](https://github.com/flutter/flutter/pull/164769) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164769) 284 additions and 3 deletions in 6 files</sub><br />
@@ -204,5 +204,5 @@
   <sub>[#164795](https://github.com/flutter/flutter/pull/164795) opened on on March 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164795) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; content-aware-hash experiment update<br />
-  <sub>[#164803](https://github.com/flutter/flutter/pull/164803) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164803) 7 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#164803](https://github.com/flutter/flutter/pull/164803) opened on on March 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164803) 7 additions and 2 deletions in 1 file</sub><br />
 

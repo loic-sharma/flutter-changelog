@@ -1210,7 +1210,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-12 commits.
+14 commits.
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_android] Platform view support<br />
   <sub>[#8466](https://github.com/flutter/packages/pull/8466) merged on March 4, 2025 &mdash; **Extra large:** [94 comments](https://github.com/flutter/packages/pull/8466) over 1 month, 2291 additions and 708 deletions in 44 files</sub><br />
@@ -1227,6 +1227,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes crash with nil `WKFrameInfo.request`<br />
   <sub>[#8766](https://github.com/flutter/packages/pull/8766) merged on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8766) over 3 days, 73 additions and 21 deletions in 8 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Veronika Laskova](https://github.com/veronikalaskova)** &mdash; [google_maps_flutter_web] set icon anchor for markers <br />
+  <sub>[#8077](https://github.com/flutter/packages/pull/8077) merged on March 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/8077) over 3 months, 61 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; [go_router_builder]: Fix `The argument type 'String?' can't be assigned to the parameter type 'String' because 'String?' ` on path and query params<br />
   <sub>[#8737](https://github.com/flutter/packages/pull/8737) merged on March 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8737) over 4 days, 17 additions and 11 deletions in 10 files</sub><br />
@@ -1259,6 +1263,10 @@
 * **[Neil Self](https://github.com/neilself)** &mdash; [google_sign_in] Add Android account name field as optional (platform interface changes)<br />
   <sub>[#8735](https://github.com/flutter/packages/pull/8735) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8735) over 3 days, 10 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 68415ad1d920 to 09de023485e9 (1139 revisions)<br />
+  <sub>[#8813](https://github.com/flutter/packages/pull/8813) merged on March 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8813) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### February 22, 2025 to February 28, 2025
 
