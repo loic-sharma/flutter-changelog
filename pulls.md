@@ -209,3 +209,6 @@
 * **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Make the barrier panel on the Material Drawer non-dismissible<br />
   <sub>[#164810](https://github.com/flutter/flutter/pull/164810) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164810) 165 additions and 1 deletion in 4 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Adds leadingDistribution to equality checker in StrutStyle<br />
+  <sub>[#164813](https://github.com/flutter/flutter/pull/164813) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164813) 20 additions and 1 deletion in 2 files</sub><br />
+
