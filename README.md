@@ -1389,7 +1389,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-15 commits.
+16 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add new design for previous and next page buttons<br />
   <sub>[#11770](https://github.com/flutter/website/pull/11770) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11770) over 1 hour, 76 additions and 68 deletions in 4 files</sub><br />
@@ -1411,6 +1411,10 @@
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Close And Menu Toggle<br />
   <sub>[#11760](https://github.com/flutter/website/pull/11760) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11760) over 2 days, 22 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove CupertinoSegmentedControl from the widget catalog<br />
+  <sub>[#11787](https://github.com/flutter/website/pull/11787) merged on March 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11787) over 43 minutes, 0 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/team-infra`.<br />
