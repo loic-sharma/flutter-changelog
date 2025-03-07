@@ -1178,7 +1178,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-11 commits.
+12 commits.
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_android] Platform view support<br />
   <sub>[#8466](https://github.com/flutter/packages/pull/8466) merged on March 4, 2025 &mdash; **Extra large:** [94 comments](https://github.com/flutter/packages/pull/8466) over 1 month, 2291 additions and 708 deletions in 44 files</sub><br />
@@ -1199,6 +1199,10 @@
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; [go_router_builder]: Fix `The argument type 'String?' can't be assigned to the parameter type 'String' because 'String?' ` on path and query params<br />
   <sub>[#8737](https://github.com/flutter/packages/pull/8737) merged on March 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8737) over 4 days, 17 additions and 11 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Karibash](https://github.com/Karibash), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update PR template for clarity<br />
+  <sub>[#8777](https://github.com/flutter/packages/pull/8777) merged on March 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8777) over 2 days, 8 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Neil Self](https://github.com/neilself)** &mdash; [google_sign_in] Add Android account name field as optional (implementation package changes)<br />
   <sub>[#8805](https://github.com/flutter/packages/pull/8805) merged on March 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8805) over 20 hours, 167 additions and 16 deletions in 20 files</sub><br />
