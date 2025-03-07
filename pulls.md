@@ -57,7 +57,7 @@
   <sub>[#163654](https://github.com/flutter/flutter/pull/163654) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163654) 48 additions and 22 deletions in 3 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft][not ready for review yet][web][a11y]Delete _childContainerElement<br />
-  <sub>[#163662](https://github.com/flutter/flutter/pull/163662) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163662) 47 additions and 71 deletions in 1 file</sub><br />
+  <sub>[#163662](https://github.com/flutter/flutter/pull/163662) opened on on February 19, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/163662) 71 additions and 331 deletions in 2 files</sub><br />
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163690) 33 additions and 3 deletions in 2 files</sub><br />
