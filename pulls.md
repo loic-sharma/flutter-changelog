@@ -200,3 +200,6 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Add styling parameters in `PopupMenuDivider`<br />
   <sub>[#164790](https://github.com/flutter/flutter/pull/164790) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164790) 190 additions and 2 deletions in 2 files</sub><br />
 
+* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Prefer using non nullable opacityAnimation property<br />
+  <sub>[#164795](https://github.com/flutter/flutter/pull/164795) opened on on March 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164795) 4 additions and 4 deletions in 1 file</sub><br />
+
