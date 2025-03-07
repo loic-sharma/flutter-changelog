@@ -197,6 +197,3 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view theme<br />
   <sub>[#164769](https://github.com/flutter/flutter/pull/164769) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164769) 284 additions and 3 deletions in 6 files</sub><br />
 
-* **[weasdown](https://github.com/weasdown)** &mdash; Preliminary fix for `ImageProvider` docs example<br />
-  <sub>[#164787](https://github.com/flutter/flutter/pull/164787) opened on on March 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164787) 14 additions and 24 deletions in 1 file</sub><br />
-
