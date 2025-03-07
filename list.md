@@ -1409,7 +1409,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-18 commits.
+19 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add new design for previous and next page buttons
   <sub>[#11770](https://github.com/flutter/website/pull/11770) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11770) over 1 hour, 76 additions and 68 deletions in 4 files</sub>
@@ -1420,6 +1420,10 @@
   <sub>[#11766](https://github.com/flutter/website/pull/11766) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11766) over 17 hours, 3 additions and 20 deletions in 2 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/d9827ad2-5311-483a-9afb-907b2e0d05f4)</details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Create a reference for creating a new, empty app
+  <sub>[#11777](https://github.com/flutter/website/pull/11777) merged on March 7, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11777) over 2 days, 523 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Update DevTools release notes for cherry pick release 2.42.3
   <sub>[#11721](https://github.com/flutter/website/pull/11721) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11721) over 2 weeks, 18 additions and 13 deletions in 6 files</sub>
