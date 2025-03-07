@@ -188,9 +188,6 @@
 * **[icnahom](https://github.com/icnahom)** &mdash; Fix typo in carousel.dart<br />
   <sub>[#164727](https://github.com/flutter/flutter/pull/164727) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164727) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] assorted Vk Fixes.<br />
-  <sub>[#164744](https://github.com/flutter/flutter/pull/164744) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164744) 62 additions and 17 deletions in 3 files</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dynamic Threading<br />
   <sub>[#164748](https://github.com/flutter/flutter/pull/164748) opened on on March 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/164748) 208 additions and 309 deletions in 16 files</sub><br />
 
