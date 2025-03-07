@@ -1441,7 +1441,12 @@
 
 ### March 1, 2025 to March 7, 2025
 
-19 commits.
+20 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix spacing in Apple platform table
+  <sub>[#11791](https://github.com/flutter/website/pull/11791) merged on March 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11791) over 53 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+  <sub><details><summary>1 image...</summary>![Screenshot 2025-03-07 at 1 54 03 PM](https://github.com/user-attachments/assets/12a34662-d825-48a1-baca-4674ce70aaf6)</details></sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add new design for previous and next page buttons
   <sub>[#11770](https://github.com/flutter/website/pull/11770) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11770) over 1 hour, 76 additions and 68 deletions in 4 files</sub>
