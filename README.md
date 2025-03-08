@@ -1242,7 +1242,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-14 commits.
+15 commits.
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_android] Platform view support<br />
   <sub>[#8466](https://github.com/flutter/packages/pull/8466) merged on March 4, 2025 &mdash; **Extra large:** [94 comments](https://github.com/flutter/packages/pull/8466) over 1 month, 2291 additions and 708 deletions in 44 files</sub><br />
@@ -1255,6 +1255,10 @@
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; [rfw] Make widget builders work with loops<br />
   <sub>[#8650](https://github.com/flutter/packages/pull/8650) merged on March 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8650) over 2 weeks, 55 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Neil Self](https://github.com/neilself)** &mdash; [google_sign_in] Add Android account name field as optional<br />
+  <sub>[#8573](https://github.com/flutter/packages/pull/8573) merged on March 8, 2025 &mdash; **Small:** [39 comments](https://github.com/flutter/packages/pull/8573) over 4 weeks, 32 additions and 8 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes crash with nil `WKFrameInfo.request`<br />
   <sub>[#8766](https://github.com/flutter/packages/pull/8766) merged on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8766) over 3 days, 73 additions and 21 deletions in 8 files</sub><br />
