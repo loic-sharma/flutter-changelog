@@ -158,9 +158,6 @@
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix(Switch.adaptive): activeColor is not working.<br />
   <sub>[#164620](https://github.com/flutter/flutter/pull/164620) opened on on March 5, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164620) 292 additions and 20 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and link to `Infra-Triage.md`.<br />
-  <sub>[#164673](https://github.com/flutter/flutter/pull/164673) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164673) 170 additions and 5 deletions in 2 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: DelegateTransition for cupertino sheet route<br />
   <sub>[#164675](https://github.com/flutter/flutter/pull/164675) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164675) 5 additions and 2 deletions in 2 files</sub><br />
 
