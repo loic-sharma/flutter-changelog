@@ -206,3 +206,6 @@
 * **[yakagami](https://github.com/yakagami)** &mdash; Clarify performacne of SingleTickerProviderStateMixin vs TickerProviderStateMixin<br />
   <sub>[#164870](https://github.com/flutter/flutter/pull/164870) opened on on March 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164870) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[ruchithavemula](https://github.com/ruchithavemula)** &mdash; Added ISSUE_TEMPLATE.md for feature request<br />
+  <sub>[#164875](https://github.com/flutter/flutter/pull/164875) opened on on March 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164875) 17 additions and 0 deletions in 1 file</sub><br />
+
