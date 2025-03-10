@@ -465,21 +465,21 @@
   <sub>[#163348](https://github.com/flutter/flutter/pull/163348) merged on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) over 1 week, 40 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools
+  <sub>[#163890](https://github.com/flutter/flutter/pull/163890) merged on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163890) over 4 days, 12 additions and 2 deletions in 6 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] switch iOS to slimpeller variant.
   <sub>[#163808](https://github.com/flutter/flutter/pull/163808) merged on February 24, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/163808) over 3 days, 126 additions and 398 deletions in 25 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix and test an edge case in `findPackageConfigFile`.
-  <sub>[#163902](https://github.com/flutter/flutter/pull/163902) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163902) over 3 days, 50 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Prepare FlutterKeyboardManager for multi-view
   <sub>[#163962](https://github.com/flutter/flutter/pull/163962) merged on February 28, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/163962) over 5 days, 439 additions and 363 deletions in 14 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools
-  <sub>[#163890](https://github.com/flutter/flutter/pull/163890) merged on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163890) over 4 days, 12 additions and 2 deletions in 6 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix and test an edge case in `findPackageConfigFile`.
+  <sub>[#163902](https://github.com/flutter/flutter/pull/163902) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163902) over 3 days, 50 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub>
 
 * **[pathconnected](https://github.com/pathconnected)** &mdash; Set SliverResizingHeader's maxScrollObstructionExtent to minExtent
   <sub>[#162955](https://github.com/flutter/flutter/pull/162955) merged on February 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162955) over 2 weeks, 54 additions and 1 deletion in 2 files</sub>
