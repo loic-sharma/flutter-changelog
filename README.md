@@ -444,6 +444,10 @@
   <sub>[#161731](https://github.com/flutter/flutter/pull/161731) merged on February 28, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/161731) over 1 month, 254 additions and 11 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools<br />
+  <sub>[#163890](https://github.com/flutter/flutter/pull/163890) merged on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163890) over 4 days, 12 additions and 2 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Wire view focus event and focus request<br />
   <sub>[#163930](https://github.com/flutter/flutter/pull/163930) merged on February 25, 2025 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/163930) over 3 days, 716 additions and 1 deletion in 38 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
@@ -465,14 +469,6 @@
   <sub>[#163348](https://github.com/flutter/flutter/pull/163348) merged on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) over 1 week, 40 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools<br />
-  <sub>[#163890](https://github.com/flutter/flutter/pull/163890) merged on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163890) over 4 days, 12 additions and 2 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] switch iOS to slimpeller variant.<br />
-  <sub>[#163808](https://github.com/flutter/flutter/pull/163808) merged on February 24, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/163808) over 3 days, 126 additions and 398 deletions in 25 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Prepare FlutterKeyboardManager for multi-view<br />
   <sub>[#163962](https://github.com/flutter/flutter/pull/163962) merged on February 28, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/163962) over 5 days, 439 additions and 363 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
@@ -480,6 +476,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix and test an edge case in `findPackageConfigFile`.<br />
   <sub>[#163902](https://github.com/flutter/flutter/pull/163902) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163902) over 3 days, 50 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] switch iOS to slimpeller variant.<br />
+  <sub>[#163808](https://github.com/flutter/flutter/pull/163808) merged on February 24, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/163808) over 3 days, 126 additions and 398 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[pathconnected](https://github.com/pathconnected)** &mdash; Set SliverResizingHeader's maxScrollObstructionExtent to minExtent<br />
   <sub>[#162955](https://github.com/flutter/flutter/pull/162955) merged on February 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162955) over 2 weeks, 54 additions and 1 deletion in 2 files</sub><br />
