@@ -4,7 +4,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-8 commits.
+9 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub>
@@ -17,6 +17,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [macOS] Enable Impeller by default on macOS.
   <sub>[#164572](https://github.com/flutter/flutter/pull/164572) merged on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164572) over 5 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fixes to YUV imports on Android, Incomplete read of pipeline cache data, missing enabled extensions.
+  <sub>[#164744](https://github.com/flutter/flutter/pull/164744) merged on March 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/164744) over 4 days, 221 additions and 32 deletions in 10 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[mariamhas](https://github.com/mariamhas)** &mdash; Create 10_google3_bug.yml
   <sub>[#163788](https://github.com/flutter/flutter/pull/163788) merged on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163788) over 2 weeks, 137 additions and 0 deletions in 1 file</sub>
