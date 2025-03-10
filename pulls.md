@@ -165,7 +165,7 @@
   <sub>[#164694](https://github.com/flutter/flutter/pull/164694) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164694) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add hintMaxLines in InputDecorationTheme<br />
-  <sub>[#164695](https://github.com/flutter/flutter/pull/164695) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164695) 40 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#164695](https://github.com/flutter/flutter/pull/164695) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164695) 40 additions and 1 deletion in 2 files</sub><br />
 
 * **[Bobek Bobekos](https://github.com/bobekos)** &mdash; [CP][Stable] Fix race condition causing crash when interacting with an animating scrollable<br />
   <sub>[#164708](https://github.com/flutter/flutter/pull/164708) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164708) 57 additions and 1 deletion in 2 files</sub><br />
