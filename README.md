@@ -922,9 +922,18 @@
 
 ## flutter/packages
 
+### March 8, 2025 to March 14, 2025
+
+1 commits.
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 2<br />
+  <sub>[#8796](https://github.com/flutter/packages/pull/8796) merged on March 10, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/8796) over 4 days, 784 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 ### March 1, 2025 to March 7, 2025
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_android] Platform view support<br />
   <sub>[#8466](https://github.com/flutter/packages/pull/8466) merged on March 4, 2025 &mdash; **Extra large:** [94 comments](https://github.com/flutter/packages/pull/8466) over 1 month, 2291 additions and 708 deletions in 44 files</sub><br />
@@ -985,6 +994,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 68415ad1d920 to 09de023485e9 (1139 revisions)<br />
   <sub>[#8813](https://github.com/flutter/packages/pull/8813) merged on March 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8813) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### February 22, 2025 to February 28, 2025
 
