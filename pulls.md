@@ -173,9 +173,6 @@
 * **[icnahom](https://github.com/icnahom)** &mdash; Fix typo in carousel.dart<br />
   <sub>[#164727](https://github.com/flutter/flutter/pull/164727) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164727) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [a11y] fixes overlayPortals not showing VoiceControl labels<br />
-  <sub>[#164754](https://github.com/flutter/flutter/pull/164754) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164754) 55 additions and 2 deletions in 2 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view theme<br />
   <sub>[#164769](https://github.com/flutter/flutter/pull/164769) opened on on March 7, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/164769) 442 additions and 9 deletions in 6 files</sub><br />
 
