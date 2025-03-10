@@ -191,14 +191,8 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds leadingDistribution to equality checker in StrutStyle<br />
   <sub>[#164813](https://github.com/flutter/flutter/pull/164813) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164813) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] support for VK_EXT_blend_operation_advanced (coherent only).<br />
-  <sub>[#164852](https://github.com/flutter/flutter/pull/164852) opened on on March 8, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164852) 323 additions and 52 deletions in 14 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Menu anchor respect alignment offset for right<br />
   <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164858) 53 additions and 6 deletions in 2 files</sub><br />
-
-* **[yakagami](https://github.com/yakagami)** &mdash; Clarify performacne of SingleTickerProviderStateMixin vs TickerProviderStateMixin<br />
-  <sub>[#164870](https://github.com/flutter/flutter/pull/164870) opened on on March 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164870) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[ruchithavemula](https://github.com/ruchithavemula)** &mdash; Added ISSUE_TEMPLATE.md for feature request<br />
   <sub>[#164875](https://github.com/flutter/flutter/pull/164875) opened on on March 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164875) 17 additions and 0 deletions in 1 file</sub><br />
