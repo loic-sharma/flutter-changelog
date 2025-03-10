@@ -95,6 +95,9 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add flag to disable automatic device reboot for DeviceLab tests<br />
   <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Replace deprecated openURL API call<br />
+  <sub>[#164247](https://github.com/flutter/flutter/pull/164247) opened on on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164247) 3 additions and 1 deletion in 1 file</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add momentary varient of CupertinoSlidingSegmentedControl<br />
   <sub>[#164262](https://github.com/flutter/flutter/pull/164262) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164262) 53 additions and 2 deletions in 2 files</sub><br />
 
@@ -147,7 +150,7 @@
   <sub>[#164542](https://github.com/flutter/flutter/pull/164542) opened on on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164542) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update build.gradle files with the latest generate lockfiles output<br />
-  <sub>[#164553](https://github.com/flutter/flutter/pull/164553) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164553) 157 additions and 122 deletions in 24 files</sub><br />
+  <sub>[#164553](https://github.com/flutter/flutter/pull/164553) opened on on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164553) 157 additions and 122 deletions in 24 files</sub><br />
 
 * **[Darien Romero Leiva](https://github.com/DarienRomero)** &mdash; Add documentation for the secondary button<br />
   <sub>[#164555](https://github.com/flutter/flutter/pull/164555) opened on on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164555) 3 additions and 0 deletions in 1 file</sub><br />
@@ -190,6 +193,9 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds leadingDistribution to equality checker in StrutStyle<br />
   <sub>[#164813](https://github.com/flutter/flutter/pull/164813) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164813) 20 additions and 1 deletion in 2 files</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] RSuperellipse.contains that reuses C++ implementation<br />
+  <sub>[#164857](https://github.com/flutter/flutter/pull/164857) opened on on March 9, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/164857) 582 additions and 183 deletions in 12 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Menu anchor respect alignment offset for right<br />
   <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164858) 53 additions and 6 deletions in 2 files</sub><br />
