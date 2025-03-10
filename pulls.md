@@ -218,3 +218,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Consolidate GTK mocks<br />
   <sub>[#164890](https://github.com/flutter/flutter/pull/164890) opened on on March 10, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164890) 364 additions and 455 deletions in 14 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] Add Canvas.drawDRSuperllipse<br />
+  <sub>[#164891](https://github.com/flutter/flutter/pull/164891) opened on on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164891) 223 additions and 21 deletions in 32 files</sub><br />
+
