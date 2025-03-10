@@ -215,9 +215,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Roll dependencies<br />
   <sub>[#164932](https://github.com/flutter/flutter/pull/164932) opened on on March 10, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164932) 166 additions and 166 deletions in 69 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; increase Linux tool_integration_tests* subsharding<br />
-  <sub>[#164935](https://github.com/flutter/flutter/pull/164935) opened on on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164935) 47 additions and 12 deletions in 1 file</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] handle failure of allocation of surface for toImage/toImageSync<br />
   <sub>[#164938](https://github.com/flutter/flutter/pull/164938) opened on on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164938) 20 additions and 1 deletion in 4 files</sub><br />
 
