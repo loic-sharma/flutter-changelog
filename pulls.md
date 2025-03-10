@@ -209,6 +209,9 @@
 * **[chrystoffer](https://github.com/chrystoffer)** &mdash; Add emptyBuilder to ListView<br />
   <sub>[#164883](https://github.com/flutter/flutter/pull/164883) opened on on March 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164883) 60 additions and 0 deletions in 2 files</sub><br />
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Cancel animation when recieved `UIKeyboardWillHideNotification`<br />
+  <sub>[#164884](https://github.com/flutter/flutter/pull/164884) opened on on March 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164884) 76 additions and 1 deletion in 2 files</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Localization for non zero time in 24 hours format<br />
   <sub>[#164885](https://github.com/flutter/flutter/pull/164885) opened on on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164885) 43 additions and 1 deletion in 2 files</sub><br />
 
