@@ -218,9 +218,6 @@
 * **[yakagami](https://github.com/yakagami)** &mdash; add minTaps argument to BaseTapAndDragGestureRecognizer and TapAndPanGestureRecognizer<br />
   <sub>[#164922](https://github.com/flutter/flutter/pull/164922) opened on on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164922) 157 additions and 8 deletions in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; adds status and alert roles<br />
-  <sub>[#164925](https://github.com/flutter/flutter/pull/164925) opened on on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164925) 160 additions and 0 deletions in 11 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Roll dependencies<br />
   <sub>[#164932](https://github.com/flutter/flutter/pull/164932) opened on on March 10, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164932) 166 additions and 166 deletions in 69 files</sub><br />
 
