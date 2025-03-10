@@ -191,9 +191,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds leadingDistribution to equality checker in StrutStyle<br />
   <sub>[#164813](https://github.com/flutter/flutter/pull/164813) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164813) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] RSuperellipse.contains that reuses C++ implementation<br />
-  <sub>[#164857](https://github.com/flutter/flutter/pull/164857) opened on on March 9, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/164857) 582 additions and 183 deletions in 12 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Menu anchor respect alignment offset for right<br />
   <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164858) 53 additions and 6 deletions in 2 files</sub><br />
 
@@ -220,4 +217,7 @@
 
 * **[yakagami](https://github.com/yakagami)** &mdash; add minTaps argument to BaseTapAndDragGestureRecognizer and TapAndPanGestureRecognizer<br />
   <sub>[#164922](https://github.com/flutter/flutter/pull/164922) opened on on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164922) 157 additions and 8 deletions in 2 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Issues/162286<br />
+  <sub>[#164925](https://github.com/flutter/flutter/pull/164925) opened on on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164925) 50 additions and 0 deletions in 5 files</sub><br />
 

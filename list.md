@@ -4,7 +4,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-3 commits.
+4 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [macOS] Enable Impeller by default on macOS.
   <sub>[#164572](https://github.com/flutter/flutter/pull/164572) merged on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164572) over 5 days, 1 addition and 1 deletion in 1 file</sub>
@@ -12,6 +12,10 @@
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from f17d37ee0ac6 to 4ac86f17f2d4 (1 revision)
   <sub>[#164893](https://github.com/flutter/flutter/pull/164893) merged on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164893) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 4ac86f17f2d4 to 95d0fb365d73 (3 revisions)
+  <sub>[#164917](https://github.com/flutter/flutter/pull/164917) merged on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164917) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 0f53870c7449 to f17d37ee0ac6 (1 revision)
