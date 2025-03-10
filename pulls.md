@@ -134,9 +134,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update sheet route bottom padding with top padding<br />
   <sub>[#164473](https://github.com/flutter/flutter/pull/164473) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164473) 102 additions and 6 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigationBar indicator overlay color<br />
-  <sub>[#164484](https://github.com/flutter/flutter/pull/164484) opened on on March 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164484) 35 additions and 52 deletions in 7 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix Android SystemUiOverlayStyle issue when showing CupertinoSheet<br />
   <sub>[#164511](https://github.com/flutter/flutter/pull/164511) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164511) 64 additions and 1 deletion in 2 files</sub><br />
 
