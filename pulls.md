@@ -218,3 +218,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Issues/162286<br />
   <sub>[#164925](https://github.com/flutter/flutter/pull/164925) opened on on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164925) 50 additions and 0 deletions in 5 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Roll dependencies<br />
+  <sub>[#164932](https://github.com/flutter/flutter/pull/164932) opened on on March 10, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164932) 166 additions and 166 deletions in 69 files</sub><br />
+
