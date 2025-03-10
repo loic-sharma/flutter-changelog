@@ -147,7 +147,7 @@
   <sub>[#164542](https://github.com/flutter/flutter/pull/164542) opened on on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164542) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update build.gradle files with the latest generate lockfiles output<br />
-  <sub>[#164553](https://github.com/flutter/flutter/pull/164553) opened on on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164553) 157 additions and 122 deletions in 24 files</sub><br />
+  <sub>[#164553](https://github.com/flutter/flutter/pull/164553) opened on on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164553) 157 additions and 122 deletions in 24 files</sub><br />
 
 * **[Darien Romero Leiva](https://github.com/DarienRomero)** &mdash; Add documentation for the secondary button<br />
   <sub>[#164555](https://github.com/flutter/flutter/pull/164555) opened on on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164555) 3 additions and 0 deletions in 1 file</sub><br />

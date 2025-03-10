@@ -4,7 +4,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-11 commits.
+12 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub>
@@ -13,6 +13,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dynamic Threading
   <sub>[#164748](https://github.com/flutter/flutter/pull/164748) merged on March 10, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/164748) over 3 days, 205 additions and 309 deletions in 16 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] OpenGL MSAA for desktop/web devices.
+  <sub>[#163939](https://github.com/flutter/flutter/pull/163939) merged on March 10, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/163939) over 2 weeks, 111 additions and 26 deletions in 5 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [macOS] Enable Impeller by default on macOS.
   <sub>[#164572](https://github.com/flutter/flutter/pull/164572) merged on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164572) over 5 days, 1 addition and 1 deletion in 1 file</sub>
