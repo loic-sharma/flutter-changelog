@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 8, 2025 to March 14, 2025
+
+1 commits.
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 0f53870c7449 to f17d37ee0ac6 (1 revision)
+  <sub>[#164887](https://github.com/flutter/flutter/pull/164887) merged on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164887) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 ### March 1, 2025 to March 7, 2025
 
-89 commits.
+<details>
+<summary>89 commits...</summary>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: make the text input plugin use the correct view on the Windows platform
   <sub>[#163847](https://github.com/flutter/flutter/pull/163847) merged on March 4, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163847) over 1 week, 202 additions and 23 deletions in 5 files</sub>
@@ -363,6 +372,8 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Skip Xcode install on mac_mokey Android tests (#163685)"
   <sub>[#164581](https://github.com/flutter/flutter/pull/164581) merged on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164581) over 55 minutes, 0 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Camille Simon](https://github.com/camsim99)</sub>
+
+</details>
 
 ### February 22, 2025 to February 28, 2025
 
