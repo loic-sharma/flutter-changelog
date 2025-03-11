@@ -218,3 +218,6 @@
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#164982](https://github.com/flutter/flutter/pull/164982) opened on on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164982) 99 additions and 3 deletions in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; in `et`, support building the Dart SDK with dynamic module support<br />
+  <sub>[#165003](https://github.com/flutter/flutter/pull/165003) opened on on March 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165003) 19 additions and 0 deletions in 1 file</sub><br />
+
