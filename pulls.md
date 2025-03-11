@@ -209,6 +209,9 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache descriptor set layouts.<br />
   <sub>[#164952](https://github.com/flutter/flutter/pull/164952) opened on on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164952) 126 additions and 152 deletions in 14 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Cupertino navigation bars transitionBetweenRoutes fidelity update<br />
+  <sub>[#164956](https://github.com/flutter/flutter/pull/164956) opened on on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164956) 56 additions and 117 deletions in 2 files</sub><br />
+
 * **[Pavan Kumar](https://github.com/whopavan)** &mdash; Fix: Focus on leading icon when null<br />
   <sub>[#164966](https://github.com/flutter/flutter/pull/164966) opened on on March 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164966) 79 additions and 1 deletion in 2 files</sub><br />
 
@@ -219,7 +222,7 @@
   <sub>[#164982](https://github.com/flutter/flutter/pull/164982) opened on on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164982) 99 additions and 3 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; in `et`, support building the Dart SDK with dynamic module support<br />
-  <sub>[#165003](https://github.com/flutter/flutter/pull/165003) opened on on March 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165003) 19 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#165003](https://github.com/flutter/flutter/pull/165003) opened on on March 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165003) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; in RBE doc, remove bit about `gcloud` being included in the engine source<br />
   <sub>[#165005](https://github.com/flutter/flutter/pull/165005) opened on on March 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165005) 2 additions and 9 deletions in 1 file</sub><br />
