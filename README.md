@@ -4,7 +4,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-24 commits.
+25 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation<br />
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub><br />
@@ -62,6 +62,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Windows] Make lifecycle manager updates atomic<br />
   <sub>[#164872](https://github.com/flutter/flutter/pull/164872) merged on March 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164872) over 1 day, 120 additions and 74 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae), [Harlen Batagelo](https://github.com/hbatagelo)</sub><br />
+
+* **[yakagami](https://github.com/yakagami)** &mdash; Clarify performacne of SingleTickerProviderStateMixin vs TickerProviderStateMixin<br />
+  <sub>[#164870](https://github.com/flutter/flutter/pull/164870) merged on March 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164870) over 1 day, 5 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Siva](https://github.com/a-siva)** &mdash; Roll Dart SDK from d70b123c77d4 to 2d5dfe32cf2e<br />
   <sub>[#164948](https://github.com/flutter/flutter/pull/164948) merged on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164948) over 1 hour, 12 additions and 9 deletions in 3 files</sub><br />
