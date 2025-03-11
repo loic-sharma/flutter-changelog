@@ -4,7 +4,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-21 commits.
+22 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub>
@@ -50,6 +50,10 @@
 * **[mariamhas](https://github.com/mariamhas)** &mdash; Create 10_google3_bug.yml
   <sub>[#163788](https://github.com/flutter/flutter/pull/163788) merged on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163788) over 2 weeks, 137 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [Windows] Make lifecycle manager updates atomic
+  <sub>[#164872](https://github.com/flutter/flutter/pull/164872) merged on March 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164872) over 1 day, 120 additions and 74 deletions in 7 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae), [Harlen Batagelo](https://github.com/hbatagelo)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Roll Dart SDK from d70b123c77d4 to 2d5dfe32cf2e
   <sub>[#164948](https://github.com/flutter/flutter/pull/164948) merged on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164948) over 1 hour, 12 additions and 9 deletions in 3 files</sub>
