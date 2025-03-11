@@ -215,6 +215,3 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Call reassemble with DWDS 24.3.7 and update hot reload and restart analytics<br />
   <sub>[#165006](https://github.com/flutter/flutter/pull/165006) opened on on March 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165006) 280 additions and 58 deletions in 10 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tools, web] Make sure to copy the dump-info file if dump-info is used<br />
-  <sub>[#165013](https://github.com/flutter/flutter/pull/165013) opened on on March 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165013) 12 additions and 2 deletions in 3 files</sub><br />
-
