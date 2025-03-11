@@ -45,7 +45,7 @@
   <sub>[#163409](https://github.com/flutter/flutter/pull/163409) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163409) 2 additions and 2 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Container's child state loss.<br />
-  <sub>[#163419](https://github.com/flutter/flutter/pull/163419) opened on on February 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163419) 178 additions and 83 deletions in 5 files</sub><br />
+  <sub>[#163419](https://github.com/flutter/flutter/pull/163419) opened on on February 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163419) 178 additions and 83 deletions in 5 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; docs(CHANGELOG): add v3.29 release entry<br />
   <sub>[#163538](https://github.com/flutter/flutter/pull/163538) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163538) 6 additions and 0 deletions in 1 file</sub><br />
