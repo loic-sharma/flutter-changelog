@@ -4,7 +4,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-28 commits.
+29 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub>
@@ -26,6 +26,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dynamic Threading
   <sub>[#164748](https://github.com/flutter/flutter/pull/164748) merged on March 10, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/164748) over 3 days, 205 additions and 309 deletions in 16 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switched the font atlas to discrete math for hash keys
+  <sub>[#164822](https://github.com/flutter/flutter/pull/164822) merged on March 11, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/164822) over 3 days, 340 additions and 109 deletions in 16 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(FixedExtentScrollController): Add parent class properties to the constructor.
   <sub>[#163190](https://github.com/flutter/flutter/pull/163190) merged on March 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163190) over 3 weeks, 85 additions and 1 deletion in 2 files</sub>
