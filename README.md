@@ -4,7 +4,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-12 commits.
+13 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation<br />
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub><br />
@@ -29,6 +29,10 @@
 * **[mariamhas](https://github.com/mariamhas)** &mdash; Create 10_google3_bug.yml<br />
   <sub>[#163788](https://github.com/flutter/flutter/pull/163788) merged on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163788) over 2 weeks, 137 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make LLDB check a warning instead of a failure<br />
+  <sub>[#164828](https://github.com/flutter/flutter/pull/164828) merged on March 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164828) over 3 days, 39 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; increase Linux tool_integration_tests* subsharding<br />
   <sub>[#164935](https://github.com/flutter/flutter/pull/164935) merged on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164935) over 1 hour, 47 additions and 12 deletions in 1 file</sub><br />
