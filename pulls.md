@@ -147,7 +147,7 @@
   <sub>[#164553](https://github.com/flutter/flutter/pull/164553) opened on on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164553) 157 additions and 122 deletions in 24 files</sub><br />
 
 * **[Darien Romero Leiva](https://github.com/DarienRomero)** &mdash; Add documentation for the secondary button<br />
-  <sub>[#164555](https://github.com/flutter/flutter/pull/164555) opened on on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164555) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#164555](https://github.com/flutter/flutter/pull/164555) opened on on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164555) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix(Switch.adaptive): activeColor is not working.<br />
   <sub>[#164620](https://github.com/flutter/flutter/pull/164620) opened on on March 5, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164620) 292 additions and 20 deletions in 2 files</sub><br />
