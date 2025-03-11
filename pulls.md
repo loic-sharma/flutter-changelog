@@ -200,9 +200,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Localization for non zero time in 24 hours format<br />
   <sub>[#164885](https://github.com/flutter/flutter/pull/164885) opened on on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164885) 43 additions and 1 deletion in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Consolidate GTK mocks<br />
-  <sub>[#164890](https://github.com/flutter/flutter/pull/164890) opened on on March 10, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/164890) 412 additions and 503 deletions in 15 files</sub><br />
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] Add Canvas.drawDRSuperllipse<br />
   <sub>[#164891](https://github.com/flutter/flutter/pull/164891) opened on on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164891) 223 additions and 21 deletions in 32 files</sub><br />
 
@@ -226,4 +223,7 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate Date picker from MaterialState and MaterialStateProperty<br />
   <sub>[#164972](https://github.com/flutter/flutter/pull/164972) opened on on March 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164972) 122 additions and 124 deletions in 2 files</sub><br />
+
+* **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
+  <sub>[#164982](https://github.com/flutter/flutter/pull/164982) opened on on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164982) 99 additions and 3 deletions in 2 files</sub><br />
 
