@@ -660,7 +660,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make DLOG into LOG for startup errors.
   <sub>[#164110](https://github.com/flutter/flutter/pull/164110) merged on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164110) over 12 hours, 9 additions and 9 deletions in 1 file</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Matan Lurey](https://github.com/matanlurey)</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `AndroidRenderingApi` from `common` to `shell/platform/android`
   <sub>[#163796](https://github.com/flutter/flutter/pull/163796) merged on February 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163796) over 4 days, 76 additions and 67 deletions in 14 files</sub>
@@ -738,7 +738,7 @@
   <sub>[#164038](https://github.com/flutter/flutter/pull/164038) merged on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164038) over 1 day, 27 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Enable luci_flags for faster builds
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Enable luci_flags for faster builds
   <sub>[#164069](https://github.com/flutter/flutter/pull/164069) merged on February 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164069) over 12 hours, 8 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
@@ -776,7 +776,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll .ci.yaml changes into the LUCI configuration only when the master branch is updated
   <sub>[#163897](https://github.com/flutter/flutter/pull/163897) merged on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163897) over 2 days, 3 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update dragDevices doc to include default PointerDeviceKind.trackpad
   <sub>[#163898](https://github.com/flutter/flutter/pull/163898) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163898) over 3 days, 5 additions and 4 deletions in 1 file</sub>
@@ -804,7 +804,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable text cache.
   <sub>[#163906](https://github.com/flutter/flutter/pull/163906) merged on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163906) over 2 days, 7 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Intercept error when iOS 18.4 crashes with JIT mode and give guided error
   <sub>[#164072](https://github.com/flutter/flutter/pull/164072) merged on February 26, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164072) over 1 day, 125 additions and 0 deletions in 2 files</sub>
