@@ -4,7 +4,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-20 commits.
+21 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub>
@@ -38,6 +38,10 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #163840 - CupertinoButton cursor doesn't change to clickable on desktop
   <sub>[#164196](https://github.com/flutter/flutter/pull/164196) merged on March 11, 2025 &mdash; **Small:** [52 comments](https://github.com/flutter/flutter/pull/164196) over 1 week, 90 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Tirth](https://github.com/piedcipher), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Prepare TextInputPlugin for multi-view
+  <sub>[#164014](https://github.com/flutter/flutter/pull/164014) merged on March 11, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/164014) over 2 weeks, 490 additions and 209 deletions in 10 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fixes to YUV imports on Android, Incomplete read of pipeline cache data, missing enabled extensions.
   <sub>[#164744](https://github.com/flutter/flutter/pull/164744) merged on March 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/164744) over 4 days, 221 additions and 32 deletions in 10 files</sub>
