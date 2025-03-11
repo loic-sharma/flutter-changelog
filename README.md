@@ -4,7 +4,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-25 commits.
+26 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation<br />
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dynamic Threading<br />
   <sub>[#164748](https://github.com/flutter/flutter/pull/164748) merged on March 10, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/164748) over 3 days, 205 additions and 309 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(FixedExtentScrollController): Add parent class properties to the constructor.<br />
+  <sub>[#163190](https://github.com/flutter/flutter/pull/163190) merged on March 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163190) over 3 weeks, 85 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Workaround for mismatched transform in preroll vs paint for text frames.<br />
   <sub>[#164931](https://github.com/flutter/flutter/pull/164931) merged on March 11, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/164931) over 6 hours, 89 additions and 33 deletions in 7 files</sub><br />
