@@ -24,7 +24,7 @@
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Workaround for mismatched transform in preroll vs paint for text frames.
-  <sub>[#164931](https://github.com/flutter/flutter/pull/164931) merged on March 11, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/164931) over 6 hours, 89 additions and 33 deletions in 7 files</sub>
+  <sub>[#164931](https://github.com/flutter/flutter/pull/164931) merged on March 11, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/164931) over 6 hours, 89 additions and 33 deletions in 7 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] OpenGL MSAA for desktop/web devices.
