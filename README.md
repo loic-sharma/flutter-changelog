@@ -21,7 +21,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Convert AppLinkSettings to kotlin <br />
   <sub>[#164391](https://github.com/flutter/flutter/pull/164391) merged on March 11, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/164391) over 1 week, 384 additions and 206 deletions in 40 files</sub><br />
-  <sub>Reviewed by: [ash-google](https://github.com/ash-google), [Gray Mackall](https://github.com/gmackall)</sub><br />
+  <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dynamic Threading<br />
   <sub>[#164748](https://github.com/flutter/flutter/pull/164748) merged on March 10, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/164748) over 3 days, 205 additions and 309 deletions in 16 files</sub><br />
@@ -153,7 +153,7 @@
   <sub>[#164392](https://github.com/flutter/flutter/pull/164392) merged on March 5, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/164392) over 4 days, 57 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[ash-google](https://github.com/ash-google)** &mdash; Enforce minSdk constraint for Android Flutter<br />
+* **[ash2moon](https://github.com/ash2moon)** &mdash; Enforce minSdk constraint for Android Flutter<br />
   <sub>[#164251](https://github.com/flutter/flutter/pull/164251) merged on March 5, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/164251) over 6 days, 349 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 

@@ -62,14 +62,8 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Animate fill for material app bar<br />
   <sub>[#163913](https://github.com/flutter/flutter/pull/163913) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163913) 42 additions and 1 deletion in 4 files</sub><br />
 
-* **[Dibash Poudel](https://github.com/dbspoudel)** &mdash; add assert message for BoxShape.circle and borderRadius check<br />
-  <sub>[#163917](https://github.com/flutter/flutter/pull/163917) opened on on February 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163917) 12 additions and 5 deletions in 2 files</sub><br />
-
 * **[masato](https://github.com/masal9pse)** &mdash; Add enableDrag property to CupertinoSheetRoute and showCupertinoSheet<br />
   <sub>[#163923](https://github.com/flutter/flutter/pull/163923) opened on on February 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163923) 83 additions and 6 deletions in 2 files</sub><br />
-
-* **[Dara Adedeji](https://github.com/SunkenInTime)** &mdash; docs: Clarify Transform.rotate origin interaction with alignment<br />
-  <sub>[#163934](https://github.com/flutter/flutter/pull/163934) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163934) 26 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
   <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164002) 42 additions and 3 deletions in 2 files</sub><br />
@@ -95,9 +89,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add momentary varient of CupertinoSlidingSegmentedControl<br />
   <sub>[#164262](https://github.com/flutter/flutter/pull/164262) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164262) 53 additions and 2 deletions in 2 files</sub><br />
 
-* **[René Kilczan](https://github.com/rekire)** &mdash; Keyboard type update<br />
-  <sub>[#164274](https://github.com/flutter/flutter/pull/164274) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164274) 50 additions and 1 deletion in 2 files</sub><br />
-
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker label<br />
   <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164292) 17 additions and 52 deletions in 1 file</sub><br />
 
@@ -106,9 +97,6 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update the `RefreshProgressIndicator` widget to the 2024 Material Design appearance<br />
   <sub>[#164384](https://github.com/flutter/flutter/pull/164384) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164384) 158 additions and 36 deletions in 3 files</sub><br />
-
-* **[Giacomo Pignoni](https://github.com/GiacomoPignoni)** &mdash; [Web] fix Image fit when using ImgElementPlatformView<br />
-  <sub>[#164400](https://github.com/flutter/flutter/pull/164400) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164400) 38 additions and 3 deletions in 2 files</sub><br />
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command<br />
   <sub>[#164437](https://github.com/flutter/flutter/pull/164437) opened on on March 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164437) 19 additions and 0 deletions in 3 files</sub><br />
