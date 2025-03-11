@@ -4,11 +4,15 @@
 
 ### March 8, 2025 to March 14, 2025
 
-18 commits.
+19 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) merged on March 11, 2025 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/161879) over 1 month, 411 additions and 157 deletions in 6 files</sub>
+  <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `withDurationAndBounce` to `SpringDescription`
   <sub>[#164411](https://github.com/flutter/flutter/pull/164411) merged on March 11, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/164411) over 1 week, 140 additions and 0 deletions in 2 files</sub>

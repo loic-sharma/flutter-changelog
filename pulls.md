@@ -23,9 +23,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove AlarmClock from BrowserImageDecoder<br />
   <sub>[#161481](https://github.com/flutter/flutter/pull/161481) opened on on January 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161481) 18 additions and 58 deletions in 1 file</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
-  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/161879) 411 additions and 157 deletions in 6 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162467) 184 additions and 47 deletions in 13 files</sub><br />
 
@@ -220,4 +217,7 @@
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove bringup for Linux tools_integration_tests*<br />
   <sub>[#164947](https://github.com/flutter/flutter/pull/164947) opened on on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164947) 0 additions and 7 deletions in 1 file</sub><br />
+
+* **[Pavan Kumar](https://github.com/whopavan)** &mdash; Fix: Focus on leading icon when null<br />
+  <sub>[#164966](https://github.com/flutter/flutter/pull/164966) opened on on March 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164966) 79 additions and 1 deletion in 2 files</sub><br />
 
