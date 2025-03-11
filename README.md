@@ -4,11 +4,16 @@
 
 ### March 8, 2025 to March 14, 2025
 
-16 commits.
+17 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation<br />
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `withDurationAndBounce` to `SpringDescription`<br />
+  <sub>[#164411](https://github.com/flutter/flutter/pull/164411) merged on March 11, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/164411) over 1 week, 140 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="838" alt="image" src="https://github.com/user-attachments/assets/4d0dccc7-0f97-4a13-99a4-268228b87f08" /></details></sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dynamic Threading<br />
   <sub>[#164748](https://github.com/flutter/flutter/pull/164748) merged on March 10, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/164748) over 3 days, 205 additions and 309 deletions in 16 files</sub><br />
