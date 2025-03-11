@@ -221,3 +221,6 @@
 * **[Pavan Kumar](https://github.com/whopavan)** &mdash; Fix: Focus on leading icon when null<br />
   <sub>[#164966](https://github.com/flutter/flutter/pull/164966) opened on on March 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164966) 79 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate Date picker from MaterialState and MaterialStateProperty<br />
+  <sub>[#164972](https://github.com/flutter/flutter/pull/164972) opened on on March 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164972) 122 additions and 124 deletions in 2 files</sub><br />
+
