@@ -8,14 +8,8 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/157193) 107 additions and 123 deletions in 5 files</sub><br />
 
-* **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
-  <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
-
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
-
-* **[Pranesh Pyara Shrestha](https://github.com/praneshp1org)** &mdash; Added equalWidthPerRow option to Wrap widget<br />
-  <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove AlarmClock from BrowserImageDecoder<br />
   <sub>[#161481](https://github.com/flutter/flutter/pull/161481) opened on on January 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161481) 18 additions and 58 deletions in 1 file</sub><br />
@@ -193,4 +187,7 @@
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Call reassemble with DWDS 24.3.7 and update hot reload and restart analytics<br />
   <sub>[#165006](https://github.com/flutter/flutter/pull/165006) opened on on March 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165006) 280 additions and 58 deletions in 10 files</sub><br />
+
+* **[ash2moon](https://github.com/ash2moon)** &mdash; add docs on android limitation for screen orientations<br />
+  <sub>[#165021](https://github.com/flutter/flutter/pull/165021) opened on on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165021) 13 additions and 0 deletions in 1 file</sub><br />
 
