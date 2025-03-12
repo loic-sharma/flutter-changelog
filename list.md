@@ -4,7 +4,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-36 commits.
+37 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub>
@@ -55,13 +55,13 @@
   <sub>[#164383](https://github.com/flutter/flutter/pull/164383) merged on March 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164383) over 1 week, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Vulkan memory allocator to c788c521
-  <sub>[#164825](https://github.com/flutter/flutter/pull/164825) merged on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164825) over 3 days, 9 additions and 9 deletions in 2 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Prepare TextInputPlugin for multi-view
   <sub>[#164014](https://github.com/flutter/flutter/pull/164014) merged on March 11, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/164014) over 2 weeks, 490 additions and 209 deletions in 10 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Vulkan memory allocator to c788c521
+  <sub>[#164825](https://github.com/flutter/flutter/pull/164825) merged on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164825) over 3 days, 9 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Consolidate GTK mocks
   <sub>[#164890](https://github.com/flutter/flutter/pull/164890) merged on March 11, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/164890) over 1 day, 412 additions and 503 deletions in 15 files</sub>
@@ -79,6 +79,10 @@
   <sub>[#164872](https://github.com/flutter/flutter/pull/164872) merged on March 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164872) over 1 day, 120 additions and 74 deletions in 7 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae), [Harlen Batagelo](https://github.com/hbatagelo)</sub>
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Call reassemble with DWDS 24.3.7 and update hot reload and restart analytics
+  <sub>[#165006](https://github.com/flutter/flutter/pull/165006) merged on March 12, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165006) over 20 hours, 280 additions and 58 deletions in 10 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Update Mac_mokey microbenchmarks with issue to the bringup: true in ci config for easier discovery
   <sub>[#164694](https://github.com/flutter/flutter/pull/164694) merged on March 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164694) over 6 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -91,8 +95,8 @@
   <sub>[#165013](https://github.com/flutter/flutter/pull/165013) merged on March 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165013) over 55 minutes, 12 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; in `et`, support building the Dart SDK with dynamic module support
-  <sub>[#165003](https://github.com/flutter/flutter/pull/165003) merged on March 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165003) over 2 hours, 19 additions and 0 deletions in 1 file</sub>
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; increase Linux tool_integration_tests* subsharding
+  <sub>[#164935](https://github.com/flutter/flutter/pull/164935) merged on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164935) over 1 hour, 47 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] Tighten up font fallback code
@@ -107,8 +111,8 @@
   <sub>[#164828](https://github.com/flutter/flutter/pull/164828) merged on March 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164828) over 3 days, 39 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; increase Linux tool_integration_tests* subsharding
-  <sub>[#164935](https://github.com/flutter/flutter/pull/164935) merged on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164935) over 1 hour, 47 additions and 12 deletions in 1 file</sub>
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; in `et`, support building the Dart SDK with dynamic module support
+  <sub>[#165003](https://github.com/flutter/flutter/pull/165003) merged on March 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165003) over 2 hours, 19 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Roll Dart SDK from d70b123c77d4 to 2d5dfe32cf2e
