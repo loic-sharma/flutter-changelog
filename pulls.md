@@ -153,7 +153,7 @@
   <sub>[#164813](https://github.com/flutter/flutter/pull/164813) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164813) 20 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Menu anchor respect alignment offset for right<br />
-  <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164858) 53 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164858) 49 additions and 6 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove Linux engine PR link<br />
   <sub>[#164878](https://github.com/flutter/flutter/pull/164878) opened on on March 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164878) 0 additions and 1 deletion in 1 file</sub><br />
