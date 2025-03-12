@@ -132,7 +132,7 @@
   <sub>[#165005](https://github.com/flutter/flutter/pull/165005) opened on on March 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165005) 2 additions and 9 deletions in 1 file</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add docs on android limitation for screen orientations<br />
-  <sub>[#165021](https://github.com/flutter/flutter/pull/165021) opened on on March 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165021) 14 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#165021](https://github.com/flutter/flutter/pull/165021) opened on on March 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165021) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Goddchen](https://github.com/Goddchen)** &mdash; fix(a11y): check for remaining relevant text direction properties<br />
   <sub>[#165028](https://github.com/flutter/flutter/pull/165028) opened on on March 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165028) 6 additions and 0 deletions in 1 file</sub><br />
@@ -147,5 +147,5 @@
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165084) 28 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP] Change fallback behavior for devices pre API 29 to Skia regardless of Impeller state.<br />
-  <sub>[#165090](https://github.com/flutter/flutter/pull/165090) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165090) 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#165090](https://github.com/flutter/flutter/pull/165090) opened on on March 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165090) 4 additions and 4 deletions in 1 file</sub><br />
 
