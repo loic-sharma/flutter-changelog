@@ -60,7 +60,7 @@
   <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Replace deprecated openURL API call<br />
-  <sub>[#164247](https://github.com/flutter/flutter/pull/164247) opened on on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164247) 30 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#164247](https://github.com/flutter/flutter/pull/164247) opened on on February 26, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164247) 30 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker label<br />
   <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164292) 17 additions and 52 deletions in 1 file</sub><br />
