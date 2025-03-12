@@ -56,17 +56,11 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Animate fill for material app bar<br />
   <sub>[#163913](https://github.com/flutter/flutter/pull/163913) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163913) 42 additions and 1 deletion in 4 files</sub><br />
 
-* **[masato](https://github.com/masal9pse)** &mdash; Add enableDrag property to CupertinoSheetRoute and showCupertinoSheet<br />
-  <sub>[#163923](https://github.com/flutter/flutter/pull/163923) opened on on February 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163923) 83 additions and 6 deletions in 2 files</sub><br />
-
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
   <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164002) 42 additions and 3 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix spelling in navigation bar docs<br />
-  <sub>[#164067](https://github.com/flutter/flutter/pull/164067) opened on on February 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164067) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; modify toggle mode style with DatePickerTheme<br />
-  <sub>[#164102](https://github.com/flutter/flutter/pull/164102) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164102) 85 additions and 9 deletions in 6 files</sub><br />
+  <sub>[#164067](https://github.com/flutter/flutter/pull/164067) opened on on February 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164067) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add experimental IntegrationTest.takeScreenshot<br />
   <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164171) 18 additions and 5 deletions in 2 files</sub><br />
@@ -78,13 +72,10 @@
   <sub>[#164247](https://github.com/flutter/flutter/pull/164247) opened on on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164247) 30 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker label<br />
-  <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164292) 17 additions and 52 deletions in 1 file</sub><br />
+  <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164292) 17 additions and 52 deletions in 1 file</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Handle RPCErrorKind.kConnectionDisposed<br />
   <sub>[#164299](https://github.com/flutter/flutter/pull/164299) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164299) 129 additions and 5 deletions in 7 files</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update the `RefreshProgressIndicator` widget to the 2024 Material Design appearance<br />
-  <sub>[#164384](https://github.com/flutter/flutter/pull/164384) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164384) 158 additions and 36 deletions in 3 files</sub><br />
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command<br />
   <sub>[#164437](https://github.com/flutter/flutter/pull/164437) opened on on March 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164437) 19 additions and 0 deletions in 3 files</sub><br />
@@ -106,9 +97,6 @@
 
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix(Switch.adaptive): activeColor is not working.<br />
   <sub>[#164620](https://github.com/flutter/flutter/pull/164620) opened on on March 5, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164620) 292 additions and 20 deletions in 2 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: DelegateTransition for cupertino sheet route<br />
-  <sub>[#164675](https://github.com/flutter/flutter/pull/164675) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164675) 5 additions and 2 deletions in 2 files</sub><br />
 
 * **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL<br />
   <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164720) 1 addition and 1 deletion in 1 file</sub><br />
@@ -162,7 +150,7 @@
   <sub>[#165005](https://github.com/flutter/flutter/pull/165005) opened on on March 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165005) 2 additions and 9 deletions in 1 file</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add docs on android limitation for screen orientations<br />
-  <sub>[#165021](https://github.com/flutter/flutter/pull/165021) opened on on March 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165021) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#165021](https://github.com/flutter/flutter/pull/165021) opened on on March 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165021) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Goddchen](https://github.com/Goddchen)** &mdash; fix(a11y): check for remaining relevant text direction properties<br />
   <sub>[#165028](https://github.com/flutter/flutter/pull/165028) opened on on March 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165028) 6 additions and 0 deletions in 1 file</sub><br />
