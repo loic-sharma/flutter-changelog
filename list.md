@@ -1265,15 +1265,23 @@
 
 ### March 8, 2025 to March 14, 2025
 
-6 commits.
+8 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove 'Test drive' page and references to it
   <sub>[#11790](https://github.com/flutter/website/pull/11790) merged on March 10, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11790) over 2 days, 12 additions and 323 deletions in 15 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating the jobs listings
+  <sub>[#11805](https://github.com/flutter/website/pull/11805) merged on March 12, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11805) over 2 hours, 115 additions and 414 deletions in 8 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Add a note on how to fix warning about deprecated local var
   <sub>[#11779](https://github.com/flutter/website/pull/11779) merged on March 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11779) over 6 days, 17 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Use lite-youtube web component to speed up homepage load
+  <sub>[#11806](https://github.com/flutter/website/pull/11806) merged on March 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11806) over 2 hours, 55 additions and 46 deletions in 15 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix screen reader text for cards
   <sub>[#11801](https://github.com/flutter/website/pull/11801) merged on March 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11801) over 17 hours, 35 additions and 35 deletions in 16 files</sub>
