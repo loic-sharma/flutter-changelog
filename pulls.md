@@ -147,5 +147,5 @@
   <sub>[#165090](https://github.com/flutter/flutter/pull/165090) opened on on March 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165090) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoCheckbox widget of the week video<br />
-  <sub>[#165094](https://github.com/flutter/flutter/pull/165094) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165094) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#165094](https://github.com/flutter/flutter/pull/165094) opened on on March 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165094) 2 additions and 0 deletions in 1 file</sub><br />
 
