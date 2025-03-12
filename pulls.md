@@ -140,9 +140,6 @@
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update documentation on `TextPainter` to note default color differences<br />
   <sub>[#165048](https://github.com/flutter/flutter/pull/165048) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165048) 8 additions and 2 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Change fallback behavior for devices pre API 29 to Skia regardless of Impeller state.<br />
-  <sub>[#165075](https://github.com/flutter/flutter/pull/165075) opened on on March 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165075) 6 additions and 5 deletions in 1 file</sub><br />
-
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165084) 28 additions and 1 deletion in 2 files</sub><br />
 
