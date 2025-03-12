@@ -152,7 +152,7 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove Linux engine PR link<br />
   <sub>[#164878](https://github.com/flutter/flutter/pull/164878) opened on on March 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164878) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Cancel animation when recieved `UIKeyboardWillHideNotification`<br />
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Cancel animation when recieved `UIKeyboardWillHideNotification` with duration 0.0<br />
   <sub>[#164884](https://github.com/flutter/flutter/pull/164884) opened on on March 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164884) 76 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Localization for non zero time in 24 hours format<br />
