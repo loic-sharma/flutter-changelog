@@ -188,3 +188,6 @@
 * **[Goddchen](https://github.com/Goddchen)** &mdash; fix(a11y): check for remaining relevant text direction properties<br />
   <sub>[#165028](https://github.com/flutter/flutter/pull/165028) opened on on March 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165028) 6 additions and 0 deletions in 1 file</sub><br />
 
+* **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update documentation on `TextPainter` to note default color differences<br />
+  <sub>[#165048](https://github.com/flutter/flutter/pull/165048) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165048) 8 additions and 2 deletions in 1 file</sub><br />
+
