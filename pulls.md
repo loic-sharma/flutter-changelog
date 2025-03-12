@@ -65,9 +65,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix spelling in navigation bar docs<br />
   <sub>[#164067](https://github.com/flutter/flutter/pull/164067) opened on on February 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164067) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix incorrect scaffold docs<br />
-  <sub>[#164068](https://github.com/flutter/flutter/pull/164068) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164068) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; modify toggle mode style with DatePickerTheme<br />
   <sub>[#164102](https://github.com/flutter/flutter/pull/164102) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164102) 85 additions and 9 deletions in 6 files</sub><br />
 
@@ -115,9 +112,6 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: DelegateTransition for cupertino sheet route<br />
   <sub>[#164675](https://github.com/flutter/flutter/pull/164675) opened on on March 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164675) 5 additions and 2 deletions in 2 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add hintMaxLines in InputDecorationTheme<br />
-  <sub>[#164695](https://github.com/flutter/flutter/pull/164695) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164695) 40 additions and 1 deletion in 2 files</sub><br />
 
 * **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL<br />
   <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164720) 1 addition and 1 deletion in 1 file</sub><br />
