@@ -152,3 +152,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix validation check when restoring to onscreen with BDF and mips.<br />
   <sub>[#165098](https://github.com/flutter/flutter/pull/165098) opened on on March 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165098) 47 additions and 2 deletions in 3 files</sub><br />
 
+* **[Siva](https://github.com/a-siva)** &mdash; Use AOT snapshot of kernel_worker<br />
+  <sub>[#165103](https://github.com/flutter/flutter/pull/165103) opened on on March 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165103) 4 additions and 3 deletions in 1 file</sub><br />
+
