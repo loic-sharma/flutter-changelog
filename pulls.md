@@ -50,9 +50,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Animate fill for material app bar<br />
   <sub>[#163913](https://github.com/flutter/flutter/pull/163913) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163913) 42 additions and 1 deletion in 4 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Improve comment in navigation bar docs<br />
-  <sub>[#164067](https://github.com/flutter/flutter/pull/164067) opened on on February 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164067) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add experimental IntegrationTest.takeScreenshot<br />
   <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164171) 18 additions and 5 deletions in 2 files</sub><br />
 
@@ -142,9 +139,6 @@
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165084) 29 additions and 2 deletions in 2 files</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoCheckbox widget of the week video<br />
-  <sub>[#165094](https://github.com/flutter/flutter/pull/165094) opened on on March 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165094) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[yakagami](https://github.com/yakagami)** &mdash; add PointerDeviceKind to ScaleStartDetails<br />
   <sub>[#165096](https://github.com/flutter/flutter/pull/165096) opened on on March 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165096) 98 additions and 0 deletions in 2 files</sub><br />
