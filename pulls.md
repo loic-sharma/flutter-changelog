@@ -147,5 +147,5 @@
   <sub>[#165115](https://github.com/flutter/flutter/pull/165115) opened on on March 13, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/165115) 291 additions and 81 deletions in 2 files</sub><br />
 
 * **[geronimol](https://github.com/geronimol)** &mdash; docs: update example for PaginatedDataTable<br />
-  <sub>[#165133](https://github.com/flutter/flutter/pull/165133) opened on on March 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165133) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#165133](https://github.com/flutter/flutter/pull/165133) opened on on March 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165133) 12 additions and 1 deletion in 1 file</sub><br />
 
