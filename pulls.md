@@ -140,9 +140,6 @@
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update documentation on `TextPainter` to note default color differences<br />
   <sub>[#165048](https://github.com/flutter/flutter/pull/165048) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165048) 8 additions and 2 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Pixel snap perfectly horizontal or vertical lines.<br />
-  <sub>[#165079](https://github.com/flutter/flutter/pull/165079) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165079) 96 additions and 15 deletions in 8 files</sub><br />
-
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165084) 29 additions and 2 deletions in 2 files</sub><br />
 
