@@ -149,6 +149,3 @@
 * **[yakagami](https://github.com/yakagami)** &mdash; add PointerDeviceKind to ScaleStartDetails<br />
   <sub>[#165096](https://github.com/flutter/flutter/pull/165096) opened on on March 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165096) 98 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix validation check when restoring to onscreen with BDF and mips.<br />
-  <sub>[#165098](https://github.com/flutter/flutter/pull/165098) opened on on March 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165098) 47 additions and 2 deletions in 3 files</sub><br />
-
