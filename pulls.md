@@ -141,7 +141,7 @@
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165084) 29 additions and 2 deletions in 2 files</sub><br />
 
 * **[yakagami](https://github.com/yakagami)** &mdash; add PointerDeviceKind to ScaleStartDetails<br />
-  <sub>[#165096](https://github.com/flutter/flutter/pull/165096) opened on on March 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165096) 97 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#165096](https://github.com/flutter/flutter/pull/165096) opened on on March 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165096) 99 additions and 0 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; handle multiple application product native targets in SPM migrator<br />
   <sub>[#165115](https://github.com/flutter/flutter/pull/165115) opened on on March 13, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/165115) 291 additions and 81 deletions in 2 files</sub><br />
