@@ -135,5 +135,5 @@
   <sub>[#165133](https://github.com/flutter/flutter/pull/165133) opened on on March 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165133) 12 additions and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [FGP conversion] Port `FlutterExtension` from Groovy to Kotlin<br />
-  <sub>[#165143](https://github.com/flutter/flutter/pull/165143) opened on on March 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165143) 118 additions and 71 deletions in 3 files</sub><br />
+  <sub>[#165143](https://github.com/flutter/flutter/pull/165143) opened on on March 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165143) 119 additions and 71 deletions in 3 files</sub><br />
 
