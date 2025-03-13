@@ -140,6 +140,9 @@
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update documentation on `TextPainter` to note default color differences<br />
   <sub>[#165048](https://github.com/flutter/flutter/pull/165048) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165048) 8 additions and 2 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Pixel snap perfectly horizontal or vertical lines.<br />
+  <sub>[#165079](https://github.com/flutter/flutter/pull/165079) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165079) 96 additions and 15 deletions in 8 files</sub><br />
+
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165084) 29 additions and 2 deletions in 2 files</sub><br />
 
@@ -151,4 +154,7 @@
 
 * **[yakagami](https://github.com/yakagami)** &mdash; add PointerDeviceKind to ScaleStartDetails<br />
   <sub>[#165096](https://github.com/flutter/flutter/pull/165096) opened on on March 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165096) 98 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix validation check when restoring to onscreen with BDF and mips.<br />
+  <sub>[#165098](https://github.com/flutter/flutter/pull/165098) opened on on March 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165098) 47 additions and 2 deletions in 3 files</sub><br />
 
