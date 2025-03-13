@@ -24,6 +24,10 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
   <sub><details><summary>1 image...</summary><img width="838" alt="image" src="https://github.com/user-attachments/assets/4d0dccc7-0f97-4a13-99a4-268228b87f08" /></details></sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add onHover and onFocusChange callbacks for TabBar
+  <sub>[#164816](https://github.com/flutter/flutter/pull/164816) merged on March 13, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/164816) over 5 days, 585 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dynamic Threading
   <sub>[#164748](https://github.com/flutter/flutter/pull/164748) merged on March 10, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/164748) over 3 days, 205 additions and 309 deletions in 16 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub>
@@ -35,10 +39,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switched the font atlas to discrete math for hash keys
   <sub>[#164822](https://github.com/flutter/flutter/pull/164822) merged on March 11, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/164822) over 3 days, 340 additions and 109 deletions in 16 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add onHover and onFocusChange callbacks for TabBar
-  <sub>[#164816](https://github.com/flutter/flutter/pull/164816) merged on March 13, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/164816) over 5 days, 585 additions and 0 deletions in 6 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(FixedExtentScrollController): Add parent class properties to the constructor.
   <sub>[#163190](https://github.com/flutter/flutter/pull/163190) merged on March 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163190) over 3 weeks, 85 additions and 1 deletion in 2 files</sub>
