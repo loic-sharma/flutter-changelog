@@ -146,3 +146,6 @@
 * **[Memet18](https://github.com/Memet18)** &mdash; feat: Added forceErrorText in DropdownButtonFormField #165188<br />
   <sub>[#165189](https://github.com/flutter/flutter/pull/165189) opened on on March 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165189) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Changelog updates from 3.29.2 <br />
+  <sub>[#165194](https://github.com/flutter/flutter/pull/165194) opened on on March 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165194) 11 additions and 1 deletion in 1 file</sub><br />
+
