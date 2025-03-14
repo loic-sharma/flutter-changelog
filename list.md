@@ -342,6 +342,10 @@
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
   <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/8f9b472a-e624-4eef-9cea-e81b80f32b86" width="400"/><img src="https://github.com/user-attachments/assets/ffaf62fc-a82f-4c7a-9ff1-52374f4f2a67" width="400"/><img src="https://github.com/user-attachments/assets/3dfde2b0-bcc6-492a-8d97-ecabdf97f6f0" width="400"/><img src="https://github.com/user-attachments/assets/32b2a665-a0da-498f-acdb-598553940964" width="400"/></details></sub>
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Adds animateToItem to the CarouselController
+  <sub>[#162694](https://github.com/flutter/flutter/pull/162694) merged on March 5, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/162694) over 4 weeks, 326 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix race condition causing crash when interacting with an animating scrollable
   <sub>[#164392](https://github.com/flutter/flutter/pull/164392) merged on March 5, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/164392) over 4 days, 57 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
@@ -349,10 +353,6 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; Enforce minSdk constraint for Android Flutter
   <sub>[#164251](https://github.com/flutter/flutter/pull/164251) merged on March 5, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/164251) over 6 days, 349 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Adds animateToItem to the CarouselController
-  <sub>[#162694](https://github.com/flutter/flutter/pull/162694) merged on March 5, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/162694) over 4 weeks, 326 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Implement `clipPath` Mutator for hcpp
   <sub>[#164525](https://github.com/flutter/flutter/pull/164525) merged on March 5, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/164525) over 1 day, 389 additions and 1 deletion in 4 files</sub>
