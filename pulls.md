@@ -143,3 +143,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix arrowHeadColor breaks differentiation between states<br />
   <sub>[#165178](https://github.com/flutter/flutter/pull/165178) opened on on March 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165178) 9 additions and 5 deletions in 2 files</sub><br />
 
+* **[Memet18](https://github.com/Memet18)** &mdash; feat: Added forceErrorText in DropdownButtonFormField #165188<br />
+  <sub>[#165189](https://github.com/flutter/flutter/pull/165189) opened on on March 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165189) 1 addition and 0 deletions in 1 file</sub><br />
+
