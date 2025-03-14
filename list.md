@@ -101,8 +101,8 @@
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [FGP conversion] Port `FlutterExtension` from Groovy to Kotlin
-  <sub>[#165143](https://github.com/flutter/flutter/pull/165143) merged on March 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165143) over 3 hours, 119 additions and 71 deletions in 3 files</sub>
-  <sub>Reviewed by: [ash2moon](https://github.com/ash2moon)</sub>
+  <sub>[#165143](https://github.com/flutter/flutter/pull/165143) merged on March 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165143) over 3 hours, 119 additions and 71 deletions in 3 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [ash2moon](https://github.com/ash2moon)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; adds status and alert roles
   <sub>[#164925](https://github.com/flutter/flutter/pull/164925) merged on March 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164925) over 2 days, 283 additions and 0 deletions in 12 files</sub>
