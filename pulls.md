@@ -140,3 +140,6 @@
 * **[Ke Ming Jiang](https://github.com/SilverFruity)** &mdash; Macos BUGFIX: change strong ref to weak ref<br />
   <sub>[#165177](https://github.com/flutter/flutter/pull/165177) opened on on March 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165177) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix arrowHeadColor breaks differentiation between states<br />
+  <sub>[#165178](https://github.com/flutter/flutter/pull/165178) opened on on March 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165178) 9 additions and 5 deletions in 2 files</sub><br />
+
