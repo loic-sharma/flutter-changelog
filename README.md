@@ -1222,7 +1222,7 @@
 
 ### March 8, 2025 to March 14, 2025
 
-2 commits.
+3 commits.
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 2<br />
   <sub>[#8796](https://github.com/flutter/packages/pull/8796) merged on March 10, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/8796) over 4 days, 784 additions and 0 deletions in 3 files</sub><br />
@@ -1231,6 +1231,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [video_player_android] Provide the current surface to the new ExoPlayer in TextureVideoPlayer.onSurfaceAvailable<br />
   <sub>[#8818](https://github.com/flutter/packages/pull/8818) merged on March 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8818) over 3 days, 8 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 3<br />
+  <sub>[#8853](https://github.com/flutter/packages/pull/8853) merged on March 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8853) over 1 day, 160 additions and 1 deletion in 5 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 ### March 1, 2025 to March 7, 2025
 
