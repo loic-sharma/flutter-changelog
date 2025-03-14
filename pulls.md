@@ -150,8 +150,8 @@
   <sub>[#165199](https://github.com/flutter/flutter/pull/165199) opened on on March 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165199) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Point ktlint AS docs to the `.editorconfig` that is actually used by ci, instead of making a copy in the README<br />
-  <sub>[#165213](https://github.com/flutter/flutter/pull/165213) opened on on March 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165213) 2 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#165213](https://github.com/flutter/flutter/pull/165213) opened on on March 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165213) 2 additions and 8 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS after monorepo merge<br />
-  <sub>[#165217](https://github.com/flutter/flutter/pull/165217) opened on on March 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165217) 7 additions and 14 deletions in 3 files</sub><br />
+  <sub>[#165217](https://github.com/flutter/flutter/pull/165217) opened on on March 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165217) 7 additions and 16 deletions in 4 files</sub><br />
 
