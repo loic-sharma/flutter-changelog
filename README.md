@@ -460,7 +460,7 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix macOS managed memory.<br />
-  <sub>[#164635](https://github.com/flutter/flutter/pull/164635) merged on March 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164635) over 3 hours, 27 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#164635](https://github.com/flutter/flutter/pull/164635) merged on March 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164635) over 3 hours, 27 additions and 3 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use device private on non-iOS devices.<br />
