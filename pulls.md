@@ -155,6 +155,3 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Dart package creation script to copy source files instead of creating symlinks to the source tree<br />
   <sub>[#165242](https://github.com/flutter/flutter/pull/165242) opened on on March 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165242) 4 additions and 126 deletions in 3 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete `docs/infra/Infra-Ticket-Queue.md`<br />
-  <sub>[#165258](https://github.com/flutter/flutter/pull/165258) opened on on March 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165258) 0 additions and 75 deletions in 1 file</sub><br />
-
