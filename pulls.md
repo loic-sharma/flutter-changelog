@@ -126,7 +126,7 @@
   <sub>[#165028](https://github.com/flutter/flutter/pull/165028) opened on on March 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165028) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
-  <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165084) 40 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165084) 40 additions and 2 deletions in 2 files</sub><br />
 
 * **[yakagami](https://github.com/yakagami)** &mdash; add PointerDeviceKind to ScaleStartDetails<br />
   <sub>[#165096](https://github.com/flutter/flutter/pull/165096) opened on on March 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165096) 99 additions and 0 deletions in 2 files</sub><br />
