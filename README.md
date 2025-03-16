@@ -23,6 +23,10 @@
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) merged on March 11, 2025 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/161879) over 1 month, 411 additions and 157 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add onHover and onFocusChange callbacks for TabBar<br />
+  <sub>[#164816](https://github.com/flutter/flutter/pull/164816) merged on March 13, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/164816) over 5 days, 585 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `withDurationAndBounce` to `SpringDescription`<br />
   <sub>[#164411](https://github.com/flutter/flutter/pull/164411) merged on March 11, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/164411) over 1 week, 140 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
@@ -31,10 +35,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Convert `BaseFlutterTask` From Groovy to Kotlin<br />
   <sub>[#163148](https://github.com/flutter/flutter/pull/163148) merged on March 14, 2025 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/163148) over 1 month, 993 additions and 188 deletions in 5 files</sub><br />
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add onHover and onFocusChange callbacks for TabBar<br />
-  <sub>[#164816](https://github.com/flutter/flutter/pull/164816) merged on March 13, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/164816) over 5 days, 585 additions and 0 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix validation check when restoring to onscreen with BDF and mips.<br />
   <sub>[#165098](https://github.com/flutter/flutter/pull/165098) merged on March 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165098) over 16 hours, 48 additions and 2 deletions in 3 files</sub><br />
