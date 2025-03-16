@@ -88,6 +88,10 @@
   <sub>[#162053](https://github.com/flutter/flutter/pull/162053) merged on March 13, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/162053) over 1 month, 42 additions and 39 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add remaining dart fixes for Color deprecations when importing painting.dart
+  <sub>[#162609](https://github.com/flutter/flutter/pull/162609) merged on March 14, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/162609) over 1 month, 19 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Brian Wilkerson](https://github.com/bwilkerson), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache descriptor set layouts.
   <sub>[#164952](https://github.com/flutter/flutter/pull/164952) merged on March 13, 2025 &mdash; **Medium:** [44 comments](https://github.com/flutter/flutter/pull/164952) over 2 days, 187 additions and 180 deletions in 15 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -111,10 +115,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix crash when loading shader before AiksContext is initialized.
   <sub>[#165071](https://github.com/flutter/flutter/pull/165071) merged on March 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165071) over 1 hour, 30 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add remaining dart fixes for Color deprecations when importing painting.dart
-  <sub>[#162609](https://github.com/flutter/flutter/pull/162609) merged on March 14, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/162609) over 1 month, 19 additions and 4 deletions in 4 files</sub>
-  <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Brian Wilkerson](https://github.com/bwilkerson), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [FGP conversion] Port `FlutterExtension` from Groovy to Kotlin
   <sub>[#165143](https://github.com/flutter/flutter/pull/165143) merged on March 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165143) over 3 hours, 119 additions and 71 deletions in 3 files</sub>
