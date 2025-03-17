@@ -158,3 +158,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; {Android] Fix crash on some key repeat events<br />
   <sub>[#165307](https://github.com/flutter/flutter/pull/165307) opened on on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165307) 63 additions and 1 deletion in 2 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dart version for 3.31.0<br />
+  <sub>[#165312](https://github.com/flutter/flutter/pull/165312) opened on on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165312) 2 additions and 1 deletion in 2 files</sub><br />
+
