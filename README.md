@@ -871,9 +871,18 @@
 
 ## flutter/packages
 
+### March 15, 2025 to March 21, 2025
+
+1 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds Internal options<br />
+  <sub>[#8709](https://github.com/flutter/packages/pull/8709) merged on March 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/8709) over 2 weeks, 4044 additions and 3063 deletions in 29 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### March 8, 2025 to March 14, 2025
 
-3 commits.
+<details>
+<summary>3 commits...</summary>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 2<br />
   <sub>[#8796](https://github.com/flutter/packages/pull/8796) merged on March 10, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/8796) over 4 days, 784 additions and 0 deletions in 3 files</sub><br />
@@ -886,6 +895,8 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 3<br />
   <sub>[#8853](https://github.com/flutter/packages/pull/8853) merged on March 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8853) over 1 day, 160 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+</details>
 
 ### March 1, 2025 to March 7, 2025
 
