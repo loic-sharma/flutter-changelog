@@ -149,9 +149,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Dart package creation script to copy source files instead of creating symlinks to the source tree<br />
   <sub>[#165242](https://github.com/flutter/flutter/pull/165242) opened on on March 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165242) 4 additions and 126 deletions in 3 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] tear down swapchain when backgrounding.<br />
-  <sub>[#165259](https://github.com/flutter/flutter/pull/165259) opened on on March 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165259) 8 additions and 1 deletion in 3 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add a configuration option that allows defering all PSO construction until needed.<br />
   <sub>[#165261](https://github.com/flutter/flutter/pull/165261) opened on on March 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165261) 560 additions and 335 deletions in 47 files</sub><br />
 
@@ -164,6 +161,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; {Android] Fix crash on some key repeat events<br />
   <sub>[#165307](https://github.com/flutter/flutter/pull/165307) opened on on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165307) 63 additions and 1 deletion in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dart version for 3.31.0<br />
-  <sub>[#165312](https://github.com/flutter/flutter/pull/165312) opened on on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165312) 2 additions and 1 deletion in 2 files</sub><br />
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [WIP] [web] Remove package:js in favor of dart:js_interop<br />
+  <sub>[#165324](https://github.com/flutter/flutter/pull/165324) opened on on March 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165324) 847 additions and 1681 deletions in 45 files</sub><br />
 
