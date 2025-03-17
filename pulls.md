@@ -146,9 +146,6 @@
 * **[Juergen Werner](https://github.com/pogojotz)** &mdash; Add more visual feedback to Slider with slideOnly interaction<br />
   <sub>[#165306](https://github.com/flutter/flutter/pull/165306) opened on on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165306) 2 additions and 8 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; {Android] Fix crash on some key repeat events<br />
-  <sub>[#165307](https://github.com/flutter/flutter/pull/165307) opened on on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165307) 63 additions and 1 deletion in 2 files</sub><br />
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [WIP] [web] Remove package:js in favor of dart:js_interop<br />
   <sub>[#165324](https://github.com/flutter/flutter/pull/165324) opened on on March 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165324) 845 additions and 1686 deletions in 46 files</sub><br />
 
