@@ -38,9 +38,6 @@
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [flutter_tools] Fix VS Code package.json path on macOS with case-sensitive file system<br />
   <sub>[#163409](https://github.com/flutter/flutter/pull/163409) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163409) 2 additions and 2 deletions in 3 files</sub><br />
 
-* **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; docs(CHANGELOG): add v3.29 release entry<br />
-  <sub>[#163538](https://github.com/flutter/flutter/pull/163538) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163538) 6 additions and 0 deletions in 1 file</sub><br />
-
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Add `Message.resourceId` and `locale` to all `L10nException` error messages<br />
   <sub>[#163654](https://github.com/flutter/flutter/pull/163654) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163654) 48 additions and 22 deletions in 3 files</sub><br />
 
@@ -146,9 +143,6 @@
 * **[Memet](https://github.com/Memet18)** &mdash; feat: Added forceErrorText in DropdownButtonFormField #165188<br />
   <sub>[#165189](https://github.com/flutter/flutter/pull/165189) opened on on March 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165189) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.31.0-0.1.pre<br />
-  <sub>[#165199](https://github.com/flutter/flutter/pull/165199) opened on on March 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165199) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS after monorepo merge<br />
   <sub>[#165217](https://github.com/flutter/flutter/pull/165217) opened on on March 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165217) 7 additions and 16 deletions in 4 files</sub><br />
 
@@ -157,4 +151,10 @@
 
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Juergen Werner](https://github.com/pogojotz)** &mdash; Add more visual feedback to Slider with slideOnly interaction<br />
+  <sub>[#165306](https://github.com/flutter/flutter/pull/165306) opened on on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165306) 2 additions and 8 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; {Android] Fix crash on some key repeat events<br />
+  <sub>[#165307](https://github.com/flutter/flutter/pull/165307) opened on on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165307) 63 additions and 1 deletion in 2 files</sub><br />
 
