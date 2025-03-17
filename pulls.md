@@ -29,9 +29,6 @@
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162780) 28 additions and 19 deletions in 12 files</sub><br />
 
-* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
-  <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
-
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
   <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
 
