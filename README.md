@@ -873,11 +873,23 @@
 
 ### March 15, 2025 to March 21, 2025
 
-1 commits.
+4 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds Internal options<br />
   <sub>[#8709](https://github.com/flutter/packages/pull/8709) merged on March 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/8709) over 2 weeks, 4044 additions and 3063 deletions in 29 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Lauri Niskanen](https://github.com/Ape)** &mdash; [image_picker] Fix getMedia on Linux<br />
+  <sub>[#8811](https://github.com/flutter/packages/pull/8811) merged on March 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8811) over 1 week, 7 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add a carve-out on the commenting requirement<br />
+  <sub>[#8855](https://github.com/flutter/packages/pull/8855) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8855) over 5 days, 5 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Fix unit test asserting external value<br />
+  <sub>[#8814](https://github.com/flutter/packages/pull/8814) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8814) over 1 week, 16 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### March 8, 2025 to March 14, 2025
 
