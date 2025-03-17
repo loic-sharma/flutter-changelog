@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 15, 2025 to March 21, 2025
+
+1 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete `docs/infra/Infra-Ticket-Queue.md`<br />
+  <sub>[#165258](https://github.com/flutter/flutter/pull/165258) merged on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165258) over 1 day, 0 additions and 75 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 ### March 8, 2025 to March 14, 2025
 
-99 commits.
+<details>
+<summary>99 commits...</summary>
 
 * **[Harlen Batagelo](https://github.com/hbatagelo)** &mdash; Update the mouse cursor handler to work with multi-view on Windows<br />
   <sub>[#163855](https://github.com/flutter/flutter/pull/163855) merged on March 13, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/163855) over 2 weeks, 110 additions and 205 deletions in 16 files</sub><br />
@@ -403,6 +412,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Prevent explicit roles from merging (#164732)"<br />
   <sub>[#165222](https://github.com/flutter/flutter/pull/165222) merged on March 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165222) over 4 hours, 32 additions and 264 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+</details>
 
 ### March 1, 2025 to March 7, 2025
 
