@@ -958,7 +958,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-2 commits.
+3 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add link to IMA video to sidenav
   <sub>[#11820](https://github.com/flutter/website/pull/11820) merged on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11820) over 3 days, 2 additions and 0 deletions in 1 file</sub>
@@ -967,6 +967,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Add design doc redirect for ffi-in-embedders
   <sub>[#11824](https://github.com/flutter/website/pull/11824) merged on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11824) over 1 day, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shashwat Garg](https://github.com/Shashwat-Garg)** &mdash; fixed typo
+  <sub>[#11819](https://github.com/flutter/website/pull/11819) merged on March 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11819) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 ### March 8, 2025 to March 14, 2025
 
