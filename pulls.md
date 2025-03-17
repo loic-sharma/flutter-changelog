@@ -149,6 +149,3 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Use internal conversion for opacity->alpha<br />
   <sub>[#165349](https://github.com/flutter/flutter/pull/165349) opened on on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165349) 1 addition and 2 deletions in 1 file</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Optimize recomputePositionAndSize<br />
-  <sub>[#165352](https://github.com/flutter/flutter/pull/165352) opened on on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165352) 43 additions and 27 deletions in 1 file</sub><br />
-
