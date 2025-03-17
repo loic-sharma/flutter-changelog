@@ -4,7 +4,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-7 commits.
+8 commits.
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints<br />
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) merged on March 17, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/163314) over 1 month, 421 additions and 14 deletions in 11 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete `docs/infra/Infra-Ticket-Queue.md`<br />
   <sub>[#165258](https://github.com/flutter/flutter/pull/165258) merged on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165258) over 1 day, 0 additions and 75 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from 9283d47199b7 to 725172afbc42 (1 revision)<br />
+  <sub>[#165310](https://github.com/flutter/flutter/pull/165310) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165310) over 3 hours, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 69cf4c2c5db8 to e45207898e60 (1 revision)<br />
   <sub>[#165300](https://github.com/flutter/flutter/pull/165300) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165300) over 6 hours, 1 addition and 1 deletion in 1 file</sub><br />
