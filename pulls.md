@@ -164,3 +164,9 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [WIP] [web] Remove package:js in favor of dart:js_interop<br />
   <sub>[#165324](https://github.com/flutter/flutter/pull/165324) opened on on March 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165324) 847 additions and 1681 deletions in 45 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Reland role merge<br />
+  <sub>[#165330](https://github.com/flutter/flutter/pull/165330) opened on on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165330) 265 additions and 32 deletions in 3 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `OverlayPortal.childLayoutBuilder` should rebuild when `OverlayPortal` rebuilds.<br />
+  <sub>[#165331](https://github.com/flutter/flutter/pull/165331) opened on on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165331) 48 additions and 7 deletions in 2 files</sub><br />
+
