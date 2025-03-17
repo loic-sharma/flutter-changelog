@@ -135,7 +135,7 @@
   <sub>[#165217](https://github.com/flutter/flutter/pull/165217) opened on on March 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165217) 7 additions and 16 deletions in 4 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Create a `FlutterPluginUtils.kt`, and port static methods from `FlutterPlugin` there<br />
-  <sub>[#165239](https://github.com/flutter/flutter/pull/165239) opened on on March 14, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165239) 819 additions and 288 deletions in 5 files</sub><br />
+  <sub>[#165239](https://github.com/flutter/flutter/pull/165239) opened on on March 14, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/165239) 819 additions and 288 deletions in 5 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Dart package creation script to copy source files instead of creating symlinks to the source tree<br />
   <sub>[#165242](https://github.com/flutter/flutter/pull/165242) opened on on March 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165242) 4 additions and 126 deletions in 3 files</sub><br />
@@ -153,5 +153,5 @@
   <sub>[#165324](https://github.com/flutter/flutter/pull/165324) opened on on March 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165324) 845 additions and 1686 deletions in 46 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland role merge<br />
-  <sub>[#165330](https://github.com/flutter/flutter/pull/165330) opened on on March 17, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165330) 331 additions and 46 deletions in 3 files</sub><br />
+  <sub>[#165330](https://github.com/flutter/flutter/pull/165330) opened on on March 17, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165330) 334 additions and 46 deletions in 3 files</sub><br />
 
