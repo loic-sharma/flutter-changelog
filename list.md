@@ -4,7 +4,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-34 commits.
+35 commits.
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) merged on March 17, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/163314) over 1 month, 421 additions and 14 deletions in 11 files</sub>
@@ -94,6 +94,10 @@
   <sub>[#165331](https://github.com/flutter/flutter/pull/165331) merged on March 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165331) over 5 hours, 63 additions and 16 deletions in 3 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 3931c31032c7 to 69cf4c2c5db8 (1 revision)
+  <sub>[#165288](https://github.com/flutter/flutter/pull/165288) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165288) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 8c4c06605277 to 5907e2cfe986 (3 revisions)
   <sub>[#165399](https://github.com/flutter/flutter/pull/165399) merged on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165399) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -134,9 +138,9 @@
   <sub>[#165300](https://github.com/flutter/flutter/pull/165300) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165300) over 6 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 3931c31032c7 to 69cf4c2c5db8 (1 revision)
-  <sub>[#165288](https://github.com/flutter/flutter/pull/165288) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165288) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Reland role merge
+  <sub>[#165330](https://github.com/flutter/flutter/pull/165330) merged on March 18, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165330) over 1 day, 334 additions and 46 deletions in 3 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 5907e2cfe986 to cebb097bf651 (6 revisions)
   <sub>[#165411](https://github.com/flutter/flutter/pull/165411) merged on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165411) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
