@@ -4,11 +4,15 @@
 
 ### March 15, 2025 to March 21, 2025
 
-24 commits.
+25 commits.
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) merged on March 17, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/163314) over 1 month, 421 additions and 14 deletions in 11 files</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update tests to use Xcode 16.2 and iOS 18.2 Simulator
+  <sub>[#165318](https://github.com/flutter/flutter/pull/165318) merged on March 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/165318) over 22 hours, 324 additions and 475 deletions in 112 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Create a `FlutterPluginUtils.kt`, and port static methods from `FlutterPlugin` there
   <sub>[#165239](https://github.com/flutter/flutter/pull/165239) merged on March 18, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/165239) over 3 days, 825 additions and 288 deletions in 5 files</sub>
