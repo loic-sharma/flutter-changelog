@@ -1013,7 +1013,15 @@
 
 ### March 15, 2025 to March 21, 2025
 
-3 commits.
+5 commits.
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add cupertino examples to the Floating App Bar recipe.
+  <sub>[#11821](https://github.com/flutter/website/pull/11821) merged on March 18, 2025 &mdash; **Large:** [16 comments](https://github.com/flutter/website/pull/11821) over 3 days, 364 additions and 140 deletions in 8 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Refactor Writing custom platform specific code topic
+  <sub>[#11810](https://github.com/flutter/website/pull/11810) merged on March 18, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/website/pull/11810) over 5 days, 212 additions and 157 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add link to IMA video to sidenav
   <sub>[#11820](https://github.com/flutter/website/pull/11820) merged on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11820) over 3 days, 2 additions and 0 deletions in 1 file</sub>

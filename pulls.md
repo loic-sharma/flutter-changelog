@@ -30,7 +30,7 @@
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162780) 28 additions and 19 deletions in 12 files</sub><br />
 
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
-  <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [flutter_tools] Fix VS Code package.json path on macOS with case-sensitive file system<br />
   <sub>[#163409](https://github.com/flutter/flutter/pull/163409) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163409) 2 additions and 2 deletions in 3 files</sub><br />
