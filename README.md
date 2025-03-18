@@ -4,7 +4,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-23 commits.
+24 commits.
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints<br />
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) merged on March 17, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/163314) over 1 month, 421 additions and 14 deletions in 11 files</sub><br />
@@ -45,6 +45,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete `docs/infra/Infra-Ticket-Queue.md`<br />
   <sub>[#165258](https://github.com/flutter/flutter/pull/165258) merged on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165258) over 1 day, 0 additions and 75 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Add missing Dart SDK dependencies to DEPS<br />
+  <sub>[#165308](https://github.com/flutter/flutter/pull/165308) merged on March 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165308) over 20 hours, 16 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[Darien Romero Leiva](https://github.com/DarienRomero)** &mdash; Add documentation for the secondary button<br />
   <sub>[#164555](https://github.com/flutter/flutter/pull/164555) merged on March 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164555) over 1 week, 18 additions and 0 deletions in 1 file</sub><br />
