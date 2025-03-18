@@ -4,7 +4,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-25 commits.
+26 commits.
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints<br />
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) merged on March 17, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/163314) over 1 month, 421 additions and 14 deletions in 11 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move sliders value indicator shape to seperate file<br />
   <sub>[#162858](https://github.com/flutter/flutter/pull/162858) merged on March 17, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/162858) over 1 month, 285 additions and 274 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
+  <sub>[#157193](https://github.com/flutter/flutter/pull/157193) merged on March 18, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/157193) over 5 months, 115 additions and 134 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [web][a11y]Delete _childContainerElement<br />
   <sub>[#163662](https://github.com/flutter/flutter/pull/163662) merged on March 17, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/163662) over 3 weeks, 157 additions and 261 deletions in 6 files</sub><br />
