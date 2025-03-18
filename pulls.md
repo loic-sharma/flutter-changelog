@@ -146,3 +146,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix keyboard cover SearchAnchor list results<br />
   <sub>[#165382](https://github.com/flutter/flutter/pull/165382) opened on on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165382) 37 additions and 0 deletions in 2 files</sub><br />
 
+* **[Venkata Najeer Kopparapu](https://github.com/Najeer-k11)** &mdash; Updated data_table.dart<br />
+  <sub>[#165384](https://github.com/flutter/flutter/pull/165384) opened on on March 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165384) 1 addition and 3 deletions in 1 file</sub><br />
+
