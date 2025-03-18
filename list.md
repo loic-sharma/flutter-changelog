@@ -4,7 +4,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-22 commits.
+23 commits.
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) merged on March 17, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/163314) over 1 month, 421 additions and 14 deletions in 11 files</sub>
@@ -33,6 +33,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add documentation for Java test filtering to plugins test document
   <sub>[#165314](https://github.com/flutter/flutter/pull/165314) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165314) over 1 hour, 10 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin
+  <sub>[#163215](https://github.com/flutter/flutter/pull/163215) merged on March 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163215) over 1 month, 33 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jaime Wren](https://github.com/jwren), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Use internal conversion for opacity->alpha
   <sub>[#165349](https://github.com/flutter/flutter/pull/165349) merged on March 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165349) over 2 hours, 1 addition and 2 deletions in 1 file</sub>
