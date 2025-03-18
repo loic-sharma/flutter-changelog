@@ -149,6 +149,10 @@
   <sub>[#164391](https://github.com/flutter/flutter/pull/164391) merged on March 11, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/164391) over 1 week, 384 additions and 206 deletions in 40 files</sub>
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Gray Mackall](https://github.com/gmackall)</sub>
 
+* **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant `useMaterial3: true`
+  <sub>[#163376](https://github.com/flutter/flutter/pull/163376) merged on March 14, 2025 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/163376) over 3 weeks, 464 additions and 898 deletions in 227 files</sub>
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Qun Cheng](https://github.com/QuncCccccc), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switched the font atlas to discrete math for hash keys
   <sub>[#164822](https://github.com/flutter/flutter/pull/164822) merged on March 11, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/164822) over 3 days, 340 additions and 109 deletions in 16 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -164,10 +168,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `OverlayPortal.overlayChildLayoutBuilder`
   <sub>[#164034](https://github.com/flutter/flutter/pull/164034) merged on March 14, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/164034) over 2 weeks, 909 additions and 145 deletions in 9 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant `useMaterial3: true`
-  <sub>[#163376](https://github.com/flutter/flutter/pull/163376) merged on March 14, 2025 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/163376) over 3 weeks, 464 additions and 898 deletions in 227 files</sub>
-  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Qun Cheng](https://github.com/QuncCccccc), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Workaround for mismatched transform in preroll vs paint for text frames.
   <sub>[#164931](https://github.com/flutter/flutter/pull/164931) merged on March 11, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/164931) over 6 hours, 89 additions and 33 deletions in 7 files</sub>
