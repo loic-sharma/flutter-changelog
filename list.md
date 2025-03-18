@@ -945,7 +945,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-6 commits.
+7 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Support for Ground Overlay
   <sub>[#8432](https://github.com/flutter/packages/pull/8432) merged on March 18, 2025 &mdash; **Extra large:** [93 comments](https://github.com/flutter/packages/pull/8432) over 2 months, 1441 additions and 237 deletions in 11 files</sub>
@@ -959,6 +959,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds Internal options
   <sub>[#8709](https://github.com/flutter/packages/pull/8709) merged on March 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/8709) over 2 weeks, 4044 additions and 3063 deletions in 29 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player]: reduce video player position update interval from 500ms to 100ms
+  <sub>[#8346](https://github.com/flutter/packages/pull/8346) merged on March 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8346) over 2 months, 80 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Lauri Niskanen](https://github.com/Ape)** &mdash; [image_picker] Fix getMedia on Linux
   <sub>[#8811](https://github.com/flutter/packages/pull/8811) merged on March 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8811) over 1 week, 7 additions and 4 deletions in 4 files</sub>

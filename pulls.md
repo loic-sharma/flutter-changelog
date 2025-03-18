@@ -42,7 +42,7 @@
   <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Replace deprecated openURL API call<br />
-  <sub>[#164247](https://github.com/flutter/flutter/pull/164247) opened on on February 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/164247) 30 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#164247](https://github.com/flutter/flutter/pull/164247) opened on on February 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164247) 30 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker label<br />
   <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164292) 17 additions and 52 deletions in 1 file</sub><br />
@@ -135,7 +135,7 @@
   <sub>[#165306](https://github.com/flutter/flutter/pull/165306) opened on on March 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165306) 2 additions and 8 deletions in 1 file</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [WIP] [web] Remove package:js in favor of dart:js_interop<br />
-  <sub>[#165324](https://github.com/flutter/flutter/pull/165324) opened on on March 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165324) 853 additions and 1694 deletions in 48 files</sub><br />
+  <sub>[#165324](https://github.com/flutter/flutter/pull/165324) opened on on March 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165324) 840 additions and 1724 deletions in 48 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move paddle slider value indicator shape<br />
   <sub>[#165361](https://github.com/flutter/flutter/pull/165361) opened on on March 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165361) 433 additions and 429 deletions in 2 files</sub><br />
