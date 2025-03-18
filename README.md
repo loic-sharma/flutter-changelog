@@ -4,7 +4,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-26 commits.
+27 commits.
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints<br />
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) merged on March 17, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/163314) over 1 month, 421 additions and 14 deletions in 11 files</sub><br />
@@ -37,6 +37,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes assumption that basis scalar and rounded_scalar match<br />
   <sub>[#165166](https://github.com/flutter/flutter/pull/165166) merged on March 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165166) over 3 days, 59 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] limit mipmap generation<br />
+  <sub>[#165357](https://github.com/flutter/flutter/pull/165357) merged on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165357) over 15 hours, 16 additions and 25 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add documentation for Java test filtering to plugins test document<br />
   <sub>[#165314](https://github.com/flutter/flutter/pull/165314) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165314) over 1 hour, 10 additions and 0 deletions in 1 file</sub><br />
