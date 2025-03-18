@@ -146,3 +146,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [WIP] [web] Remove package:js in favor of dart:js_interop<br />
   <sub>[#165324](https://github.com/flutter/flutter/pull/165324) opened on on March 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165324) 847 additions and 1685 deletions in 46 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move paddle slider value indicator shape<br />
+  <sub>[#165361](https://github.com/flutter/flutter/pull/165361) opened on on March 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165361) 433 additions and 429 deletions in 2 files</sub><br />
+
