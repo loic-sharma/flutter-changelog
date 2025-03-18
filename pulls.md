@@ -48,7 +48,7 @@
   <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164292) 17 additions and 52 deletions in 1 file</sub><br />
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command<br />
-  <sub>[#164437](https://github.com/flutter/flutter/pull/164437) opened on on March 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164437) 19 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#164437](https://github.com/flutter/flutter/pull/164437) opened on on March 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164437) 19 additions and 0 deletions in 3 files</sub><br />
 
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add `buildMode`, `icuDataPath` and `engineRevision` interpolations for custom devices<br />
   <sub>[#164455](https://github.com/flutter/flutter/pull/164455) opened on on March 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164455) 118 additions and 5 deletions in 3 files</sub><br />
@@ -146,6 +146,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix keyboard cover SearchAnchor list results<br />
   <sub>[#165382](https://github.com/flutter/flutter/pull/165382) opened on on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165382) 37 additions and 0 deletions in 2 files</sub><br />
 
-* **[Venkata Najeer Kopparapu](https://github.com/Najeer-k11)** &mdash; Updated data_table.dart<br />
-  <sub>[#165384](https://github.com/flutter/flutter/pull/165384) opened on on March 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165384) 1 addition and 3 deletions in 1 file</sub><br />
+* **[Venkata Najeer Kopparapu](https://github.com/Najeer-k11)** &mdash; DataTable divider fix<br />
+  <sub>[#165386](https://github.com/flutter/flutter/pull/165386) opened on on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165386) 1 addition and 3 deletions in 1 file</sub><br />
 
