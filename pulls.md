@@ -155,3 +155,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Range slider show overlay for both thumbs on hovering one<br />
   <sub>[#165393](https://github.com/flutter/flutter/pull/165393) opened on on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165393) 124 additions and 2 deletions in 2 files</sub><br />
 
+* **[Saptarshi Adhikari](https://github.com/Mastermind-sap)** &mdash; Removed not working hyperlinks to ScriptCategory values<br />
+  <sub>[#165395](https://github.com/flutter/flutter/pull/165395) opened on on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165395) 13 additions and 13 deletions in 2 files</sub><br />
+

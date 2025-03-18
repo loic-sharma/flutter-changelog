@@ -11,7 +11,7 @@
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Create a `FlutterPluginUtils.kt`, and port static methods from `FlutterPlugin` there
-  <sub>[#165239](https://github.com/flutter/flutter/pull/165239) merged on March 18, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/165239) over 3 days, 825 additions and 288 deletions in 5 files</sub>
+  <sub>[#165239](https://github.com/flutter/flutter/pull/165239) merged on March 18, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/165239) over 3 days, 825 additions and 288 deletions in 5 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix arrowHeadColor breaks differentiation between states
