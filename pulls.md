@@ -155,3 +155,9 @@
 * **[Saptarshi Adhikari](https://github.com/Mastermind-sap)** &mdash; Removed not working hyperlinks to ScriptCategory values<br />
   <sub>[#165395](https://github.com/flutter/flutter/pull/165395) opened on on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165395) 13 additions and 13 deletions in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add barrier into render pass start.<br />
+  <sub>[#165431](https://github.com/flutter/flutter/pull/165431) opened on on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165431) 15 additions and 11 deletions in 4 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland #163662 [web][a11y]Delete _childContainerElement <br />
+  <sub>[#165434](https://github.com/flutter/flutter/pull/165434) opened on on March 18, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165434) 157 additions and 261 deletions in 6 files</sub><br />
+
