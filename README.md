@@ -31,7 +31,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [web][a11y]Delete _childContainerElement<br />
-  <sub>[#163662](https://github.com/flutter/flutter/pull/163662) merged on March 17, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/163662) over 3 weeks, 157 additions and 261 deletions in 6 files</sub><br />
+  <sub>[#163662](https://github.com/flutter/flutter/pull/163662) merged on March 17, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/163662) over 3 weeks, 157 additions and 261 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes assumption that basis scalar and rounded_scalar match<br />
