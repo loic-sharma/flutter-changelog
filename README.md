@@ -965,7 +965,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-7 commits.
+8 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Support for Ground Overlay<br />
   <sub>[#8432](https://github.com/flutter/packages/pull/8432) merged on March 18, 2025 &mdash; **Extra large:** [93 comments](https://github.com/flutter/packages/pull/8432) over 2 months, 1441 additions and 237 deletions in 11 files</sub><br />
@@ -979,6 +979,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds Internal options<br />
   <sub>[#8709](https://github.com/flutter/packages/pull/8709) merged on March 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/8709) over 2 weeks, 4044 additions and 3063 deletions in 29 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 5<br />
+  <sub>[#8873](https://github.com/flutter/packages/pull/8873) merged on March 18, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/8873) over 4 days, 311 additions and 134 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player]: reduce video player position update interval from 500ms to 100ms<br />
   <sub>[#8346](https://github.com/flutter/packages/pull/8346) merged on March 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8346) over 2 months, 80 additions and 3 deletions in 4 files</sub><br />
