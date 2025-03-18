@@ -933,7 +933,11 @@
 
 ### March 15, 2025 to March 21, 2025
 
-4 commits.
+5 commits.
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Ground overlay support - platform impls<br />
+  <sub>[#8563](https://github.com/flutter/packages/pull/8563) merged on March 18, 2025 &mdash; **Extra large:** [39 comments](https://github.com/flutter/packages/pull/8563) over 1 month, 5480 additions and 608 deletions in 78 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds Internal options<br />
   <sub>[#8709](https://github.com/flutter/packages/pull/8709) merged on March 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/8709) over 2 weeks, 4044 additions and 3063 deletions in 29 files</sub><br />
