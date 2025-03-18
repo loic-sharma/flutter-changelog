@@ -137,6 +137,9 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Dart package creation script to copy source files instead of creating symlinks to the source tree<br />
   <sub>[#165242](https://github.com/flutter/flutter/pull/165242) opened on on March 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165242) 4 additions and 126 deletions in 3 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `Autocomplete` layout with the new OverlayPortal childLayoutBuilder API<br />
+  <sub>[#165249](https://github.com/flutter/flutter/pull/165249) opened on on March 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165249) 89 additions and 273 deletions in 3 files</sub><br />
+
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
 
@@ -144,7 +147,7 @@
   <sub>[#165306](https://github.com/flutter/flutter/pull/165306) opened on on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165306) 2 additions and 8 deletions in 1 file</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [WIP] [web] Remove package:js in favor of dart:js_interop<br />
-  <sub>[#165324](https://github.com/flutter/flutter/pull/165324) opened on on March 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165324) 847 additions and 1685 deletions in 46 files</sub><br />
+  <sub>[#165324](https://github.com/flutter/flutter/pull/165324) opened on on March 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165324) 846 additions and 1685 deletions in 46 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move paddle slider value indicator shape<br />
   <sub>[#165361](https://github.com/flutter/flutter/pull/165361) opened on on March 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165361) 433 additions and 429 deletions in 2 files</sub><br />
