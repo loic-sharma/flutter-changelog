@@ -5,17 +5,11 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
-  <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/157193) 115 additions and 134 deletions in 10 files</sub><br />
-
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove AlarmClock from BrowserImageDecoder<br />
   <sub>[#161481](https://github.com/flutter/flutter/pull/161481) opened on on January 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161481) 18 additions and 58 deletions in 1 file</sub><br />
-
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; NativePluginLoader: make the class entirely stateless<br />
-  <sub>[#162110](https://github.com/flutter/flutter/pull/162110) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162110) 0 additions and 7 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/162467) 184 additions and 47 deletions in 13 files</sub><br />
