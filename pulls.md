@@ -107,9 +107,6 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165084) 40 additions and 2 deletions in 2 files</sub><br />
 
-* **[yakagami](https://github.com/yakagami)** &mdash; add PointerDeviceKind to ScaleStartDetails<br />
-  <sub>[#165096](https://github.com/flutter/flutter/pull/165096) opened on on March 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165096) 99 additions and 0 deletions in 2 files</sub><br />
-
 * **[geronimol](https://github.com/geronimol)** &mdash; docs: update example for PaginatedDataTable<br />
   <sub>[#165133](https://github.com/flutter/flutter/pull/165133) opened on on March 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165133) 12 additions and 1 deletion in 1 file</sub><br />
 
@@ -157,4 +154,7 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland #163662 [web][a11y]Delete _childContainerElement <br />
   <sub>[#165434](https://github.com/flutter/flutter/pull/165434) opened on on March 18, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165434) 157 additions and 261 deletions in 6 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Another mock change to `flutter-0.42-candidate.0` for testing.<br />
+  <sub>[#165442](https://github.com/flutter/flutter/pull/165442) opened on on March 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165442) 2 additions and 0 deletions in 1 file</sub><br />
 
