@@ -4,7 +4,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-30 commits.
+31 commits.
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints<br />
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) merged on March 17, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/163314) over 1 month, 421 additions and 14 deletions in 11 files</sub><br />
@@ -49,6 +49,10 @@
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) merged on March 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163215) over 1 month, 33 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jaime Wren](https://github.com/jwren), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Return an empty contents in Paint::CreateContents if a runtime effect sampler is invalid<br />
+  <sub>[#165165](https://github.com/flutter/flutter/pull/165165) merged on March 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165165) over 4 days, 39 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 725172afbc42 to 2a13e6c0b088 (3 revisions)<br />
   <sub>[#165403](https://github.com/flutter/flutter/pull/165403) merged on March 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165403) over 2 hours, 48 additions and 8 deletions in 6 files</sub><br />
