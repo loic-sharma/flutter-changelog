@@ -4,7 +4,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-18 commits.
+20 commits.
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints<br />
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) merged on March 17, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/163314) over 1 month, 421 additions and 14 deletions in 11 files</sub><br />
@@ -42,9 +42,17 @@
   <sub>[#165258](https://github.com/flutter/flutter/pull/165258) merged on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165258) over 1 day, 0 additions and 75 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Fix crash on some key repeat events<br />
+  <sub>[#165307](https://github.com/flutter/flutter/pull/165307) merged on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165307) over 17 hours, 63 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `OverlayPortal.childLayoutBuilder` should rebuild when `OverlayPortal` rebuilds.<br />
   <sub>[#165331](https://github.com/flutter/flutter/pull/165331) merged on March 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165331) over 5 hours, 63 additions and 16 deletions in 3 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Test Scripts from C6yhaOWh41d1qQqUX... to 8_KSzzxn-koDLjCoa...<br />
+  <sub>[#165374](https://github.com/flutter/flutter/pull/165374) merged on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165374) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 52130e5c3b34 to c777fdc55adc (1 revision)<br />
   <sub>[#165360](https://github.com/flutter/flutter/pull/165360) merged on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165360) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
