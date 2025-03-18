@@ -17,9 +17,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162671) 104 additions and 0 deletions in 4 files</sub><br />
 
-* **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
-  <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/162731) 99 additions and 3 deletions in 2 files</sub><br />
-
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162780) 28 additions and 19 deletions in 12 files</sub><br />
 
@@ -106,9 +103,6 @@
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165084) 40 additions and 2 deletions in 2 files</sub><br />
-
-* **[geronimol](https://github.com/geronimol)** &mdash; docs: update example for PaginatedDataTable<br />
-  <sub>[#165133](https://github.com/flutter/flutter/pull/165133) opened on on March 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165133) 12 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add a11y for loading indicators<br />
   <sub>[#165173](https://github.com/flutter/flutter/pull/165173) opened on on March 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165173) 233 additions and 32 deletions in 15 files</sub><br />
