@@ -4,7 +4,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-20 commits.
+21 commits.
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) merged on March 17, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/163314) over 1 month, 421 additions and 14 deletions in 11 files</sub>
@@ -41,6 +41,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete `docs/infra/Infra-Ticket-Queue.md`
   <sub>[#165258](https://github.com/flutter/flutter/pull/165258) merged on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165258) over 1 day, 0 additions and 75 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Darien Romero Leiva](https://github.com/DarienRomero)** &mdash; Add documentation for the secondary button
+  <sub>[#164555](https://github.com/flutter/flutter/pull/164555) merged on March 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164555) over 1 week, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Fix crash on some key repeat events
   <sub>[#165307](https://github.com/flutter/flutter/pull/165307) merged on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165307) over 17 hours, 63 additions and 1 deletion in 2 files</sub>
