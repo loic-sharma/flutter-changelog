@@ -116,9 +116,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add a11y for loading indicators<br />
   <sub>[#165173](https://github.com/flutter/flutter/pull/165173) opened on on March 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165173) 233 additions and 32 deletions in 15 files</sub><br />
 
-* **[Memet](https://github.com/Memet18)** &mdash; feat: Added forceErrorText in DropdownButtonFormField #165188<br />
-  <sub>[#165189](https://github.com/flutter/flutter/pull/165189) opened on on March 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165189) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS after monorepo merge<br />
   <sub>[#165217](https://github.com/flutter/flutter/pull/165217) opened on on March 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165217) 7 additions and 16 deletions in 4 files</sub><br />
 
