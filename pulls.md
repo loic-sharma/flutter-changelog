@@ -146,6 +146,3 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [WIP] [web] Remove package:js in favor of dart:js_interop<br />
   <sub>[#165324](https://github.com/flutter/flutter/pull/165324) opened on on March 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165324) 847 additions and 1685 deletions in 46 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Use internal conversion for opacity->alpha<br />
-  <sub>[#165349](https://github.com/flutter/flutter/pull/165349) opened on on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165349) 1 addition and 2 deletions in 1 file</sub><br />
-
