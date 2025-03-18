@@ -125,9 +125,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Dart package creation script to copy source files instead of creating symlinks to the source tree<br />
   <sub>[#165242](https://github.com/flutter/flutter/pull/165242) opened on on March 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165242) 4 additions and 126 deletions in 3 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Port `FlutterTask` from Groovy to Kotlin<br />
-  <sub>[#165244](https://github.com/flutter/flutter/pull/165244) opened on on March 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165244) 450 additions and 329 deletions in 9 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `Autocomplete` layout with the new OverlayPortal childLayoutBuilder API<br />
   <sub>[#165249](https://github.com/flutter/flutter/pull/165249) opened on on March 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165249) 89 additions and 273 deletions in 3 files</sub><br />
 
