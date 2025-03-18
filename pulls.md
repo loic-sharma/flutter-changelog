@@ -152,3 +152,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Normalize path before searching for package config<br />
   <sub>[#165392](https://github.com/flutter/flutter/pull/165392) opened on on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165392) 10 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Range slider show overlay for both thumbs on hovering one<br />
+  <sub>[#165393](https://github.com/flutter/flutter/pull/165393) opened on on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165393) 124 additions and 2 deletions in 2 files</sub><br />
+
