@@ -146,12 +146,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland #163662 [web][a11y]Delete _childContainerElement <br />
   <sub>[#165434](https://github.com/flutter/flutter/pull/165434) opened on on March 18, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165434) 157 additions and 261 deletions in 6 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Another mock change to `flutter-0.42-candidate.0` for testing.<br />
-  <sub>[#165442](https://github.com/flutter/flutter/pull/165442) opened on on March 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165442) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [gradle] fix local engine property name<br />
-  <sub>[#165444](https://github.com/flutter/flutter/pull/165444) opened on on March 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165444) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix clip rect occlusion rect calculation.<br />
   <sub>[#165446](https://github.com/flutter/flutter/pull/165446) opened on on March 18, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165446) 570 additions and 8 deletions in 10 files</sub><br />
 
