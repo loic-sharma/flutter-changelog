@@ -155,3 +155,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix clip rect occlusion rect calculation.<br />
   <sub>[#165446](https://github.com/flutter/flutter/pull/165446) opened on on March 18, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165446) 570 additions and 8 deletions in 10 files</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller][DisplayList] Consolidate BlendMode definitions<br />
+  <sub>[#165450](https://github.com/flutter/flutter/pull/165450) opened on on March 19, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165450) 235 additions and 413 deletions in 40 files</sub><br />
+
