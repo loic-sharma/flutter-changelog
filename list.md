@@ -1021,7 +1021,7 @@
 
 ### March 15, 2025 to March 21, 2025
 
-8 commits.
+9 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Support for Ground Overlay
   <sub>[#8432](https://github.com/flutter/packages/pull/8432) merged on March 18, 2025 &mdash; **Extra large:** [93 comments](https://github.com/flutter/packages/pull/8432) over 2 months, 1441 additions and 237 deletions in 11 files</sub>
@@ -1035,6 +1035,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds Internal options
   <sub>[#8709](https://github.com/flutter/packages/pull/8709) merged on March 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/8709) over 2 weeks, 4044 additions and 3063 deletions in 29 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 4
+  <sub>[#8854](https://github.com/flutter/packages/pull/8854) merged on March 19, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/8854) over 6 days, 366 additions and 68 deletions in 22 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 5
   <sub>[#8873](https://github.com/flutter/packages/pull/8873) merged on March 18, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/8873) over 4 days, 311 additions and 134 deletions in 12 files</sub>
