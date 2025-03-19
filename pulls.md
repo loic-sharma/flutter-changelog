@@ -152,6 +152,3 @@
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
   <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
 
-* **[Venkata Najeer Kopparapu](https://github.com/Najeer-k11)** &mdash; Updated data_table.dart for divider showing<br />
-  <sub>[#165484](https://github.com/flutter/flutter/pull/165484) opened on on March 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165484) 1 addition and 3 deletions in 1 file</sub><br />
-
