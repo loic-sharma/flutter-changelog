@@ -1041,7 +1041,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 4
-  <sub>[#8854](https://github.com/flutter/packages/pull/8854) merged on March 19, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/8854) over 6 days, 366 additions and 68 deletions in 22 files</sub>
+  <sub>[#8854](https://github.com/flutter/packages/pull/8854) merged on March 19, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/packages/pull/8854) over 6 days, 366 additions and 68 deletions in 22 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 5
