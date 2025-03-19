@@ -119,6 +119,9 @@
 * **[Juergen Werner](https://github.com/pogojotz)** &mdash; Add more visual feedback to Slider with slideOnly interaction<br />
   <sub>[#165306](https://github.com/flutter/flutter/pull/165306) opened on on March 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165306) 2 additions and 8 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make iOS Flutter framework extension-safe<br />
+  <sub>[#165346](https://github.com/flutter/flutter/pull/165346) opened on on March 17, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165346) 620 additions and 583 deletions in 24 files</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move paddle slider value indicator shape<br />
   <sub>[#165361](https://github.com/flutter/flutter/pull/165361) opened on on March 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165361) 433 additions and 429 deletions in 2 files</sub><br />
 
@@ -136,9 +139,6 @@
 
 * **[Saptarshi Adhikari](https://github.com/Mastermind-sap)** &mdash; Removed not working hyperlinks to ScriptCategory values<br />
   <sub>[#165395](https://github.com/flutter/flutter/pull/165395) opened on on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165395) 13 additions and 13 deletions in 2 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add barrier into render pass start.<br />
-  <sub>[#165431](https://github.com/flutter/flutter/pull/165431) opened on on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165431) 16 additions and 11 deletions in 4 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland #163662 [web][a11y]Delete _childContainerElement <br />
   <sub>[#165434](https://github.com/flutter/flutter/pull/165434) opened on on March 18, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165434) 157 additions and 261 deletions in 6 files</sub><br />
