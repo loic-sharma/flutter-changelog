@@ -143,9 +143,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix clip rect occlusion rect calculation.<br />
   <sub>[#165446](https://github.com/flutter/flutter/pull/165446) opened on on March 18, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165446) 570 additions and 8 deletions in 10 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller][DisplayList] Consolidate BlendMode definitions<br />
-  <sub>[#165450](https://github.com/flutter/flutter/pull/165450) opened on on March 19, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/165450) 273 additions and 420 deletions in 41 files</sub><br />
-
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
   <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
 
