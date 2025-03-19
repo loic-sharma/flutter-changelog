@@ -144,11 +144,14 @@
   <sub>[#165446](https://github.com/flutter/flutter/pull/165446) opened on on March 18, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165446) 570 additions and 8 deletions in 10 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller][DisplayList] Consolidate BlendMode definitions<br />
-  <sub>[#165450](https://github.com/flutter/flutter/pull/165450) opened on on March 19, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165450) 273 additions and 420 deletions in 41 files</sub><br />
+  <sub>[#165450](https://github.com/flutter/flutter/pull/165450) opened on on March 19, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/165450) 273 additions and 420 deletions in 41 files</sub><br />
 
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
   <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix barriers on PowerVR hardware / ensure Render pass cached on non-MSAA.<br />
   <sub>[#165497](https://github.com/flutter/flutter/pull/165497) opened on on March 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165497) 126 additions and 53 deletions in 5 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove `WidgetPreview` in favor of using annotation properties<br />
+  <sub>[#165500](https://github.com/flutter/flutter/pull/165500) opened on on March 19, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165500) 543 additions and 102 deletions in 10 files</sub><br />
 
