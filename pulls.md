@@ -152,6 +152,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller][DisplayList] Consolidate BlendMode definitions<br />
   <sub>[#165450](https://github.com/flutter/flutter/pull/165450) opened on on March 19, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165450) 235 additions and 413 deletions in 40 files</sub><br />
 
-* **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add feld build --watch-dir options support more directories in …<br />
-  <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165466) 25 additions and 11 deletions in 4 files</sub><br />
+* **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
+  <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
 
