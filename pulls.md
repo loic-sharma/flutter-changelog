@@ -125,3 +125,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] allow newer powervr gpu to use Vulkan.<br />
   <sub>[#165520](https://github.com/flutter/flutter/pull/165520) opened on on March 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165520) 79 additions and 8 deletions in 6 files</sub><br />
 
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv]fix platform view crash due to screenScale=0<br />
+  <sub>[#165525](https://github.com/flutter/flutter/pull/165525) opened on on March 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165525) 25 additions and 0 deletions in 2 files</sub><br />
+
