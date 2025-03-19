@@ -62,9 +62,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view theme<br />
   <sub>[#164769](https://github.com/flutter/flutter/pull/164769) opened on on March 7, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/164769) 442 additions and 9 deletions in 6 files</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Add styling parameters in `PopupMenuDivider`<br />
-  <sub>[#164790](https://github.com/flutter/flutter/pull/164790) opened on on March 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164790) 190 additions and 2 deletions in 2 files</sub><br />
-
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Prefer using non nullable opacityAnimation property<br />
   <sub>[#164795](https://github.com/flutter/flutter/pull/164795) opened on on March 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164795) 4 additions and 4 deletions in 1 file</sub><br />
 
