@@ -119,9 +119,6 @@
 * **[Juergen Werner](https://github.com/pogojotz)** &mdash; Add more visual feedback to Slider with slideOnly interaction<br />
   <sub>[#165306](https://github.com/flutter/flutter/pull/165306) opened on on March 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165306) 2 additions and 8 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make iOS Flutter framework extension-safe<br />
-  <sub>[#165346](https://github.com/flutter/flutter/pull/165346) opened on on March 17, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165346) 620 additions and 583 deletions in 24 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move paddle slider value indicator shape<br />
   <sub>[#165361](https://github.com/flutter/flutter/pull/165361) opened on on March 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165361) 433 additions and 429 deletions in 2 files</sub><br />
 
