@@ -128,9 +128,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix keyboard cover SearchAnchor list results<br />
   <sub>[#165382](https://github.com/flutter/flutter/pull/165382) opened on on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165382) 37 additions and 0 deletions in 2 files</sub><br />
 
-* **[Venkata Najeer Kopparapu](https://github.com/Najeer-k11)** &mdash; DataTable divider fix<br />
-  <sub>[#165386](https://github.com/flutter/flutter/pull/165386) opened on on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165386) 1 addition and 3 deletions in 1 file</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Normalize path before searching for package config<br />
   <sub>[#165392](https://github.com/flutter/flutter/pull/165392) opened on on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165392) 10 additions and 1 deletion in 2 files</sub><br />
 
