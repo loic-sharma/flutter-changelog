@@ -123,7 +123,7 @@
   <sub>[#165539](https://github.com/flutter/flutter/pull/165539) opened on on March 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165539) 260 additions and 82 deletions in 8 files</sub><br />
 
 * **[Venkata Najeer Kopparapu](https://github.com/Najeer-k11)** &mdash; border update in table<br />
-  <sub>[#165550](https://github.com/flutter/flutter/pull/165550) opened on on March 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165550) 1 addition and 3 deletions in 1 file</sub><br />
+  <sub>[#165550](https://github.com/flutter/flutter/pull/165550) opened on on March 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165550) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add support for language hints in TextFields (Android only)<br />
   <sub>[#165554](https://github.com/flutter/flutter/pull/165554) opened on on March 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165554) 217 additions and 9 deletions in 9 files</sub><br />
