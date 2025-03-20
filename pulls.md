@@ -86,9 +86,6 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165084) 40 additions and 2 deletions in 2 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS after monorepo merge<br />
-  <sub>[#165217](https://github.com/flutter/flutter/pull/165217) opened on on March 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165217) 7 additions and 16 deletions in 4 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Dart package creation script to copy source files instead of creating symlinks to the source tree<br />
   <sub>[#165242](https://github.com/flutter/flutter/pull/165242) opened on on March 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165242) 4 additions and 126 deletions in 3 files</sub><br />
 
