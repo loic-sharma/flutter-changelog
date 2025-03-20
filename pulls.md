@@ -123,7 +123,7 @@
   <sub>[#165550](https://github.com/flutter/flutter/pull/165550) opened on on March 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165550) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add support for language hints in TextFields (Android only)<br />
-  <sub>[#165554](https://github.com/flutter/flutter/pull/165554) opened on on March 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165554) 222 additions and 9 deletions in 10 files</sub><br />
+  <sub>[#165554](https://github.com/flutter/flutter/pull/165554) opened on on March 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165554) 221 additions and 9 deletions in 9 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchorAnimationDelegate for animating menus. <br />
   <sub>[#165556](https://github.com/flutter/flutter/pull/165556) opened on on March 20, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165556) 2057 additions and 32 deletions in 6 files</sub><br />
