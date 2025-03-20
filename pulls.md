@@ -131,6 +131,3 @@
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Fix: DraggableScrollableSheet may not close if snapping is enabled<br />
   <sub>[#165557](https://github.com/flutter/flutter/pull/165557) opened on on March 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165557) 30 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add factory constructors for shorthands that would collide<br />
-  <sub>[#165597](https://github.com/flutter/flutter/pull/165597) opened on on March 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165597) 301 additions and 0 deletions in 8 files</sub><br />
-
