@@ -35,7 +35,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add aria menu roles to menu-related widgets<br />
-  <sub>[#164741](https://github.com/flutter/flutter/pull/164741) merged on March 19, 2025 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/164741) over 1 week, 1118 additions and 61 deletions in 17 files</sub><br />
+  <sub>[#164741](https://github.com/flutter/flutter/pull/164741) merged on March 19, 2025 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/164741) over 1 week, 1118 additions and 61 deletions in 17 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Create a `FlutterPluginUtils.kt`, and port static methods from `FlutterPlugin` there<br />
