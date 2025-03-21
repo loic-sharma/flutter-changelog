@@ -134,9 +134,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchorAnimationDelegate for animating menus. <br />
   <sub>[#165556](https://github.com/flutter/flutter/pull/165556) opened on on March 20, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165556) 2057 additions and 32 deletions in 6 files</sub><br />
 
-* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Fix: DraggableScrollableSheet may not close if snapping is enabled<br />
-  <sub>[#165557](https://github.com/flutter/flutter/pull/165557) opened on on March 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165557) 30 additions and 0 deletions in 2 files</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#165630](https://github.com/flutter/flutter/pull/165630) opened on on March 21, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/165630) 337 additions and 54 deletions in 14 files</sub><br />
 
