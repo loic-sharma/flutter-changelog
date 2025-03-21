@@ -140,3 +140,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip image_to_byte_data_test.dart in Firefox<br />
   <sub>[#165678](https://github.com/flutter/flutter/pull/165678) opened on on March 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165678) 7 additions and 2 deletions in 1 file</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix pylint warning in run_tests.py<br />
+  <sub>[#165692](https://github.com/flutter/flutter/pull/165692) opened on on March 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165692) 2 additions and 2 deletions in 1 file</sub><br />
+
