@@ -116,9 +116,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove `WidgetPreview` in favor of using annotation properties<br />
   <sub>[#165500](https://github.com/flutter/flutter/pull/165500) opened on on March 19, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/165500) 739 additions and 141 deletions in 11 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; More `FlutterPlugin` static method conversion<br />
-  <sub>[#165506](https://github.com/flutter/flutter/pull/165506) opened on on March 19, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/165506) 1250 additions and 346 deletions in 5 files</sub><br />
-
 * **[ash2moon](https://github.com/ash2moon)** &mdash; Use live region in error text input decorator<br />
   <sub>[#165531](https://github.com/flutter/flutter/pull/165531) opened on on March 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165531) 59 additions and 129 deletions in 9 files</sub><br />
 
@@ -139,4 +136,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#165630](https://github.com/flutter/flutter/pull/165630) opened on on March 21, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/165630) 337 additions and 54 deletions in 14 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable the address sanitizer in the linux_unopt build<br />
+  <sub>[#165661](https://github.com/flutter/flutter/pull/165661) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165661) 0 additions and 1 deletion in 1 file</sub><br />
 
