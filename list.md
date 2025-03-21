@@ -349,7 +349,7 @@
   <sub>[#163337](https://github.com/flutter/flutter/pull/163337) merged on March 13, 2025 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/163337) over 3 weeks, 284 additions and 36 deletions in 6 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(FixedExtentScrollController): Add parent class properties to the constructor.
+* **[廖检成](https://github.com/StanleyCocos)** &mdash; feat(FixedExtentScrollController): Add parent class properties to the constructor.
   <sub>[#163190](https://github.com/flutter/flutter/pull/163190) merged on March 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163190) over 3 weeks, 85 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
