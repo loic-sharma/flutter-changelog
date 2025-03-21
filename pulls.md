@@ -143,3 +143,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix pylint warning in run_tests.py<br />
   <sub>[#165692](https://github.com/flutter/flutter/pull/165692) opened on on March 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165692) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Narek Malkhasyan](https://github.com/narekmalk)** &mdash; Deprecated methods that call setStatusBarColor, setNavigationBarColor, setNavigationBarDividerColor<br />
+  <sub>[#165695](https://github.com/flutter/flutter/pull/165695) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165695) 18 additions and 1 deletion in 3 files</sub><br />
+
