@@ -110,6 +110,9 @@
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
   <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
 
+* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix(ListTileTheme): isThreeLine is missing.<br />
+  <sub>[#165481](https://github.com/flutter/flutter/pull/165481) opened on on March 19, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/165481) 372 additions and 6 deletions in 4 files</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove `WidgetPreview` in favor of using annotation properties<br />
   <sub>[#165500](https://github.com/flutter/flutter/pull/165500) opened on on March 19, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/165500) 739 additions and 141 deletions in 11 files</sub><br />
 
