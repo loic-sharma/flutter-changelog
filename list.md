@@ -1250,11 +1250,15 @@
 
 ### March 15, 2025 to March 21, 2025
 
-6 commits.
+7 commits.
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add cupertino examples to the Floating App Bar recipe.
   <sub>[#11821](https://github.com/flutter/website/pull/11821) merged on March 18, 2025 &mdash; **Large:** [16 comments](https://github.com/flutter/website/pull/11821) over 3 days, 364 additions and 140 deletions in 8 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add documentation about DevTools versioning
+  <sub>[#11838](https://github.com/flutter/website/pull/11838) merged on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11838) over 6 hours, 7 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Saptarshi Adhikari](https://github.com/Mastermind-sap)** &mdash; Fix broken links on `describeEnum` migration guide
   <sub>[#11830](https://github.com/flutter/website/pull/11830) merged on March 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11830) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
