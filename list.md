@@ -87,7 +87,7 @@
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `Autocomplete` layout with the new OverlayPortal childLayoutBuilder API
-  <sub>[#165249](https://github.com/flutter/flutter/pull/165249) merged on March 19, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/165249) over 4 days, 90 additions and 273 deletions in 3 files</sub>
+  <sub>[#165249](https://github.com/flutter/flutter/pull/165249) merged on March 19, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/165249) over 4 days, 90 additions and 273 deletions in 3 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] limit mipmap generation
