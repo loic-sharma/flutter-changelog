@@ -43,7 +43,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add a configuration option that allows defering all PSO construction until needed.<br />
-  <sub>[#165261](https://github.com/flutter/flutter/pull/165261) merged on March 20, 2025 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/165261) over 5 days, 417 additions and 204 deletions in 50 files</sub><br />
+  <sub>[#165261](https://github.com/flutter/flutter/pull/165261) merged on March 20, 2025 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/165261) over 5 days, 417 additions and 204 deletions in 50 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Add `SearchAnchor`.viewOnOpen and `SearchAnchor.bar`.onOpen<br />
