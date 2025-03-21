@@ -47,7 +47,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unused Cocoon components from `devicelab/bin/test_runner.dart`.
-  <sub>[#165628](https://github.com/flutter/flutter/pull/165628) merged on March 21, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/165628) over 18 hours, 47 additions and 779 deletions in 6 files</sub>
+  <sub>[#165628](https://github.com/flutter/flutter/pull/165628) merged on March 21, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/165628) over 18 hours, 47 additions and 779 deletions in 6 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add a configuration option that allows defering all PSO construction until needed.
