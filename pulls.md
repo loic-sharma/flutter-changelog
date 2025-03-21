@@ -149,3 +149,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs after #165258<br />
+  <sub>[#165716](https://github.com/flutter/flutter/pull/165716) opened on on March 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165716) 12 additions and 17 deletions in 7 files</sub><br />
+
