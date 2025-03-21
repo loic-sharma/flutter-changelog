@@ -46,13 +46,13 @@
   <sub>[#165261](https://github.com/flutter/flutter/pull/165261) merged on March 20, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/165261) over 5 days, 417 additions and 204 deletions in 50 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Huy](https://github.com/huycozy)** &mdash; Fix arrowHeadColor breaks differentiation between states
-  <sub>[#165178](https://github.com/flutter/flutter/pull/165178) merged on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165178) over 3 days, 9 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
-
 * **[Huy](https://github.com/huycozy)** &mdash; Add `SearchAnchor`.viewOnOpen and `SearchAnchor.bar`.onOpen
   <sub>[#164541](https://github.com/flutter/flutter/pull/164541) merged on March 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164541) over 2 weeks, 110 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix arrowHeadColor breaks differentiation between states
+  <sub>[#165178](https://github.com/flutter/flutter/pull/165178) merged on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165178) over 3 days, 9 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move sliders value indicator shape to seperate file
   <sub>[#162858](https://github.com/flutter/flutter/pull/162858) merged on March 17, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/162858) over 1 month, 285 additions and 274 deletions in 5 files</sub>
