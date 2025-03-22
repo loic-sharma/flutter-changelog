@@ -70,6 +70,10 @@
   <sub>[#162858](https://github.com/flutter/flutter/pull/162858) merged on March 17, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/162858) over 1 month, 285 additions and 274 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove `WidgetPreview` in favor of using annotation properties<br />
+  <sub>[#165500](https://github.com/flutter/flutter/pull/165500) merged on March 22, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/165500) over 2 days, 739 additions and 141 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix SpringSimulation formula for underdamping<br />
   <sub>[#165017](https://github.com/flutter/flutter/pull/165017) merged on March 21, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165017) over 1 week, 34 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -105,10 +109,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `Autocomplete` layout with the new OverlayPortal childLayoutBuilder API<br />
   <sub>[#165249](https://github.com/flutter/flutter/pull/165249) merged on March 19, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/165249) over 4 days, 90 additions and 273 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove `WidgetPreview` in favor of using annotation properties<br />
-  <sub>[#165500](https://github.com/flutter/flutter/pull/165500) merged on March 22, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/165500) over 2 days, 739 additions and 141 deletions in 11 files</sub><br />
-  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] limit mipmap generation<br />
   <sub>[#165357](https://github.com/flutter/flutter/pull/165357) merged on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165357) over 15 hours, 16 additions and 25 deletions in 3 files</sub><br />
@@ -291,7 +291,7 @@
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from c929e6d3d08f to 41a60009ed5c (7 revisions)<br />
-  <sub>[#165730](https://github.com/flutter/flutter/pull/165730) merged on March 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165730) over 1 hour, 11 additions and 9 deletions in 4 files</sub><br />
+  <sub>[#165730](https://github.com/flutter/flutter/pull/165730) merged on March 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165730) over 1 hour, 11 additions and 9 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 38a5185e01f1 to dbfd72770bdd (3 revisions)<br />
@@ -347,7 +347,7 @@
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from e1f426dad46d to d54c36d6edd7 (15 revisions)<br />
-  <sub>[#165721](https://github.com/flutter/flutter/pull/165721) merged on March 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165721) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#165721](https://github.com/flutter/flutter/pull/165721) merged on March 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165721) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "[skwasm] Dynamic Threading (#164748)"<br />
