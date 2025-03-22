@@ -51,7 +51,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove Cocoon from `dev/devicelab`, keeping Skia perf stats upload.<br />
-  <sub>[#165749](https://github.com/flutter/flutter/pull/165749) merged on March 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165749) over 1 hour, 247 additions and 770 deletions in 8 files</sub><br />
+  <sub>[#165749](https://github.com/flutter/flutter/pull/165749) merged on March 22, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165749) over 1 hour, 247 additions and 770 deletions in 8 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unused Cocoon components from `devicelab/bin/test_runner.dart`.<br />
