@@ -84,7 +84,7 @@
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) opened on on March 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165084) 40 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Dart package creation script to copy source files instead of creating symlinks to the source tree<br />
-  <sub>[#165242](https://github.com/flutter/flutter/pull/165242) opened on on March 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165242) 4 additions and 126 deletions in 3 files</sub><br />
+  <sub>[#165242](https://github.com/flutter/flutter/pull/165242) opened on on March 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165242) 4 additions and 126 deletions in 3 files</sub><br />
 
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
@@ -141,7 +141,7 @@
   <sub>[#165697](https://github.com/flutter/flutter/pull/165697) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165697) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
-  <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
+  <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs after #165258<br />
   <sub>[#165716](https://github.com/flutter/flutter/pull/165716) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165716) 12 additions and 17 deletions in 7 files</sub><br />
@@ -150,7 +150,7 @@
   <sub>[#165726](https://github.com/flutter/flutter/pull/165726) opened on on March 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165726) 100 additions and 22 deletions in 2 files</sub><br />
 
 * **[jezell](https://github.com/jezell)** &mdash; [web] fix for text selection being incorrect while dragging<br />
-  <sub>[#165732](https://github.com/flutter/flutter/pull/165732) opened on on March 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165732) 14 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#165732](https://github.com/flutter/flutter/pull/165732) opened on on March 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165732) 14 additions and 2 deletions in 1 file</sub><br />
 
 * **[Narek Malkhasyan](https://github.com/narekmalk)** &mdash; Deprecated methods that call setStatusBarColor, setNavigationBarColor, setNavigationBarDividerColor<br />
   <sub>[#165737](https://github.com/flutter/flutter/pull/165737) opened on on March 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165737) 18 additions and 1 deletion in 3 files</sub><br />
