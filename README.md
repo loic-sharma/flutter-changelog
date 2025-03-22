@@ -207,7 +207,7 @@
   <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Linux SDK from y-WmESARBN4BZF0gs... to zb7ddt_3LqBcDg5_U...<br />
-  <sub>[#165711](https://github.com/flutter/flutter/pull/165711) merged on March 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165711) over 2 hours, 1085 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#165711](https://github.com/flutter/flutter/pull/165711) merged on March 22, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165711) over 2 hours, 1085 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Normalize path before searching for package config<br />
