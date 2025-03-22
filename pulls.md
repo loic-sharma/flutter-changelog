@@ -162,5 +162,5 @@
   <sub>[#165742](https://github.com/flutter/flutter/pull/165742) opened on on March 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165742) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add drawRSuperellipse support to mock_canvas.<br />
-  <sub>[#165744](https://github.com/flutter/flutter/pull/165744) opened on on March 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165744) 141 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#165744](https://github.com/flutter/flutter/pull/165744) opened on on March 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165744) 141 additions and 0 deletions in 2 files</sub><br />
 
