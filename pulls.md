@@ -132,7 +132,7 @@
   <sub>[#165630](https://github.com/flutter/flutter/pull/165630) opened on on March 21, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165630) 337 additions and 54 deletions in 14 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip image_to_byte_data_test.dart in Firefox<br />
-  <sub>[#165678](https://github.com/flutter/flutter/pull/165678) opened on on March 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165678) 7 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#165678](https://github.com/flutter/flutter/pull/165678) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165678) 7 additions and 2 deletions in 1 file</sub><br />
 
 * **[Narek Malkhasyan](https://github.com/narekmalk)** &mdash; Deprecated methods that call setStatusBarColor, setNavigationBarColor, setNavigationBarDividerColor<br />
   <sub>[#165695](https://github.com/flutter/flutter/pull/165695) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165695) 18 additions and 1 deletion in 3 files</sub><br />
