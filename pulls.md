@@ -158,9 +158,9 @@
 * **[suojae](https://github.com/suojae)** &mdash; Fix: Apply theme to text in _PackageListTile<br />
   <sub>[#165739](https://github.com/flutter/flutter/pull/165739) opened on on March 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165739) 5 additions and 2 deletions in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter-0.42` (fake) release candidate for testing.<br />
-  <sub>[#165742](https://github.com/flutter/flutter/pull/165742) opened on on March 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165742) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add drawRSuperellipse support to mock_canvas.<br />
   <sub>[#165744](https://github.com/flutter/flutter/pull/165744) opened on on March 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165744) 141 additions and 0 deletions in 2 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove Cocoon from `dev/devicelab`, keeping Skia perf stats upload.<br />
+  <sub>[#165749](https://github.com/flutter/flutter/pull/165749) opened on on March 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165749) 247 additions and 770 deletions in 8 files</sub><br />
 
