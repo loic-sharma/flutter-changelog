@@ -283,7 +283,7 @@
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from 41a60009ed5c to 13e950e67c2a (2 revisions)<br />
-  <sub>[#165738](https://github.com/flutter/flutter/pull/165738) merged on March 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165738) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#165738](https://github.com/flutter/flutter/pull/165738) merged on March 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165738) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from c777fdc55adc to 8c4c06605277 (2 revisions)<br />
