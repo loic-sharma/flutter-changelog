@@ -158,3 +158,6 @@
 * **[suojae](https://github.com/suojae)** &mdash; Fix: Apply theme to text in _PackageListTile<br />
   <sub>[#165739](https://github.com/flutter/flutter/pull/165739) opened on on March 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165739) 5 additions and 2 deletions in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter-0.42` (fake) release candidate for testing.<br />
+  <sub>[#165742](https://github.com/flutter/flutter/pull/165742) opened on on March 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165742) 1 addition and 1 deletion in 1 file</sub><br />
+
