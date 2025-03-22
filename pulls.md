@@ -137,9 +137,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip image_to_byte_data_test.dart in Firefox<br />
   <sub>[#165678](https://github.com/flutter/flutter/pull/165678) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165678) 7 additions and 2 deletions in 1 file</sub><br />
 
-* **[Narek Malkhasyan](https://github.com/narekmalk)** &mdash; Deprecated methods that call setStatusBarColor, setNavigationBarColor, setNavigationBarDividerColor<br />
-  <sub>[#165695](https://github.com/flutter/flutter/pull/165695) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165695) 18 additions and 1 deletion in 3 files</sub><br />
-
 * **[Miguel](https://github.com/miguelfrde)** &mdash; [fuchsia] Roll F26<br />
   <sub>[#165697](https://github.com/flutter/flutter/pull/165697) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165697) 4 additions and 4 deletions in 2 files</sub><br />
 
@@ -154,4 +151,7 @@
 
 * **[jezell](https://github.com/jezell)** &mdash; [web] fix for text selection being incorrect while dragging<br />
   <sub>[#165732](https://github.com/flutter/flutter/pull/165732) opened on on March 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165732) 14 additions and 2 deletions in 1 file</sub><br />
+
+* **[Narek Malkhasyan](https://github.com/narekmalk)** &mdash; Deprecated methods that call setStatusBarColor, setNavigationBarColor, setNavigationBarDividerColor<br />
+  <sub>[#165737](https://github.com/flutter/flutter/pull/165737) opened on on March 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165737) 18 additions and 1 deletion in 3 files</sub><br />
 
