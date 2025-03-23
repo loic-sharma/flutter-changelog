@@ -150,7 +150,7 @@
   <sub>[#165726](https://github.com/flutter/flutter/pull/165726) opened on on March 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165726) 100 additions and 22 deletions in 2 files</sub><br />
 
 * **[jezell](https://github.com/jezell)** &mdash; [web] fix for text selection being incorrect while dragging<br />
-  <sub>[#165732](https://github.com/flutter/flutter/pull/165732) opened on on March 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/165732) 14 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#165732](https://github.com/flutter/flutter/pull/165732) opened on on March 22, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/165732) 14 additions and 3 deletions in 1 file</sub><br />
 
 * **[Narek Malkhasyan](https://github.com/narekmalk)** &mdash; Deprecated methods that call setStatusBarColor, setNavigationBarColor, setNavigationBarDividerColor<br />
   <sub>[#165737](https://github.com/flutter/flutter/pull/165737) opened on on March 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165737) 18 additions and 1 deletion in 3 files</sub><br />
