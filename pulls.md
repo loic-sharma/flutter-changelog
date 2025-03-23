@@ -156,7 +156,7 @@
   <sub>[#165737](https://github.com/flutter/flutter/pull/165737) opened on on March 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165737) 18 additions and 1 deletion in 3 files</sub><br />
 
 * **[suojae](https://github.com/suojae)** &mdash; Fix: Apply theme to text in _PackageListTile<br />
-  <sub>[#165739](https://github.com/flutter/flutter/pull/165739) opened on on March 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165739) 37 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#165739](https://github.com/flutter/flutter/pull/165739) opened on on March 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165739) 5 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add drawRSuperellipse support to mock_canvas.<br />
   <sub>[#165744](https://github.com/flutter/flutter/pull/165744) opened on on March 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165744) 141 additions and 0 deletions in 2 files</sub><br />
