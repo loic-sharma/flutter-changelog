@@ -20,9 +20,6 @@
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
   <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Add `Message.resourceId` and `locale` to all `L10nException` error messages<br />
-  <sub>[#163654](https://github.com/flutter/flutter/pull/163654) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163654) 48 additions and 22 deletions in 3 files</sub><br />
-
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add experimental IntegrationTest.takeScreenshot<br />
   <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164171) 18 additions and 5 deletions in 2 files</sub><br />
 
@@ -132,7 +129,7 @@
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs after #165258<br />
-  <sub>[#165716](https://github.com/flutter/flutter/pull/165716) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165716) 12 additions and 17 deletions in 7 files</sub><br />
+  <sub>[#165716](https://github.com/flutter/flutter/pull/165716) opened on on March 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165716) 12 additions and 17 deletions in 7 files</sub><br />
 
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; fix barrier overlap after and during FadeForwardsPageTransitionsBuilder transition animation<br />
   <sub>[#165726](https://github.com/flutter/flutter/pull/165726) opened on on March 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165726) 100 additions and 22 deletions in 2 files</sub><br />
