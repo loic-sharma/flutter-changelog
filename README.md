@@ -4,7 +4,11 @@
 
 ### March 22, 2025 to March 28, 2025
 
-4 commits.
+5 commits.
+
+* **[Memet](https://github.com/Memet18)** &mdash; feat: Added forceErrorText in DropdownButtonFormField #165188<br />
+  <sub>[#165189](https://github.com/flutter/flutter/pull/165189) merged on March 24, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/165189) over 1 week, 89 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Prefer using non nullable opacityAnimation property<br />
   <sub>[#164795](https://github.com/flutter/flutter/pull/164795) merged on March 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164795) over 2 weeks, 4 additions and 4 deletions in 1 file</sub><br />
