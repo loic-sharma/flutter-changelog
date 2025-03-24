@@ -4,7 +4,11 @@
 
 ### March 22, 2025 to March 28, 2025
 
-9 commits.
+10 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Use SystemContextMenu by default on iOS<br />
+  <sub>[#165354](https://github.com/flutter/flutter/pull/165354) merged on March 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/165354) over 6 days, 374 additions and 6 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add focus check to onTapUpOutside<br />
   <sub>[#162939](https://github.com/flutter/flutter/pull/162939) merged on March 24, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162939) over 1 month, 182 additions and 40 deletions in 3 files</sub><br />
@@ -168,7 +172,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; deprecate Android announcement events and add deprecation warning.<br />
-  <sub>[#165195](https://github.com/flutter/flutter/pull/165195) merged on March 19, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/165195) over 5 days, 53 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#165195](https://github.com/flutter/flutter/pull/165195) merged on March 19, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/165195) over 5 days, 53 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
