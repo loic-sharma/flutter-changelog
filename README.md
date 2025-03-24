@@ -870,9 +870,18 @@
 
 ## flutter/packages
 
+### March 22, 2025 to March 28, 2025
+
+1 commits.
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration - platform impls<br />
+  <sub>[#8659](https://github.com/flutter/packages/pull/8659) merged on March 24, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/8659) over 1 month, 1499 additions and 455 deletions in 39 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### March 15, 2025 to March 21, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Support for Ground Overlay<br />
   <sub>[#8432](https://github.com/flutter/packages/pull/8432) merged on March 18, 2025 &mdash; **Extra large:** [93 comments](https://github.com/flutter/packages/pull/8432) over 2 months, 1441 additions and 237 deletions in 11 files</sub><br />
@@ -914,6 +923,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Fix unit test asserting external value<br />
   <sub>[#8814](https://github.com/flutter/packages/pull/8814) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8814) over 1 week, 16 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+</details>
 
 ### March 8, 2025 to March 14, 2025
 
