@@ -146,9 +146,6 @@
 * **[Darniel Rumple](https://github.com/daniellampl)** &mdash; Remove duplicate CHANGELOG entry<br />
   <sub>[#165789](https://github.com/flutter/flutter/pull/165789) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165789) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update .gitignore to reinclude **/.cxx/<br />
-  <sub>[#165793](https://github.com/flutter/flutter/pull/165793) opened on on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165793) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Re-enable bash_entrypoint_test.dart<br />
   <sub>[#165809](https://github.com/flutter/flutter/pull/165809) opened on on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165809) 3 additions and 3 deletions in 1 file</sub><br />
 
