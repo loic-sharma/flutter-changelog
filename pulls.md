@@ -9,7 +9,7 @@
   <sub>[#161481](https://github.com/flutter/flutter/pull/161481) opened on on January 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161481) 18 additions and 58 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
-  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/162467) 184 additions and 47 deletions in 13 files</sub><br />
+  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/162467) 193 additions and 60 deletions in 13 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162671) 104 additions and 0 deletions in 4 files</sub><br />
@@ -150,8 +150,14 @@
   <sub>[#165789](https://github.com/flutter/flutter/pull/165789) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165789) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update .gitignore to reinclude **/.cxx/<br />
-  <sub>[#165793](https://github.com/flutter/flutter/pull/165793) opened on on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165793) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#165793](https://github.com/flutter/flutter/pull/165793) opened on on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165793) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Re-enable bash_entrypoint_test.dart<br />
-  <sub>[#165809](https://github.com/flutter/flutter/pull/165809) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165809) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#165809](https://github.com/flutter/flutter/pull/165809) opened on on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165809) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Unset GIT_DIR and other variables before updating<br />
+  <sub>[#165818](https://github.com/flutter/flutter/pull/165818) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165818) 69 additions and 13 deletions in 3 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Move app link settings task configuration to kotlin<br />
+  <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165819) 388 additions and 123 deletions in 5 files</sub><br />
 
