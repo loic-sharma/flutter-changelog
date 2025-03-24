@@ -4,7 +4,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-6 commits.
+7 commits.
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add focus check to onTapUpOutside<br />
   <sub>[#162939](https://github.com/flutter/flutter/pull/162939) merged on March 24, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162939) over 1 month, 182 additions and 40 deletions in 3 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Prefer using non nullable opacityAnimation property<br />
   <sub>[#164795](https://github.com/flutter/flutter/pull/164795) merged on March 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164795) over 2 weeks, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from 13e950e67c2a to e00a58dc8fe7 (1 revision)<br />
+  <sub>[#165791](https://github.com/flutter/flutter/pull/165791) merged on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165791) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from cee5257a48a2 to 0482b69b605c (1 revision)<br />
   <sub>[#165773](https://github.com/flutter/flutter/pull/165773) merged on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165773) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
