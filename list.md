@@ -4,7 +4,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-22 commits.
+23 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Use SystemContextMenu by default on iOS
   <sub>[#165354](https://github.com/flutter/flutter/pull/165354) merged on March 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/165354) over 6 days, 374 additions and 6 deletions in 13 files</sub>
@@ -54,6 +54,10 @@
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Prefer using non nullable opacityAnimation property
   <sub>[#164795](https://github.com/flutter/flutter/pull/164795) merged on March 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164795) over 2 weeks, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Unset GIT_DIR and other variables before updating
+  <sub>[#165818](https://github.com/flutter/flutter/pull/165818) merged on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165818) over 3 hours, 76 additions and 13 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip image_to_byte_data_test.dart in Firefox
   <sub>[#165678](https://github.com/flutter/flutter/pull/165678) merged on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165678) over 2 days, 7 additions and 2 deletions in 1 file</sub>
@@ -160,6 +164,10 @@
   <sub>[#164541](https://github.com/flutter/flutter/pull/164541) merged on March 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164541) over 2 weeks, 110 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix SpringSimulation formula for underdamping
+  <sub>[#165017](https://github.com/flutter/flutter/pull/165017) merged on March 21, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/165017) over 1 week, 34 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Huy](https://github.com/huycozy)** &mdash; Fix arrowHeadColor breaks differentiation between states
   <sub>[#165178](https://github.com/flutter/flutter/pull/165178) merged on March 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165178) over 3 days, 9 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
@@ -171,10 +179,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove `WidgetPreview` in favor of using annotation properties
   <sub>[#165500](https://github.com/flutter/flutter/pull/165500) merged on March 22, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/165500) over 2 days, 739 additions and 141 deletions in 11 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix SpringSimulation formula for underdamping
-  <sub>[#165017](https://github.com/flutter/flutter/pull/165017) merged on March 21, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/165017) over 1 week, 34 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Expose APIs to draw shadows.
   <sub>[#165517](https://github.com/flutter/flutter/pull/165517) merged on March 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165517) over 21 hours, 102 additions and 0 deletions in 6 files</sub>
