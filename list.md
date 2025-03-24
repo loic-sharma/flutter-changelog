@@ -4,7 +4,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-14 commits.
+15 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Use SystemContextMenu by default on iOS
   <sub>[#165354](https://github.com/flutter/flutter/pull/165354) merged on March 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/165354) over 6 days, 374 additions and 6 deletions in 13 files</sub>
@@ -33,6 +33,10 @@
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Prefer using non nullable opacityAnimation property
   <sub>[#164795](https://github.com/flutter/flutter/pull/164795) merged on March 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164795) over 2 weeks, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip image_to_byte_data_test.dart in Firefox
+  <sub>[#165678](https://github.com/flutter/flutter/pull/165678) merged on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165678) over 2 days, 7 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv]fix platform view crash due to screenScale=0
   <sub>[#165525](https://github.com/flutter/flutter/pull/165525) merged on March 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165525) over 4 days, 27 additions and 2 deletions in 2 files</sub>

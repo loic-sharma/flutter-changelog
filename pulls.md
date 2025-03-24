@@ -116,9 +116,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Disable autocorrection and spell check for password fields<br />
   <sub>[#165637](https://github.com/flutter/flutter/pull/165637) opened on on March 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165637) 50 additions and 0 deletions in 2 files</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip image_to_byte_data_test.dart in Firefox<br />
-  <sub>[#165678](https://github.com/flutter/flutter/pull/165678) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165678) 7 additions and 2 deletions in 1 file</sub><br />
-
 * **[Miguel](https://github.com/miguelfrde)** &mdash; [fuchsia] Roll F26<br />
   <sub>[#165697](https://github.com/flutter/flutter/pull/165697) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165697) 4 additions and 4 deletions in 2 files</sub><br />
 
@@ -153,11 +150,14 @@
   <sub>[#165793](https://github.com/flutter/flutter/pull/165793) opened on on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165793) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Re-enable bash_entrypoint_test.dart<br />
-  <sub>[#165809](https://github.com/flutter/flutter/pull/165809) opened on on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165809) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#165809](https://github.com/flutter/flutter/pull/165809) opened on on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165809) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Unset GIT_DIR and other variables before updating<br />
   <sub>[#165818](https://github.com/flutter/flutter/pull/165818) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165818) 69 additions and 13 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move app link settings task configuration to kotlin<br />
   <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165819) 418 additions and 120 deletions in 4 files</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
+  <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1690 additions and 2 deletions in 36 files</sub><br />
 
