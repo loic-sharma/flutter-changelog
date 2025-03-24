@@ -38,9 +38,6 @@
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add `buildMode`, `icuDataPath` and `engineRevision` interpolations for custom devices<br />
   <sub>[#164455](https://github.com/flutter/flutter/pull/164455) opened on on March 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164455) 118 additions and 5 deletions in 3 files</sub><br />
 
-* **[Jon](https://github.com/9AZX)** &mdash; Provide monitor list, display size, refresh rate, and more for Windows<br />
-  <sub>[#164460](https://github.com/flutter/flutter/pull/164460) opened on on March 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164460) 441 additions and 25 deletions in 14 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Call onWindowDestroyed when windows closed.<br />
   <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
 
