@@ -116,9 +116,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use EGLImage to pass Flutter frames between GTK OpenGL contexts<br />
   <sub>[#165539](https://github.com/flutter/flutter/pull/165539) opened on on March 20, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/165539) 338 additions and 82 deletions in 9 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add support for language hints in TextFields (Android only)<br />
-  <sub>[#165554](https://github.com/flutter/flutter/pull/165554) opened on on March 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165554) 221 additions and 9 deletions in 9 files</sub><br />
-
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchorAnimationDelegate for animating menus. <br />
   <sub>[#165556](https://github.com/flutter/flutter/pull/165556) opened on on March 20, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/165556) 2057 additions and 32 deletions in 6 files</sub><br />
 
