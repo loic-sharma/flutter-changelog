@@ -147,7 +147,7 @@
   <sub>[#165818](https://github.com/flutter/flutter/pull/165818) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165818) 69 additions and 13 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move app link settings task configuration to kotlin<br />
-  <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165819) 418 additions and 120 deletions in 4 files</sub><br />
+  <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/165819) 386 additions and 129 deletions in 4 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
   <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1700 additions and 2 deletions in 36 files</sub><br />
