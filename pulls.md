@@ -144,7 +144,7 @@
   <sub>[#165789](https://github.com/flutter/flutter/pull/165789) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165789) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Unset GIT_DIR and other variables before updating<br />
-  <sub>[#165818](https://github.com/flutter/flutter/pull/165818) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165818) 69 additions and 13 deletions in 3 files</sub><br />
+  <sub>[#165818](https://github.com/flutter/flutter/pull/165818) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165818) 69 additions and 13 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move app link settings task configuration to kotlin<br />
   <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/165819) 386 additions and 129 deletions in 4 files</sub><br />
