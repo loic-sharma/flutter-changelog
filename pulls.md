@@ -39,7 +39,7 @@
   <sub>[#164455](https://github.com/flutter/flutter/pull/164455) opened on on March 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164455) 118 additions and 5 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Call onWindowDestroyed when windows closed.<br />
-  <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
+  <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
 
 * **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL<br />
   <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164720) 1 addition and 1 deletion in 1 file</sub><br />
@@ -156,5 +156,8 @@
   <sub>[#165835](https://github.com/flutter/flutter/pull/165835) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165835) 19 additions and 0 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Unset GIT_DIR and other variables before updating<br />
-  <sub>[#165841](https://github.com/flutter/flutter/pull/165841) opened on on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165841) 76 additions and 13 deletions in 3 files</sub><br />
+  <sub>[#165841](https://github.com/flutter/flutter/pull/165841) opened on on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165841) 76 additions and 13 deletions in 3 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix regression in semantics update handling.<br />
+  <sub>[#165842](https://github.com/flutter/flutter/pull/165842) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165842) 2 additions and 5 deletions in 1 file</sub><br />
 
