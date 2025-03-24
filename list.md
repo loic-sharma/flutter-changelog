@@ -4,7 +4,11 @@
 
 ### March 22, 2025 to March 28, 2025
 
-2 commits.
+3 commits.
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from cee5257a48a2 to 0482b69b605c (1 revision)
+  <sub>[#165773](https://github.com/flutter/flutter/pull/165773) merged on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165773) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Linux SDK from Btjuc6db5cj3okKa5... to Skjlz6df4TA2nmfI2...
   <sub>[#165772](https://github.com/flutter/flutter/pull/165772) merged on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165772) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
