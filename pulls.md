@@ -155,3 +155,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Release the SurfaceTextureSurfaceProducer's surface in the release method<br />
   <sub>[#165835](https://github.com/flutter/flutter/pull/165835) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165835) 19 additions and 0 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Unset GIT_DIR and other variables before updating<br />
+  <sub>[#165841](https://github.com/flutter/flutter/pull/165841) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165841) 76 additions and 13 deletions in 3 files</sub><br />
+
