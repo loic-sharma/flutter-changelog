@@ -4,7 +4,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-12 commits.
+14 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Use SystemContextMenu by default on iOS
   <sub>[#165354](https://github.com/flutter/flutter/pull/165354) merged on March 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/165354) over 6 days, 374 additions and 6 deletions in 13 files</sub>
@@ -13,6 +13,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`
   <sub>[#161487](https://github.com/flutter/flutter/pull/161487) merged on March 24, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/161487) over 2 months, 42 additions and 32 deletions in 1 file</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Implements anti-aliased lines
+  <sub>[#164734](https://github.com/flutter/flutter/pull/164734) merged on March 24, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/164734) over 2 weeks, 1149 additions and 171 deletions in 58 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add focus check to onTapUpOutside
   <sub>[#162939](https://github.com/flutter/flutter/pull/162939) merged on March 24, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162939) over 1 month, 182 additions and 40 deletions in 3 files</sub>
@@ -29,6 +33,10 @@
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Prefer using non nullable opacityAnimation property
   <sub>[#164795](https://github.com/flutter/flutter/pull/164795) merged on March 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164795) over 2 weeks, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv]fix platform view crash due to screenScale=0
+  <sub>[#165525](https://github.com/flutter/flutter/pull/165525) merged on March 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165525) over 4 days, 27 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix clip rect occlusion rect calculation.
   <sub>[#165446](https://github.com/flutter/flutter/pull/165446) merged on March 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/165446) over 5 days, 45 additions and 3 deletions in 3 files</sub>
