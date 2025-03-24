@@ -159,5 +159,8 @@
   <sub>[#165818](https://github.com/flutter/flutter/pull/165818) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165818) 69 additions and 13 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move app link settings task configuration to kotlin<br />
-  <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165819) 388 additions and 123 deletions in 5 files</sub><br />
+  <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165819) 419 additions and 114 deletions in 4 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add debug json mechanism for EngineSceneBuilder.<br />
+  <sub>[#165821](https://github.com/flutter/flutter/pull/165821) opened on on March 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/165821) 528 additions and 5 deletions in 9 files</sub><br />
 
