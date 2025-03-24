@@ -159,5 +159,5 @@
   <sub>[#165793](https://github.com/flutter/flutter/pull/165793) opened on on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165793) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Re-enable bash_entrypoint_test.dart<br />
-  <sub>[#165809](https://github.com/flutter/flutter/pull/165809) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165809) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#165809](https://github.com/flutter/flutter/pull/165809) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165809) 3 additions and 3 deletions in 1 file</sub><br />
 
