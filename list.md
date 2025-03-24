@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 22, 2025 to March 28, 2025
+
+1 commits.
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from d6f07ec0bc1a to cee5257a48a2 (1 revision)
+  <sub>[#165770](https://github.com/flutter/flutter/pull/165770) merged on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165770) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 ### March 15, 2025 to March 21, 2025
 
-95 commits.
+<details>
+<summary>95 commits...</summary>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Cupertino navigation bars transitionBetweenRoutes fidelity update
   <sub>[#164956](https://github.com/flutter/flutter/pull/164956) merged on March 20, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/164956) over 1 week, 302 additions and 112 deletions in 2 files</sub>
@@ -385,6 +394,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Test Scripts from 8_KSzzxn-koDLjCoa... to Odv8fZ_wqp4I5Nln7...
   <sub>[#165526](https://github.com/flutter/flutter/pull/165526) merged on March 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165526) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### March 8, 2025 to March 14, 2025
 
