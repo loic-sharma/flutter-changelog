@@ -1033,7 +1033,11 @@
 
 ### March 22, 2025 to March 28, 2025
 
-2 commits.
+3 commits.
+
+* **[Jan Koudijs](https://github.com/JanKoudijs)** &mdash; Reference alternative Linux deploy methods<br />
+  <sub>[#11840](https://github.com/flutter/website/pull/11840) merged on March 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11840) over 2 days, 20 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New migration guide: Underdamped spring formula changed<br />
   <sub>[#11843](https://github.com/flutter/website/pull/11843) merged on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11843) over 4 hours, 136 additions and 0 deletions in 2 files</sub><br />
