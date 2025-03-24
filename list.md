@@ -4,7 +4,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-23 commits.
+24 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Use SystemContextMenu by default on iOS
   <sub>[#165354](https://github.com/flutter/flutter/pull/165354) merged on March 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/165354) over 6 days, 374 additions and 6 deletions in 13 files</sub>
@@ -38,6 +38,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libcxx to bd557f6f
   <sub>[#165621](https://github.com/flutter/flutter/pull/165621) merged on March 24, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/165621) over 3 days, 10255 additions and 233 deletions in 41 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Java Versions to 21 on CI
+  <sub>[#165210](https://github.com/flutter/flutter/pull/165210) merged on March 24, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/165210) over 1 week, 200 additions and 183 deletions in 8 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Re-enable bash_entrypoint_test.dart
   <sub>[#165809](https://github.com/flutter/flutter/pull/165809) merged on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165809) over 3 hours, 3 additions and 3 deletions in 1 file</sub>
