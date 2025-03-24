@@ -117,7 +117,7 @@
   <sub>[#165637](https://github.com/flutter/flutter/pull/165637) opened on on March 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165637) 50 additions and 0 deletions in 2 files</sub><br />
 
 * **[Miguel](https://github.com/miguelfrde)** &mdash; [fuchsia] Roll F26<br />
-  <sub>[#165697](https://github.com/flutter/flutter/pull/165697) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165697) 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#165697](https://github.com/flutter/flutter/pull/165697) opened on on March 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165697) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
@@ -146,9 +146,6 @@
 * **[Darniel Rumple](https://github.com/daniellampl)** &mdash; Remove duplicate CHANGELOG entry<br />
   <sub>[#165789](https://github.com/flutter/flutter/pull/165789) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165789) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Re-enable bash_entrypoint_test.dart<br />
-  <sub>[#165809](https://github.com/flutter/flutter/pull/165809) opened on on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165809) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Unset GIT_DIR and other variables before updating<br />
   <sub>[#165818](https://github.com/flutter/flutter/pull/165818) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165818) 69 additions and 13 deletions in 3 files</sub><br />
 
@@ -157,7 +154,4 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
   <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1691 additions and 2 deletions in 36 files</sub><br />
-
-* **[Muhammad Ahmer Khan](https://github.com/mahmerkhan)** &mdash; docs: fix ListView reference in SliverList documentation<br />
-  <sub>[#165827](https://github.com/flutter/flutter/pull/165827) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165827) 1 addition and 1 deletion in 1 file</sub><br />
 
