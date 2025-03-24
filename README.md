@@ -912,11 +912,15 @@
 
 ### March 22, 2025 to March 28, 2025
 
-1 commits.
+2 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration - platform impls<br />
   <sub>[#8659](https://github.com/flutter/packages/pull/8659) merged on March 24, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/8659) over 1 month, 1499 additions and 455 deletions in 39 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [webview_flutter] Fix macOS test issues and skip some legacy iOS tests<br />
+  <sub>[#8895](https://github.com/flutter/packages/pull/8895) merged on March 24, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8895) over 3 days, 277 additions and 264 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 ### March 15, 2025 to March 21, 2025
 
