@@ -1031,9 +1031,22 @@
 
 ## flutter/website
 
+### March 22, 2025 to March 28, 2025
+
+2 commits.
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New migration guide: Underdamped spring formula changed<br />
+  <sub>[#11843](https://github.com/flutter/website/pull/11843) merged on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11843) over 4 hours, 136 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add google_sign_in API update doc go link<br />
+  <sub>[#11844](https://github.com/flutter/website/pull/11844) merged on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11844) over 4 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 ### March 15, 2025 to March 21, 2025
 
-7 commits.
+<details>
+<summary>7 commits...</summary>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add cupertino examples to the Floating App Bar recipe.<br />
   <sub>[#11821](https://github.com/flutter/website/pull/11821) merged on March 18, 2025 &mdash; **Large:** [16 comments](https://github.com/flutter/website/pull/11821) over 3 days, 364 additions and 140 deletions in 8 files</sub><br />
@@ -1062,6 +1075,8 @@
 * **[Shashwat Garg](https://github.com/Shashwat-Garg)** &mdash; fixed typo<br />
   <sub>[#11819](https://github.com/flutter/website/pull/11819) merged on March 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11819) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### March 8, 2025 to March 14, 2025
 
