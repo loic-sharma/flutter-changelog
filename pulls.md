@@ -114,7 +114,7 @@
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs after #165258<br />
-  <sub>[#165716](https://github.com/flutter/flutter/pull/165716) opened on on March 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165716) 12 additions and 17 deletions in 7 files</sub><br />
+  <sub>[#165716](https://github.com/flutter/flutter/pull/165716) opened on on March 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165716) 10 additions and 16 deletions in 7 files</sub><br />
 
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; fix barrier overlap after and during FadeForwardsPageTransitionsBuilder transition animation<br />
   <sub>[#165726](https://github.com/flutter/flutter/pull/165726) opened on on March 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165726) 100 additions and 22 deletions in 2 files</sub><br />
