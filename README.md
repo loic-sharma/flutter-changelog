@@ -4,7 +4,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-32 commits.
+33 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Use SystemContextMenu by default on iOS<br />
   <sub>[#165354](https://github.com/flutter/flutter/pull/165354) merged on March 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/165354) over 6 days, 374 additions and 6 deletions in 13 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
   <sub>[#161487](https://github.com/flutter/flutter/pull/161487) merged on March 24, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/161487) over 2 months, 42 additions and 32 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow `generate: true` as long as synthetic packages are not being used.<br />
+  <sub>[#165838](https://github.com/flutter/flutter/pull/165838) merged on March 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165838) over 16 hours, 120 additions and 14 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add factory constructors for shorthands that would collide<br />
   <sub>[#165597](https://github.com/flutter/flutter/pull/165597) merged on March 25, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/165597) over 4 days, 271 additions and 0 deletions in 8 files</sub><br />
