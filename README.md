@@ -84,7 +84,7 @@
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] reduce wide gamut memory by 50% (for onscreen surfaces).<br />
-  <sub>[#165601](https://github.com/flutter/flutter/pull/165601) merged on March 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165601) over 4 days, 64 additions and 24 deletions in 8 files</sub><br />
+  <sub>[#165601](https://github.com/flutter/flutter/pull/165601) merged on March 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/165601) over 4 days, 64 additions and 24 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Unset GIT_DIR and other variables before updating<br />
