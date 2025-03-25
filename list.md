@@ -100,7 +100,7 @@
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 9ba7bf8be99d to 271cd2c4b1bd (2 revisions)
-  <sub>[#165837](https://github.com/flutter/flutter/pull/165837) merged on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165837) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+  <sub>[#165837](https://github.com/flutter/flutter/pull/165837) merged on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165837) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 22f5a70db6b3 to 9ba7bf8be99d (5 revisions)
