@@ -1005,7 +1005,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-5 commits.
+6 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration<br />
   <sub>[#7648](https://github.com/flutter/packages/pull/7648) merged on March 25, 2025 &mdash; **Large:** [79 comments](https://github.com/flutter/packages/pull/7648) over 6 months, 494 additions and 11 deletions in 8 files</sub><br />
@@ -1014,6 +1014,10 @@
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration - platform impls<br />
   <sub>[#8659](https://github.com/flutter/packages/pull/8659) merged on March 24, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/8659) over 1 month, 1499 additions and 455 deletions in 39 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Move changed file detection to base command class<br />
+  <sub>[#8730](https://github.com/flutter/packages/pull/8730) merged on March 25, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/8730) over 3 weeks, 586 additions and 632 deletions in 65 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] kotlin equality methods<br />
   <sub>[#8887](https://github.com/flutter/packages/pull/8887) merged on March 25, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/8887) over 1 week, 630 additions and 107 deletions in 16 files</sub><br />
