@@ -4,7 +4,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-30 commits.
+31 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Use SystemContextMenu by default on iOS<br />
   <sub>[#165354](https://github.com/flutter/flutter/pull/165354) merged on March 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/165354) over 6 days, 374 additions and 6 deletions in 13 files</sub><br />
@@ -86,6 +86,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix clip rect occlusion rect calculation.<br />
   <sub>[#165446](https://github.com/flutter/flutter/pull/165446) merged on March 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/165446) over 5 days, 45 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Linux SDK from Skjlz6df4TA2nmfI2... to Aewmpu7l_HniO7aKQ...<br />
+  <sub>[#165863](https://github.com/flutter/flutter/pull/165863) merged on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165863) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 271cd2c4b1bd to 3ced0e452d06 (1 revision)<br />
   <sub>[#165854](https://github.com/flutter/flutter/pull/165854) merged on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165854) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
