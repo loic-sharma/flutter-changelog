@@ -204,6 +204,10 @@
   <sub>[#165239](https://github.com/flutter/flutter/pull/165239) merged on March 18, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/165239) over 3 days, 825 additions and 288 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller][DisplayList] Consolidate BlendMode definitions<br />
+  <sub>[#165450](https://github.com/flutter/flutter/pull/165450) merged on March 20, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/165450) over 1 day, 293 additions and 471 deletions in 39 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove Cocoon from `dev/devicelab`, keeping Skia perf stats upload.<br />
   <sub>[#165749](https://github.com/flutter/flutter/pull/165749) merged on March 22, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165749) over 1 hour, 247 additions and 770 deletions in 8 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
@@ -254,10 +258,6 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Move skia_conversions towards retirement<br />
   <sub>[#165408](https://github.com/flutter/flutter/pull/165408) merged on March 18, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/165408) over 4 hours, 237 additions and 437 deletions in 11 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller][DisplayList] Consolidate BlendMode definitions<br />
-  <sub>[#165450](https://github.com/flutter/flutter/pull/165450) merged on March 20, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/165450) over 1 day, 293 additions and 471 deletions in 39 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land: "Remove Cocoon from `dev/devicelab`, keeping Skia perf stats upload"<br />
