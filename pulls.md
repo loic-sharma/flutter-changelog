@@ -126,16 +126,13 @@
   <sub>[#165789](https://github.com/flutter/flutter/pull/165789) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165789) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move app link settings task configuration to kotlin<br />
-  <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/165819) 462 additions and 196 deletions in 4 files</sub><br />
+  <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/165819) 462 additions and 196 deletions in 4 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
   <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1825 additions and 173 deletions in 72 files</sub><br />
 
 * **[Muhammad Ahmer Khan](https://github.com/mahmerkhan)** &mdash; docs: fix ListView reference in SliverList documentation<br />
   <sub>[#165827](https://github.com/flutter/flutter/pull/165827) opened on on March 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165827) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Release the SurfaceTextureSurfaceProducer's surface in the release method<br />
-  <sub>[#165835](https://github.com/flutter/flutter/pull/165835) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165835) 19 additions and 0 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix regression in semantics update handling.<br />
   <sub>[#165842](https://github.com/flutter/flutter/pull/165842) opened on on March 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165842) 109 additions and 23 deletions in 6 files</sub><br />
@@ -145,9 +142,6 @@
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu` keyboard navigation on filtered entries<br />
   <sub>[#165868](https://github.com/flutter/flutter/pull/165868) opened on on March 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165868) 49 additions and 2 deletions in 2 files</sub><br />
-
-* **[yim](https://github.com/yiiim)** &mdash; Fix the issue with calling `EnsureVisible` in `NestedScrollView`<br />
-  <sub>[#165885](https://github.com/flutter/flutter/pull/165885) opened on on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165885) 101 additions and 0 deletions in 5 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][pv]fix platform view crash due to screenScale=0<br />
   <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
