@@ -113,9 +113,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Disable autocorrection and spell check for password fields<br />
   <sub>[#165637](https://github.com/flutter/flutter/pull/165637) opened on on March 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165637) 50 additions and 0 deletions in 2 files</sub><br />
 
-* **[Miguel](https://github.com/miguelfrde)** &mdash; [fuchsia] Roll F26<br />
-  <sub>[#165697](https://github.com/flutter/flutter/pull/165697) opened on on March 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165697) 5 additions and 4 deletions in 2 files</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 

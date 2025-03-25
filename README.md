@@ -4,7 +4,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-28 commits.
+29 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Use SystemContextMenu by default on iOS<br />
   <sub>[#165354](https://github.com/flutter/flutter/pull/165354) merged on March 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/165354) over 6 days, 374 additions and 6 deletions in 13 files</sub><br />
@@ -74,6 +74,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip image_to_byte_data_test.dart in Firefox<br />
   <sub>[#165678](https://github.com/flutter/flutter/pull/165678) merged on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165678) over 2 days, 7 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Miguel](https://github.com/miguelfrde)** &mdash; [fuchsia] Roll F26<br />
+  <sub>[#165697](https://github.com/flutter/flutter/pull/165697) merged on March 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165697) over 3 days, 5 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv]fix platform view crash due to screenScale=0<br />
   <sub>[#165525](https://github.com/flutter/flutter/pull/165525) merged on March 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165525) over 4 days, 27 additions and 2 deletions in 2 files</sub><br />
