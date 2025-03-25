@@ -158,9 +158,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 31df9f4a0c12 to e28bf080514a (1 revision)<br />
   <sub>[#165893](https://github.com/flutter/flutter/pull/165893) opened on on March 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165893) 44 additions and 44 deletions in 4 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Add set semantics enabled API and wire iOS a11y bridge (#1612…<br />
-  <sub>[#165901](https://github.com/flutter/flutter/pull/165901) opened on on March 25, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165901) 72 additions and 557 deletions in 34 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][pv]fix platform view crash due to screenScale=0<br />
   <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
 
