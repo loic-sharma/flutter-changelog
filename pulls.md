@@ -147,7 +147,7 @@
   <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1627 additions and 2 deletions in 29 files</sub><br />
 
 * **[Muhammad Ahmer Khan](https://github.com/mahmerkhan)** &mdash; docs: fix ListView reference in SliverList documentation<br />
-  <sub>[#165827](https://github.com/flutter/flutter/pull/165827) opened on on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165827) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#165827](https://github.com/flutter/flutter/pull/165827) opened on on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165827) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Release the SurfaceTextureSurfaceProducer's surface in the release method<br />
   <sub>[#165835](https://github.com/flutter/flutter/pull/165835) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165835) 19 additions and 0 deletions in 2 files</sub><br />
