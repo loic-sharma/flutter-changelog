@@ -973,7 +973,11 @@
 
 ### March 22, 2025 to March 28, 2025
 
-2 commits.
+3 commits.
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration
+  <sub>[#7648](https://github.com/flutter/packages/pull/7648) merged on March 25, 2025 &mdash; **Large:** [79 comments](https://github.com/flutter/packages/pull/7648) over 6 months, 494 additions and 11 deletions in 8 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration - platform impls
   <sub>[#8659](https://github.com/flutter/packages/pull/8659) merged on March 24, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/8659) over 1 month, 1499 additions and 455 deletions in 39 files</sub>
