@@ -59,9 +59,6 @@
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#164982](https://github.com/flutter/flutter/pull/164982) opened on on March 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164982) 99 additions and 3 deletions in 2 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; in RBE doc, remove bit about `gcloud` being included in the engine source<br />
-  <sub>[#165005](https://github.com/flutter/flutter/pull/165005) opened on on March 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165005) 2 additions and 9 deletions in 1 file</sub><br />
-
 * **[Goddchen](https://github.com/Goddchen)** &mdash; fix(a11y): check for remaining relevant text direction properties<br />
   <sub>[#165028](https://github.com/flutter/flutter/pull/165028) opened on on March 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165028) 6 additions and 0 deletions in 1 file</sub><br />
 
