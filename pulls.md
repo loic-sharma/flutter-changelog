@@ -161,3 +161,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix regression in semantics update handling.<br />
   <sub>[#165842](https://github.com/flutter/flutter/pull/165842) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165842) 2 additions and 5 deletions in 1 file</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move tracking of renderables from FlRenderer to FlEngine<br />
+  <sub>[#165848](https://github.com/flutter/flutter/pull/165848) opened on on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165848) 91 additions and 98 deletions in 7 files</sub><br />
+
