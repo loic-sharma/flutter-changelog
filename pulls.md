@@ -122,9 +122,6 @@
 * **[jezell](https://github.com/jezell)** &mdash; [web] fix for text selection being incorrect while dragging<br />
   <sub>[#165732](https://github.com/flutter/flutter/pull/165732) opened on on March 22, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/165732) 14 additions and 3 deletions in 1 file</sub><br />
 
-* **[Narek Malkhasyan](https://github.com/narekmalk)** &mdash; Deprecated methods that call setStatusBarColor, setNavigationBarColor, setNavigationBarDividerColor<br />
-  <sub>[#165737](https://github.com/flutter/flutter/pull/165737) opened on on March 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165737) 18 additions and 1 deletion in 3 files</sub><br />
-
 * **[suojae](https://github.com/suojae)** &mdash; Fix: Apply theme to text in _PackageListTile<br />
   <sub>[#165739](https://github.com/flutter/flutter/pull/165739) opened on on March 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165739) 5 additions and 2 deletions in 1 file</sub><br />
 
@@ -135,7 +132,7 @@
   <sub>[#165789](https://github.com/flutter/flutter/pull/165789) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165789) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move app link settings task configuration to kotlin<br />
-  <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/165819) 388 additions and 129 deletions in 4 files</sub><br />
+  <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/165819) 388 additions and 129 deletions in 4 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
   <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1628 additions and 2 deletions in 29 files</sub><br />

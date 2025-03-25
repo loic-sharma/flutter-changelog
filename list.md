@@ -1001,7 +1001,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-3 commits.
+4 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration
   <sub>[#7648](https://github.com/flutter/packages/pull/7648) merged on March 25, 2025 &mdash; **Large:** [79 comments](https://github.com/flutter/packages/pull/7648) over 6 months, 494 additions and 11 deletions in 8 files</sub>
@@ -1010,6 +1010,10 @@
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration - platform impls
   <sub>[#8659](https://github.com/flutter/packages/pull/8659) merged on March 24, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/8659) over 1 month, 1499 additions and 455 deletions in 39 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] kotlin equality methods
+  <sub>[#8887](https://github.com/flutter/packages/pull/8887) merged on March 25, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/8887) over 1 week, 630 additions and 107 deletions in 16 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [webview_flutter] Fix macOS test issues and skip some legacy iOS tests
   <sub>[#8895](https://github.com/flutter/packages/pull/8895) merged on March 24, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8895) over 3 days, 277 additions and 264 deletions in 4 files</sub>
