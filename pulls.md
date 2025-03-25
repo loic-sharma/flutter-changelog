@@ -149,9 +149,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Release the SurfaceTextureSurfaceProducer's surface in the release method<br />
   <sub>[#165835](https://github.com/flutter/flutter/pull/165835) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165835) 19 additions and 0 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Unset GIT_DIR and other variables before updating<br />
-  <sub>[#165841](https://github.com/flutter/flutter/pull/165841) opened on on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165841) 76 additions and 13 deletions in 3 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix regression in semantics update handling.<br />
   <sub>[#165842](https://github.com/flutter/flutter/pull/165842) opened on on March 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165842) 109 additions and 23 deletions in 6 files</sub><br />
 
@@ -160,4 +157,7 @@
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu` keyboard navigation on filtered entries<br />
   <sub>[#165868](https://github.com/flutter/flutter/pull/165868) opened on on March 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165868) 48 additions and 2 deletions in 2 files</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue with calling `EnsureVisible` in `NestedScrollView`<br />
+  <sub>[#165885](https://github.com/flutter/flutter/pull/165885) opened on on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165885) 101 additions and 0 deletions in 5 files</sub><br />
 
