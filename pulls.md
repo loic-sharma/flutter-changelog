@@ -159,7 +159,7 @@
   <sub>[#165841](https://github.com/flutter/flutter/pull/165841) opened on on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165841) 76 additions and 13 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix regression in semantics update handling.<br />
-  <sub>[#165842](https://github.com/flutter/flutter/pull/165842) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165842) 2 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#165842](https://github.com/flutter/flutter/pull/165842) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165842) 109 additions and 23 deletions in 6 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move tracking of renderables from FlRenderer to FlEngine<br />
   <sub>[#165848](https://github.com/flutter/flutter/pull/165848) opened on on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165848) 91 additions and 98 deletions in 7 files</sub><br />
