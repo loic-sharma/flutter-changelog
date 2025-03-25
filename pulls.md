@@ -131,9 +131,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add drawRSuperellipse support to mock_canvas.<br />
   <sub>[#165744](https://github.com/flutter/flutter/pull/165744) opened on on March 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165744) 141 additions and 0 deletions in 2 files</sub><br />
 
-* **[jezell](https://github.com/jezell)** &mdash; Add run tests to engine tool<br />
-  <sub>[#165771](https://github.com/flutter/flutter/pull/165771) opened on on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165771) 50 additions and 31 deletions in 7 files</sub><br />
-
 * **[Darniel Rumple](https://github.com/daniellampl)** &mdash; Remove duplicate CHANGELOG entry<br />
   <sub>[#165789](https://github.com/flutter/flutter/pull/165789) opened on on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165789) 0 additions and 1 deletion in 1 file</sub><br />
 
