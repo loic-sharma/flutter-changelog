@@ -128,3 +128,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move OpenGL context management to FlOpenGLManager<br />
   <sub>[#166025](https://github.com/flutter/flutter/pull/166025) opened on on March 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166025) 332 additions and 589 deletions in 18 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CI] remove check for exact golden files.<br />
+  <sub>[#166031](https://github.com/flutter/flutter/pull/166031) opened on on March 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166031) 13 additions and 1114 deletions in 4 files</sub><br />
+
