@@ -125,6 +125,3 @@
 * **[Darniel Rumple](https://github.com/daniellampl)** &mdash; Make CurveTween `curve` a positional parameter<br />
   <sub>[#166012](https://github.com/flutter/flutter/pull/166012) opened on on March 26, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166012) 191 additions and 138 deletions in 52 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Revert "[ Device Lab ] Upgrade Device Lab projects to Java 18"<br />
-  <sub>[#166016](https://github.com/flutter/flutter/pull/166016) opened on on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166016) 40 additions and 34 deletions in 15 files</sub><br />
-
