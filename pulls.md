@@ -80,9 +80,6 @@
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; fix(ListTileTheme): isThreeLine is missing.<br />
   <sub>[#165481](https://github.com/flutter/flutter/pull/165481) opened on on March 19, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/165481) 372 additions and 6 deletions in 4 files</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchorAnimationDelegate for animating menus. <br />
-  <sub>[#165556](https://github.com/flutter/flutter/pull/165556) opened on on March 20, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/165556) 2057 additions and 32 deletions in 6 files</sub><br />
-
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Fix: DraggableScrollableSheet may not close if snapping is enabled<br />
   <sub>[#165557](https://github.com/flutter/flutter/pull/165557) opened on on March 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165557) 39 additions and 2 deletions in 2 files</sub><br />
 
