@@ -87,7 +87,7 @@
   <sub>[#165557](https://github.com/flutter/flutter/pull/165557) opened on on March 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165557) 39 additions and 2 deletions in 2 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles<br />
-  <sub>[#165596](https://github.com/flutter/flutter/pull/165596) opened on on March 20, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/165596) 383 additions and 233 deletions in 4 files</sub><br />
+  <sub>[#165596](https://github.com/flutter/flutter/pull/165596) opened on on March 20, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/165596) 381 additions and 233 deletions in 3 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#165630](https://github.com/flutter/flutter/pull/165630) opened on on March 21, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165630) 337 additions and 54 deletions in 14 files</sub><br />
@@ -103,9 +103,6 @@
 
 * **[suojae](https://github.com/suojae)** &mdash; Fix: Apply theme to text in _PackageListTile<br />
   <sub>[#165739](https://github.com/flutter/flutter/pull/165739) opened on on March 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165739) 5 additions and 2 deletions in 1 file</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add drawRSuperellipse support to mock_canvas.<br />
-  <sub>[#165744](https://github.com/flutter/flutter/pull/165744) opened on on March 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165744) 141 additions and 0 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move app link settings task configuration to kotlin<br />
   <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/165819) 462 additions and 196 deletions in 4 files</sub><br />
