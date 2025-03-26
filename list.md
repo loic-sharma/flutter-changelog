@@ -655,6 +655,11 @@
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) merged on March 10, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/162097) over 1 month, 307 additions and 31 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `withDurationAndBounce` to `SpringDescription`
+  <sub>[#164411](https://github.com/flutter/flutter/pull/164411) merged on March 11, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/164411) over 1 week, 140 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+  <sub><details><summary>1 image...</summary><img width="838" alt="image" src="https://github.com/user-attachments/assets/4d0dccc7-0f97-4a13-99a4-268228b87f08" /></details></sub>
+
 * **[Ashish Beck](https://github.com/ashishbeck)** &mdash; Added `semanticsIdentifier` to `Text` Widgets
   <sub>[#163843](https://github.com/flutter/flutter/pull/163843) merged on March 12, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/163843) over 2 weeks, 242 additions and 9 deletions in 7 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
@@ -671,11 +676,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dynamic Threading
   <sub>[#164748](https://github.com/flutter/flutter/pull/164748) merged on March 10, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/164748) over 3 days, 205 additions and 309 deletions in 16 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub>
-
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `withDurationAndBounce` to `SpringDescription`
-  <sub>[#164411](https://github.com/flutter/flutter/pull/164411) merged on March 11, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/164411) over 1 week, 140 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
-  <sub><details><summary>1 image...</summary><img width="838" alt="image" src="https://github.com/user-attachments/assets/4d0dccc7-0f97-4a13-99a4-268228b87f08" /></details></sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Convert `BaseFlutterTask` From Groovy to Kotlin
   <sub>[#163148](https://github.com/flutter/flutter/pull/163148) merged on March 14, 2025 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/163148) over 1 month, 993 additions and 188 deletions in 5 files</sub>
