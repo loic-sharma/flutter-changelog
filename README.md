@@ -36,7 +36,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove problematic stream usage from `FlutterView`<br />
-  <sub>[#162024](https://github.com/flutter/flutter/pull/162024) merged on March 25, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162024) over 2 months, 9 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#162024](https://github.com/flutter/flutter/pull/162024) merged on March 25, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/162024) over 2 months, 9 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add factory constructors for shorthands that would collide<br />
@@ -52,7 +52,7 @@
   <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove overriding of sampler mode to decal.<br />
-  <sub>[#165908](https://github.com/flutter/flutter/pull/165908) merged on March 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165908) over 3 hours, 6 additions and 29 deletions in 1 file</sub><br />
+  <sub>[#165908](https://github.com/flutter/flutter/pull/165908) merged on March 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165908) over 3 hours, 6 additions and 29 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libcxx to bd557f6f<br />
@@ -84,7 +84,7 @@
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[masato](https://github.com/masal9pse)** &mdash; Add enableDrag property to CupertinoSheetRoute and showCupertinoSheet<br />
-  <sub>[#163923](https://github.com/flutter/flutter/pull/163923) merged on March 25, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163923) over 1 month, 88 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#163923](https://github.com/flutter/flutter/pull/163923) merged on March 25, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/163923) over 1 month, 88 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable GLES tracing unless opted in.<br />
@@ -92,7 +92,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Animate a CupertinoButton based on tap move events only if the move happens between a tap down and a tap up<br />
-  <sub>[#165729](https://github.com/flutter/flutter/pull/165729) merged on March 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165729) over 3 days, 31 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#165729](https://github.com/flutter/flutter/pull/165729) merged on March 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165729) over 3 days, 31 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove transfer barriers from render pass, drop blit, tighten up graphics on level 3.<br />
@@ -116,7 +116,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixed premultiplied colors for antialiased colors<br />
-  <sub>[#165839](https://github.com/flutter/flutter/pull/165839) merged on March 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165839) over 22 hours, 21 additions and 19 deletions in 3 files</sub><br />
+  <sub>[#165839](https://github.com/flutter/flutter/pull/165839) merged on March 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/165839) over 22 hours, 21 additions and 19 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs after #165258<br />
@@ -180,7 +180,7 @@
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from e28bf080514a to 74c5ccfd9140 (2 revisions)<br />
-  <sub>[#165928](https://github.com/flutter/flutter/pull/165928) merged on March 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165928) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#165928](https://github.com/flutter/flutter/pull/165928) merged on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165928) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 22f5a70db6b3 to 9ba7bf8be99d (5 revisions)<br />
@@ -232,7 +232,7 @@
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: tighten up the graphics on level 3.<br />
-  <sub>[#165912](https://github.com/flutter/flutter/pull/165912) merged on March 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165912) over 4 hours, 15 additions and 30 deletions in 7 files</sub><br />
+  <sub>[#165912](https://github.com/flutter/flutter/pull/165912) merged on March 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165912) over 4 hours, 15 additions and 30 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 ### March 15, 2025 to March 21, 2025

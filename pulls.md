@@ -72,10 +72,7 @@
   <sub>[#165361](https://github.com/flutter/flutter/pull/165361) opened on on March 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165361) 433 additions and 429 deletions in 2 files</sub><br />
 
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
-  <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165370) 23 additions and 1 deletion in 2 files</sub><br />
-
-* **[Huy](https://github.com/huycozy)** &mdash; Fix keyboard cover SearchAnchor list results<br />
-  <sub>[#165382](https://github.com/flutter/flutter/pull/165382) opened on on March 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165382) 37 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165370) 23 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Range slider show overlay for both thumbs on hovering one<br />
   <sub>[#165393](https://github.com/flutter/flutter/pull/165393) opened on on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165393) 124 additions and 2 deletions in 2 files</sub><br />
