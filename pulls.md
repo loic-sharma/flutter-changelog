@@ -128,9 +128,6 @@
 * **[Muhammad Ahmer Khan](https://github.com/mahmerkhan)** &mdash; docs: fix ListView reference in SliverList documentation<br />
   <sub>[#165827](https://github.com/flutter/flutter/pull/165827) opened on on March 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165827) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix regression in semantics update handling.<br />
-  <sub>[#165842](https://github.com/flutter/flutter/pull/165842) opened on on March 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165842) 109 additions and 23 deletions in 6 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move tracking of renderables from FlRenderer to FlEngine<br />
   <sub>[#165848](https://github.com/flutter/flutter/pull/165848) opened on on March 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165848) 91 additions and 98 deletions in 7 files</sub><br />
 
