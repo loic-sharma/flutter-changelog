@@ -4,7 +4,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-71 commits.
+72 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Use SystemContextMenu by default on iOS<br />
   <sub>[#165354](https://github.com/flutter/flutter/pull/165354) merged on March 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/165354) over 6 days, 374 additions and 6 deletions in 13 files</sub><br />
@@ -14,6 +14,10 @@
   <sub>[#163417](https://github.com/flutter/flutter/pull/163417) merged on March 24, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/163417) over 1 month, 130 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/94f6722d-b466-4272-b90f-6ac3b358ba6d" width="200"/><img src="https://github.com/user-attachments/assets/125386fd-2b7d-4988-a54e-8893a7f5907b" width="200"/><img src="https://github.com/user-attachments/assets/b5a703d9-6c43-410d-819f-f864e9dde159" width="200"/><img src="https://github.com/user-attachments/assets/26e828dd-81c4-456f-b8c7-7c116d691060" width="200"/></details></sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; High contrast color scheme based on system forced colors<br />
+  <sub>[#165068](https://github.com/flutter/flutter/pull/165068) merged on March 26, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/165068) over 2 weeks, 542 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Remove attach target on deactivation of widget from overlay portal controller<br />
   <sub>[#164439](https://github.com/flutter/flutter/pull/164439) merged on March 26, 2025 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/164439) over 3 weeks, 181 additions and 2 deletions in 2 files</sub><br />
@@ -75,10 +79,6 @@
   <sub>[#165210](https://github.com/flutter/flutter/pull/165210) merged on March 24, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/165210) over 1 week, 200 additions and 183 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add debug json mechanism for EngineSceneBuilder.<br />
-  <sub>[#165821](https://github.com/flutter/flutter/pull/165821) merged on March 25, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/165821) over 6 hours, 528 additions and 5 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) merged on March 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/162731) over 1 month, 99 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -99,17 +99,21 @@
   <sub>[#165901](https://github.com/flutter/flutter/pull/165901) merged on March 25, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165901) over 1 hour, 72 additions and 557 deletions in 34 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add debug json mechanism for EngineSceneBuilder.<br />
+  <sub>[#165821](https://github.com/flutter/flutter/pull/165821) merged on March 25, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/165821) over 6 hours, 528 additions and 5 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable GLES tracing unless opted in.<br />
   <sub>[#165887](https://github.com/flutter/flutter/pull/165887) merged on March 26, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/165887) over 8 hours, 12 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove transfer barriers from render pass, drop blit, tighten up graphics on level 3.<br />
+  <sub>[#165584](https://github.com/flutter/flutter/pull/165584) merged on March 25, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/165584) over 4 days, 38 additions and 33 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Animate a CupertinoButton based on tap move events only if the move happens between a tap down and a tap up<br />
   <sub>[#165729](https://github.com/flutter/flutter/pull/165729) merged on March 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165729) over 3 days, 31 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove transfer barriers from render pass, drop blit, tighten up graphics on level 3.<br />
-  <sub>[#165584](https://github.com/flutter/flutter/pull/165584) merged on March 25, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/165584) over 4 days, 38 additions and 33 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Re-enable bash_entrypoint_test.dart<br />
   <sub>[#165809](https://github.com/flutter/flutter/pull/165809) merged on March 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165809) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
@@ -129,6 +133,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Lower min API for MTK down to 31.<br />
   <sub>[#165939](https://github.com/flutter/flutter/pull/165939) merged on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165939) over 15 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-remove wireframe.<br />
+  <sub>[#165929](https://github.com/flutter/flutter/pull/165929) merged on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165929) over 16 hours, 2 additions and 20 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixed premultiplied colors for antialiased colors<br />
@@ -155,10 +163,6 @@
   <sub>[#165601](https://github.com/flutter/flutter/pull/165601) merged on March 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/165601) over 4 days, 64 additions and 24 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-remove wireframe.<br />
-  <sub>[#165929](https://github.com/flutter/flutter/pull/165929) merged on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165929) over 16 hours, 2 additions and 20 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Unset GIT_DIR and other variables before updating<br />
   <sub>[#165818](https://github.com/flutter/flutter/pull/165818) merged on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165818) over 3 hours, 76 additions and 13 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -183,10 +187,6 @@
   <sub>[#165697](https://github.com/flutter/flutter/pull/165697) merged on March 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165697) over 3 days, 5 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move tracking of renderables from FlRenderer to FlEngine<br />
-  <sub>[#165848](https://github.com/flutter/flutter/pull/165848) merged on March 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165848) over 1 day, 91 additions and 98 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix clip rect occlusion rect calculation.<br />
   <sub>[#165446](https://github.com/flutter/flutter/pull/165446) merged on March 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/165446) over 5 days, 45 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
@@ -199,24 +199,24 @@
   <sub>[#165005](https://github.com/flutter/flutter/pull/165005) merged on March 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165005) over 2 weeks, 2 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move tracking of renderables from FlRenderer to FlEngine<br />
+  <sub>[#165848](https://github.com/flutter/flutter/pull/165848) merged on March 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165848) over 1 day, 91 additions and 98 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 22f5a70db6b3 to 9ba7bf8be99d (5 revisions)<br />
   <sub>[#165825](https://github.com/flutter/flutter/pull/165825) merged on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165825) over 1 hour, 74 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from 9ae62f884cd9 to d6acbca8e97a (1 revision)<br />
-  <sub>[#165980](https://github.com/flutter/flutter/pull/165980) merged on March 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165980) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Linux SDK from Aewmpu7l_HniO7aKQ... to iScQOaYHg2aJcF1LX...<br />
   <sub>[#165975](https://github.com/flutter/flutter/pull/165975) merged on March 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165975) over 1 hour, 4 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Linux SDK from Skjlz6df4TA2nmfI2... to Aewmpu7l_HniO7aKQ...<br />
-  <sub>[#165863](https://github.com/flutter/flutter/pull/165863) merged on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165863) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from d1b71ea5e580 to 6bc9982ca375 (1 revision)<br />
+  <sub>[#165958](https://github.com/flutter/flutter/pull/165958) merged on March 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165958) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 271cd2c4b1bd to 3ced0e452d06 (1 revision)<br />
-  <sub>[#165854](https://github.com/flutter/flutter/pull/165854) merged on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165854) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Linux SDK from Skjlz6df4TA2nmfI2... to Aewmpu7l_HniO7aKQ...<br />
+  <sub>[#165863](https://github.com/flutter/flutter/pull/165863) merged on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165863) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from d11d81b56f8c to d1b71ea5e580 (1 revision)<br />
@@ -227,6 +227,10 @@
   <sub>[#165944](https://github.com/flutter/flutter/pull/165944) merged on March 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165944) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from ea6c40b628e6 to d11d81b56f8c (7 revisions)<br />
+  <sub>[#165941](https://github.com/flutter/flutter/pull/165941) merged on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165941) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 3ced0e452d06 to 8673a5f66369 (2 revisions)<br />
   <sub>[#165870](https://github.com/flutter/flutter/pull/165870) merged on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165870) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
@@ -235,24 +239,24 @@
   <sub>[#165823](https://github.com/flutter/flutter/pull/165823) merged on March 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165823) over 1 hour, 74 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from d1b71ea5e580 to 6bc9982ca375 (1 revision)<br />
-  <sub>[#165958](https://github.com/flutter/flutter/pull/165958) merged on March 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165958) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from ea6c40b628e6 to d11d81b56f8c (7 revisions)<br />
-  <sub>[#165941](https://github.com/flutter/flutter/pull/165941) merged on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165941) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from 7b1062f9a8df to 31df9f4a0c12 (1 revision)<br />
-  <sub>[#165845](https://github.com/flutter/flutter/pull/165845) merged on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165845) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 271cd2c4b1bd to 3ced0e452d06 (1 revision)<br />
+  <sub>[#165854](https://github.com/flutter/flutter/pull/165854) merged on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165854) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Test Scripts from Odv8fZ_wqp4I5Nln7... to 42PT3J378bdexn4ck...<br />
   <sub>[#165930](https://github.com/flutter/flutter/pull/165930) merged on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165930) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from 7b1062f9a8df to 31df9f4a0c12 (1 revision)<br />
+  <sub>[#165845](https://github.com/flutter/flutter/pull/165845) merged on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165845) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from e28bf080514a to 74c5ccfd9140 (2 revisions)<br />
   <sub>[#165928](https://github.com/flutter/flutter/pull/165928) merged on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165928) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 8673a5f66369 to ea6c40b628e6 (4 revisions)<br />
+  <sub>[#165889](https://github.com/flutter/flutter/pull/165889) merged on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165889) over 5 hours, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 0482b69b605c to 22f5a70db6b3 (1 revision)<br />
@@ -267,12 +271,12 @@
   <sub>[#165837](https://github.com/flutter/flutter/pull/165837) merged on March 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165837) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 8673a5f66369 to ea6c40b628e6 (4 revisions)<br />
-  <sub>[#165889](https://github.com/flutter/flutter/pull/165889) merged on March 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165889) over 5 hours, 2 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 6bc9982ca375 to 001a96acfd29 (1 revision)<br />
   <sub>[#165985](https://github.com/flutter/flutter/pull/165985) merged on March 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165985) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from 9ae62f884cd9 to d6acbca8e97a (1 revision)<br />
+  <sub>[#165980](https://github.com/flutter/flutter/pull/165980) merged on March 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165980) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from cee5257a48a2 to 0482b69b605c (1 revision)<br />
@@ -1137,7 +1141,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-6 commits.
+7 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration<br />
   <sub>[#7648](https://github.com/flutter/packages/pull/7648) merged on March 25, 2025 &mdash; **Large:** [79 comments](https://github.com/flutter/packages/pull/7648) over 6 months, 494 additions and 11 deletions in 8 files</sub><br />
@@ -1158,6 +1162,10 @@
 * **[Lenz Paul](https://github.com/lenzpaul)** &mdash; [Camera] Add lens type information (iOS) <br />
   <sub>[#8723](https://github.com/flutter/packages/pull/8723) merged on March 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8723) over 3 weeks, 58 additions and 6 deletions in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Disable sandbox in Chrome dart tests<br />
+  <sub>[#8909](https://github.com/flutter/packages/pull/8909) merged on March 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8909) over 1 hour, 30 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [webview_flutter] Fix macOS test issues and skip some legacy iOS tests<br />
   <sub>[#8895](https://github.com/flutter/packages/pull/8895) merged on March 24, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8895) over 3 days, 277 additions and 264 deletions in 4 files</sub><br />
