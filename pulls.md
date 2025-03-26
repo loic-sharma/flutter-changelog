@@ -104,9 +104,6 @@
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; fix barrier overlap after and during FadeForwardsPageTransitionsBuilder transition animation<br />
   <sub>[#165726](https://github.com/flutter/flutter/pull/165726) opened on on March 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165726) 100 additions and 22 deletions in 2 files</sub><br />
 
-* **[jezell](https://github.com/jezell)** &mdash; [web] fix for text selection being incorrect while dragging<br />
-  <sub>[#165732](https://github.com/flutter/flutter/pull/165732) opened on on March 22, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/165732) 14 additions and 3 deletions in 1 file</sub><br />
-
 * **[suojae](https://github.com/suojae)** &mdash; Fix: Apply theme to text in _PackageListTile<br />
   <sub>[#165739](https://github.com/flutter/flutter/pull/165739) opened on on March 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165739) 5 additions and 2 deletions in 1 file</sub><br />
 
