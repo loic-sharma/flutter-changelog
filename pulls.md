@@ -120,7 +120,7 @@
   <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Display an error widget when an exception is thrown while defining the widget tree<br />
-  <sub>[#166005](https://github.com/flutter/flutter/pull/166005) opened on on March 26, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166005) 420 additions and 80 deletions in 12 files</sub><br />
+  <sub>[#166005](https://github.com/flutter/flutter/pull/166005) opened on on March 26, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166005) 420 additions and 80 deletions in 12 files</sub><br />
 
 * **[Darniel Rumple](https://github.com/daniellampl)** &mdash; Make CurveTween `curve` a positional parameter<br />
   <sub>[#166012](https://github.com/flutter/flutter/pull/166012) opened on on March 26, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166012) 191 additions and 138 deletions in 52 files</sub><br />
