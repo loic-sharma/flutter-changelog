@@ -117,7 +117,7 @@
   <sub>[#165819](https://github.com/flutter/flutter/pull/165819) opened on on March 24, 2025 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/165819) 462 additions and 196 deletions in 4 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
-  <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1640 additions and 14 deletions in 29 files</sub><br />
+  <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
 
 * **[Muhammad Ahmer Khan](https://github.com/mahmerkhan)** &mdash; docs: fix ListView reference in SliverList documentation<br />
   <sub>[#165827](https://github.com/flutter/flutter/pull/165827) opened on on March 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165827) 1 addition and 1 deletion in 1 file</sub><br />
