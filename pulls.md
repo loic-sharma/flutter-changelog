@@ -128,3 +128,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Cherry pick Linux_tool_integration_tests* subsharding<br />
   <sub>[#166021](https://github.com/flutter/flutter/pull/166021) opened on on March 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166021) 47 additions and 12 deletions in 1 file</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move OpenGL context management to FlOpenGLManager<br />
+  <sub>[#166025](https://github.com/flutter/flutter/pull/166025) opened on on March 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166025) 332 additions and 589 deletions in 18 files</sub><br />
+
