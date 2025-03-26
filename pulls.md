@@ -125,9 +125,6 @@
 * **[Muhammad Ahmer Khan](https://github.com/mahmerkhan)** &mdash; docs: fix ListView reference in SliverList documentation<br />
   <sub>[#165827](https://github.com/flutter/flutter/pull/165827) opened on on March 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165827) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move tracking of renderables from FlRenderer to FlEngine<br />
-  <sub>[#165848](https://github.com/flutter/flutter/pull/165848) opened on on March 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165848) 91 additions and 98 deletions in 7 files</sub><br />
-
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu` keyboard navigation on filtered entries<br />
   <sub>[#165868](https://github.com/flutter/flutter/pull/165868) opened on on March 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165868) 49 additions and 2 deletions in 2 files</sub><br />
 
