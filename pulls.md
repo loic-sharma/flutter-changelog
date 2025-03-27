@@ -134,6 +134,3 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Rename FlRenderer to FlCompositorOpenGL<br />
   <sub>[#166037](https://github.com/flutter/flutter/pull/166037) opened on on March 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166037) 724 additions and 870 deletions in 22 files</sub><br />
 
-* **[amaralphp](https://github.com/amaralphp)** &mdash; Apprgpay<br />
-  <sub>[#166039](https://github.com/flutter/flutter/pull/166039) opened on on March 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166039) 1478 additions and 293 deletions in 114 files</sub><br />
-
