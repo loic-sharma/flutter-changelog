@@ -140,6 +140,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
   <sub>[#166065](https://github.com/flutter/flutter/pull/166065) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166065) 187 additions and 12 deletions in 5 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix build_android_host_app_with_module_source device lab tests<br />
-  <sub>[#166077](https://github.com/flutter/flutter/pull/166077) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166077) 1 addition and 1 deletion in 1 file</sub><br />
-
