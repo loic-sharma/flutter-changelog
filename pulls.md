@@ -105,7 +105,7 @@
   <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS/macOS] Add Xcode error if dev dependencies are incorrect<br />
-  <sub>[#165916](https://github.com/flutter/flutter/pull/165916) opened on on March 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/165916) 1500 additions and 40 deletions in 32 files</sub><br />
+  <sub>[#165916](https://github.com/flutter/flutter/pull/165916) opened on on March 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/165916) 1559 additions and 40 deletions in 32 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] only release background image readers on Android 14.<br />
   <sub>[#165942](https://github.com/flutter/flutter/pull/165942) opened on on March 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165942) 141 additions and 76 deletions in 19 files</sub><br />
