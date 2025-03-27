@@ -1161,7 +1161,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-9 commits.
+10 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration<br />
   <sub>[#7648](https://github.com/flutter/packages/pull/7648) merged on March 25, 2025 &mdash; **Large:** [79 comments](https://github.com/flutter/packages/pull/7648) over 6 months, 494 additions and 11 deletions in 8 files</sub><br />
@@ -1190,6 +1190,10 @@
 * **[Lenz Paul](https://github.com/lenzpaul)** &mdash; [Camera] Add lens type information (iOS) <br />
   <sub>[#8723](https://github.com/flutter/packages/pull/8723) merged on March 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8723) over 3 weeks, 58 additions and 6 deletions in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] correct usage of extended generics in generator methods<br />
+  <sub>[#8910](https://github.com/flutter/packages/pull/8910) merged on March 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8910) over 9 hours, 37 additions and 36 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Disable sandbox in Chrome dart tests<br />
   <sub>[#8909](https://github.com/flutter/packages/pull/8909) merged on March 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8909) over 1 hour, 30 additions and 0 deletions in 5 files</sub><br />
