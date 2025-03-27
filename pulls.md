@@ -45,7 +45,7 @@
   <sub>[#164769](https://github.com/flutter/flutter/pull/164769) opened on on March 7, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/164769) 442 additions and 9 deletions in 6 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Menu anchor respect alignment offset for right<br />
-  <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164858) 49 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164858) 49 additions and 6 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Cancel animation when recieved `UIKeyboardWillHideNotification` with duration 0.0<br />
   <sub>[#164884](https://github.com/flutter/flutter/pull/164884) opened on on March 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164884) 78 additions and 1 deletion in 2 files</sub><br />
@@ -62,17 +62,11 @@
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Juergen Werner](https://github.com/pogojotz)** &mdash; Add more visual feedback to Slider with slideOnly interaction<br />
-  <sub>[#165306](https://github.com/flutter/flutter/pull/165306) opened on on March 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165306) 2 additions and 8 deletions in 1 file</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move paddle slider value indicator shape<br />
-  <sub>[#165361](https://github.com/flutter/flutter/pull/165361) opened on on March 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165361) 433 additions and 429 deletions in 2 files</sub><br />
+  <sub>[#165361](https://github.com/flutter/flutter/pull/165361) opened on on March 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/165361) 433 additions and 429 deletions in 2 files</sub><br />
 
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
   <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165370) 23 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Range slider show overlay for both thumbs on hovering one<br />
-  <sub>[#165393](https://github.com/flutter/flutter/pull/165393) opened on on March 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165393) 124 additions and 2 deletions in 2 files</sub><br />
 
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
   <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
