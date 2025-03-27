@@ -140,3 +140,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix read only TextField focus traversal on macOS<br />
   <sub>[#166056](https://github.com/flutter/flutter/pull/166056) opened on on March 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166056) 58 additions and 2 deletions in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "[ Device Lab ] Upgrade Device Lab projects to Java 18" (#166016)<br />
+  <sub>[#166059](https://github.com/flutter/flutter/pull/166059) opened on on March 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166059) 36 additions and 42 deletions in 16 files</sub><br />
+
