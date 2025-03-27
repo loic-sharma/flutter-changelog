@@ -113,6 +113,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][pv]fix platform view crash due to screenScale=0<br />
   <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] only release background image readers on Android 14.<br />
+  <sub>[#165942](https://github.com/flutter/flutter/pull/165942) opened on on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165942) 141 additions and 76 deletions in 19 files</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] optimize drawImageRect with blend color filter.<br />
   <sub>[#165998](https://github.com/flutter/flutter/pull/165998) opened on on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165998) 239 additions and 17 deletions in 6 files</sub><br />
 
@@ -126,11 +129,11 @@
   <sub>[#166021](https://github.com/flutter/flutter/pull/166021) opened on on March 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166021) 47 additions and 12 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move OpenGL context management to FlOpenGLManager<br />
-  <sub>[#166025](https://github.com/flutter/flutter/pull/166025) opened on on March 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166025) 332 additions and 589 deletions in 18 files</sub><br />
+  <sub>[#166025](https://github.com/flutter/flutter/pull/166025) opened on on March 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166025) 319 additions and 590 deletions in 19 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CI] remove check for exact golden files.<br />
-  <sub>[#166031](https://github.com/flutter/flutter/pull/166031) opened on on March 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166031) 15 additions and 1220 deletions in 14 files</sub><br />
+  <sub>[#166031](https://github.com/flutter/flutter/pull/166031) opened on on March 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166031) 15 additions and 1222 deletions in 14 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Rename FlRenderer to FlCompositorOpenGL<br />
-  <sub>[#166037](https://github.com/flutter/flutter/pull/166037) opened on on March 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166037) 724 additions and 870 deletions in 22 files</sub><br />
+  <sub>[#166037](https://github.com/flutter/flutter/pull/166037) opened on on March 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166037) 711 additions and 871 deletions in 23 files</sub><br />
 
