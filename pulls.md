@@ -137,6 +137,3 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Rename FlRenderer to FlCompositorOpenGL<br />
   <sub>[#166037](https://github.com/flutter/flutter/pull/166037) opened on on March 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166037) 711 additions and 871 deletions in 23 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [dart:ui] Add `Path.addRSuperellipse`<br />
-  <sub>[#166045](https://github.com/flutter/flutter/pull/166045) opened on on March 27, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166045) 304 additions and 192 deletions in 9 files</sub><br />
-
