@@ -108,7 +108,7 @@
   <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu` keyboard navigation on filtered entries<br />
-  <sub>[#165868](https://github.com/flutter/flutter/pull/165868) opened on on March 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165868) 49 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#165868](https://github.com/flutter/flutter/pull/165868) opened on on March 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165868) 48 additions and 2 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][pv]fix platform view crash due to screenScale=0<br />
   <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
@@ -136,4 +136,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Rename FlRenderer to FlCompositorOpenGL<br />
   <sub>[#166037](https://github.com/flutter/flutter/pull/166037) opened on on March 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166037) 711 additions and 871 deletions in 23 files</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix read only TextField focus traversal on macOS<br />
+  <sub>[#166056](https://github.com/flutter/flutter/pull/166056) opened on on March 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166056) 58 additions and 2 deletions in 2 files</sub><br />
 
