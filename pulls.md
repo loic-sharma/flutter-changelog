@@ -108,7 +108,7 @@
   <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu` keyboard navigation on filtered entries<br />
-  <sub>[#165868](https://github.com/flutter/flutter/pull/165868) opened on on March 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165868) 50 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#165868](https://github.com/flutter/flutter/pull/165868) opened on on March 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165868) 50 additions and 2 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][pv]fix platform view crash due to screenScale=0<br />
   <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
@@ -142,4 +142,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "[ Device Lab ] Upgrade Device Lab projects to Java 18" (#166016)<br />
   <sub>[#166059](https://github.com/flutter/flutter/pull/166059) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166059) 36 additions and 42 deletions in 16 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
+  <sub>[#166064](https://github.com/flutter/flutter/pull/166064) opened on on March 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166064) 187 additions and 12 deletions in 5 files</sub><br />
 
