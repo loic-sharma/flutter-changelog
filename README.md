@@ -229,7 +229,7 @@
   <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
-  <sub>[#165693](https://github.com/flutter/flutter/pull/165693) merged on March 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165693) over 4 days, 187 additions and 12 deletions in 5 files</sub><br />
+  <sub>[#165693](https://github.com/flutter/flutter/pull/165693) merged on March 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165693) over 4 days, 187 additions and 12 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv]fix platform view crash due to screenScale=0<br />
