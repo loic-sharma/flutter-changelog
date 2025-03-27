@@ -120,7 +120,7 @@
   <sub>[#165998](https://github.com/flutter/flutter/pull/165998) opened on on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165998) 239 additions and 17 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Display an error widget when an exception is thrown while defining the widget tree<br />
-  <sub>[#166005](https://github.com/flutter/flutter/pull/166005) opened on on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166005) 211 additions and 81 deletions in 9 files</sub><br />
+  <sub>[#166005](https://github.com/flutter/flutter/pull/166005) opened on on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166005) 211 additions and 81 deletions in 9 files</sub><br />
 
 * **[Darniel Rumple](https://github.com/daniellampl)** &mdash; Make CurveTween `curve` a positional parameter<br />
   <sub>[#166012](https://github.com/flutter/flutter/pull/166012) opened on on March 26, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166012) 191 additions and 138 deletions in 52 files</sub><br />
@@ -136,9 +136,6 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix read only TextField focus traversal on macOS<br />
   <sub>[#166056](https://github.com/flutter/flutter/pull/166056) opened on on March 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166056) 58 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "[ Device Lab ] Upgrade Device Lab projects to Java 18" (#166016)<br />
-  <sub>[#166059](https://github.com/flutter/flutter/pull/166059) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166059) 36 additions and 42 deletions in 16 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
   <sub>[#166064](https://github.com/flutter/flutter/pull/166064) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166064) 187 additions and 12 deletions in 5 files</sub><br />
