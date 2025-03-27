@@ -230,7 +230,7 @@
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix build_android_host_app_with_module_source device lab tests<br />
-  <sub>[#166077](https://github.com/flutter/flutter/pull/166077) merged on March 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166077) over 2 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#166077](https://github.com/flutter/flutter/pull/166077) merged on March 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166077) over 2 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix regression in semantics update handling.<br />
