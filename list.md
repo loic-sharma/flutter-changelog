@@ -1190,7 +1190,7 @@
 
 ### March 22, 2025 to March 28, 2025
 
-10 commits.
+11 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration
   <sub>[#7648](https://github.com/flutter/packages/pull/7648) merged on March 25, 2025 &mdash; **Large:** [79 comments](https://github.com/flutter/packages/pull/7648) over 6 months, 494 additions and 11 deletions in 8 files</sub>
@@ -1199,6 +1199,10 @@
 * **[ふぁ](https://github.com/fa0311)** &mdash; [video_player] Fix layout issue caused by `Transform.rotate` not affecting space calculation.
   <sub>[#8685](https://github.com/flutter/packages/pull/8685) merged on March 27, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/8685) over 1 month, 23 additions and 25 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Test utils and mocks swift migration - part 1
+  <sub>[#8890](https://github.com/flutter/packages/pull/8890) merged on March 27, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/8890) over 1 week, 355 additions and 373 deletions in 25 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration - platform impls
   <sub>[#8659](https://github.com/flutter/packages/pull/8659) merged on March 24, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/8659) over 1 month, 1499 additions and 455 deletions in 39 files</sub>
