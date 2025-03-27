@@ -114,7 +114,7 @@
   <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] optimize drawImageRect with blend color filter.<br />
-  <sub>[#165998](https://github.com/flutter/flutter/pull/165998) opened on on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165998) 239 additions and 17 deletions in 6 files</sub><br />
+  <sub>[#165998](https://github.com/flutter/flutter/pull/165998) opened on on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165998) 239 additions and 17 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Display an error widget when an exception is thrown while defining the widget tree<br />
   <sub>[#166005](https://github.com/flutter/flutter/pull/166005) opened on on March 26, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166005) 420 additions and 80 deletions in 12 files</sub><br />
@@ -130,4 +130,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CI] remove check for exact golden files.<br />
   <sub>[#166031](https://github.com/flutter/flutter/pull/166031) opened on on March 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166031) 13 additions and 1114 deletions in 4 files</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [DO NOT LAND] Pv regression on screen scale revert to deprecated api<br />
+  <sub>[#166036](https://github.com/flutter/flutter/pull/166036) opened on on March 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166036) 6 additions and 9 deletions in 2 files</sub><br />
 
