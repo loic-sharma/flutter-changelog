@@ -144,5 +144,8 @@
   <sub>[#166059](https://github.com/flutter/flutter/pull/166059) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166059) 36 additions and 42 deletions in 16 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
-  <sub>[#166064](https://github.com/flutter/flutter/pull/166064) opened on on March 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166064) 187 additions and 12 deletions in 5 files</sub><br />
+  <sub>[#166064](https://github.com/flutter/flutter/pull/166064) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166064) 187 additions and 12 deletions in 5 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
+  <sub>[#166065](https://github.com/flutter/flutter/pull/166065) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166065) 187 additions and 12 deletions in 5 files</sub><br />
 
