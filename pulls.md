@@ -66,7 +66,7 @@
   <sub>[#165361](https://github.com/flutter/flutter/pull/165361) opened on on March 18, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/165361) 433 additions and 429 deletions in 2 files</sub><br />
 
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
-  <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165370) 23 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165370) 23 additions and 1 deletion in 2 files</sub><br />
 
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
   <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
@@ -136,4 +136,7 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add selected day and year theme data<br />
   <sub>[#166122](https://github.com/flutter/flutter/pull/166122) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166122) 164 additions and 26 deletions in 4 files</sub><br />
+
+* **[Per Lycke](https://github.com/PerLycke)** &mdash; Fix: Image errorBuilder handles errors during navigation transitions<br />
+  <sub>[#166130](https://github.com/flutter/flutter/pull/166130) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166130) 80 additions and 0 deletions in 2 files</sub><br />
 
