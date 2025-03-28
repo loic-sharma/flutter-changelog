@@ -104,6 +104,9 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS/macOS] Add Xcode error if dev dependencies are incorrect<br />
   <sub>[#165916](https://github.com/flutter/flutter/pull/165916) opened on on March 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/165916) 1559 additions and 40 deletions in 32 files</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Updated to latest AVD to Support Android 16 (API 36)<br />
+  <sub>[#165926](https://github.com/flutter/flutter/pull/165926) opened on on March 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165926) 2 additions and 2 deletions in 1 file</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] optimize drawImageRect with blend color filter.<br />
   <sub>[#165998](https://github.com/flutter/flutter/pull/165998) opened on on March 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165998) 239 additions and 17 deletions in 6 files</sub><br />
 
@@ -111,7 +114,7 @@
   <sub>[#166012](https://github.com/flutter/flutter/pull/166012) opened on on March 26, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166012) 191 additions and 138 deletions in 52 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert `AppPluginLoaderPlugin` to Kotlin, and add `NativePluginLoaderReflectionBridge` to expose it in Kotlin<br />
-  <sub>[#166027](https://github.com/flutter/flutter/pull/166027) opened on on March 26, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/166027) 207 additions and 177 deletions in 9 files</sub><br />
+  <sub>[#166027](https://github.com/flutter/flutter/pull/166027) opened on on March 26, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/166027) 239 additions and 177 deletions in 16 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Rename FlRenderer to FlCompositorOpenGL<br />
   <sub>[#166037](https://github.com/flutter/flutter/pull/166037) opened on on March 27, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/166037) 434 additions and 323 deletions in 13 files</sub><br />
