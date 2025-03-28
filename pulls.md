@@ -107,9 +107,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS/macOS] Add Xcode error if dev dependencies are incorrect<br />
   <sub>[#165916](https://github.com/flutter/flutter/pull/165916) opened on on March 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/165916) 1559 additions and 40 deletions in 32 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] only release background image readers on Android 14.<br />
-  <sub>[#165942](https://github.com/flutter/flutter/pull/165942) opened on on March 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165942) 141 additions and 76 deletions in 19 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] optimize drawImageRect with blend color filter.<br />
   <sub>[#165998](https://github.com/flutter/flutter/pull/165998) opened on on March 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165998) 239 additions and 17 deletions in 6 files</sub><br />
 
