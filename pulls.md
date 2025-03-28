@@ -140,3 +140,6 @@
 * **[Kalle Johansson](https://github.com/Kal-Elx)** &mdash; Add snapAnimationCurve to DraggableScrollableSheet<br />
   <sub>[#166134](https://github.com/flutter/flutter/pull/166134) opened on on March 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166134) 108 additions and 16 deletions in 2 files</sub><br />
 
+* **[Conner Kasten](https://github.com/emerssso)** &mdash; Public nodes needing paint or layout<br />
+  <sub>[#166148](https://github.com/flutter/flutter/pull/166148) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166148) 47 additions and 0 deletions in 2 files</sub><br />
+
