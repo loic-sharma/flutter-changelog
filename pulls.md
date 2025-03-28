@@ -140,3 +140,6 @@
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add support for building release/profile mode for custom devices<br />
   <sub>[#166132](https://github.com/flutter/flutter/pull/166132) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166132) 241 additions and 52 deletions in 11 files</sub><br />
 
+* **[Kalle Johansson](https://github.com/Kal-Elx)** &mdash; Add snapAnimationCurve to DraggableScrollableSheet<br />
+  <sub>[#166134](https://github.com/flutter/flutter/pull/166134) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166134) 108 additions and 16 deletions in 2 files</sub><br />
+
