@@ -181,31 +181,31 @@ bool _ignore(Commit commit) {
     }
   }
 
-  if (pr.authorLogin == 'engine-flutter-autoroll') {
+  final rollers = const {
+    'engine-flutter-autoroll',
+    'fluttergithubbot',
+    'flutter-pub-roller-bot',
+    'skia-flutter-autoroll',
+  };
+  if (rollers.contains(pr.authorLogin)) {
     if (pr.title.startsWith('Manual roll Flutter Engine from')) return true;
     if (pr.title.startsWith('Manual roll Flutter from')) return true;
     if (pr.title.startsWith('Manual roll Packages from')) return true;
     if (pr.title.startsWith('Manual roll Plugins from')) return true;
+    if (pr.title.startsWith('Roll Dart SDK from ')) return true;
+    if (pr.title.startsWith('Roll Fuchsia ')) return true;
     if (pr.title.startsWith('Roll Flutter Engine from')) return true;
     if (pr.title.startsWith('Roll Flutter from')) return true;
+    if (pr.title.startsWith('Roll ICU from ')) return true;
     if (pr.title.startsWith('Roll Packages from')) return true;
     if (pr.title.startsWith('Roll Plugins from')) return true;
-  }
+    if (pr.title.startsWith('Roll Skia from')) return true;
 
-  if (pr.authorLogin == 'fluttergithubbot') {
-    if (pr.title.startsWith('Roll pub packages')) return true;
-    if (pr.title.startsWith('Marks') && pr.title.endsWith('to be unflaky')) return true;
-  }
-
-  if (pr.authorLogin == 'flutter-pub-roller-bot') {
     if (pr.title == 'Roll pub packages') return true;
   }
 
-  if (pr.authorLogin == 'skia-flutter-autoroll') {
-    if (pr.title.startsWith('Roll Dart SDK from ')) return true;
-    if (pr.title.startsWith('Roll Fuchsia ')) return true;
-    if (pr.title.startsWith('Roll ICU from ')) return true;
-    if (pr.title.startsWith('Roll Skia from')) return true;
+  if (pr.authorLogin == 'fluttergithubbot') {
+    if (pr.title.startsWith('Marks') && pr.title.endsWith('to be unflaky')) return true;
   }
 
   return false;
