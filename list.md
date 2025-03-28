@@ -292,7 +292,7 @@
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv]fully revert the UIScreen.main deprecated API change
-  <sub>[#166080](https://github.com/flutter/flutter/pull/166080) merged on March 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166080) over 10 hours, 57 additions and 209 deletions in 6 files</sub>
+  <sub>[#166080](https://github.com/flutter/flutter/pull/166080) merged on March 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166080) over 10 hours, 57 additions and 209 deletions in 6 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix semantic scrollable when there are no scroll actions
