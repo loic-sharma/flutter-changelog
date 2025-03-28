@@ -102,7 +102,7 @@
   <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS/macOS] Add Xcode error if dev dependencies are incorrect<br />
-  <sub>[#165916](https://github.com/flutter/flutter/pull/165916) opened on on March 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/165916) 1559 additions and 40 deletions in 32 files</sub><br />
+  <sub>[#165916](https://github.com/flutter/flutter/pull/165916) opened on on March 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/165916) 1577 additions and 45 deletions in 32 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated to latest AVD to Support Android 16 (API 36)<br />
   <sub>[#165926](https://github.com/flutter/flutter/pull/165926) opened on on March 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165926) 2 additions and 2 deletions in 1 file</sub><br />
