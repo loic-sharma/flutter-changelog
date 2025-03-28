@@ -69,7 +69,7 @@
   <sub>[#165481](https://github.com/flutter/flutter/pull/165481) opened on on March 19, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/165481) 372 additions and 6 deletions in 4 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles<br />
-  <sub>[#165596](https://github.com/flutter/flutter/pull/165596) opened on on March 20, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/165596) 445 additions and 333 deletions in 7 files</sub><br />
+  <sub>[#165596](https://github.com/flutter/flutter/pull/165596) opened on on March 20, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/165596) 446 additions and 334 deletions in 8 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#165630](https://github.com/flutter/flutter/pull/165630) opened on on March 21, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165630) 337 additions and 54 deletions in 14 files</sub><br />
@@ -133,4 +133,7 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate conics to linear path segments<br />
   <sub>[#166165](https://github.com/flutter/flutter/pull/166165) opened on on March 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166165) 245 additions and 12 deletions in 5 files</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [dart:ui] Add Path.addRSuperellipse (alternative)<br />
+  <sub>[#166167](https://github.com/flutter/flutter/pull/166167) opened on on March 28, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/166167) 303 additions and 214 deletions in 14 files</sub><br />
 
