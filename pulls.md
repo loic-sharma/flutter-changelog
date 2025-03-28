@@ -131,3 +131,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [dart:ui] Add Path.addRSuperellipse (alternative)<br />
   <sub>[#166167](https://github.com/flutter/flutter/pull/166167) opened on on March 28, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/166167) 303 additions and 214 deletions in 14 files</sub><br />
 
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [beta][ios] Revert `UIScreen.shared` deprecation PR<br />
+  <sub>[#166172](https://github.com/flutter/flutter/pull/166172) opened on on March 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166172) 58 additions and 171 deletions in 9 files</sub><br />
+
