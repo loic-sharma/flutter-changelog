@@ -49,13 +49,17 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
   <sub><details><summary>3 images...</summary><img width="1024" alt="image" src="https://github.com/user-attachments/assets/1721527b-f0d5-4d72-a6e4-bfde6d81e7fb" /><img width="1006" alt="image" src="https://github.com/user-attachments/assets/81ff9d06-0007-4edf-958b-f2d5284ee3dd" /><img width="1014" alt="image" src="https://github.com/user-attachments/assets/48dd2299-f71b-4978-9e10-db40827215b6" /></details></sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Add set semantics enabled API and wire iOS a11y bridge<br />
-  <sub>[#161265](https://github.com/flutter/flutter/pull/161265) merged on March 24, 2025 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/161265) over 2 months, 557 additions and 72 deletions in 34 files</sub><br />
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add factory constructors for shorthands that would collide<br />
+  <sub>[#165597](https://github.com/flutter/flutter/pull/165597) merged on March 25, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/165597) over 4 days, 271 additions and 0 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Amal Krishna](https://github.com/amal-stack), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
   <sub>[#161487](https://github.com/flutter/flutter/pull/161487) merged on March 24, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/161487) over 2 months, 42 additions and 32 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add set semantics enabled API and wire iOS a11y bridge<br />
+  <sub>[#161265](https://github.com/flutter/flutter/pull/161265) merged on March 24, 2025 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/161265) over 2 months, 557 additions and 72 deletions in 34 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow `generate: true` as long as synthetic packages are not being used.<br />
   <sub>[#165838](https://github.com/flutter/flutter/pull/165838) merged on March 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165838) over 16 hours, 120 additions and 14 deletions in 2 files</sub><br />
@@ -64,10 +68,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Implements anti-aliased lines<br />
   <sub>[#164734](https://github.com/flutter/flutter/pull/164734) merged on March 24, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/164734) over 2 weeks, 1149 additions and 171 deletions in 58 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add factory constructors for shorthands that would collide<br />
-  <sub>[#165597](https://github.com/flutter/flutter/pull/165597) merged on March 25, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/165597) over 4 days, 271 additions and 0 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Amal Krishna](https://github.com/amal-stack), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove problematic stream usage from `FlutterView`<br />
   <sub>[#162024](https://github.com/flutter/flutter/pull/162024) merged on March 25, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/162024) over 2 months, 9 additions and 7 deletions in 1 file</sub><br />
@@ -82,6 +82,10 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
   <sub><details><summary>1 image...</summary><img width="687" alt="Screenshot 2025-03-25 at 1 09 16 PM" src="https://github.com/user-attachments/assets/b65dc1bf-6bf3-44d0-9605-95b51efc932c" /></details></sub>
 
+* **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add focus check to onTapUpOutside<br />
+  <sub>[#162939](https://github.com/flutter/flutter/pull/162939) merged on March 24, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162939) over 1 month, 182 additions and 40 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
 * **[Muhammad Ahmer Khan](https://github.com/mahmerkhan)** &mdash; docs: fix ListView reference in SliverList documentation<br />
   <sub>[#165827](https://github.com/flutter/flutter/pull/165827) merged on March 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165827) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -91,10 +95,6 @@
   <sub>[#166005](https://github.com/flutter/flutter/pull/166005) merged on March 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166005) over 1 day, 211 additions and 81 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/f9038fa0-9e6e-4037-bc33-a304861c6a22)</details></sub>
-
-* **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add focus check to onTapUpOutside<br />
-  <sub>[#162939](https://github.com/flutter/flutter/pull/162939) merged on March 24, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162939) over 1 month, 182 additions and 40 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make sure `LayoutBuilder` rebuild in an inactive route<br />
   <sub>[#154681](https://github.com/flutter/flutter/pull/154681) merged on March 28, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/154681) over 6 months, 243 additions and 35 deletions in 6 files</sub><br />
