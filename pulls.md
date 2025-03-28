@@ -131,3 +131,6 @@
 * **[Kalle Johansson](https://github.com/Kal-Elx)** &mdash; Add snapAnimationCurve to DraggableScrollableSheet<br />
   <sub>[#166134](https://github.com/flutter/flutter/pull/166134) opened on on March 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166134) 108 additions and 16 deletions in 2 files</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate conics to linear path segments<br />
+  <sub>[#166165](https://github.com/flutter/flutter/pull/166165) opened on on March 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166165) 245 additions and 12 deletions in 5 files</sub><br />
+
