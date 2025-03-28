@@ -126,7 +126,7 @@
   <sub>[#166112](https://github.com/flutter/flutter/pull/166112) opened on on March 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166112) 14 additions and 38 deletions in 3 files</sub><br />
 
 * **[Dustin Green](https://github.com/dustingreen)** &mdash; [fuchsia][sysmem2] switch to sysmem2 tokens<br />
-  <sub>[#166120](https://github.com/flutter/flutter/pull/166120) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166120) 22 additions and 12 deletions in 5 files</sub><br />
+  <sub>[#166120](https://github.com/flutter/flutter/pull/166120) opened on on March 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166120) 22 additions and 12 deletions in 5 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add selected day and year theme data<br />
   <sub>[#166122](https://github.com/flutter/flutter/pull/166122) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166122) 164 additions and 26 deletions in 4 files</sub><br />
@@ -139,7 +139,4 @@
 
 * **[Kalle Johansson](https://github.com/Kal-Elx)** &mdash; Add snapAnimationCurve to DraggableScrollableSheet<br />
   <sub>[#166134](https://github.com/flutter/flutter/pull/166134) opened on on March 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166134) 108 additions and 16 deletions in 2 files</sub><br />
-
-* **[Conner Kasten](https://github.com/emerssso)** &mdash; Public nodes needing paint or layout<br />
-  <sub>[#166148](https://github.com/flutter/flutter/pull/166148) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166148) 47 additions and 0 deletions in 2 files</sub><br />
 
