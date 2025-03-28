@@ -1296,7 +1296,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use a more deterministic way of waiting for ad widgets to be ready.<br />
-  <sub>[#8920](https://github.com/flutter/packages/pull/8920) merged on March 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8920) over 4 hours, 57 additions and 21 deletions in 4 files</sub><br />
+  <sub>[#8920](https://github.com/flutter/packages/pull/8920) merged on March 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8920) over 4 hours, 57 additions and 21 deletions in 4 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] correct usage of extended generics in generator methods<br />
