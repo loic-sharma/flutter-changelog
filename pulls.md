@@ -38,11 +38,8 @@
 * **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL<br />
   <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164720) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view theme<br />
-  <sub>[#164769](https://github.com/flutter/flutter/pull/164769) opened on on March 7, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/164769) 442 additions and 9 deletions in 6 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Menu anchor respect alignment offset for right<br />
-  <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164858) 49 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/164858) 49 additions and 6 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Cancel animation when recieved `UIKeyboardWillHideNotification` with duration 0.0<br />
   <sub>[#164884](https://github.com/flutter/flutter/pull/164884) opened on on March 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164884) 78 additions and 1 deletion in 2 files</sub><br />
@@ -124,9 +121,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
   <sub>[#166065](https://github.com/flutter/flutter/pull/166065) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166065) 187 additions and 12 deletions in 5 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Default to using Flutter Web for the widget preview environment<br />
-  <sub>[#166091](https://github.com/flutter/flutter/pull/166091) opened on on March 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166091) 29 additions and 16 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make empty texture lazy.<br />
   <sub>[#166112](https://github.com/flutter/flutter/pull/166112) opened on on March 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166112) 14 additions and 38 deletions in 3 files</sub><br />
