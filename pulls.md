@@ -141,5 +141,5 @@
   <sub>[#166130](https://github.com/flutter/flutter/pull/166130) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166130) 82 additions and 0 deletions in 2 files</sub><br />
 
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add support for building release/profile mode for custom devices<br />
-  <sub>[#166132](https://github.com/flutter/flutter/pull/166132) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166132) 237 additions and 52 deletions in 10 files</sub><br />
+  <sub>[#166132](https://github.com/flutter/flutter/pull/166132) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166132) 239 additions and 52 deletions in 10 files</sub><br />
 
