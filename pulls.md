@@ -114,7 +114,7 @@
   <sub>[#166012](https://github.com/flutter/flutter/pull/166012) opened on on March 26, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166012) 191 additions and 138 deletions in 52 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert `AppPluginLoaderPlugin` to Kotlin, and add `NativePluginLoaderReflectionBridge` to expose it in Kotlin<br />
-  <sub>[#166027](https://github.com/flutter/flutter/pull/166027) opened on on March 26, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/166027) 239 additions and 177 deletions in 16 files</sub><br />
+  <sub>[#166027](https://github.com/flutter/flutter/pull/166027) opened on on March 26, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/166027) 239 additions and 177 deletions in 16 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Rename FlRenderer to FlCompositorOpenGL<br />
   <sub>[#166037](https://github.com/flutter/flutter/pull/166037) opened on on March 27, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/166037) 434 additions and 323 deletions in 13 files</sub><br />
