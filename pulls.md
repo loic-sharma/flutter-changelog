@@ -72,7 +72,7 @@
   <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
 
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; fix(ListTileTheme): isThreeLine is missing.<br />
-  <sub>[#165481](https://github.com/flutter/flutter/pull/165481) opened on on March 19, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/165481) 372 additions and 6 deletions in 4 files</sub><br />
+  <sub>[#165481](https://github.com/flutter/flutter/pull/165481) opened on on March 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165481) 372 additions and 6 deletions in 4 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Fix: DraggableScrollableSheet may not close if snapping is enabled<br />
   <sub>[#165557](https://github.com/flutter/flutter/pull/165557) opened on on March 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165557) 39 additions and 2 deletions in 2 files</sub><br />
