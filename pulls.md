@@ -134,3 +134,6 @@
 * **[Dustin Green](https://github.com/dustingreen)** &mdash; [fuchsia][sysmem2] switch to sysmem2 tokens<br />
   <sub>[#166120](https://github.com/flutter/flutter/pull/166120) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166120) 22 additions and 12 deletions in 5 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add selected day and year theme data<br />
+  <sub>[#166122](https://github.com/flutter/flutter/pull/166122) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166122) 164 additions and 26 deletions in 4 files</sub><br />
+
