@@ -128,3 +128,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [dart:ui] Add Path.addRSuperellipse (alternative)<br />
   <sub>[#166167](https://github.com/flutter/flutter/pull/166167) opened on on March 28, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/166167) 303 additions and 214 deletions in 14 files</sub><br />
 
+* **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; Fix#165741<br />
+  <sub>[#166190](https://github.com/flutter/flutter/pull/166190) opened on on March 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166190) 35 additions and 1 deletion in 2 files</sub><br />
+
