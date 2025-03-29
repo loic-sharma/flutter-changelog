@@ -131,3 +131,6 @@
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; Fix#165741<br />
   <sub>[#166190](https://github.com/flutter/flutter/pull/166190) opened on on March 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166190) 35 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] small cpu perf for text contents.<br />
+  <sub>[#166199](https://github.com/flutter/flutter/pull/166199) opened on on March 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166199) 57 additions and 40 deletions in 2 files</sub><br />
+
