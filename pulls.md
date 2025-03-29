@@ -15,7 +15,7 @@
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162671) 104 additions and 0 deletions in 4 files</sub><br />
 
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
-  <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/162780) 42 additions and 18 deletions in 12 files</sub><br />
+  <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/162780) 42 additions and 18 deletions in 12 files</sub><br />
 
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
   <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
