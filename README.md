@@ -963,11 +963,11 @@
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration<br />
   <sub>[#7648](https://github.com/flutter/packages/pull/7648) merged on March 25, 2025 &mdash; **Large:** [79 comments](https://github.com/flutter/packages/pull/7648) over 6 months, 494 additions and 11 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[ふぁ](https://github.com/fa0311)** &mdash; [video_player] Fix layout issue caused by `Transform.rotate` not affecting space calculation.<br />
   <sub>[#8685](https://github.com/flutter/packages/pull/8685) merged on March 27, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/8685) over 1 month, 23 additions and 25 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Test utils and mocks swift migration - part 1<br />
   <sub>[#8890](https://github.com/flutter/packages/pull/8890) merged on March 27, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/8890) over 1 week, 355 additions and 373 deletions in 25 files</sub><br />
@@ -975,13 +975,13 @@
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration - platform impls<br />
   <sub>[#8659](https://github.com/flutter/packages/pull/8659) merged on March 24, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/8659) over 1 month, 1499 additions and 455 deletions in 39 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [shared_preferences] Fix a late initialized error with the example app<br />
   <sub>[#8540](https://github.com/flutter/packages/pull/8540) merged on March 27, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8540) over 1 month, 181 additions and 20 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jacob MacDonald](https://github.com/jakemac53), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Move changed file detection to base command class<br />
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Move changed file detection to base command class<br />
   <sub>[#8730](https://github.com/flutter/packages/pull/8730) merged on March 25, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/8730) over 3 weeks, 586 additions and 632 deletions in 65 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
@@ -991,11 +991,11 @@
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] kotlin equality methods<br />
   <sub>[#8887](https://github.com/flutter/packages/pull/8887) merged on March 25, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/8887) over 1 week, 630 additions and 107 deletions in 16 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Lenz Paul](https://github.com/lenzpaul)** &mdash; [Camera] Add lens type information (iOS) <br />
   <sub>[#8723](https://github.com/flutter/packages/pull/8723) merged on March 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8723) over 3 weeks, 58 additions and 6 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use a more deterministic way of waiting for ad widgets to be ready.<br />
   <sub>[#8920](https://github.com/flutter/packages/pull/8920) merged on March 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8920) over 4 hours, 57 additions and 21 deletions in 4 files</sub><br />
@@ -1003,9 +1003,9 @@
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] correct usage of extended generics in generator methods<br />
   <sub>[#8910](https://github.com/flutter/packages/pull/8910) merged on March 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8910) over 9 hours, 37 additions and 36 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Disable sandbox in Chrome dart tests<br />
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Disable sandbox in Chrome dart tests<br />
   <sub>[#8909](https://github.com/flutter/packages/pull/8909) merged on March 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8909) over 1 hour, 30 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
@@ -1020,20 +1020,20 @@
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Support for Ground Overlay<br />
   <sub>[#8432](https://github.com/flutter/packages/pull/8432) merged on March 18, 2025 &mdash; **Extra large:** [93 comments](https://github.com/flutter/packages/pull/8432) over 2 months, 1441 additions and 237 deletions in 11 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ville Välimaa](https://github.com/illuminati1911), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ville Välimaa](https://github.com/illuminati1911), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
   <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/1b1b4b9b-0260-49c4-87ed-4de29f4741db" width=40%><img src="https://github.com/user-attachments/assets/fd24e73d-70a0-4972-b7c2-595acc79c2e9" width=40%><img src="https://github.com/user-attachments/assets/06015fa8-6cc4-46ad-81f1-95966015d338" width=60%><img width="736" alt="documentation" src="https://github.com/user-attachments/assets/81bef3cb-2167-44fc-9c44-b45399ed4d30" /></details></sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Dart Class Equality<br />
   <sub>[#8788](https://github.com/flutter/packages/pull/8788) merged on March 20, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/8788) over 2 weeks, 1173 additions and 326 deletions in 19 files</sub><br />
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Ground overlay support - platform impls<br />
   <sub>[#8563](https://github.com/flutter/packages/pull/8563) merged on March 18, 2025 &mdash; **Extra large:** [39 comments](https://github.com/flutter/packages/pull/8563) over 1 month, 5480 additions and 608 deletions in 78 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [ash2moon](https://github.com/ash2moon)</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds Internal options<br />
   <sub>[#8709](https://github.com/flutter/packages/pull/8709) merged on March 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/8709) over 2 weeks, 4044 additions and 3063 deletions in 29 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Tests backfilling - part 4<br />
   <sub>[#8854](https://github.com/flutter/packages/pull/8854) merged on March 19, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/packages/pull/8854) over 6 days, 366 additions and 68 deletions in 22 files</sub><br />
@@ -1045,17 +1045,17 @@
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player]: reduce video player position update interval from 500ms to 100ms<br />
   <sub>[#8346](https://github.com/flutter/packages/pull/8346) merged on March 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8346) over 2 months, 80 additions and 3 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Lauri Niskanen](https://github.com/Ape)** &mdash; [image_picker] Fix getMedia on Linux<br />
   <sub>[#8811](https://github.com/flutter/packages/pull/8811) merged on March 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8811) over 1 week, 7 additions and 4 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add a carve-out on the commenting requirement<br />
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add a carve-out on the commenting requirement<br />
   <sub>[#8855](https://github.com/flutter/packages/pull/8855) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8855) over 5 days, 5 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Fix unit test asserting external value<br />
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera] Fix unit test asserting external value<br />
   <sub>[#8814](https://github.com/flutter/packages/pull/8814) merged on March 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8814) over 1 week, 16 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
@@ -1087,7 +1087,7 @@
 
 * **[Neil Self](https://github.com/neilself)** &mdash; [google_sign_in] Add Android account name field as optional<br />
   <sub>[#8573](https://github.com/flutter/packages/pull/8573) merged on March 8, 2025 &mdash; **Small:** [39 comments](https://github.com/flutter/packages/pull/8573) over 4 weeks, 32 additions and 8 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 </details>
 
@@ -1109,7 +1109,7 @@
   <sub>[#11843](https://github.com/flutter/website/pull/11843) merged on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11843) over 4 hours, 136 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add google_sign_in API update doc go link<br />
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add google_sign_in API update doc go link<br />
   <sub>[#11844](https://github.com/flutter/website/pull/11844) merged on March 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11844) over 4 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
