@@ -143,3 +143,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix min filter for GL external textures.<br />
+  <sub>[#166224](https://github.com/flutter/flutter/pull/166224) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166224) 9 additions and 0 deletions in 2 files</sub><br />
+
