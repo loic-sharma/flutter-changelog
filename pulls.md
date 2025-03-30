@@ -137,3 +137,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Improve using project files in build targets<br />
   <sub>[#166211](https://github.com/flutter/flutter/pull/166211) opened on on March 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166211) 106 additions and 14 deletions in 4 files</sub><br />
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
+  <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
+
