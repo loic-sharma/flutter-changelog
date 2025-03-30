@@ -134,3 +134,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] small cpu perf for text contents.<br />
   <sub>[#166199](https://github.com/flutter/flutter/pull/166199) opened on on March 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166199) 57 additions and 40 deletions in 2 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Improve using project files in build targets<br />
+  <sub>[#166211](https://github.com/flutter/flutter/pull/166211) opened on on March 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166211) 106 additions and 14 deletions in 4 files</sub><br />
+
