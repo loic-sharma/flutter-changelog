@@ -72,7 +72,7 @@
   <sub>[#165481](https://github.com/flutter/flutter/pull/165481) opened on on March 19, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/165481) 372 additions and 6 deletions in 4 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement CupertinoCollapsible/CupertinoExpansionTile<br />
-  <sub>[#165606](https://github.com/flutter/flutter/pull/165606) opened on on March 20, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165606) 430 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#165606](https://github.com/flutter/flutter/pull/165606) opened on on March 20, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165606) 434 additions and 3 deletions in 4 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#165630](https://github.com/flutter/flutter/pull/165630) opened on on March 21, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165630) 337 additions and 54 deletions in 14 files</sub><br />
@@ -136,9 +136,6 @@
 
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; Fix#165741<br />
   <sub>[#166190](https://github.com/flutter/flutter/pull/166190) opened on on March 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166190) 35 additions and 1 deletion in 2 files</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Improve using project files in build targets<br />
-  <sub>[#166211](https://github.com/flutter/flutter/pull/166211) opened on on March 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166211) 106 additions and 14 deletions in 4 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
