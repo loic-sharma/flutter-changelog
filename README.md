@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-8 commits.
+9 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) merged on March 31, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/163733) over 1 month, 130 additions and 0 deletions in 2 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS for the iOS review team<br />
   <sub>[#166178](https://github.com/flutter/flutter/pull/166178) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166178) over 2 days, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Updated to latest AVD to Support Android 16 (API 36)<br />
+  <sub>[#165926](https://github.com/flutter/flutter/pull/165926) merged on March 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165926) over 5 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_mokey new_gallery__crane_perf to be flaky<br />
   <sub>[#165964](https://github.com/flutter/flutter/pull/165964) merged on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165964) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
