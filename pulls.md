@@ -98,6 +98,9 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated to latest AVD to Support Android 16 (API 36)<br />
   <sub>[#165926](https://github.com/flutter/flutter/pull/165926) opened on on March 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165926) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Fix warning when building for macOS desktop<br />
+  <sub>[#165996](https://github.com/flutter/flutter/pull/165996) opened on on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165996) 207 additions and 21 deletions in 2 files</sub><br />
+
 * **[Darniel Rumple](https://github.com/daniellampl)** &mdash; Make CurveTween `curve` a positional parameter<br />
   <sub>[#166012](https://github.com/flutter/flutter/pull/166012) opened on on March 26, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166012) 191 additions and 138 deletions in 52 files</sub><br />
 
