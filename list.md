@@ -4,7 +4,11 @@
 
 ### March 29, 2025 to April 4, 2025
 
-11 commits.
+12 commits.
+
+* **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations
+  <sub>[#163690](https://github.com/flutter/flutter/pull/163690) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/163690) over 1 month, 48 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) merged on March 31, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/163733) over 1 month, 130 additions and 0 deletions in 2 files</sub>
