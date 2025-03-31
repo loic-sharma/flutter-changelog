@@ -81,13 +81,10 @@
   <sub>[#165739](https://github.com/flutter/flutter/pull/165739) opened on on March 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165739) 5 additions and 2 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
-  <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
+  <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu` keyboard navigation on filtered entries<br />
   <sub>[#165868](https://github.com/flutter/flutter/pull/165868) opened on on March 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165868) 50 additions and 2 deletions in 2 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][pv]fix platform view crash due to screenScale=0<br />
-  <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Fix warning when building for macOS desktop<br />
   <sub>[#165996](https://github.com/flutter/flutter/pull/165996) opened on on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165996) 207 additions and 21 deletions in 2 files</sub><br />
@@ -132,5 +129,5 @@
   <sub>[#166228](https://github.com/flutter/flutter/pull/166228) opened on on March 30, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166228) 446 additions and 38 deletions in 16 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Move `.cxx` directory out of `android/app`<br />
-  <sub>[#166277](https://github.com/flutter/flutter/pull/166277) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166277) 60 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#166277](https://github.com/flutter/flutter/pull/166277) opened on on March 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166277) 60 additions and 6 deletions in 3 files</sub><br />
 
