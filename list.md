@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 29, 2025 to April 4, 2025
+
+1 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix min filter for GL external textures.
+  <sub>[#166224](https://github.com/flutter/flutter/pull/166224) merged on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166224) over 6 hours, 9 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 ### March 22, 2025 to March 28, 2025
 
-94 commits.
+<details>
+<summary>94 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] optimize drawImageRect with blend and matrix color filter.
   <sub>[#165998](https://github.com/flutter/flutter/pull/165998) merged on March 29, 2025 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/165998) over 2 days, 494 additions and 76 deletions in 11 files</sub>
@@ -388,6 +397,8 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Revert "[ Device Lab ] Upgrade Device Lab projects to Java 18"
   <sub>[#166016](https://github.com/flutter/flutter/pull/166016) merged on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166016) over 1 minute, 40 additions and 34 deletions in 15 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+</details>
 
 ### March 15, 2025 to March 21, 2025
 
