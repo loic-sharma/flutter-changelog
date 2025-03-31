@@ -134,9 +134,6 @@
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; Fix#165741<br />
   <sub>[#166190](https://github.com/flutter/flutter/pull/166190) opened on on March 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166190) 35 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove validation warning ignores.<br />
-  <sub>[#166205](https://github.com/flutter/flutter/pull/166205) opened on on March 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166205) 0 additions and 16 deletions in 1 file</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Improve using project files in build targets<br />
   <sub>[#166211](https://github.com/flutter/flutter/pull/166211) opened on on March 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166211) 106 additions and 14 deletions in 4 files</sub><br />
 

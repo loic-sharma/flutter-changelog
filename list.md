@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-2 commits.
+3 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove `<meta content="IE=Edge" http-equiv="X-UA-Compatible">`
   <sub>[#166252](https://github.com/flutter/flutter/pull/166252) merged on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166252) over 1 hour, 0 additions and 16 deletions in 13 files</sub>
@@ -13,6 +13,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix min filter for GL external textures.
   <sub>[#166224](https://github.com/flutter/flutter/pull/166224) merged on March 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166224) over 6 hours, 9 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS for the iOS review team
+  <sub>[#166178](https://github.com/flutter/flutter/pull/166178) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166178) over 2 days, 7 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 ### March 22, 2025 to March 28, 2025
 
