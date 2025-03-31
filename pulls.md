@@ -137,6 +137,3 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove unnecessary cache busting mechanism in hot restart<br />
   <sub>[#166295](https://github.com/flutter/flutter/pull/166295) opened on on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166295) 6 additions and 13 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] fixes diagonal antialiased lines<br />
-  <sub>[#166298](https://github.com/flutter/flutter/pull/166298) opened on on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166298) 93 additions and 14 deletions in 2 files</sub><br />
-
