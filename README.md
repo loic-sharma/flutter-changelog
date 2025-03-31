@@ -660,7 +660,15 @@
 
 ### March 29, 2025 to April 4, 2025
 
-1 commits.
+3 commits.
+
+* **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; [webview_flutter_wkwebview] Fixes crash when sending undefined message via javascript channel<br />
+  <sub>[#8776](https://github.com/flutter/packages/pull/8776) merged on March 31, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8776) over 3 weeks, 54 additions and 4 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes `AdEventType`s not triggering on iOS in release mode<br />
+  <sub>[#8918](https://github.com/flutter/packages/pull/8918) merged on March 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8918) over 3 days, 8 additions and 3 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Skip test that hangs iOS CI<br />
   <sub>[#8958](https://github.com/flutter/packages/pull/8958) merged on March 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8958) over 22 minutes, 3 additions and 1 deletion in 1 file</sub><br />
