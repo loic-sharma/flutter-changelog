@@ -658,9 +658,18 @@
 
 ## flutter/packages
 
+### March 29, 2025 to April 4, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Skip test that hangs iOS CI
+  <sub>[#8958](https://github.com/flutter/packages/pull/8958) merged on March 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8958) over 22 minutes, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### March 22, 2025 to March 28, 2025
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add ability to animate camera with duration
   <sub>[#7648](https://github.com/flutter/packages/pull/7648) merged on March 25, 2025 &mdash; **Large:** [79 comments](https://github.com/flutter/packages/pull/7648) over 6 months, 494 additions and 11 deletions in 8 files</sub>
@@ -713,6 +722,8 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [webview_flutter] Fix macOS test issues and skip some legacy iOS tests
   <sub>[#8895](https://github.com/flutter/packages/pull/8895) merged on March 24, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/8895) over 3 days, 277 additions and 264 deletions in 4 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+</details>
 
 ### March 15, 2025 to March 21, 2025
 
