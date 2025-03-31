@@ -41,9 +41,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Menu anchor respect alignment offset for right<br />
   <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/164858) 48 additions and 6 deletions in 2 files</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Cancel animation when recieved `UIKeyboardWillHideNotification` with duration 0.0<br />
-  <sub>[#164884](https://github.com/flutter/flutter/pull/164884) opened on on March 9, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164884) 78 additions and 1 deletion in 2 files</sub><br />
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove bringup for Linux tools_integration_tests*<br />
   <sub>[#164947](https://github.com/flutter/flutter/pull/164947) opened on on March 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164947) 0 additions and 7 deletions in 1 file</sub><br />
 
@@ -73,9 +70,6 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#165630](https://github.com/flutter/flutter/pull/165630) opened on on March 21, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165630) 337 additions and 54 deletions in 14 files</sub><br />
-
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Disable autocorrection and spell check for password fields<br />
-  <sub>[#165637](https://github.com/flutter/flutter/pull/165637) opened on on March 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165637) 50 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
@@ -134,6 +128,9 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache for text shadows.<br />
+  <sub>[#166228](https://github.com/flutter/flutter/pull/166228) opened on on March 30, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166228) 446 additions and 38 deletions in 16 files</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Move `.cxx` directory out of `android/app`<br />
-  <sub>[#166277](https://github.com/flutter/flutter/pull/166277) opened on on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166277) 30 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#166277](https://github.com/flutter/flutter/pull/166277) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166277) 60 additions and 6 deletions in 3 files</sub><br />
 

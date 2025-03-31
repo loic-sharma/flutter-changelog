@@ -4,11 +4,19 @@
 
 ### March 29, 2025 to April 4, 2025
 
-9 commits.
+11 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) merged on March 31, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/163733) over 1 month, 130 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Cancel animation when recieved `UIKeyboardWillHideNotification` with duration 0.0
+  <sub>[#164884](https://github.com/flutter/flutter/pull/164884) merged on March 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164884) over 3 weeks, 78 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [luckysmg](https://github.com/luckysmg), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead
+  <sub>[#162780](https://github.com/flutter/flutter/pull/162780) merged on March 31, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/162780) over 1 month, 42 additions and 18 deletions in 12 files</sub>
+  <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [Chinmay Garde](https://github.com/chinmaygarde), [Miguel](https://github.com/miguelfrde), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove validation warning ignores.
   <sub>[#166205](https://github.com/flutter/flutter/pull/166205) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166205) over 1 day, 0 additions and 16 deletions in 1 file</sub>
