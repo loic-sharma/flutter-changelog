@@ -660,18 +660,22 @@
 
 ### March 29, 2025 to April 4, 2025
 
-5 commits.
+6 commits.
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; [webview_flutter_wkwebview] Fixes crash when sending undefined message via javascript channel
   <sub>[#8776](https://github.com/flutter/packages/pull/8776) merged on March 31, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8776) over 3 weeks, 54 additions and 4 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
-* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes `AdEventType`s not triggering on iOS in release mode
-  <sub>[#8918](https://github.com/flutter/packages/pull/8918) merged on March 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8918) over 3 days, 8 additions and 3 deletions in 5 files</sub>
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+* **[David Martos](https://github.com/davidmartos96)** &mdash; [camera_android] Don't override default fps range when not recording
+  <sub>[#8891](https://github.com/flutter/packages/pull/8891) merged on March 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8891) over 1 week, 43 additions and 30 deletions in 4 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [ash2moon](https://github.com/ash2moon)</sub>
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Fix typo and remove duplicitous CHANGELOG entry
   <sub>[#8754](https://github.com/flutter/packages/pull/8754) merged on March 31, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8754) over 1 month, 6 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes `AdEventType`s not triggering on iOS in release mode
+  <sub>[#8918](https://github.com/flutter/packages/pull/8918) merged on March 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8918) over 3 days, 8 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [extension_gsi] Support the latest version of googleapis_auth
