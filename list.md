@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-12 commits.
+13 commits.
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/163690) over 1 month, 48 additions and 2 deletions in 2 files</sub>
@@ -29,6 +29,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] handle shader ordering bug on macOS.
   <sub>[#165937](https://github.com/flutter/flutter/pull/165937) merged on March 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165937) over 5 days, 69 additions and 72 deletions in 4 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Conner Kasten](https://github.com/emerssso)** &mdash; Public nodes needing paint or layout
+  <sub>[#166148](https://github.com/flutter/flutter/pull/166148) merged on March 31, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/166148) over 3 days, 66 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Justin McCandless](https://github.com/justinmc), [Jonah Williams](https://github.com/jonahwilliams), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Correctly select entrypoint target for web build from positional argument list
   <sub>[#166260](https://github.com/flutter/flutter/pull/166260) merged on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166260) over 1 hour, 106 additions and 2 deletions in 2 files</sub>
