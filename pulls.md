@@ -14,9 +14,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162671) 104 additions and 0 deletions in 4 files</sub><br />
 
-* **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
-  <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/162780) 42 additions and 18 deletions in 12 files</sub><br />
-
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
   <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -97,9 +94,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][pv]fix platform view crash due to screenScale=0<br />
   <sub>[#165906](https://github.com/flutter/flutter/pull/165906) opened on on March 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165906) 27 additions and 2 deletions in 2 files</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Updated to latest AVD to Support Android 16 (API 36)<br />
-  <sub>[#165926](https://github.com/flutter/flutter/pull/165926) opened on on March 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165926) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Fix warning when building for macOS desktop<br />
   <sub>[#165996](https://github.com/flutter/flutter/pull/165996) opened on on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165996) 207 additions and 21 deletions in 2 files</sub><br />

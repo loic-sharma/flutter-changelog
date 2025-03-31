@@ -4,7 +4,11 @@
 
 ### March 29, 2025 to April 4, 2025
 
-7 commits.
+8 commits.
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme
+  <sub>[#163733](https://github.com/flutter/flutter/pull/163733) merged on March 31, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/163733) over 1 month, 130 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove validation warning ignores.
   <sub>[#166205](https://github.com/flutter/flutter/pull/166205) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166205) over 1 day, 0 additions and 16 deletions in 1 file</sub>
