@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-6 commits.
+7 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove validation warning ignores.
   <sub>[#166205](https://github.com/flutter/flutter/pull/166205) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166205) over 1 day, 0 additions and 16 deletions in 1 file</sub>
@@ -29,6 +29,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS for the iOS review team
   <sub>[#166178](https://github.com/flutter/flutter/pull/166178) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166178) over 2 days, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_mokey new_gallery__crane_perf to be flaky
+  <sub>[#165964](https://github.com/flutter/flutter/pull/165964) merged on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165964) over 5 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 ### March 22, 2025 to March 28, 2025
 
