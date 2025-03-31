@@ -4,11 +4,15 @@
 
 ### March 29, 2025 to April 4, 2025
 
-14 commits.
+15 commits.
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/163690) over 1 month, 48 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Move `.cxx` directory out of `android/app`<br />
+  <sub>[#166277](https://github.com/flutter/flutter/pull/166277) merged on March 31, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/166277) over 4 hours, 68 additions and 6 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) merged on March 31, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/163733) over 1 month, 130 additions and 0 deletions in 2 files</sub><br />
