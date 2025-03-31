@@ -4,7 +4,15 @@
 
 ### March 29, 2025 to April 4, 2025
 
-3 commits.
+5 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove validation warning ignores.<br />
+  <sub>[#166205](https://github.com/flutter/flutter/pull/166205) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166205) over 1 day, 0 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] handle shader ordering bug on macOS.<br />
+  <sub>[#165937](https://github.com/flutter/flutter/pull/165937) merged on March 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165937) over 5 days, 69 additions and 72 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove `<meta content="IE=Edge" http-equiv="X-UA-Compatible">`<br />
   <sub>[#166252](https://github.com/flutter/flutter/pull/166252) merged on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166252) over 1 hour, 0 additions and 16 deletions in 13 files</sub><br />
