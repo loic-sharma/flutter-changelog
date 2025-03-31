@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Cancel animation when recieved `UIKeyboardWillHideNotification` with duration 0.0
-  <sub>[#164884](https://github.com/flutter/flutter/pull/164884) merged on March 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164884) over 3 weeks, 78 additions and 1 deletion in 2 files</sub>
+  <sub>[#164884](https://github.com/flutter/flutter/pull/164884) merged on March 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/164884) over 3 weeks, 78 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [luckysmg](https://github.com/luckysmg), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead
