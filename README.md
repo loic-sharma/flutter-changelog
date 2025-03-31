@@ -692,7 +692,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-6 commits.
+7 commits.
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; [webview_flutter_wkwebview] Fixes crash when sending undefined message via javascript channel<br />
   <sub>[#8776](https://github.com/flutter/packages/pull/8776) merged on March 31, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8776) over 3 weeks, 54 additions and 4 deletions in 6 files</sub><br />
@@ -713,6 +713,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [extension_gsi] Support the latest version of googleapis_auth<br />
   <sub>[#8931](https://github.com/flutter/packages/pull/8931) merged on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8931) over 2 days, 4 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [webview_flutter] Skip flaky legacy tests on iOS<br />
+  <sub>[#8911](https://github.com/flutter/packages/pull/8911) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8911) over 4 days, 111 additions and 98 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Skip test that hangs iOS CI<br />
   <sub>[#8958](https://github.com/flutter/packages/pull/8958) merged on March 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8958) over 22 minutes, 3 additions and 1 deletion in 1 file</sub><br />
