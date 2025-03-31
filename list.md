@@ -7,7 +7,7 @@
 1 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix min filter for GL external textures.
-  <sub>[#166224](https://github.com/flutter/flutter/pull/166224) merged on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166224) over 6 hours, 9 additions and 0 deletions in 2 files</sub>
+  <sub>[#166224](https://github.com/flutter/flutter/pull/166224) merged on March 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166224) over 6 hours, 9 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 ### March 22, 2025 to March 28, 2025
