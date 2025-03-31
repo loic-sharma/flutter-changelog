@@ -129,5 +129,5 @@
   <sub>[#166228](https://github.com/flutter/flutter/pull/166228) opened on on March 30, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166228) 476 additions and 49 deletions in 17 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Move `.cxx` directory out of `android/app`<br />
-  <sub>[#166277](https://github.com/flutter/flutter/pull/166277) opened on on March 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/166277) 60 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#166277](https://github.com/flutter/flutter/pull/166277) opened on on March 31, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/166277) 60 additions and 6 deletions in 3 files</sub><br />
 
