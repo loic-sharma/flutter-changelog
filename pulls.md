@@ -116,9 +116,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
   <sub>[#166065](https://github.com/flutter/flutter/pull/166065) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166065) 187 additions and 12 deletions in 5 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make empty texture lazy.<br />
-  <sub>[#166112](https://github.com/flutter/flutter/pull/166112) opened on on March 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166112) 14 additions and 38 deletions in 3 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add selected day and year theme data<br />
   <sub>[#166122](https://github.com/flutter/flutter/pull/166122) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166122) 164 additions and 26 deletions in 4 files</sub><br />
 
