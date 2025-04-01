@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-26 commits.
+27 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command<br />
   <sub>[#164437](https://github.com/flutter/flutter/pull/164437) merged on April 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164437) over 1 month, 24 additions and 4 deletions in 3 files</sub><br />
@@ -47,6 +47,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] handle shader ordering bug on macOS.<br />
   <sub>[#165937](https://github.com/flutter/flutter/pull/165937) merged on March 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165937) over 5 days, 69 additions and 72 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Trim any text before osascript JSON response<br />
+  <sub>[#166296](https://github.com/flutter/flutter/pull/166296) merged on April 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166296) over 17 hours, 35 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Rename FlRenderer to FlCompositorOpenGL<br />
   <sub>[#166037](https://github.com/flutter/flutter/pull/166037) merged on April 1, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/166037) over 5 days, 434 additions and 323 deletions in 13 files</sub><br />
@@ -762,7 +766,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-10 commits.
+11 commits.
 
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; [url_launcher] When not fully loaded, clicking close causes the callback to not be triggered correctly.<br />
   <sub>[#8582](https://github.com/flutter/packages/pull/8582) merged on April 1, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/8582) over 1 month, 36 additions and 2 deletions in 8 files</sub><br />
@@ -791,6 +795,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [extension_gsi] Support the latest version of googleapis_auth<br />
   <sub>[#8931](https://github.com/flutter/packages/pull/8931) merged on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8931) over 2 days, 4 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Skip impl copy of iOS tests<br />
+  <sub>[#8975](https://github.com/flutter/packages/pull/8975) merged on April 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8975) over 21 minutes, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Skip more hanging iOS tests<br />
   <sub>[#8967](https://github.com/flutter/packages/pull/8967) merged on April 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8967) over 20 hours, 6 additions and 3 deletions in 1 file</sub><br />
