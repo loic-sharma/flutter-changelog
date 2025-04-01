@@ -796,13 +796,13 @@
   <sub>[#8918](https://github.com/flutter/packages/pull/8918) merged on March 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8918) over 3 days, 8 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [extension_gsi] Support the latest version of googleapis_auth
-  <sub>[#8931](https://github.com/flutter/packages/pull/8931) merged on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8931) over 2 days, 4 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Drop deprecated HTML head meta tags
   <sub>[#8970](https://github.com/flutter/packages/pull/8970) merged on April 1, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8970) over 21 hours, 23 additions and 47 deletions in 24 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [extension_gsi] Support the latest version of googleapis_auth
+  <sub>[#8931](https://github.com/flutter/packages/pull/8931) merged on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8931) over 2 days, 4 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Adjust PR checklist formatter discussion
   <sub>[#8924](https://github.com/flutter/packages/pull/8924) merged on April 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8924) over 4 days, 2 additions and 1 deletion in 1 file</sub>
