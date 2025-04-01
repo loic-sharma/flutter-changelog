@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-19 commits.
+20 commits.
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/163690) over 1 month, 48 additions and 2 deletions in 2 files</sub><br />
@@ -54,6 +54,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove `<meta content="IE=Edge" http-equiv="X-UA-Compatible">`<br />
   <sub>[#166252](https://github.com/flutter/flutter/pull/166252) merged on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166252) over 1 hour, 0 additions and 16 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] small cpu perf for text contents.<br />
+  <sub>[#166199](https://github.com/flutter/flutter/pull/166199) merged on April 1, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/166199) over 2 days, 81 additions and 63 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate conics to linear path segments<br />
   <sub>[#166165](https://github.com/flutter/flutter/pull/166165) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/166165) over 3 days, 245 additions and 12 deletions in 5 files</sub><br />
