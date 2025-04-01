@@ -4,7 +4,12 @@
 
 ### March 29, 2025 to April 4, 2025
 
-24 commits.
+25 commits.
+
+* **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command
+  <sub>[#164437](https://github.com/flutter/flutter/pull/164437) merged on April 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164437) over 1 month, 24 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub>
+  <sub><details><summary>1 image...</summary>![Screenshot 2025-03-02 at 00 08 59](https://github.com/user-attachments/assets/af84efe3-2174-4531-919f-bffdf1500430)</details></sub>
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/163690) over 1 month, 48 additions and 2 deletions in 2 files</sub>
