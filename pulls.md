@@ -107,9 +107,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add selected day and year theme data<br />
   <sub>[#166122](https://github.com/flutter/flutter/pull/166122) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166122) 164 additions and 26 deletions in 4 files</sub><br />
 
-* **[Per Lycke](https://github.com/PerLycke)** &mdash; Fix: Image errorBuilder handles errors during navigation transitions<br />
-  <sub>[#166130](https://github.com/flutter/flutter/pull/166130) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166130) 82 additions and 0 deletions in 2 files</sub><br />
-
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add support for building release/profile mode for custom devices<br />
   <sub>[#166132](https://github.com/flutter/flutter/pull/166132) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166132) 241 additions and 52 deletions in 11 files</sub><br />
 
