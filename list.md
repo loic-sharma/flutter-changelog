@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-16 commits.
+17 commits.
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/163690) over 1 month, 48 additions and 2 deletions in 2 files</sub>
@@ -45,6 +45,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove `<meta content="IE=Edge" http-equiv="X-UA-Compatible">`
   <sub>[#166252](https://github.com/flutter/flutter/pull/166252) merged on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166252) over 1 hour, 0 additions and 16 deletions in 13 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate conics to linear path segments
+  <sub>[#166165](https://github.com/flutter/flutter/pull/166165) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/166165) over 3 days, 245 additions and 12 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix min filter for GL external textures.
   <sub>[#166224](https://github.com/flutter/flutter/pull/166224) merged on March 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166224) over 6 hours, 9 additions and 0 deletions in 2 files</sub>
