@@ -766,7 +766,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-14 commits.
+15 commits.
 
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; [url_launcher] When not fully loaded, clicking close causes the callback to not be triggered correctly.
   <sub>[#8582](https://github.com/flutter/packages/pull/8582) merged on April 1, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/8582) over 1 month, 36 additions and 2 deletions in 8 files</sub>
@@ -799,6 +799,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [extension_gsi] Support the latest version of googleapis_auth
   <sub>[#8931](https://github.com/flutter/packages/pull/8931) merged on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8931) over 2 days, 4 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Drop deprecated HTML head meta tags
+  <sub>[#8970](https://github.com/flutter/packages/pull/8970) merged on April 1, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8970) over 21 hours, 23 additions and 47 deletions in 24 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Adjust PR checklist formatter discussion
   <sub>[#8924](https://github.com/flutter/packages/pull/8924) merged on April 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8924) over 4 days, 2 additions and 1 deletion in 1 file</sub>
