@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-20 commits.
+21 commits.
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/163690) over 1 month, 48 additions and 2 deletions in 2 files</sub><br />
@@ -78,6 +78,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS for the iOS review team<br />
   <sub>[#166178](https://github.com/flutter/flutter/pull/166178) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166178) over 2 days, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web_ui] Fix instances of library_private_types_in_public_api<br />
+  <sub>[#166156](https://github.com/flutter/flutter/pull/166156) merged on April 1, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/166156) over 3 days, 47 additions and 43 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated to latest AVD to Support Android 16 (API 36)<br />
   <sub>[#165926](https://github.com/flutter/flutter/pull/165926) merged on March 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165926) over 5 days, 2 additions and 2 deletions in 1 file</sub><br />
