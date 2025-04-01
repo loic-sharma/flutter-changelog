@@ -128,3 +128,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render conics without conversion from Flutter apps<br />
   <sub>[#166305](https://github.com/flutter/flutter/pull/166305) opened on on April 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166305) 160 additions and 63 deletions in 5 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Gen-l10n] Infer placeholder types on both templates and localizations<br />
+  <sub>[#166337](https://github.com/flutter/flutter/pull/166337) opened on on April 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166337) 48 additions and 2 deletions in 2 files</sub><br />
+
