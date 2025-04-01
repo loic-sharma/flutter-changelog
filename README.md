@@ -749,7 +749,11 @@
 
 ### March 29, 2025 to April 4, 2025
 
-7 commits.
+8 commits.
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Test utils and mocks swift migration - part 2<br />
+  <sub>[#8892](https://github.com/flutter/packages/pull/8892) merged on April 1, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/8892) over 1 week, 230 additions and 410 deletions in 28 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; [webview_flutter_wkwebview] Fixes crash when sending undefined message via javascript channel<br />
   <sub>[#8776](https://github.com/flutter/packages/pull/8776) merged on March 31, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8776) over 3 weeks, 54 additions and 4 deletions in 6 files</sub><br />
