@@ -18,7 +18,7 @@
   <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Migrate to Theme.brightnessOf method<br />
-  <sub>[#163950](https://github.com/flutter/flutter/pull/163950) opened on on February 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163950) 18 additions and 18 deletions in 14 files</sub><br />
+  <sub>[#163950](https://github.com/flutter/flutter/pull/163950) opened on on February 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163950) 18 additions and 18 deletions in 14 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add experimental IntegrationTest.takeScreenshot<br />
   <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164171) 18 additions and 5 deletions in 2 files</sub><br />
@@ -127,9 +127,6 @@
 
 * **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
   <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166291) 12 additions and 0 deletions in 1 file</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android_engine_test] disable old HC mode tests.<br />
-  <sub>[#166293](https://github.com/flutter/flutter/pull/166293) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166293) 33 additions and 23 deletions in 1 file</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove unnecessary cache busting mechanism in hot restart<br />
   <sub>[#166295](https://github.com/flutter/flutter/pull/166295) opened on on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166295) 6 additions and 13 deletions in 2 files</sub><br />

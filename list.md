@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-17 commits.
+19 commits.
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/163690) over 1 month, 48 additions and 2 deletions in 2 files</sub>
@@ -22,9 +22,18 @@
   <sub>[#164884](https://github.com/flutter/flutter/pull/164884) merged on March 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/164884) over 3 weeks, 78 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [luckysmg](https://github.com/luckysmg), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] fixes diagonal antialiased lines
+  <sub>[#166298](https://github.com/flutter/flutter/pull/166298) merged on April 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166298) over 1 hour, 98 additions and 14 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+  <sub><details><summary>2 images...</summary>![IMG_7582](https://github.com/user-attachments/assets/26158d23-5416-420f-b092-18cbe00c7d57)![IMG_7581](https://github.com/user-attachments/assets/fb913e56-15b1-46b4-af34-e4c7235eb21f)</details></sub>
+
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) merged on March 31, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/162780) over 1 month, 42 additions and 18 deletions in 12 files</sub>
   <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [Chinmay Garde](https://github.com/chinmaygarde), [Miguel](https://github.com/miguelfrde), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android_engine_test] disable old HC mode tests.
+  <sub>[#166293](https://github.com/flutter/flutter/pull/166293) merged on April 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166293) over 2 hours, 33 additions and 23 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove validation warning ignores.
   <sub>[#166205](https://github.com/flutter/flutter/pull/166205) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166205) over 1 day, 0 additions and 16 deletions in 1 file</sub>
