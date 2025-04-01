@@ -766,11 +766,15 @@
 
 ### March 29, 2025 to April 4, 2025
 
-11 commits.
+12 commits.
 
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; [url_launcher] When not fully loaded, clicking close causes the callback to not be triggered correctly.
   <sub>[#8582](https://github.com/flutter/packages/pull/8582) merged on April 1, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/8582) over 1 month, 36 additions and 2 deletions in 8 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; [flutter_markdown] Added sizedImageBuilder to Markdown widget
+  <sub>[#6739](https://github.com/flutter/packages/pull/6739) merged on April 1, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/packages/pull/6739) over 10 months, 157 additions and 10 deletions in 6 files</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Test utils and mocks swift migration - part 2
   <sub>[#8892](https://github.com/flutter/packages/pull/8892) merged on April 1, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/8892) over 1 week, 230 additions and 410 deletions in 28 files</sub>
