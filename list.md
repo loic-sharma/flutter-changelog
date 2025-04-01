@@ -57,7 +57,7 @@
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Conner Kasten](https://github.com/emerssso)** &mdash; Public nodes needing paint or layout
-  <sub>[#166148](https://github.com/flutter/flutter/pull/166148) merged on March 31, 2025 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/166148) over 3 days, 66 additions and 0 deletions in 2 files</sub>
+  <sub>[#166148](https://github.com/flutter/flutter/pull/166148) merged on March 31, 2025 &mdash; **Small:** [35 comments](https://github.com/flutter/flutter/pull/166148) over 3 days, 66 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Justin McCandless](https://github.com/justinmc), [Jonah Williams](https://github.com/jonahwilliams), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Correctly select entrypoint target for web build from positional argument list
