@@ -23,9 +23,6 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add flag to disable automatic device reboot for DeviceLab tests<br />
   <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
-* **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker label<br />
-  <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164292) 17 additions and 52 deletions in 1 file</sub><br />
-
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add `buildMode`, `icuDataPath` and `engineRevision` interpolations for custom devices<br />
   <sub>[#164455](https://github.com/flutter/flutter/pull/164455) opened on on March 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164455) 118 additions and 5 deletions in 3 files</sub><br />
 
@@ -53,9 +50,6 @@
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move paddle slider value indicator shape<br />
-  <sub>[#165361](https://github.com/flutter/flutter/pull/165361) opened on on March 18, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/165361) 433 additions and 429 deletions in 2 files</sub><br />
-
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
   <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/165370) 25 additions and 1 deletion in 2 files</sub><br />
 
@@ -68,17 +62,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 
-* **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; fix barrier overlap after and during FadeForwardsPageTransitionsBuilder transition animation<br />
-  <sub>[#165726](https://github.com/flutter/flutter/pull/165726) opened on on March 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165726) 100 additions and 22 deletions in 2 files</sub><br />
-
-* **[suojae](https://github.com/suojae)** &mdash; Fix: Apply theme to text in _PackageListTile<br />
-  <sub>[#165739](https://github.com/flutter/flutter/pull/165739) opened on on March 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165739) 5 additions and 2 deletions in 1 file</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
   <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
-
-* **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu` keyboard navigation on filtered entries<br />
-  <sub>[#165868](https://github.com/flutter/flutter/pull/165868) opened on on March 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165868) 50 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Fix warning when building for macOS desktop<br />
   <sub>[#165996](https://github.com/flutter/flutter/pull/165996) opened on on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165996) 207 additions and 21 deletions in 2 files</sub><br />
