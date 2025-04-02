@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-38 commits.
+39 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command<br />
   <sub>[#164437](https://github.com/flutter/flutter/pull/164437) merged on April 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164437) over 1 month, 24 additions and 4 deletions in 3 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][iOS] Cancel animation when recieved `UIKeyboardWillHideNotification` with duration 0.0<br />
   <sub>[#164884](https://github.com/flutter/flutter/pull/164884) merged on March 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/164884) over 3 weeks, 78 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [luckysmg](https://github.com/luckysmg), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [a11y] add SemanticsValidationResult<br />
+  <sub>[#165935](https://github.com/flutter/flutter/pull/165935) merged on April 2, 2025 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/165935) over 1 week, 620 additions and 23 deletions in 30 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] fixes diagonal antialiased lines<br />
   <sub>[#166298](https://github.com/flutter/flutter/pull/166298) merged on April 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166298) over 1 hour, 98 additions and 14 deletions in 2 files</sub><br />
@@ -112,13 +116,17 @@
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) merged on April 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/162467) over 2 months, 196 additions and 59 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
+* **[icnahom](https://github.com/icnahom)** &mdash; Fix typo in carousel.dart<br />
+  <sub>[#164727](https://github.com/flutter/flutter/pull/164727) merged on March 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164727) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Add `Message.resourceId` and `locale` to all `L10nException` error messages<br />
   <sub>[#163654](https://github.com/flutter/flutter/pull/163654) merged on April 1, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163654) over 1 month, 48 additions and 22 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[icnahom](https://github.com/icnahom)** &mdash; Fix typo in carousel.dart<br />
-  <sub>[#164727](https://github.com/flutter/flutter/pull/164727) merged on March 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164727) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS`<br />
+  <sub>[#166444](https://github.com/flutter/flutter/pull/166444) merged on April 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166444) over 4 hours, 14 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Improve using project files in build targets<br />
   <sub>[#166211](https://github.com/flutter/flutter/pull/166211) merged on April 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166211) over 2 days, 113 additions and 14 deletions in 4 files</sub><br />
@@ -131,10 +139,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS for the iOS review team<br />
   <sub>[#166178](https://github.com/flutter/flutter/pull/166178) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166178) over 2 days, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS`<br />
-  <sub>[#166444](https://github.com/flutter/flutter/pull/166444) merged on April 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166444) over 4 hours, 14 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove unnecessary cache busting mechanism in hot restart<br />
   <sub>[#166295](https://github.com/flutter/flutter/pull/166295) merged on April 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166295) over 1 day, 6 additions and 13 deletions in 2 files</sub><br />
