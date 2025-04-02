@@ -164,6 +164,11 @@
   <sub>[#165324](https://github.com/flutter/flutter/pull/165324) merged on March 28, 2025 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/165324) over 1 week, 1780 additions and 4274 deletions in 78 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Display an error widget when an exception is thrown while defining the widget tree<br />
+  <sub>[#166005](https://github.com/flutter/flutter/pull/166005) merged on March 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166005) over 1 day, 211 additions and 81 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/f9038fa0-9e6e-4037-bc33-a304861c6a22)</details></sub>
+
 * **[Saptarshi Adhikari](https://github.com/Mastermind-sap)** &mdash; Removed not working hyperlinks to ScriptCategory values<br />
   <sub>[#165395](https://github.com/flutter/flutter/pull/165395) merged on March 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/165395) over 1 week, 13 additions and 13 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
@@ -210,11 +215,6 @@
   <sub>[#165827](https://github.com/flutter/flutter/pull/165827) merged on March 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/165827) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>2 images...</summary><img width="615" alt="Screenshot 2025-03-25 at 12 08 15 AM" src="https://github.com/user-attachments/assets/d714d15d-5c78-46cf-8e7e-7347a788f9c7" /><img width="578" alt="Screenshot 2025-03-25 at 12 20 20 AM" src="https://github.com/user-attachments/assets/59dce920-1901-4d89-a598-f9e79a07a2d2" /></details></sub>
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Display an error widget when an exception is thrown while defining the widget tree<br />
-  <sub>[#166005](https://github.com/flutter/flutter/pull/166005) merged on March 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166005) over 1 day, 211 additions and 81 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
-  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/f9038fa0-9e6e-4037-bc33-a304861c6a22)</details></sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make sure `LayoutBuilder` rebuild in an inactive route<br />
   <sub>[#154681](https://github.com/flutter/flutter/pull/154681) merged on March 28, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/154681) over 6 months, 243 additions and 35 deletions in 6 files</sub><br />
