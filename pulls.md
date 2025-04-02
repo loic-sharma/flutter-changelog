@@ -50,6 +50,9 @@
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; gpu stuff.<br />
+  <sub>[#165337](https://github.com/flutter/flutter/pull/165337) opened on on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165337) 81 additions and 3 deletions in 12 files</sub><br />
+
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
   <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/165370) 25 additions and 1 deletion in 2 files</sub><br />
 
@@ -99,7 +102,7 @@
   <sub>[#166337](https://github.com/flutter/flutter/pull/166337) opened on on April 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166337) 48 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] re-enable skipped impeller goldens.<br />
-  <sub>[#166354](https://github.com/flutter/flutter/pull/166354) opened on on April 1, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166354) 259 additions and 267 deletions in 5 files</sub><br />
+  <sub>[#166354](https://github.com/flutter/flutter/pull/166354) opened on on April 1, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166354) 259 additions and 274 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add `widget_preview_scaffold.shard` to test the `widget_preview_scaffold` template contents<br />
   <sub>[#166358](https://github.com/flutter/flutter/pull/166358) opened on on April 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/166358) 984 additions and 14 deletions in 23 files</sub><br />
