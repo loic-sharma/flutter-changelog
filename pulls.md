@@ -17,9 +17,6 @@
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
   <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Migrate to Theme.brightnessOf method<br />
-  <sub>[#163950](https://github.com/flutter/flutter/pull/163950) opened on on February 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163950) 18 additions and 18 deletions in 14 files</sub><br />
-
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add experimental IntegrationTest.takeScreenshot<br />
   <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164171) 18 additions and 5 deletions in 2 files</sub><br />
 
