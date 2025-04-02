@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-27 commits.
+29 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command
   <sub>[#164437](https://github.com/flutter/flutter/pull/164437) merged on April 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164437) over 1 month, 24 additions and 4 deletions in 3 files</sub>
@@ -31,6 +31,10 @@
   <sub>[#166298](https://github.com/flutter/flutter/pull/166298) merged on April 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166298) over 1 hour, 98 additions and 14 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
   <sub><details><summary>2 images...</summary>![IMG_7582](https://github.com/user-attachments/assets/26158d23-5416-420f-b092-18cbe00c7d57)![IMG_7581](https://github.com/user-attachments/assets/fb913e56-15b1-46b4-af34-e4c7235eb21f)</details></sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update Roadmap
+  <sub>[#166332](https://github.com/flutter/flutter/pull/166332) merged on April 2, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/166332) over 1 day, 110 additions and 43 deletions in 2 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Jonah Williams](https://github.com/jonahwilliams), [Amanda Fitch](https://github.com/antfitch), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) merged on March 31, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/162780) over 1 month, 42 additions and 18 deletions in 12 files</sub>
@@ -87,6 +91,10 @@
 * **[icnahom](https://github.com/icnahom)** &mdash; Fix typo in carousel.dart
   <sub>[#164727](https://github.com/flutter/flutter/pull/164727) merged on March 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164727) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS`
+  <sub>[#166444](https://github.com/flutter/flutter/pull/166444) merged on April 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166444) over 4 hours, 14 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Improve using project files in build targets
   <sub>[#166211](https://github.com/flutter/flutter/pull/166211) merged on April 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166211) over 2 days, 113 additions and 14 deletions in 4 files</sub>
