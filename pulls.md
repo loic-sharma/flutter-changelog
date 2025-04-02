@@ -68,9 +68,6 @@
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; fix(ListTileTheme): isThreeLine is missing.<br />
   <sub>[#165481](https://github.com/flutter/flutter/pull/165481) opened on on March 19, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/165481) 372 additions and 6 deletions in 4 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
-  <sub>[#165630](https://github.com/flutter/flutter/pull/165630) opened on on March 21, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/165630) 337 additions and 54 deletions in 14 files</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 
@@ -129,11 +126,8 @@
   <sub>[#166354](https://github.com/flutter/flutter/pull/166354) opened on on April 1, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166354) 259 additions and 267 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add `widget_preview_scaffold.shard` to test the `widget_preview_scaffold` template contents<br />
-  <sub>[#166358](https://github.com/flutter/flutter/pull/166358) opened on on April 1, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166358) 1006 additions and 14 deletions in 23 files</sub><br />
+  <sub>[#166358](https://github.com/flutter/flutter/pull/166358) opened on on April 1, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/166358) 1012 additions and 14 deletions in 24 files</sub><br />
 
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; feat(switch): Add activeThumbColor and deprecate activeColor.<br />
   <sub>[#166382](https://github.com/flutter/flutter/pull/166382) opened on on April 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166382) 113 additions and 14 deletions in 5 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove the path_ops library test from the run_tests script<br />
-  <sub>[#166438](https://github.com/flutter/flutter/pull/166438) opened on on April 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166438) 0 additions and 2 deletions in 1 file</sub><br />
 
