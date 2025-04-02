@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-30 commits.
+31 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command
   <sub>[#164437](https://github.com/flutter/flutter/pull/164437) merged on April 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164437) over 1 month, 24 additions and 4 deletions in 3 files</sub>
@@ -18,6 +18,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Move `.cxx` directory out of `android/app`
   <sub>[#166277](https://github.com/flutter/flutter/pull/166277) merged on March 31, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/166277) over 4 hours, 68 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache for text shadows.
+  <sub>[#166228](https://github.com/flutter/flutter/pull/166228) merged on April 2, 2025 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/166228) over 2 days, 504 additions and 58 deletions in 17 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) merged on March 31, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/163733) over 1 month, 130 additions and 0 deletions in 2 files</sub>
