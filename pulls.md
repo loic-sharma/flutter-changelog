@@ -131,3 +131,6 @@
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; feat(switch): Add activeThumbColor and deprecate activeColor.<br />
   <sub>[#166382](https://github.com/flutter/flutter/pull/166382) opened on on April 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166382) 113 additions and 14 deletions in 5 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "[skwasm] Dynamic Threading"<br />
+  <sub>[#166454](https://github.com/flutter/flutter/pull/166454) opened on on April 2, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/166454) 204 additions and 309 deletions in 16 files</sub><br />
+
