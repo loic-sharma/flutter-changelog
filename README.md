@@ -766,11 +766,15 @@
 
 ### March 29, 2025 to April 4, 2025
 
-15 commits.
+17 commits.
 
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; [url_launcher] When not fully loaded, clicking close causes the callback to not be triggered correctly.<br />
   <sub>[#8582](https://github.com/flutter/packages/pull/8582) merged on April 1, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/8582) over 1 month, 36 additions and 2 deletions in 8 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[alexander-irion](https://github.com/alexander-irion)** &mdash; [multicast_dns] MDnsClient::listen supports onError callback<br />
+  <sub>[#8888](https://github.com/flutter/packages/pull/8888) merged on April 2, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/8888) over 2 weeks, 64 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; [flutter_markdown] Added sizedImageBuilder to Markdown widget<br />
   <sub>[#6739](https://github.com/flutter/packages/pull/6739) merged on April 1, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/packages/pull/6739) over 10 months, 157 additions and 10 deletions in 6 files</sub><br />
@@ -779,6 +783,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Test utils and mocks swift migration - part 2<br />
   <sub>[#8892](https://github.com/flutter/packages/pull/8892) merged on April 1, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/8892) over 1 week, 230 additions and 410 deletions in 28 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Upgrade tests to use Xcode 16 and iOS 18<br />
+  <sub>[#8968](https://github.com/flutter/packages/pull/8968) merged on April 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8968) over 1 day, 8 additions and 8 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; [webview_flutter_wkwebview] Fixes crash when sending undefined message via javascript channel<br />
   <sub>[#8776](https://github.com/flutter/packages/pull/8776) merged on March 31, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8776) over 3 weeks, 54 additions and 4 deletions in 6 files</sub><br />
