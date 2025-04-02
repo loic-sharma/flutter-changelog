@@ -114,7 +114,7 @@
   <sub>[#166295](https://github.com/flutter/flutter/pull/166295) opened on on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166295) 6 additions and 13 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render conics without conversion from Flutter apps<br />
-  <sub>[#166305](https://github.com/flutter/flutter/pull/166305) opened on on April 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166305) 160 additions and 63 deletions in 5 files</sub><br />
+  <sub>[#166305](https://github.com/flutter/flutter/pull/166305) opened on on April 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166305) 160 additions and 63 deletions in 5 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#166337](https://github.com/flutter/flutter/pull/166337) opened on on April 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166337) 48 additions and 2 deletions in 2 files</sub><br />
@@ -124,7 +124,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add `widget_preview_scaffold.shard` to test the `widget_preview_scaffold` template contents<br />
   <sub>[#166358](https://github.com/flutter/flutter/pull/166358) opened on on April 1, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/166358) 1012 additions and 14 deletions in 24 files</sub><br />
-
-* **[廖检成](https://github.com/StanleyCocos)** &mdash; feat(switch): Add activeThumbColor and deprecate activeColor.<br />
-  <sub>[#166382](https://github.com/flutter/flutter/pull/166382) opened on on April 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166382) 113 additions and 14 deletions in 5 files</sub><br />
 
