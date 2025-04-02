@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-35 commits.
+36 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command<br />
   <sub>[#164437](https://github.com/flutter/flutter/pull/164437) merged on April 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164437) over 1 month, 24 additions and 4 deletions in 3 files</sub><br />
@@ -96,13 +96,17 @@
   <sub>[#166199](https://github.com/flutter/flutter/pull/166199) merged on April 1, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/166199) over 2 days, 81 additions and 63 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate conics to linear path segments<br />
+  <sub>[#166165](https://github.com/flutter/flutter/pull/166165) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/166165) over 3 days, 245 additions and 12 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix min filter for GL external textures.<br />
   <sub>[#166224](https://github.com/flutter/flutter/pull/166224) merged on March 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166224) over 6 hours, 9 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate conics to linear path segments<br />
-  <sub>[#166165](https://github.com/flutter/flutter/pull/166165) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/166165) over 3 days, 245 additions and 12 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
+  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) merged on April 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/162467) over 2 months, 196 additions and 59 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Add `Message.resourceId` and `locale` to all `L10nException` error messages<br />
   <sub>[#163654](https://github.com/flutter/flutter/pull/163654) merged on April 1, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163654) over 1 month, 48 additions and 22 deletions in 3 files</sub><br />
