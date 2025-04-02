@@ -89,9 +89,6 @@
 * **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
   <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166291) 12 additions and 0 deletions in 1 file</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove unnecessary cache busting mechanism in hot restart<br />
-  <sub>[#166295](https://github.com/flutter/flutter/pull/166295) opened on on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166295) 6 additions and 13 deletions in 2 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render conics without conversion from Flutter apps<br />
   <sub>[#166305](https://github.com/flutter/flutter/pull/166305) opened on on April 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166305) 160 additions and 63 deletions in 5 files</sub><br />
 
