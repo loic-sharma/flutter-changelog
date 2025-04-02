@@ -134,3 +134,6 @@
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; feat(switch): Add activeThumbColor and deprecate activeColor.<br />
   <sub>[#166382](https://github.com/flutter/flutter/pull/166382) opened on on April 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166382) 113 additions and 14 deletions in 5 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove the path_ops library test from the run_tests script<br />
+  <sub>[#166438](https://github.com/flutter/flutter/pull/166438) opened on on April 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166438) 0 additions and 2 deletions in 1 file</sub><br />
+
