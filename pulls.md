@@ -87,7 +87,7 @@
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] if drawTextFrame scale is massive, convert to Path.<br />
-  <sub>[#166234](https://github.com/flutter/flutter/pull/166234) opened on on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166234) 74 additions and 12 deletions in 8 files</sub><br />
+  <sub>[#166234](https://github.com/flutter/flutter/pull/166234) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166234) 74 additions and 12 deletions in 8 files</sub><br />
 
 * **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
   <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166291) 12 additions and 0 deletions in 1 file</sub><br />
@@ -103,7 +103,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add `widget_preview_scaffold.shard` to test the `widget_preview_scaffold` template contents<br />
   <sub>[#166358](https://github.com/flutter/flutter/pull/166358) opened on on April 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/166358) 984 additions and 14 deletions in 23 files</sub><br />
-
-* **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; fix(ios): correctly inherits the handle color from the theme<br />
-  <sub>[#166507](https://github.com/flutter/flutter/pull/166507) opened on on April 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166507) 40 additions and 1 deletion in 2 files</sub><br />
 
