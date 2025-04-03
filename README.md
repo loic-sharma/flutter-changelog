@@ -636,7 +636,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller][DisplayList] Consolidate BlendMode definitions<br />
-  <sub>[#165450](https://github.com/flutter/flutter/pull/165450) merged on March 20, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/165450) over 1 day, 293 additions and 471 deletions in 39 files</sub><br />
+  <sub>[#165450](https://github.com/flutter/flutter/pull/165450) merged on March 20, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/165450) over 1 day, 293 additions and 471 deletions in 39 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unused Cocoon components from `devicelab/bin/test_runner.dart`.<br />
