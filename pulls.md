@@ -104,3 +104,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Enable merged platform and UI thread by default<br />
   <sub>[#166536](https://github.com/flutter/flutter/pull/166536) opened on on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166536) 32 additions and 23 deletions in 2 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; bump warn agp version from 7.3 to 8.3<br />
+  <sub>[#166555](https://github.com/flutter/flutter/pull/166555) opened on on April 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166555) 2 additions and 2 deletions in 2 files</sub><br />
+
