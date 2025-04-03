@@ -655,6 +655,10 @@
   <sub>[#165749](https://github.com/flutter/flutter/pull/165749) merged on March 22, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165749) over 1 hour, 247 additions and 770 deletions in 8 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove `WidgetPreview` in favor of using annotation properties
+  <sub>[#165500](https://github.com/flutter/flutter/pull/165500) merged on March 22, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/165500) over 2 days, 739 additions and 141 deletions in 11 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix SpringSimulation formula for underdamping
   <sub>[#165017](https://github.com/flutter/flutter/pull/165017) merged on March 21, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/165017) over 1 week, 34 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -666,10 +670,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move sliders value indicator shape to seperate file
   <sub>[#162858](https://github.com/flutter/flutter/pull/162858) merged on March 17, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/162858) over 1 month, 285 additions and 274 deletions in 5 files</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove `WidgetPreview` in favor of using annotation properties
-  <sub>[#165500](https://github.com/flutter/flutter/pull/165500) merged on March 22, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/165500) over 2 days, 739 additions and 141 deletions in 11 files</sub>
-  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Expose APIs to draw shadows.
   <sub>[#165517](https://github.com/flutter/flutter/pull/165517) merged on March 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165517) over 21 hours, 102 additions and 0 deletions in 6 files</sub>
