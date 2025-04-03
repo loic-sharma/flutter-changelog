@@ -173,7 +173,7 @@
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Moritz](https://github.com/mosuem)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix ISSUE_TEMPLATE Ordering: `10 < 9`, but `10 > 09`
-  <sub>[#166455](https://github.com/flutter/flutter/pull/166455) merged on April 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166455) over 7 hours, 35 additions and 37 deletions in 26 files</sub>
+  <sub>[#166455](https://github.com/flutter/flutter/pull/166455) merged on April 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166455) over 7 hours, 35 additions and 37 deletions in 26 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS for the iOS review team
