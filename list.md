@@ -69,7 +69,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update localizations from console
-  <sub>[#166496](https://github.com/flutter/flutter/pull/166496) merged on April 3, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/166496) over 21 hours, 523 additions and 450 deletions in 116 files</sub>
+  <sub>[#166496](https://github.com/flutter/flutter/pull/166496) merged on April 3, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/166496) over 21 hours, 523 additions and 450 deletions in 116 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android_engine_test] disable old HC mode tests.
