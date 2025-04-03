@@ -47,6 +47,9 @@
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Migrate Theme to InheritedModel<br />
+  <sub>[#165289](https://github.com/flutter/flutter/pull/165289) opened on on March 17, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165289) 663 additions and 47 deletions in 40 files</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; gpu stuff.<br />
   <sub>[#165337](https://github.com/flutter/flutter/pull/165337) opened on on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165337) 81 additions and 3 deletions in 12 files</sub><br />
 
@@ -83,6 +86,9 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] if drawTextFrame scale is massive, convert to Path.<br />
+  <sub>[#166234](https://github.com/flutter/flutter/pull/166234) opened on on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166234) 74 additions and 12 deletions in 8 files</sub><br />
+
 * **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
   <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166291) 12 additions and 0 deletions in 1 file</sub><br />
 
@@ -97,7 +103,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add `widget_preview_scaffold.shard` to test the `widget_preview_scaffold` template contents<br />
   <sub>[#166358](https://github.com/flutter/flutter/pull/166358) opened on on April 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/166358) 984 additions and 14 deletions in 23 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set correct depth for emulated advanced blend restore.<br />
-  <sub>[#166501](https://github.com/flutter/flutter/pull/166501) opened on on April 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166501) 8 additions and 5 deletions in 2 files</sub><br />
 
