@@ -1051,7 +1051,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-6 commits.
+9 commits.
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Enhance pubspec guide<br />
   <sub>[#11833](https://github.com/flutter/website/pull/11833) merged on April 1, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/website/pull/11833) over 1 week, 526 additions and 35 deletions in 1 file</sub><br />
@@ -1065,9 +1065,21 @@
   <sub>[#11856](https://github.com/flutter/website/pull/11856) merged on April 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11856) over 1 day, 120 additions and 120 deletions in 298 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Prevent long class names in widget catalog from being clipped<br />
+  <sub>[#11866](https://github.com/flutter/website/pull/11866) merged on April 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11866) over 26 minutes, 21 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix broken cupertino embedded video<br />
   <sub>[#11857](https://github.com/flutter/website/pull/11857) merged on April 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11857) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Changing a recommended package<br />
+  <sub>[#11864](https://github.com/flutter/website/pull/11864) merged on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11864) over 2 hours, 7 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Removing a resource that is no longer available<br />
+  <sub>[#11865](https://github.com/flutter/website/pull/11865) merged on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11865) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add a few additional custom configurations for flavors.<br />
   <sub>[#11860](https://github.com/flutter/website/pull/11860) merged on April 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11860) over 17 hours, 39 additions and 1 deletion in 3 files</sub><br />
