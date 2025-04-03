@@ -93,7 +93,7 @@
   <sub>[#166234](https://github.com/flutter/flutter/pull/166234) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166234) 74 additions and 12 deletions in 8 files</sub><br />
 
 * **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
-  <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166291) 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166291) 62 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render conics without conversion from Flutter apps<br />
   <sub>[#166305](https://github.com/flutter/flutter/pull/166305) opened on on April 1, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/166305) 281 additions and 64 deletions in 8 files</sub><br />
