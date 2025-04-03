@@ -77,6 +77,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
   <sub>[#166065](https://github.com/flutter/flutter/pull/166065) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166065) 187 additions and 12 deletions in 5 files</sub><br />
 
+* **[Per Lycke](https://github.com/PerLycke)** &mdash; Fix: Ensure Image.errorBuilder reliably prevents error reporting<br />
+  <sub>[#166130](https://github.com/flutter/flutter/pull/166130) opened on on March 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166130) 106 additions and 17 deletions in 3 files</sub><br />
+
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add support for building release/profile mode for custom devices<br />
   <sub>[#166132](https://github.com/flutter/flutter/pull/166132) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166132) 241 additions and 52 deletions in 11 files</sub><br />
 
