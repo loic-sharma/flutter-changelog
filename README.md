@@ -1039,7 +1039,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-5 commits.
+6 commits.
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Enhance pubspec guide<br />
   <sub>[#11833](https://github.com/flutter/website/pull/11833) merged on April 1, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/website/pull/11833) over 1 week, 526 additions and 35 deletions in 1 file</sub><br />
@@ -1055,6 +1055,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix broken cupertino embedded video<br />
   <sub>[#11857](https://github.com/flutter/website/pull/11857) merged on April 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11857) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add a few additional custom configurations for flavors.<br />
+  <sub>[#11860](https://github.com/flutter/website/pull/11860) merged on April 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11860) over 17 hours, 39 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add go/cupertino-expansion-tile<br />
