@@ -12,7 +12,7 @@
   <sub><details><summary>1 image...</summary>![Screenshot 2025-03-02 at 00 08 59](https://github.com/user-attachments/assets/af84efe3-2174-4531-919f-bffdf1500430)</details></sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement merged UI and platform thread<br />
-  <sub>[#162883](https://github.com/flutter/flutter/pull/162883) merged on April 3, 2025 &mdash; **Extra large:** [24 comments](https://github.com/flutter/flutter/pull/162883) over 1 month, 718 additions and 1094 deletions in 27 files</sub><br />
+  <sub>[#162883](https://github.com/flutter/flutter/pull/162883) merged on April 3, 2025 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/162883) over 1 month, 718 additions and 1094 deletions in 27 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
