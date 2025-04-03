@@ -90,7 +90,7 @@
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
 * **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
-  <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166291) 62 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166291) 62 additions and 0 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#166337](https://github.com/flutter/flutter/pull/166337) opened on on April 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166337) 48 additions and 2 deletions in 2 files</sub><br />
