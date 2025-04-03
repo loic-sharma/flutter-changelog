@@ -850,7 +850,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-17 commits.
+19 commits.
 
 * **[廖检成](https://github.com/StanleyCocos)** &mdash; [url_launcher] When not fully loaded, clicking close causes the callback to not be triggered correctly.<br />
   <sub>[#8582](https://github.com/flutter/packages/pull/8582) merged on April 1, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/8582) over 1 month, 36 additions and 2 deletions in 8 files</sub><br />
@@ -872,9 +872,17 @@
   <sub>[#8968](https://github.com/flutter/packages/pull/8968) merged on April 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8968) over 1 day, 8 additions and 8 deletions in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix iOS info window regression<br />
+  <sub>[#8939](https://github.com/flutter/packages/pull/8939) merged on April 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8939) over 3 days, 252 additions and 36 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; [webview_flutter_wkwebview] Fixes crash when sending undefined message via javascript channel<br />
   <sub>[#8776](https://github.com/flutter/packages/pull/8776) merged on March 31, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8776) over 3 weeks, 54 additions and 4 deletions in 6 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [all_packages] Enforce property assignment for compile sdk over method assignment<br />
+  <sub>[#8897](https://github.com/flutter/packages/pull/8897) merged on April 3, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8897) over 1 week, 100 additions and 60 deletions in 45 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [camera_android] Don't override default fps range when not recording<br />
   <sub>[#8891](https://github.com/flutter/packages/pull/8891) merged on March 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8891) over 1 week, 43 additions and 30 deletions in 4 files</sub><br />
