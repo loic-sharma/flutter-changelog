@@ -52,6 +52,10 @@
   <sub>[#166045](https://github.com/flutter/flutter/pull/166045) merged on April 2, 2025 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/166045) over 6 days, 318 additions and 226 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update localizations from console<br />
+  <sub>[#166496](https://github.com/flutter/flutter/pull/166496) merged on April 3, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/166496) over 21 hours, 523 additions and 450 deletions in 116 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) merged on March 31, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/162780) over 1 month, 42 additions and 18 deletions in 12 files</sub><br />
   <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [Chinmay Garde](https://github.com/chinmaygarde), [Miguel](https://github.com/miguelfrde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -68,21 +72,17 @@
   <sub>[#164675](https://github.com/flutter/flutter/pull/164675) merged on April 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164675) over 3 weeks, 115 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update localizations from console<br />
-  <sub>[#166496](https://github.com/flutter/flutter/pull/166496) merged on April 3, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/166496) over 21 hours, 523 additions and 450 deletions in 116 files</sub><br />
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android_engine_test] disable old HC mode tests.<br />
-  <sub>[#166293](https://github.com/flutter/flutter/pull/166293) merged on April 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166293) over 2 hours, 33 additions and 23 deletions in 1 file</sub><br />
+  <sub>[#166293](https://github.com/flutter/flutter/pull/166293) merged on April 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166293) over 2 hours, 33 additions and 23 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started pixel aligning hairlines<br />
-  <sub>[#166351](https://github.com/flutter/flutter/pull/166351) merged on April 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/166351) over 1 day, 174 additions and 5 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert `AppPluginLoaderPlugin` to Kotlin, and add `NativePluginLoaderReflectionBridge` to expose it in Kotlin<br />
   <sub>[#166027](https://github.com/flutter/flutter/pull/166027) merged on April 2, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/166027) over 6 days, 263 additions and 177 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started pixel aligning hairlines<br />
+  <sub>[#166351](https://github.com/flutter/flutter/pull/166351) merged on April 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/166351) over 1 day, 174 additions and 5 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove validation warning ignores.<br />
   <sub>[#166205](https://github.com/flutter/flutter/pull/166205) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166205) over 1 day, 0 additions and 16 deletions in 1 file</sub><br />
@@ -157,7 +157,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render conics without conversion from Flutter apps<br />
-  <sub>[#166305](https://github.com/flutter/flutter/pull/166305) merged on April 3, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/166305) over 2 days, 281 additions and 64 deletions in 8 files</sub><br />
+  <sub>[#166305](https://github.com/flutter/flutter/pull/166305) merged on April 3, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/166305) over 2 days, 281 additions and 64 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update docs to debug the Android embedder<br />
