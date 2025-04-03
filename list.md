@@ -52,6 +52,10 @@
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) merged on March 31, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/162780) over 1 month, 42 additions and 18 deletions in 12 files</sub>
   <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [Chinmay Garde](https://github.com/chinmaygarde), [Miguel](https://github.com/miguelfrde), [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix read only TextField focus traversal on macOS
+  <sub>[#166056](https://github.com/flutter/flutter/pull/166056) merged on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166056) over 6 days, 63 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Range slider show overlay for both thumbs on hovering one
   <sub>[#165393](https://github.com/flutter/flutter/pull/165393) merged on April 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165393) over 2 weeks, 138 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
@@ -59,10 +63,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: DelegateTransition for cupertino sheet route
   <sub>[#164675](https://github.com/flutter/flutter/pull/164675) merged on April 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164675) over 3 weeks, 115 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove validation warning ignores.
-  <sub>[#166205](https://github.com/flutter/flutter/pull/166205) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166205) over 1 day, 0 additions and 16 deletions in 1 file</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started pixel aligning hairlines
   <sub>[#166351](https://github.com/flutter/flutter/pull/166351) merged on April 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/166351) over 1 day, 174 additions and 5 deletions in 6 files</sub>
@@ -76,6 +76,10 @@
   <sub>[#166027](https://github.com/flutter/flutter/pull/166027) merged on April 2, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/166027) over 6 days, 263 additions and 177 deletions in 16 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove validation warning ignores.
+  <sub>[#166205](https://github.com/flutter/flutter/pull/166205) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166205) over 1 day, 0 additions and 16 deletions in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] handle shader ordering bug on macOS.
   <sub>[#165937](https://github.com/flutter/flutter/pull/165937) merged on March 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165937) over 5 days, 69 additions and 72 deletions in 4 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -83,10 +87,6 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Add styling parameters in `PopupMenuDivider`
   <sub>[#164790](https://github.com/flutter/flutter/pull/164790) merged on April 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164790) over 3 weeks, 190 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix read only TextField focus traversal on macOS
-  <sub>[#166056](https://github.com/flutter/flutter/pull/166056) merged on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166056) over 6 days, 63 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Migrate to Theme.brightnessOf method
   <sub>[#163950](https://github.com/flutter/flutter/pull/163950) merged on April 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163950) over 1 month, 18 additions and 18 deletions in 14 files</sub>
