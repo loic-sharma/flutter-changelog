@@ -157,7 +157,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render conics without conversion from Flutter apps
-  <sub>[#166305](https://github.com/flutter/flutter/pull/166305) merged on April 3, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/166305) over 2 days, 281 additions and 64 deletions in 8 files</sub>
+  <sub>[#166305](https://github.com/flutter/flutter/pull/166305) merged on April 3, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/166305) over 2 days, 281 additions and 64 deletions in 8 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update docs to debug the Android embedder
