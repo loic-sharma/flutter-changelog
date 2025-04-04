@@ -108,5 +108,5 @@
   <sub>[#166555](https://github.com/flutter/flutter/pull/166555) opened on on April 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166555) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix text selection offset in multi-line fields<br />
-  <sub>[#166565](https://github.com/flutter/flutter/pull/166565) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166565) 39 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#166565](https://github.com/flutter/flutter/pull/166565) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166565) 56 additions and 5 deletions in 5 files</sub><br />
 
