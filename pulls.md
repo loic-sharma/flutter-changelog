@@ -111,7 +111,7 @@
   <sub>[#166595](https://github.com/flutter/flutter/pull/166595) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166595) 176 additions and 65 deletions in 7 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 11.0.0<br />
-  <sub>[#166596](https://github.com/flutter/flutter/pull/166596) opened on on April 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/166596) 178 additions and 78908 deletions in 3 files</sub><br />
+  <sub>[#166596](https://github.com/flutter/flutter/pull/166596) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166596) 187 additions and 1 deletion in 4 files</sub><br />
 
 * **[MarkZ](https://github.com/Markzipan)** &mdash; Adding macrobenchmarks for DDC<br />
   <sub>[#166617](https://github.com/flutter/flutter/pull/166617) opened on on April 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166617) 91 additions and 7 deletions in 8 files</sub><br />
