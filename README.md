@@ -125,7 +125,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render conics without conversion from Flutter apps<br />
-  <sub>[#166305](https://github.com/flutter/flutter/pull/166305) merged on April 3, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/166305) over 2 days, 281 additions and 64 deletions in 8 files</sub><br />
+  <sub>[#166305](https://github.com/flutter/flutter/pull/166305) merged on April 3, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/166305) over 2 days, 281 additions and 64 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] small cpu perf for text contents.<br />
