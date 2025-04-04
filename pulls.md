@@ -78,7 +78,7 @@
   <sub>[#166065](https://github.com/flutter/flutter/pull/166065) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166065) 187 additions and 12 deletions in 5 files</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add check for announcement support per platform<br />
-  <sub>[#166099](https://github.com/flutter/flutter/pull/166099) opened on on March 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166099) 22 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#166099](https://github.com/flutter/flutter/pull/166099) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166099) 22 additions and 1 deletion in 2 files</sub><br />
 
 * **[Per Lycke](https://github.com/PerLycke)** &mdash; Fix: Ensure Image.errorBuilder reliably prevents error reporting<br />
   <sub>[#166130](https://github.com/flutter/flutter/pull/166130) opened on on March 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166130) 106 additions and 17 deletions in 3 files</sub><br />
@@ -102,7 +102,7 @@
   <sub>[#166354](https://github.com/flutter/flutter/pull/166354) opened on on April 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166354) 6 additions and 13 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add `widget_preview_scaffold.shard` to test the `widget_preview_scaffold` template contents<br />
-  <sub>[#166358](https://github.com/flutter/flutter/pull/166358) opened on on April 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/166358) 984 additions and 14 deletions in 23 files</sub><br />
+  <sub>[#166358](https://github.com/flutter/flutter/pull/166358) opened on on April 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/166358) 984 additions and 14 deletions in 23 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Enable merged platform and UI thread by default<br />
   <sub>[#166536](https://github.com/flutter/flutter/pull/166536) opened on on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166536) 32 additions and 23 deletions in 2 files</sub><br />
