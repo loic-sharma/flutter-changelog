@@ -113,6 +113,3 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 11.0.0<br />
   <sub>[#166596](https://github.com/flutter/flutter/pull/166596) opened on on April 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/166596) 178 additions and 78908 deletions in 3 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Relands "[Impeller] Render conics without conversion from Flutter apps (#166305)"<br />
-  <sub>[#166598](https://github.com/flutter/flutter/pull/166598) opened on on April 4, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166598) 281 additions and 64 deletions in 8 files</sub><br />
-
