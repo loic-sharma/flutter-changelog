@@ -110,3 +110,9 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; bump warn agp version from 7.3 to 8.3<br />
   <sub>[#166555](https://github.com/flutter/flutter/pull/166555) opened on on April 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166555) 3 additions and 3 deletions in 2 files</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] denull some of text_editing.dart<br />
+  <sub>[#166595](https://github.com/flutter/flutter/pull/166595) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166595) 176 additions and 65 deletions in 7 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 11.0.0<br />
+  <sub>[#166596](https://github.com/flutter/flutter/pull/166596) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166596) 178 additions and 1 deletion in 2 files</sub><br />
+
