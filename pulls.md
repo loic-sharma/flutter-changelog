@@ -122,3 +122,6 @@
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; HSLColor.fromColor and HSVColor.fromColor calculate saturation incorrectly<br />
   <sub>[#166639](https://github.com/flutter/flutter/pull/166639) opened on on April 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166639) 94 additions and 4 deletions in 2 files</sub><br />
 
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Set Dialog's maximum width to 560dp according to Material's guidelines<br />
+  <sub>[#166643](https://github.com/flutter/flutter/pull/166643) opened on on April 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166643) 16 additions and 1 deletion in 1 file</sub><br />
+

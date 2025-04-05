@@ -69,7 +69,7 @@
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix text selection offset in multi-line fields
-  <sub>[#166565](https://github.com/flutter/flutter/pull/166565) merged on April 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166565) over 20 hours, 56 additions and 5 deletions in 5 files</sub>
+  <sub>[#166565](https://github.com/flutter/flutter/pull/166565) merged on April 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/166565) over 20 hours, 56 additions and 5 deletions in 5 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Only call removeview callback when raster thread is done with the view
