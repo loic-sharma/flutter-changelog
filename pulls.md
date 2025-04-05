@@ -125,3 +125,6 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Set Dialog's maximum width to 560dp according to Material's guidelines<br />
   <sub>[#166643](https://github.com/flutter/flutter/pull/166643) opened on on April 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166643) 16 additions and 1 deletion in 1 file</sub><br />
 
+* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix DropdownButtonFormField focusing when replacing FocusNode<br />
+  <sub>[#166645](https://github.com/flutter/flutter/pull/166645) opened on on April 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166645) 65 additions and 8 deletions in 2 files</sub><br />
+
