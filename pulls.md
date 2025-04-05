@@ -119,3 +119,6 @@
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary builder<br />
   <sub>[#166623](https://github.com/flutter/flutter/pull/166623) opened on on April 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166623) 30 additions and 34 deletions in 1 file</sub><br />
 
+* **[suojae](https://github.com/suojae)** &mdash; Fix CupertinoSwitch intermediate toggle behavior<br />
+  <sub>[#166636](https://github.com/flutter/flutter/pull/166636) opened on on April 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166636) 57 additions and 1 deletion in 2 files</sub><br />
+
