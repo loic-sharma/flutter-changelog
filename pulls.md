@@ -119,3 +119,6 @@
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary builder<br />
   <sub>[#166623](https://github.com/flutter/flutter/pull/166623) opened on on April 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166623) 30 additions and 34 deletions in 1 file</sub><br />
 
+* **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; HSLColor.fromColor and HSVColor.fromColor calculate saturation incorrectly<br />
+  <sub>[#166639](https://github.com/flutter/flutter/pull/166639) opened on on April 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166639) 44 additions and 2 deletions in 2 files</sub><br />
+
