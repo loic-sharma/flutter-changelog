@@ -20,7 +20,7 @@
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Move `.cxx` directory out of `android/app`<br />
-  <sub>[#166277](https://github.com/flutter/flutter/pull/166277) merged on March 31, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166277) over 4 hours, 68 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#166277](https://github.com/flutter/flutter/pull/166277) merged on March 31, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/166277) over 4 hours, 68 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache for text shadows.<br />
