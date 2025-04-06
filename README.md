@@ -4,7 +4,7 @@
 
 ### March 29, 2025 to April 4, 2025
 
-59 commits.
+60 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command<br />
   <sub>[#164437](https://github.com/flutter/flutter/pull/164437) merged on April 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164437) over 1 month, 24 additions and 4 deletions in 3 files</sub><br />
@@ -76,21 +76,25 @@
   <sub>[#164571](https://github.com/flutter/flutter/pull/164571) merged on April 4, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/164571) over 1 month, 115 additions and 12 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
-* **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
-  <sub>[#162780](https://github.com/flutter/flutter/pull/162780) merged on March 31, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/162780) over 1 month, 42 additions and 18 deletions in 12 files</sub><br />
-  <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [Chinmay Garde](https://github.com/chinmaygarde), [Miguel](https://github.com/miguelfrde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix read only TextField focus traversal on macOS<br />
+  <sub>[#166056](https://github.com/flutter/flutter/pull/166056) merged on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166056) over 6 days, 63 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Range slider show overlay for both thumbs on hovering one<br />
   <sub>[#165393](https://github.com/flutter/flutter/pull/165393) merged on April 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165393) over 2 weeks, 138 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix read only TextField focus traversal on macOS<br />
-  <sub>[#166056](https://github.com/flutter/flutter/pull/166056) merged on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166056) over 6 days, 63 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+* **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
+  <sub>[#162780](https://github.com/flutter/flutter/pull/162780) merged on March 31, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/162780) over 1 month, 42 additions and 18 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [Chinmay Garde](https://github.com/chinmaygarde), [Miguel](https://github.com/miguelfrde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: DelegateTransition for cupertino sheet route<br />
   <sub>[#164675](https://github.com/flutter/flutter/pull/164675) merged on April 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164675) over 3 weeks, 115 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started pixel aligning hairlines<br />
+  <sub>[#166351](https://github.com/flutter/flutter/pull/166351) merged on April 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/166351) over 1 day, 174 additions and 5 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert `AppPluginLoaderPlugin` to Kotlin, and add `NativePluginLoaderReflectionBridge` to expose it in Kotlin<br />
   <sub>[#166027](https://github.com/flutter/flutter/pull/166027) merged on April 2, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/166027) over 6 days, 263 additions and 177 deletions in 16 files</sub><br />
@@ -99,10 +103,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android_engine_test] disable old HC mode tests.<br />
   <sub>[#166293](https://github.com/flutter/flutter/pull/166293) merged on April 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166293) over 2 hours, 33 additions and 23 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started pixel aligning hairlines<br />
-  <sub>[#166351](https://github.com/flutter/flutter/pull/166351) merged on April 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/166351) over 1 day, 174 additions and 5 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove validation warning ignores.<br />
   <sub>[#166205](https://github.com/flutter/flutter/pull/166205) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166205) over 1 day, 0 additions and 16 deletions in 1 file</sub><br />
@@ -115,6 +115,10 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Add styling parameters in `PopupMenuDivider`<br />
   <sub>[#164790](https://github.com/flutter/flutter/pull/164790) merged on April 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164790) over 3 weeks, 190 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Make coverage collection aware of workspaces<br />
+  <sub>[#166389](https://github.com/flutter/flutter/pull/166389) merged on April 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166389) over 4 days, 188 additions and 2 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Migrate to Theme.brightnessOf method<br />
   <sub>[#163950](https://github.com/flutter/flutter/pull/163950) merged on April 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163950) over 1 month, 18 additions and 18 deletions in 14 files</sub><br />
@@ -180,18 +184,6 @@
   <sub>[#163654](https://github.com/flutter/flutter/pull/163654) merged on April 1, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163654) over 1 month, 48 additions and 22 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Don't write the .flutter-plugins-dependencies file if it is unchanged<br />
-  <sub>[#166164](https://github.com/flutter/flutter/pull/166164) merged on March 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166164) over 3 days, 149 additions and 52 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Improve using project files in build targets<br />
-  <sub>[#166211](https://github.com/flutter/flutter/pull/166211) merged on April 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166211) over 2 days, 113 additions and 14 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; Add x64 ddm variants<br />
-  <sub>[#166511](https://github.com/flutter/flutter/pull/166511) merged on April 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166511) over 1 day, 86 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update docs to debug the Android embedder<br />
   <sub>[#166170](https://github.com/flutter/flutter/pull/166170) merged on April 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166170) over 5 days, 26 additions and 13 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Gray Mackall](https://github.com/gmackall)</sub><br />
@@ -204,9 +196,21 @@
   <sub>[#166455](https://github.com/flutter/flutter/pull/166455) merged on April 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166455) over 7 hours, 35 additions and 37 deletions in 26 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Don't write the .flutter-plugins-dependencies file if it is unchanged<br />
+  <sub>[#166164](https://github.com/flutter/flutter/pull/166164) merged on March 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166164) over 3 days, 149 additions and 52 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS`<br />
   <sub>[#166444](https://github.com/flutter/flutter/pull/166444) merged on April 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166444) over 4 hours, 14 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Improve using project files in build targets<br />
+  <sub>[#166211](https://github.com/flutter/flutter/pull/166211) merged on April 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166211) over 2 days, 113 additions and 14 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Add x64 ddm variants<br />
+  <sub>[#166511](https://github.com/flutter/flutter/pull/166511) merged on April 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166511) over 1 day, 86 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix CODEOWNERS for the iOS review team<br />
   <sub>[#166178](https://github.com/flutter/flutter/pull/166178) merged on March 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166178) over 2 days, 7 additions and 7 deletions in 1 file</sub><br />
