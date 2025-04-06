@@ -131,3 +131,6 @@
 * **[Siva Utukuri](https://github.com/UtukuriSiva)** &mdash; new Widget called hover builder as been created<br />
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
 
+* **[Krisna Pranav](https://github.com/krishpranav)** &mdash; 🌟  [Proposal][ListTile]: Add WidgetStatesController for interactive state management 🌟 <br />
+  <sub>[#166651](https://github.com/flutter/flutter/pull/166651) opened on on April 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166651) 75 additions and 0 deletions in 2 files</sub><br />
+
