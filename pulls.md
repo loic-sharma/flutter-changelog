@@ -110,9 +110,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] denull some of text_editing.dart<br />
   <sub>[#166595](https://github.com/flutter/flutter/pull/166595) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166595) 176 additions and 65 deletions in 7 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 11.0.0<br />
-  <sub>[#166596](https://github.com/flutter/flutter/pull/166596) opened on on April 4, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166596) 337 additions and 34 deletions in 8 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader texture to 3x3.<br />
   <sub>[#166612](https://github.com/flutter/flutter/pull/166612) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166612) 24 additions and 1 deletion in 3 files</sub><br />
 
@@ -145,4 +142,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Update generated test files<br />
   <sub>[#166701](https://github.com/flutter/flutter/pull/166701) opened on on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166701) 117 additions and 11 deletions in 2 files</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition<br />
+  <sub>[#166705](https://github.com/flutter/flutter/pull/166705) opened on on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166705) 8 additions and 2 deletions in 1 file</sub><br />
 
