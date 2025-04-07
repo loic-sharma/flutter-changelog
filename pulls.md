@@ -147,5 +147,5 @@
   <sub>[#166705](https://github.com/flutter/flutter/pull/166705) opened on on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166705) 8 additions and 2 deletions in 1 file</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked<br />
-  <sub>[#166717](https://github.com/flutter/flutter/pull/166717) opened on on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166717) 61 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#166717](https://github.com/flutter/flutter/pull/166717) opened on on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166717) 61 additions and 1 deletion in 4 files</sub><br />
 
