@@ -852,10 +852,14 @@
 
 ### April 5, 2025 to April 11, 2025
 
-3 commits.
+4 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add alternate redirects for agentic campaign links
   <sub>[#11878](https://github.com/flutter/website/pull/11878) merged on April 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11878) over 9 minutes, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Tahmeedul Islam](https://github.com/thetahmeed)** &mdash; docs: update file reference to build.gradle.kts for Kotlin DSL projects
+  <sub>[#11875](https://github.com/flutter/website/pull/11875) merged on April 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11875) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Shashwat Garg](https://github.com/Shashwat-Garg)** &mdash; Fixed typo of _kDartMode to _kDarkMode
