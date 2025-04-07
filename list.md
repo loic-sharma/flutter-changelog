@@ -4,11 +4,16 @@
 
 ### April 5, 2025 to April 11, 2025
 
-2 commits.
+3 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
+* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [Widget Preview] implemented gridview and listview layouts 
+  <sub>[#166150](https://github.com/flutter/flutter/pull/166150) merged on April 7, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166150) over 1 week, 116 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+  <sub><details><summary>3 images...</summary>![Screenshot 2025-03-28 at 3 13 32 PM](https://github.com/user-attachments/assets/cbea7a93-d03e-4be4-8ecb-84b70458685e)![Screenshot 2025-03-28 at 3 13 44 PM](https://github.com/user-attachments/assets/e286d6b8-62ac-4a7c-b848-e01cf5fd033e)![Screenshot 2025-03-28 at 3 16 06 PM](https://github.com/user-attachments/assets/0260d3ca-f470-4ae4-8799-76933357d1c3)</details></sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) merged on April 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/163909) over 1 month, 160 additions and 18 deletions in 4 files</sub>
