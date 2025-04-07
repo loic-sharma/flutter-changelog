@@ -146,6 +146,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition<br />
   <sub>[#166705](https://github.com/flutter/flutter/pull/166705) opened on on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166705) 8 additions and 2 deletions in 1 file</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] reland fix text selection offset in multi-line fields<br />
-  <sub>[#166714](https://github.com/flutter/flutter/pull/166714) opened on on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166714) 56 additions and 5 deletions in 5 files</sub><br />
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked<br />
+  <sub>[#166717](https://github.com/flutter/flutter/pull/166717) opened on on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166717) 61 additions and 1 deletion in 4 files</sub><br />
 
