@@ -132,11 +132,14 @@
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[Krisna Pranav](https://github.com/krishpranav)** &mdash; 🌟  [Proposal][ListTile]: Add WidgetStatesController for interactive state management 🌟 <br />
-  <sub>[#166651](https://github.com/flutter/flutter/pull/166651) opened on on April 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166651) 75 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#166651](https://github.com/flutter/flutter/pull/166651) opened on on April 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166651) 75 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add equality to NoDefaultCupertinoThemeData<br />
   <sub>[#166655](https://github.com/flutter/flutter/pull/166655) opened on on April 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166655) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update TextFormField restoration tests<br />
   <sub>[#166678](https://github.com/flutter/flutter/pull/166678) opened on on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166678) 61 additions and 92 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.restorationId<br />
+  <sub>[#166684](https://github.com/flutter/flutter/pull/166684) opened on on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166684) 26 additions and 0 deletions in 2 files</sub><br />
 
