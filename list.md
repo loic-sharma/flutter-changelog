@@ -846,9 +846,22 @@
 
 ## flutter/website
 
+### April 5, 2025 to April 11, 2025
+
+2 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add alternate redirects for agentic campaign links
+  <sub>[#11878](https://github.com/flutter/website/pull/11878) merged on April 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11878) over 9 minutes, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add the go router v15 migration guide
+  <sub>[#11867](https://github.com/flutter/website/pull/11867) merged on April 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11867) over 3 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### March 29, 2025 to April 4, 2025
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Enhance pubspec guide
   <sub>[#11833](https://github.com/flutter/website/pull/11833) merged on April 1, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/website/pull/11833) over 1 week, 526 additions and 35 deletions in 1 file</sub>
@@ -885,6 +898,8 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add go/cupertino-expansion-tile
   <sub>[#11854](https://github.com/flutter/website/pull/11854) merged on April 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11854) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### March 22, 2025 to March 28, 2025
 
