@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 5, 2025 to April 11, 2025
+
+1 commits.
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source
+  <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
 ### March 29, 2025 to April 4, 2025
 
-60 commits.
+<details>
+<summary>60 commits...</summary>
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command
   <sub>[#164437](https://github.com/flutter/flutter/pull/164437) merged on April 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164437) over 1 month, 24 additions and 4 deletions in 3 files</sub>
@@ -247,6 +256,8 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Relands "[Impeller] Render conics without conversion from Flutter apps (#166305)"
   <sub>[#166598](https://github.com/flutter/flutter/pull/166598) merged on April 4, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166598) over 1 hour, 281 additions and 64 deletions in 8 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+</details>
 
 ### March 22, 2025 to March 28, 2025
 
