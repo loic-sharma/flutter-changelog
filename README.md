@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-4 commits.
+5 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove `bringup:true` from Linux tool_tests_widget_preview_scaffold<br />
   <sub>[#166687](https://github.com/flutter/flutter/pull/166687) merged on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166687) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
+  <sub>[#166676](https://github.com/flutter/flutter/pull/166676) merged on April 7, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/166676) over 8 hours, 1747 additions and 1121 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 ### March 29, 2025 to April 4, 2025
 
