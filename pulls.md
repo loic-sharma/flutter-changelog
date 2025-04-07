@@ -137,6 +137,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add equality to NoDefaultCupertinoThemeData<br />
   <sub>[#166655](https://github.com/flutter/flutter/pull/166655) opened on on April 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166655) 38 additions and 0 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.restorationId<br />
-  <sub>[#166684](https://github.com/flutter/flutter/pull/166684) opened on on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166684) 26 additions and 0 deletions in 2 files</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove `bringup:true` from Linux tool_tests_widget_preview_scaffold<br />
+  <sub>[#166687](https://github.com/flutter/flutter/pull/166687) opened on on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166687) 0 additions and 1 deletion in 1 file</sub><br />
 
