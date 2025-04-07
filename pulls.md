@@ -53,7 +53,7 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; gpu stuff.<br />
   <sub>[#165337](https://github.com/flutter/flutter/pull/165337) opened on on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165337) 81 additions and 3 deletions in 12 files</sub><br />
 
-* **[廖检成](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
+* **[边角料](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
   <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/165370) 25 additions and 1 deletion in 2 files</sub><br />
 
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
@@ -123,7 +123,7 @@
   <sub>[#166639](https://github.com/flutter/flutter/pull/166639) opened on on April 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166639) 94 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Set Dialog's maximum width to 560dp according to Material's guidelines<br />
-  <sub>[#166643](https://github.com/flutter/flutter/pull/166643) opened on on April 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166643) 16 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#166643](https://github.com/flutter/flutter/pull/166643) opened on on April 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166643) 16 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix DropdownButtonFormField focusing when replacing FocusNode<br />
   <sub>[#166645](https://github.com/flutter/flutter/pull/166645) opened on on April 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166645) 65 additions and 8 deletions in 2 files</sub><br />
