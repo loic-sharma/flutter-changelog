@@ -90,7 +90,7 @@
   <sub>[#166134](https://github.com/flutter/flutter/pull/166134) opened on on March 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166134) 108 additions and 16 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Added Docs For Updating to a New Java Version in CI<br />
-  <sub>[#166159](https://github.com/flutter/flutter/pull/166159) opened on on March 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166159) 88 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#166159](https://github.com/flutter/flutter/pull/166159) opened on on March 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166159) 86 additions and 0 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
@@ -145,4 +145,7 @@
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition<br />
   <sub>[#166705](https://github.com/flutter/flutter/pull/166705) opened on on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166705) 8 additions and 2 deletions in 1 file</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] reland fix text selection offset in multi-line fields<br />
+  <sub>[#166714](https://github.com/flutter/flutter/pull/166714) opened on on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166714) 56 additions and 5 deletions in 5 files</sub><br />
 
