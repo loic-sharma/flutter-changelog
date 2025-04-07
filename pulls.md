@@ -140,3 +140,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD)<br />
   <sub>[#166698](https://github.com/flutter/flutter/pull/166698) opened on on April 7, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166698) 297 additions and 30 deletions in 14 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Update dwds version to 24.3.10<br />
+  <sub>[#166699](https://github.com/flutter/flutter/pull/166699) opened on on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166699) 2 additions and 2 deletions in 1 file</sub><br />
+

@@ -20,7 +20,7 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove `bringup:true` from Linux tool_tests_widget_preview_scaffold<br />
-  <sub>[#166687](https://github.com/flutter/flutter/pull/166687) merged on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166687) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#166687](https://github.com/flutter/flutter/pull/166687) merged on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166687) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 ### March 29, 2025 to April 4, 2025
