@@ -108,7 +108,7 @@
   <sub>[#166536](https://github.com/flutter/flutter/pull/166536) opened on on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166536) 32 additions and 23 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; bump warn agp version from 7.3 to 8.3<br />
-  <sub>[#166555](https://github.com/flutter/flutter/pull/166555) opened on on April 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166555) 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#166555](https://github.com/flutter/flutter/pull/166555) opened on on April 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166555) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] denull some of text_editing.dart<br />
   <sub>[#166595](https://github.com/flutter/flutter/pull/166595) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166595) 176 additions and 65 deletions in 7 files</sub><br />
