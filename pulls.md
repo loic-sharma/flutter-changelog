@@ -137,9 +137,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD)<br />
   <sub>[#166698](https://github.com/flutter/flutter/pull/166698) opened on on April 7, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166698) 298 additions and 29 deletions in 15 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition<br />
-  <sub>[#166705](https://github.com/flutter/flutter/pull/166705) opened on on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166705) 8 additions and 2 deletions in 1 file</sub><br />
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked<br />
   <sub>[#166717](https://github.com/flutter/flutter/pull/166717) opened on on April 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166717) 61 additions and 1 deletion in 4 files</sub><br />
 
