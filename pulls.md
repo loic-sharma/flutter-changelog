@@ -87,7 +87,7 @@
   <sub>[#166134](https://github.com/flutter/flutter/pull/166134) opened on on March 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166134) 108 additions and 16 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Added Docs For Updating to a New Java Version in CI<br />
-  <sub>[#166159](https://github.com/flutter/flutter/pull/166159) opened on on March 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/166159) 85 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#166159](https://github.com/flutter/flutter/pull/166159) opened on on March 28, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/166159) 85 additions and 0 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
@@ -106,9 +106,6 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; bump warn agp version from 7.3 to 8.3<br />
   <sub>[#166555](https://github.com/flutter/flutter/pull/166555) opened on on April 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166555) 3 additions and 3 deletions in 2 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader texture to 3x3.<br />
-  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) opened on on April 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166612) 42 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary builder<br />
   <sub>[#166623](https://github.com/flutter/flutter/pull/166623) opened on on April 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166623) 30 additions and 34 deletions in 1 file</sub><br />
