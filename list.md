@@ -31,13 +31,13 @@
   <sub>[#166698](https://github.com/flutter/flutter/pull/166698) merged on April 8, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/166698) over 1 day, 305 additions and 3 deletions in 14 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: CupertinoSheetTransition moves SystemUIOverlayStyle to outside of delegatedTransition and only changes top bar
-  <sub>[#164680](https://github.com/flutter/flutter/pull/164680) merged on April 7, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164680) over 1 month, 41 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub>
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add `RoundedSuperellipseBorder` and apply it to `CupertinoActionSheet`
   <sub>[#166303](https://github.com/flutter/flutter/pull/166303) merged on April 8, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/166303) over 6 days, 514 additions and 66 deletions in 6 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: CupertinoSheetTransition moves SystemUIOverlayStyle to outside of delegatedTransition and only changes top bar
+  <sub>[#164680](https://github.com/flutter/flutter/pull/164680) merged on April 7, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164680) over 1 month, 41 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) merged on April 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/163909) over 1 month, 160 additions and 18 deletions in 4 files</sub>
