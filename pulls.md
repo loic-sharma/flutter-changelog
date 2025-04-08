@@ -134,3 +134,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Speed up vulkan startup time by re-using existing vulkan context.<br />
   <sub>[#166784](https://github.com/flutter/flutter/pull/166784) opened on on April 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166784) 117 additions and 128 deletions in 16 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-disable microbenchmarks iOS.<br />
+  <sub>[#166788](https://github.com/flutter/flutter/pull/166788) opened on on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166788) 1 addition and 0 deletions in 1 file</sub><br />
+
