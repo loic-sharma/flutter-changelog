@@ -74,9 +74,6 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Fix navbar blur clipping outside of Cupertino sheet<br />
   <sub>[#166019](https://github.com/flutter/flutter/pull/166019) opened on on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166019) 71 additions and 4 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
-  <sub>[#166065](https://github.com/flutter/flutter/pull/166065) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166065) 187 additions and 12 deletions in 5 files</sub><br />
-
 * **[Per Lycke](https://github.com/PerLycke)** &mdash; Fix: Ensure Image.errorBuilder reliably prevents error reporting<br />
   <sub>[#166130](https://github.com/flutter/flutter/pull/166130) opened on on March 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166130) 106 additions and 17 deletions in 3 files</sub><br />
 
