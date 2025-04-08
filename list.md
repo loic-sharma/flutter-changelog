@@ -745,9 +745,18 @@
 
 ## flutter/packages
 
+### April 5, 2025 to April 11, 2025
+
+1 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] swift equality methods
+  <sub>[#8971](https://github.com/flutter/packages/pull/8971) merged on April 8, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/8971) over 1 week, 997 additions and 453 deletions in 29 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 ### March 29, 2025 to April 4, 2025
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[黑深蓝](https://github.com/StanleyCocos)** &mdash; [url_launcher] When not fully loaded, clicking close causes the callback to not be triggered correctly.
   <sub>[#8582](https://github.com/flutter/packages/pull/8582) merged on April 1, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/8582) over 1 month, 36 additions and 2 deletions in 8 files</sub>
@@ -828,6 +837,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from 09de023485e9 to c23637390482 (14 revisions)
   <sub>[#8990](https://github.com/flutter/packages/pull/8990) merged on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8990) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### March 22, 2025 to March 28, 2025
 
