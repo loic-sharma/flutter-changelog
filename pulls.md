@@ -77,9 +77,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Hot Restart ] Fix possible hang due to unhandled exception in UI isolates on hot restart<br />
   <sub>[#166065](https://github.com/flutter/flutter/pull/166065) opened on on March 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166065) 187 additions and 12 deletions in 5 files</sub><br />
 
-* **[ash2moon](https://github.com/ash2moon)** &mdash; add check for announcement support per platform<br />
-  <sub>[#166099](https://github.com/flutter/flutter/pull/166099) opened on on March 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166099) 22 additions and 1 deletion in 2 files</sub><br />
-
 * **[Per Lycke](https://github.com/PerLycke)** &mdash; Fix: Ensure Image.errorBuilder reliably prevents error reporting<br />
   <sub>[#166130](https://github.com/flutter/flutter/pull/166130) opened on on March 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166130) 106 additions and 17 deletions in 3 files</sub><br />
 
@@ -102,7 +99,7 @@
   <sub>[#166354](https://github.com/flutter/flutter/pull/166354) opened on on April 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166354) 6 additions and 13 deletions in 4 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set correct depth for emulated advanced blend restore.<br />
-  <sub>[#166501](https://github.com/flutter/flutter/pull/166501) opened on on April 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166501) 12 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#166501](https://github.com/flutter/flutter/pull/166501) opened on on April 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166501) 33 additions and 5 deletions in 3 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Enable merged platform and UI thread by default<br />
   <sub>[#166536](https://github.com/flutter/flutter/pull/166536) opened on on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166536) 32 additions and 23 deletions in 2 files</sub><br />
@@ -111,7 +108,7 @@
   <sub>[#166555](https://github.com/flutter/flutter/pull/166555) opened on on April 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166555) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader texture to 3x3.<br />
-  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166612) 24 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166612) 42 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary builder<br />
   <sub>[#166623](https://github.com/flutter/flutter/pull/166623) opened on on April 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166623) 30 additions and 34 deletions in 1 file</sub><br />
