@@ -146,3 +146,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Let DrivenScrollActivity subclasses customize handling of overscroll<br />
   <sub>[#166731](https://github.com/flutter/flutter/pull/166731) opened on on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166731) 97 additions and 1 deletion in 2 files</sub><br />
 
+* **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver<br />
+  <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166753) 17 additions and 11 deletions in 1 file</sub><br />
+
