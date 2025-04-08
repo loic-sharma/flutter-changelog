@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-10 commits.
+11 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData<br />
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) merged on April 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/163909) over 1 month, 160 additions and 18 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add `RoundedSuperellipseBorder` and apply it to `CupertinoActionSheet`<br />
+  <sub>[#166303](https://github.com/flutter/flutter/pull/166303) merged on April 8, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/166303) over 6 days, 514 additions and 66 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Update dwds version to 24.3.10<br />
   <sub>[#166699](https://github.com/flutter/flutter/pull/166699) merged on April 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166699) over 4 hours, 2 additions and 2 deletions in 1 file</sub><br />
