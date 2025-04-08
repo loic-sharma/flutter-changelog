@@ -108,7 +108,7 @@
   <sub>[#166555](https://github.com/flutter/flutter/pull/166555) opened on on April 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166555) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader texture to 3x3.<br />
-  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) opened on on April 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166612) 42 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) opened on on April 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166612) 42 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary builder<br />
   <sub>[#166623](https://github.com/flutter/flutter/pull/166623) opened on on April 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166623) 30 additions and 34 deletions in 1 file</sub><br />
@@ -132,7 +132,7 @@
   <sub>[#166655](https://github.com/flutter/flutter/pull/166655) opened on on April 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166655) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD)<br />
-  <sub>[#166698](https://github.com/flutter/flutter/pull/166698) opened on on April 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166698) 305 additions and 3 deletions in 14 files</sub><br />
+  <sub>[#166698](https://github.com/flutter/flutter/pull/166698) opened on on April 7, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/166698) 305 additions and 3 deletions in 14 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked<br />
   <sub>[#166717](https://github.com/flutter/flutter/pull/166717) opened on on April 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166717) 61 additions and 1 deletion in 4 files</sub><br />

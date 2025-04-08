@@ -884,7 +884,11 @@
 
 ### April 5, 2025 to April 11, 2025
 
-4 commits.
+5 commits.
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add release notes for DevTools 2.45.0<br />
+  <sub>[#11879](https://github.com/flutter/website/pull/11879) merged on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11879) over 20 hours, 71 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add alternate redirects for agentic campaign links<br />
   <sub>[#11878](https://github.com/flutter/website/pull/11878) merged on April 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11878) over 9 minutes, 4 additions and 0 deletions in 1 file</sub><br />
