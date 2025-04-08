@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-15 commits.
+16 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable a swath of `bringup: true` builds that were forgotten to the void.<br />
   <sub>[#166757](https://github.com/flutter/flutter/pull/166757) merged on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166757) over 1 hour, 0 additions and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; bump warn agp version from 7.3 to 8.3<br />
+  <sub>[#166555](https://github.com/flutter/flutter/pull/166555) merged on April 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166555) over 4 days, 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add check for announcement support per platform<br />
   <sub>[#166099](https://github.com/flutter/flutter/pull/166099) merged on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166099) over 1 week, 22 additions and 1 deletion in 2 files</sub><br />
