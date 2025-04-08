@@ -915,7 +915,11 @@
 
 ### April 5, 2025 to April 11, 2025
 
-5 commits.
+6 commits.
+
+* **[Chris Sells](https://github.com/csells)** &mdash; AI Toolkit doc updates for v0.7.0<br />
+  <sub>[#11870](https://github.com/flutter/website/pull/11870) merged on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11870) over 3 days, 102 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add release notes for DevTools 2.45.0<br />
   <sub>[#11879](https://github.com/flutter/website/pull/11879) merged on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11879) over 20 hours, 71 additions and 0 deletions in 3 files</sub><br />
