@@ -729,7 +729,7 @@
 
 20 commits.
 
-* **[边角料](https://github.com/StanleyCocos)** &mdash; [url_launcher] When not fully loaded, clicking close causes the callback to not be triggered correctly.<br />
+* **[黑深蓝](https://github.com/StanleyCocos)** &mdash; [url_launcher] When not fully loaded, clicking close causes the callback to not be triggered correctly.<br />
   <sub>[#8582](https://github.com/flutter/packages/pull/8582) merged on April 1, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/8582) over 1 month, 36 additions and 2 deletions in 8 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 

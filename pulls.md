@@ -53,7 +53,7 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; gpu stuff.<br />
   <sub>[#165337](https://github.com/flutter/flutter/pull/165337) opened on on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165337) 81 additions and 3 deletions in 12 files</sub><br />
 
-* **[边角料](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
+* **[黑深蓝](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
   <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/165370) 25 additions and 1 deletion in 2 files</sub><br />
 
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
