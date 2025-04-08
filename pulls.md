@@ -74,9 +74,6 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Fix navbar blur clipping outside of Cupertino sheet<br />
   <sub>[#166019](https://github.com/flutter/flutter/pull/166019) opened on on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166019) 71 additions and 4 deletions in 2 files</sub><br />
 
-* **[Per Lycke](https://github.com/PerLycke)** &mdash; Fix: Ensure Image.errorBuilder reliably prevents error reporting<br />
-  <sub>[#166130](https://github.com/flutter/flutter/pull/166130) opened on on March 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166130) 106 additions and 17 deletions in 3 files</sub><br />
-
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add support for building release/profile mode for custom devices<br />
   <sub>[#166132](https://github.com/flutter/flutter/pull/166132) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166132) 241 additions and 52 deletions in 11 files</sub><br />
 
@@ -133,7 +130,4 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Speed up vulkan startup time by re-using existing vulkan context.<br />
   <sub>[#166784](https://github.com/flutter/flutter/pull/166784) opened on on April 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166784) 117 additions and 128 deletions in 16 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-disable microbenchmarks iOS.<br />
-  <sub>[#166788](https://github.com/flutter/flutter/pull/166788) opened on on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166788) 1 addition and 0 deletions in 1 file</sub><br />
 

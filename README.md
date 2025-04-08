@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-19 commits.
+20 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub><br />
@@ -50,6 +50,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Added Docs For Updating to a New Java Version in CI<br />
   <sub>[#166159](https://github.com/flutter/flutter/pull/166159) merged on April 8, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/166159) over 1 week, 85 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-disable microbenchmarks iOS.<br />
+  <sub>[#166788](https://github.com/flutter/flutter/pull/166788) merged on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166788) over 45 seconds, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable a swath of `bringup: true` builds that were forgotten to the void.<br />
   <sub>[#166757](https://github.com/flutter/flutter/pull/166757) merged on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166757) over 1 hour, 0 additions and 8 deletions in 1 file</sub><br />
