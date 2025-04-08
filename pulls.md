@@ -57,7 +57,7 @@
   <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/165370) 25 additions and 1 deletion in 2 files</sub><br />
 
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
-  <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
