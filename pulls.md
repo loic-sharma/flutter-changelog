@@ -129,7 +129,7 @@
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[Krisna Pranav](https://github.com/krishpranav)** &mdash; 🌟  [Proposal][ListTile]: Add WidgetStatesController for interactive state management 🌟 <br />
-  <sub>[#166651](https://github.com/flutter/flutter/pull/166651) opened on on April 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166651) 75 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#166651](https://github.com/flutter/flutter/pull/166651) opened on on April 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166651) 75 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add equality to NoDefaultCupertinoThemeData<br />
   <sub>[#166655](https://github.com/flutter/flutter/pull/166655) opened on on April 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166655) 38 additions and 0 deletions in 2 files</sub><br />
