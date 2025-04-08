@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-16 commits.
+17 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub>
@@ -22,6 +22,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 11.0.0
   <sub>[#166596](https://github.com/flutter/flutter/pull/166596) merged on April 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166596) over 3 days, 337 additions and 34 deletions in 8 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD)
+  <sub>[#166698](https://github.com/flutter/flutter/pull/166698) merged on April 8, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/166698) over 1 day, 305 additions and 3 deletions in 14 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: CupertinoSheetTransition moves SystemUIOverlayStyle to outside of delegatedTransition and only changes top bar
   <sub>[#164680](https://github.com/flutter/flutter/pull/164680) merged on April 7, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164680) over 1 month, 41 additions and 2 deletions in 2 files</sub>
