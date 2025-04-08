@@ -143,3 +143,6 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Test PR, do not review<br />
   <sub>[#166722](https://github.com/flutter/flutter/pull/166722) opened on on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166722) 15 additions and 1 deletion in 2 files</sub><br />
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Let DrivenScrollActivity subclasses customize handling of overscroll<br />
+  <sub>[#166731](https://github.com/flutter/flutter/pull/166731) opened on on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166731) 97 additions and 1 deletion in 2 files</sub><br />
+
