@@ -126,5 +126,5 @@
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166753) 13 additions and 11 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Speed up vulkan startup time by re-using existing vulkan context.<br />
-  <sub>[#166784](https://github.com/flutter/flutter/pull/166784) opened on on April 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166784) 125 additions and 128 deletions in 16 files</sub><br />
+  <sub>[#166784](https://github.com/flutter/flutter/pull/166784) opened on on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166784) 125 additions and 128 deletions in 16 files</sub><br />
 
