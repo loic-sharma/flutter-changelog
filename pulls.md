@@ -74,9 +74,6 @@
 * **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
   <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166291) 62 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set correct depth for emulated advanced blend restore.<br />
-  <sub>[#166501](https://github.com/flutter/flutter/pull/166501) opened on on April 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166501) 33 additions and 5 deletions in 3 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Enable merged platform and UI thread by default<br />
   <sub>[#166536](https://github.com/flutter/flutter/pull/166536) opened on on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166536) 32 additions and 23 deletions in 2 files</sub><br />
 
@@ -108,8 +105,11 @@
   <sub>[#166859](https://github.com/flutter/flutter/pull/166859) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166859) 90 additions and 123 deletions in 11 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Link to placeholder documentation when no previews are defined<br />
-  <sub>[#166869](https://github.com/flutter/flutter/pull/166869) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166869) 189 additions and 45 deletions in 8 files</sub><br />
+  <sub>[#166869](https://github.com/flutter/flutter/pull/166869) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166869) 189 additions and 45 deletions in 8 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll forward "Content aware hash moved..." with fix<br />
-  <sub>[#166873](https://github.com/flutter/flutter/pull/166873) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166873) 380 additions and 1 deletion in 6 files</sub><br />
+  <sub>[#166873](https://github.com/flutter/flutter/pull/166873) opened on on April 9, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166873) 380 additions and 1 deletion in 6 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; bump max tasks to a huge number.<br />
+  <sub>[#166876](https://github.com/flutter/flutter/pull/166876) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166876) 1 addition and 1 deletion in 1 file</sub><br />
 
