@@ -125,18 +125,6 @@
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix outdated reference to material in WidgetStateMapper's error message<br />
   <sub>[#166816](https://github.com/flutter/flutter/pull/166816) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166816) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[owshiiii](https://github.com/ram-skrrrtskrrrt)** &mdash; Update ios-deploy.version<br />
-  <sub>[#166825](https://github.com/flutter/flutter/pull/166825) opened on on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166825) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[owshiiii](https://github.com/ram-skrrrtskrrrt)** &mdash; Update display_list.cc<br />
-  <sub>[#166827](https://github.com/flutter/flutter/pull/166827) opened on on April 9, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/166827) 76 additions and 475 deletions in 1 file</sub><br />
-
-* **[owshiiii](https://github.com/ram-skrrrtskrrrt)** &mdash; Update flutter_console.bat<br />
-  <sub>[#166828](https://github.com/flutter/flutter/pull/166828) opened on on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166828) 1 addition and 38 deletions in 1 file</sub><br />
-
-* **[owshiiii](https://github.com/ram-skrrrtskrrrt)** &mdash; Update create_flutter_jar.py<br />
-  <sub>[#166829](https://github.com/flutter/flutter/pull/166829) opened on on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166829) 1 addition and 64 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for "soft" restart of individual previews<br />
   <sub>[#166846](https://github.com/flutter/flutter/pull/166846) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166846) 337 additions and 100 deletions in 9 files</sub><br />
 
