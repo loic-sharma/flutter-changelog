@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-29 commits.
+30 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub><br />
@@ -82,6 +82,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Added Docs For Updating to a New Java Version in CI<br />
   <sub>[#166159](https://github.com/flutter/flutter/pull/166159) merged on April 8, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/166159) over 1 week, 85 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix CarouselView demo page is not functional using mouse scroll<br />
+  <sub>[#166512](https://github.com/flutter/flutter/pull/166512) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166512) over 6 days, 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-disable microbenchmarks iOS.<br />
   <sub>[#166788](https://github.com/flutter/flutter/pull/166788) merged on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166788) over 45 seconds, 1 addition and 0 deletions in 1 file</sub><br />
