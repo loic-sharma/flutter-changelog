@@ -89,9 +89,6 @@
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary builder<br />
   <sub>[#166623](https://github.com/flutter/flutter/pull/166623) opened on on April 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166623) 30 additions and 34 deletions in 1 file</sub><br />
 
-* **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; Change saturation calculation for HSLColor.fromColor<br />
-  <sub>[#166639](https://github.com/flutter/flutter/pull/166639) opened on on April 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166639) 92 additions and 3 deletions in 2 files</sub><br />
-
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Set Dialog's maximum width to 560dp according to Material's guidelines<br />
   <sub>[#166643](https://github.com/flutter/flutter/pull/166643) opened on on April 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166643) 16 additions and 1 deletion in 1 file</sub><br />
 

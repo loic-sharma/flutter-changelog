@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-31 commits.
+32 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub><br />
@@ -78,6 +78,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData<br />
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) merged on April 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/163909) over 1 month, 160 additions and 18 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add `buildMode`, `icuDataPath` and `engineRevision` interpolations for custom devices<br />
+  <sub>[#164455](https://github.com/flutter/flutter/pull/164455) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164455) over 1 month, 118 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu` keyboard navigation on filtered entries<br />
   <sub>[#165868](https://github.com/flutter/flutter/pull/165868) merged on April 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165868) over 1 week, 50 additions and 2 deletions in 2 files</sub><br />
