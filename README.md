@@ -4,11 +4,15 @@
 
 ### April 5, 2025 to April 11, 2025
 
-28 commits.
+29 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+
+* **[黑深蓝](https://github.com/StanleyCocos)** &mdash; fix(ListTileTheme): isThreeLine is missing.<br />
+  <sub>[#165481](https://github.com/flutter/flutter/pull/165481) merged on April 9, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/165481) over 2 weeks, 377 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SliverEnsureSemantics<br />
   <sub>[#165589](https://github.com/flutter/flutter/pull/165589) merged on April 9, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/165589) over 2 weeks, 547 additions and 195 deletions in 10 files</sub><br />
