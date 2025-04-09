@@ -143,3 +143,6 @@
 * **[owshiiii](https://github.com/ram-skrrrtskrrrt)** &mdash; Update create_flutter_jar.py<br />
   <sub>[#166829](https://github.com/flutter/flutter/pull/166829) opened on on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166829) 1 addition and 64 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add inputDecoration.visualDensity and InputDecorationTheme.visualDensity<br />
+  <sub>[#166834](https://github.com/flutter/flutter/pull/166834) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166834) 380 additions and 10 deletions in 2 files</sub><br />
+
