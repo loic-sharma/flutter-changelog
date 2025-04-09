@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-20 commits.
+24 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub>
@@ -39,6 +39,18 @@
   <sub>[#164680](https://github.com/flutter/flutter/pull/164680) merged on April 7, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164680) over 1 month, 41 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow dart pub deps --json to fail without causing an explicit crash.
+  <sub>[#166778](https://github.com/flutter/flutter/pull/166778) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166778) over 7 hours, 55 additions and 21 deletions in 4 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[yim](https://github.com/yiiim)** &mdash; Fix TreeSliver rendering offset.
+  <sub>[#166442](https://github.com/flutter/flutter/pull/166442) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166442) over 6 days, 46 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable no decal metal test.
+  <sub>[#166771](https://github.com/flutter/flutter/pull/166771) merged on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166771) over 7 hours, 0 additions and 51 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) merged on April 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/163909) over 1 month, 160 additions and 18 deletions in 4 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Justin McCandless](https://github.com/justinmc)</sub>
@@ -57,6 +69,10 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable a swath of `bringup: true` builds that were forgotten to the void.
   <sub>[#166757](https://github.com/flutter/flutter/pull/166757) merged on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166757) over 1 hour, 0 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Alexander Markov](https://github.com/alexmarkov)** &mdash; Remove package:macros and package:_macros from pubspec.yaml
+  <sub>[#166749](https://github.com/flutter/flutter/pull/166749) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166749) over 11 hours, 0 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; bump warn agp version from 7.3 to 8.3
