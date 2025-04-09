@@ -140,3 +140,9 @@
 * **[owshiiii](https://github.com/ram-skrrrtskrrrt)** &mdash; Update display_list.cc<br />
   <sub>[#166827](https://github.com/flutter/flutter/pull/166827) opened on on April 9, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/166827) 76 additions and 475 deletions in 1 file</sub><br />
 
+* **[owshiiii](https://github.com/ram-skrrrtskrrrt)** &mdash; Update flutter_console.bat<br />
+  <sub>[#166828](https://github.com/flutter/flutter/pull/166828) opened on on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166828) 1 addition and 38 deletions in 1 file</sub><br />
+
+* **[owshiiii](https://github.com/ram-skrrrtskrrrt)** &mdash; Update create_flutter_jar.py<br />
+  <sub>[#166829](https://github.com/flutter/flutter/pull/166829) opened on on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166829) 1 addition and 64 deletions in 1 file</sub><br />
+
