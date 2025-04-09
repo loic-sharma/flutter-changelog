@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-26 commits.
+27 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: CupertinoSheetTransition moves SystemUIOverlayStyle to outside of delegatedTransition and only changes top bar<br />
   <sub>[#164680](https://github.com/flutter/flutter/pull/164680) merged on April 7, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164680) over 1 month, 41 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] re-enable skipped impeller goldens.<br />
+  <sub>[#166354](https://github.com/flutter/flutter/pull/166354) merged on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166354) over 1 week, 6 additions and 13 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] keep device holder and allocator alive until last vk image is destroyed.<br />
   <sub>[#166725](https://github.com/flutter/flutter/pull/166725) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166725) over 1 day, 34 additions and 6 deletions in 3 files</sub><br />

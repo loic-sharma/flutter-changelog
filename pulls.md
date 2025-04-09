@@ -86,9 +86,6 @@
 * **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
   <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166291) 62 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] re-enable skipped impeller goldens.<br />
-  <sub>[#166354](https://github.com/flutter/flutter/pull/166354) opened on on April 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166354) 6 additions and 13 deletions in 4 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set correct depth for emulated advanced blend restore.<br />
   <sub>[#166501](https://github.com/flutter/flutter/pull/166501) opened on on April 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166501) 33 additions and 5 deletions in 3 files</sub><br />
 
