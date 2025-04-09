@@ -47,7 +47,7 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Migrate Theme to InheritedModel<br />
   <sub>[#165289](https://github.com/flutter/flutter/pull/165289) opened on on March 17, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165289) 663 additions and 47 deletions in 40 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; gpu stuff.<br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add runtime flag for enable flutter_gpu, off by default.<br />
   <sub>[#165337](https://github.com/flutter/flutter/pull/165337) opened on on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165337) 82 additions and 5 deletions in 14 files</sub><br />
 
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
@@ -112,4 +112,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; bump max tasks to a huge number.<br />
   <sub>[#166876](https://github.com/flutter/flutter/pull/166876) opened on on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166876) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD) (#166698)"<br />
+  <sub>[#166877](https://github.com/flutter/flutter/pull/166877) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166877) 307 additions and 3 deletions in 14 files</sub><br />
 
