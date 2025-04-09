@@ -128,3 +128,6 @@
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Remove unnecessary this. qualifiers.<br />
   <sub>[#166805](https://github.com/flutter/flutter/pull/166805) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166805) 3 additions and 3 deletions in 2 files</sub><br />
 
+* **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix outdated reference to material in WidgetStateMapper's error message<br />
+  <sub>[#166816](https://github.com/flutter/flutter/pull/166816) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166816) 2 additions and 2 deletions in 1 file</sub><br />
+
