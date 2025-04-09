@@ -111,5 +111,5 @@
   <sub>[#166873](https://github.com/flutter/flutter/pull/166873) opened on on April 9, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166873) 380 additions and 1 deletion in 6 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; bump max tasks to a huge number.<br />
-  <sub>[#166876](https://github.com/flutter/flutter/pull/166876) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166876) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#166876](https://github.com/flutter/flutter/pull/166876) opened on on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166876) 1 addition and 1 deletion in 1 file</sub><br />
 
