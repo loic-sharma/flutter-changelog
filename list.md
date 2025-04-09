@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-32 commits.
+33 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub>
@@ -50,6 +50,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix CarouselView demo page is not functional using mouse scroll
   <sub>[#166512](https://github.com/flutter/flutter/pull/166512) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166512) over 6 days, 9 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked
+  <sub>[#166717](https://github.com/flutter/flutter/pull/166717) merged on April 9, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/166717) over 1 day, 377 additions and 1 deletion in 6 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader matrix to 3x3.
   <sub>[#166612](https://github.com/flutter/flutter/pull/166612) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166612) over 4 days, 42 additions and 1 deletion in 4 files</sub>

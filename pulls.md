@@ -128,3 +128,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] prefer 24 bit depth buffer format on vulkan backend.<br />
   <sub>[#166854](https://github.com/flutter/flutter/pull/166854) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166854) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] various iOS cleanups.<br />
+  <sub>[#166859](https://github.com/flutter/flutter/pull/166859) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166859) 89 additions and 123 deletions in 10 files</sub><br />
+
