@@ -80,9 +80,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Enable merged platform and UI thread by default<br />
   <sub>[#166536](https://github.com/flutter/flutter/pull/166536) opened on on April 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166536) 32 additions and 23 deletions in 2 files</sub><br />
 
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Set Dialog's maximum width to 560dp according to Material's guidelines<br />
-  <sub>[#166643](https://github.com/flutter/flutter/pull/166643) opened on on April 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166643) 16 additions and 1 deletion in 1 file</sub><br />
-
 * **[Siva Utukuri](https://github.com/UtukuriSiva)** &mdash; new Widget called hover builder as been created<br />
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
 
@@ -112,4 +109,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Link to placeholder documentation when no previews are defined<br />
   <sub>[#166869](https://github.com/flutter/flutter/pull/166869) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166869) 189 additions and 45 deletions in 8 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll forward "Content aware hash moved..." with fix<br />
+  <sub>[#166873](https://github.com/flutter/flutter/pull/166873) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166873) 380 additions and 1 deletion in 6 files</sub><br />
 
