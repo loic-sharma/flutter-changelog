@@ -51,7 +51,7 @@
   <sub>[#165289](https://github.com/flutter/flutter/pull/165289) opened on on March 17, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165289) 663 additions and 47 deletions in 40 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; gpu stuff.<br />
-  <sub>[#165337](https://github.com/flutter/flutter/pull/165337) opened on on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165337) 83 additions and 5 deletions in 14 files</sub><br />
+  <sub>[#165337](https://github.com/flutter/flutter/pull/165337) opened on on March 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165337) 82 additions and 5 deletions in 14 files</sub><br />
 
 * **[黑深蓝](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
   <sub>[#165370](https://github.com/flutter/flutter/pull/165370) opened on on March 18, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/165370) 25 additions and 1 deletion in 2 files</sub><br />
@@ -127,4 +127,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Speed up vulkan startup time by re-using existing vulkan context.<br />
   <sub>[#166784](https://github.com/flutter/flutter/pull/166784) opened on on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166784) 125 additions and 128 deletions in 16 files</sub><br />
+
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Remove unnecessary this. qualifiers.<br />
+  <sub>[#166805](https://github.com/flutter/flutter/pull/166805) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166805) 3 additions and 3 deletions in 2 files</sub><br />
 
