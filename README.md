@@ -987,7 +987,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-9 commits.
+10 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; AI Toolkit doc updates for v0.7.0<br />
   <sub>[#11870](https://github.com/flutter/website/pull/11870) merged on April 8, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/11870) over 3 days, 102 additions and 11 deletions in 2 files</sub><br />
@@ -1007,6 +1007,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add alternate redirects for agentic campaign links<br />
   <sub>[#11878](https://github.com/flutter/website/pull/11878) merged on April 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11878) over 9 minutes, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Migration guide for ExpansionTileController deprecation<br />
+  <sub>[#11885](https://github.com/flutter/website/pull/11885) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11885) over 4 hours, 94 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[bfapps_Bennet](https://github.com/ccBennet)** &mdash; Update flavors-ios.md<br />
