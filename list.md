@@ -4,11 +4,15 @@
 
 ### April 5, 2025 to April 11, 2025
 
-25 commits.
+26 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SliverEnsureSemantics
+  <sub>[#165589](https://github.com/flutter/flutter/pull/165589) merged on April 9, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/165589) over 2 weeks, 547 additions and 195 deletions in 10 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [Widget Preview] implemented gridview and listview layouts 
   <sub>[#166150](https://github.com/flutter/flutter/pull/166150) merged on April 7, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166150) over 1 week, 116 additions and 10 deletions in 1 file</sub>
