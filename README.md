@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SliverEnsureSemantics<br />
-  <sub>[#165589](https://github.com/flutter/flutter/pull/165589) merged on April 9, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/165589) over 2 weeks, 547 additions and 195 deletions in 10 files</sub><br />
+  <sub>[#165589](https://github.com/flutter/flutter/pull/165589) merged on April 9, 2025 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/165589) over 2 weeks, 547 additions and 195 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [Widget Preview] implemented gridview and listview layouts <br />
@@ -36,7 +36,7 @@
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD)<br />
-  <sub>[#166698](https://github.com/flutter/flutter/pull/166698) merged on April 8, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/166698) over 1 day, 305 additions and 3 deletions in 14 files</sub><br />
+  <sub>[#166698](https://github.com/flutter/flutter/pull/166698) merged on April 8, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/166698) over 1 day, 305 additions and 3 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add `RoundedSuperellipseBorder` and apply it to `CupertinoActionSheet`<br />
