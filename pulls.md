@@ -117,5 +117,5 @@
   <sub>[#166882](https://github.com/flutter/flutter/pull/166882) opened on on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166882) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use device property uniform aligment instead of conservative value of 256.<br />
-  <sub>[#166884](https://github.com/flutter/flutter/pull/166884) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166884) 246 additions and 178 deletions in 33 files</sub><br />
+  <sub>[#166884](https://github.com/flutter/flutter/pull/166884) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166884) 245 additions and 177 deletions in 33 files</sub><br />
 
