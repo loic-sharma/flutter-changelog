@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-34 commits.
+36 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub><br />
@@ -14,14 +14,14 @@
   <sub>[#165589](https://github.com/flutter/flutter/pull/165589) merged on April 9, 2025 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/165589) over 2 weeks, 547 additions and 195 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[黑深蓝](https://github.com/StanleyCocos)** &mdash; fix(ListTileTheme): isThreeLine is missing.<br />
+  <sub>[#165481](https://github.com/flutter/flutter/pull/165481) merged on April 9, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/165481) over 2 weeks, 377 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [Widget Preview] implemented gridview and listview layouts <br />
   <sub>[#166150](https://github.com/flutter/flutter/pull/166150) merged on April 7, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166150) over 1 week, 116 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
   <sub><details><summary>3 images...</summary>![Screenshot 2025-03-28 at 3 13 32 PM](https://github.com/user-attachments/assets/cbea7a93-d03e-4be4-8ecb-84b70458685e)![Screenshot 2025-03-28 at 3 13 44 PM](https://github.com/user-attachments/assets/e286d6b8-62ac-4a7c-b848-e01cf5fd033e)![Screenshot 2025-03-28 at 3 16 06 PM](https://github.com/user-attachments/assets/0260d3ca-f470-4ae4-8799-76933357d1c3)</details></sub>
-
-* **[黑深蓝](https://github.com/StanleyCocos)** &mdash; fix(ListTileTheme): isThreeLine is missing.<br />
-  <sub>[#165481](https://github.com/flutter/flutter/pull/165481) merged on April 9, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/165481) over 2 weeks, 377 additions and 6 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Fix: DraggableScrollableSheet may not close if snapping is enabled<br />
   <sub>[#165557](https://github.com/flutter/flutter/pull/165557) merged on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/165557) over 2 weeks, 42 additions and 4 deletions in 2 files</sub><br />
@@ -55,9 +55,9 @@
   <sub>[#166512](https://github.com/flutter/flutter/pull/166512) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166512) over 6 days, 9 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked<br />
-  <sub>[#166717](https://github.com/flutter/flutter/pull/166717) merged on April 9, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/166717) over 1 day, 377 additions and 1 deletion in 6 files</sub><br />
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader matrix to 3x3.<br />
+  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166612) over 4 days, 42 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] re-enable skipped impeller goldens.<br />
   <sub>[#166354](https://github.com/flutter/flutter/pull/166354) merged on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166354) over 1 week, 6 additions and 13 deletions in 4 files</sub><br />
@@ -79,9 +79,13 @@
   <sub>[#166771](https://github.com/flutter/flutter/pull/166771) merged on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166771) over 7 hours, 0 additions and 51 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader matrix to 3x3.<br />
-  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166612) over 4 days, 42 additions and 1 deletion in 4 files</sub><br />
-  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll forward "Content aware hash moved..." with fix<br />
+  <sub>[#166873](https://github.com/flutter/flutter/pull/166873) merged on April 9, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166873) over 1 hour, 380 additions and 1 deletion in 6 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked<br />
+  <sub>[#166717](https://github.com/flutter/flutter/pull/166717) merged on April 9, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/166717) over 1 day, 377 additions and 1 deletion in 6 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData<br />
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) merged on April 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/163909) over 1 month, 160 additions and 18 deletions in 4 files</sub><br />
@@ -99,6 +103,10 @@
   <sub>[#166159](https://github.com/flutter/flutter/pull/166159) merged on April 8, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/166159) over 1 week, 85 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update roadmap email<br />
+  <sub>[#166838](https://github.com/flutter/flutter/pull/166838) merged on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166838) over 58 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-disable microbenchmarks iOS.<br />
   <sub>[#166788](https://github.com/flutter/flutter/pull/166788) merged on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166788) over 45 seconds, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -106,18 +114,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable a swath of `bringup: true` builds that were forgotten to the void.<br />
   <sub>[#166757](https://github.com/flutter/flutter/pull/166757) merged on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166757) over 1 hour, 0 additions and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update roadmap email<br />
-  <sub>[#166838](https://github.com/flutter/flutter/pull/166838) merged on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166838) over 58 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Alexander Markov](https://github.com/alexmarkov)** &mdash; Remove package:macros and package:_macros from pubspec.yaml<br />
-  <sub>[#166749](https://github.com/flutter/flutter/pull/166749) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166749) over 11 hours, 0 additions and 8 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; bump warn agp version from 7.3 to 8.3<br />
-  <sub>[#166555](https://github.com/flutter/flutter/pull/166555) merged on April 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166555) over 4 days, 3 additions and 3 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add check for announcement support per platform<br />
   <sub>[#166099](https://github.com/flutter/flutter/pull/166099) merged on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166099) over 1 week, 22 additions and 1 deletion in 2 files</sub><br />
@@ -134,6 +130,18 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove `bringup:true` from Linux tool_tests_widget_preview_scaffold<br />
   <sub>[#166687](https://github.com/flutter/flutter/pull/166687) merged on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166687) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; ImageStreamCompleter no longer checks `_hadAtLeastOneListener` for disposal<br />
+  <sub>[#166797](https://github.com/flutter/flutter/pull/166797) merged on April 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166797) over 21 hours, 26 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Alexander Markov](https://github.com/alexmarkov)** &mdash; Remove package:macros and package:_macros from pubspec.yaml<br />
+  <sub>[#166749](https://github.com/flutter/flutter/pull/166749) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166749) over 11 hours, 0 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; bump warn agp version from 7.3 to 8.3<br />
+  <sub>[#166555](https://github.com/flutter/flutter/pull/166555) merged on April 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166555) over 4 days, 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] reland fix text selection offset in multi-line fields<br />
   <sub>[#166714](https://github.com/flutter/flutter/pull/166714) merged on April 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166714) over 2 hours, 73 additions and 5 deletions in 5 files</sub><br />
