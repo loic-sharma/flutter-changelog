@@ -81,7 +81,7 @@
   <sub>[#166722](https://github.com/flutter/flutter/pull/166722) opened on on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166722) 15 additions and 1 deletion in 2 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Let DrivenScrollActivity subclasses customize handling of overscroll<br />
-  <sub>[#166731](https://github.com/flutter/flutter/pull/166731) opened on on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166731) 97 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#166731](https://github.com/flutter/flutter/pull/166731) opened on on April 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166731) 97 additions and 1 deletion in 2 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver<br />
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166753) 13 additions and 11 deletions in 1 file</sub><br />
@@ -109,4 +109,10 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD) (#166698)"<br />
   <sub>[#166877](https://github.com/flutter/flutter/pull/166877) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166877) 307 additions and 3 deletions in 14 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] correctly invalidate program objects when performing a hotreload on GLES><br />
+  <sub>[#166881](https://github.com/flutter/flutter/pull/166881) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166881) 55 additions and 5 deletions in 3 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] disable Skia resource manager warning when using Impeller.<br />
+  <sub>[#166882](https://github.com/flutter/flutter/pull/166882) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166882) 1 addition and 1 deletion in 1 file</sub><br />
 
