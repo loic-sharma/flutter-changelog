@@ -137,3 +137,6 @@
 * **[owshiiii](https://github.com/ram-skrrrtskrrrt)** &mdash; Update create_flutter_jar.py<br />
   <sub>[#166829](https://github.com/flutter/flutter/pull/166829) opened on on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166829) 1 addition and 64 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for "soft" restart of individual previews<br />
+  <sub>[#166846](https://github.com/flutter/flutter/pull/166846) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166846) 337 additions and 100 deletions in 9 files</sub><br />
+
