@@ -95,17 +95,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for "soft" restart of individual previews<br />
   <sub>[#166846](https://github.com/flutter/flutter/pull/166846) opened on on April 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/166846) 337 additions and 100 deletions in 9 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] prefer 24 bit depth buffer format on vulkan backend.<br />
-  <sub>[#166854](https://github.com/flutter/flutter/pull/166854) opened on on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166854) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] various iOS cleanups.<br />
   <sub>[#166859](https://github.com/flutter/flutter/pull/166859) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166859) 90 additions and 123 deletions in 11 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Link to placeholder documentation when no previews are defined<br />
   <sub>[#166869](https://github.com/flutter/flutter/pull/166869) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166869) 189 additions and 45 deletions in 8 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; bump max tasks to a huge number.<br />
-  <sub>[#166876](https://github.com/flutter/flutter/pull/166876) opened on on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166876) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD) (#166698)"<br />
   <sub>[#166877](https://github.com/flutter/flutter/pull/166877) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166877) 307 additions and 3 deletions in 14 files</sub><br />

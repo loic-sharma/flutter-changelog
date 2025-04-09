@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-37 commits.
+39 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source<br />
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub><br />
@@ -51,17 +51,17 @@
   <sub>[#164680](https://github.com/flutter/flutter/pull/164680) merged on April 7, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164680) over 1 month, 41 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Huy](https://github.com/huycozy)** &mdash; Fix CarouselView demo page is not functional using mouse scroll<br />
-  <sub>[#166512](https://github.com/flutter/flutter/pull/166512) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166512) over 6 days, 9 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Tessellate paths directly using PathReceiver<br />
   <sub>[#166759](https://github.com/flutter/flutter/pull/166759) merged on April 9, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/166759) over 1 day, 1626 additions and 547 deletions in 76 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked<br />
-  <sub>[#166717](https://github.com/flutter/flutter/pull/166717) merged on April 9, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/166717) over 1 day, 377 additions and 1 deletion in 6 files</sub><br />
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+* **[Huy](https://github.com/huycozy)** &mdash; Fix CarouselView demo page is not functional using mouse scroll<br />
+  <sub>[#166512](https://github.com/flutter/flutter/pull/166512) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166512) over 6 days, 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader matrix to 3x3.<br />
+  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166612) over 4 days, 42 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] re-enable skipped impeller goldens.<br />
   <sub>[#166354](https://github.com/flutter/flutter/pull/166354) merged on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166354) over 1 week, 6 additions and 13 deletions in 4 files</sub><br />
@@ -83,13 +83,13 @@
   <sub>[#166771](https://github.com/flutter/flutter/pull/166771) merged on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166771) over 7 hours, 0 additions and 51 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked<br />
+  <sub>[#166717](https://github.com/flutter/flutter/pull/166717) merged on April 9, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/166717) over 1 day, 377 additions and 1 deletion in 6 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll forward "Content aware hash moved..." with fix<br />
   <sub>[#166873](https://github.com/flutter/flutter/pull/166873) merged on April 9, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166873) over 1 hour, 380 additions and 1 deletion in 6 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader matrix to 3x3.<br />
-  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166612) over 4 days, 42 additions and 1 deletion in 4 files</sub><br />
-  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData<br />
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) merged on April 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/163909) over 1 month, 160 additions and 18 deletions in 4 files</sub><br />
@@ -107,17 +107,25 @@
   <sub>[#166159](https://github.com/flutter/flutter/pull/166159) merged on April 8, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/166159) over 1 week, 85 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable a swath of `bringup: true` builds that were forgotten to the void.<br />
+  <sub>[#166757](https://github.com/flutter/flutter/pull/166757) merged on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166757) over 1 hour, 0 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; bump max tasks to a huge number.<br />
+  <sub>[#166876](https://github.com/flutter/flutter/pull/166876) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166876) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update roadmap email<br />
   <sub>[#166838](https://github.com/flutter/flutter/pull/166838) merged on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166838) over 58 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] prefer 24 bit depth buffer format on vulkan backend.<br />
+  <sub>[#166854](https://github.com/flutter/flutter/pull/166854) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166854) over 5 hours, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Re-disable microbenchmarks iOS.<br />
   <sub>[#166788](https://github.com/flutter/flutter/pull/166788) merged on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166788) over 45 seconds, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable a swath of `bringup: true` builds that were forgotten to the void.<br />
-  <sub>[#166757](https://github.com/flutter/flutter/pull/166757) merged on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166757) over 1 hour, 0 additions and 8 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add check for announcement support per platform<br />
   <sub>[#166099](https://github.com/flutter/flutter/pull/166099) merged on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166099) over 1 week, 22 additions and 1 deletion in 2 files</sub><br />
