@@ -975,10 +975,14 @@
 
 ### April 5, 2025 to April 11, 2025
 
-8 commits.
+9 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; AI Toolkit doc updates for v0.7.0<br />
   <sub>[#11870](https://github.com/flutter/website/pull/11870) merged on April 8, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/11870) over 3 days, 102 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove outdated trailing comma mention<br />
+  <sub>[#11886](https://github.com/flutter/website/pull/11886) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11886) over 42 minutes, 6 additions and 21 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove various unused images<br />
