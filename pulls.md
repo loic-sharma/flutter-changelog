@@ -131,9 +131,6 @@
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix outdated reference to material in WidgetStateMapper's error message<br />
   <sub>[#166816](https://github.com/flutter/flutter/pull/166816) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166816) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Huy](https://github.com/huycozy)** &mdash; Fix Carousel crashes when using PageStorageKey<br />
-  <sub>[#166817](https://github.com/flutter/flutter/pull/166817) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166817) 42 additions and 1 deletion in 2 files</sub><br />
-
 * **[owshiiii](https://github.com/ram-skrrrtskrrrt)** &mdash; Update ios-deploy.version<br />
   <sub>[#166825](https://github.com/flutter/flutter/pull/166825) opened on on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166825) 1 addition and 1 deletion in 1 file</sub><br />
 
