@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-24 commits.
+25 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub>
@@ -38,6 +38,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: CupertinoSheetTransition moves SystemUIOverlayStyle to outside of delegatedTransition and only changes top bar
   <sub>[#164680](https://github.com/flutter/flutter/pull/164680) merged on April 7, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164680) over 1 month, 41 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] keep device holder and allocator alive until last vk image is destroyed.
+  <sub>[#166725](https://github.com/flutter/flutter/pull/166725) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166725) over 1 day, 34 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow dart pub deps --json to fail without causing an explicit crash.
   <sub>[#166778](https://github.com/flutter/flutter/pull/166778) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166778) over 7 hours, 55 additions and 21 deletions in 4 files</sub>
