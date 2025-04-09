@@ -375,7 +375,7 @@
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "[skwasm] Dynamic Threading"
-  <sub>[#166454](https://github.com/flutter/flutter/pull/166454) merged on April 2, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/166454) over 4 hours, 204 additions and 309 deletions in 16 files</sub>
+  <sub>[#166454](https://github.com/flutter/flutter/pull/166454) merged on April 2, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/166454) over 4 hours, 204 additions and 309 deletions in 16 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_mokey new_gallery__crane_perf to be flaky
