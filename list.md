@@ -4,7 +4,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-36 commits.
+37 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub>
@@ -55,9 +55,13 @@
   <sub>[#166512](https://github.com/flutter/flutter/pull/166512) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166512) over 6 days, 9 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader matrix to 3x3.
-  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166612) over 4 days, 42 additions and 1 deletion in 4 files</sub>
-  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Tessellate paths directly using PathReceiver
+  <sub>[#166759](https://github.com/flutter/flutter/pull/166759) merged on April 9, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/166759) over 1 day, 1626 additions and 547 deletions in 76 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked
+  <sub>[#166717](https://github.com/flutter/flutter/pull/166717) merged on April 9, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/166717) over 1 day, 377 additions and 1 deletion in 6 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] re-enable skipped impeller goldens.
   <sub>[#166354](https://github.com/flutter/flutter/pull/166354) merged on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166354) over 1 week, 6 additions and 13 deletions in 4 files</sub>
@@ -83,9 +87,9 @@
   <sub>[#166873](https://github.com/flutter/flutter/pull/166873) merged on April 9, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166873) over 1 hour, 380 additions and 1 deletion in 6 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Content aware hash moved to script and tracked
-  <sub>[#166717](https://github.com/flutter/flutter/pull/166717) merged on April 9, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/166717) over 1 day, 377 additions and 1 deletion in 6 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix image shader matrix to 3x3.
+  <sub>[#166612](https://github.com/flutter/flutter/pull/166612) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166612) over 4 days, 42 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) merged on April 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/163909) over 1 month, 160 additions and 18 deletions in 4 files</sub>
