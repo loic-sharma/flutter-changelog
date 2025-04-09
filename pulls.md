@@ -20,9 +20,6 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add flag to disable automatic device reboot for DeviceLab tests<br />
   <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
-* **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add `buildMode`, `icuDataPath` and `engineRevision` interpolations for custom devices<br />
-  <sub>[#164455](https://github.com/flutter/flutter/pull/164455) opened on on March 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164455) 118 additions and 5 deletions in 3 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Call onWindowDestroyed when windows closed.<br />
   <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
 
@@ -73,9 +70,6 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Fix navbar blur clipping outside of Cupertino sheet<br />
   <sub>[#166019](https://github.com/flutter/flutter/pull/166019) opened on on March 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166019) 71 additions and 4 deletions in 2 files</sub><br />
-
-* **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add support for building release/profile mode for custom devices<br />
-  <sub>[#166132](https://github.com/flutter/flutter/pull/166132) opened on on March 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166132) 241 additions and 52 deletions in 11 files</sub><br />
 
 * **[Kalle Johansson](https://github.com/Kal-Elx)** &mdash; Add snapAnimationCurve to DraggableScrollableSheet<br />
   <sub>[#166134](https://github.com/flutter/flutter/pull/166134) opened on on March 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166134) 108 additions and 16 deletions in 2 files</sub><br />
