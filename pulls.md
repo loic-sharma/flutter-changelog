@@ -114,5 +114,5 @@
   <sub>[#166881](https://github.com/flutter/flutter/pull/166881) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166881) 55 additions and 5 deletions in 3 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] disable Skia resource manager warning when using Impeller.<br />
-  <sub>[#166882](https://github.com/flutter/flutter/pull/166882) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166882) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#166882](https://github.com/flutter/flutter/pull/166882) opened on on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166882) 1 addition and 1 deletion in 1 file</sub><br />
 
