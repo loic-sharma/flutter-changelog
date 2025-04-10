@@ -1082,7 +1082,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-17 commits.
+18 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Implement an initial dark mode
   <sub>[#11877](https://github.com/flutter/website/pull/11877) merged on April 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/website/pull/11877) over 3 days, 718 additions and 496 deletions in 40 files</sub>
@@ -1100,6 +1100,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add release notes for DevTools 2.45.0
   <sub>[#11879](https://github.com/flutter/website/pull/11879) merged on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11879) over 20 hours, 71 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Document Impeller is unavailable on < Android API 29
+  <sub>[#11888](https://github.com/flutter/website/pull/11888) merged on April 10, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11888) over 1 day, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update engine repo references in app anatomy svg
   <sub>[#11890](https://github.com/flutter/website/pull/11890) merged on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11890) over 19 hours, 72 additions and 1 deletion in 1 file</sub>

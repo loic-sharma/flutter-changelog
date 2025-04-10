@@ -38,9 +38,6 @@
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#164982](https://github.com/flutter/flutter/pull/164982) opened on on March 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164982) 99 additions and 3 deletions in 2 files</sub><br />
 
-* **[Goddchen](https://github.com/Goddchen)** &mdash; fix(a11y): check for remaining relevant text direction properties<br />
-  <sub>[#165028](https://github.com/flutter/flutter/pull/165028) opened on on March 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165028) 6 additions and 0 deletions in 1 file</sub><br />
-
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
 
