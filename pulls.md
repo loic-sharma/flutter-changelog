@@ -98,9 +98,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD) (#166698)"<br />
   <sub>[#166877](https://github.com/flutter/flutter/pull/166877) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166877) 307 additions and 3 deletions in 14 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] disable Skia resource manager warning when using Impeller.<br />
-  <sub>[#166882](https://github.com/flutter/flutter/pull/166882) opened on on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166882) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use device property uniform aligment instead of conservative value of 256.<br />
   <sub>[#166884](https://github.com/flutter/flutter/pull/166884) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166884) 245 additions and 177 deletions in 33 files</sub><br />
 
