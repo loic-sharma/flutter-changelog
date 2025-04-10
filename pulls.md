@@ -99,7 +99,7 @@
   <sub>[#166869](https://github.com/flutter/flutter/pull/166869) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166869) 206 additions and 55 deletions in 8 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD) (#166698)"<br />
-  <sub>[#166877](https://github.com/flutter/flutter/pull/166877) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166877) 307 additions and 3 deletions in 14 files</sub><br />
+  <sub>[#166877](https://github.com/flutter/flutter/pull/166877) opened on on April 9, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166877) 307 additions and 3 deletions in 14 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use device property uniform aligment instead of conservative value of 256.<br />
   <sub>[#166884](https://github.com/flutter/flutter/pull/166884) opened on on April 9, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166884) 246 additions and 177 deletions in 34 files</sub><br />
