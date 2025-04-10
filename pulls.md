@@ -104,3 +104,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use device property uniform aligment instead of conservative value of 256.<br />
   <sub>[#166884](https://github.com/flutter/flutter/pull/166884) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166884) 245 additions and 177 deletions in 33 files</sub><br />
 
+* **[Pavan Kumar](https://github.com/whopavan)** &mdash; Add barrier dismissible for dropdown button and dropdown button form field<br />
+  <sub>[#166896](https://github.com/flutter/flutter/pull/166896) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166896) 78 additions and 2 deletions in 3 files</sub><br />
+
