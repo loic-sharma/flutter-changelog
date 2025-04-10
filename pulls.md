@@ -86,6 +86,9 @@
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix outdated reference to material in WidgetStateMapper's error message<br />
   <sub>[#166816](https://github.com/flutter/flutter/pull/166816) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166816) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[jiancheng](https://github.com/StanleyCocos)** &mdash; feat(SwitchListTile): ensure that 'isThreeLine' can be configured through the theme.<br />
+  <sub>[#166820](https://github.com/flutter/flutter/pull/166820) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166820) 238 additions and 6 deletions in 3 files</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for "soft" restart of individual previews<br />
   <sub>[#166846](https://github.com/flutter/flutter/pull/166846) opened on on April 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/166846) 337 additions and 100 deletions in 9 files</sub><br />
 
