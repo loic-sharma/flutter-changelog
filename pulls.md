@@ -93,7 +93,7 @@
   <sub>[#166826](https://github.com/flutter/flutter/pull/166826) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166826) 239 additions and 7 deletions in 3 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] various iOS cleanups.<br />
-  <sub>[#166859](https://github.com/flutter/flutter/pull/166859) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166859) 42 additions and 123 deletions in 10 files</sub><br />
+  <sub>[#166859](https://github.com/flutter/flutter/pull/166859) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166859) 41 additions and 123 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD) (#166698)"<br />
   <sub>[#166877](https://github.com/flutter/flutter/pull/166877) opened on on April 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/166877) 306 additions and 3 deletions in 14 files</sub><br />
@@ -110,12 +110,12 @@
 * **[Bogdan Lukin](https://github.com/2ZeroSix)** &mdash; Cleanup links to flutter/engine in ci/builders docs<br />
   <sub>[#166916](https://github.com/flutter/flutter/pull/166916) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166916) 10 additions and 10 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] allow using AHB swapchain on non-HCPP supported devices.<br />
-  <sub>[#166934](https://github.com/flutter/flutter/pull/166934) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166934) 9 additions and 7 deletions in 3 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter stable 3.29.3 Framework Cherrypicks<br />
   <sub>[#166936](https://github.com/flutter/flutter/pull/166936) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166936) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer vulkan context initialization as long as possible.<br />
   <sub>[#166941](https://github.com/flutter/flutter/pull/166941) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166941) 146 additions and 132 deletions in 12 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-make AHB swapchain lazy and allow usage on < 34<br />
+  <sub>[#166943](https://github.com/flutter/flutter/pull/166943) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166943) 32 additions and 91 deletions in 7 files</sub><br />
 
