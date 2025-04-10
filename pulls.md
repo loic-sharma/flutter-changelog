@@ -93,7 +93,7 @@
   <sub>[#166826](https://github.com/flutter/flutter/pull/166826) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166826) 239 additions and 7 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for "soft" restart of individual previews<br />
-  <sub>[#166846](https://github.com/flutter/flutter/pull/166846) opened on on April 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/166846) 337 additions and 100 deletions in 9 files</sub><br />
+  <sub>[#166846](https://github.com/flutter/flutter/pull/166846) opened on on April 9, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/166846) 337 additions and 100 deletions in 9 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] various iOS cleanups.<br />
   <sub>[#166859](https://github.com/flutter/flutter/pull/166859) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166859) 90 additions and 123 deletions in 11 files</sub><br />
