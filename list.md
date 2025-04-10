@@ -151,7 +151,7 @@
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Speed up vulkan startup time by re-using existing vulkan context.
-  <sub>[#166784](https://github.com/flutter/flutter/pull/166784) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166784) over 1 day, 125 additions and 128 deletions in 16 files</sub>
+  <sub>[#166784](https://github.com/flutter/flutter/pull/166784) merged on April 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166784) over 1 day, 125 additions and 128 deletions in 16 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Added Docs For Updating to a New Java Version in CI
