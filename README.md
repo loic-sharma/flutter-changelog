@@ -143,8 +143,8 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use device property uniform aligment instead of conservative value of 256.<br />
-  <sub>[#166884](https://github.com/flutter/flutter/pull/166884) merged on April 10, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166884) over 19 hours, 246 additions and 177 deletions in 34 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+  <sub>[#166884](https://github.com/flutter/flutter/pull/166884) merged on April 10, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/166884) over 19 hours, 246 additions and 177 deletions in 34 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Add runtime flag for enable flutter_gpu, off by default.<br />
   <sub>[#165337](https://github.com/flutter/flutter/pull/165337) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/165337) over 3 weeks, 82 additions and 5 deletions in 14 files</sub><br />
