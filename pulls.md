@@ -62,9 +62,6 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Fix warning when building for macOS desktop<br />
   <sub>[#165996](https://github.com/flutter/flutter/pull/165996) opened on on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165996) 207 additions and 21 deletions in 2 files</sub><br />
 
-* **[Kalle Johansson](https://github.com/Kal-Elx)** &mdash; Add snapAnimationCurve to DraggableScrollableSheet<br />
-  <sub>[#166134](https://github.com/flutter/flutter/pull/166134) opened on on March 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166134) 108 additions and 16 deletions in 2 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
