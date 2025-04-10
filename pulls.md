@@ -105,7 +105,10 @@
   <sub>[#166877](https://github.com/flutter/flutter/pull/166877) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166877) 307 additions and 3 deletions in 14 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use device property uniform aligment instead of conservative value of 256.<br />
-  <sub>[#166884](https://github.com/flutter/flutter/pull/166884) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166884) 245 additions and 177 deletions in 33 files</sub><br />
+  <sub>[#166884](https://github.com/flutter/flutter/pull/166884) opened on on April 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166884) 246 additions and 177 deletions in 34 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] use surface control/hcpp in lazy startup benchmark.<br />
+  <sub>[#166893](https://github.com/flutter/flutter/pull/166893) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166893) 8 additions and 1 deletion in 2 files</sub><br />
 
 * **[Pavan Kumar](https://github.com/whopavan)** &mdash; Add barrier dismissible for dropdown button and dropdown button form field<br />
   <sub>[#166896](https://github.com/flutter/flutter/pull/166896) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166896) 78 additions and 2 deletions in 3 files</sub><br />
