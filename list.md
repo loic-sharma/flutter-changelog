@@ -1033,16 +1033,16 @@
   <sub>[#11870](https://github.com/flutter/website/pull/11870) merged on April 8, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/11870) over 3 days, 102 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add release notes for DevTools 2.45.0
+  <sub>[#11879](https://github.com/flutter/website/pull/11879) merged on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11879) over 20 hours, 71 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove outdated trailing comma mention
   <sub>[#11886](https://github.com/flutter/website/pull/11886) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11886) over 42 minutes, 6 additions and 21 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove various unused images
   <sub>[#11884](https://github.com/flutter/website/pull/11884) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11884) over 16 hours, 9 additions and 16 deletions in 31 files</sub>
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
-
-* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add release notes for DevTools 2.45.0
-  <sub>[#11879](https://github.com/flutter/website/pull/11879) merged on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11879) over 20 hours, 71 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add alternate redirects for agentic campaign links
