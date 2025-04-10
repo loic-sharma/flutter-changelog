@@ -11,7 +11,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for "soft" restart of individual previews<br />
-  <sub>[#166846](https://github.com/flutter/flutter/pull/166846) merged on April 10, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/166846) over 1 day, 337 additions and 100 deletions in 9 files</sub><br />
+  <sub>[#166846](https://github.com/flutter/flutter/pull/166846) merged on April 10, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/166846) over 1 day, 337 additions and 100 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/616f8fc4-0b57-4a1c-85e7-ef36126cdffe)</details></sub>
 
