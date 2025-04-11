@@ -104,12 +104,18 @@
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [engine] add upload by bytes<br />
   <sub>[#166946](https://github.com/flutter/flutter/pull/166946) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166946) 45 additions and 1 deletion in 3 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix vulkan/gl color space decode.<br />
+  <sub>[#166957](https://github.com/flutter/flutter/pull/166957) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166957) 11 additions and 9 deletions in 2 files</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts<br />
-  <sub>[#166960](https://github.com/flutter/flutter/pull/166960) opened on on April 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/166960) 0 additions and 1573 deletions in 4 files</sub><br />
+  <sub>[#166960](https://github.com/flutter/flutter/pull/166960) opened on on April 11, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166960) 0 additions and 1573 deletions in 4 files</sub><br />
 
 * **[jiancheng](https://github.com/StanleyCocos)** &mdash; feat(RadioListTile):ensure that 'isThreeLine' can be configured through the<br />
   <sub>[#166964](https://github.com/flutter/flutter/pull/166964) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166964) 244 additions and 8 deletions in 3 files</sub><br />
 
 * **[Tosemite](https://github.com/Tosemite)** &mdash; fixed clipping of snack bar when swipe direction is horizontal<br />
   <sub>[#166974](https://github.com/flutter/flutter/pull/166974) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166974) 23 additions and 1 deletion in 2 files</sub><br />
+
+* **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
+  <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
 
