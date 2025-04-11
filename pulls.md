@@ -123,5 +123,5 @@
   <sub>[#166997](https://github.com/flutter/flutter/pull/166997) opened on on April 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166997) 60 additions and 39 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix regression in NDK version checking<br />
-  <sub>[#166998](https://github.com/flutter/flutter/pull/166998) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166998) 16 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#166998](https://github.com/flutter/flutter/pull/166998) opened on on April 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166998) 23 additions and 3 deletions in 2 files</sub><br />
 
