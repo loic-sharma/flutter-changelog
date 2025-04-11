@@ -38,9 +38,6 @@
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Migrate Theme to InheritedModel<br />
-  <sub>[#165289](https://github.com/flutter/flutter/pull/165289) opened on on March 17, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/165289) 663 additions and 47 deletions in 40 files</sub><br />
-
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
   <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
 
@@ -109,7 +106,4 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Include 3.29.3 and 3.29.2 changelog entries to master<br />
   <sub>[#166994](https://github.com/flutter/flutter/pull/166994) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166994) 15 additions and 0 deletions in 1 file</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: defer vulkan context initialization as long as possible.<br />
-  <sub>[#167000](https://github.com/flutter/flutter/pull/167000) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167000) 144 additions and 134 deletions in 12 files</sub><br />
 
