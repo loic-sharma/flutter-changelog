@@ -72,7 +72,7 @@
   <sub>[#166731](https://github.com/flutter/flutter/pull/166731) opened on on April 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166731) 97 additions and 1 deletion in 2 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver<br />
-  <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166753) 13 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166753) 13 additions and 11 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine to Android 16 (API 36)<br />
   <sub>[#166796](https://github.com/flutter/flutter/pull/166796) opened on on April 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166796) 14 additions and 14 deletions in 10 files</sub><br />
