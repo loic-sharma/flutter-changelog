@@ -113,3 +113,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts<br />
   <sub>[#166960](https://github.com/flutter/flutter/pull/166960) opened on on April 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/166960) 0 additions and 1573 deletions in 4 files</sub><br />
 
+* **[jiancheng](https://github.com/StanleyCocos)** &mdash; feat(RadioListTile):ensure that 'isThreeLine' can be configured through the<br />
+  <sub>[#166964](https://github.com/flutter/flutter/pull/166964) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166964) 244 additions and 8 deletions in 3 files</sub><br />
+
