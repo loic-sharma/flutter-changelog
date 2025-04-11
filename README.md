@@ -184,7 +184,7 @@
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix regression in NDK version checking<br />
-  <sub>[#166998](https://github.com/flutter/flutter/pull/166998) merged on April 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166998) over 1 hour, 23 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#166998](https://github.com/flutter/flutter/pull/166998) merged on April 11, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/166998) over 1 hour, 23 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:skwasm] be consistent about handling imbalanced layer push/pop sequence<br />
