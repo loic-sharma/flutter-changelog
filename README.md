@@ -167,7 +167,7 @@
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer vulkan context initialization as long as possible.<br />
-  <sub>[#166941](https://github.com/flutter/flutter/pull/166941) merged on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166941) over 19 hours, 145 additions and 134 deletions in 12 files</sub><br />
+  <sub>[#166941](https://github.com/flutter/flutter/pull/166941) merged on April 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166941) over 19 hours, 145 additions and 134 deletions in 12 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Use workspace pubspec for user-defines<br />
