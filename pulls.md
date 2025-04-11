@@ -116,3 +116,6 @@
 * **[jiancheng](https://github.com/StanleyCocos)** &mdash; feat(RadioListTile):ensure that 'isThreeLine' can be configured through the<br />
   <sub>[#166964](https://github.com/flutter/flutter/pull/166964) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166964) 244 additions and 8 deletions in 3 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
+  <sub>[#166969](https://github.com/flutter/flutter/pull/166969) opened on on April 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166969) 13 additions and 13 deletions in 5 files</sub><br />
+
