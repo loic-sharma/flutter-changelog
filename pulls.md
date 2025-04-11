@@ -51,7 +51,7 @@
   <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS/macOS] Add Xcode error if dev dependencies are incorrect<br />
-  <sub>[#165916](https://github.com/flutter/flutter/pull/165916) opened on on March 25, 2025 &mdash; **Extra large:** [35 comments](https://github.com/flutter/flutter/pull/165916) 1565 additions and 42 deletions in 30 files</sub><br />
+  <sub>[#165916](https://github.com/flutter/flutter/pull/165916) opened on on March 25, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/flutter/pull/165916) 1565 additions and 42 deletions in 30 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Fix warning when building for macOS desktop<br />
   <sub>[#165996](https://github.com/flutter/flutter/pull/165996) opened on on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165996) 207 additions and 21 deletions in 2 files</sub><br />
@@ -94,9 +94,6 @@
 
 * **[Bogdan Lukin](https://github.com/2ZeroSix)** &mdash; Cleanup links to flutter/engine in ci/builders docs<br />
   <sub>[#166916](https://github.com/flutter/flutter/pull/166916) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166916) 10 additions and 10 deletions in 1 file</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Pin engine version for 3.29.3 stable <br />
-  <sub>[#166936](https://github.com/flutter/flutter/pull/166936) opened on on April 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166936) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [engine] add upload by bytes<br />
   <sub>[#166946](https://github.com/flutter/flutter/pull/166946) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166946) 45 additions and 1 deletion in 3 files</sub><br />
