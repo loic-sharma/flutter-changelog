@@ -92,9 +92,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Preview ] Add initial support for communications over the Dart Tooling Daemon (DTD) (#166698)"<br />
   <sub>[#166877](https://github.com/flutter/flutter/pull/166877) opened on on April 9, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/166877) 306 additions and 3 deletions in 14 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] correct render pass bariers when resolve has mips.<br />
-  <sub>[#166892](https://github.com/flutter/flutter/pull/166892) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166892) 28 additions and 7 deletions in 4 files</sub><br />
-
 * **[Pavan Kumar](https://github.com/whopavan)** &mdash; Add barrier dismissible for dropdown button and dropdown button form field<br />
   <sub>[#166896](https://github.com/flutter/flutter/pull/166896) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166896) 78 additions and 2 deletions in 3 files</sub><br />
 
@@ -109,9 +106,6 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer vulkan context initialization as long as possible.<br />
   <sub>[#166941](https://github.com/flutter/flutter/pull/166941) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166941) 145 additions and 134 deletions in 12 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-make AHB swapchain lazy and allow usage on < 34<br />
-  <sub>[#166943](https://github.com/flutter/flutter/pull/166943) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166943) 32 additions and 91 deletions in 7 files</sub><br />
 
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [engine] add upload by bytes<br />
   <sub>[#166946](https://github.com/flutter/flutter/pull/166946) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166946) 45 additions and 1 deletion in 3 files</sub><br />
