@@ -95,9 +95,6 @@
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [engine] add upload by bytes<br />
   <sub>[#166946](https://github.com/flutter/flutter/pull/166946) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166946) 45 additions and 1 deletion in 3 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix vulkan/gl color space decode.<br />
-  <sub>[#166957](https://github.com/flutter/flutter/pull/166957) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166957) 13 additions and 9 deletions in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts<br />
   <sub>[#166960](https://github.com/flutter/flutter/pull/166960) opened on on April 11, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166960) 0 additions and 1573 deletions in 4 files</sub><br />
 
