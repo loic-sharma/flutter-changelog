@@ -1114,11 +1114,16 @@
 
 ### April 5, 2025 to April 11, 2025
 
-19 commits.
+20 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Implement an initial dark mode<br />
   <sub>[#11877](https://github.com/flutter/website/pull/11877) merged on April 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/website/pull/11877) over 3 days, 718 additions and 496 deletions in 40 files</sub><br />
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add an optional wrapper to tabs<br />
+  <sub>[#11897](https://github.com/flutter/website/pull/11897) merged on April 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11897) over 24 minutes, 76 additions and 25 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="420" alt="Light mode version of a wrapped tab" src="https://github.com/user-attachments/assets/b5e8eedd-fd00-4ec3-8369-1992d97e3141" /></details></sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix markdown usage in aside titles<br />
   <sub>[#11894](https://github.com/flutter/website/pull/11894) merged on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11894) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />

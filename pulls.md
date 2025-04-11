@@ -123,7 +123,7 @@
   <sub>[#166997](https://github.com/flutter/flutter/pull/166997) opened on on April 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166997) 60 additions and 39 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix regression in NDK version checking<br />
-  <sub>[#166998](https://github.com/flutter/flutter/pull/166998) opened on on April 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166998) 23 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#166998](https://github.com/flutter/flutter/pull/166998) opened on on April 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166998) 23 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: defer vulkan context initialization as long as possible.<br />
   <sub>[#167000](https://github.com/flutter/flutter/pull/167000) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167000) 144 additions and 134 deletions in 12 files</sub><br />
