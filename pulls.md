@@ -108,7 +108,7 @@
   <sub>[#166936](https://github.com/flutter/flutter/pull/166936) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166936) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer vulkan context initialization as long as possible.<br />
-  <sub>[#166941](https://github.com/flutter/flutter/pull/166941) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166941) 147 additions and 132 deletions in 12 files</sub><br />
+  <sub>[#166941](https://github.com/flutter/flutter/pull/166941) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166941) 145 additions and 134 deletions in 12 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-make AHB swapchain lazy and allow usage on < 34<br />
   <sub>[#166943](https://github.com/flutter/flutter/pull/166943) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166943) 32 additions and 91 deletions in 7 files</sub><br />
