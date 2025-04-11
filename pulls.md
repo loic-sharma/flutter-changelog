@@ -101,7 +101,7 @@
 * **[Bogdan Lukin](https://github.com/2ZeroSix)** &mdash; Cleanup links to flutter/engine in ci/builders docs<br />
   <sub>[#166916](https://github.com/flutter/flutter/pull/166916) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166916) 10 additions and 10 deletions in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter stable 3.29.3 Framework Cherrypicks<br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Pin engine version for 3.29.3 stable <br />
   <sub>[#166936](https://github.com/flutter/flutter/pull/166936) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166936) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer vulkan context initialization as long as possible.<br />
