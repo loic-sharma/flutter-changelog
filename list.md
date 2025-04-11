@@ -1082,7 +1082,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-18 commits.
+19 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Implement an initial dark mode
   <sub>[#11877](https://github.com/flutter/website/pull/11877) merged on April 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/website/pull/11877) over 3 days, 718 additions and 496 deletions in 40 files</sub>
@@ -1136,6 +1136,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add alternate redirects for agentic campaign links
   <sub>[#11878](https://github.com/flutter/website/pull/11878) merged on April 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11878) over 9 minutes, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add bundle ID steps in iOS flavors guide.
+  <sub>[#11892](https://github.com/flutter/website/pull/11892) merged on April 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11892) over 23 hours, 77 additions and 32 deletions in 2 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Migration guide for ExpansionTileController deprecation
   <sub>[#11885](https://github.com/flutter/website/pull/11885) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11885) over 4 hours, 94 additions and 0 deletions in 2 files</sub>
