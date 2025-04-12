@@ -77,9 +77,6 @@
 * **[jiancheng](https://github.com/StanleyCocos)** &mdash; feat(CheckboxListTile): ensure that 'isThreeLine' can be configured through the theme.<br />
   <sub>[#166826](https://github.com/flutter/flutter/pull/166826) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166826) 240 additions and 8 deletions in 3 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] various iOS cleanups.<br />
-  <sub>[#166859](https://github.com/flutter/flutter/pull/166859) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166859) 41 additions and 123 deletions in 9 files</sub><br />
-
 * **[Pavan Kumar](https://github.com/whopavan)** &mdash; Add barrier dismissible for dropdown button and dropdown button form field<br />
   <sub>[#166896](https://github.com/flutter/flutter/pull/166896) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166896) 78 additions and 2 deletions in 3 files</sub><br />
 
