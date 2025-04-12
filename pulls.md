@@ -59,9 +59,6 @@
 * **[Siva Utukuri](https://github.com/UtukuriSiva)** &mdash; new Widget called hover builder as been created<br />
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
 
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Test PR, do not review<br />
-  <sub>[#166722](https://github.com/flutter/flutter/pull/166722) opened on on April 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166722) 5 additions and 1 deletion in 1 file</sub><br />
-
 * **[Greg Price](https://github.com/gnprice)** &mdash; Let DrivenScrollActivity subclasses customize handling of overscroll<br />
   <sub>[#166731](https://github.com/flutter/flutter/pull/166731) opened on on April 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166731) 97 additions and 1 deletion in 2 files</sub><br />
 
@@ -112,4 +109,7 @@
 
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix visual overlap of transparent routes barrier when using FadeForwardsPageTransitionsBuilder<br />
   <sub>[#167032](https://github.com/flutter/flutter/pull/167032) opened on on April 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167032) 36 additions and 22 deletions in 1 file</sub><br />
+
+* **[Hamed Essam](https://github.com/Hamed233)** &mdash; fix: Allow scroll events to pass through tooltips on web<br />
+  <sub>[#167045](https://github.com/flutter/flutter/pull/167045) opened on on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167045) 200 additions and 1 deletion in 13 files</sub><br />
 
