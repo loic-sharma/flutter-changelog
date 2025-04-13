@@ -93,7 +93,7 @@
   <sub>[#166964](https://github.com/flutter/flutter/pull/166964) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166964) 244 additions and 8 deletions in 3 files</sub><br />
 
 * **[Tosemite](https://github.com/Tosemite)** &mdash; fixed clipping of snack bar when swipe direction is horizontal<br />
-  <sub>[#166974](https://github.com/flutter/flutter/pull/166974) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166974) 23 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#166974](https://github.com/flutter/flutter/pull/166974) opened on on April 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166974) 23 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
