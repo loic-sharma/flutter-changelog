@@ -224,7 +224,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] various iOS cleanups.<br />
-  <sub>[#166859](https://github.com/flutter/flutter/pull/166859) merged on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166859) over 2 days, 41 additions and 123 deletions in 9 files</sub><br />
+  <sub>[#166859](https://github.com/flutter/flutter/pull/166859) merged on April 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166859) over 2 days, 41 additions and 123 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update roadmap email<br />
