@@ -77,7 +77,7 @@
 * **[Pavan Kumar](https://github.com/whopavan)** &mdash; Add barrier dismissible for dropdown button and dropdown button form field<br />
   <sub>[#166896](https://github.com/flutter/flutter/pull/166896) opened on on April 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166896) 78 additions and 2 deletions in 3 files</sub><br />
 
-* **[masato](https://github.com/masal9pse)** &mdash; Add barrierColor property to showCupertinoDialog(#166910)<br />
+* **[masato](https://github.com/masal9pse)** &mdash; Add barrierColor property to showCupertinoDialog<br />
   <sub>[#166911](https://github.com/flutter/flutter/pull/166911) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166911) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Bogdan Lukin](https://github.com/2ZeroSix)** &mdash; Cleanup links to flutter/engine in ci/builders docs<br />
@@ -112,4 +112,7 @@
 
 * **[Hamed Essam](https://github.com/Hamed233)** &mdash; fix: Allow scroll events to pass through tooltips on web<br />
   <sub>[#167045](https://github.com/flutter/flutter/pull/167045) opened on on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167045) 252 additions and 1 deletion in 14 files</sub><br />
+
+* **[.](https://github.com/foxmind1)** &mdash; add onReset callback to FormField<br />
+  <sub>[#167060](https://github.com/flutter/flutter/pull/167060) opened on on April 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167060) 11 additions and 0 deletions in 1 file</sub><br />
 
