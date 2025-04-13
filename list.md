@@ -1143,7 +1143,7 @@
 
 ### April 5, 2025 to April 11, 2025
 
-20 commits.
+22 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Implement an initial dark mode
   <sub>[#11877](https://github.com/flutter/website/pull/11877) merged on April 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/website/pull/11877) over 3 days, 718 additions and 496 deletions in 40 files</sub>
@@ -1165,6 +1165,10 @@
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add release notes for DevTools 2.45.0
   <sub>[#11879](https://github.com/flutter/website/pull/11879) merged on April 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11879) over 20 hours, 71 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for semantics menu roles
+  <sub>[#11881](https://github.com/flutter/website/pull/11881) merged on April 13, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/11881) over 4 days, 173 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Document Impeller is unavailable on < Android API 29
@@ -1206,6 +1210,10 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add bundle ID steps in iOS flavors guide.
   <sub>[#11892](https://github.com/flutter/website/pull/11892) merged on April 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11892) over 23 hours, 77 additions and 32 deletions in 2 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Update to correct download link
+  <sub>[#11899](https://github.com/flutter/website/pull/11899) merged on April 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11899) over 12 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Migration guide for ExpansionTileController deprecation
   <sub>[#11885](https://github.com/flutter/website/pull/11885) merged on April 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11885) over 4 hours, 94 additions and 0 deletions in 2 files</sub>
