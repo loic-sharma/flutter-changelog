@@ -4,7 +4,11 @@
 
 ### April 12, 2025 to April 18, 2025
 
-3 commits.
+4 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts
+  <sub>[#166960](https://github.com/flutter/flutter/pull/166960) merged on April 14, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166960) over 3 days, 0 additions and 1573 deletions in 4 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add network permissions information to the dart doc of network image. 
   <sub>[#167110](https://github.com/flutter/flutter/pull/167110) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167110) over 56 minutes, 6 additions and 0 deletions in 1 file</sub>
