@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 12, 2025 to April 18, 2025
+
+1 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Include 3.29.3 and 3.29.2 changelog entries to master
+  <sub>[#166994](https://github.com/flutter/flutter/pull/166994) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166994) over 2 days, 15 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 ### April 5, 2025 to April 11, 2025
 
-74 commits.
+<details>
+<summary>74 commits...</summary>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert the Flutter Gradle Plugin entirely to Kotlin source
   <sub>[#166114](https://github.com/flutter/flutter/pull/166114) merged on April 7, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/166114) over 1 week, 1745 additions and 1121 deletions in 26 files</sub>
@@ -306,6 +315,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: defer vulkan context initialization as long as possible.
   <sub>[#167000](https://github.com/flutter/flutter/pull/167000) merged on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167000) over 4 hours, 144 additions and 134 deletions in 12 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+</details>
 
 ### March 29, 2025 to April 4, 2025
 

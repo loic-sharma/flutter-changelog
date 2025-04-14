@@ -98,9 +98,6 @@
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Include 3.29.3 and 3.29.2 changelog entries to master<br />
-  <sub>[#166994](https://github.com/flutter/flutter/pull/166994) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166994) 15 additions and 0 deletions in 1 file</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Fix regression in NDK version checking<br />
   <sub>[#167011](https://github.com/flutter/flutter/pull/167011) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167011) 44 additions and 6 deletions in 4 files</sub><br />
 
