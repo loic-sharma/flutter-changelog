@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-6 commits.
+7 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts<br />
   <sub>[#166960](https://github.com/flutter/flutter/pull/166960) merged on April 14, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166960) over 3 days, 0 additions and 1573 deletions in 4 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add network permissions information to the dart doc of network image. <br />
   <sub>[#167110](https://github.com/flutter/flutter/pull/167110) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167110) over 56 minutes, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Uprev test-scripts with FUCHSIA_READELF env<br />
+  <sub>[#166929](https://github.com/flutter/flutter/pull/166929) merged on April 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166929) over 4 days, 5 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Bogdan Lukin](https://github.com/2ZeroSix)** &mdash; Cleanup links to flutter/engine in ci/builders docs<br />
   <sub>[#166916](https://github.com/flutter/flutter/pull/166916) merged on April 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166916) over 4 days, 10 additions and 10 deletions in 1 file</sub><br />
