@@ -113,6 +113,3 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Irish(ga) to Flutter<br />
   <sub>[#167129](https://github.com/flutter/flutter/pull/167129) opened on on April 14, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167129) 884 additions and 2 deletions in 5 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] removes edge insets from a11y bound calculation<br />
-  <sub>[#167136](https://github.com/flutter/flutter/pull/167136) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167136) 0 additions and 237 deletions in 2 files</sub><br />
-
