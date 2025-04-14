@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-2 commits.
+3 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add network permissions information to the dart doc of network image. 
   <sub>[#167110](https://github.com/flutter/flutter/pull/167110) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167110) over 56 minutes, 6 additions and 0 deletions in 1 file</sub>
@@ -12,6 +12,10 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Include 3.29.3 and 3.29.2 changelog entries to master
   <sub>[#166994](https://github.com/flutter/flutter/pull/166994) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166994) over 2 days, 15 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Fix regression in NDK version checking
+  <sub>[#167011](https://github.com/flutter/flutter/pull/167011) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167011) over 2 days, 44 additions and 6 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 ### April 5, 2025 to April 11, 2025

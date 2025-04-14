@@ -95,9 +95,6 @@
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Fix regression in NDK version checking<br />
-  <sub>[#167011](https://github.com/flutter/flutter/pull/167011) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167011) 44 additions and 6 deletions in 4 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; feat: Arbitrary format options for localizations generation (#102983)<br />
   <sub>[#167029](https://github.com/flutter/flutter/pull/167029) opened on on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167029) 219 additions and 14 deletions in 6 files</sub><br />
 
