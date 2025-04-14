@@ -48,7 +48,7 @@
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS/macOS] Add Xcode error if dev dependencies are incorrect<br />
-  <sub>[#165916](https://github.com/flutter/flutter/pull/165916) merged on April 11, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/flutter/pull/165916) over 2 weeks, 1565 additions and 42 deletions in 30 files</sub><br />
+  <sub>[#165916](https://github.com/flutter/flutter/pull/165916) merged on April 11, 2025 &mdash; **Extra large:** [37 comments](https://github.com/flutter/flutter/pull/165916) over 2 weeks, 1565 additions and 42 deletions in 30 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/621c4a8f-1c19-44b9-8866-93bef6b4a384)</details></sub>
 
