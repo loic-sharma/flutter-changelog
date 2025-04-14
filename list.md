@@ -591,9 +591,18 @@
 
 ## flutter/packages
 
+### April 12, 2025 to April 18, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update Android example toolchains
+  <sub>[#9062](https://github.com/flutter/packages/pull/9062) merged on April 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9062) over 2 days, 7 additions and 7 deletions in 6 files</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
 ### April 5, 2025 to April 11, 2025
 
-2 commits.
+<details>
+<summary>2 commits...</summary>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] swift equality methods
   <sub>[#8971](https://github.com/flutter/packages/pull/8971) merged on April 8, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/8971) over 1 week, 997 additions and 453 deletions in 29 files</sub>
@@ -602,6 +611,8 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; [shared_preferences] Allow reading int as long in SharedPreferences #165781
   <sub>[#9032](https://github.com/flutter/packages/pull/9032) merged on April 9, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/9032) over 19 hours, 26 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+</details>
 
 ### March 29, 2025 to April 4, 2025
 
