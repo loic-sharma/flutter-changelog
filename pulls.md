@@ -104,3 +104,6 @@
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Add focus support for CupertinoActionSheetAction #166398<br />
   <sub>[#167119](https://github.com/flutter/flutter/pull/167119) opened on on April 14, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167119) 1108 additions and 50 deletions in 4 files</sub><br />
 
+* **[ash2moon](https://github.com/ash2moon)** &mdash; Refine developer message for announcement use<br />
+  <sub>[#167127](https://github.com/flutter/flutter/pull/167127) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167127) 22 additions and 1 deletion in 2 files</sub><br />
+

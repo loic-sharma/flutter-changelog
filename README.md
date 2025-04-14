@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-4 commits.
+5 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts<br />
   <sub>[#166960](https://github.com/flutter/flutter/pull/166960) merged on April 14, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166960) over 3 days, 0 additions and 1573 deletions in 4 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add network permissions information to the dart doc of network image. <br />
   <sub>[#167110](https://github.com/flutter/flutter/pull/167110) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167110) over 56 minutes, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Use `queueMicrotask` instead of `postMessage` when single-threaded<br />
+  <sub>[#166997](https://github.com/flutter/flutter/pull/166997) merged on April 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166997) over 2 days, 60 additions and 39 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Include 3.29.3 and 3.29.2 changelog entries to master<br />
   <sub>[#166994](https://github.com/flutter/flutter/pull/166994) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166994) over 2 days, 15 additions and 0 deletions in 1 file</sub><br />
