@@ -60,7 +60,7 @@
   <sub>[#166731](https://github.com/flutter/flutter/pull/166731) opened on on April 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166731) 97 additions and 1 deletion in 2 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver<br />
-  <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166753) 13 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/166753) 13 additions and 11 deletions in 1 file</sub><br />
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix outdated reference to material in WidgetStateMapper's error message<br />
   <sub>[#166816](https://github.com/flutter/flutter/pull/166816) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166816) 2 additions and 2 deletions in 1 file</sub><br />
@@ -112,7 +112,4 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Irish(ga) to Flutter<br />
   <sub>[#167129](https://github.com/flutter/flutter/pull/167129) opened on on April 14, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167129) 884 additions and 2 deletions in 5 files</sub><br />
-
-* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Add buildroot compatibility for HWASAN.<br />
-  <sub>[#167133](https://github.com/flutter/flutter/pull/167133) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167133) 14 additions and 3 deletions in 3 files</sub><br />
 
