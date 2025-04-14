@@ -53,9 +53,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
-* **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
-  <sub>[#166291](https://github.com/flutter/flutter/pull/166291) opened on on March 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166291) 62 additions and 0 deletions in 2 files</sub><br />
-
 * **[Siva Utukuri](https://github.com/UtukuriSiva)** &mdash; new Widget called hover builder as been created<br />
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
 
@@ -118,4 +115,7 @@
 
 * **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: Add FilledButton to list of recommended material buttons<br />
   <sub>[#167096](https://github.com/flutter/flutter/pull/167096) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167096) 2 additions and 1 deletion in 1 file</sub><br />
+
+* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Add focus support for CupertinoActionSheetAction #166398<br />
+  <sub>[#167119](https://github.com/flutter/flutter/pull/167119) opened on on April 14, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167119) 1108 additions and 50 deletions in 4 files</sub><br />
 
