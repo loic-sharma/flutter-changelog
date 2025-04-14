@@ -77,12 +77,6 @@
 * **[masato](https://github.com/masal9pse)** &mdash; Add barrierColor property to showCupertinoDialog<br />
   <sub>[#166911](https://github.com/flutter/flutter/pull/166911) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166911) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Bogdan Lukin](https://github.com/2ZeroSix)** &mdash; Cleanup links to flutter/engine in ci/builders docs<br />
-  <sub>[#166916](https://github.com/flutter/flutter/pull/166916) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166916) 10 additions and 10 deletions in 1 file</sub><br />
-
-* **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [engine] add upload by bytes<br />
-  <sub>[#166946](https://github.com/flutter/flutter/pull/166946) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166946) 45 additions and 1 deletion in 3 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts<br />
   <sub>[#166960](https://github.com/flutter/flutter/pull/166960) opened on on April 11, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166960) 0 additions and 1573 deletions in 4 files</sub><br />
 
