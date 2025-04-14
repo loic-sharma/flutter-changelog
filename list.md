@@ -617,7 +617,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-3 commits.
+4 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes `loadFlutterAsset` exception and updates native wrapper for `SecTrust` and `SecCertificate`
   <sub>[#9016](https://github.com/flutter/packages/pull/9016) merged on April 14, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9016) over 1 week, 1698 additions and 74 deletions in 26 files</sub>
@@ -626,6 +626,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds internal wrapper methods for native `WebViewClient`.
   <sub>[#8964](https://github.com/flutter/packages/pull/8964) merged on April 14, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/8964) over 2 weeks, 6253 additions and 3013 deletions in 34 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Run a config-only build before Xcode analyze
+  <sub>[#9075](https://github.com/flutter/packages/pull/9075) merged on April 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9075) over 4 hours, 200 additions and 84 deletions in 8 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update Android example toolchains
   <sub>[#9062](https://github.com/flutter/packages/pull/9062) merged on April 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9062) over 2 days, 7 additions and 7 deletions in 6 files</sub>
