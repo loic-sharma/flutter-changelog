@@ -110,7 +110,7 @@
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix visual overlap of transparent routes barrier when using FadeForwardsPageTransitionsBuilder<br />
   <sub>[#167032](https://github.com/flutter/flutter/pull/167032) opened on on April 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/167032) 36 additions and 22 deletions in 1 file</sub><br />
 
-* **[Hamed Essam](https://github.com/Hamed233)** &mdash; fix: Allow scroll events to pass through tooltips on web<br />
+* **[Hamed Esam](https://github.com/Hamed233)** &mdash; fix: Allow scroll events to pass through tooltips on web<br />
   <sub>[#167045](https://github.com/flutter/flutter/pull/167045) opened on on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167045) 252 additions and 1 deletion in 14 files</sub><br />
 
 * **[.](https://github.com/foxmind1)** &mdash; add onReset callback to FormField<br />
@@ -118,4 +118,7 @@
 
 * **[Juan Esteban Berrío](https://github.com/estebanberrio)** &mdash; [flutter_releases] Flutter beta 3.28.0-0.1.pre Framework Cherrypicks …<br />
   <sub>[#167080](https://github.com/flutter/flutter/pull/167080) opened on on April 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167080) 2 additions and 1 deletion in 2 files</sub><br />
+
+* **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: Add FilledButton to list of recommended material buttons<br />
+  <sub>[#167096](https://github.com/flutter/flutter/pull/167096) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167096) 2 additions and 1 deletion in 1 file</sub><br />
 
