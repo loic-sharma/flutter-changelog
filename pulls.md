@@ -119,3 +119,6 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update CupertinoSliverNavigationBar<br />
   <sub>[#167148](https://github.com/flutter/flutter/pull/167148) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167148) 200 additions and 0 deletions in 3 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; license checker: ignore git sha in dart license<br />
+  <sub>[#167153](https://github.com/flutter/flutter/pull/167153) opened on on April 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167153) 20 additions and 2 deletions in 2 files</sub><br />
+
