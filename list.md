@@ -739,9 +739,18 @@
 
 ## flutter/website
 
+### April 12, 2025 to April 18, 2025
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce node dependencies for quicker site setup
+  <sub>[#11898](https://github.com/flutter/website/pull/11898) merged on April 14, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/website/pull/11898) over 3 days, 431 additions and 4751 deletions in 6 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### April 5, 2025 to April 11, 2025
 
-22 commits.
+<details>
+<summary>22 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Implement an initial dark mode
   <sub>[#11877](https://github.com/flutter/website/pull/11877) merged on April 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/website/pull/11877) over 3 days, 718 additions and 496 deletions in 40 files</sub>
@@ -832,6 +841,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add the go router v15 migration guide
   <sub>[#11867](https://github.com/flutter/website/pull/11867) merged on April 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11867) over 3 days, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### March 29, 2025 to April 4, 2025
 
