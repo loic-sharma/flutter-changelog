@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-20 commits.
+21 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Irish(ga) to Flutter
   <sub>[#167129](https://github.com/flutter/flutter/pull/167129) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167129) over 1 day, 884 additions and 2 deletions in 5 files</sub>
@@ -53,6 +53,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add network permissions information to the dart doc of network image. 
   <sub>[#167110](https://github.com/flutter/flutter/pull/167110) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167110) over 56 minutes, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed superfluous copy in license checker
+  <sub>[#167146](https://github.com/flutter/flutter/pull/167146) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167146) over 23 hours, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; [customer_testing] Pick up the fix for issue found by flutter/dart hh.
   <sub>[#167212](https://github.com/flutter/flutter/pull/167212) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167212) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
