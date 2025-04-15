@@ -53,6 +53,9 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; backfill custom painter semantics properties<br />
+  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) opened on on April 1, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166375) 356 additions and 22 deletions in 12 files</sub><br />
+
 * **[Siva Utukuri](https://github.com/UtukuriSiva)** &mdash; new Widget called hover builder as been created<br />
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
 
@@ -60,7 +63,7 @@
   <sub>[#166731](https://github.com/flutter/flutter/pull/166731) opened on on April 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166731) 97 additions and 1 deletion in 2 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver<br />
-  <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/166753) 19 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166753) 19 additions and 11 deletions in 1 file</sub><br />
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix outdated reference to material in WidgetStateMapper's error message<br />
   <sub>[#166816](https://github.com/flutter/flutter/pull/166816) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166816) 2 additions and 2 deletions in 1 file</sub><br />
@@ -113,9 +116,6 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update CupertinoSliverNavigationBar Docs<br />
   <sub>[#167148](https://github.com/flutter/flutter/pull/167148) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167148) 200 additions and 0 deletions in 3 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; license checker: ignore git sha in dart license<br />
-  <sub>[#167153](https://github.com/flutter/flutter/pull/167153) opened on on April 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167153) 19 additions and 1 deletion in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][skwasm] Use `queueMicrotask` instead of `postMessage` when single-threaded<br />
   <sub>[#167154](https://github.com/flutter/flutter/pull/167154) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167154) 60 additions and 39 deletions in 1 file</sub><br />
 
@@ -127,9 +127,6 @@
 
 * **[gbbosak](https://github.com/gbbosak)** &mdash; Add explicit dependency on the syslog shard<br />
   <sub>[#167210](https://github.com/flutter/flutter/pull/167210) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167210) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; [customer_testing] Pick up the fix for issue found by flutter/dart hh.<br />
-  <sub>[#167212](https://github.com/flutter/flutter/pull/167212) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167212) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Run tests on either iOS 17 or iOS 18<br />
   <sub>[#167216](https://github.com/flutter/flutter/pull/167216) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167216) 4 additions and 4 deletions in 1 file</sub><br />

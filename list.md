@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-17 commits.
+20 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Irish(ga) to Flutter
   <sub>[#167129](https://github.com/flutter/flutter/pull/167129) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167129) over 1 day, 884 additions and 2 deletions in 5 files</sub>
@@ -18,9 +18,17 @@
   <sub>[#167001](https://github.com/flutter/flutter/pull/167001) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167001) over 3 days, 960 additions and 145 deletions in 56 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update sheet route bottom padding with top padding
+  <sub>[#164473](https://github.com/flutter/flutter/pull/164473) merged on April 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164473) over 1 month, 103 additions and 14 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition
   <sub>[#166705](https://github.com/flutter/flutter/pull/166705) merged on April 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166705) over 1 week, 129 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; license checker: ignore git sha in dart license
+  <sub>[#167153](https://github.com/flutter/flutter/pull/167153) merged on April 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167153) over 21 hours, 19 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts
   <sub>[#166960](https://github.com/flutter/flutter/pull/166960) merged on April 14, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166960) over 3 days, 0 additions and 1573 deletions in 4 files</sub>
@@ -45,6 +53,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add network permissions information to the dart doc of network image. 
   <sub>[#167110](https://github.com/flutter/flutter/pull/167110) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167110) over 56 minutes, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; [customer_testing] Pick up the fix for issue found by flutter/dart hh.
+  <sub>[#167212](https://github.com/flutter/flutter/pull/167212) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167212) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clarify how/when `FLUTTER_PREBUILT_ENGINE_VERSION` is passed in Flutter's CI
   <sub>[#167204](https://github.com/flutter/flutter/pull/167204) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167204) over 1 hour, 18 additions and 0 deletions in 1 file</sub>
@@ -657,7 +669,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates internal API wrapper to use ProxyApis
   <sub>[#8618](https://github.com/flutter/packages/pull/8618) merged on April 15, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8618) over 2 months, 32682 additions and 33772 deletions in 292 files</sub>
@@ -670,6 +682,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds internal wrapper methods for native `WebViewClient`.
   <sub>[#8964](https://github.com/flutter/packages/pull/8964) merged on April 14, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/8964) over 2 weeks, 6253 additions and 3013 deletions in 34 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Run config-only build for iOS/macOS native-test
+  <sub>[#9080](https://github.com/flutter/packages/pull/9080) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9080) over 8 hours, 62 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Run a config-only build before Xcode analyze
   <sub>[#9075](https://github.com/flutter/packages/pull/9075) merged on April 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9075) over 4 hours, 200 additions and 84 deletions in 8 files</sub>
