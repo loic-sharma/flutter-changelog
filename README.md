@@ -71,8 +71,8 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Fix regression in NDK version checking<br />
-  <sub>[#167011](https://github.com/flutter/flutter/pull/167011) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167011) over 2 days, 44 additions and 6 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+  <sub>[#167011](https://github.com/flutter/flutter/pull/167011) merged on April 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167011) over 2 days, 44 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 ### April 5, 2025 to April 11, 2025
 
