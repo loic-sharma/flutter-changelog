@@ -120,5 +120,8 @@
   <sub>[#167148](https://github.com/flutter/flutter/pull/167148) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167148) 200 additions and 0 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; license checker: ignore git sha in dart license<br />
-  <sub>[#167153](https://github.com/flutter/flutter/pull/167153) opened on on April 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167153) 20 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#167153](https://github.com/flutter/flutter/pull/167153) opened on on April 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167153) 20 additions and 2 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][skwasm] Use `queueMicrotask` instead of `postMessage` when single-threaded<br />
+  <sub>[#167154](https://github.com/flutter/flutter/pull/167154) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167154) 60 additions and 39 deletions in 1 file</sub><br />
 

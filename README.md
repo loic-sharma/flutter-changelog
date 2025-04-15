@@ -741,10 +741,14 @@
 
 ### April 12, 2025 to April 18, 2025
 
-1 commits.
+2 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce node dependencies for quicker site setup<br />
   <sub>[#11898](https://github.com/flutter/website/pull/11898) merged on April 14, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/website/pull/11898) over 3 days, 431 additions and 4751 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][extensions]fix memory leak, and add instruction for advanced scrolling behavior<br />
+  <sub>[#11882](https://github.com/flutter/website/pull/11882) merged on April 15, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/11882) over 6 days, 22 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### April 5, 2025 to April 11, 2025
