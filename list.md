@@ -637,7 +637,11 @@
 
 ### April 12, 2025 to April 18, 2025
 
-4 commits.
+5 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates internal API wrapper to use ProxyApis
+  <sub>[#8618](https://github.com/flutter/packages/pull/8618) merged on April 15, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8618) over 2 months, 32682 additions and 33772 deletions in 292 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes `loadFlutterAsset` exception and updates native wrapper for `SecTrust` and `SecCertificate`
   <sub>[#9016](https://github.com/flutter/packages/pull/9016) merged on April 14, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9016) over 1 week, 1698 additions and 74 deletions in 26 files</sub>

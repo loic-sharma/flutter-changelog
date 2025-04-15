@@ -86,9 +86,6 @@
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for `theme` and `brightness` properties on `Preview`<br />
-  <sub>[#167001](https://github.com/flutter/flutter/pull/167001) opened on on April 11, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167001) 960 additions and 145 deletions in 56 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; feat: Arbitrary format options for localizations generation (#102983)<br />
   <sub>[#167029](https://github.com/flutter/flutter/pull/167029) opened on on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167029) 219 additions and 14 deletions in 6 files</sub><br />
 
@@ -139,4 +136,7 @@
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; [customer_testing] Pick up the fix for issue found by flutter/dart hh.<br />
   <sub>[#167212](https://github.com/flutter/flutter/pull/167212) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167212) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Run tests on either iOS 17 or iOS 18<br />
+  <sub>[#167216](https://github.com/flutter/flutter/pull/167216) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167216) 4 additions and 4 deletions in 1 file</sub><br />
 
