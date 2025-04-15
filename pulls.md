@@ -131,9 +131,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Run tests on either iOS 17 or iOS 18<br />
   <sub>[#167224](https://github.com/flutter/flutter/pull/167224) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167224) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dartdoc to 8.3.3<br />
-  <sub>[#167231](https://github.com/flutter/flutter/pull/167231) opened on on April 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167231) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[ash2moon](https://github.com/ash2moon)** &mdash; Remove use of announce in time_picker and remove double Feedback.forTap calls<br />
-  <sub>[#167241](https://github.com/flutter/flutter/pull/167241) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167241) 41 additions and 96 deletions in 1 file</sub><br />
-
