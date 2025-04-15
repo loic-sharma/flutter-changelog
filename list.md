@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-15 commits.
+16 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Update time picker dialog input size
   <sub>[#163184](https://github.com/flutter/flutter/pull/163184) merged on April 15, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/163184) over 2 months, 85 additions and 30 deletions in 2 files</sub>
@@ -25,6 +25,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Use `queueMicrotask` instead of `postMessage` when single-threaded
   <sub>[#166997](https://github.com/flutter/flutter/pull/166997) merged on April 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166997) over 2 days, 60 additions and 39 deletions in 1 file</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; Change saturation calculation for HSLColor.fromColor
+  <sub>[#166639](https://github.com/flutter/flutter/pull/166639) merged on April 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/166639) over 1 week, 121 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Persistent CupertinoListTile leading and trailing
   <sub>[#166799](https://github.com/flutter/flutter/pull/166799) merged on April 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166799) over 6 days, 101 additions and 51 deletions in 2 files</sub>
