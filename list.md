@@ -4,7 +4,11 @@
 
 ### April 12, 2025 to April 18, 2025
 
-14 commits.
+15 commits.
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Update time picker dialog input size
+  <sub>[#163184](https://github.com/flutter/flutter/pull/163184) merged on April 15, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/163184) over 2 months, 85 additions and 30 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for `theme` and `brightness` properties on `Preview`
   <sub>[#167001](https://github.com/flutter/flutter/pull/167001) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167001) over 3 days, 960 additions and 145 deletions in 56 files</sub>
