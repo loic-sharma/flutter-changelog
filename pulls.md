@@ -137,3 +137,6 @@
 * **[gbbosak](https://github.com/gbbosak)** &mdash; Add explicit dependency on the syslog shard<br />
   <sub>[#167210](https://github.com/flutter/flutter/pull/167210) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167210) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; [customer_testing] Pick up the fix for issue found by flutter/dart hh.<br />
+  <sub>[#167212](https://github.com/flutter/flutter/pull/167212) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167212) 1 addition and 1 deletion in 1 file</sub><br />
+
