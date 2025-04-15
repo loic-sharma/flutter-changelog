@@ -119,7 +119,7 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed superfluous copy in license checker<br />
   <sub>[#167146](https://github.com/flutter/flutter/pull/167146) opened on on April 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167146) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update CupertinoSliverNavigationBar<br />
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update CupertinoSliverNavigationBar Docs<br />
   <sub>[#167148](https://github.com/flutter/flutter/pull/167148) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167148) 200 additions and 0 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; license checker: ignore git sha in dart license<br />
