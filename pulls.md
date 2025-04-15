@@ -77,6 +77,9 @@
 * **[masato](https://github.com/masal9pse)** &mdash; Add barrierColor property to showCupertinoDialog<br />
   <sub>[#166911](https://github.com/flutter/flutter/pull/166911) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166911) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Change CupertinoTextField placeholder alignment from center to topStart<br />
+  <sub>[#166952](https://github.com/flutter/flutter/pull/166952) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166952) 30 additions and 5 deletions in 2 files</sub><br />
+
 * **[jiancheng](https://github.com/StanleyCocos)** &mdash; feat(RadioListTile):ensure that 'isThreeLine' can be configured through the<br />
   <sub>[#166964](https://github.com/flutter/flutter/pull/166964) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166964) 244 additions and 8 deletions in 3 files</sub><br />
 

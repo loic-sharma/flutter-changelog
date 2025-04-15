@@ -4,7 +4,11 @@
 
 ### April 12, 2025 to April 18, 2025
 
-7 commits.
+11 commits.
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition<br />
+  <sub>[#166705](https://github.com/flutter/flutter/pull/166705) merged on April 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166705) over 1 week, 129 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts<br />
   <sub>[#166960](https://github.com/flutter/flutter/pull/166960) merged on April 14, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166960) over 3 days, 0 additions and 1573 deletions in 4 files</sub><br />
@@ -14,9 +18,21 @@
   <sub>[#166997](https://github.com/flutter/flutter/pull/166997) merged on April 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166997) over 2 days, 60 additions and 39 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Persistent CupertinoListTile leading and trailing<br />
+  <sub>[#166799](https://github.com/flutter/flutter/pull/166799) merged on April 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/166799) over 6 days, 101 additions and 51 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct max height calculation to fade and animate insets on scroll in CupertinoSearchTextField<br />
+  <sub>[#166569](https://github.com/flutter/flutter/pull/166569) merged on April 15, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/166569) over 1 week, 73 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add network permissions information to the dart doc of network image. <br />
   <sub>[#167110](https://github.com/flutter/flutter/pull/167110) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167110) over 56 minutes, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Add buildroot compatibility for HWASAN.<br />
+  <sub>[#167133](https://github.com/flutter/flutter/pull/167133) merged on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167133) over 5 hours, 14 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Uprev test-scripts with FUCHSIA_READELF env<br />
   <sub>[#166929](https://github.com/flutter/flutter/pull/166929) merged on April 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166929) over 4 days, 5 additions and 2 deletions in 2 files</sub><br />
@@ -748,7 +764,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][extensions]fix memory leak, and add instruction for advanced scrolling behavior<br />
-  <sub>[#11882](https://github.com/flutter/website/pull/11882) merged on April 15, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/11882) over 6 days, 22 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#11882](https://github.com/flutter/website/pull/11882) merged on April 15, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/11882) over 6 days, 22 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### April 5, 2025 to April 11, 2025
