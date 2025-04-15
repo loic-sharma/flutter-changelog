@@ -4,7 +4,11 @@
 
 ### April 12, 2025 to April 18, 2025
 
-16 commits.
+17 commits.
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Irish(ga) to Flutter
+  <sub>[#167129](https://github.com/flutter/flutter/pull/167129) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167129) over 1 day, 884 additions and 2 deletions in 5 files</sub>
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Update time picker dialog input size
   <sub>[#163184](https://github.com/flutter/flutter/pull/163184) merged on April 15, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/163184) over 2 months, 85 additions and 30 deletions in 2 files</sub>
