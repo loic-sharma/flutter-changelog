@@ -137,3 +137,9 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `tests.version` to fix `customer_testing`.<br />
   <sub>[#167206](https://github.com/flutter/flutter/pull/167206) opened on on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167206) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Update tests.version to disable `flutter_devtools.test`<br />
+  <sub>[#167208](https://github.com/flutter/flutter/pull/167208) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167208) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[gbbosak](https://github.com/gbbosak)** &mdash; Add explicit dependency on the syslog shard<br />
+  <sub>[#167210](https://github.com/flutter/flutter/pull/167210) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167210) 1 addition and 0 deletions in 1 file</sub><br />
+
