@@ -108,7 +108,7 @@
   <sub>[#167119](https://github.com/flutter/flutter/pull/167119) opened on on April 14, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167119) 1108 additions and 50 deletions in 4 files</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; Refine developer message for announcement use<br />
-  <sub>[#167127](https://github.com/flutter/flutter/pull/167127) opened on on April 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167127) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#167127](https://github.com/flutter/flutter/pull/167127) opened on on April 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167127) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Irish(ga) to Flutter<br />
   <sub>[#167129](https://github.com/flutter/flutter/pull/167129) opened on on April 14, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167129) 884 additions and 2 deletions in 5 files</sub><br />
@@ -127,4 +127,7 @@
 
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Improve documentation for KeyedSubtree constructor<br />
   <sub>[#167198](https://github.com/flutter/flutter/pull/167198) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167198) 4 additions and 1 deletion in 1 file</sub><br />
+
+* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Clarify deprecation notice for jumpToWithoutSettling in scroll_position.dart<br />
+  <sub>[#167200](https://github.com/flutter/flutter/pull/167200) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167200) 8 additions and 2 deletions in 2 files</sub><br />
 
