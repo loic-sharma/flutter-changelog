@@ -4,7 +4,11 @@
 
 ### April 12, 2025 to April 18, 2025
 
-12 commits.
+13 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for `theme` and `brightness` properties on `Preview`
+  <sub>[#167001](https://github.com/flutter/flutter/pull/167001) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167001) over 3 days, 960 additions and 145 deletions in 56 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition
   <sub>[#166705](https://github.com/flutter/flutter/pull/166705) merged on April 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166705) over 1 week, 129 additions and 2 deletions in 2 files</sub>

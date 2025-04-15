@@ -105,7 +105,7 @@
   <sub>[#167119](https://github.com/flutter/flutter/pull/167119) opened on on April 14, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167119) 1108 additions and 50 deletions in 4 files</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; Refine developer message for announcement use<br />
-  <sub>[#167127](https://github.com/flutter/flutter/pull/167127) opened on on April 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167127) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#167127](https://github.com/flutter/flutter/pull/167127) opened on on April 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167127) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Irish(ga) to Flutter<br />
   <sub>[#167129](https://github.com/flutter/flutter/pull/167129) opened on on April 14, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167129) 884 additions and 2 deletions in 5 files</sub><br />
