@@ -137,3 +137,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Run tests on either iOS 17 or iOS 18<br />
   <sub>[#167216](https://github.com/flutter/flutter/pull/167216) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167216) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Run tests on either iOS 17 or iOS 18<br />
+  <sub>[#167224](https://github.com/flutter/flutter/pull/167224) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167224) 4 additions and 4 deletions in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CHANGELOG.md`<br />
+  <sub>[#167225](https://github.com/flutter/flutter/pull/167225) opened on on April 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167225) 7 additions and 2 deletions in 1 file</sub><br />
+
