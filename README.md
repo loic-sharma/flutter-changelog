@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-11 commits.
+12 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition<br />
   <sub>[#166705](https://github.com/flutter/flutter/pull/166705) merged on April 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166705) over 1 week, 129 additions and 2 deletions in 2 files</sub><br />
@@ -28,6 +28,10 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add network permissions information to the dart doc of network image. <br />
   <sub>[#167110](https://github.com/flutter/flutter/pull/167110) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167110) over 56 minutes, 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `tests.version` to fix `customer_testing`.<br />
+  <sub>[#167206](https://github.com/flutter/flutter/pull/167206) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167206) over 57 seconds, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Add buildroot compatibility for HWASAN.<br />
@@ -757,7 +761,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-2 commits.
+3 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce node dependencies for quicker site setup<br />
   <sub>[#11898](https://github.com/flutter/website/pull/11898) merged on April 14, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/website/pull/11898) over 3 days, 431 additions and 4751 deletions in 6 files</sub><br />
@@ -766,6 +770,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][extensions]fix memory leak, and add instruction for advanced scrolling behavior<br />
   <sub>[#11882](https://github.com/flutter/website/pull/11882) merged on April 15, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/11882) over 6 days, 22 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Keep quotes when minifying HTML attributes<br />
+  <sub>[#11904](https://github.com/flutter/website/pull/11904) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11904) over 21 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### April 5, 2025 to April 11, 2025
 
