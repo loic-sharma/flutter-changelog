@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-13 commits.
+14 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for `theme` and `brightness` properties on `Preview`<br />
   <sub>[#167001](https://github.com/flutter/flutter/pull/167001) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167001) over 3 days, 960 additions and 145 deletions in 56 files</sub><br />
@@ -32,6 +32,10 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add network permissions information to the dart doc of network image. <br />
   <sub>[#167110](https://github.com/flutter/flutter/pull/167110) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167110) over 56 minutes, 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clarify how/when `FLUTTER_PREBUILT_ENGINE_VERSION` is passed in Flutter's CI<br />
+  <sub>[#167204](https://github.com/flutter/flutter/pull/167204) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167204) over 1 hour, 18 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `tests.version` to fix `customer_testing`.<br />

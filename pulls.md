@@ -128,9 +128,6 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Clarify deprecation notice for jumpToWithoutSettling in scroll_position.dart<br />
   <sub>[#167200](https://github.com/flutter/flutter/pull/167200) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167200) 8 additions and 2 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clarify how/when `FLUTTER_PREBUILT_ENGINE_VERSION` is passed in Flutter's CI<br />
-  <sub>[#167204](https://github.com/flutter/flutter/pull/167204) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167204) 18 additions and 0 deletions in 1 file</sub><br />
-
 * **[gbbosak](https://github.com/gbbosak)** &mdash; Add explicit dependency on the syslog shard<br />
   <sub>[#167210](https://github.com/flutter/flutter/pull/167210) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167210) 1 addition and 0 deletions in 1 file</sub><br />
 
