@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-24 commits.
+25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add button icon support for animation duration
   <sub>[#162667](https://github.com/flutter/flutter/pull/162667) merged on April 15, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/162667) over 2 months, 402 additions and 82 deletions in 11 files</sub>
@@ -77,6 +77,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `tests.version` to fix `customer_testing`.
   <sub>[#167206](https://github.com/flutter/flutter/pull/167206) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167206) over 57 seconds, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Web] Remove `webOnlyUniformRadii` from `RRect`
+  <sub>[#167237](https://github.com/flutter/flutter/pull/167237) merged on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167237) over 8 hours, 1 addition and 130 deletions in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[MarkZ](https://github.com/Markzipan)** &mdash; Adding macrobenchmarks for DDC
   <sub>[#166617](https://github.com/flutter/flutter/pull/166617) merged on April 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166617) over 1 week, 89 additions and 5 deletions in 8 files</sub>
