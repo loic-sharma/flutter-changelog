@@ -4,7 +4,11 @@
 
 ### April 12, 2025 to April 18, 2025
 
-27 commits.
+28 commits.
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view theme
+  <sub>[#164769](https://github.com/flutter/flutter/pull/164769) merged on April 16, 2025 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/164769) over 1 month, 466 additions and 9 deletions in 6 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add button icon support for animation duration
   <sub>[#162667](https://github.com/flutter/flutter/pull/162667) merged on April 15, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/162667) over 2 months, 402 additions and 82 deletions in 11 files</sub>
