@@ -132,5 +132,5 @@
   <sub>[#167262](https://github.com/flutter/flutter/pull/167262) opened on on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167262) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Allow passing args in a file, provided as `@filename` as the last argument<br />
-  <sub>[#167272](https://github.com/flutter/flutter/pull/167272) opened on on April 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167272) 190 additions and 5 deletions in 3 files</sub><br />
+  <sub>[#167272](https://github.com/flutter/flutter/pull/167272) opened on on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167272) 190 additions and 5 deletions in 3 files</sub><br />
 
