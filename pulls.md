@@ -54,7 +54,7 @@
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; backfill custom painter semantics properties<br />
-  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) opened on on April 1, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166375) 356 additions and 22 deletions in 12 files</sub><br />
+  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) opened on on April 1, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166375) 358 additions and 22 deletions in 12 files</sub><br />
 
 * **[Siva Utukuri](https://github.com/UtukuriSiva)** &mdash; new Widget called hover builder as been created<br />
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
@@ -136,4 +136,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix unresponsive input above HtmlElementView in Safari and Firefox.<br />
   <sub>[#167275](https://github.com/flutter/flutter/pull/167275) opened on on April 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167275) 104 additions and 17 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix: Update DelegatedTransition animation parameter correctly<br />
+  <sub>[#167286](https://github.com/flutter/flutter/pull/167286) opened on on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167286) 93 additions and 1 deletion in 2 files</sub><br />
 
