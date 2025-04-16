@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-29 commits.
+30 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view theme
   <sub>[#164769](https://github.com/flutter/flutter/pull/164769) merged on April 16, 2025 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/164769) over 1 month, 466 additions and 9 deletions in 6 files</sub>
@@ -117,6 +117,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Include 3.29.3 and 3.29.2 changelog entries to master
   <sub>[#166994](https://github.com/flutter/flutter/pull/166994) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166994) over 2 days, 15 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Removed superfluous copy in license checker (#167146)"
+  <sub>[#167246](https://github.com/flutter/flutter/pull/167246) merged on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167246) over 15 hours, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Fix regression in NDK version checking
   <sub>[#167011](https://github.com/flutter/flutter/pull/167011) merged on April 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167011) over 2 days, 44 additions and 6 deletions in 4 files</sub>
