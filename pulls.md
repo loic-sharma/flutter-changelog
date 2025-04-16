@@ -131,9 +131,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Run tests on either iOS 17 or iOS 18<br />
   <sub>[#167224](https://github.com/flutter/flutter/pull/167224) opened on on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167224) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added emulator version to doctor<br />
-  <sub>[#167236](https://github.com/flutter/flutter/pull/167236) opened on on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167236) 136 additions and 46 deletions in 3 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Set an additional CMake arg in `forceNdkDownload` to make the task name align with the `BuildType`<br />
   <sub>[#167240](https://github.com/flutter/flutter/pull/167240) opened on on April 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167240) 25 additions and 7 deletions in 3 files</sub><br />
 
@@ -145,4 +142,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix: Update DelegatedTransition animation parameter correctly<br />
   <sub>[#167286](https://github.com/flutter/flutter/pull/167286) opened on on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167286) 93 additions and 1 deletion in 2 files</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [beta] Update Dart DEPS<br />
+  <sub>[#167299](https://github.com/flutter/flutter/pull/167299) opened on on April 16, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/167299) 1259 additions and 631 deletions in 63 files</sub><br />
 

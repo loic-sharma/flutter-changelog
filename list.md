@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-25 commits.
+26 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add button icon support for animation duration
   <sub>[#162667](https://github.com/flutter/flutter/pull/162667) merged on April 15, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/162667) over 2 months, 402 additions and 82 deletions in 11 files</sub>
@@ -29,6 +29,10 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition
   <sub>[#166705](https://github.com/flutter/flutter/pull/166705) merged on April 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166705) over 1 week, 129 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added emulator version to doctor
+  <sub>[#167236](https://github.com/flutter/flutter/pull/167236) merged on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167236) over 21 hours, 136 additions and 46 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; license checker: ignore git sha in dart license
   <sub>[#167153](https://github.com/flutter/flutter/pull/167153) merged on April 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167153) over 21 hours, 19 additions and 1 deletion in 1 file</sub>
