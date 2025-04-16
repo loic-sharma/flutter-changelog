@@ -134,9 +134,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix unresponsive input above HtmlElementView in Safari and Firefox.<br />
   <sub>[#167275](https://github.com/flutter/flutter/pull/167275) opened on on April 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167275) 104 additions and 17 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix: Update DelegatedTransition animation parameter correctly<br />
-  <sub>[#167286](https://github.com/flutter/flutter/pull/167286) opened on on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167286) 93 additions and 1 deletion in 2 files</sub><br />
-
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter-3.32-candidate.0] Update Dart DEPS<br />
   <sub>[#167303](https://github.com/flutter/flutter/pull/167303) opened on on April 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167303) 2 additions and 2 deletions in 1 file</sub><br />
 
