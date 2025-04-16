@@ -51,7 +51,7 @@
   <sub>[#165996](https://github.com/flutter/flutter/pull/165996) opened on on March 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/165996) 207 additions and 21 deletions in 2 files</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Fix navbar blur clipping outside of Cupertino sheet<br />
-  <sub>[#166019](https://github.com/flutter/flutter/pull/166019) opened on on March 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166019) 88 additions and 14 deletions in 3 files</sub><br />
+  <sub>[#166019](https://github.com/flutter/flutter/pull/166019) opened on on March 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166019) 90 additions and 16 deletions in 3 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
@@ -114,7 +114,7 @@
   <sub>[#167127](https://github.com/flutter/flutter/pull/167127) opened on on April 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167127) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add kotlin compatability to build file validation<br />
-  <sub>[#167143](https://github.com/flutter/flutter/pull/167143) opened on on April 14, 2025 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/167143) 888 additions and 107 deletions in 13 files</sub><br />
+  <sub>[#167143](https://github.com/flutter/flutter/pull/167143) opened on on April 14, 2025 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/167143) 888 additions and 107 deletions in 13 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update CupertinoSliverNavigationBar Docs<br />
   <sub>[#167148](https://github.com/flutter/flutter/pull/167148) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167148) 200 additions and 0 deletions in 3 files</sub><br />
