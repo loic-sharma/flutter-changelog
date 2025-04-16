@@ -122,9 +122,6 @@
 * **[gbbosak](https://github.com/gbbosak)** &mdash; Add explicit dependency on the syslog shard<br />
   <sub>[#167210](https://github.com/flutter/flutter/pull/167210) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167210) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Run tests on either iOS 17 or iOS 18<br />
-  <sub>[#167216](https://github.com/flutter/flutter/pull/167216) opened on on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167216) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Run tests on either iOS 17 or iOS 18<br />
   <sub>[#167224](https://github.com/flutter/flutter/pull/167224) opened on on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167224) 4 additions and 4 deletions in 1 file</sub><br />
 
