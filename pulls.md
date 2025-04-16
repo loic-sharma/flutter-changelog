@@ -143,3 +143,6 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter-3.32-candidate.0] Update Dart DEPS<br />
   <sub>[#167303](https://github.com/flutter/flutter/pull/167303) opened on on April 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167303) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Golden content scale<br />
+  <sub>[#167308](https://github.com/flutter/flutter/pull/167308) opened on on April 16, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/167308) 110 additions and 240 deletions in 21 files</sub><br />
+
