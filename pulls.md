@@ -111,7 +111,7 @@
   <sub>[#167127](https://github.com/flutter/flutter/pull/167127) opened on on April 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167127) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add kotlin compatability to build file validation<br />
-  <sub>[#167143](https://github.com/flutter/flutter/pull/167143) opened on on April 14, 2025 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/167143) 873 additions and 100 deletions in 13 files</sub><br />
+  <sub>[#167143](https://github.com/flutter/flutter/pull/167143) opened on on April 14, 2025 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/167143) 873 additions and 100 deletions in 13 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update CupertinoSliverNavigationBar Docs<br />
   <sub>[#167148](https://github.com/flutter/flutter/pull/167148) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167148) 200 additions and 0 deletions in 3 files</sub><br />
@@ -137,7 +137,7 @@
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Skip writing unchanged registrant files<br />
   <sub>[#167262](https://github.com/flutter/flutter/pull/167262) opened on on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167262) 38 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix unresponsive input above HtmlElementView in Safari and Firefox.<br />
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix unresponsive input above HtmlElementView in Safari and Firefox.<br />
   <sub>[#167275](https://github.com/flutter/flutter/pull/167275) opened on on April 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167275) 104 additions and 17 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix: Update DelegatedTransition animation parameter correctly<br />
