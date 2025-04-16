@@ -4,7 +4,11 @@
 
 ### April 12, 2025 to April 18, 2025
 
-22 commits.
+23 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add button icon support for animation duration<br />
+  <sub>[#162667](https://github.com/flutter/flutter/pull/162667) merged on April 15, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/162667) over 2 months, 402 additions and 82 deletions in 11 files</sub><br />
+  <sub>Reviewed by: </sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Irish(ga) to Flutter<br />
   <sub>[#167129](https://github.com/flutter/flutter/pull/167129) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167129) over 1 day, 884 additions and 2 deletions in 5 files</sub><br />
