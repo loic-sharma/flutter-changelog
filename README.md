@@ -689,7 +689,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-11 commits.
+12 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates internal API wrapper to use ProxyApis<br />
   <sub>[#8618](https://github.com/flutter/packages/pull/8618) merged on April 15, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8618) over 2 months, 32682 additions and 33772 deletions in 292 files</sub><br />
@@ -702,6 +702,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Adds `caseSensitive` to `GoRoute`<br />
   <sub>[#8992](https://github.com/flutter/packages/pull/8992) merged on April 16, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8992) over 1 week, 84 additions and 3 deletions in 6 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [pigeon] Unify iOS and macOS test plugins<br />
+  <sub>[#9100](https://github.com/flutter/packages/pull/9100) merged on April 16, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/9100) over 51 minutes, 54 additions and 21931 deletions in 33 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration<br />
   <sub>[#8988](https://github.com/flutter/packages/pull/8988) merged on April 16, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/8988) over 1 week, 301 additions and 60 deletions in 102 files</sub><br />
