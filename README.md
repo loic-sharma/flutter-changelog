@@ -833,7 +833,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-6 commits.
+7 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add samples index page <br />
   <sub>[#11815](https://github.com/flutter/website/pull/11815) merged on April 15, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/website/pull/11815) over 1 month, 2328 additions and 14 deletions in 19 files</sub><br />
@@ -858,6 +858,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Keep quotes when minifying HTML attributes<br />
   <sub>[#11904](https://github.com/flutter/website/pull/11904) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11904) over 21 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Add animations codelab to codelabs.yml<br />
+  <sub>[#11906](https://github.com/flutter/website/pull/11906) merged on April 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11906) over 20 hours, 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
 
 ### April 5, 2025 to April 11, 2025
 
