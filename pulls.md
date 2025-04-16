@@ -141,7 +141,7 @@
   <sub>[#167286](https://github.com/flutter/flutter/pull/167286) opened on on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167286) 93 additions and 1 deletion in 2 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter-3.32-candidate.0] Update Dart DEPS<br />
-  <sub>[#167303](https://github.com/flutter/flutter/pull/167303) opened on on April 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167303) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#167303](https://github.com/flutter/flutter/pull/167303) opened on on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167303) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixed impeller golden content scale<br />
   <sub>[#167308](https://github.com/flutter/flutter/pull/167308) opened on on April 16, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/167308) 110 additions and 240 deletions in 21 files</sub><br />
