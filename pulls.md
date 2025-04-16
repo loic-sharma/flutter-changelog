@@ -141,5 +141,5 @@
   <sub>[#167286](https://github.com/flutter/flutter/pull/167286) opened on on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167286) 93 additions and 1 deletion in 2 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [beta] Update Dart DEPS<br />
-  <sub>[#167299](https://github.com/flutter/flutter/pull/167299) opened on on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167299) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#167299](https://github.com/flutter/flutter/pull/167299) opened on on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167299) 2 additions and 2 deletions in 1 file</sub><br />
 
