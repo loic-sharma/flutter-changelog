@@ -54,7 +54,7 @@
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; backfill custom painter semantics properties<br />
-  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) opened on on April 1, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/166375) 358 additions and 22 deletions in 12 files</sub><br />
+  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) opened on on April 1, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166375) 358 additions and 22 deletions in 12 files</sub><br />
 
 * **[Siva Utukuri](https://github.com/UtukuriSiva)** &mdash; new Widget called hover builder as been created<br />
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
@@ -111,7 +111,7 @@
   <sub>[#167127](https://github.com/flutter/flutter/pull/167127) opened on on April 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167127) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add kotlin compatability to build file validation<br />
-  <sub>[#167143](https://github.com/flutter/flutter/pull/167143) opened on on April 14, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/167143) 873 additions and 100 deletions in 13 files</sub><br />
+  <sub>[#167143](https://github.com/flutter/flutter/pull/167143) opened on on April 14, 2025 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/167143) 873 additions and 100 deletions in 13 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update CupertinoSliverNavigationBar Docs<br />
   <sub>[#167148](https://github.com/flutter/flutter/pull/167148) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167148) 200 additions and 0 deletions in 3 files</sub><br />
