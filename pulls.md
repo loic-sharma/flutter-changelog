@@ -114,7 +114,7 @@
   <sub>[#167127](https://github.com/flutter/flutter/pull/167127) opened on on April 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167127) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add kotlin compatability to build file validation<br />
-  <sub>[#167143](https://github.com/flutter/flutter/pull/167143) opened on on April 14, 2025 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/167143) 888 additions and 107 deletions in 13 files</sub><br />
+  <sub>[#167143](https://github.com/flutter/flutter/pull/167143) opened on on April 14, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/167143) 888 additions and 107 deletions in 13 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update CupertinoSliverNavigationBar Docs<br />
   <sub>[#167148](https://github.com/flutter/flutter/pull/167148) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167148) 200 additions and 0 deletions in 3 files</sub><br />
@@ -142,7 +142,4 @@
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter-3.32-candidate.0] Update Dart DEPS<br />
   <sub>[#167303](https://github.com/flutter/flutter/pull/167303) opened on on April 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167303) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Text scale Cupertino nav bar large title and search field<br />
-  <sub>[#167313](https://github.com/flutter/flutter/pull/167313) opened on on April 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167313) 153 additions and 61 deletions in 2 files</sub><br />
 
