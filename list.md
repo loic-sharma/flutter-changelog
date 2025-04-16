@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-28 commits.
+29 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view theme
   <sub>[#164769](https://github.com/flutter/flutter/pull/164769) merged on April 16, 2025 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/164769) over 1 month, 466 additions and 9 deletions in 6 files</sub>
@@ -65,6 +65,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add network permissions information to the dart doc of network image. 
   <sub>[#167110](https://github.com/flutter/flutter/pull/167110) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167110) over 56 minutes, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
+  <sub>[#167287](https://github.com/flutter/flutter/pull/167287) merged on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167287) over 1 hour, 15 additions and 22 deletions in 6 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When using --local-web-sdk, use a locally built Dart SDK if one is available
   <sub>[#166732](https://github.com/flutter/flutter/pull/166732) merged on April 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166732) over 1 week, 56 additions and 7 deletions in 2 files</sub>
