@@ -128,6 +128,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Run tests on either iOS 17 or iOS 18<br />
   <sub>[#167224](https://github.com/flutter/flutter/pull/167224) opened on on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167224) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added emulator version to doctor<br />
+  <sub>[#167236](https://github.com/flutter/flutter/pull/167236) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167236) 121 additions and 39 deletions in 3 files</sub><br />
+
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Skip writing unchanged registrant files<br />
   <sub>[#167262](https://github.com/flutter/flutter/pull/167262) opened on on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167262) 38 additions and 0 deletions in 2 files</sub><br />
 
