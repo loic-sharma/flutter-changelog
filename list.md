@@ -689,7 +689,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-8 commits.
+9 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates internal API wrapper to use ProxyApis
   <sub>[#8618](https://github.com/flutter/packages/pull/8618) merged on April 15, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8618) over 2 months, 32682 additions and 33772 deletions in 292 files</sub>
@@ -710,6 +710,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds internal wrapper methods for native `WebViewClient`.
   <sub>[#8964](https://github.com/flutter/packages/pull/8964) merged on April 14, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/8964) over 2 weeks, 6253 additions and 3013 deletions in 34 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_is] Update iOS SDK to 8.0
+  <sub>[#9081](https://github.com/flutter/packages/pull/9081) merged on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9081) over 21 hours, 7 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Run config-only build for iOS/macOS native-test
   <sub>[#9080](https://github.com/flutter/packages/pull/9080) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9080) over 8 hours, 62 additions and 10 deletions in 2 files</sub>
