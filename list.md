@@ -689,7 +689,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates internal API wrapper to use ProxyApis
   <sub>[#8618](https://github.com/flutter/packages/pull/8618) merged on April 15, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8618) over 2 months, 32682 additions and 33772 deletions in 292 files</sub>
@@ -702,6 +702,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Adds `caseSensitive` to `GoRoute`
   <sub>[#8992](https://github.com/flutter/packages/pull/8992) merged on April 16, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8992) over 1 week, 84 additions and 3 deletions in 6 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration
+  <sub>[#8988](https://github.com/flutter/packages/pull/8988) merged on April 16, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/8988) over 1 week, 301 additions and 60 deletions in 102 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds internal wrapper methods for native `WebViewClient`.
   <sub>[#8964](https://github.com/flutter/packages/pull/8964) merged on April 14, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/8964) over 2 weeks, 6253 additions and 3013 deletions in 34 files</sub>
