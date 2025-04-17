@@ -137,3 +137,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add opaque, isActive, isFirst, popDisposition aspects for ModalRoute<br />
   <sub>[#167324](https://github.com/flutter/flutter/pull/167324) opened on on April 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167324) 68 additions and 1 deletion in 2 files</sub><br />
 
+* **[René Kilczan](https://github.com/rekire)** &mdash; Resolve resolve native Flutter dependencies in Android Studio<br />
+  <sub>[#167332](https://github.com/flutter/flutter/pull/167332) opened on on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167332) 19 additions and 10 deletions in 1 file</sub><br />
+
