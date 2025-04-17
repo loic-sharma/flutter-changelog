@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-46 commits.
+49 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Windows] Enable merged platform and UI thread by default
   <sub>[#163726](https://github.com/flutter/flutter/pull/163726) merged on April 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163726) over 1 month, 41 additions and 30 deletions in 2 files</sub>
@@ -30,6 +30,10 @@
   <sub>[#167001](https://github.com/flutter/flutter/pull/167001) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167001) over 3 days, 960 additions and 145 deletions in 56 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Update time picker dialog input size
+  <sub>[#163184](https://github.com/flutter/flutter/pull/163184) merged on April 15, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/163184) over 2 months, 85 additions and 30 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[jiancheng](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value
   <sub>[#165370](https://github.com/flutter/flutter/pull/165370) merged on April 17, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/165370) over 1 month, 25 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Vikash Dubey](https://github.com/vikdubey), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -37,10 +41,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Irish(ga) to Flutter
   <sub>[#167129](https://github.com/flutter/flutter/pull/167129) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167129) over 1 day, 884 additions and 2 deletions in 5 files</sub>
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Update time picker dialog input size
-  <sub>[#163184](https://github.com/flutter/flutter/pull/163184) merged on April 15, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/163184) over 2 months, 85 additions and 30 deletions in 2 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated docstrings for TextureContents
   <sub>[#167221](https://github.com/flutter/flutter/pull/167221) merged on April 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/167221) over 1 day, 58 additions and 3 deletions in 1 file</sub>
@@ -58,10 +58,6 @@
   <sub>[#164473](https://github.com/flutter/flutter/pull/164473) merged on April 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164473) over 1 month, 103 additions and 14 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added emulator version to doctor
-  <sub>[#167236](https://github.com/flutter/flutter/pull/167236) merged on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167236) over 21 hours, 136 additions and 46 deletions in 3 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; license checker: ignore git sha in dart license
   <sub>[#167153](https://github.com/flutter/flutter/pull/167153) merged on April 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167153) over 21 hours, 19 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -70,6 +66,14 @@
   <sub>[#167320](https://github.com/flutter/flutter/pull/167320) merged on April 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/167320) over 3 hours, 80 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added docstring for FilterContents::RenderFilter
+  <sub>[#167227](https://github.com/flutter/flutter/pull/167227) merged on April 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167227) over 2 days, 23 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added emulator version to doctor
+  <sub>[#167236](https://github.com/flutter/flutter/pull/167236) merged on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167236) over 21 hours, 136 additions and 46 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts
   <sub>[#166960](https://github.com/flutter/flutter/pull/166960) merged on April 14, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166960) over 3 days, 0 additions and 1573 deletions in 4 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -77,6 +81,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Use `queueMicrotask` instead of `postMessage` when single-threaded
   <sub>[#166997](https://github.com/flutter/flutter/pull/166997) merged on April 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166997) over 2 days, 60 additions and 39 deletions in 1 file</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add equality to NoDefaultCupertinoThemeData
+  <sub>[#166655](https://github.com/flutter/flutter/pull/166655) merged on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166655) over 1 week, 38 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; Change saturation calculation for HSLColor.fromColor
   <sub>[#166639](https://github.com/flutter/flutter/pull/166639) merged on April 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/166639) over 1 week, 121 additions and 3 deletions in 2 files</sub>
@@ -114,45 +122,49 @@
   <sub>[#167240](https://github.com/flutter/flutter/pull/167240) merged on April 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167240) over 21 hours, 25 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CHANGELOG.md`
-  <sub>[#167225](https://github.com/flutter/flutter/pull/167225) merged on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167225) over 1 day, 7 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; [customer_testing] Pick up the fix for issue found by flutter/dart hh.
-  <sub>[#167212](https://github.com/flutter/flutter/pull/167212) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167212) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix link to engine docs
+  <sub>[#167346](https://github.com/flutter/flutter/pull/167346) merged on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167346) over 7 hours, 10 additions and 10 deletions in 5 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed superfluous copy in license checker
   <sub>[#167146](https://github.com/flutter/flutter/pull/167146) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167146) over 23 hours, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dartdoc to 8.3.3
-  <sub>[#167231](https://github.com/flutter/flutter/pull/167231) merged on April 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167231) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
+  <sub>[#167287](https://github.com/flutter/flutter/pull/167287) merged on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167287) over 1 hour, 15 additions and 22 deletions in 6 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clarify how/when `FLUTTER_PREBUILT_ENGINE_VERSION` is passed in Flutter's CI
   <sub>[#167204](https://github.com/flutter/flutter/pull/167204) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167204) over 1 hour, 18 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
-  <sub>[#167287](https://github.com/flutter/flutter/pull/167287) merged on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167287) over 1 hour, 15 additions and 22 deletions in 6 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; [customer_testing] Pick up the fix for issue found by flutter/dart hh.
+  <sub>[#167212](https://github.com/flutter/flutter/pull/167212) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167212) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `tests.version` to fix `customer_testing`.
-  <sub>[#167206](https://github.com/flutter/flutter/pull/167206) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167206) over 57 seconds, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CHANGELOG.md`
+  <sub>[#167225](https://github.com/flutter/flutter/pull/167225) merged on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167225) over 1 day, 7 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When using --local-web-sdk, use a locally built Dart SDK if one is available
   <sub>[#166732](https://github.com/flutter/flutter/pull/166732) merged on April 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166732) over 1 week, 56 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dartdoc to 8.3.3
+  <sub>[#167231](https://github.com/flutter/flutter/pull/167231) merged on April 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167231) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `tests.version` to fix `customer_testing`.
+  <sub>[#167206](https://github.com/flutter/flutter/pull/167206) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167206) over 57 seconds, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Web] Remove `webOnlyUniformRadii` from `RRect`
+  <sub>[#167237](https://github.com/flutter/flutter/pull/167237) merged on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167237) over 8 hours, 1 addition and 130 deletions in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
 * **[MarkZ](https://github.com/Markzipan)** &mdash; Adding macrobenchmarks for DDC
   <sub>[#166617](https://github.com/flutter/flutter/pull/166617) merged on April 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166617) over 1 week, 89 additions and 5 deletions in 8 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Yegor](https://github.com/yjbanov)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.restorationId
-  <sub>[#166684](https://github.com/flutter/flutter/pull/166684) merged on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166684) over 1 week, 26 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Uprev test-scripts with FUCHSIA_READELF env
   <sub>[#166929](https://github.com/flutter/flutter/pull/166929) merged on April 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166929) over 4 days, 5 additions and 2 deletions in 2 files</sub>
@@ -162,13 +174,13 @@
   <sub>[#166916](https://github.com/flutter/flutter/pull/166916) merged on April 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166916) over 4 days, 10 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.restorationId
+  <sub>[#166684](https://github.com/flutter/flutter/pull/166684) merged on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166684) over 1 week, 26 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Remove unnecessary builder
   <sub>[#166623](https://github.com/flutter/flutter/pull/166623) merged on April 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166623) over 1 week, 30 additions and 34 deletions in 1 file</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Web] Remove `webOnlyUniformRadii` from `RRect`
-  <sub>[#167237](https://github.com/flutter/flutter/pull/167237) merged on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167237) over 8 hours, 1 addition and 130 deletions in 2 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Add buildroot compatibility for HWASAN.
   <sub>[#167133](https://github.com/flutter/flutter/pull/167133) merged on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167133) over 5 hours, 14 additions and 3 deletions in 3 files</sub>
