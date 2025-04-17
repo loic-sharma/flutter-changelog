@@ -132,7 +132,7 @@
   <sub>[#167275](https://github.com/flutter/flutter/pull/167275) opened on on April 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167275) 138 additions and 21 deletions in 2 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter-3.32-candidate.0] Update Dart DEPS<br />
-  <sub>[#167303](https://github.com/flutter/flutter/pull/167303) opened on on April 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167303) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#167303](https://github.com/flutter/flutter/pull/167303) opened on on April 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167303) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add opaque, isActive, isFirst, popDisposition aspects for ModalRoute<br />
   <sub>[#167324](https://github.com/flutter/flutter/pull/167324) opened on on April 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167324) 68 additions and 1 deletion in 2 files</sub><br />
