@@ -115,7 +115,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CHANGELOG.md`
-  <sub>[#167225](https://github.com/flutter/flutter/pull/167225) merged on April 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167225) over 1 day, 7 additions and 2 deletions in 1 file</sub>
+  <sub>[#167225](https://github.com/flutter/flutter/pull/167225) merged on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167225) over 1 day, 7 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; [customer_testing] Pick up the fix for issue found by flutter/dart hh.
