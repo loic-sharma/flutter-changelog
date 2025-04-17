@@ -949,11 +949,16 @@
 
 ### April 12, 2025 to April 18, 2025
 
-7 commits.
+10 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add samples index page <br />
   <sub>[#11815](https://github.com/flutter/website/pull/11815) merged on April 15, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/website/pull/11815) over 1 month, 2328 additions and 14 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Changes 'How to' filter to 'Recipe' on samples index page<br />
+  <sub>[#11910](https://github.com/flutter/website/pull/11910) merged on April 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11910) over 1 day, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="780" alt="Screenshot 2025-04-16 at 8 32 50 AM" src="https://github.com/user-attachments/assets/a7db6495-b59a-4f4f-a1fa-cb8f1f0e4ca8" /></details></sub>
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add more detailed docs for DevTools extension enablement<br />
   <sub>[#11905](https://github.com/flutter/website/pull/11905) merged on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11905) over 29 minutes, 24 additions and 1 deletion in 3 files</sub><br />
@@ -965,6 +970,14 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][extensions]fix memory leak, and add instruction for advanced scrolling behavior<br />
   <sub>[#11882](https://github.com/flutter/website/pull/11882) merged on April 15, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/11882) over 6 days, 22 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Only include macOS specific troubleshooting tip if macOS page<br />
+  <sub>[#11913](https://github.com/flutter/website/pull/11913) merged on April 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11913) over 20 hours, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Optimize remaining PNGs<br />
+  <sub>[#11914](https://github.com/flutter/website/pull/11914) merged on April 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11914) over 2 hours, 0 additions and 0 deletions in 628 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-artifacts`.<br />
