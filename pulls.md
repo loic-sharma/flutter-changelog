@@ -140,3 +140,6 @@
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Remove redundant usematerial3<br />
   <sub>[#167337](https://github.com/flutter/flutter/pull/167337) opened on on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167337) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Add `CupertinoSlider` haptic feedback<br />
+  <sub>[#167362](https://github.com/flutter/flutter/pull/167362) opened on on April 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167362) 123 additions and 10 deletions in 2 files</sub><br />
+
