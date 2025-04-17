@@ -949,7 +949,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-10 commits.
+11 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add samples index page <br />
   <sub>[#11815](https://github.com/flutter/website/pull/11815) merged on April 15, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/website/pull/11815) over 1 month, 2328 additions and 14 deletions in 19 files</sub><br />
@@ -962,6 +962,10 @@
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add more detailed docs for DevTools extension enablement<br />
   <sub>[#11905](https://github.com/flutter/website/pull/11905) merged on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11905) over 29 minutes, 24 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove mostly duplicated web-specific get started codelab<br />
+  <sub>[#11912](https://github.com/flutter/website/pull/11912) merged on April 17, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/11912) over 21 hours, 3 additions and 1956 deletions in 21 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce node dependencies for quicker site setup<br />
