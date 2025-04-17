@@ -4,7 +4,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-36 commits.
+37 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view theme
   <sub>[#164769](https://github.com/flutter/flutter/pull/164769) merged on April 16, 2025 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/164769) over 1 month, 466 additions and 9 deletions in 6 files</sub>
@@ -13,6 +13,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add button icon support for animation duration
   <sub>[#162667](https://github.com/flutter/flutter/pull/162667) merged on April 15, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/162667) over 2 months, 402 additions and 82 deletions in 11 files</sub>
   <sub>Reviewed by: </sub>
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix Carousel crashes when using PageStorageKey
+  <sub>[#166817](https://github.com/flutter/flutter/pull/166817) merged on April 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166817) over 1 week, 42 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Localization for non zero time in 24 hours format
   <sub>[#164885](https://github.com/flutter/flutter/pull/164885) merged on April 16, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164885) over 1 month, 61 additions and 1 deletion in 2 files</sub>
@@ -34,10 +38,6 @@
   <sub>[#167221](https://github.com/flutter/flutter/pull/167221) merged on April 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/167221) over 1 day, 58 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
-* **[Huy](https://github.com/huycozy)** &mdash; Fix Carousel crashes when using PageStorageKey
-  <sub>[#166817](https://github.com/flutter/flutter/pull/166817) merged on April 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166817) over 1 week, 42 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update sheet route bottom padding with top padding
   <sub>[#164473](https://github.com/flutter/flutter/pull/164473) merged on April 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164473) over 1 month, 103 additions and 14 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
@@ -46,16 +46,16 @@
   <sub>[#166705](https://github.com/flutter/flutter/pull/166705) merged on April 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166705) over 1 week, 129 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added emulator version to doctor
-  <sub>[#167236](https://github.com/flutter/flutter/pull/167236) merged on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167236) over 21 hours, 136 additions and 46 deletions in 3 files</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; license checker: ignore git sha in dart license
+  <sub>[#167153](https://github.com/flutter/flutter/pull/167153) merged on April 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167153) over 21 hours, 19 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove some unused third party library build scripts
   <sub>[#166960](https://github.com/flutter/flutter/pull/166960) merged on April 14, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/166960) over 3 days, 0 additions and 1573 deletions in 4 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; license checker: ignore git sha in dart license
-  <sub>[#167153](https://github.com/flutter/flutter/pull/167153) merged on April 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167153) over 21 hours, 19 additions and 1 deletion in 1 file</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added emulator version to doctor
+  <sub>[#167236](https://github.com/flutter/flutter/pull/167236) merged on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167236) over 21 hours, 136 additions and 46 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Use `queueMicrotask` instead of `postMessage` when single-threaded
@@ -94,9 +94,9 @@
   <sub>[#167287](https://github.com/flutter/flutter/pull/167287) merged on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167287) over 1 hour, 15 additions and 22 deletions in 6 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `tests.version` to fix `customer_testing`.
-  <sub>[#167206](https://github.com/flutter/flutter/pull/167206) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167206) over 57 seconds, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When using --local-web-sdk, use a locally built Dart SDK if one is available
+  <sub>[#166732](https://github.com/flutter/flutter/pull/166732) merged on April 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166732) over 1 week, 56 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dartdoc to 8.3.3
   <sub>[#167231](https://github.com/flutter/flutter/pull/167231) merged on April 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167231) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -106,21 +106,17 @@
   <sub>[#167212](https://github.com/flutter/flutter/pull/167212) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167212) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clarify how/when `FLUTTER_PREBUILT_ENGINE_VERSION` is passed in Flutter's CI
-  <sub>[#167204](https://github.com/flutter/flutter/pull/167204) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167204) over 1 hour, 18 additions and 0 deletions in 1 file</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `tests.version` to fix `customer_testing`.
+  <sub>[#167206](https://github.com/flutter/flutter/pull/167206) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167206) over 57 seconds, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When using --local-web-sdk, use a locally built Dart SDK if one is available
-  <sub>[#166732](https://github.com/flutter/flutter/pull/166732) merged on April 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166732) over 1 week, 56 additions and 7 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed superfluous copy in license checker
   <sub>[#167146](https://github.com/flutter/flutter/pull/167146) merged on April 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167146) over 23 hours, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[MarkZ](https://github.com/Markzipan)** &mdash; Adding macrobenchmarks for DDC
-  <sub>[#166617](https://github.com/flutter/flutter/pull/166617) merged on April 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166617) over 1 week, 89 additions and 5 deletions in 8 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Yegor](https://github.com/yjbanov)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clarify how/when `FLUTTER_PREBUILT_ENGINE_VERSION` is passed in Flutter's CI
+  <sub>[#167204](https://github.com/flutter/flutter/pull/167204) merged on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167204) over 1 hour, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Add buildroot compatibility for HWASAN.
   <sub>[#167133](https://github.com/flutter/flutter/pull/167133) merged on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167133) over 5 hours, 14 additions and 3 deletions in 3 files</sub>
@@ -138,9 +134,17 @@
   <sub>[#167237](https://github.com/flutter/flutter/pull/167237) merged on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167237) over 8 hours, 1 addition and 130 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Adding macrobenchmarks for DDC
+  <sub>[#166617](https://github.com/flutter/flutter/pull/166617) merged on April 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166617) over 1 week, 89 additions and 5 deletions in 8 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Yegor](https://github.com/yjbanov)</sub>
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Include 3.29.3 and 3.29.2 changelog entries to master
   <sub>[#166994](https://github.com/flutter/flutter/pull/166994) merged on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166994) over 2 days, 15 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Dart SDK from 87965ab4864e to 992221a362ec (35 revisions)
+  <sub>[#167243](https://github.com/flutter/flutter/pull/167243) merged on April 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167243) over 1 day, 19 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Removed superfluous copy in license checker (#167146)"
   <sub>[#167246](https://github.com/flutter/flutter/pull/167246) merged on April 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167246) over 15 hours, 2 additions and 2 deletions in 2 files</sub>
