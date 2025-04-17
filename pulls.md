@@ -143,3 +143,6 @@
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Add `CupertinoSlider` haptic feedback<br />
   <sub>[#167362](https://github.com/flutter/flutter/pull/167362) opened on on April 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167362) 123 additions and 10 deletions in 2 files</sub><br />
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Add ktlint test for generated files from templates<br />
+  <sub>[#167378](https://github.com/flutter/flutter/pull/167378) opened on on April 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167378) 112 additions and 37 deletions in 6 files</sub><br />
+
