@@ -6,6 +6,10 @@
 
 41 commits.
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add button icon support for animation duration<br />
+  <sub>[#162667](https://github.com/flutter/flutter/pull/162667) merged on April 15, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/162667) over 2 months, 402 additions and 82 deletions in 11 files</sub><br />
+  <sub>Reviewed by: </sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view theme<br />
   <sub>[#164769](https://github.com/flutter/flutter/pull/164769) merged on April 16, 2025 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/164769) over 1 month, 466 additions and 9 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
@@ -13,10 +17,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Carousel crashes when using PageStorageKey<br />
   <sub>[#166817](https://github.com/flutter/flutter/pull/166817) merged on April 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166817) over 1 week, 42 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add button icon support for animation duration<br />
-  <sub>[#162667](https://github.com/flutter/flutter/pull/162667) merged on April 15, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/162667) over 2 months, 402 additions and 82 deletions in 11 files</sub><br />
-  <sub>Reviewed by: </sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Localization for non zero time in 24 hours format<br />
   <sub>[#164885](https://github.com/flutter/flutter/pull/164885) merged on April 16, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164885) over 1 month, 61 additions and 1 deletion in 2 files</sub><br />
