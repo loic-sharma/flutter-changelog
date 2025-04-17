@@ -773,7 +773,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-13 commits.
+15 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates internal API wrapper to use ProxyApis
   <sub>[#8618](https://github.com/flutter/packages/pull/8618) merged on April 15, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8618) over 2 months, 32682 additions and 33772 deletions in 292 files</sub>
@@ -782,6 +782,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes `loadFlutterAsset` exception and updates native wrapper for `SecTrust` and `SecCertificate`
   <sub>[#9016](https://github.com/flutter/packages/pull/9016) merged on April 14, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9016) over 1 week, 1698 additions and 74 deletions in 26 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [mhahnFr](https://github.com/mhahnFr)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds Kotlin lint tests to example code and fix lints
+  <sub>[#9034](https://github.com/flutter/packages/pull/9034) merged on April 17, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/9034) over 1 week, 833 additions and 709 deletions in 16 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation] enable more than 30 fps
   <sub>[#7466](https://github.com/flutter/packages/pull/7466) merged on April 17, 2025 &mdash; **Small:** [116 comments](https://github.com/flutter/packages/pull/7466) over 7 months, 231 additions and 48 deletions in 10 files</sub>
@@ -806,6 +810,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS`
   <sub>[#8984](https://github.com/flutter/packages/pull/8984) merged on April 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8984) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [shared_preferences] Update AGP to 8.9.1
+  <sub>[#9106](https://github.com/flutter/packages/pull/9106) merged on April 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9106) over 2 hours, 3 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_platform_interface] Adds method to set overscroll mode
   <sub>[#9099](https://github.com/flutter/packages/pull/9099) merged on April 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9099) over 44 minutes, 40 additions and 2 deletions in 6 files</sub>
