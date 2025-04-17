@@ -140,3 +140,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Resolve resolve native Flutter dependencies in Android Studio<br />
   <sub>[#167332](https://github.com/flutter/flutter/pull/167332) opened on on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167332) 19 additions and 10 deletions in 1 file</sub><br />
 
+* **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Remove redundant usematerial3<br />
+  <sub>[#167337](https://github.com/flutter/flutter/pull/167337) opened on on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167337) 2 additions and 2 deletions in 2 files</sub><br />
+
