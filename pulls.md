@@ -143,3 +143,6 @@
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Remove redundant usematerial3<br />
   <sub>[#167337](https://github.com/flutter/flutter/pull/167337) opened on on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167337) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix link to engine docs<br />
+  <sub>[#167346](https://github.com/flutter/flutter/pull/167346) opened on on April 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167346) 10 additions and 10 deletions in 5 files</sub><br />
+
