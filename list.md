@@ -809,7 +809,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-19 commits.
+20 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to control overscrolling
   <sub>[#8451](https://github.com/flutter/packages/pull/8451) merged on April 18, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/8451) over 3 months, 336 additions and 732 deletions in 12 files</sub>
@@ -862,6 +862,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS`
   <sub>[#8984](https://github.com/flutter/packages/pull/8984) merged on April 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8984) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [pigeon] Convert test plugins to SPM
+  <sub>[#9105](https://github.com/flutter/packages/pull/9105) merged on April 18, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/9105) over 22 hours, 255 additions and 69 deletions in 26 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [shared_preferences] Update AGP to 8.9.1
   <sub>[#9106](https://github.com/flutter/packages/pull/9106) merged on April 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9106) over 2 hours, 3 additions and 3 deletions in 3 files</sub>
