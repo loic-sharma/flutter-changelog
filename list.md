@@ -809,7 +809,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-21 commits.
+22 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to control overscrolling
   <sub>[#8451](https://github.com/flutter/packages/pull/8451) merged on April 18, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/8451) over 3 months, 336 additions and 732 deletions in 12 files</sub>
@@ -854,6 +854,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration
   <sub>[#8988](https://github.com/flutter/packages/pull/8988) merged on April 16, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/8988) over 1 week, 301 additions and 60 deletions in 102 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [flutter_svg] feat: Expose the `colorMapper` property in `SvgPicture`
+  <sub>[#9043](https://github.com/flutter/packages/pull/9043) merged on April 18, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9043) over 1 week, 248 additions and 4 deletions in 11 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Brett Morgan](https://github.com/domesticmouse), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds platform implementations to set over-scroll mode
   <sub>[#9101](https://github.com/flutter/packages/pull/9101) merged on April 17, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/9101) over 22 hours, 301 additions and 9 deletions in 18 files</sub>
