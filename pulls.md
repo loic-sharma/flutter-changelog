@@ -150,5 +150,8 @@
   <sub>[#167380](https://github.com/flutter/flutter/pull/167380) opened on on April 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167380) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
-  <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/167393) 6374 additions and 264 deletions in 175 files</sub><br />
+  <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/167393) 6407 additions and 264 deletions in 168 files</sub><br />
+
+* **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog<br />
+  <sub>[#167403](https://github.com/flutter/flutter/pull/167403) opened on on April 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167403) 202 additions and 11 deletions in 4 files</sub><br />
 
