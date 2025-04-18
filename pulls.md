@@ -152,3 +152,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Revert "[Windows] Enable merged platform and UI thread by default"<br />
   <sub>[#167420](https://github.com/flutter/flutter/pull/167420) opened on on April 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167420) 30 additions and 41 deletions in 2 files</sub><br />
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 1:  engine part <br />
+  <sub>[#167421](https://github.com/flutter/flutter/pull/167421) opened on on April 18, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167421) 676 additions and 243 deletions in 16 files</sub><br />
+
