@@ -93,7 +93,7 @@
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Arbitrary format options for localizations generation (#102983)<br />
-  <sub>[#167029](https://github.com/flutter/flutter/pull/167029) opened on on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167029) 222 additions and 14 deletions in 9 files</sub><br />
+  <sub>[#167029](https://github.com/flutter/flutter/pull/167029) opened on on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167029) 229 additions and 14 deletions in 9 files</sub><br />
 
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix visual overlap of transparent routes barrier when using FadeForwardsPageTransitionsBuilder<br />
   <sub>[#167032](https://github.com/flutter/flutter/pull/167032) opened on on April 12, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/167032) 172 additions and 17 deletions in 4 files</sub><br />
@@ -148,4 +148,7 @@
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Update `led` docs<br />
   <sub>[#167380](https://github.com/flutter/flutter/pull/167380) opened on on April 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167380) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
+  <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/167393) 6042 additions and 22 deletions in 105 files</sub><br />
 
