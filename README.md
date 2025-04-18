@@ -1049,7 +1049,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Add `colorist` codelab<br />
-  <sub>[#11916](https://github.com/flutter/website/pull/11916) merged on April 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11916) over 18 hours, 5 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#11916](https://github.com/flutter/website/pull/11916) merged on April 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11916) over 18 hours, 5 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Andrew Brogdon](https://github.com/RedBrogdon), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Only include macOS specific troubleshooting tip if macOS page<br />
