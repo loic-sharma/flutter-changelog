@@ -801,7 +801,11 @@
 
 ### April 12, 2025 to April 18, 2025
 
-18 commits.
+19 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to control overscrolling
+  <sub>[#8451](https://github.com/flutter/packages/pull/8451) merged on April 18, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/8451) over 3 months, 336 additions and 732 deletions in 12 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates internal API wrapper to use ProxyApis
   <sub>[#8618](https://github.com/flutter/packages/pull/8618) merged on April 15, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8618) over 2 months, 32682 additions and 33772 deletions in 292 files</sub>
