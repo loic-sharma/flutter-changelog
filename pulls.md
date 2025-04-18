@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
-  <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
+  <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove AlarmClock from BrowserImageDecoder<br />
   <sub>[#161481](https://github.com/flutter/flutter/pull/161481) opened on on January 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161481) 18 additions and 58 deletions in 1 file</sub><br />
@@ -148,9 +148,6 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move from getByName to getByType<br />
   <sub>[#167415](https://github.com/flutter/flutter/pull/167415) opened on on April 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167415) 3 additions and 5 deletions in 2 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Mark `windows_host_engine_test` flaky<br />
-  <sub>[#167419](https://github.com/flutter/flutter/pull/167419) opened on on April 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167419) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Revert "[Windows] Enable merged platform and UI thread by default"<br />
   <sub>[#167420](https://github.com/flutter/flutter/pull/167420) opened on on April 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167420) 30 additions and 41 deletions in 2 files</sub><br />
