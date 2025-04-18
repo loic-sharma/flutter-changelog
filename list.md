@@ -7,7 +7,7 @@
 59 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Windows] Enable merged platform and UI thread by default
-  <sub>[#163726](https://github.com/flutter/flutter/pull/163726) merged on April 17, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163726) over 1 month, 41 additions and 30 deletions in 2 files</sub>
+  <sub>[#163726](https://github.com/flutter/flutter/pull/163726) merged on April 17, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/163726) over 1 month, 41 additions and 30 deletions in 2 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] close input connection when window/iframe loses focus
