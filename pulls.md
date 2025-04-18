@@ -143,9 +143,6 @@
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Add `CupertinoSlider` haptic feedback<br />
   <sub>[#167362](https://github.com/flutter/flutter/pull/167362) opened on on April 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167362) 123 additions and 10 deletions in 2 files</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Update `led` docs<br />
-  <sub>[#167380](https://github.com/flutter/flutter/pull/167380) opened on on April 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167380) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/167393) 6163 additions and 264 deletions in 167 files</sub><br />
 
