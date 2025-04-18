@@ -107,7 +107,7 @@
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix CarouselView crashes when initlal viewportDimension is 0.0
-  <sub>[#167271](https://github.com/flutter/flutter/pull/167271) merged on April 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167271) over 1 day, 132 additions and 2 deletions in 2 files</sub>
+  <sub>[#167271](https://github.com/flutter/flutter/pull/167271) merged on April 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/167271) over 1 day, 132 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add equality to NoDefaultCupertinoThemeData

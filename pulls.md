@@ -152,3 +152,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move from getByName to getByType<br />
   <sub>[#167415](https://github.com/flutter/flutter/pull/167415) opened on on April 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167415) 3 additions and 5 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Mark `windows_host_engine_test` flaky<br />
+  <sub>[#167419](https://github.com/flutter/flutter/pull/167419) opened on on April 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167419) 1 addition and 0 deletions in 1 file</sub><br />
+
