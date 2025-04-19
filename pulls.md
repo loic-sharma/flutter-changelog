@@ -150,5 +150,5 @@
   <sub>[#167415](https://github.com/flutter/flutter/pull/167415) opened on on April 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167415) 3 additions and 5 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 1:  engine part <br />
-  <sub>[#167421](https://github.com/flutter/flutter/pull/167421) opened on on April 18, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167421) 750 additions and 318 deletions in 18 files</sub><br />
+  <sub>[#167421](https://github.com/flutter/flutter/pull/167421) opened on on April 18, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167421) 799 additions and 318 deletions in 18 files</sub><br />
 
