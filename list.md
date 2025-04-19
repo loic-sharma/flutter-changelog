@@ -573,7 +573,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Convert the Flutter Gradle Plugin entirely to Kotlin source
-  <sub>[#166676](https://github.com/flutter/flutter/pull/166676) merged on April 7, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/166676) over 8 hours, 1747 additions and 1121 deletions in 26 files</sub>
+  <sub>[#166676](https://github.com/flutter/flutter/pull/166676) merged on April 7, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/166676) over 8 hours, 1747 additions and 1121 deletions in 26 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [ash2moon](https://github.com/ash2moon)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Reland "SliverEnsureSemantics (#165589)"
