@@ -26,12 +26,12 @@
   <sub>[#164769](https://github.com/flutter/flutter/pull/164769) merged on April 16, 2025 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/164769) over 1 month, 466 additions and 9 deletions in 6 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[Huy](https://github.com/huycozy)** &mdash; Fix Carousel crashes when using PageStorageKey
-  <sub>[#166817](https://github.com/flutter/flutter/pull/166817) merged on April 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166817) over 1 week, 42 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
 * **[Huy](https://github.com/huycozy)** &mdash; Fix keyboard cover SearchAnchor list results
   <sub>[#165382](https://github.com/flutter/flutter/pull/165382) merged on April 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165382) over 1 month, 44 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix Carousel crashes when using PageStorageKey
+  <sub>[#166817](https://github.com/flutter/flutter/pull/166817) merged on April 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166817) over 1 week, 42 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Localization for non zero time in 24 hours format
