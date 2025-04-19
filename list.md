@@ -861,7 +861,7 @@
 
 ### April 12, 2025 to April 18, 2025
 
-22 commits.
+23 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to control overscrolling
   <sub>[#8451](https://github.com/flutter/packages/pull/8451) merged on April 18, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/8451) over 3 months, 336 additions and 732 deletions in 12 files</sub>
@@ -906,6 +906,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration
   <sub>[#8988](https://github.com/flutter/packages/pull/8988) merged on April 16, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/8988) over 1 week, 301 additions and 60 deletions in 102 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Scrubs pre-SDK-21 Android code
+  <sub>[#9112](https://github.com/flutter/packages/pull/9112) merged on April 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9112) over 23 hours, 136 additions and 136 deletions in 80 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [flutter_svg] feat: Expose the `colorMapper` property in `SvgPicture`
   <sub>[#9043](https://github.com/flutter/packages/pull/9043) merged on April 18, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9043) over 1 week, 248 additions and 4 deletions in 11 files</sub>
