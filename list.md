@@ -899,6 +899,10 @@
   <sub>[#8992](https://github.com/flutter/packages/pull/8992) merged on April 16, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8992) over 1 week, 84 additions and 3 deletions in 6 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Scrubs pre-SDK-21 Android code
+  <sub>[#9112](https://github.com/flutter/packages/pull/9112) merged on April 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9112) over 23 hours, 136 additions and 136 deletions in 80 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [pigeon] Unify iOS and macOS test plugins
   <sub>[#9100](https://github.com/flutter/packages/pull/9100) merged on April 16, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/9100) over 51 minutes, 54 additions and 21931 deletions in 33 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
@@ -906,10 +910,6 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration
   <sub>[#8988](https://github.com/flutter/packages/pull/8988) merged on April 16, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/8988) over 1 week, 301 additions and 60 deletions in 102 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Scrubs pre-SDK-21 Android code
-  <sub>[#9112](https://github.com/flutter/packages/pull/9112) merged on April 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9112) over 23 hours, 136 additions and 136 deletions in 80 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [flutter_svg] feat: Expose the `colorMapper` property in `SvgPicture`
   <sub>[#9043](https://github.com/flutter/packages/pull/9043) merged on April 18, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9043) over 1 week, 248 additions and 4 deletions in 11 files</sub>
