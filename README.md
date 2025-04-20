@@ -940,7 +940,7 @@
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_is] Update iOS SDK to 8.0<br />
-  <sub>[#9081](https://github.com/flutter/packages/pull/9081) merged on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9081) over 21 hours, 7 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#9081](https://github.com/flutter/packages/pull/9081) merged on April 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9081) over 21 hours, 7 additions and 3 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Run config-only build for iOS/macOS native-test<br />
