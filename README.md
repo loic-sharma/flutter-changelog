@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-5 commits.
+6 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turned on preserve bindings to impellerc<br />
   <sub>[#167203](https://github.com/flutter/flutter/pull/167203) merged on April 21, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/167203) over 6 days, 10 additions and 1 deletion in 3 files</sub><br />
@@ -17,6 +17,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Android doctor: more robust `canrun`<br />
   <sub>[#167489](https://github.com/flutter/flutter/pull/167489) merged on April 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167489) over 1 hour, 30 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] removes edge insets from a11y bound calculation<br />
+  <sub>[#167136](https://github.com/flutter/flutter/pull/167136) merged on April 21, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167136) over 1 week, 0 additions and 237 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; Refine developer message for announcement use<br />
   <sub>[#167127](https://github.com/flutter/flutter/pull/167127) merged on April 21, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167127) over 1 week, 5 additions and 1 deletion in 1 file</sub><br />
