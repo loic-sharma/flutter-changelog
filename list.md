@@ -630,7 +630,11 @@
 
 ### April 19, 2025 to April 25, 2025
 
-1 commits.
+2 commits.
+
+* **[Ed Pizzi](https://github.com/edpizzi)** &mdash; [in_app_purchase] Write to the transactions update queue from the main thread
+  <sub>[#9068](https://github.com/flutter/packages/pull/9068) merged on April 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9068) over 1 week, 28 additions and 11 deletions in 5 files</sub>
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add `caseSensitive` to `TypedGoRoute`
   <sub>[#9096](https://github.com/flutter/packages/pull/9096) merged on April 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9096) over 5 days, 63 additions and 1 deletion in 4 files</sub>
