@@ -144,5 +144,5 @@
   <sub>[#167505](https://github.com/flutter/flutter/pull/167505) opened on on April 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167505) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter-3.32-candidate.0] Update Dart revision to 9003f7927a24fd87c34154e04585bfbcfd4d9188<br />
-  <sub>[#167514](https://github.com/flutter/flutter/pull/167514) opened on on April 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167514) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#167514](https://github.com/flutter/flutter/pull/167514) opened on on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167514) 1 addition and 1 deletion in 1 file</sub><br />
 
