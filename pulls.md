@@ -150,5 +150,5 @@
   <sub>[#167442](https://github.com/flutter/flutter/pull/167442) opened on on April 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167442) 120 additions and 2 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove flutter engine repo links<br />
-  <sub>[#167481](https://github.com/flutter/flutter/pull/167481) opened on on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167481) 35 additions and 35 deletions in 13 files</sub><br />
+  <sub>[#167481](https://github.com/flutter/flutter/pull/167481) opened on on April 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167481) 35 additions and 35 deletions in 13 files</sub><br />
 
