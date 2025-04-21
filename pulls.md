@@ -119,9 +119,6 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Clarify deprecation notice for jumpToWithoutSettling in scroll_position.dart<br />
   <sub>[#167200](https://github.com/flutter/flutter/pull/167200) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167200) 8 additions and 2 deletions in 2 files</sub><br />
 
-* **[gbbosak](https://github.com/gbbosak)** &mdash; Add explicit dependency on the syslog shard<br />
-  <sub>[#167210](https://github.com/flutter/flutter/pull/167210) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167210) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Skip writing unchanged registrant files<br />
   <sub>[#167262](https://github.com/flutter/flutter/pull/167262) opened on on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167262) 38 additions and 0 deletions in 2 files</sub><br />
 
