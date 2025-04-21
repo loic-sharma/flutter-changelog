@@ -141,7 +141,7 @@
   <sub>[#167362](https://github.com/flutter/flutter/pull/167362) opened on on April 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167362) 123 additions and 10 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
-  <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167393) 6163 additions and 264 deletions in 167 files</sub><br />
+  <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167393) 6175 additions and 292 deletions in 164 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move from getByName to getByType<br />
   <sub>[#167415](https://github.com/flutter/flutter/pull/167415) opened on on April 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167415) 3 additions and 5 deletions in 2 files</sub><br />
