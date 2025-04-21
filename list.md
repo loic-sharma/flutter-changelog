@@ -47,6 +47,10 @@
   <sub>[#164885](https://github.com/flutter/flutter/pull/164885) merged on April 16, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164885) over 1 month, 61 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition
+  <sub>[#166705](https://github.com/flutter/flutter/pull/166705) merged on April 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166705) over 1 week, 129 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for `theme` and `brightness` properties on `Preview`
   <sub>[#167001](https://github.com/flutter/flutter/pull/167001) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167001) over 3 days, 960 additions and 145 deletions in 56 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
@@ -78,10 +82,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add support for language hints in TextFields (Android only)
   <sub>[#165554](https://github.com/flutter/flutter/pull/165554) merged on April 17, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/165554) over 4 weeks, 223 additions and 9 deletions in 9 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip bottom widgets in nav bar transition
-  <sub>[#166705](https://github.com/flutter/flutter/pull/166705) merged on April 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166705) over 1 week, 129 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update sheet route bottom padding with top padding
   <sub>[#164473](https://github.com/flutter/flutter/pull/164473) merged on April 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164473) over 1 month, 103 additions and 14 deletions in 2 files</sub>
