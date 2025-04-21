@@ -141,5 +141,5 @@
   <sub>[#167481](https://github.com/flutter/flutter/pull/167481) opened on on April 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167481) 35 additions and 35 deletions in 13 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Refine developer message for announcement use<br />
-  <sub>[#167505](https://github.com/flutter/flutter/pull/167505) opened on on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167505) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#167505](https://github.com/flutter/flutter/pull/167505) opened on on April 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167505) 5 additions and 1 deletion in 1 file</sub><br />
 
