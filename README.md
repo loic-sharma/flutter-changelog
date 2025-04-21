@@ -740,9 +740,18 @@
 
 ## flutter/website
 
+### April 19, 2025 to April 25, 2025
+
+1 commits.
+
+* **[Arno Bidet](https://github.com/ArnoBidet)** &mdash; Typo in Data-Layer documentation<br />
+  <sub>[#11917](https://github.com/flutter/website/pull/11917) merged on April 21, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/11917) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 ### April 12, 2025 to April 18, 2025
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add samples index page <br />
   <sub>[#11815](https://github.com/flutter/website/pull/11815) merged on April 15, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/website/pull/11815) over 1 month, 2328 additions and 14 deletions in 19 files</sub><br />
@@ -796,6 +805,8 @@
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add animations codelab to codelabs.yml<br />
   <sub>[#11906](https://github.com/flutter/website/pull/11906) merged on April 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11906) over 20 hours, 13 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
+
+</details>
 
 ### April 5, 2025 to April 11, 2025
 
