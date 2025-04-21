@@ -68,9 +68,6 @@
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix outdated reference to material in WidgetStateMapper's error message<br />
   <sub>[#166816](https://github.com/flutter/flutter/pull/166816) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166816) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[jiancheng](https://github.com/StanleyCocos)** &mdash; feat(SwitchListTile): ensure that 'isThreeLine' can be configured through the theme.<br />
-  <sub>[#166820](https://github.com/flutter/flutter/pull/166820) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166820) 240 additions and 8 deletions in 3 files</sub><br />
-
 * **[jiancheng](https://github.com/StanleyCocos)** &mdash; feat(CheckboxListTile): ensure that 'isThreeLine' can be configured through the theme.<br />
   <sub>[#166826](https://github.com/flutter/flutter/pull/166826) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166826) 240 additions and 8 deletions in 3 files</sub><br />
 
@@ -139,9 +136,6 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/167393) 6175 additions and 292 deletions in 164 files</sub><br />
-
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 1:  engine part <br />
-  <sub>[#167421](https://github.com/flutter/flutter/pull/167421) opened on on April 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167421) 1149 additions and 318 deletions in 19 files</sub><br />
 
 * **[Nasreddine Elghozi](https://github.com/gnassro)** &mdash; Add `rebuildOnlyOnValueChange` parameter to `ValueListenableBuilder`<br />
   <sub>[#167442](https://github.com/flutter/flutter/pull/167442) opened on on April 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167442) 120 additions and 2 deletions in 2 files</sub><br />
