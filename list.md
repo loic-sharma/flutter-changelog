@@ -11,7 +11,7 @@
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] close input connection when window/iframe loses focus
-  <sub>[#166804](https://github.com/flutter/flutter/pull/166804) merged on April 18, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/166804) over 1 week, 227 additions and 24 deletions in 7 files</sub>
+  <sub>[#166804](https://github.com/flutter/flutter/pull/166804) merged on April 18, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/166804) over 1 week, 227 additions and 24 deletions in 7 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add kotlin compatability to build file validation
