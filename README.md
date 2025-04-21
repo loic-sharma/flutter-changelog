@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 19, 2025 to April 25, 2025
+
+1 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Move from getByName to getByType in gradle when fetching androidApp extension. <br />
+  <sub>[#167415](https://github.com/flutter/flutter/pull/167415) merged on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167415) over 2 days, 3 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 ### April 12, 2025 to April 18, 2025
 
-68 commits.
+<details>
+<summary>68 commits...</summary>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Windows] Enable merged platform and UI thread by default<br />
   <sub>[#163726](https://github.com/flutter/flutter/pull/163726) merged on April 17, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/163726) over 1 month, 41 additions and 30 deletions in 2 files</sub><br />
@@ -277,6 +286,8 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Fix regression in NDK version checking<br />
   <sub>[#167011](https://github.com/flutter/flutter/pull/167011) merged on April 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167011) over 2 days, 44 additions and 6 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+</details>
 
 ### April 5, 2025 to April 11, 2025
 
