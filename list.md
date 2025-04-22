@@ -654,7 +654,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-4 commits.
+5 commits.
 
 * **[Andrei Kabylin](https://github.com/sysint64)** &mdash; [vector_graphics_compiler] fix: Stroke opacity not applied
   <sub>[#8986](https://github.com/flutter/packages/pull/8986) merged on April 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8986) over 2 weeks, 78 additions and 2 deletions in 6 files</sub>
@@ -663,6 +663,10 @@
 * **[Ed Pizzi](https://github.com/edpizzi)** &mdash; [in_app_purchase] Write to the transactions update queue from the main thread
   <sub>[#9068](https://github.com/flutter/packages/pull/9068) merged on April 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9068) over 1 week, 28 additions and 11 deletions in 5 files</sub>
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [video_player_web] Fix blank first frame on iOS.
+  <sub>[#9025](https://github.com/flutter/packages/pull/9025) merged on April 22, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9025) over 2 weeks, 45 additions and 7 deletions in 4 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add missing `caseSensitive` parameter to `GoRouteData.$route`
   <sub>[#9126](https://github.com/flutter/packages/pull/9126) merged on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9126) over 9 hours, 32 additions and 1 deletion in 4 files</sub>
