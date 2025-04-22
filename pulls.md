@@ -65,9 +65,6 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver<br />
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166753) 19 additions and 11 deletions in 1 file</sub><br />
 
-* **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix outdated reference to material in WidgetStateMapper's error message<br />
-  <sub>[#166816](https://github.com/flutter/flutter/pull/166816) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166816) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(CheckboxListTile): ensure that 'isThreeLine' can be configured through the theme.<br />
   <sub>[#166826](https://github.com/flutter/flutter/pull/166826) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166826) 240 additions and 8 deletions in 3 files</sub><br />
 
@@ -107,23 +104,11 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update CupertinoSliverNavigationBar Docs<br />
   <sub>[#167148](https://github.com/flutter/flutter/pull/167148) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167148) 200 additions and 0 deletions in 3 files</sub><br />
 
-* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Improve documentation for KeyedSubtree constructor<br />
-  <sub>[#167198](https://github.com/flutter/flutter/pull/167198) opened on on April 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167198) 4 additions and 1 deletion in 1 file</sub><br />
-
-* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Clarify deprecation notice for jumpToWithoutSettling in scroll_position.dart<br />
-  <sub>[#167200](https://github.com/flutter/flutter/pull/167200) opened on on April 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167200) 8 additions and 2 deletions in 2 files</sub><br />
-
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Skip writing unchanged registrant files<br />
   <sub>[#167262](https://github.com/flutter/flutter/pull/167262) opened on on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167262) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix unresponsive input above HtmlElementView in Safari and Firefox.<br />
   <sub>[#167275](https://github.com/flutter/flutter/pull/167275) opened on on April 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167275) 138 additions and 21 deletions in 2 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add opaque, isActive, isFirst, popDisposition aspects for ModalRoute<br />
-  <sub>[#167324](https://github.com/flutter/flutter/pull/167324) opened on on April 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167324) 68 additions and 1 deletion in 2 files</sub><br />
-
-* **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Remove redundant usematerial3<br />
-  <sub>[#167337](https://github.com/flutter/flutter/pull/167337) opened on on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167337) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Add `CupertinoSlider` haptic feedback<br />
   <sub>[#167362](https://github.com/flutter/flutter/pull/167362) opened on on April 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167362) 123 additions and 10 deletions in 2 files</sub><br />
@@ -133,9 +118,6 @@
 
 * **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog<br />
   <sub>[#167403](https://github.com/flutter/flutter/pull/167403) opened on on April 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167403) 75 additions and 13 deletions in 2 files</sub><br />
-
-* **[Nasreddine Elghozi](https://github.com/gnassro)** &mdash; Add `rebuildOnlyOnValueChange` parameter to `ValueListenableBuilder`<br />
-  <sub>[#167442](https://github.com/flutter/flutter/pull/167442) opened on on April 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167442) 120 additions and 2 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove flutter engine repo links<br />
   <sub>[#167481](https://github.com/flutter/flutter/pull/167481) opened on on April 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167481) 35 additions and 35 deletions in 13 files</sub><br />
