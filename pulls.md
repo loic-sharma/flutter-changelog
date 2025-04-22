@@ -122,9 +122,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add opaque, isActive, isFirst, popDisposition aspects for ModalRoute<br />
   <sub>[#167324](https://github.com/flutter/flutter/pull/167324) opened on on April 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167324) 68 additions and 1 deletion in 2 files</sub><br />
 
-* **[René Kilczan](https://github.com/rekire)** &mdash; Resolve resolve native Flutter dependencies in Android Studio<br />
-  <sub>[#167332](https://github.com/flutter/flutter/pull/167332) opened on on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167332) 19 additions and 10 deletions in 1 file</sub><br />
-
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Remove redundant usematerial3<br />
   <sub>[#167337](https://github.com/flutter/flutter/pull/167337) opened on on April 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167337) 2 additions and 2 deletions in 2 files</sub><br />
 
@@ -142,9 +139,6 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add persistentFooterDecoration for scaffold<br />
   <sub>[#167524](https://github.com/flutter/flutter/pull/167524) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167524) 47 additions and 3 deletions in 2 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer impeller context initialization onto the raster thread.<br />
-  <sub>[#167527](https://github.com/flutter/flutter/pull/167527) opened on on April 22, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/167527) 821 additions and 328 deletions in 37 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Support Swift in the iOS embedder<br />
   <sub>[#167530](https://github.com/flutter/flutter/pull/167530) opened on on April 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167530) 1164 additions and 151 deletions in 24 files</sub><br />
