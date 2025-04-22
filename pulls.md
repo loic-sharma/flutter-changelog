@@ -144,7 +144,7 @@
   <sub>[#167524](https://github.com/flutter/flutter/pull/167524) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167524) 47 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer impeller context initialization onto the raster thread.<br />
-  <sub>[#167527](https://github.com/flutter/flutter/pull/167527) opened on on April 22, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/167527) 820 additions and 328 deletions in 37 files</sub><br />
+  <sub>[#167527](https://github.com/flutter/flutter/pull/167527) opened on on April 22, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/167527) 821 additions and 328 deletions in 37 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Support Swift in the iOS embedder<br />
   <sub>[#167530](https://github.com/flutter/flutter/pull/167530) opened on on April 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167530) 1164 additions and 151 deletions in 24 files</sub><br />

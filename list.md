@@ -654,7 +654,11 @@
 
 ### April 19, 2025 to April 25, 2025
 
-5 commits.
+6 commits.
+
+* **[Vikash Dubey](https://github.com/vikdubey)** &mdash; [gis_web] Make maybeEnum more robust in google_identity_services_web shared file.
+  <sub>[#8999](https://github.com/flutter/packages/pull/8999) merged on April 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8999) over 2 weeks, 56 additions and 20 deletions in 8 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Andrei Kabylin](https://github.com/sysint64)** &mdash; [vector_graphics_compiler] fix: Stroke opacity not applied
   <sub>[#8986](https://github.com/flutter/packages/pull/8986) merged on April 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8986) over 2 weeks, 78 additions and 2 deletions in 6 files</sub>
