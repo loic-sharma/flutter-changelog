@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-8 commits.
+9 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`<br />
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move from getByName to getByType in gradle when fetching androidApp extension. <br />
   <sub>[#167415](https://github.com/flutter/flutter/pull/167415) merged on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167415) over 2 days, 3 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart 3.9.0-33.0.dev<br />
+  <sub>[#167513](https://github.com/flutter/flutter/pull/167513) merged on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167513) over 17 hours, 17 additions and 11 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Siva](https://github.com/a-siva), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Increase pinned version of leak tracker to enable access to experimental tracking on web.<br />
   <sub>[#167502](https://github.com/flutter/flutter/pull/167502) merged on April 21, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/167502) over 3 hours, 195 additions and 195 deletions in 49 files</sub><br />
