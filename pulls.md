@@ -140,9 +140,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove flutter engine repo links<br />
   <sub>[#167481](https://github.com/flutter/flutter/pull/167481) opened on on April 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167481) 35 additions and 35 deletions in 13 files</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter-3.32-candidate.0] Update Dart revision to 9003f7927a24fd87c34154e04585bfbcfd4d9188<br />
-  <sub>[#167514](https://github.com/flutter/flutter/pull/167514) opened on on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167514) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; testing: Skip unwind tables?<br />
   <sub>[#167516](https://github.com/flutter/flutter/pull/167516) opened on on April 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167516) 2 additions and 1 deletion in 1 file</sub><br />
 

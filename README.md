@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-6 commits.
+7 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turned on preserve bindings to impellerc<br />
   <sub>[#167203](https://github.com/flutter/flutter/pull/167203) merged on April 21, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/167203) over 6 days, 10 additions and 1 deletion in 3 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move from getByName to getByType in gradle when fetching androidApp extension. <br />
   <sub>[#167415](https://github.com/flutter/flutter/pull/167415) merged on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167415) over 2 days, 3 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Increase pinned version of leak tracker to enable access to experimental tracking on web.<br />
+  <sub>[#167502](https://github.com/flutter/flutter/pull/167502) merged on April 21, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/167502) over 3 hours, 195 additions and 195 deletions in 49 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Android doctor: more robust `canrun`<br />
   <sub>[#167489](https://github.com/flutter/flutter/pull/167489) merged on April 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167489) over 1 hour, 30 additions and 4 deletions in 2 files</sub><br />
@@ -634,7 +638,11 @@
 
 ### April 19, 2025 to April 25, 2025
 
-2 commits.
+3 commits.
+
+* **[Andrei Kabylin](https://github.com/sysint64)** &mdash; [vector_graphics_compiler] fix: Stroke opacity not applied<br />
+  <sub>[#8986](https://github.com/flutter/packages/pull/8986) merged on April 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8986) over 2 weeks, 78 additions and 2 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Ed Pizzi](https://github.com/edpizzi)** &mdash; [in_app_purchase] Write to the transactions update queue from the main thread<br />
   <sub>[#9068](https://github.com/flutter/packages/pull/9068) merged on April 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9068) over 1 week, 28 additions and 11 deletions in 5 files</sub><br />
