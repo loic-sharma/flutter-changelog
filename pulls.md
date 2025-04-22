@@ -146,3 +146,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add persistentFooterDecoration for scaffold<br />
   <sub>[#167524](https://github.com/flutter/flutter/pull/167524) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167524) 45 additions and 1 deletion in 2 files</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Support Swift in the iOS embedder<br />
+  <sub>[#167530](https://github.com/flutter/flutter/pull/167530) opened on on April 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167530) 1163 additions and 149 deletions in 24 files</sub><br />
+
