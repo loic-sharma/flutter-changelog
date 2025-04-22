@@ -677,6 +677,10 @@
   <sub>[#5029](https://github.com/flutter/packages/pull/5029) merged on April 17, 2025 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/5029) over 18 months, 369 additions and 151 deletions in 12 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Adds `caseSensitive` to `GoRoute`
+  <sub>[#8992](https://github.com/flutter/packages/pull/8992) merged on April 16, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8992) over 1 week, 84 additions and 3 deletions in 6 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase] add Storefront.countryCode() and AppStore.sync()
   <sub>[#8900](https://github.com/flutter/packages/pull/8900) merged on April 17, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/8900) over 3 weeks, 497 additions and 27 deletions in 14 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
@@ -692,10 +696,6 @@
 * **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation] enable more than 30 fps
   <sub>[#7466](https://github.com/flutter/packages/pull/7466) merged on April 17, 2025 &mdash; **Small:** [116 comments](https://github.com/flutter/packages/pull/7466) over 7 months, 231 additions and 48 deletions in 10 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Adds `caseSensitive` to `GoRoute`
-  <sub>[#8992](https://github.com/flutter/packages/pull/8992) merged on April 16, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8992) over 1 week, 84 additions and 3 deletions in 6 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Scrubs pre-SDK-21 Android code
   <sub>[#9112](https://github.com/flutter/packages/pull/9112) merged on April 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9112) over 23 hours, 136 additions and 136 deletions in 80 files</sub>
