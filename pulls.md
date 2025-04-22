@@ -149,9 +149,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Support Swift in the iOS embedder<br />
   <sub>[#167530](https://github.com/flutter/flutter/pull/167530) opened on on April 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167530) 1164 additions and 151 deletions in 24 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add InputDecoration.suffixIconGap<br />
-  <sub>[#167558](https://github.com/flutter/flutter/pull/167558) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167558) 115 additions and 2 deletions in 2 files</sub><br />
-
 * **[Rusino](https://github.com/Rusino)** &mdash; Initial<br />
   <sub>[#167559](https://github.com/flutter/flutter/pull/167559) opened on on April 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/167559) 3135 additions and 12 deletions in 20 files</sub><br />
 
