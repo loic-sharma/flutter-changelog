@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-14 commits.
+15 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`<br />
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move from getByName to getByType in gradle when fetching androidApp extension. <br />
   <sub>[#167415](https://github.com/flutter/flutter/pull/167415) merged on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167415) over 2 days, 3 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix casing of error when Dart compiler is interrupted<br />
+  <sub>[#167520](https://github.com/flutter/flutter/pull/167520) merged on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167520) over 20 hours, 6 additions and 6 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart 3.9.0-33.0.dev<br />
   <sub>[#167513](https://github.com/flutter/flutter/pull/167513) merged on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167513) over 17 hours, 17 additions and 11 deletions in 6 files</sub><br />
