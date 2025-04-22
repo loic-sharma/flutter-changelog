@@ -650,7 +650,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-3 commits.
+4 commits.
 
 * **[Andrei Kabylin](https://github.com/sysint64)** &mdash; [vector_graphics_compiler] fix: Stroke opacity not applied<br />
   <sub>[#8986](https://github.com/flutter/packages/pull/8986) merged on April 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8986) over 2 weeks, 78 additions and 2 deletions in 6 files</sub><br />
@@ -659,6 +659,10 @@
 * **[Ed Pizzi](https://github.com/edpizzi)** &mdash; [in_app_purchase] Write to the transactions update queue from the main thread<br />
   <sub>[#9068](https://github.com/flutter/packages/pull/9068) merged on April 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9068) over 1 week, 28 additions and 11 deletions in 5 files</sub><br />
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add missing `caseSensitive` parameter to `GoRouteData.$route`<br />
+  <sub>[#9126](https://github.com/flutter/packages/pull/9126) merged on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9126) over 9 hours, 32 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add `caseSensitive` to `TypedGoRoute`<br />
   <sub>[#9096](https://github.com/flutter/packages/pull/9096) merged on April 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9096) over 5 days, 63 additions and 1 deletion in 4 files</sub><br />
