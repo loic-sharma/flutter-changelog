@@ -57,7 +57,7 @@
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; backfill custom painter semantics properties<br />
-  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) opened on on April 1, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/166375) 358 additions and 22 deletions in 12 files</sub><br />
+  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) opened on on April 1, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/166375) 358 additions and 22 deletions in 12 files</sub><br />
 
 * **[Siva Utukuri](https://github.com/UtukuriSiva)** &mdash; new Widget called hover builder as been created<br />
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
@@ -141,7 +141,7 @@
   <sub>[#167524](https://github.com/flutter/flutter/pull/167524) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167524) 47 additions and 3 deletions in 2 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Support Swift in the iOS embedder<br />
-  <sub>[#167530](https://github.com/flutter/flutter/pull/167530) opened on on April 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167530) 1176 additions and 152 deletions in 25 files</sub><br />
+  <sub>[#167530](https://github.com/flutter/flutter/pull/167530) opened on on April 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167530) 1181 additions and 156 deletions in 26 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Initial<br />
   <sub>[#167559](https://github.com/flutter/flutter/pull/167559) opened on on April 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/167559) 2600 additions and 14 deletions in 20 files</sub><br />
