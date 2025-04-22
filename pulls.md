@@ -143,3 +143,6 @@
 * **[Rusino](https://github.com/Rusino)** &mdash; Initial<br />
   <sub>[#167559](https://github.com/flutter/flutter/pull/167559) opened on on April 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/167559) 2600 additions and 14 deletions in 20 files</sub><br />
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Remove resolve override from MaterialBasedCupertinoThemeData<br />
+  <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167597) 0 additions and 10 deletions in 1 file</sub><br />
+
