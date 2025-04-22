@@ -146,6 +146,3 @@
 * **[Rusino](https://github.com/Rusino)** &mdash; Initial<br />
   <sub>[#167559](https://github.com/flutter/flutter/pull/167559) opened on on April 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/167559) 2600 additions and 14 deletions in 20 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update mockito to 5.17.0 from 4.7.0, prework for android 36 support<br />
-  <sub>[#167573](https://github.com/flutter/flutter/pull/167573) opened on on April 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167573) 15 additions and 120 deletions in 61 files</sub><br />
-
