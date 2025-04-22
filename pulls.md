@@ -54,7 +54,7 @@
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Convert Gradle buildscripts of Android plugin templates from Groovy to Kotlin<br />
-  <sub>[#166312](https://github.com/flutter/flutter/pull/166312) opened on on April 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166312) 16 additions and 18 deletions in 8 files</sub><br />
+  <sub>[#166312](https://github.com/flutter/flutter/pull/166312) opened on on April 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166312) 16 additions and 19 deletions in 8 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; backfill custom painter semantics properties<br />
   <sub>[#166375](https://github.com/flutter/flutter/pull/166375) opened on on April 1, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/166375) 358 additions and 22 deletions in 12 files</sub><br />
