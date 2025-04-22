@@ -4,7 +4,11 @@
 
 ### April 19, 2025 to April 25, 2025
 
-7 commits.
+8 commits.
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
+  <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt), [Matan Lurey](https://github.com/matanlurey), and [1 other](https://github.com/flutter/flutter/pull/160714)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turned on preserve bindings to impellerc
   <sub>[#167203](https://github.com/flutter/flutter/pull/167203) merged on April 21, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/167203) over 6 days, 10 additions and 1 deletion in 3 files</sub>
