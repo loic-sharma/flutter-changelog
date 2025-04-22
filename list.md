@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-9 commits.
+10 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -29,6 +29,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Android doctor: more robust `canrun`
   <sub>[#167489](https://github.com/flutter/flutter/pull/167489) merged on April 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167489) over 1 hour, 30 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use granular png source file lists
+  <sub>[#167550](https://github.com/flutter/flutter/pull/167550) merged on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167550) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] removes edge insets from a11y bound calculation
   <sub>[#167136](https://github.com/flutter/flutter/pull/167136) merged on April 21, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167136) over 1 week, 0 additions and 237 deletions in 2 files</sub>
