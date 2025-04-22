@@ -87,7 +87,7 @@
   <sub>[#167129](https://github.com/flutter/flutter/pull/167129) merged on April 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167129) over 1 day, 884 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
-* **[jiancheng](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
+* **[jcheng](https://github.com/StanleyCocos)** &mdash; fix(CircularProgressIndicator.adaptive): strokeWidth default value<br />
   <sub>[#165370](https://github.com/flutter/flutter/pull/165370) merged on April 17, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/165370) over 1 month, 25 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Vikash Dubey](https://github.com/vikdubey), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
@@ -350,7 +350,7 @@
   <sub>[#165589](https://github.com/flutter/flutter/pull/165589) merged on April 9, 2025 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/165589) over 2 weeks, 547 additions and 195 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[jiancheng](https://github.com/StanleyCocos)** &mdash; fix(ListTileTheme): isThreeLine is missing.<br />
+* **[jcheng](https://github.com/StanleyCocos)** &mdash; fix(ListTileTheme): isThreeLine is missing.<br />
   <sub>[#165481](https://github.com/flutter/flutter/pull/165481) merged on April 9, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/165481) over 2 weeks, 377 additions and 6 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 

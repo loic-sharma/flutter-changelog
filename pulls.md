@@ -68,7 +68,7 @@
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix outdated reference to material in WidgetStateMapper's error message<br />
   <sub>[#166816](https://github.com/flutter/flutter/pull/166816) opened on on April 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166816) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[jiancheng](https://github.com/StanleyCocos)** &mdash; feat(CheckboxListTile): ensure that 'isThreeLine' can be configured through the theme.<br />
+* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(CheckboxListTile): ensure that 'isThreeLine' can be configured through the theme.<br />
   <sub>[#166826](https://github.com/flutter/flutter/pull/166826) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166826) 240 additions and 8 deletions in 3 files</sub><br />
 
 * **[Pavan Kumar](https://github.com/whopavan)** &mdash; Add barrier dismissible for dropdown button and dropdown button form field<br />
@@ -77,7 +77,7 @@
 * **[masato](https://github.com/masal9pse)** &mdash; Add barrierColor property to showCupertinoDialog<br />
   <sub>[#166911](https://github.com/flutter/flutter/pull/166911) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166911) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[jiancheng](https://github.com/StanleyCocos)** &mdash; feat(RadioListTile):ensure that 'isThreeLine' can be configured through the<br />
+* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(RadioListTile):ensure that 'isThreeLine' can be configured through the<br />
   <sub>[#166964](https://github.com/flutter/flutter/pull/166964) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166964) 244 additions and 8 deletions in 3 files</sub><br />
 
 * **[Tosemite](https://github.com/Tosemite)** &mdash; fixed clipping of snack bar when swipe direction is horizontal<br />
