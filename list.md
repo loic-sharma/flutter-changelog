@@ -669,7 +669,7 @@
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [video_player_web] Fix blank first frame on iOS.
-  <sub>[#9025](https://github.com/flutter/packages/pull/9025) merged on April 22, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9025) over 2 weeks, 45 additions and 7 deletions in 4 files</sub>
+  <sub>[#9025](https://github.com/flutter/packages/pull/9025) merged on April 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9025) over 2 weeks, 45 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add missing `caseSensitive` parameter to `GoRouteData.$route`
