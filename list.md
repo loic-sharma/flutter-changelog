@@ -19,7 +19,7 @@
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Increase pinned version of leak tracker to enable access to experimental tracking on web.
-  <sub>[#167502](https://github.com/flutter/flutter/pull/167502) merged on April 21, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/167502) over 3 hours, 195 additions and 195 deletions in 49 files</sub>
+  <sub>[#167502](https://github.com/flutter/flutter/pull/167502) merged on April 21, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/167502) over 3 hours, 195 additions and 195 deletions in 49 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Android doctor: more robust `canrun`
