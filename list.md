@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-16 commits.
+17 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -18,6 +18,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turned on preserve bindings to impellerc
   <sub>[#167203](https://github.com/flutter/flutter/pull/167203) merged on April 21, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/167203) over 6 days, 10 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 1:  engine part 
+  <sub>[#167421](https://github.com/flutter/flutter/pull/167421) merged on April 22, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/167421) over 4 days, 1152 additions and 320 deletions in 20 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Yegor](https://github.com/yjbanov), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Note when `--enable-vmservice` is required and skip otherwise.
   <sub>[#167579](https://github.com/flutter/flutter/pull/167579) merged on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167579) over 2 hours, 20 additions and 1 deletion in 2 files</sub>
