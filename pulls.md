@@ -143,3 +143,6 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; testing: Skip unwind tables?<br />
   <sub>[#167516](https://github.com/flutter/flutter/pull/167516) opened on on April 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167516) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add persistentFooterDecoration for scaffold<br />
+  <sub>[#167524](https://github.com/flutter/flutter/pull/167524) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167524) 45 additions and 1 deletion in 2 files</sub><br />
+
