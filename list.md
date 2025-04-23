@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-24 commits.
+25 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -30,6 +30,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 1:  engine part 
   <sub>[#167421](https://github.com/flutter/flutter/pull/167421) merged on April 22, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/167421) over 4 days, 1152 additions and 320 deletions in 20 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Yegor](https://github.com/yjbanov), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[ash2moon](https://github.com/ash2moon)** &mdash; Remove use of announce in time_picker and remove double Feedback.forTap calls
+  <sub>[#167241](https://github.com/flutter/flutter/pull/167241) merged on April 23, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/167241) over 1 week, 166 additions and 166 deletions in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Disable a couple of entries in `android_java17_dependency_smoke_tests`
   <sub>[#167604](https://github.com/flutter/flutter/pull/167604) merged on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167604) over 52 minutes, 4 additions and 2 deletions in 1 file</sub>
