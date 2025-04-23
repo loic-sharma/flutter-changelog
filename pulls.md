@@ -90,7 +90,7 @@
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/167393) 6179 additions and 292 deletions in 164 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; initial prototype of Stroking paths directly from path iteration<br />
-  <sub>[#167422](https://github.com/flutter/flutter/pull/167422) opened on on April 18, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/167422) 1798 additions and 1079 deletions in 23 files</sub><br />
+  <sub>[#167422](https://github.com/flutter/flutter/pull/167422) opened on on April 18, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/167422) 1886 additions and 1078 deletions in 23 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove flutter engine repo links<br />
   <sub>[#167481](https://github.com/flutter/flutter/pull/167481) opened on on April 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167481) 35 additions and 35 deletions in 13 files</sub><br />

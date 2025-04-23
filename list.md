@@ -10,7 +10,7 @@
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt), [Matan Lurey](https://github.com/matanlurey), and [1 other](https://github.com/flutter/flutter/pull/160714)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make InputDecorator start padding compliant with M3 spec
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make InputDecorator padding compliant with M3 spec
   <sub>[#162157](https://github.com/flutter/flutter/pull/162157) merged on April 22, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/162157) over 2 months, 235 additions and 65 deletions in 5 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/fe74de74-6a6d-4a28-9574-a28f3e5c6084)![image](https://github.com/user-attachments/assets/602554da-dc55-4c24-b7af-1c4951a301e9)</details></sub>
