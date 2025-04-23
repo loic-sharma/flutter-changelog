@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-17 commits.
+18 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -14,6 +14,10 @@
   <sub>[#162157](https://github.com/flutter/flutter/pull/162157) merged on April 22, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/162157) over 2 months, 235 additions and 65 deletions in 5 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/fe74de74-6a6d-4a28-9574-a28f3e5c6084)![image](https://github.com/user-attachments/assets/602554da-dc55-4c24-b7af-1c4951a301e9)</details></sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS] Hide keyboard on hot restart
+  <sub>[#167013](https://github.com/flutter/flutter/pull/167013) merged on April 22, 2025 &mdash; **Medium:** [37 comments](https://github.com/flutter/flutter/pull/167013) over 1 week, 354 additions and 0 deletions in 14 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turned on preserve bindings to impellerc
   <sub>[#167203](https://github.com/flutter/flutter/pull/167203) merged on April 21, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/167203) over 6 days, 10 additions and 1 deletion in 3 files</sub>
