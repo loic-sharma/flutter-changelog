@@ -89,9 +89,6 @@
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix visual overlap of transparent routes barrier when using FadeForwardsPageTransitionsBuilder<br />
   <sub>[#167032](https://github.com/flutter/flutter/pull/167032) opened on on April 12, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/167032) 172 additions and 17 deletions in 4 files</sub><br />
 
-* **[Hamed Esam](https://github.com/Hamed233)** &mdash; fix: Allow scroll events to pass through tooltips on web<br />
-  <sub>[#167045](https://github.com/flutter/flutter/pull/167045) opened on on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167045) 252 additions and 1 deletion in 14 files</sub><br />
-
 * **[.](https://github.com/foxmind1)** &mdash; add onReset callback to FormField<br />
   <sub>[#167060](https://github.com/flutter/flutter/pull/167060) opened on on April 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167060) 11 additions and 0 deletions in 1 file</sub><br />
 
@@ -133,9 +130,6 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Remove resolve override from MaterialBasedCupertinoThemeData<br />
   <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167597) 3 additions and 2 deletions in 1 file</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Slimpeller Android prototype.<br />
-  <sub>[#167608](https://github.com/flutter/flutter/pull/167608) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167608) 247 additions and 23 deletions in 14 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Delay showing tooltip during page transition<br />
   <sub>[#167614](https://github.com/flutter/flutter/pull/167614) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167614) 50 additions and 0 deletions in 2 files</sub><br />

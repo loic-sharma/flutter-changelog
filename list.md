@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-20 commits.
+21 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -38,6 +38,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move from getByName to getByType in gradle when fetching androidApp extension. 
   <sub>[#167415](https://github.com/flutter/flutter/pull/167415) merged on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167415) over 2 days, 3 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make incremental builds faster when tinkering on the compiler.
+  <sub>[#167492](https://github.com/flutter/flutter/pull/167492) merged on April 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167492) over 1 day, 123 additions and 40 deletions in 7 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ignore stdout in WindowsTest.LaunchMainHasNoOutput
   <sub>[#167583](https://github.com/flutter/flutter/pull/167583) merged on April 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167583) over 3 hours, 3 additions and 5 deletions in 1 file</sub>
