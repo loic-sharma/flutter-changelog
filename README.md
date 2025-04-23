@@ -723,11 +723,15 @@
 
 ### April 19, 2025 to April 25, 2025
 
-8 commits.
+9 commits.
 
 * **[Vikash Dubey](https://github.com/vikdubey)** &mdash; [gis_web] Make maybeEnum more robust in google_identity_services_web shared file.<br />
   <sub>[#8999](https://github.com/flutter/packages/pull/8999) merged on April 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8999) over 2 weeks, 56 additions and 20 deletions in 8 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [camerax] Ensure DeviceOrientationManager stops on dispose<br />
+  <sub>[#9141](https://github.com/flutter/packages/pull/9141) merged on April 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9141) over 1 hour, 30 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Andrei Kabylin](https://github.com/sysint64)** &mdash; [vector_graphics_compiler] fix: Stroke opacity not applied<br />
   <sub>[#8986](https://github.com/flutter/packages/pull/8986) merged on April 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8986) over 2 weeks, 78 additions and 2 deletions in 6 files</sub><br />
