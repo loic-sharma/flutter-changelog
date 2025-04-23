@@ -65,9 +65,6 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver<br />
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166753) 19 additions and 11 deletions in 1 file</sub><br />
 
-* **[Pavan Kumar](https://github.com/whopavan)** &mdash; Add barrier dismissible for dropdown button and dropdown button form field<br />
-  <sub>[#166896](https://github.com/flutter/flutter/pull/166896) opened on on April 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166896) 78 additions and 2 deletions in 3 files</sub><br />
-
 * **[masato](https://github.com/masal9pse)** &mdash; Add barrierColor property to showCupertinoDialog<br />
   <sub>[#166911](https://github.com/flutter/flutter/pull/166911) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166911) 2 additions and 1 deletion in 1 file</sub><br />
 
@@ -92,9 +89,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/167393) 6179 additions and 292 deletions in 164 files</sub><br />
 
-* **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog<br />
-  <sub>[#167403](https://github.com/flutter/flutter/pull/167403) opened on on April 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167403) 75 additions and 13 deletions in 2 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; initial prototype of Stroking paths directly from path iteration<br />
   <sub>[#167422](https://github.com/flutter/flutter/pull/167422) opened on on April 18, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/167422) 1798 additions and 1079 deletions in 23 files</sub><br />
 
@@ -109,13 +103,4 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Remove resolve override from MaterialBasedCupertinoThemeData<br />
   <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167597) 3 additions and 2 deletions in 1 file</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Delay showing tooltip during page transition<br />
-  <sub>[#167614](https://github.com/flutter/flutter/pull/167614) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167614) 50 additions and 0 deletions in 2 files</sub><br />
-
-* **[Dipanshu Singh](https://github.com/iamdipanshusingh)** &mdash; fix: outline appearing over child<br />
-  <sub>[#167615](https://github.com/flutter/flutter/pull/167615) opened on on April 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167615) 61 additions and 1 deletion in 6 files</sub><br />
-
-* **[Arthur Monteiro Alves Melo](https://github.com/4rthurmonteiro)** &mdash; Close the search by pressing escape<br />
-  <sub>[#167648](https://github.com/flutter/flutter/pull/167648) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167648) 52 additions and 2 deletions in 2 files</sub><br />
 
