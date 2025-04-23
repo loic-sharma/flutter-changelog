@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-25 commits.
+26 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -42,6 +42,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Note when `--enable-vmservice` is required and skip otherwise.
   <sub>[#167579](https://github.com/flutter/flutter/pull/167579) merged on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167579) over 2 hours, 20 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; EditableText should not allow horizontal scrolling on iOS
+  <sub>[#162841](https://github.com/flutter/flutter/pull/162841) merged on April 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162841) over 2 months, 98 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move from getByName to getByType in gradle when fetching androidApp extension. 
   <sub>[#167415](https://github.com/flutter/flutter/pull/167415) merged on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167415) over 2 days, 3 additions and 5 deletions in 2 files</sub>
