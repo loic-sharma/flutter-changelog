@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-19 commits.
+20 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -58,6 +58,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Android doctor: more robust `canrun`
   <sub>[#167489](https://github.com/flutter/flutter/pull/167489) merged on April 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167489) over 1 hour, 30 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Redistribute iOS TESTOWNERS
+  <sub>[#167562](https://github.com/flutter/flutter/pull/167562) merged on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167562) over 23 hours, 14 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update mockito to 5.17.0 from 4.7.0, prework for android 36 support
   <sub>[#167573](https://github.com/flutter/flutter/pull/167573) merged on April 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167573) over 3 hours, 15 additions and 120 deletions in 61 files</sub>
