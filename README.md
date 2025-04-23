@@ -703,7 +703,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-7 commits.
+8 commits.
 
 * **[Vikash Dubey](https://github.com/vikdubey)** &mdash; [gis_web] Make maybeEnum more robust in google_identity_services_web shared file.<br />
   <sub>[#8999](https://github.com/flutter/packages/pull/8999) merged on April 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8999) over 2 weeks, 56 additions and 20 deletions in 8 files</sub><br />
@@ -712,6 +712,10 @@
 * **[Andrei Kabylin](https://github.com/sysint64)** &mdash; [vector_graphics_compiler] fix: Stroke opacity not applied<br />
   <sub>[#8986](https://github.com/flutter/packages/pull/8986) merged on April 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8986) over 2 weeks, 78 additions and 2 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter_ios] Fix iOS regression where updating a marker hides its info window<br />
+  <sub>[#9127](https://github.com/flutter/packages/pull/9127) merged on April 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9127) over 1 day, 138 additions and 14 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Ed Pizzi](https://github.com/edpizzi)** &mdash; [in_app_purchase] Write to the transactions update queue from the main thread<br />
   <sub>[#9068](https://github.com/flutter/packages/pull/9068) merged on April 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9068) over 1 week, 28 additions and 11 deletions in 5 files</sub><br />
