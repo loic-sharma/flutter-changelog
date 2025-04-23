@@ -65,20 +65,11 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver<br />
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166753) 19 additions and 11 deletions in 1 file</sub><br />
 
-* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(CheckboxListTile): ensure that 'isThreeLine' can be configured through the theme.<br />
-  <sub>[#166826](https://github.com/flutter/flutter/pull/166826) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166826) 240 additions and 8 deletions in 3 files</sub><br />
-
 * **[Pavan Kumar](https://github.com/whopavan)** &mdash; Add barrier dismissible for dropdown button and dropdown button form field<br />
   <sub>[#166896](https://github.com/flutter/flutter/pull/166896) opened on on April 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166896) 78 additions and 2 deletions in 3 files</sub><br />
 
 * **[masato](https://github.com/masal9pse)** &mdash; Add barrierColor property to showCupertinoDialog<br />
-  <sub>[#166911](https://github.com/flutter/flutter/pull/166911) opened on on April 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166911) 2 additions and 1 deletion in 1 file</sub><br />
-
-* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(RadioListTile):ensure that 'isThreeLine' can be configured through the<br />
-  <sub>[#166964](https://github.com/flutter/flutter/pull/166964) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166964) 244 additions and 8 deletions in 3 files</sub><br />
-
-* **[Tosemite](https://github.com/Tosemite)** &mdash; fixed clipping of snack bar when swipe direction is horizontal<br />
-  <sub>[#166974](https://github.com/flutter/flutter/pull/166974) opened on on April 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166974) 23 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#166911](https://github.com/flutter/flutter/pull/166911) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166911) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
@@ -86,17 +77,8 @@
 * **[August](https://github.com/Gustl22)** &mdash; feat: Arbitrary format options for localizations generation (#102983)<br />
   <sub>[#167029](https://github.com/flutter/flutter/pull/167029) opened on on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167029) 229 additions and 14 deletions in 9 files</sub><br />
 
-* **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix visual overlap of transparent routes barrier when using FadeForwardsPageTransitionsBuilder<br />
-  <sub>[#167032](https://github.com/flutter/flutter/pull/167032) opened on on April 12, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/167032) 172 additions and 17 deletions in 4 files</sub><br />
-
 * **[.](https://github.com/foxmind1)** &mdash; add onReset callback to FormField<br />
   <sub>[#167060](https://github.com/flutter/flutter/pull/167060) opened on on April 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167060) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: Add FilledButton to list of recommended material buttons<br />
-  <sub>[#167096](https://github.com/flutter/flutter/pull/167096) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167096) 2 additions and 1 deletion in 1 file</sub><br />
-
-* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Add focus support for CupertinoActionSheetAction #166398<br />
-  <sub>[#167119](https://github.com/flutter/flutter/pull/167119) opened on on April 14, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167119) 1108 additions and 50 deletions in 4 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update CupertinoSliverNavigationBar Docs<br />
   <sub>[#167148](https://github.com/flutter/flutter/pull/167148) opened on on April 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167148) 200 additions and 0 deletions in 3 files</sub><br />
@@ -106,9 +88,6 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix unresponsive input above HtmlElementView in Safari and Firefox.<br />
   <sub>[#167275](https://github.com/flutter/flutter/pull/167275) opened on on April 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167275) 138 additions and 21 deletions in 2 files</sub><br />
-
-* **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Add `CupertinoSlider` haptic feedback<br />
-  <sub>[#167362](https://github.com/flutter/flutter/pull/167362) opened on on April 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167362) 123 additions and 10 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/167393) 6179 additions and 292 deletions in 164 files</sub><br />
