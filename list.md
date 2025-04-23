@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-22 commits.
+23 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -22,6 +22,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turned on preserve bindings to impellerc
   <sub>[#167203](https://github.com/flutter/flutter/pull/167203) merged on April 21, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/167203) over 6 days, 10 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Juergen Werner](https://github.com/pogojotz)** &mdash; Add more visual feedback to Slider with slideOnly interaction
+  <sub>[#165306](https://github.com/flutter/flutter/pull/165306) merged on April 23, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/165306) over 1 month, 71 additions and 17 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 1:  engine part 
   <sub>[#167421](https://github.com/flutter/flutter/pull/167421) merged on April 22, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/167421) over 4 days, 1152 additions and 320 deletions in 20 files</sub>
@@ -699,7 +703,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-6 commits.
+7 commits.
 
 * **[Vikash Dubey](https://github.com/vikdubey)** &mdash; [gis_web] Make maybeEnum more robust in google_identity_services_web shared file.
   <sub>[#8999](https://github.com/flutter/packages/pull/8999) merged on April 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8999) over 2 weeks, 56 additions and 20 deletions in 8 files</sub>
@@ -712,6 +716,10 @@
 * **[Ed Pizzi](https://github.com/edpizzi)** &mdash; [in_app_purchase] Write to the transactions update queue from the main thread
   <sub>[#9068](https://github.com/flutter/packages/pull/9068) merged on April 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9068) over 1 week, 28 additions and 11 deletions in 5 files</sub>
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Redistribute iOS CODEOWNERS
+  <sub>[#9129](https://github.com/flutter/packages/pull/9129) merged on April 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9129) over 1 day, 17 additions and 17 deletions in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [video_player_web] Fix blank first frame on iOS.
   <sub>[#9025](https://github.com/flutter/packages/pull/9025) merged on April 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9025) over 2 weeks, 45 additions and 7 deletions in 4 files</sub>
