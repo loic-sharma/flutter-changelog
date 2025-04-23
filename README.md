@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-18 commits.
+19 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`<br />
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 1:  engine part <br />
   <sub>[#167421](https://github.com/flutter/flutter/pull/167421) merged on April 22, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/167421) over 4 days, 1152 additions and 320 deletions in 20 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Yegor](https://github.com/yjbanov), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Disable a couple of entries in `android_java17_dependency_smoke_tests`<br />
+  <sub>[#167604](https://github.com/flutter/flutter/pull/167604) merged on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167604) over 52 minutes, 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Note when `--enable-vmservice` is required and skip otherwise.<br />
   <sub>[#167579](https://github.com/flutter/flutter/pull/167579) merged on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167579) over 2 hours, 20 additions and 1 deletion in 2 files</sub><br />
