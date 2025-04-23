@@ -113,3 +113,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ICU to c9fb4b3a6fb5<br />
   <sub>[#167691](https://github.com/flutter/flutter/pull/167691) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167691) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Adding support for macrobenchmarking with "flutter run"<br />
+  <sub>[#167692](https://github.com/flutter/flutter/pull/167692) opened on on April 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/167692) 293 additions and 115 deletions in 5 files</sub><br />
+
