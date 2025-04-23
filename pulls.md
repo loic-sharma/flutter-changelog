@@ -143,3 +143,6 @@
 * **[Dipanshu Singh](https://github.com/iamdipanshusingh)** &mdash; fix: outline appearing over child<br />
   <sub>[#167615](https://github.com/flutter/flutter/pull/167615) opened on on April 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167615) 61 additions and 1 deletion in 6 files</sub><br />
 
+* **[Arthur Monteiro Alves Melo](https://github.com/4rthurmonteiro)** &mdash; Close the search by pressing escape<br />
+  <sub>[#167648](https://github.com/flutter/flutter/pull/167648) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167648) 52 additions and 2 deletions in 2 files</sub><br />
+
