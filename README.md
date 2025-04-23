@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-23 commits.
+24 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`<br />
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub><br />
@@ -94,6 +94,10 @@
 * **[gbbosak](https://github.com/gbbosak)** &mdash; Add explicit dependency on the syslog shard<br />
   <sub>[#167210](https://github.com/flutter/flutter/pull/167210) merged on April 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167210) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro integration_ui_driver to be flaky<br />
+  <sub>[#167639](https://github.com/flutter/flutter/pull/167639) merged on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167639) over 10 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Reduce app startup latency by initializing the engine on a separate thread (#166918)"<br />
   <sub>[#167519](https://github.com/flutter/flutter/pull/167519) merged on April 22, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/167519) over 17 hours, 287 additions and 89 deletions in 36 files</sub><br />
