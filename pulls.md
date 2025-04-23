@@ -110,3 +110,6 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior <br />
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) opened on on April 23, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167677) 513 additions and 110 deletions in 6 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update Google testing docs<br />
+  <sub>[#167685](https://github.com/flutter/flutter/pull/167685) opened on on April 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167685) 39 additions and 5 deletions in 3 files</sub><br />
+
