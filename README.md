@@ -851,7 +851,11 @@
 
 ### April 19, 2025 to April 25, 2025
 
-2 commits.
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix banner and add I/O 2025 agenda banner<br />
+  <sub>[#11930](https://github.com/flutter/website/pull/11930) merged on April 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11930) over 17 minutes, 36 additions and 29 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add doc for Google testing queue<br />
   <sub>[#11928](https://github.com/flutter/website/pull/11928) merged on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11928) over 53 minutes, 1 addition and 0 deletions in 1 file</sub><br />
