@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-31 commits.
+32 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -58,6 +58,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Move from getByName to getByType in gradle when fetching androidApp extension. 
   <sub>[#167415](https://github.com/flutter/flutter/pull/167415) merged on April 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167415) over 2 days, 3 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
+  <sub>[#167665](https://github.com/flutter/flutter/pull/167665) merged on April 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167665) over 21 hours, 17 additions and 50 deletions in 13 files</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix a race in ShellTest.EncodeImageFailsWithoutGPUImpeller
   <sub>[#167669](https://github.com/flutter/flutter/pull/167669) merged on April 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167669) over 4 hours, 10 additions and 7 deletions in 1 file</sub>
