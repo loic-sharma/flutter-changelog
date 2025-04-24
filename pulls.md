@@ -119,3 +119,6 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Clip.None Docs<br />
   <sub>[#167695](https://github.com/flutter/flutter/pull/167695) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167695) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add collapsedOpacity for FlexibleSpaceBar<br />
+  <sub>[#167705](https://github.com/flutter/flutter/pull/167705) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167705) 47 additions and 2 deletions in 2 files</sub><br />
+
