@@ -49,7 +49,7 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Yegor](https://github.com/yjbanov), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Adds oval shortcut to `DisplayListMatrixClipState::clip{RRect,RSuperellipse}` <br />
-  <sub>[#164519](https://github.com/flutter/flutter/pull/164519) merged on April 24, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/164519) over 1 month, 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#164519](https://github.com/flutter/flutter/pull/164519) merged on April 24, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/164519) over 1 month, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; Remove use of announce in time_picker and remove double Feedback.forTap calls<br />

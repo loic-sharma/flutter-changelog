@@ -116,9 +116,9 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Test changing default `selectionHeightStyle`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167762) 14 additions and 11 deletions in 6 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor more logic from radio and cupertino radio<br />
-  <sub>[#167764](https://github.com/flutter/flutter/pull/167764) opened on on April 24, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/167764) 407 additions and 307 deletions in 6 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer impeller context initialization onto the raster thread. <br />
   <sub>[#167765](https://github.com/flutter/flutter/pull/167765) opened on on April 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167765) 949 additions and 349 deletions in 39 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 3: framework part<br />
+  <sub>[#167771](https://github.com/flutter/flutter/pull/167771) opened on on April 24, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/167771) 235 additions and 134 deletions in 6 files</sub><br />
 
