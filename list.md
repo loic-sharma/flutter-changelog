@@ -36,7 +36,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer impeller context initialization onto the raster thread.
-  <sub>[#167527](https://github.com/flutter/flutter/pull/167527) merged on April 24, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/167527) over 2 days, 941 additions and 348 deletions in 38 files</sub>
+  <sub>[#167527](https://github.com/flutter/flutter/pull/167527) merged on April 24, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/167527) over 2 days, 941 additions and 348 deletions in 38 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 1:  engine part 
