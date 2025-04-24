@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-29 commits.
+30 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`<br />
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub><br />
@@ -38,6 +38,10 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; Remove use of announce in time_picker and remove double Feedback.forTap calls<br />
   <sub>[#167241](https://github.com/flutter/flutter/pull/167241) merged on April 23, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/167241) over 1 week, 166 additions and 166 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Unbreak https://github.com/flutter/flutter/pull/164034<br />
+  <sub>[#167689](https://github.com/flutter/flutter/pull/167689) merged on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167689) over 15 hours, 17 additions and 18 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Disable a couple of entries in `android_java17_dependency_smoke_tests`<br />
   <sub>[#167604](https://github.com/flutter/flutter/pull/167604) merged on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167604) over 52 minutes, 4 additions and 2 deletions in 1 file</sub><br />
