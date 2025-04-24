@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-30 commits.
+31 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -86,6 +86,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Android doctor: more robust `canrun`
   <sub>[#167489](https://github.com/flutter/flutter/pull/167489) merged on April 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167489) over 1 hour, 30 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove flutter engine repo links
+  <sub>[#167481](https://github.com/flutter/flutter/pull/167481) merged on April 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167481) over 3 days, 35 additions and 35 deletions in 13 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: Add FilledButton to list of recommended material buttons
   <sub>[#167096](https://github.com/flutter/flutter/pull/167096) merged on April 23, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167096) over 1 week, 2 additions and 1 deletion in 1 file</sub>
