@@ -28,6 +28,10 @@
   <sub>[#167203](https://github.com/flutter/flutter/pull/167203) merged on April 21, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/167203) over 6 days, 10 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer impeller context initialization onto the raster thread.<br />
+  <sub>[#167527](https://github.com/flutter/flutter/pull/167527) merged on April 24, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/167527) over 2 days, 941 additions and 348 deletions in 38 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles<br />
   <sub>[#165596](https://github.com/flutter/flutter/pull/165596) merged on April 24, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/165596) over 1 month, 448 additions and 334 deletions in 8 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -39,10 +43,6 @@
 * **[Juergen Werner](https://github.com/pogojotz)** &mdash; Add more visual feedback to Slider with slideOnly interaction<br />
   <sub>[#165306](https://github.com/flutter/flutter/pull/165306) merged on April 23, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/165306) over 1 month, 71 additions and 17 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer impeller context initialization onto the raster thread.<br />
-  <sub>[#167527](https://github.com/flutter/flutter/pull/167527) merged on April 24, 2025 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/167527) over 2 days, 941 additions and 348 deletions in 38 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 1:  engine part <br />
   <sub>[#167421](https://github.com/flutter/flutter/pull/167421) merged on April 22, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/167421) over 4 days, 1152 additions and 320 deletions in 20 files</sub><br />
