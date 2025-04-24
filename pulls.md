@@ -113,7 +113,7 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Test changing default `selectionHeightStyle`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167762) 14 additions and 11 deletions in 6 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer impeller context initialization onto the raster thread. <br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: defer impeller context initialization onto the raster thread. <br />
   <sub>[#167765](https://github.com/flutter/flutter/pull/167765) opened on on April 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167765) 951 additions and 350 deletions in 40 files</sub><br />
 
 * **[Mohamed Amara](https://github.com/mohamedamara)** &mdash; Add option to hide trailing icon in DropdownMenu<br />
