@@ -80,9 +80,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add persistentFooterDecoration for scaffold<br />
   <sub>[#167524](https://github.com/flutter/flutter/pull/167524) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167524) 47 additions and 3 deletions in 2 files</sub><br />
 
-* **[Rusino](https://github.com/Rusino)** &mdash; Initial<br />
-  <sub>[#167559](https://github.com/flutter/flutter/pull/167559) opened on on April 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/167559) 2631 additions and 11 deletions in 20 files</sub><br />
-
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Resolve Cupertino textstyle in MaterialBasedCupertinoThemeData<br />
   <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167597) 4 additions and 2 deletions in 1 file</sub><br />
 

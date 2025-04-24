@@ -768,11 +768,15 @@
 
 ### April 19, 2025 to April 25, 2025
 
-9 commits.
+10 commits.
 
 * **[Vikash Dubey](https://github.com/vikdubey)** &mdash; [gis_web] Make maybeEnum more robust in google_identity_services_web shared file.
   <sub>[#8999](https://github.com/flutter/packages/pull/8999) merged on April 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8999) over 2 weeks, 56 additions and 20 deletions in 8 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][camera_android_camerax][interactive_media_ads] Updates pigeon to 25.3.1 to fix Kotlin lints
+  <sub>[#9135](https://github.com/flutter/packages/pull/9135) merged on April 24, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9135) over 1 day, 1669 additions and 1369 deletions in 19 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [camerax] Ensure DeviceOrientationManager stops on dispose
   <sub>[#9141](https://github.com/flutter/packages/pull/9141) merged on April 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9141) over 1 hour, 30 additions and 1 deletion in 4 files</sub>
