@@ -116,3 +116,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add assert for index parameter in IndexedStack.<br />
   <sub>[#167757](https://github.com/flutter/flutter/pull/167757) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167757) 52 additions and 1 deletion in 2 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Test changing default `selectionHeightStyle`<br />
+  <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167762) 14 additions and 11 deletions in 6 files</sub><br />
+
