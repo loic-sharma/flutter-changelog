@@ -66,7 +66,7 @@
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166753) 19 additions and 11 deletions in 1 file</sub><br />
 
 * **[masato](https://github.com/masal9pse)** &mdash; Add barrierColor property to showCupertinoDialog<br />
-  <sub>[#166911](https://github.com/flutter/flutter/pull/166911) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166911) 48 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#166911](https://github.com/flutter/flutter/pull/166911) opened on on April 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166911) 54 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
