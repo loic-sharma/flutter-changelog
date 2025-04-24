@@ -119,3 +119,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor more logic from radio and cupertino radio<br />
   <sub>[#167764](https://github.com/flutter/flutter/pull/167764) opened on on April 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167764) 407 additions and 307 deletions in 6 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer impeller context initialization onto the raster thread. <br />
+  <sub>[#167765](https://github.com/flutter/flutter/pull/167765) opened on on April 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167765) 949 additions and 349 deletions in 39 files</sub><br />
+
