@@ -116,3 +116,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Test changing default `selectionHeightStyle`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167762) 14 additions and 11 deletions in 6 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor more logic from radio and cupertino radio<br />
+  <sub>[#167764](https://github.com/flutter/flutter/pull/167764) opened on on April 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167764) 407 additions and 307 deletions in 6 files</sub><br />
+
