@@ -119,3 +119,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add collapsedOpacity for FlexibleSpaceBar<br />
   <sub>[#167705](https://github.com/flutter/flutter/pull/167705) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167705) 47 additions and 2 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Unbreak https://github.com/flutter/flutter/pull/164034<br />
+  <sub>[#167736](https://github.com/flutter/flutter/pull/167736) opened on on April 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167736) 17 additions and 18 deletions in 3 files</sub><br />
+
