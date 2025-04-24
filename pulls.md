@@ -116,3 +116,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Implement sensitive content<br />
   <sub>[#167747](https://github.com/flutter/flutter/pull/167747) opened on on April 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/167747) 3976 additions and 7 deletions in 20 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add assert for index parameter in IndexedStack.<br />
+  <sub>[#167757](https://github.com/flutter/flutter/pull/167757) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167757) 52 additions and 1 deletion in 2 files</sub><br />
+
