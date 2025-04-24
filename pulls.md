@@ -89,8 +89,8 @@
 * **[Rusino](https://github.com/Rusino)** &mdash; Initial<br />
   <sub>[#167559](https://github.com/flutter/flutter/pull/167559) opened on on April 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/167559) 2631 additions and 11 deletions in 20 files</sub><br />
 
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Remove resolve override from MaterialBasedCupertinoThemeData<br />
-  <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167597) 3 additions and 2 deletions in 1 file</sub><br />
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Resolve Cupertino textstyle in MaterialBasedCupertinoThemeData<br />
+  <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167597) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Improve FlutterVersion docs<br />
   <sub>[#167674](https://github.com/flutter/flutter/pull/167674) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167674) 9 additions and 5 deletions in 1 file</sub><br />
