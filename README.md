@@ -4,7 +4,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-32 commits.
+34 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`<br />
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub><br />
@@ -23,6 +23,10 @@
   <sub>[#167203](https://github.com/flutter/flutter/pull/167203) merged on April 21, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/167203) over 6 days, 10 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles<br />
+  <sub>[#165596](https://github.com/flutter/flutter/pull/165596) merged on April 24, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/165596) over 1 month, 448 additions and 334 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove Robolectric.setupActivity from engine junit tests<br />
   <sub>[#167607](https://github.com/flutter/flutter/pull/167607) merged on April 24, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/167607) over 1 day, 1547 additions and 1361 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
@@ -39,13 +43,17 @@
   <sub>[#167241](https://github.com/flutter/flutter/pull/167241) merged on April 23, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/167241) over 1 week, 166 additions and 166 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Disable a couple of entries in `android_java17_dependency_smoke_tests`<br />
+  <sub>[#167604](https://github.com/flutter/flutter/pull/167604) merged on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167604) over 52 minutes, 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Unbreak https://github.com/flutter/flutter/pull/164034<br />
   <sub>[#167689](https://github.com/flutter/flutter/pull/167689) merged on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167689) over 15 hours, 17 additions and 18 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Disable a couple of entries in `android_java17_dependency_smoke_tests`<br />
-  <sub>[#167604](https://github.com/flutter/flutter/pull/167604) merged on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167604) over 52 minutes, 4 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Tree-hygiene.md`<br />
+  <sub>[#167699](https://github.com/flutter/flutter/pull/167699) merged on April 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167699) over 14 hours, 6 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Note when `--enable-vmservice` is required and skip otherwise.<br />
   <sub>[#167579](https://github.com/flutter/flutter/pull/167579) merged on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167579) over 2 hours, 20 additions and 1 deletion in 2 files</sub><br />
@@ -91,10 +99,6 @@
   <sub>[#167489](https://github.com/flutter/flutter/pull/167489) merged on April 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167489) over 1 hour, 30 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove flutter engine repo links<br />
-  <sub>[#167481](https://github.com/flutter/flutter/pull/167481) merged on April 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167481) over 3 days, 35 additions and 35 deletions in 13 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
 * **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: Add FilledButton to list of recommended material buttons<br />
   <sub>[#167096](https://github.com/flutter/flutter/pull/167096) merged on April 23, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167096) over 1 week, 2 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -126,6 +130,10 @@
 * **[gbbosak](https://github.com/gbbosak)** &mdash; Add explicit dependency on the syslog shard<br />
   <sub>[#167210](https://github.com/flutter/flutter/pull/167210) merged on April 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167210) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove flutter engine repo links<br />
+  <sub>[#167481](https://github.com/flutter/flutter/pull/167481) merged on April 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167481) over 3 days, 35 additions and 35 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro integration_ui_driver to be flaky<br />
   <sub>[#167639](https://github.com/flutter/flutter/pull/167639) merged on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167639) over 10 hours, 1 addition and 0 deletions in 1 file</sub><br />
