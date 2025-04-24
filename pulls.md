@@ -113,3 +113,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Unbreak https://github.com/flutter/flutter/pull/164034<br />
   <sub>[#167736](https://github.com/flutter/flutter/pull/167736) opened on on April 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167736) 17 additions and 18 deletions in 3 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Implement sensitive content<br />
+  <sub>[#167747](https://github.com/flutter/flutter/pull/167747) opened on on April 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/167747) 3976 additions and 7 deletions in 20 files</sub><br />
+
