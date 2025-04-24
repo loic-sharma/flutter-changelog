@@ -903,11 +903,27 @@
 
 ### April 19, 2025 to April 25, 2025
 
-3 commits.
+7 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dependencies and code for main compatibility
+  <sub>[#11922](https://github.com/flutter/website/pull/11922) merged on April 24, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11922) over 2 days, 344 additions and 352 deletions in 11 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Create an index to contributing to Flutter
+  <sub>[#11921](https://github.com/flutter/website/pull/11921) merged on April 24, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11921) over 2 days, 478 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add doc for Google testing queue
   <sub>[#11928](https://github.com/flutter/website/pull/11928) merged on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11928) over 53 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix PS uninstall instructions
+  <sub>[#11927](https://github.com/flutter/website/pull/11927) merged on April 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11927) over 1 day, 18 additions and 18 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up styling of 404 page
+  <sub>[#11931](https://github.com/flutter/website/pull/11931) merged on April 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11931) over 14 hours, 3 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix banner and add I/O 2025 agenda banner
   <sub>[#11930](https://github.com/flutter/website/pull/11930) merged on April 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11930) over 17 minutes, 36 additions and 29 deletions in 7 files</sub>
