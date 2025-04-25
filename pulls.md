@@ -125,6 +125,3 @@
 * **[toneyzeng](https://github.com/toneyzeng)** &mdash; Fix: Resolved a memory error caused by incompatible std::map implementations when multiple plugins were compiled with different C++ standards.<br />
   <sub>[#167804](https://github.com/flutter/flutter/pull/167804) opened on on April 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167804) 114 additions and 17 deletions in 2 files</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement callbacks<br />
-  <sub>[#167806](https://github.com/flutter/flutter/pull/167806) opened on on April 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/167806) 701 additions and 36 deletions in 5 files</sub><br />
-
