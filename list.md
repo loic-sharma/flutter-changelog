@@ -29,7 +29,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] defer impeller context initialization onto the raster thread.
-  <sub>[#167527](https://github.com/flutter/flutter/pull/167527) merged on April 24, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/167527) over 2 days, 941 additions and 348 deletions in 38 files</sub>
+  <sub>[#167527](https://github.com/flutter/flutter/pull/167527) merged on April 24, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/167527) over 2 days, 941 additions and 348 deletions in 38 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles
