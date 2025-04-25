@@ -105,7 +105,7 @@
   <sub>[#167757](https://github.com/flutter/flutter/pull/167757) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167757) 52 additions and 1 deletion in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Test changing default `selectionHeightStyle`<br />
-  <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167762) 23 additions and 18 deletions in 8 files</sub><br />
+  <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167762) 23 additions and 18 deletions in 8 files</sub><br />
 
 * **[Mohamed Amara](https://github.com/mohamedamara)** &mdash; Add option to hide trailing icon in DropdownMenu<br />
   <sub>[#167782](https://github.com/flutter/flutter/pull/167782) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167782) 53 additions and 3 deletions in 2 files</sub><br />
