@@ -125,6 +125,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add height and width aspects to MediaQuery.<br />
   <sub>[#167829](https://github.com/flutter/flutter/pull/167829) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167829) 130 additions and 0 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Move `backfill: "false"` out of properties, make it a boolean.<br />
-  <sub>[#167831](https://github.com/flutter/flutter/pull/167831) opened on on April 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167831) 4 additions and 4 deletions in 2 files</sub><br />
-
