@@ -116,3 +116,6 @@
 * **[Thomas Devaux](https://github.com/tdevaux)** &mdash; Fix crash when 'ga' locale is used<br />
   <sub>[#167786](https://github.com/flutter/flutter/pull/167786) opened on on April 25, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/167786) 772 additions and 612 deletions in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add full screen dialog support for dialog routes<br />
+  <sub>[#167794](https://github.com/flutter/flutter/pull/167794) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167794) 66 additions and 1 deletion in 4 files</sub><br />
+
