@@ -126,5 +126,8 @@
   <sub>[#167829](https://github.com/flutter/flutter/pull/167829) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167829) 130 additions and 0 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Move `backfill: "false"` out of properties, make it a boolean.<br />
-  <sub>[#167831](https://github.com/flutter/flutter/pull/167831) opened on on April 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167831) 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#167831](https://github.com/flutter/flutter/pull/167831) opened on on April 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167831) 4 additions and 4 deletions in 2 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Drop iOS 13.0 @available checks<br />
+  <sub>[#167833](https://github.com/flutter/flutter/pull/167833) opened on on April 25, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/167833) 113 additions and 275 deletions in 13 files</sub><br />
 
