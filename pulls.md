@@ -122,9 +122,6 @@
 * **[toneyzeng](https://github.com/toneyzeng)** &mdash; Fix: Resolved a memory error caused by incompatible std::map implementations when multiple plugins were compiled with different C++ standards.<br />
   <sub>[#167804](https://github.com/flutter/flutter/pull/167804) opened on on April 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167804) 114 additions and 17 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `backfill: "false"` out of properties, make it a boolean.<br />
-  <sub>[#167820](https://github.com/flutter/flutter/pull/167820) opened on on April 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167820) 4 additions and 4 deletions in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add height and width aspects to MediaQuery.<br />
   <sub>[#167829](https://github.com/flutter/flutter/pull/167829) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167829) 130 additions and 0 deletions in 2 files</sub><br />
 
