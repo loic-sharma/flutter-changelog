@@ -125,3 +125,6 @@
 * **[toneyzeng](https://github.com/toneyzeng)** &mdash; Fix: Resolved a memory error caused by incompatible std::map implementations when multiple plugins were compiled with different C++ standards.<br />
   <sub>[#167804](https://github.com/flutter/flutter/pull/167804) opened on on April 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167804) 114 additions and 17 deletions in 2 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Sc try1<br />
+  <sub>[#167815](https://github.com/flutter/flutter/pull/167815) opened on on April 25, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/167815) 3976 additions and 7 deletions in 20 files</sub><br />
+
