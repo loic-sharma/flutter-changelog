@@ -936,7 +936,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-9 commits.
+10 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dependencies and code for main compatibility
   <sub>[#11922](https://github.com/flutter/website/pull/11922) merged on April 24, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11922) over 2 days, 344 additions and 352 deletions in 11 files</sub>
@@ -964,6 +964,10 @@
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Remove hardware requirements from install docs
   <sub>[#11935](https://github.com/flutter/website/pull/11935) merged on April 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11935) over 12 hours, 10 additions and 80 deletions in 4 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding new book
+  <sub>[#11934](https://github.com/flutter/website/pull/11934) merged on April 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11934) over 15 hours, 8 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Mention that breaking change docs aren't kept up to date

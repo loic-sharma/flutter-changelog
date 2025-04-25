@@ -119,3 +119,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add full screen dialog support for dialog routes<br />
   <sub>[#167794](https://github.com/flutter/flutter/pull/167794) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167794) 66 additions and 1 deletion in 4 files</sub><br />
 
+* **[toneyzeng](https://github.com/toneyzeng)** &mdash; Fix: Resolved a memory error caused by incompatible std::map implementations when multiple plugins were compiled with different C++ standards.<br />
+  <sub>[#167803](https://github.com/flutter/flutter/pull/167803) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167803) 114 additions and 17 deletions in 2 files</sub><br />
+
+* **[toneyzeng](https://github.com/toneyzeng)** &mdash; Fix: Resolved a memory error caused by incompatible std::map implementations when multiple plugins were compiled with different C++ standards.<br />
+  <sub>[#167804](https://github.com/flutter/flutter/pull/167804) opened on on April 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167804) 114 additions and 17 deletions in 2 files</sub><br />
+
