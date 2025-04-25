@@ -954,6 +954,10 @@
   <sub>[#11928](https://github.com/flutter/website/pull/11928) merged on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11928) over 53 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Remove hardware requirements from install docs
+  <sub>[#11935](https://github.com/flutter/website/pull/11935) merged on April 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11935) over 12 hours, 10 additions and 80 deletions in 4 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix PS uninstall instructions
   <sub>[#11927](https://github.com/flutter/website/pull/11927) merged on April 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11927) over 1 day, 18 additions and 18 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
@@ -965,10 +969,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix banner and add I/O 2025 agenda banner
   <sub>[#11930](https://github.com/flutter/website/pull/11930) merged on April 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11930) over 17 minutes, 36 additions and 29 deletions in 7 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
-
-* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Remove hardware requirements from install docs
-  <sub>[#11935](https://github.com/flutter/website/pull/11935) merged on April 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11935) over 12 hours, 10 additions and 80 deletions in 4 files</sub>
-  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding new book
   <sub>[#11934](https://github.com/flutter/website/pull/11934) merged on April 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11934) over 15 hours, 8 additions and 1 deletion in 3 files</sub>
