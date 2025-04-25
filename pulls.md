@@ -65,6 +65,9 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver<br />
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166753) 19 additions and 11 deletions in 1 file</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Add a telemetry event to track SwiftPM migration<br />
+  <sub>[#166773](https://github.com/flutter/flutter/pull/166773) opened on on April 8, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/166773) 268 additions and 62 deletions in 3 files</sub><br />
+
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
 
@@ -124,4 +127,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add height and width aspects to MediaQuery.<br />
   <sub>[#167829](https://github.com/flutter/flutter/pull/167829) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167829) 130 additions and 0 deletions in 2 files</sub><br />
+
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix ListTiles theme override<br />
+  <sub>[#167857](https://github.com/flutter/flutter/pull/167857) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167857) 51 additions and 1 deletion in 2 files</sub><br />
 
