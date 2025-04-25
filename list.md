@@ -936,7 +936,7 @@
 
 ### April 19, 2025 to April 25, 2025
 
-7 commits.
+9 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dependencies and code for main compatibility
   <sub>[#11922](https://github.com/flutter/website/pull/11922) merged on April 24, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11922) over 2 days, 344 additions and 352 deletions in 11 files</sub>
@@ -961,6 +961,14 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix banner and add I/O 2025 agenda banner
   <sub>[#11930](https://github.com/flutter/website/pull/11930) merged on April 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11930) over 17 minutes, 36 additions and 29 deletions in 7 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Remove hardware requirements from install docs
+  <sub>[#11935](https://github.com/flutter/website/pull/11935) merged on April 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11935) over 12 hours, 10 additions and 80 deletions in 4 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Mention that breaking change docs aren't kept up to date
+  <sub>[#11936](https://github.com/flutter/website/pull/11936) merged on April 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11936) over 10 hours, 21 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Arno Bidet](https://github.com/ArnoBidet)** &mdash; Typo in Data-Layer documentation
   <sub>[#11917](https://github.com/flutter/website/pull/11917) merged on April 21, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/11917) over 3 days, 1 addition and 1 deletion in 1 file</sub>
