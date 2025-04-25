@@ -116,3 +116,6 @@
 * **[Mohamed Amara](https://github.com/mohamedamara)** &mdash; Add option to hide trailing icon in DropdownMenu<br />
   <sub>[#167782](https://github.com/flutter/flutter/pull/167782) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167782) 53 additions and 3 deletions in 2 files</sub><br />
 
+* **[Thomas Devaux](https://github.com/tdevaux)** &mdash; Fix crash when 'ga' locale is used<br />
+  <sub>[#167786](https://github.com/flutter/flutter/pull/167786) opened on on April 25, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/167786) 772 additions and 612 deletions in 1 file</sub><br />
+
