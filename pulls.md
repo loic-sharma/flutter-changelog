@@ -57,7 +57,7 @@
   <sub>[#166312](https://github.com/flutter/flutter/pull/166312) opened on on April 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/166312) 16 additions and 19 deletions in 8 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; backfill custom painter semantics properties<br />
-  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) opened on on April 1, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/166375) 358 additions and 22 deletions in 12 files</sub><br />
+  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) opened on on April 1, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/166375) 358 additions and 22 deletions in 12 files</sub><br />
 
 * **[Siva Utukuri](https://github.com/UtukuriSiva)** &mdash; new Widget called hover builder as been created<br />
   <sub>[#166650](https://github.com/flutter/flutter/pull/166650) opened on on April 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166650) 72 additions and 0 deletions in 2 files</sub><br />
