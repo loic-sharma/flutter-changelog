@@ -90,7 +90,7 @@
   <sub>[#167674](https://github.com/flutter/flutter/pull/167674) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167674) 9 additions and 5 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update Google testing docs<br />
-  <sub>[#167685](https://github.com/flutter/flutter/pull/167685) opened on on April 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167685) 43 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#167685](https://github.com/flutter/flutter/pull/167685) opened on on April 23, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167685) 43 additions and 6 deletions in 3 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ICU to c9fb4b3a6fb5<br />
   <sub>[#167691](https://github.com/flutter/flutter/pull/167691) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167691) 2 additions and 1 deletion in 2 files</sub><br />
