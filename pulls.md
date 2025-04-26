@@ -111,7 +111,7 @@
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167762) 23 additions and 18 deletions in 8 files</sub><br />
 
 * **[Mohamed Amara](https://github.com/mohamedamara)** &mdash; Add option to hide trailing icon in DropdownMenu<br />
-  <sub>[#167782](https://github.com/flutter/flutter/pull/167782) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167782) 53 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#167782](https://github.com/flutter/flutter/pull/167782) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167782) 76 additions and 17 deletions in 2 files</sub><br />
 
 * **[Thomas Devaux](https://github.com/tdevaux)** &mdash; Fix crash when 'ga' locale is used<br />
   <sub>[#167786](https://github.com/flutter/flutter/pull/167786) opened on on April 25, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/167786) 772 additions and 612 deletions in 1 file</sub><br />
@@ -130,4 +130,7 @@
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix ListTiles theme override<br />
   <sub>[#167857](https://github.com/flutter/flutter/pull/167857) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167857) 51 additions and 1 deletion in 2 files</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render rects/ovals/rrects as path sources<br />
+  <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167863) 207 additions and 34 deletions in 14 files</sub><br />
 
