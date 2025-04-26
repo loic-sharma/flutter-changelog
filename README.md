@@ -81,7 +81,7 @@
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix hit-testing order in semantics<br />
-  <sub>[#167522](https://github.com/flutter/flutter/pull/167522) merged on April 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167522) over 3 days, 226 additions and 38 deletions in 5 files</sub><br />
+  <sub>[#167522](https://github.com/flutter/flutter/pull/167522) merged on April 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167522) over 3 days, 226 additions and 38 deletions in 5 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Note when `--enable-vmservice` is required and skip otherwise.<br />
