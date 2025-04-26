@@ -131,3 +131,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render rects/ovals/rrects as path sources<br />
   <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167863) 207 additions and 34 deletions in 14 files</sub><br />
 
+* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; TextField magnifier stuck on long press cancel<br />
+  <sub>[#167881](https://github.com/flutter/flutter/pull/167881) opened on on April 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167881) 140 additions and 24 deletions in 3 files</sub><br />
+
