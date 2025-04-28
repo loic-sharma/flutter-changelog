@@ -137,3 +137,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix the incorrect position of SliverTree child nodes.<br />
   <sub>[#167928](https://github.com/flutter/flutter/pull/167928) opened on on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167928) 37 additions and 0 deletions in 2 files</sub><br />
 
+* **[Francisco Nunes](https://github.com/heisenunes)** &mdash; Fix WidgetStatesController<br />
+  <sub>[#167942](https://github.com/flutter/flutter/pull/167942) opened on on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167942) 26 additions and 1 deletion in 2 files</sub><br />
+
