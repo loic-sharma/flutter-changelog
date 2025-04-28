@@ -9,7 +9,7 @@
   <sub>[#161481](https://github.com/flutter/flutter/pull/161481) opened on on January 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161481) 18 additions and 58 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Merge UI And Platform thread<br />
-  <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162671) 104 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162671) 104 additions and 0 deletions in 4 files</sub><br />
 
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
   <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
@@ -39,7 +39,7 @@
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
-  <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
+  <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Fix warning when building for macOS desktop<br />
   <sub>[#165996](https://github.com/flutter/flutter/pull/165996) opened on on March 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165996) 121 additions and 3 deletions in 2 files</sub><br />
@@ -84,7 +84,7 @@
   <sub>[#167691](https://github.com/flutter/flutter/pull/167691) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167691) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Clip.None Docs<br />
-  <sub>[#167695](https://github.com/flutter/flutter/pull/167695) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167695) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#167695](https://github.com/flutter/flutter/pull/167695) opened on on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167695) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add collapsedOpacity for FlexibleSpaceBar<br />
   <sub>[#167705](https://github.com/flutter/flutter/pull/167705) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167705) 47 additions and 2 deletions in 2 files</sub><br />
