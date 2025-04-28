@@ -140,3 +140,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix the SliverTree scrolling rendering issue.<br />
   <sub>[#167921](https://github.com/flutter/flutter/pull/167921) opened on on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167921) 47 additions and 2 deletions in 2 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix the incorrect position of SliverTree child nodes.<br />
+  <sub>[#167928](https://github.com/flutter/flutter/pull/167928) opened on on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167928) 37 additions and 0 deletions in 2 files</sub><br />
+
