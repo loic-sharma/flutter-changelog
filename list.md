@@ -707,9 +707,18 @@
 
 ## flutter/website
 
+### April 26, 2025 to May 2, 2025
+
+1 commits.
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add some content to the DevTools Network page.
+  <sub>[#11937](https://github.com/flutter/website/pull/11937) merged on April 28, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11937) over 2 days, 32 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### April 19, 2025 to April 25, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dependencies and code for main compatibility
   <sub>[#11922](https://github.com/flutter/website/pull/11922) merged on April 24, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11922) over 2 days, 344 additions and 352 deletions in 11 files</sub>
@@ -750,6 +759,8 @@
 * **[Arno Bidet](https://github.com/ArnoBidet)** &mdash; Typo in Data-Layer documentation
   <sub>[#11917](https://github.com/flutter/website/pull/11917) merged on April 21, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/11917) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### April 12, 2025 to April 18, 2025
 
