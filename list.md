@@ -4,12 +4,16 @@
 
 ### April 26, 2025 to May 2, 2025
 
-6 commits.
+7 commits.
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke), [Tirth](https://github.com/piedcipher), [Ben Konyi](https://github.com/bkonyi)</sub>
   <sub><details><summary>2 images...</summary><img width="1087" alt="Screenshot 2025-03-12 at 5 16 15 PM" src="https://github.com/user-attachments/assets/0676083e-03a5-4bea-afac-8321eb9358f9" /><img width="1440" alt="Screenshot 2025-03-12 at 5 33 15 PM" src="https://github.com/user-attachments/assets/4eab879c-23d8-4bd0-b08a-a5728009a943" /></details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; `--use-existing-app` defaults to `--keep-app-running` if not specified.
+  <sub>[#167742](https://github.com/flutter/flutter/pull/167742) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167742) over 3 days, 173 additions and 24 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix CarouselView.weighted crashes when initlal viewportDimension is 0.0
   <sub>[#167628](https://github.com/flutter/flutter/pull/167628) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167628) over 5 days, 115 additions and 0 deletions in 2 files</sub>
