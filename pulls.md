@@ -68,9 +68,6 @@
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Skip writing unchanged registrant files<br />
-  <sub>[#167262](https://github.com/flutter/flutter/pull/167262) opened on on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167262) 38 additions and 0 deletions in 2 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/167393) 6179 additions and 292 deletions in 164 files</sub><br />
 
@@ -133,9 +130,6 @@
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: flex factor null check exception.<br />
   <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167890) 3 additions and 1 deletion in 1 file</sub><br />
-
-* **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; ColorFilter.saturation<br />
-  <sub>[#167898](https://github.com/flutter/flutter/pull/167898) opened on on April 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167898) 60 additions and 0 deletions in 3 files</sub><br />
 
 * **[Severin](https://github.com/Bungeefan)** &mdash; Add missing `removeStatusListener` for bottom sheets (#167899)<br />
   <sub>[#167900](https://github.com/flutter/flutter/pull/167900) opened on on April 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167900) 45 additions and 0 deletions in 2 files</sub><br />

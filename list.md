@@ -4,7 +4,12 @@
 
 ### April 26, 2025 to May 2, 2025
 
-4 commits.
+5 commits.
+
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present
+  <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke), [Tirth](https://github.com/piedcipher), [Ben Konyi](https://github.com/bkonyi)</sub>
+  <sub><details><summary>2 images...</summary><img width="1087" alt="Screenshot 2025-03-12 at 5 16 15 PM" src="https://github.com/user-attachments/assets/0676083e-03a5-4bea-afac-8321eb9358f9" /><img width="1440" alt="Screenshot 2025-03-12 at 5 33 15 PM" src="https://github.com/user-attachments/assets/4eab879c-23d8-4bd0-b08a-a5728009a943" /></details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix CarouselView.weighted crashes when initlal viewportDimension is 0.0
   <sub>[#167628](https://github.com/flutter/flutter/pull/167628) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167628) over 5 days, 115 additions and 0 deletions in 2 files</sub>
@@ -674,8 +679,8 @@
   <sub>[#9099](https://github.com/flutter/packages/pull/9099) merged on April 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9099) over 44 minutes, 40 additions and 2 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_is] Update iOS SDK to 8.0
-  <sub>[#9081](https://github.com/flutter/packages/pull/9081) merged on April 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9081) over 21 hours, 7 additions and 3 deletions in 4 files</sub>
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Update iOS SDK to 8.0
+  <sub>[#9081](https://github.com/flutter/packages/pull/9081) merged on April 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9081) over 21 hours, 7 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Run config-only build for iOS/macOS native-test
