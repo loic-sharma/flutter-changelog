@@ -21,7 +21,7 @@
   <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
 
 * **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL<br />
-  <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164720) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164720) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Menu anchor respect alignment offset for right<br />
   <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/164858) 48 additions and 6 deletions in 2 files</sub><br />
@@ -67,9 +67,6 @@
 
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
-
-* **[August](https://github.com/Gustl22)** &mdash; feat: Arbitrary format options for localizations generation (#102983)<br />
-  <sub>[#167029](https://github.com/flutter/flutter/pull/167029) opened on on April 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167029) 229 additions and 14 deletions in 9 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Skip writing unchanged registrant files<br />
   <sub>[#167262](https://github.com/flutter/flutter/pull/167262) opened on on April 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167262) 38 additions and 0 deletions in 2 files</sub><br />
@@ -138,7 +135,7 @@
   <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167890) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; ColorFilter.saturation<br />
-  <sub>[#167898](https://github.com/flutter/flutter/pull/167898) opened on on April 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167898) 59 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#167898](https://github.com/flutter/flutter/pull/167898) opened on on April 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167898) 60 additions and 0 deletions in 3 files</sub><br />
 
 * **[Severin](https://github.com/Bungeefan)** &mdash; Add missing `removeStatusListener` for bottom sheets (#167899)<br />
   <sub>[#167900](https://github.com/flutter/flutter/pull/167900) opened on on April 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167900) 45 additions and 0 deletions in 2 files</sub><br />

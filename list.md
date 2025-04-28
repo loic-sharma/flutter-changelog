@@ -98,7 +98,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Unbreak https://github.com/flutter/flutter/pull/164034
-  <sub>[#167689](https://github.com/flutter/flutter/pull/167689) merged on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167689) over 15 hours, 17 additions and 18 deletions in 3 files</sub>
+  <sub>[#167689](https://github.com/flutter/flutter/pull/167689) merged on April 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167689) over 15 hours, 17 additions and 18 deletions in 3 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Tree-hygiene.md`
