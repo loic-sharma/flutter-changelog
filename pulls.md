@@ -63,7 +63,7 @@
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166753) 19 additions and 11 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Add a telemetry event to track SwiftPM migration<br />
-  <sub>[#166773](https://github.com/flutter/flutter/pull/166773) opened on on April 8, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/166773) 268 additions and 62 deletions in 3 files</sub><br />
+  <sub>[#166773](https://github.com/flutter/flutter/pull/166773) opened on on April 8, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/166773) 268 additions and 62 deletions in 3 files</sub><br />
 
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
@@ -121,9 +121,6 @@
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Selected DropdownMenuItem isn't highlighted on mobile<br />
   <sub>[#167874](https://github.com/flutter/flutter/pull/167874) opened on on April 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167874) 73 additions and 2 deletions in 2 files</sub><br />
-
-* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; TextField magnifier stuck on long press cancel<br />
-  <sub>[#167881](https://github.com/flutter/flutter/pull/167881) opened on on April 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167881) 140 additions and 24 deletions in 3 files</sub><br />
 
 * **[khokholikov](https://github.com/khokholikov)** &mdash; TreeSliver collapse animation jump bug<br />
   <sub>[#167882](https://github.com/flutter/flutter/pull/167882) opened on on April 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167882) 10 additions and 1 deletion in 1 file</sub><br />
