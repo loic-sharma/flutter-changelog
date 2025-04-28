@@ -120,7 +120,7 @@
   <sub>[#167829](https://github.com/flutter/flutter/pull/167829) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167829) 130 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix ListTiles theme override<br />
-  <sub>[#167857](https://github.com/flutter/flutter/pull/167857) opened on on April 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167857) 51 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#167857](https://github.com/flutter/flutter/pull/167857) opened on on April 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167857) 51 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render rects/ovals/rrects as path sources<br />
   <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167863) 207 additions and 34 deletions in 14 files</sub><br />
