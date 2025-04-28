@@ -26,9 +26,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Menu anchor respect alignment offset for right<br />
   <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/164858) 48 additions and 6 deletions in 2 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove bringup for Linux tools_integration_tests*<br />
-  <sub>[#164947](https://github.com/flutter/flutter/pull/164947) opened on on March 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164947) 0 additions and 7 deletions in 1 file</sub><br />
-
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
 
@@ -114,7 +111,7 @@
   <sub>[#167857](https://github.com/flutter/flutter/pull/167857) opened on on April 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167857) 51 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render rects/ovals/rrects as path sources<br />
-  <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/167863) 431 additions and 55 deletions in 21 files</sub><br />
+  <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/167863) 431 additions and 55 deletions in 21 files</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Selected DropdownMenuItem isn't highlighted on mobile<br />
   <sub>[#167874](https://github.com/flutter/flutter/pull/167874) opened on on April 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167874) 73 additions and 2 deletions in 2 files</sub><br />
