@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 26, 2025 to May 2, 2025
+
+1 commits.
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Re-enable iOS unittests
+  <sub>[#167893](https://github.com/flutter/flutter/pull/167893) merged on April 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/167893) over 12 hours, 106 additions and 97 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
 ### April 19, 2025 to April 25, 2025
 
-56 commits.
+<details>
+<summary>56 commits...</summary>
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `PositionedGestureDetails`
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) merged on April 22, 2025 &mdash; **Large:** [80 comments](https://github.com/flutter/flutter/pull/160714) over 4 months, 559 additions and 198 deletions in 10 files</sub>
@@ -231,6 +240,8 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Reduce app startup latency by initializing the engine on a separate thread (#166918)"
   <sub>[#167519](https://github.com/flutter/flutter/pull/167519) merged on April 22, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/167519) over 17 hours, 287 additions and 89 deletions in 36 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+</details>
 
 ### April 12, 2025 to April 18, 2025
 
