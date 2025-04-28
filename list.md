@@ -737,7 +737,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-3 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update first widgets example to work with both themes
   <sub>[#11948](https://github.com/flutter/website/pull/11948) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11948) over 23 minutes, 10 additions and 2 deletions in 2 files</sub>
@@ -747,6 +747,14 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add some content to the DevTools Network page.
   <sub>[#11937](https://github.com/flutter/website/pull/11937) merged on April 28, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11937) over 2 days, 32 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce a new `/install` root directory
+  <sub>[#11951](https://github.com/flutter/website/pull/11951) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11951) over 26 minutes, 123 additions and 26 deletions in 16 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Help distinguish between setting and app level plugins.
+  <sub>[#11950](https://github.com/flutter/website/pull/11950) merged on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11950) over 1 hour, 9 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Fixing some formatting
   <sub>[#11949](https://github.com/flutter/website/pull/11949) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11949) over 1 hour, 4 additions and 4 deletions in 1 file</sub>
