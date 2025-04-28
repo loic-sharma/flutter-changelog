@@ -11,6 +11,10 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke), [Tirth](https://github.com/piedcipher), [Ben Konyi](https://github.com/bkonyi)</sub>
   <sub><details><summary>2 images...</summary><img width="1087" alt="Screenshot 2025-03-12 at 5 16 15 PM" src="https://github.com/user-attachments/assets/0676083e-03a5-4bea-afac-8321eb9358f9" /><img width="1440" alt="Screenshot 2025-03-12 at 5 33 15 PM" src="https://github.com/user-attachments/assets/4eab879c-23d8-4bd0-b08a-a5728009a943" /></details></sub>
 
+* **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog
+  <sub>[#167403](https://github.com/flutter/flutter/pull/167403) merged on April 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167403) over 1 week, 57 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; `--use-existing-app` defaults to `--keep-app-running` if not specified.
   <sub>[#167742](https://github.com/flutter/flutter/pull/167742) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167742) over 3 days, 173 additions and 24 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -18,10 +22,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix CarouselView.weighted crashes when initlal viewportDimension is 0.0
   <sub>[#167628](https://github.com/flutter/flutter/pull/167628) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167628) over 5 days, 115 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog
-  <sub>[#167403](https://github.com/flutter/flutter/pull/167403) merged on April 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167403) over 1 week, 57 additions and 13 deletions in 2 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] denull some of text_editing.dart
   <sub>[#166595](https://github.com/flutter/flutter/pull/166595) merged on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166595) over 3 weeks, 192 additions and 67 deletions in 7 files</sub>
@@ -737,7 +737,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-2 commits.
+3 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update first widgets example to work with both themes
   <sub>[#11948](https://github.com/flutter/website/pull/11948) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11948) over 23 minutes, 10 additions and 2 deletions in 2 files</sub>
@@ -747,6 +747,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add some content to the DevTools Network page.
   <sub>[#11937](https://github.com/flutter/website/pull/11937) merged on April 28, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11937) over 2 days, 32 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Fixing some formatting
+  <sub>[#11949](https://github.com/flutter/website/pull/11949) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11949) over 1 hour, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### April 19, 2025 to April 25, 2025
 
