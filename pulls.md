@@ -80,9 +80,6 @@
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Improve FlutterVersion docs<br />
   <sub>[#167674](https://github.com/flutter/flutter/pull/167674) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167674) 9 additions and 5 deletions in 1 file</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ICU to c9fb4b3a6fb5<br />
-  <sub>[#167691](https://github.com/flutter/flutter/pull/167691) opened on on April 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167691) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Clip.None Docs<br />
   <sub>[#167695](https://github.com/flutter/flutter/pull/167695) opened on on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167695) 3 additions and 0 deletions in 1 file</sub><br />
 
@@ -117,7 +114,7 @@
   <sub>[#167857](https://github.com/flutter/flutter/pull/167857) opened on on April 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167857) 51 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render rects/ovals/rrects as path sources<br />
-  <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167863) 207 additions and 34 deletions in 14 files</sub><br />
+  <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/167863) 429 additions and 54 deletions in 20 files</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Selected DropdownMenuItem isn't highlighted on mobile<br />
   <sub>[#167874](https://github.com/flutter/flutter/pull/167874) opened on on April 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167874) 73 additions and 2 deletions in 2 files</sub><br />

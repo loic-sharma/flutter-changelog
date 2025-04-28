@@ -4,7 +4,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-11 commits.
+13 commits.
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub>
@@ -19,9 +19,17 @@
   <sub>[#167628](https://github.com/flutter/flutter/pull/167628) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167628) over 5 days, 115 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog
+  <sub>[#167403](https://github.com/flutter/flutter/pull/167403) merged on April 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167403) over 1 week, 57 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] denull some of text_editing.dart
   <sub>[#166595](https://github.com/flutter/flutter/pull/166595) merged on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166595) over 3 weeks, 192 additions and 67 deletions in 7 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ICU to c9fb4b3a6fb5
+  <sub>[#167691](https://github.com/flutter/flutter/pull/167691) merged on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167691) over 4 days, 2 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reduces the compile size of Pipelines and ContentContext
   <sub>[#167671](https://github.com/flutter/flutter/pull/167671) merged on April 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167671) over 4 days, 105 additions and 60 deletions in 2 files</sub>
@@ -725,7 +733,12 @@
 
 ### April 26, 2025 to May 2, 2025
 
-1 commits.
+2 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update first widgets example to work with both themes
+  <sub>[#11948](https://github.com/flutter/website/pull/11948) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11948) over 23 minutes, 10 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+  <sub><details><summary>1 image...</summary><img width="318" alt="Screenshot of the more visible text" src="https://github.com/user-attachments/assets/a9d693ed-988e-4442-aca9-f6eafd57de86" /></details></sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add some content to the DevTools Network page.
   <sub>[#11937](https://github.com/flutter/website/pull/11937) merged on April 28, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11937) over 2 days, 32 additions and 7 deletions in 1 file</sub>
