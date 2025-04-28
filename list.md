@@ -4,7 +4,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-15 commits.
+16 commits.
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub>
@@ -30,6 +30,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] denull some of text_editing.dart
   <sub>[#166595](https://github.com/flutter/flutter/pull/166595) merged on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166595) over 3 weeks, 192 additions and 67 deletions in 7 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: extract config_ios_test
+  <sub>[#167958](https://github.com/flutter/flutter/pull/167958) merged on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167958) over 1 hour, 21 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Forward mnemonics for compiled actions.
   <sub>[#167511](https://github.com/flutter/flutter/pull/167511) merged on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167511) over 6 days, 17 additions and 0 deletions in 11 files</sub>
