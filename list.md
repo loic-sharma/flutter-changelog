@@ -741,7 +741,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-6 commits.
+7 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update first widgets example to work with both themes
   <sub>[#11948](https://github.com/flutter/website/pull/11948) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11948) over 23 minutes, 10 additions and 2 deletions in 2 files</sub>
@@ -754,6 +754,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Delete various unused includes
   <sub>[#11952](https://github.com/flutter/website/pull/11952) merged on April 28, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11952) over 29 minutes, 7 additions and 1209 deletions in 15 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Move install help page to new `/install` directory
+  <sub>[#11954](https://github.com/flutter/website/pull/11954) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11954) over 42 minutes, 44 additions and 38 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce a new `/install` root directory
