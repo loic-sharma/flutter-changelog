@@ -140,3 +140,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve et's error if gclient has never been run<br />
   <sub>[#167956](https://github.com/flutter/flutter/pull/167956) opened on on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167956) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Revert "[Impeller] Make incremental builds faster when tinkering on the compiler."<br />
+  <sub>[#167965](https://github.com/flutter/flutter/pull/167965) opened on on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167965) 40 additions and 123 deletions in 7 files</sub><br />
+
