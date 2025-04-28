@@ -63,7 +63,7 @@
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166753) 19 additions and 11 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Add a telemetry event to track SwiftPM migration<br />
-  <sub>[#166773](https://github.com/flutter/flutter/pull/166773) opened on on April 8, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/166773) 268 additions and 62 deletions in 3 files</sub><br />
+  <sub>[#166773](https://github.com/flutter/flutter/pull/166773) opened on on April 8, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/166773) 310 additions and 50 deletions in 3 files</sub><br />
 
 * **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
   <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
