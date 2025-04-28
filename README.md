@@ -4,7 +4,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-7 commits.
+8 commits.
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix CarouselView.weighted crashes when initlal viewportDimension is 0.0<br />
   <sub>[#167628](https://github.com/flutter/flutter/pull/167628) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167628) over 5 days, 115 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] denull some of text_editing.dart<br />
+  <sub>[#166595](https://github.com/flutter/flutter/pull/166595) merged on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166595) over 3 weeks, 192 additions and 67 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: remove unused ios_sdk.gni import<br />
   <sub>[#167909](https://github.com/flutter/flutter/pull/167909) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167909) over 1 hour, 0 additions and 4 deletions in 1 file</sub><br />
@@ -111,7 +115,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Unbreak https://github.com/flutter/flutter/pull/164034<br />
-  <sub>[#167689](https://github.com/flutter/flutter/pull/167689) merged on April 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167689) over 15 hours, 17 additions and 18 deletions in 3 files</sub><br />
+  <sub>[#167689](https://github.com/flutter/flutter/pull/167689) merged on April 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167689) over 15 hours, 17 additions and 18 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Tree-hygiene.md`<br />
