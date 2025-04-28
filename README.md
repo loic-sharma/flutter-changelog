@@ -4,7 +4,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-8 commits.
+9 commits.
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Re-enable iOS unittests<br />
   <sub>[#167893](https://github.com/flutter/flutter/pull/167893) merged on April 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/167893) over 12 hours, 106 additions and 97 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Skip writing unchanged registrant files<br />
+  <sub>[#167262](https://github.com/flutter/flutter/pull/167262) merged on April 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/167262) over 1 week, 38 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland "[Windows] Enable merged platform and UI thread by default" <br />
   <sub>[#167472](https://github.com/flutter/flutter/pull/167472) merged on April 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167472) over 1 week, 41 additions and 30 deletions in 2 files</sub><br />
