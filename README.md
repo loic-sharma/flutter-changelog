@@ -4,7 +4,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-28 commits.
+29 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter: config: {...}` section to `pubspec.yaml` to influence `FeatureFlags`<br />
   <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub><br />
@@ -62,6 +62,10 @@
 * **[Narek Malkhasyan](https://github.com/narekmalk)** &mdash; Deprecated methods that call setStatusBarColor, setNavigationBarColor, setNavigationBarDividerColor<br />
   <sub>[#165737](https://github.com/flutter/flutter/pull/165737) merged on April 29, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165737) over 1 month, 19 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Skia to 25bba45c7b25<br />
+  <sub>[#168012](https://github.com/flutter/flutter/pull/168012) merged on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168012) over 1 hour, 2 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
   <sub>[#167984](https://github.com/flutter/flutter/pull/167984) merged on April 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167984) over 3 hours, 38 additions and 31 deletions in 24 files</sub><br />

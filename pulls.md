@@ -101,14 +101,11 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render rects/ovals/rrects as path sources<br />
   <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/167863) 516 additions and 95 deletions in 23 files</sub><br />
 
-* **[khokholikov](https://github.com/khokholikov)** &mdash; TreeSliver collapse animation jump bug<br />
-  <sub>[#167882](https://github.com/flutter/flutter/pull/167882) opened on on April 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167882) 10 additions and 1 deletion in 1 file</sub><br />
-
 * **[Bobbie-Ware](https://github.com/Bobbie-Ware)** &mdash; fix minor spelling mistake in roadmap<br />
   <sub>[#167888](https://github.com/flutter/flutter/pull/167888) opened on on April 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167888) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: flex factor null check exception.<br />
-  <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167890) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167890) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Severin](https://github.com/Bungeefan)** &mdash; Add missing `removeStatusListener` for bottom sheets (#167899)<br />
   <sub>[#167900](https://github.com/flutter/flutter/pull/167900) opened on on April 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167900) 45 additions and 0 deletions in 2 files</sub><br />
@@ -127,9 +124,6 @@
 
 * **[fewling](https://github.com/fewling)** &mdash; Add header and footer support to NavigationDrawer<br />
   <sub>[#168005](https://github.com/flutter/flutter/pull/168005) opened on on April 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168005) 22 additions and 1 deletion in 1 file</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Skia to 25bba45c7b25<br />
-  <sub>[#168012](https://github.com/flutter/flutter/pull/168012) opened on on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168012) 2 additions and 3 deletions in 4 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping<br />
   <sub>[#168017](https://github.com/flutter/flutter/pull/168017) opened on on April 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168017) 30 additions and 2 deletions in 1 file</sub><br />
