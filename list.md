@@ -4,7 +4,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-27 commits.
+28 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter: config: {...}` section to `pubspec.yaml` to influence `FeatureFlags`
   <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub>
@@ -26,6 +26,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Add a telemetry event to track SwiftPM migration
   <sub>[#166773](https://github.com/flutter/flutter/pull/166773) merged on April 29, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/166773) over 3 weeks, 310 additions and 50 deletions in 3 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Implement setting sensitive content, take 2
+  <sub>[#167815](https://github.com/flutter/flutter/pull/167815) merged on April 29, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/167815) over 4 days, 3976 additions and 7 deletions in 20 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog
   <sub>[#167403](https://github.com/flutter/flutter/pull/167403) merged on April 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167403) over 1 week, 57 additions and 13 deletions in 2 files</sub>
