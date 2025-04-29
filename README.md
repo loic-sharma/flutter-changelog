@@ -385,13 +385,13 @@
   <sub>[#166918](https://github.com/flutter/flutter/pull/166918) merged on April 17, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/166918) over 1 week, 292 additions and 91 deletions in 36 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Docs: Update date picker theme day color properties doc<br />
-  <sub>[#166122](https://github.com/flutter/flutter/pull/166122) merged on April 18, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/166122) over 3 weeks, 50 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add support for language hints in TextFields (Android only)<br />
   <sub>[#165554](https://github.com/flutter/flutter/pull/165554) merged on April 17, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/165554) over 4 weeks, 223 additions and 9 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Docs: Update date picker theme day color properties doc<br />
+  <sub>[#166122](https://github.com/flutter/flutter/pull/166122) merged on April 18, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/166122) over 3 weeks, 50 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update sheet route bottom padding with top padding<br />
   <sub>[#164473](https://github.com/flutter/flutter/pull/164473) merged on April 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164473) over 1 month, 103 additions and 14 deletions in 2 files</sub><br />
