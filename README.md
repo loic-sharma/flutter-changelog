@@ -4,7 +4,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-24 commits.
+26 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter: config: {...}` section to `pubspec.yaml` to influence `FeatureFlags`<br />
   <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Merge iOS, macOS config<br />
   <sub>[#167945](https://github.com/flutter/flutter/pull/167945) merged on April 28, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/167945) over 3 hours, 418 additions and 406 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [hellohuanlin](https://github.com/hellohuanlin), [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Add a telemetry event to track SwiftPM migration<br />
+  <sub>[#166773](https://github.com/flutter/flutter/pull/166773) merged on April 29, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/166773) over 3 weeks, 310 additions and 50 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog<br />
   <sub>[#167403](https://github.com/flutter/flutter/pull/167403) merged on April 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167403) over 1 week, 57 additions and 13 deletions in 2 files</sub><br />
@@ -46,6 +50,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] denull some of text_editing.dart<br />
   <sub>[#166595](https://github.com/flutter/flutter/pull/166595) merged on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166595) over 3 weeks, 192 additions and 67 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Narek Malkhasyan](https://github.com/narekmalk)** &mdash; Deprecated methods that call setStatusBarColor, setNavigationBarColor, setNavigationBarDividerColor<br />
+  <sub>[#165737](https://github.com/flutter/flutter/pull/165737) merged on April 29, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165737) over 1 month, 19 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
   <sub>[#167984](https://github.com/flutter/flutter/pull/167984) merged on April 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167984) over 3 hours, 38 additions and 31 deletions in 24 files</sub><br />
