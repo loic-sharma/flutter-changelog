@@ -777,7 +777,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-9 commits.
+10 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update first widgets example to work with both themes<br />
   <sub>[#11948](https://github.com/flutter/website/pull/11948) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11948) over 23 minutes, 10 additions and 2 deletions in 2 files</sub><br />
@@ -791,6 +791,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Delete various unused includes<br />
   <sub>[#11952](https://github.com/flutter/website/pull/11952) merged on April 28, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11952) over 29 minutes, 7 additions and 1209 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: bump minimum iOS version from 12 to 13<br />
+  <sub>[#11958](https://github.com/flutter/website/pull/11958) merged on April 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11958) over 36 minutes, 12 additions and 11 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Move and update the editors index/setup page<br />
   <sub>[#11956](https://github.com/flutter/website/pull/11956) merged on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11956) over 13 hours, 91 additions and 175 deletions in 6 files</sub><br />

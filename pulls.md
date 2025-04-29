@@ -134,3 +134,6 @@
 * **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
   <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 230 additions and 2649 deletions in 1 file</sub><br />
 
+* **[fewling](https://github.com/fewling)** &mdash; Add header and footer support to NavigationDrawer<br />
+  <sub>[#168005](https://github.com/flutter/flutter/pull/168005) opened on on April 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168005) 22 additions and 1 deletion in 1 file</sub><br />
+
