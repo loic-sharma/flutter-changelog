@@ -134,3 +134,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Skia to 25bba45c7b25<br />
   <sub>[#168012](https://github.com/flutter/flutter/pull/168012) opened on on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168012) 2 additions and 3 deletions in 4 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping<br />
+  <sub>[#168017](https://github.com/flutter/flutter/pull/168017) opened on on April 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168017) 30 additions and 2 deletions in 1 file</sub><br />
+
