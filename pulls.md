@@ -108,7 +108,7 @@
   <sub>[#167829](https://github.com/flutter/flutter/pull/167829) opened on on April 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167829) 130 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix ListTiles theme override<br />
-  <sub>[#167857](https://github.com/flutter/flutter/pull/167857) opened on on April 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167857) 51 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#167857](https://github.com/flutter/flutter/pull/167857) opened on on April 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167857) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render rects/ovals/rrects as path sources<br />
   <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/167863) 516 additions and 95 deletions in 23 files</sub><br />
@@ -139,7 +139,4 @@
 
 * **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
   <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 230 additions and 2649 deletions in 1 file</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker flickering<br />
-  <sub>[#167976](https://github.com/flutter/flutter/pull/167976) opened on on April 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167976) 62 additions and 6 deletions in 3 files</sub><br />
 
