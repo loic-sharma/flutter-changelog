@@ -4,7 +4,11 @@
 
 ### April 26, 2025 to May 2, 2025
 
-17 commits.
+19 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter: config: {...}` section to `pubspec.yaml` to influence `FeatureFlags`<br />
+  <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present<br />
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub><br />
@@ -18,6 +22,10 @@
 * **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog<br />
   <sub>[#167403](https://github.com/flutter/flutter/pull/167403) merged on April 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167403) over 1 week, 57 additions and 13 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix `late` variable non-assignment when WASM is enabled<br />
+  <sub>[#167954](https://github.com/flutter/flutter/pull/167954) merged on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167954) over 4 hours, 123 additions and 31 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; `--use-existing-app` defaults to `--keep-app-running` if not specified.<br />
   <sub>[#167742](https://github.com/flutter/flutter/pull/167742) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167742) over 3 days, 173 additions and 24 deletions in 2 files</sub><br />
