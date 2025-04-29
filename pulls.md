@@ -143,6 +143,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker flickering<br />
   <sub>[#167976](https://github.com/flutter/flutter/pull/167976) opened on on April 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167976) 62 additions and 6 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix `late` variable non-assignment when WASM is enabled<br />
-  <sub>[#167987](https://github.com/flutter/flutter/pull/167987) opened on on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167987) 123 additions and 31 deletions in 2 files</sub><br />
-
