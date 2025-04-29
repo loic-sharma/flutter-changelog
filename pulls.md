@@ -141,5 +141,8 @@
   <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 230 additions and 2649 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker flickering<br />
-  <sub>[#167976](https://github.com/flutter/flutter/pull/167976) opened on on April 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167976) 63 additions and 6 deletions in 4 files</sub><br />
+  <sub>[#167976](https://github.com/flutter/flutter/pull/167976) opened on on April 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167976) 62 additions and 6 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix `late` variable non-assignment when WASM is enabled<br />
+  <sub>[#167987](https://github.com/flutter/flutter/pull/167987) opened on on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167987) 123 additions and 31 deletions in 2 files</sub><br />
 
