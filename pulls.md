@@ -80,14 +80,11 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add collapsedOpacity for FlexibleSpaceBar<br />
   <sub>[#167705](https://github.com/flutter/flutter/pull/167705) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167705) 47 additions and 2 deletions in 2 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Implement sensitive content<br />
-  <sub>[#167747](https://github.com/flutter/flutter/pull/167747) opened on on April 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/167747) 3976 additions and 7 deletions in 20 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add assert for index parameter in IndexedStack.<br />
   <sub>[#167757](https://github.com/flutter/flutter/pull/167757) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167757) 52 additions and 1 deletion in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Test changing default `selectionHeightStyle`<br />
-  <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167762) 23 additions and 18 deletions in 8 files</sub><br />
+  <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167762) 23 additions and 18 deletions in 8 files</sub><br />
 
 * **[Mohamed Amara](https://github.com/mohamedamara)** &mdash; Add option to hide trailing icon in DropdownMenu<br />
   <sub>[#167782](https://github.com/flutter/flutter/pull/167782) opened on on April 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167782) 76 additions and 17 deletions in 2 files</sub><br />
@@ -126,7 +123,7 @@
   <sub>[#167942](https://github.com/flutter/flutter/pull/167942) opened on on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167942) 26 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add support for new line adding in a multiline field with non-default action.<br />
-  <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve et's error if gclient has never been run<br />
   <sub>[#167956](https://github.com/flutter/flutter/pull/167956) opened on on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167956) 3 additions and 0 deletions in 1 file</sub><br />

@@ -777,7 +777,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-8 commits.
+9 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update first widgets example to work with both themes<br />
   <sub>[#11948](https://github.com/flutter/website/pull/11948) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11948) over 23 minutes, 10 additions and 2 deletions in 2 files</sub><br />
@@ -790,6 +790,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Delete various unused includes<br />
   <sub>[#11952](https://github.com/flutter/website/pull/11952) merged on April 28, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11952) over 29 minutes, 7 additions and 1209 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Move and update the editors index/setup page<br />
+  <sub>[#11956](https://github.com/flutter/website/pull/11956) merged on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11956) over 13 hours, 91 additions and 175 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Move editor setup instructions to their respective pages<br />
