@@ -128,9 +128,6 @@
 * **[Severin](https://github.com/Bungeefan)** &mdash; Add missing `removeStatusListener` for bottom sheets (#167899)<br />
   <sub>[#167900](https://github.com/flutter/flutter/pull/167900) opened on on April 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167900) 45 additions and 0 deletions in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix the incorrect position of SliverTree child nodes.<br />
-  <sub>[#167928](https://github.com/flutter/flutter/pull/167928) opened on on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167928) 60 additions and 23 deletions in 3 files</sub><br />
-
 * **[Francisco Nunes](https://github.com/heisenunes)** &mdash; Fix WidgetStatesController<br />
   <sub>[#167942](https://github.com/flutter/flutter/pull/167942) opened on on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167942) 26 additions and 1 deletion in 2 files</sub><br />
 
