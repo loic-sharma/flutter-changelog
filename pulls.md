@@ -134,3 +134,6 @@
 * **[MarkZ](https://github.com/Markzipan)** &mdash; Using --no-sandbox for Chrome DDC benchmarks<br />
   <sub>[#168010](https://github.com/flutter/flutter/pull/168010) opened on on April 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168010) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Skia to 25bba45c7b25<br />
+  <sub>[#168012](https://github.com/flutter/flutter/pull/168012) opened on on April 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168012) 2 additions and 3 deletions in 4 files</sub><br />
+
