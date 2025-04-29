@@ -116,3 +116,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping<br />
   <sub>[#168017](https://github.com/flutter/flutter/pull/168017) opened on on April 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168017) 30 additions and 2 deletions in 1 file</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix broken VD link in `Android-Platform-Views.md`<br />
+  <sub>[#168026](https://github.com/flutter/flutter/pull/168026) opened on on April 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168026) 1 addition and 1 deletion in 1 file</sub><br />
+
