@@ -131,7 +131,7 @@
 * **[Francisco Nunes](https://github.com/heisenunes)** &mdash; Fix WidgetStatesController<br />
   <sub>[#167942](https://github.com/flutter/flutter/pull/167942) opened on on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167942) 26 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add support to add a new line in multiline field with non-default action.<br />
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add support for new line adding in a multiline field with non-default action.<br />
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve et's error if gclient has never been run<br />
@@ -139,4 +139,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix cursor positioning in multiline field on iOS.<br />
   <sub>[#167973](https://github.com/flutter/flutter/pull/167973) opened on on April 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167973) 102 additions and 1 deletion in 2 files</sub><br />
+
+* **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
+  <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 230 additions and 2649 deletions in 1 file</sub><br />
 
