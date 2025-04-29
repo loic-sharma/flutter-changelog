@@ -4,11 +4,15 @@
 
 ### April 26, 2025 to May 2, 2025
 
-26 commits.
+27 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter: config: {...}` section to `pubspec.yaml` to influence `FeatureFlags`
   <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move Slider and RangeSlider components to slider_parts.dart and range_slider_parts.dart
+  <sub>[#165361](https://github.com/flutter/flutter/pull/165361) merged on April 29, 2025 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/165361) over 1 month, 3093 additions and 3032 deletions in 7 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub>
