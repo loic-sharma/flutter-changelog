@@ -113,9 +113,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render rects/ovals/rrects as path sources<br />
   <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/167863) 431 additions and 55 deletions in 21 files</sub><br />
 
-* **[Huy](https://github.com/huycozy)** &mdash; Fix Selected DropdownMenuItem isn't highlighted on mobile<br />
-  <sub>[#167874](https://github.com/flutter/flutter/pull/167874) opened on on April 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167874) 73 additions and 2 deletions in 2 files</sub><br />
-
 * **[khokholikov](https://github.com/khokholikov)** &mdash; TreeSliver collapse animation jump bug<br />
   <sub>[#167882](https://github.com/flutter/flutter/pull/167882) opened on on April 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167882) 10 additions and 1 deletion in 1 file</sub><br />
 
