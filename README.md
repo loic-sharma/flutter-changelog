@@ -4,7 +4,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-21 commits.
+22 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter: config: {...}` section to `pubspec.yaml` to influence `FeatureFlags`<br />
   <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub><br />
@@ -86,6 +86,10 @@
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Skip writing unchanged registrant files<br />
   <sub>[#167262](https://github.com/flutter/flutter/pull/167262) merged on April 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/167262) over 1 week, 38 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Revert "[Impeller] Make incremental builds faster when tinkering on the compiler."<br />
+  <sub>[#167965](https://github.com/flutter/flutter/pull/167965) merged on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167965) over 5 hours, 40 additions and 123 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland "[Windows] Enable merged platform and UI thread by default" <br />
   <sub>[#167472](https://github.com/flutter/flutter/pull/167472) merged on April 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167472) over 1 week, 41 additions and 30 deletions in 2 files</sub><br />
