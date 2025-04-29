@@ -113,9 +113,6 @@
 * **[Severin](https://github.com/Bungeefan)** &mdash; Add missing `removeStatusListener` for bottom sheets (#167899)<br />
   <sub>[#167900](https://github.com/flutter/flutter/pull/167900) opened on on April 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167900) 45 additions and 0 deletions in 2 files</sub><br />
 
-* **[Francisco Nunes](https://github.com/heisenunes)** &mdash; Fix WidgetStatesController<br />
-  <sub>[#167942](https://github.com/flutter/flutter/pull/167942) opened on on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167942) 26 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add support for new line adding in a multiline field with non-default action.<br />
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
 
