@@ -4,7 +4,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-16 commits.
+17 commits.
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub>
@@ -26,6 +26,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix CarouselView.weighted crashes when initlal viewportDimension is 0.0
   <sub>[#167628](https://github.com/flutter/flutter/pull/167628) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167628) over 5 days, 115 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Adding support for macrobenchmarking with "flutter run"
+  <sub>[#167692](https://github.com/flutter/flutter/pull/167692) merged on April 28, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/167692) over 5 days, 308 additions and 115 deletions in 5 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] denull some of text_editing.dart
   <sub>[#166595](https://github.com/flutter/flutter/pull/166595) merged on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166595) over 3 weeks, 192 additions and 67 deletions in 7 files</sub>
