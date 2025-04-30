@@ -113,9 +113,6 @@
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; New geometry class to directly stroke rectangles<br />
-  <sub>[#168038](https://github.com/flutter/flutter/pull/168038) opened on on April 30, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/168038) 368 additions and 35 deletions in 12 files</sub><br />
-
 * **[Sebastine Odeh](https://github.com/CoderNamedHendrick)** &mdash; Cupertino sheet MediaQuery values<br />
   <sub>[#168041](https://github.com/flutter/flutter/pull/168041) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168041) 108 additions and 5 deletions in 2 files</sub><br />
 
