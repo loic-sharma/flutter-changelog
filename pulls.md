@@ -8,9 +8,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove AlarmClock from BrowserImageDecoder<br />
   <sub>[#161481](https://github.com/flutter/flutter/pull/161481) opened on on January 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161481) 18 additions and 58 deletions in 1 file</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Merge UI And Platform thread<br />
-  <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162671) 104 additions and 0 deletions in 4 files</sub><br />
-
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add flag to disable automatic device reboot for DeviceLab tests<br />
   <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
