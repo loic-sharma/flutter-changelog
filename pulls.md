@@ -122,3 +122,6 @@
 * **[Rajesh Choudhury](https://github.com/rajesh1998choudhury)** &mdash; new<br />
   <sub>[#168040](https://github.com/flutter/flutter/pull/168040) opened on on April 30, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/168040) 1538 additions and 339 deletions in 115 files</sub><br />
 
+* **[Sebastine Odeh](https://github.com/CoderNamedHendrick)** &mdash; Cupertino sheet MediaQuery values<br />
+  <sub>[#168041](https://github.com/flutter/flutter/pull/168041) opened on on April 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168041) 87 additions and 5 deletions in 2 files</sub><br />
+
