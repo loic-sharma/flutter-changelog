@@ -11,13 +11,13 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
   <sub><details><summary>2 images...</summary><img width="929" alt="Screenshot 2025-03-06 at 13 33 17" src="https://github.com/user-attachments/assets/a089674f-4931-4808-9663-1cd540bf7b11" /><img width="929" alt="Screenshot 2025-03-06 at 13 33 28" src="https://github.com/user-attachments/assets/77fe5708-f2e4-4734-92c2-46e4d8338d0e" /></details></sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter: config: {...}` section to `pubspec.yaml` to influence `FeatureFlags`
-  <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Merge UI And Platform thread
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) merged on April 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162671) over 2 months, 104 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter: config: {...}` section to `pubspec.yaml` to influence `FeatureFlags`
+  <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub>
