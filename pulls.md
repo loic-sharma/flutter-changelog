@@ -92,6 +92,3 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; bump macos 10.14 to 10.15<br />
   <sub>[#168101](https://github.com/flutter/flutter/pull/168101) opened on on April 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168101) 139 additions and 102 deletions in 34 files</sub><br />
 
-* **[MarkZ](https://github.com/Markzipan)** &mdash; Running Chrome macrobenchmarks in headless mode<br />
-  <sub>[#168104](https://github.com/flutter/flutter/pull/168104) opened on on April 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168104) 1 addition and 0 deletions in 1 file</sub><br />
-
