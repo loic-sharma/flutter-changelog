@@ -123,5 +123,5 @@
   <sub>[#168041](https://github.com/flutter/flutter/pull/168041) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168041) 108 additions and 5 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update ButtonStyle documentation<br />
-  <sub>[#168062](https://github.com/flutter/flutter/pull/168062) opened on on April 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168062) 15 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#168062](https://github.com/flutter/flutter/pull/168062) opened on on April 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168062) 15 additions and 1 deletion in 1 file</sub><br />
 
