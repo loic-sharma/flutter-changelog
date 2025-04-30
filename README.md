@@ -857,7 +857,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-10 commits.
+12 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update first widgets example to work with both themes<br />
   <sub>[#11948](https://github.com/flutter/website/pull/11948) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11948) over 23 minutes, 10 additions and 2 deletions in 2 files</sub><br />
@@ -892,6 +892,10 @@
   <sub>[#11951](https://github.com/flutter/website/pull/11951) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11951) over 26 minutes, 123 additions and 26 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Add animations codelab to codelabs page<br />
+  <sub>[#11961](https://github.com/flutter/website/pull/11961) merged on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11961) over 2 hours, 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Help distinguish between setting and app level plugins.<br />
   <sub>[#11950](https://github.com/flutter/website/pull/11950) merged on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11950) over 1 hour, 9 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
@@ -899,6 +903,10 @@
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Fixing some formatting<br />
   <sub>[#11949](https://github.com/flutter/website/pull/11949) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11949) over 1 hour, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: bump minimum iOS version from 12 to 13 (#11958)"<br />
+  <sub>[#11962](https://github.com/flutter/website/pull/11962) merged on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11962) over 1 hour, 11 additions and 12 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### April 19, 2025 to April 25, 2025
 
