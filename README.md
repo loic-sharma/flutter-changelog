@@ -699,9 +699,18 @@
 
 ## flutter/packages
 
+### April 26, 2025 to May 2, 2025
+
+1 commits.
+
+* **[Tyler Denniston](https://github.com/tdenniston)** &mdash; [two_dimensional_scrollables] Fix TreeView null dereference during paint<br />
+  <sub>[#9103](https://github.com/flutter/packages/pull/9103) merged on April 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9103) over 1 week, 97 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
 ### April 19, 2025 to April 25, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[Vikash Dubey](https://github.com/vikdubey)** &mdash; [gis_web] Make maybeEnum more robust in google_identity_services_web shared file.<br />
   <sub>[#8999](https://github.com/flutter/packages/pull/8999) merged on April 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8999) over 2 weeks, 56 additions and 20 deletions in 8 files</sub><br />
@@ -742,6 +751,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add `caseSensitive` to `TypedGoRoute`<br />
   <sub>[#9096](https://github.com/flutter/packages/pull/9096) merged on April 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9096) over 5 days, 63 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+</details>
 
 ### April 12, 2025 to April 18, 2025
 
