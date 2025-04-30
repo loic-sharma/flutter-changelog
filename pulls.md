@@ -125,3 +125,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update ButtonStyle documentation<br />
   <sub>[#168062](https://github.com/flutter/flutter/pull/168062) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168062) 15 additions and 1 deletion in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add link to SwiftPM manual integration instructions<br />
+  <sub>[#168066](https://github.com/flutter/flutter/pull/168066) opened on on April 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168066) 4 additions and 4 deletions in 1 file</sub><br />
+
