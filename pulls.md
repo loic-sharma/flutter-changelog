@@ -90,7 +90,7 @@
   <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/167863) 516 additions and 95 deletions in 23 files</sub><br />
 
 * **[Bobbie-Ware](https://github.com/Bobbie-Ware)** &mdash; fix minor spelling mistake in roadmap<br />
-  <sub>[#167888](https://github.com/flutter/flutter/pull/167888) opened on on April 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167888) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#167888](https://github.com/flutter/flutter/pull/167888) opened on on April 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167888) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: flex factor null check exception.<br />
   <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167890) 45 additions and 2 deletions in 2 files</sub><br />
