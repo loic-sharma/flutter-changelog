@@ -4,7 +4,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-37 commits.
+39 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix discrete `Slider` and `RangeSlider` to enforce thumb height padding when the track shape is non-rounded
   <sub>[#164703](https://github.com/flutter/flutter/pull/164703) merged on April 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164703) over 1 month, 93 additions and 9 deletions in 4 files</sub>
@@ -15,14 +15,14 @@
   <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move Slider and RangeSlider components to slider_parts.dart and range_slider_parts.dart
-  <sub>[#165361](https://github.com/flutter/flutter/pull/165361) merged on April 29, 2025 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/165361) over 1 month, 3093 additions and 3032 deletions in 7 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub>
-
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke), [Tirth](https://github.com/piedcipher), [Ben Konyi](https://github.com/bkonyi)</sub>
   <sub><details><summary>2 images...</summary><img width="1087" alt="Screenshot 2025-03-12 at 5 16 15 PM" src="https://github.com/user-attachments/assets/0676083e-03a5-4bea-afac-8321eb9358f9" /><img width="1440" alt="Screenshot 2025-03-12 at 5 33 15 PM" src="https://github.com/user-attachments/assets/4eab879c-23d8-4bd0-b08a-a5728009a943" /></details></sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move Slider and RangeSlider components to slider_parts.dart and range_slider_parts.dart
+  <sub>[#165361](https://github.com/flutter/flutter/pull/165361) merged on April 29, 2025 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/165361) over 1 month, 3093 additions and 3032 deletions in 7 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Merge iOS, macOS config
   <sub>[#167945](https://github.com/flutter/flutter/pull/167945) merged on April 28, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/167945) over 3 hours, 418 additions and 406 deletions in 14 files</sub>
@@ -52,6 +52,10 @@
   <sub>[#167962](https://github.com/flutter/flutter/pull/167962) merged on April 29, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/167962) over 4 hours, 98 additions and 123 deletions in 8 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; `--use-existing-app` defaults to `--keep-app-running` if not specified.
+  <sub>[#167742](https://github.com/flutter/flutter/pull/167742) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167742) over 3 days, 173 additions and 24 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix `late` variable non-assignment when WASM is enabled
   <sub>[#167954](https://github.com/flutter/flutter/pull/167954) merged on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167954) over 4 hours, 123 additions and 31 deletions in 2 files</sub>
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
@@ -59,10 +63,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update date localizations for ga
   <sub>[#168008](https://github.com/flutter/flutter/pull/168008) merged on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168008) over 4 hours, 183 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; `--use-existing-app` defaults to `--keep-app-running` if not specified.
-  <sub>[#167742](https://github.com/flutter/flutter/pull/167742) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167742) over 3 days, 173 additions and 24 deletions in 2 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix CarouselView.weighted crashes when initlal viewportDimension is 0.0
   <sub>[#167628](https://github.com/flutter/flutter/pull/167628) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167628) over 5 days, 115 additions and 0 deletions in 2 files</sub>
@@ -88,17 +88,21 @@
   <sub>[#167976](https://github.com/flutter/flutter/pull/167976) merged on April 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167976) over 7 hours, 62 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve et's error if gclient has never been run
+  <sub>[#167956](https://github.com/flutter/flutter/pull/167956) merged on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167956) over 1 day, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Declare both Mac and iOS build arguments in apple_sdk.gni
+  <sub>[#168025](https://github.com/flutter/flutter/pull/168025) merged on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168025) over 3 hours, 38 additions and 45 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix broken VD link in `Android-Platform-Views.md`
   <sub>[#168026](https://github.com/flutter/flutter/pull/168026) merged on April 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168026) over 14 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Skia to 25bba45c7b25
-  <sub>[#168012](https://github.com/flutter/flutter/pull/168012) merged on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168012) over 1 hour, 2 additions and 3 deletions in 4 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: remove unused ios_sdk.gni import
-  <sub>[#167909](https://github.com/flutter/flutter/pull/167909) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167909) over 1 hour, 0 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: delete run_command_with_retry
+  <sub>[#167908](https://github.com/flutter/flutter/pull/167908) merged on April 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167908) over 13 hours, 3 additions and 48 deletions in 2 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: remove unused mac_sdk_min
   <sub>[#167907](https://github.com/flutter/flutter/pull/167907) merged on April 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167907) over 1 hour, 2 additions and 20 deletions in 4 files</sub>
@@ -116,9 +120,9 @@
   <sub>[#167671](https://github.com/flutter/flutter/pull/167671) merged on April 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167671) over 4 days, 105 additions and 60 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: delete run_command_with_retry
-  <sub>[#167908](https://github.com/flutter/flutter/pull/167908) merged on April 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167908) over 13 hours, 3 additions and 48 deletions in 2 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Victoria Ashworth](https://github.com/vashworth)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Skia to 25bba45c7b25
+  <sub>[#168012](https://github.com/flutter/flutter/pull/168012) merged on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168012) over 1 hour, 2 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
   <sub>[#167984](https://github.com/flutter/flutter/pull/167984) merged on April 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167984) over 3 hours, 38 additions and 31 deletions in 24 files</sub>
@@ -131,6 +135,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: extract config_ios_test
   <sub>[#167958](https://github.com/flutter/flutter/pull/167958) merged on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167958) over 1 hour, 21 additions and 14 deletions in 1 file</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: remove unused ios_sdk.gni import
+  <sub>[#167909](https://github.com/flutter/flutter/pull/167909) merged on April 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167909) over 1 hour, 0 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Forward mnemonics for compiled actions.
   <sub>[#167511](https://github.com/flutter/flutter/pull/167511) merged on April 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167511) over 6 days, 17 additions and 0 deletions in 11 files</sub>

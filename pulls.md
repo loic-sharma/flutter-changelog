@@ -101,9 +101,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add support for new line adding in a multiline field with non-default action.<br />
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve et's error if gclient has never been run<br />
-  <sub>[#167956](https://github.com/flutter/flutter/pull/167956) opened on on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167956) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix cursor positioning in multiline field on iOS.<br />
   <sub>[#167973](https://github.com/flutter/flutter/pull/167973) opened on on April 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167973) 102 additions and 1 deletion in 2 files</sub><br />
 
