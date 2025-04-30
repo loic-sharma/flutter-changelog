@@ -29,7 +29,7 @@
   <sub><details><summary>2 images...</summary><img width="1087" alt="Screenshot 2025-03-12 at 5 16 15 PM" src="https://github.com/user-attachments/assets/0676083e-03a5-4bea-afac-8321eb9358f9" /><img width="1440" alt="Screenshot 2025-03-12 at 5 33 15 PM" src="https://github.com/user-attachments/assets/4eab879c-23d8-4bd0-b08a-a5728009a943" /></details></sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; backfill custom painter semantics properties<br />
-  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) merged on April 30, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/166375) over 4 weeks, 358 additions and 22 deletions in 12 files</sub><br />
+  <sub>[#166375](https://github.com/flutter/flutter/pull/166375) merged on April 30, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/166375) over 4 weeks, 358 additions and 22 deletions in 12 files</sub><br />
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move Slider and RangeSlider components to slider_parts.dart and range_slider_parts.dart<br />
