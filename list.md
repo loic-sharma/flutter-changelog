@@ -862,7 +862,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: bump minimum iOS version from 12 to 13
-  <sub>[#11958](https://github.com/flutter/website/pull/11958) merged on April 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11958) over 36 minutes, 12 additions and 11 deletions in 6 files</sub>
+  <sub>[#11958](https://github.com/flutter/website/pull/11958) merged on April 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11958) over 36 minutes, 12 additions and 11 deletions in 6 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Move and update the editors index/setup page
