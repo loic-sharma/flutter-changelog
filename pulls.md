@@ -119,3 +119,6 @@
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]feat: Arbitrary format options for localizations generation (#102983)<br />
+  <sub>[#168035](https://github.com/flutter/flutter/pull/168035) opened on on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168035) 86 additions and 12 deletions in 3 files</sub><br />
+
