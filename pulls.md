@@ -90,10 +90,10 @@
   <sub>[#168078](https://github.com/flutter/flutter/pull/168078) opened on on April 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168078) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] report application version info as 2.0 (#167961)<br />
-  <sub>[#168084](https://github.com/flutter/flutter/pull/168084) opened on on April 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168084) 12 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#168084](https://github.com/flutter/flutter/pull/168084) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168084) 12 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] report application version info as 2.0<br />
-  <sub>[#168086](https://github.com/flutter/flutter/pull/168086) opened on on April 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168086) 12 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#168086](https://github.com/flutter/flutter/pull/168086) opened on on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168086) 12 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `release_build: "false"` which is interpreted as` true` due to a recipes bug.<br />
   <sub>[#168098](https://github.com/flutter/flutter/pull/168098) opened on on April 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168098) 0 additions and 2 deletions in 1 file</sub><br />
