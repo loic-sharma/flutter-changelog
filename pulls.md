@@ -17,9 +17,6 @@
 * **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL<br />
   <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164720) 40 additions and 11 deletions in 2 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Menu anchor respect alignment offset for right<br />
-  <sub>[#164858](https://github.com/flutter/flutter/pull/164858) opened on on March 9, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/164858) 48 additions and 6 deletions in 2 files</sub><br />
-
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`<br />
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) opened on on March 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/165273) 0 additions and 1 deletion in 1 file</sub><br />
 
@@ -55,9 +52,6 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/167393) 6179 additions and 292 deletions in 164 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add persistentFooterDecoration for scaffold<br />
-  <sub>[#167524](https://github.com/flutter/flutter/pull/167524) opened on on April 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167524) 47 additions and 3 deletions in 2 files</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Resolve Cupertino textstyle in MaterialBasedCupertinoThemeData<br />
   <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167597) 4 additions and 2 deletions in 1 file</sub><br />
@@ -115,7 +109,4 @@
 
 * **[Sebastine Odeh](https://github.com/CoderNamedHendrick)** &mdash; Cupertino sheet MediaQuery values<br />
   <sub>[#168041](https://github.com/flutter/flutter/pull/168041) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168041) 108 additions and 5 deletions in 2 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add link to SwiftPM manual integration instructions<br />
-  <sub>[#168066](https://github.com/flutter/flutter/pull/168066) opened on on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168066) 4 additions and 4 deletions in 1 file</sub><br />
 
