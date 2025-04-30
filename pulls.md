@@ -117,11 +117,11 @@
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; New geometry class to directly stroke rectangles<br />
-  <sub>[#168038](https://github.com/flutter/flutter/pull/168038) opened on on April 30, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168038) 323 additions and 35 deletions in 12 files</sub><br />
+  <sub>[#168038](https://github.com/flutter/flutter/pull/168038) opened on on April 30, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/168038) 323 additions and 35 deletions in 12 files</sub><br />
 
 * **[Rajesh Choudhury](https://github.com/rajesh1998choudhury)** &mdash; new<br />
   <sub>[#168040](https://github.com/flutter/flutter/pull/168040) opened on on April 30, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/168040) 1538 additions and 339 deletions in 115 files</sub><br />
 
 * **[Sebastine Odeh](https://github.com/CoderNamedHendrick)** &mdash; Cupertino sheet MediaQuery values<br />
-  <sub>[#168041](https://github.com/flutter/flutter/pull/168041) opened on on April 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168041) 108 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#168041](https://github.com/flutter/flutter/pull/168041) opened on on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168041) 108 additions and 5 deletions in 2 files</sub><br />
 
