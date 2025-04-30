@@ -102,7 +102,7 @@
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix cursor positioning in multiline field on iOS.<br />
-  <sub>[#167973](https://github.com/flutter/flutter/pull/167973) opened on on April 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/167973) 102 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#167973](https://github.com/flutter/flutter/pull/167973) opened on on April 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167973) 102 additions and 1 deletion in 2 files</sub><br />
 
 * **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
   <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 230 additions and 2649 deletions in 1 file</sub><br />
@@ -118,4 +118,7 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; New geometry class to directly stroke rectangles<br />
   <sub>[#168038](https://github.com/flutter/flutter/pull/168038) opened on on April 30, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168038) 295 additions and 35 deletions in 12 files</sub><br />
+
+* **[Rajesh Choudhury](https://github.com/rajesh1998choudhury)** &mdash; new<br />
+  <sub>[#168040](https://github.com/flutter/flutter/pull/168040) opened on on April 30, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/168040) 1538 additions and 339 deletions in 115 files</sub><br />
 
