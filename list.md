@@ -893,7 +893,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add animations codelab to codelabs page
-  <sub>[#11961](https://github.com/flutter/website/pull/11961) merged on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11961) over 2 hours, 9 additions and 0 deletions in 1 file</sub>
+  <sub>[#11961](https://github.com/flutter/website/pull/11961) merged on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11961) over 2 hours, 9 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Help distinguish between setting and app level plugins.
