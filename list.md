@@ -29,7 +29,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [hellohuanlin](https://github.com/hellohuanlin), [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Arbitrary format options for localizations generation (#102983)
-  <sub>[#167029](https://github.com/flutter/flutter/pull/167029) merged on April 30, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/167029) over 2 weeks, 86 additions and 12 deletions in 3 files</sub>
+  <sub>[#167029](https://github.com/flutter/flutter/pull/167029) merged on April 30, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/167029) over 2 weeks, 86 additions and 12 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Add a telemetry event to track SwiftPM migration
