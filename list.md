@@ -15,6 +15,10 @@
   <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Merge UI And Platform thread
+  <sub>[#162671](https://github.com/flutter/flutter/pull/162671) merged on April 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162671) over 2 months, 104 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub>
+
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Changes message when web folder is not present
   <sub>[#165084](https://github.com/flutter/flutter/pull/165084) merged on April 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165084) over 1 month, 40 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke), [Tirth](https://github.com/piedcipher), [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -23,10 +27,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move Slider and RangeSlider components to slider_parts.dart and range_slider_parts.dart
   <sub>[#165361](https://github.com/flutter/flutter/pull/165361) merged on April 29, 2025 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/165361) over 1 month, 3093 additions and 3032 deletions in 7 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Merge UI And Platform thread
-  <sub>[#162671](https://github.com/flutter/flutter/pull/162671) merged on April 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162671) over 2 months, 104 additions and 0 deletions in 4 files</sub>
-  <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Merge iOS, macOS config
   <sub>[#167945](https://github.com/flutter/flutter/pull/167945) merged on April 28, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/167945) over 3 hours, 418 additions and 406 deletions in 14 files</sub>
