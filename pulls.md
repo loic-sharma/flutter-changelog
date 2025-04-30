@@ -89,6 +89,3 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `release_build: "false"` which is interpreted as` true` due to a recipes bug.<br />
   <sub>[#168098](https://github.com/flutter/flutter/pull/168098) opened on on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168098) 0 additions and 2 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Increased the limit where we start chopping off the end of blurs<br />
-  <sub>[#168109](https://github.com/flutter/flutter/pull/168109) opened on on April 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168109) 3 additions and 3 deletions in 1 file</sub><br />
-
