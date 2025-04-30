@@ -4,7 +4,12 @@
 
 ### April 26, 2025 to May 2, 2025
 
-29 commits.
+33 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix discrete `Slider` and `RangeSlider` to enforce thumb height padding when the track shape is non-rounded
+  <sub>[#164703](https://github.com/flutter/flutter/pull/164703) merged on April 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/164703) over 1 month, 93 additions and 9 deletions in 4 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+  <sub><details><summary>2 images...</summary><img width="929" alt="Screenshot 2025-03-06 at 13 33 17" src="https://github.com/user-attachments/assets/a089674f-4931-4808-9663-1cd540bf7b11" /><img width="929" alt="Screenshot 2025-03-06 at 13 33 28" src="https://github.com/user-attachments/assets/77fe5708-f2e4-4734-92c2-46e4d8338d0e" /></details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter: config: {...}` section to `pubspec.yaml` to influence `FeatureFlags`
   <sub>[#167953](https://github.com/flutter/flutter/pull/167953) merged on April 28, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/167953) over 4 hours, 724 additions and 320 deletions in 7 files</sub>
@@ -34,6 +39,10 @@
 * **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog
   <sub>[#167403](https://github.com/flutter/flutter/pull/167403) merged on April 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167403) over 1 week, 57 additions and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update date localizations for ga
+  <sub>[#168008](https://github.com/flutter/flutter/pull/168008) merged on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168008) over 4 hours, 183 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add ConnectionCollection and Swift test
   <sub>[#167962](https://github.com/flutter/flutter/pull/167962) merged on April 29, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/167962) over 4 hours, 98 additions and 123 deletions in 8 files</sub>
@@ -110,6 +119,14 @@
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Skip writing unchanged registrant files
   <sub>[#167262](https://github.com/flutter/flutter/pull/167262) merged on April 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/167262) over 1 week, 38 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Using --no-sandbox for Chrome DDC benchmarks
+  <sub>[#168010](https://github.com/flutter/flutter/pull/168010) merged on April 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168010) over 4 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[sigmundch](https://github.com/sigmundch)** &mdash; [dyn_modules] simplify CI now that dart2bytecode is prebuilt by default
+  <sub>[#167851](https://github.com/flutter/flutter/pull/167851) merged on April 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167851) over 4 days, 1 addition and 97 deletions in 5 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker flickering
   <sub>[#167976](https://github.com/flutter/flutter/pull/167976) merged on April 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167976) over 7 hours, 62 additions and 6 deletions in 3 files</sub>
