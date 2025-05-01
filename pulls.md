@@ -92,6 +92,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add documentation examples to `KeepAlive` `AutomaticKeepAlive` and `AutomaticKeepAliveClientMixin`<br />
   <sub>[#168137](https://github.com/flutter/flutter/pull/168137) opened on on May 1, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168137) 436 additions and 0 deletions in 8 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove `release_build: "false"` which is interpreted as` true` due to a recipes bug.<br />
-  <sub>[#168147](https://github.com/flutter/flutter/pull/168147) opened on on May 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168147) 0 additions and 2 deletions in 1 file</sub><br />
-
