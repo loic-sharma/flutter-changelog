@@ -90,7 +90,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `linux_fuchsia` builds from `release_build: "true"`.<br />
-  <sub>[#168094](https://github.com/flutter/flutter/pull/168094) merged on May 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168094) over 8 hours, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#168094](https://github.com/flutter/flutter/pull/168094) merged on May 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168094) over 8 hours, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add ConnectionCollection and Swift test<br />
