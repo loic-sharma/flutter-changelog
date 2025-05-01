@@ -62,9 +62,6 @@
 * **[toneyzeng](https://github.com/toneyzeng)** &mdash; Fix: Resolved a memory error caused by incompatible std::map implementations when multiple plugins were compiled with different C++ standards.<br />
   <sub>[#167804](https://github.com/flutter/flutter/pull/167804) opened on on April 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167804) 119 additions and 16 deletions in 2 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Render rects/ovals/rrects as path sources<br />
-  <sub>[#167863](https://github.com/flutter/flutter/pull/167863) opened on on April 26, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/167863) 516 additions and 95 deletions in 23 files</sub><br />
-
 * **[Bobbie-Ware](https://github.com/Bobbie-Ware)** &mdash; fix minor spelling mistake in roadmap<br />
   <sub>[#167888](https://github.com/flutter/flutter/pull/167888) opened on on April 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167888) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -94,4 +91,7 @@
 
 * **[Siva](https://github.com/a-siva)** &mdash; Manual Roll Dart SDK from 8fe61b2d428b to 5c535a368799<br />
   <sub>[#168122](https://github.com/flutter/flutter/pull/168122) opened on on May 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168122) 21 additions and 10 deletions in 4 files</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fill/StrokePathGeometry use geom objects as path sources<br />
+  <sub>[#168125](https://github.com/flutter/flutter/pull/168125) opened on on May 1, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168125) 487 additions and 68 deletions in 14 files</sub><br />
 
