@@ -78,7 +78,7 @@
   <sub>[#168017](https://github.com/flutter/flutter/pull/168017) opened on on April 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168017) 30 additions and 2 deletions in 1 file</sub><br />
 
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
-  <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relands "backfill custom painter semantics properties (#166375)"<br />
   <sub>[#168113](https://github.com/flutter/flutter/pull/168113) opened on on April 30, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168113) 362 additions and 22 deletions in 13 files</sub><br />
