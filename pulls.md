@@ -90,5 +90,5 @@
   <sub>[#168122](https://github.com/flutter/flutter/pull/168122) opened on on May 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168122) 21 additions and 10 deletions in 4 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fill/StrokePathGeometry use geom objects as path sources<br />
-  <sub>[#168125](https://github.com/flutter/flutter/pull/168125) opened on on May 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/168125) 487 additions and 68 deletions in 14 files</sub><br />
+  <sub>[#168125](https://github.com/flutter/flutter/pull/168125) opened on on May 1, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/168125) 487 additions and 68 deletions in 14 files</sub><br />
 
