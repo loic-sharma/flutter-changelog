@@ -69,10 +69,10 @@
   <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167890) 45 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add support for new line adding in a multiline field with non-default action.<br />
-  <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix cursor positioning in multiline field on iOS.<br />
-  <sub>[#167973](https://github.com/flutter/flutter/pull/167973) opened on on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167973) 102 additions and 1 deletion in 2 files</sub><br />
+* **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
+  <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 270 additions and 2649 deletions in 4 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping<br />
   <sub>[#168017](https://github.com/flutter/flutter/pull/168017) opened on on April 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168017) 30 additions and 2 deletions in 1 file</sub><br />
@@ -97,4 +97,7 @@
 
 * **[MarkZ](https://github.com/Markzipan)** &mdash; Adding utf-8 encoding to hello world's html template<br />
   <sub>[#168162](https://github.com/flutter/flutter/pull/168162) opened on on May 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168162) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Nick Sparks](https://github.com/nsparks)** &mdash; InputDecorator - animate between transparent hoverColor and hoverColor<br />
+  <sub>[#168166](https://github.com/flutter/flutter/pull/168166) opened on on May 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168166) 22 additions and 2 deletions in 2 files</sub><br />
 
