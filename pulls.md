@@ -69,7 +69,7 @@
   <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167890) 45 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add support for new line adding in a multiline field with non-default action.<br />
-  <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
 
 * **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
   <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 270 additions and 2649 deletions in 4 files</sub><br />
@@ -100,4 +100,7 @@
 
 * **[Nick Sparks](https://github.com/nsparks)** &mdash; InputDecorator - animate between transparent hoverColor and hoverColor<br />
   <sub>[#168166](https://github.com/flutter/flutter/pull/168166) opened on on May 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168166) 22 additions and 2 deletions in 2 files</sub><br />
+
+* **[Hamed Esam](https://github.com/Hamed233)** &mdash; [material] Fix tooltip blocking scroll events on web<br />
+  <sub>[#168168](https://github.com/flutter/flutter/pull/168168) opened on on May 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168168) 69 additions and 1 deletion in 2 files</sub><br />
 
