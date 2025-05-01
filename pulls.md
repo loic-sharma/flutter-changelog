@@ -96,7 +96,7 @@
   <sub>[#168161](https://github.com/flutter/flutter/pull/168161) opened on on May 1, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168161) 734 additions and 281 deletions in 21 files</sub><br />
 
 * **[MarkZ](https://github.com/Markzipan)** &mdash; Adding utf-8 encoding to hello world's html template<br />
-  <sub>[#168162](https://github.com/flutter/flutter/pull/168162) opened on on May 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168162) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#168162](https://github.com/flutter/flutter/pull/168162) opened on on May 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168162) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Nick Sparks](https://github.com/nsparks)** &mdash; InputDecorator - animate between transparent hoverColor and hoverColor<br />
   <sub>[#168166](https://github.com/flutter/flutter/pull/168166) opened on on May 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168166) 22 additions and 2 deletions in 2 files</sub><br />
