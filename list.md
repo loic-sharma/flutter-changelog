@@ -774,7 +774,11 @@
 
 ### April 26, 2025 to May 2, 2025
 
-1 commits.
+2 commits.
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 2
+  <sub>[#9007](https://github.com/flutter/packages/pull/9007) merged on May 1, 2025 &mdash; **Large:** [49 comments](https://github.com/flutter/packages/pull/9007) over 3 weeks, 644 additions and 688 deletions in 31 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Tyler Denniston](https://github.com/tdenniston)** &mdash; [two_dimensional_scrollables] Fix TreeView null dereference during paint
   <sub>[#9103](https://github.com/flutter/packages/pull/9103) merged on April 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9103) over 1 week, 97 additions and 3 deletions in 4 files</sub>
