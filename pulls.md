@@ -80,9 +80,6 @@
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Siva](https://github.com/a-siva)** &mdash; Manual Roll Dart SDK from 8fe61b2d428b to 5c535a368799<br />
-  <sub>[#168122](https://github.com/flutter/flutter/pull/168122) opened on on May 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168122) 21 additions and 10 deletions in 4 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fill/StrokePathGeometry use geom objects as path sources<br />
   <sub>[#168125](https://github.com/flutter/flutter/pull/168125) opened on on May 1, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/168125) 487 additions and 68 deletions in 14 files</sub><br />
 
