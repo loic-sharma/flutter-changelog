@@ -107,6 +107,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Only build and download Fuchsia artifacts on `master`<br />
   <sub>[#168169](https://github.com/flutter/flutter/pull/168169) opened on on May 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168169) 6 additions and 0 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Test PR: Update `README.md`<br />
-  <sub>[#168172](https://github.com/flutter/flutter/pull/168172) opened on on May 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168172) 2 additions and 0 deletions in 1 file</sub><br />
-
