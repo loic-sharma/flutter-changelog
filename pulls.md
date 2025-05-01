@@ -101,6 +101,3 @@
 * **[Hamed Esam](https://github.com/Hamed233)** &mdash; [material] Fix tooltip blocking scroll events on web<br />
   <sub>[#168168](https://github.com/flutter/flutter/pull/168168) opened on on May 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168168) 69 additions and 1 deletion in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Only build and download Fuchsia artifacts on `master`<br />
-  <sub>[#168169](https://github.com/flutter/flutter/pull/168169) opened on on May 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168169) 6 additions and 0 deletions in 2 files</sub><br />
-
