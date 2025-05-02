@@ -80,9 +80,6 @@
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add documentation examples to `KeepAlive` `AutomaticKeepAlive` and `AutomaticKeepAliveClientMixin`<br />
-  <sub>[#168137](https://github.com/flutter/flutter/pull/168137) opened on on May 1, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168137) 436 additions and 0 deletions in 8 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds radio group widget r2<br />
   <sub>[#168161](https://github.com/flutter/flutter/pull/168161) opened on on May 1, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168161) 734 additions and 281 deletions in 21 files</sub><br />
 
@@ -106,4 +103,7 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Fix deprecated API calls within tool<br />
   <sub>[#168200](https://github.com/flutter/flutter/pull/168200) opened on on May 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168200) 25 additions and 35 deletions in 6 files</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from dependencies 2<br />
+  <sub>[#168203](https://github.com/flutter/flutter/pull/168203) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168203) 1086 additions and 1391 deletions in 60 files</sub><br />
 
