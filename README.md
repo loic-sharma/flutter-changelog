@@ -874,7 +874,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Jeff Miller](https://github.com/jmiller-pwi)** &mdash; [flutter_adaptive_scaffold] allow users to override navigation rail padding from AdaptiveScaffold constructor<br />
-  <sub>[#8433](https://github.com/flutter/packages/pull/8433) merged on May 2, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/8433) over 3 months, 46 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#8433](https://github.com/flutter/packages/pull/8433) merged on May 2, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/8433) over 3 months, 46 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add support for caseSensitive<br />
