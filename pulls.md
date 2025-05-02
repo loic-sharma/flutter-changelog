@@ -107,3 +107,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from dependencies 2<br />
   <sub>[#168203](https://github.com/flutter/flutter/pull/168203) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168203) 1086 additions and 1391 deletions in 60 files</sub><br />
 
+* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(material): add documentation block for MaterialTapTargetSize enum<br />
+  <sub>[#168207](https://github.com/flutter/flutter/pull/168207) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168207) 8 additions and 2 deletions in 2 files</sub><br />
+
