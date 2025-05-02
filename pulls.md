@@ -83,9 +83,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add documentation examples to `KeepAlive` `AutomaticKeepAlive` and `AutomaticKeepAliveClientMixin`<br />
   <sub>[#168137](https://github.com/flutter/flutter/pull/168137) opened on on May 1, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168137) 436 additions and 0 deletions in 8 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Delete unused FlutterRenderBackingStore<br />
-  <sub>[#168159](https://github.com/flutter/flutter/pull/168159) opened on on May 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168159) 0 additions and 52 deletions in 4 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds radio group widget r2<br />
   <sub>[#168161](https://github.com/flutter/flutter/pull/168161) opened on on May 1, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168161) 734 additions and 281 deletions in 21 files</sub><br />
 
