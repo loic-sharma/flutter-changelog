@@ -122,6 +122,3 @@
 * **[sigmundch](https://github.com/sigmundch)** &mdash; [dyn_modules] enable ddm builds in the merge queue<br />
   <sub>[#168233](https://github.com/flutter/flutter/pull/168233) opened on on May 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168233) 2 additions and 4 deletions in 1 file</sub><br />
 
-* **[Nick Sparks](https://github.com/nsparks)** &mdash; InputDecorator - animate between transparent hoverColor and hoverColor<br />
-  <sub>[#168244](https://github.com/flutter/flutter/pull/168244) opened on on May 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168244) 22 additions and 2 deletions in 2 files</sub><br />
-
