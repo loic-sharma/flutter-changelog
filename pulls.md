@@ -101,3 +101,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add metrics for android gradle plugin version<br />
   <sub>[#168181](https://github.com/flutter/flutter/pull/168181) opened on on May 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168181) 54 additions and 9 deletions in 2 files</sub><br />
 
+* **[nailahsall0](https://github.com/nailahsall0)** &mdash; docs: Fixed broken links in WidgetStateProperty documentations<br />
+  <sub>[#168191](https://github.com/flutter/flutter/pull/168191) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168191) 2 additions and 2 deletions in 1 file</sub><br />
+
