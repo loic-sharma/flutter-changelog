@@ -91,7 +91,7 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; New geometry class to directly stroke rectangles
-  <sub>[#168038](https://github.com/flutter/flutter/pull/168038) merged on May 1, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/168038) over 1 day, 396 additions and 35 deletions in 12 files</sub>
+  <sub>[#168038](https://github.com/flutter/flutter/pull/168038) merged on May 1, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/168038) over 1 day, 396 additions and 35 deletions in 12 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Tosemite](https://github.com/Tosemite)** &mdash; add directionality to CupertinoDialog
