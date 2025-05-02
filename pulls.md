@@ -119,3 +119,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.<br />
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168217) 73 additions and 7 deletions in 2 files</sub><br />
 
+* **[sigmundch](https://github.com/sigmundch)** &mdash; [dyn_modules] enable ddm builds in the merge queue<br />
+  <sub>[#168233](https://github.com/flutter/flutter/pull/168233) opened on on May 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168233) 2 additions and 4 deletions in 1 file</sub><br />
+
