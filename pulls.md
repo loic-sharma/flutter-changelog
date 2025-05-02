@@ -110,3 +110,9 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(material): add documentation block for MaterialTapTargetSize enum<br />
   <sub>[#168207](https://github.com/flutter/flutter/pull/168207) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168207) 8 additions and 2 deletions in 2 files</sub><br />
 
+* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(button): add example usage to TextButton.icon constructor<br />
+  <sub>[#168208](https://github.com/flutter/flutter/pull/168208) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168208) 3075 additions and 315 deletions in 11 files</sub><br />
+
+* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(button): add example usage to TextButton.icon constructor<br />
+  <sub>[#168209](https://github.com/flutter/flutter/pull/168209) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168209) 3075 additions and 315 deletions in 11 files</sub><br />
+
