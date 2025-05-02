@@ -855,7 +855,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-3 commits.
+4 commits.
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 2<br />
   <sub>[#9007](https://github.com/flutter/packages/pull/9007) merged on May 1, 2025 &mdash; **Large:** [49 comments](https://github.com/flutter/packages/pull/9007) over 3 weeks, 644 additions and 688 deletions in 31 files</sub><br />
@@ -864,6 +864,10 @@
 * **[Tyler Denniston](https://github.com/tdenniston)** &mdash; [two_dimensional_scrollables] Fix TreeView null dereference during paint<br />
   <sub>[#9103](https://github.com/flutter/packages/pull/9103) merged on April 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9103) over 1 week, 97 additions and 3 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Jeff Miller](https://github.com/jmiller-pwi)** &mdash; [flutter_adaptive_scaffold] allow users to override navigation rail padding from AdaptiveScaffold constructor<br />
+  <sub>[#8433](https://github.com/flutter/packages/pull/8433) merged on May 2, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/8433) over 3 months, 46 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add support for caseSensitive<br />
   <sub>[#9134](https://github.com/flutter/packages/pull/9134) merged on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9134) over 1 week, 269 additions and 3 deletions in 9 files</sub><br />
