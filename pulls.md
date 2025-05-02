@@ -116,3 +116,9 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(button): add example usage to TextButton.icon constructor<br />
   <sub>[#168209](https://github.com/flutter/flutter/pull/168209) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168209) 3075 additions and 315 deletions in 11 files</sub><br />
 
+* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(debug): add performance warning to debugPrint<br />
+  <sub>[#168212](https://github.com/flutter/flutter/pull/168212) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168212) 3078 additions and 315 deletions in 12 files</sub><br />
+
+* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(debug): add performance warning to debugPrint<br />
+  <sub>[#168213](https://github.com/flutter/flutter/pull/168213) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168213) 3078 additions and 315 deletions in 12 files</sub><br />
+
