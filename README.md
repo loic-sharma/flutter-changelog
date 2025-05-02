@@ -355,8 +355,8 @@
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Omit service worker settings when service worker is disabled<br />
-  <sub>[#168192](https://github.com/flutter/flutter/pull/168192) merged on May 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168192) over 17 hours, 60 additions and 14 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+  <sub>[#168192](https://github.com/flutter/flutter/pull/168192) merged on May 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168192) over 17 hours, 60 additions and 14 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [David MARKEY](https://github.com/d-markey), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes semantics role search box<br />
   <sub>[#167290](https://github.com/flutter/flutter/pull/167290) merged on April 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167290) over 2 weeks, 18 additions and 25 deletions in 5 files</sub><br />

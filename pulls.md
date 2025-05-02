@@ -119,3 +119,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.<br />
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168217) 73 additions and 7 deletions in 2 files</sub><br />
 
+* **[Francisco Nunes](https://github.com/heisenunes)** &mdash; added removeSnackBar function for removing arbitrary queued items<br />
+  <sub>[#168253](https://github.com/flutter/flutter/pull/168253) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168253) 103 additions and 2 deletions in 2 files</sub><br />
+
