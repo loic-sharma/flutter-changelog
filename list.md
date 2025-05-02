@@ -1031,7 +1031,7 @@
 
 ### April 26, 2025 to May 2, 2025
 
-13 commits.
+14 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update first widgets example to work with both themes
   <sub>[#11948](https://github.com/flutter/website/pull/11948) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11948) over 23 minutes, 10 additions and 2 deletions in 2 files</sub>
@@ -1068,6 +1068,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce a new `/install` root directory
   <sub>[#11951](https://github.com/flutter/website/pull/11951) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11951) over 26 minutes, 123 additions and 26 deletions in 16 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add a to link for SwiftPM manual migration instructions
+  <sub>[#11970](https://github.com/flutter/website/pull/11970) merged on May 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11970) over 2 hours, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add animations codelab to codelabs page
