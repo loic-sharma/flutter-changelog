@@ -116,3 +116,6 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(debug): add performance warning to debugPrint<br />
   <sub>[#168213](https://github.com/flutter/flutter/pull/168213) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168213) 3078 additions and 315 deletions in 12 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.<br />
+  <sub>[#168217](https://github.com/flutter/flutter/pull/168217) opened on on May 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168217) 73 additions and 7 deletions in 2 files</sub><br />
+
