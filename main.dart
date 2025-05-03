@@ -13,6 +13,7 @@ void main(List<String> arguments) async {
 
   await _writeChangelog(token);
   await _writeUnassignedPullRequests(token, team);
+  print('Done!');
 }
 
 Future<void> _writeChangelog(String? token) async {
