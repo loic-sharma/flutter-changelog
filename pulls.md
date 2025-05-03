@@ -146,3 +146,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change FGP unit test `expect` to match on process result instead of exit code<br />
   <sub>[#168278](https://github.com/flutter/flutter/pull/168278) opened on on May 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168278) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Replace [FinderBase] with [Finder] in the documentation of Matchers<br />
+  <sub>[#168279](https://github.com/flutter/flutter/pull/168279) opened on on May 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168279) 5 additions and 5 deletions in 1 file</sub><br />
+
