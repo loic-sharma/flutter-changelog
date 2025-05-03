@@ -140,3 +140,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use StrokeParameters anywhere stroke is described<br />
   <sub>[#168276](https://github.com/flutter/flutter/pull/168276) opened on on May 3, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168276) 411 additions and 214 deletions in 19 files</sub><br />
 
+* **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; fix FadeForwardsTransitionBuilder input irresponsive during return animation #164241<br />
+  <sub>[#168277](https://github.com/flutter/flutter/pull/168277) opened on on May 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168277) 218 additions and 25 deletions in 4 files</sub><br />
+
