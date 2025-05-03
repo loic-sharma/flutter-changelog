@@ -125,3 +125,6 @@
 * **[Francisco Nunes](https://github.com/heisenunes)** &mdash; added removeSnackBar function for removing arbitrary queued items<br />
   <sub>[#168253](https://github.com/flutter/flutter/pull/168253) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168253) 103 additions and 2 deletions in 2 files</sub><br />
 
+* **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: Add Widget of the Week video to DropdownMenu<br />
+  <sub>[#168254](https://github.com/flutter/flutter/pull/168254) opened on on May 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168254) 2 additions and 0 deletions in 1 file</sub><br />
+
