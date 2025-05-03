@@ -293,8 +293,12 @@ class Commit {
   final PullRequest pullRequest;
 
   factory Commit.fromJson(Map<String, dynamic> json) {
-    final pullRequest = json['associatedPullRequests']['nodes'][0] as Map<String, dynamic>;
+    final nodes = json['associatedPullRequests']['nodes'] as List<dynamic>;
+    if (nodes.isEmpty) {
+      throw Exception('Commit has no associated pull request!');
+    }
 
+    final pullRequest = nodes[0] as Map<String, dynamic>;
     return Commit(
       abbreviatedOid: json['abbreviatedOid'] as String,
       commitDate: DateTime.parse(json['committedDate'] as String),

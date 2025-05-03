@@ -34,7 +34,7 @@ Future<void> _writeChangelog(String? token) async {
   );
 
   String owner = 'flutter';
-  for (final repository in ['flutter', 'engine', 'packages', 'website']) {
+  for (final repository in ['flutter', 'packages', 'website']) {
     var done = false;
     String? after;
     final seen = <int>{};
