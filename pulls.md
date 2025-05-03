@@ -131,3 +131,6 @@
 * **[MarkZ](https://github.com/Markzipan)** &mdash; Using headless=new for Chrome macrobenchmarks<br />
   <sub>[#168256](https://github.com/flutter/flutter/pull/168256) opened on on May 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168256) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Yatharth Bajaj](https://github.com/Yatha04)** &mdash; docs: fix broken MaterialTapTargetSize links (#167808)<br />
+  <sub>[#168262](https://github.com/flutter/flutter/pull/168262) opened on on May 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168262) 5 additions and 0 deletions in 1 file</sub><br />
+
