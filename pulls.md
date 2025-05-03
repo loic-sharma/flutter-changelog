@@ -128,3 +128,6 @@
 * **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: Add Widget of the Week video to DropdownMenu<br />
   <sub>[#168254](https://github.com/flutter/flutter/pull/168254) opened on on May 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168254) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Using headless=new for Chrome macrobenchmarks<br />
+  <sub>[#168256](https://github.com/flutter/flutter/pull/168256) opened on on May 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168256) 2 additions and 0 deletions in 1 file</sub><br />
+
