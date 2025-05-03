@@ -454,11 +454,11 @@ class Review {
   final Uri? reviewerUrl;
 
   factory Review.fromJson(Map<String, dynamic> json) {
-    final authorUrl = json['author']['url'] as String?;
+    final authorUrl = json['author']?['url'] as String?;
 
     return Review(
-      reviewerLogin: json['author']['login'] as String?,
-      reviewerName: json['author']['name'] as String?,
+      reviewerLogin: json['author']?['login'] as String?,
+      reviewerName: json['author']?['name'] as String?,
       reviewerUrl: authorUrl != null ? Uri.parse(authorUrl) : null,
     );
   }
