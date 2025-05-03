@@ -107,6 +107,7 @@ query LatestChanges(\$owner: String!, \$repository: String!, \$after: String) {
                       changedFiles
                       deletions
                       totalCommentsCount
+                      authorAssociation
                       author {
                         login
                         url
@@ -181,6 +182,7 @@ query OpenPulls(\$owner: String!, \$repository: String!, \$after: String) {
         changedFiles
         deletions
         totalCommentsCount
+        authorAssociation
         author {
           login
           url
@@ -317,6 +319,7 @@ class PullRequest {
     required this.reactions,
     required this.authorLogin,
     required this.authorName,
+    required this.authorAssociation,
     required this.authorUrl,
     required this.authorOrganizations,
     required this.totalReviews,
@@ -341,6 +344,7 @@ class PullRequest {
 
   final String authorLogin;
   final String? authorName;
+  final CommentAuthorAssociation? authorAssociation;
   final Uri authorUrl;
   final List<String> authorOrganizations;
 
@@ -388,6 +392,7 @@ class PullRequest {
       reactions: json['reactions']['totalCount'] as int,
       authorLogin: author['login'] as String,
       authorName: author['name'] as String?,
+      authorAssociation: CommentAuthorAssociation.fromString(json['authorAssociation'] as String),
       authorUrl: Uri.parse(author['url'] as String),
       authorOrganizations: [
         for (final organization in organizations ?? [])
@@ -465,5 +470,45 @@ void _tryParseJson<T>(String type, T json, void Function(T) parse) {
     print(json);
     print('');
     print(s);
+  }
+}
+
+enum CommentAuthorAssociation {
+  // Author has been invited to collaborate on the repository.
+  collaborator,
+
+  // Author has previously committed to the repository.
+  contributor,
+
+  // Author has not previously committed to GitHub.
+  firstTimer,
+
+  // Author has not previously committed to the repository.
+  firstTimeContributor,
+
+  // Author is a placeholder for an unclaimed user.
+  mannequin,
+
+  // Author is a member of the organization that owns the repository.
+  member,
+
+  // Author has no association with the repository.
+  none,
+
+  // Author is the owner of the repository.
+  owner;
+
+  static CommentAuthorAssociation? fromString(String value) {
+    return switch (value) {
+      'COLLABORATOR' => CommentAuthorAssociation.collaborator,
+      'CONTRIBUTOR' => CommentAuthorAssociation.contributor,
+      'FIRST_TIMER' => CommentAuthorAssociation.firstTimer,
+      'FIRST_TIME_CONTRIBUTOR' => CommentAuthorAssociation.firstTimeContributor,
+      'MANNEQUIN' => CommentAuthorAssociation.mannequin,
+      'MEMBER' => CommentAuthorAssociation.member,
+      'NONE' => CommentAuthorAssociation.none,
+      'OWNER' => CommentAuthorAssociation.owner,
+      _ => null,
+    };
   }
 }

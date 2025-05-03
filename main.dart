@@ -154,6 +154,11 @@ int _score(Commit commit) {
 
   if (team) score += 2;
 
+  if (pr.authorAssociation == CommentAuthorAssociation.firstTimeContributor
+    || pr.authorAssociation == CommentAuthorAssociation.firstTimer) {
+    score += 2;
+  }
+
   if (issue != null) {
     if (issue.labels.containsKey('P0')) score += 10;
     if (issue.labels.containsKey('P1')) score += 10;

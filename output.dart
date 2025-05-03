@@ -46,6 +46,8 @@ class ChangelogWriter {
         final pullRequest = commit.pullRequest;
         final commitedAt = DateFormat.yMMMMd().format(commit.commitDate);
         final reviewDuration = commit.commitDate.difference(pullRequest.createdAt);
+        final firstTimeContributor = pullRequest.authorAssociation == CommentAuthorAssociation.firstTimeContributor
+          || pullRequest.authorAssociation == CommentAuthorAssociation.firstTimer;
 
         final reviewers = pullRequest.reviews
             .where((r) => r.reviewerLogin != null)
@@ -62,6 +64,9 @@ class ChangelogWriter {
 
         _output.write('* ');
         _output.write('**[${pullRequest.authorName ?? pullRequest.authorLogin}](${pullRequest.authorUrl})** ');
+        if (firstTimeContributor) {
+          _output.write('✨ ');
+        }
         _output.write('&mdash; ');
         _output.write(pullRequest.title);
         _output.write(htmlBreak);
@@ -95,6 +100,13 @@ class ChangelogWriter {
         _output.write('</sub>');
         _output.write(htmlBreak);
         _output.writeln();
+
+        if (firstTimeContributor) {
+          _output.write('  ');
+          _output.write('<sub>✨ First time contributor!</sub>');
+          _output.write(htmlBreak);
+          _output.writeln();
+        }
 
         if (images.isNotEmpty) {
           _output.write('  ');

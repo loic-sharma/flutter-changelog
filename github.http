@@ -33,6 +33,7 @@ query LatestChanges($owner: String!, $repository: String!, $after: String) {
                       changedFiles
                       deletions
                       totalCommentsCount
+                      authorAssociation
                       author {
                         login
                         url
