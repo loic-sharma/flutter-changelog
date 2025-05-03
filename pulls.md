@@ -78,7 +78,7 @@
   <sub>[#168017](https://github.com/flutter/flutter/pull/168017) opened on on April 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168017) 49 additions and 2 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Error when trying to use old HC mode when HCPP is enabled<br />
-  <sub>[#168027](https://github.com/flutter/flutter/pull/168027) opened on on April 30, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168027) 457 additions and 3 deletions in 7 files</sub><br />
+  <sub>[#168027](https://github.com/flutter/flutter/pull/168027) opened on on April 30, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168027) 465 additions and 3 deletions in 7 files</sub><br />
 
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
