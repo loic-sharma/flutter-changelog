@@ -152,9 +152,6 @@
 * **[Aryan Sood](https://github.com/Aryan-Sood)** &mdash; added padding of 4.0 to dayWidget in calender date picker to match material design<br />
   <sub>[#168284](https://github.com/flutter/flutter/pull/168284) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168284) 5 additions and 1 deletion in 1 file</sub><br />
 
-* **[Shivansh Yadav](https://github.com/shivansh00011)** &mdash; Fix: Allow Radio and other toggleables to be selected with space/enter key when focused. <br />
-  <sub>[#168287](https://github.com/flutter/flutter/pull/168287) opened on on May 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/168287) 1538 additions and 1476 deletions in 328 files</sub><br />
-
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Respect `calendarDelegate` in `showDateRangePicker` and make `CalendarDateRangePicker` public<br />
   <sub>[#168290](https://github.com/flutter/flutter/pull/168290) opened on on May 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168290) 52 additions and 5 deletions in 2 files</sub><br />
 
