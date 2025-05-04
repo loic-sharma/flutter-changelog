@@ -149,3 +149,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Replace [FinderBase] with [Finder] in the documentation of Matchers<br />
   <sub>[#168279](https://github.com/flutter/flutter/pull/168279) opened on on May 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168279) 5 additions and 5 deletions in 1 file</sub><br />
 
+* **[Aryan Sood](https://github.com/Aryan-Sood)** &mdash; added padding of 4.0 to dayWidget in calender date picker to match material design<br />
+  <sub>[#168284](https://github.com/flutter/flutter/pull/168284) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168284) 5 additions and 1 deletion in 1 file</sub><br />
+
