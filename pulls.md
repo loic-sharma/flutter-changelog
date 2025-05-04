@@ -155,3 +155,6 @@
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Respect `calendarDelegate` in `showDateRangePicker` and make `CalendarDateRangePicker` public<br />
   <sub>[#168290](https://github.com/flutter/flutter/pull/168290) opened on on May 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168290) 52 additions and 5 deletions in 2 files</sub><br />
 
+* **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
+  <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
+
