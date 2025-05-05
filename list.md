@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-8 commits.
+9 commits.
 
 * **[Sebastine Odeh](https://github.com/CoderNamedHendrick)** &mdash; Cupertino sheet MediaQuery values
   <sub>[#168041](https://github.com/flutter/flutter/pull/168041) merged on May 5, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/168041) over 5 days, 82 additions and 1 deletion in 2 files</sub>
@@ -26,6 +26,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change FGP unit test `expect` to match on process result instead of exit code
   <sub>[#168278](https://github.com/flutter/flutter/pull/168278) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168278) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Adding utf-8 encoding to hello world's html template
+  <sub>[#168162](https://github.com/flutter/flutter/pull/168162) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168162) over 4 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update goldens.dart error to point to moved file
   <sub>[#168319](https://github.com/flutter/flutter/pull/168319) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168319) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
