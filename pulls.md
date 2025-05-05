@@ -155,3 +155,6 @@
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Chip delete button semantic bounds<br />
+  <sub>[#168310](https://github.com/flutter/flutter/pull/168310) opened on on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168310) 58 additions and 3 deletions in 2 files</sub><br />
+
