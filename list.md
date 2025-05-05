@@ -4,7 +4,12 @@
 
 ### May 3, 2025 to May 9, 2025
 
-9 commits.
+10 commits.
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
+  <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+  <sub><details><summary>10 images...</summary><img width="130" alt="Screenshot 2025-04-23 at 12 22 41 PM" src="https://github.com/user-attachments/assets/e643fd26-6bcb-43a2-a718-191e1831345f" /><img width="113" alt="Screenshot 2025-04-23 at 12 22 48 PM" src="https://github.com/user-attachments/assets/5ac81455-64f0-4f07-9b36-b8fd498a9669" /><img width="105" alt="Screenshot 2025-04-23 at 12 21 46 PM" src="https://github.com/user-attachments/assets/49c67f6f-7d90-4758-83e9-ed8bf5505bae" /><img width="108" alt="Screenshot 2025-04-23 at 12 21 55 PM" src="https://github.com/user-attachments/assets/aeca0178-872d-441e-ae5f-e9b469d83d60" /><img width="399" alt="Screenshot 2025-04-22 at 2 21 46 PM" src="https://github.com/user-attachments/assets/0ad45cee-15cf-45af-9fa0-c0955296aa29" /><img width="134" alt="Screenshot 2025-04-23 at 12 20 19 PM" src="https://github.com/user-attachments/assets/9b34a6c2-5308-465e-b842-0fb180d25865" /><img width="123" alt="Screenshot 2025-04-23 at 12 20 26 PM" src="https://github.com/user-attachments/assets/7c601831-91c8-440e-98ae-070444574ff9" /><img width="106" alt="Screenshot 2025-04-22 at 2 21 38 PM" src="https://github.com/user-attachments/assets/517839d5-25d8-42e7-a9b9-f35a77725afc" /><img width="103" alt="Screenshot 2025-04-22 at 2 21 55 PM" src="https://github.com/user-attachments/assets/390f0b0f-1a9b-4880-b686-fabe102fe7b6" />![new_widget_selection_gif](https://github.com/user-attachments/assets/4f2e96fe-2478-4254-8fe5-4023598f1a5e)</details></sub>
 
 * **[Sebastine Odeh](https://github.com/CoderNamedHendrick)** &mdash; Cupertino sheet MediaQuery values
   <sub>[#168041](https://github.com/flutter/flutter/pull/168041) merged on May 5, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/168041) over 5 days, 82 additions and 1 deletion in 2 files</sub>
