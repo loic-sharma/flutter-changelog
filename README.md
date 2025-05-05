@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-11 commits.
+13 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior <br />
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub><br />
@@ -24,6 +24,10 @@
   <sub>[#168276](https://github.com/flutter/flutter/pull/168276) merged on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168276) over 1 day, 439 additions and 233 deletions in 22 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Copy Dart SDK _internal/vm/bin sources into the sky_engine package<br />
+  <sub>[#168238](https://github.com/flutter/flutter/pull/168238) merged on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168238) over 3 days, 8 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Check for duplicate archive paths in the engine build configuration JSON files<br />
   <sub>[#168248](https://github.com/flutter/flutter/pull/168248) merged on May 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168248) over 2 days, 55 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -35,6 +39,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change FGP unit test `expect` to match on process result instead of exit code<br />
   <sub>[#168278](https://github.com/flutter/flutter/pull/168278) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168278) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Using headless=new for Chrome macrobenchmarks<br />
+  <sub>[#168256](https://github.com/flutter/flutter/pull/168256) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168256) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[MarkZ](https://github.com/Markzipan)** &mdash; Adding utf-8 encoding to hello world's html template<br />
   <sub>[#168162](https://github.com/flutter/flutter/pull/168162) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168162) over 4 days, 1 addition and 0 deletions in 1 file</sub><br />
