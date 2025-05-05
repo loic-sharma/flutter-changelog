@@ -155,6 +155,3 @@
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
-* **[yaroshovychsofi](https://github.com/yaroshovychsofi)** &mdash; користувач Страховк<br />
-  <sub>[#168297](https://github.com/flutter/flutter/pull/168297) opened on on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168297) 1 addition and 0 deletions in 1 file</sub><br />
-
