@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-13 commits.
+14 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -19,6 +19,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm heavy
   <sub>[#166619](https://github.com/flutter/flutter/pull/166619) merged on May 5, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/166619) over 1 month, 755 additions and 250 deletions in 30 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Support writing Swift in the macOS embedder
+  <sub>[#168174](https://github.com/flutter/flutter/pull/168174) merged on May 5, 2025 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/168174) over 4 days, 272 additions and 190 deletions in 16 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use StrokeParameters anywhere stroke is described
   <sub>[#168276](https://github.com/flutter/flutter/pull/168276) merged on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168276) over 1 day, 439 additions and 233 deletions in 22 files</sub>
