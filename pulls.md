@@ -152,6 +152,3 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update goldens.dart error to point to moved file<br />
   <sub>[#168319](https://github.com/flutter/flutter/pull/168319) opened on on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168319) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles (#165596)"<br />
-  <sub>[#168339](https://github.com/flutter/flutter/pull/168339) opened on on May 5, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168339) 333 additions and 447 deletions in 7 files</sub><br />
-
