@@ -4,12 +4,16 @@
 
 ### May 3, 2025 to May 9, 2025
 
-6 commits.
+7 commits.
 
 * **[Sebastine Odeh](https://github.com/CoderNamedHendrick)** &mdash; Cupertino sheet MediaQuery values
   <sub>[#168041](https://github.com/flutter/flutter/pull/168041) merged on May 5, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/168041) over 5 days, 82 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/614c9c56-2aeb-4471-a48b-05337cbe9089)![image](https://github.com/user-attachments/assets/643d05b8-298f-4f33-9004-ca8b6de5f5a1)</details></sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm heavy
+  <sub>[#166619](https://github.com/flutter/flutter/pull/166619) merged on May 5, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/166619) over 1 month, 755 additions and 250 deletions in 30 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use StrokeParameters anywhere stroke is described
   <sub>[#168276](https://github.com/flutter/flutter/pull/168276) merged on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168276) over 1 day, 439 additions and 233 deletions in 22 files</sub>
