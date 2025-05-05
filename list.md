@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-5 commits.
+6 commits.
 
 * **[Sebastine Odeh](https://github.com/CoderNamedHendrick)** &mdash; Cupertino sheet MediaQuery values
   <sub>[#168041](https://github.com/flutter/flutter/pull/168041) merged on May 5, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/168041) over 5 days, 82 additions and 1 deletion in 2 files</sub>
@@ -14,6 +14,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use StrokeParameters anywhere stroke is described
   <sub>[#168276](https://github.com/flutter/flutter/pull/168276) merged on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168276) over 1 day, 439 additions and 233 deletions in 22 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart from 5c535a368799 to a1e1e2770c1e
+  <sub>[#168317](https://github.com/flutter/flutter/pull/168317) merged on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168317) over 2 hours, 12 additions and 9 deletions in 4 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Siva](https://github.com/a-siva)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change FGP unit test `expect` to match on process result instead of exit code
   <sub>[#168278](https://github.com/flutter/flutter/pull/168278) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168278) over 1 day, 1 addition and 1 deletion in 1 file</sub>
