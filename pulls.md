@@ -159,5 +159,5 @@
   <sub>[#168307](https://github.com/flutter/flutter/pull/168307) opened on on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168307) 690 additions and 339 deletions in 6 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update goldens.dart error to point to moved file<br />
-  <sub>[#168319](https://github.com/flutter/flutter/pull/168319) opened on on May 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168319) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#168319](https://github.com/flutter/flutter/pull/168319) opened on on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168319) 1 addition and 1 deletion in 1 file</sub><br />
 
