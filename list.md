@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 3, 2025 to May 9, 2025
+
+1 commits.
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Fix hit-testing order in semantics (#167522)"
+  <sub>[#168235](https://github.com/flutter/flutter/pull/168235) merged on May 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168235) over 2 days, 38 additions and 230 deletions in 5 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
+
 ### April 26, 2025 to May 2, 2025
 
-95 commits.
+<details>
+<summary>95 commits...</summary>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField
   <sub>[#163721](https://github.com/flutter/flutter/pull/163721) merged on May 2, 2025 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/163721) over 2 months, 1415 additions and 0 deletions in 3 files</sub>
@@ -390,6 +399,8 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland "[Windows] Enable merged platform and UI thread by default" 
   <sub>[#167472](https://github.com/flutter/flutter/pull/167472) merged on April 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167472) over 1 week, 41 additions and 30 deletions in 2 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+</details>
 
 ### April 19, 2025 to April 25, 2025
 
