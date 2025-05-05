@@ -152,3 +152,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update goldens.dart error to point to moved file<br />
   <sub>[#168319](https://github.com/flutter/flutter/pull/168319) opened on on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168319) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update `mac_ios` tests to run on either arm64 or x86<br />
+  <sub>[#168341](https://github.com/flutter/flutter/pull/168341) opened on on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168341) 0 additions and 1 deletion in 1 file</sub><br />
+
