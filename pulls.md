@@ -68,8 +68,8 @@
 * **[Bobbie-Ware](https://github.com/Bobbie-Ware)** &mdash; fix minor spelling mistake in roadmap<br />
   <sub>[#167888](https://github.com/flutter/flutter/pull/167888) opened on on April 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167888) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: flex factor null check exception.<br />
-  <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167890) 45 additions and 2 deletions in 2 files</sub><br />
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix [Widget Inspector]: flex factor null check exception.<br />
+  <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167890) 45 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add support for new line adding in a multiline field with non-default action.<br />
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
