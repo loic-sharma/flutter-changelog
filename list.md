@@ -4,7 +4,11 @@
 
 ### May 3, 2025 to May 9, 2025
 
-1 commits.
+2 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add typedefs, replace `height` and `width` with `size`
+  <sub>[#168063](https://github.com/flutter/flutter/pull/168063) merged on May 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168063) over 5 days, 76 additions and 86 deletions in 9 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Fix hit-testing order in semantics (#167522)"
   <sub>[#168235](https://github.com/flutter/flutter/pull/168235) merged on May 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168235) over 2 days, 38 additions and 230 deletions in 5 files</sub>
