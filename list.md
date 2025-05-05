@@ -4,7 +4,11 @@
 
 ### May 3, 2025 to May 9, 2025
 
-2 commits.
+3 commits.
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use StrokeParameters anywhere stroke is described
+  <sub>[#168276](https://github.com/flutter/flutter/pull/168276) merged on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168276) over 1 day, 439 additions and 233 deletions in 22 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add typedefs, replace `height` and `width` with `size`
   <sub>[#168063](https://github.com/flutter/flutter/pull/168063) merged on May 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168063) over 5 days, 76 additions and 86 deletions in 9 files</sub>
@@ -732,9 +736,18 @@
 
 ## flutter/website
 
+### May 3, 2025 to May 9, 2025
+
+1 commits.
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Delete duplicate DevTools releaset note entries.
+  <sub>[#11974](https://github.com/flutter/website/pull/11974) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11974) over 12 minutes, 14 additions and 33 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### April 26, 2025 to May 2, 2025
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update first widgets example to work with both themes
   <sub>[#11948](https://github.com/flutter/website/pull/11948) merged on April 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11948) over 23 minutes, 10 additions and 2 deletions in 2 files</sub>
@@ -792,6 +805,8 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: bump minimum iOS version from 12 to 13 (#11958)"
   <sub>[#11962](https://github.com/flutter/website/pull/11962) merged on April 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11962) over 1 hour, 11 additions and 12 deletions in 6 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### April 19, 2025 to April 25, 2025
 
