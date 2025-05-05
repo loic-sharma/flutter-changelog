@@ -4,11 +4,15 @@
 
 ### May 3, 2025 to May 9, 2025
 
-3 commits.
+4 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use StrokeParameters anywhere stroke is described
   <sub>[#168276](https://github.com/flutter/flutter/pull/168276) merged on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168276) over 1 day, 439 additions and 233 deletions in 22 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Change FGP unit test `expect` to match on process result instead of exit code
+  <sub>[#168278](https://github.com/flutter/flutter/pull/168278) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168278) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add typedefs, replace `height` and `width` with `size`
   <sub>[#168063](https://github.com/flutter/flutter/pull/168063) merged on May 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168063) over 5 days, 76 additions and 86 deletions in 9 files</sub>
