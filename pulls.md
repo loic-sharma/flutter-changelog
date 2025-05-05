@@ -161,3 +161,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Chip delete button semantic bounds<br />
   <sub>[#168310](https://github.com/flutter/flutter/pull/168310) opened on on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168310) 58 additions and 3 deletions in 2 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update goldens.dart error to point to moved file<br />
+  <sub>[#168319](https://github.com/flutter/flutter/pull/168319) opened on on May 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168319) 1 addition and 1 deletion in 1 file</sub><br />
+
