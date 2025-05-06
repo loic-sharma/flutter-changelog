@@ -128,9 +128,6 @@
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; fix FadeForwardsTransitionBuilder input irresponsive during return animation #164241<br />
   <sub>[#168277](https://github.com/flutter/flutter/pull/168277) opened on on May 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168277) 218 additions and 25 deletions in 4 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Replace [FinderBase] with [Finder] in the documentation of Matchers<br />
-  <sub>[#168279](https://github.com/flutter/flutter/pull/168279) opened on on May 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168279) 5 additions and 5 deletions in 1 file</sub><br />
-
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Respect `calendarDelegate` in `showDateRangePicker` and make `CalendarDateRangePicker` public<br />
   <sub>[#168290](https://github.com/flutter/flutter/pull/168290) opened on on May 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168290) 52 additions and 5 deletions in 2 files</sub><br />
 
