@@ -164,3 +164,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: trailing closures for FlutterRunLoop.perform*<br />
+  <sub>[#168415](https://github.com/flutter/flutter/pull/168415) opened on on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168415) 37 additions and 39 deletions in 4 files</sub><br />
+
