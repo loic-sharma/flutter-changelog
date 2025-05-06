@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-23 commits.
+24 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -19,6 +19,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm heavy
   <sub>[#166619](https://github.com/flutter/flutter/pull/166619) merged on May 5, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/166619) over 1 month, 755 additions and 250 deletions in 30 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Expose access to conservative path bounds.
+  <sub>[#168402](https://github.com/flutter/flutter/pull/168402) merged on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168402) over 1 hour, 51 additions and 3 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `bin/internal/last_engine_commit.sh` and tests.
   <sub>[#168387](https://github.com/flutter/flutter/pull/168387) merged on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168387) over 2 hours, 331 additions and 3 deletions in 5 files</sub>
