@@ -153,7 +153,7 @@
   <sub>[#168390](https://github.com/flutter/flutter/pull/168390) opened on on May 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168390) 34 additions and 29 deletions in 31 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision to `3.8.0-278.4.beta`<br />
-  <sub>[#168391](https://github.com/flutter/flutter/pull/168391) opened on on May 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168391) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#168391](https://github.com/flutter/flutter/pull/168391) opened on on May 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168391) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix typo in gpu_surface_gl_impeller.cc<br />
   <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
