@@ -149,3 +149,6 @@
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#168377](https://github.com/flutter/flutter/pull/168377) opened on on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168377) 338 additions and 53 deletions in 14 files</sub><br />
 
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [beta] CP request for https://github.com/flutter/flutter/pull/167677<br />
+  <sub>[#168386](https://github.com/flutter/flutter/pull/168386) opened on on May 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168386) 668 additions and 124 deletions in 6 files</sub><br />
+
