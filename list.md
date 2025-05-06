@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-18 commits.
+19 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -55,6 +55,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change FGP unit test `expect` to match on process result instead of exit code
   <sub>[#168278](https://github.com/flutter/flutter/pull/168278) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168278) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Refactor WebTemplate to be immutable
+  <sub>[#168201](https://github.com/flutter/flutter/pull/168201) merged on May 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/168201) over 3 days, 89 additions and 83 deletions in 4 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[MarkZ](https://github.com/Markzipan)** &mdash; Using headless=new for Chrome macrobenchmarks
   <sub>[#168256](https://github.com/flutter/flutter/pull/168256) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168256) over 2 days, 2 additions and 0 deletions in 1 file</sub>
