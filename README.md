@@ -21,7 +21,7 @@
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Upload `android-arm64-release` treemap to known location<br />
-  <sub>[#168349](https://github.com/flutter/flutter/pull/168349) merged on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168349) over 2 hours, 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#168349](https://github.com/flutter/flutter/pull/168349) merged on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168349) over 2 hours, 5 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Support writing Swift in the macOS embedder<br />
