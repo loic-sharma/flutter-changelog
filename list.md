@@ -726,9 +726,18 @@
 
 ## flutter/packages
 
+### May 3, 2025 to May 9, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update READMEs of discontinued packages
+  <sub>[#9203](https://github.com/flutter/packages/pull/9203) merged on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9203) over 1 day, 42 additions and 18 deletions in 18 files</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Ander Dobo](https://github.com/anderdobo), [Greg Spencer](https://github.com/gspencergoog), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 ### April 26, 2025 to May 2, 2025
 
-4 commits.
+<details>
+<summary>4 commits...</summary>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 2
   <sub>[#9007](https://github.com/flutter/packages/pull/9007) merged on May 1, 2025 &mdash; **Large:** [49 comments](https://github.com/flutter/packages/pull/9007) over 3 weeks, 644 additions and 688 deletions in 31 files</sub>
@@ -745,6 +754,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add support for caseSensitive
   <sub>[#9134](https://github.com/flutter/packages/pull/9134) merged on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9134) over 1 week, 269 additions and 3 deletions in 9 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+</details>
 
 ### April 19, 2025 to April 25, 2025
 
