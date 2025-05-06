@@ -149,6 +149,3 @@
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#168377](https://github.com/flutter/flutter/pull/168377) opened on on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168377) 338 additions and 53 deletions in 14 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dispose underlying picture recorder when ending recording.<br />
-  <sub>[#168384](https://github.com/flutter/flutter/pull/168384) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168384) 31 additions and 0 deletions in 5 files</sub><br />
-

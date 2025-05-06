@@ -819,7 +819,12 @@
 
 ### May 3, 2025 to May 9, 2025
 
-2 commits.
+6 commits.
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add release notes for DevTools 2.46.0
+  <sub>[#11976](https://github.com/flutter/website/pull/11976) merged on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11976) over 19 hours, 31 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+  <sub><details><summary>1 image...</summary><img width="617" alt="Screenshot 2025-05-05 at 2 49 57 PM" src="https://github.com/user-attachments/assets/8aee86bd-d3e6-45a6-b9bd-282114192913" /></details></sub>
 
 * **[Brian Wo](https://github.com/brainwo)** &mdash; Use a smaller image for Twitter/OGP
   <sub>[#11960](https://github.com/flutter/website/pull/11960) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11960) over 5 days, 1 addition and 1 deletion in 2 files</sub>
@@ -828,6 +833,18 @@
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Delete duplicate DevTools releaset note entries.
   <sub>[#11974](https://github.com/flutter/website/pull/11974) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11974) over 12 minutes, 14 additions and 33 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update accessibility doc with Semantics roles information
+  <sub>[#11971](https://github.com/flutter/website/pull/11971) merged on May 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11971) over 3 days, 82 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove stray asterisks in DevTools Extensions page
+  <sub>[#11979](https://github.com/flutter/website/pull/11979) merged on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11979) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Migration guide for semantics menu roles"
+  <sub>[#11977](https://github.com/flutter/website/pull/11977) merged on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11977) over 18 hours, 0 additions and 173 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 ### April 26, 2025 to May 2, 2025
