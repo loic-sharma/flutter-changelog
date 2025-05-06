@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-16 commits.
+17 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -27,6 +27,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use StrokeParameters anywhere stroke is described
   <sub>[#168276](https://github.com/flutter/flutter/pull/168276) merged on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168276) over 1 day, 439 additions and 233 deletions in 22 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(RadioListTile):ensure that 'isThreeLine' can be configured through the
+  <sub>[#166964](https://github.com/flutter/flutter/pull/166964) merged on May 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/166964) over 3 weeks, 245 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping framework Template Defaults to Android 16 (API 36)
   <sub>[#166464](https://github.com/flutter/flutter/pull/166464) merged on May 5, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/166464) over 1 month, 166 additions and 155 deletions in 7 files</sub>
