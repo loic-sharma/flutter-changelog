@@ -150,11 +150,14 @@
   <sub>[#168377](https://github.com/flutter/flutter/pull/168377) opened on on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168377) 338 additions and 53 deletions in 14 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Add the capability of dumping live object counts in debug mode.<br />
-  <sub>[#168389](https://github.com/flutter/flutter/pull/168389) opened on on May 6, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168389) 312 additions and 23 deletions in 27 files</sub><br />
+  <sub>[#168389](https://github.com/flutter/flutter/pull/168389) opened on on May 6, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168389) 314 additions and 23 deletions in 28 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS/macOS: Consistent Flutter copyright headers<br />
-  <sub>[#168390](https://github.com/flutter/flutter/pull/168390) opened on on May 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168390) 33 additions and 29 deletions in 30 files</sub><br />
+  <sub>[#168390](https://github.com/flutter/flutter/pull/168390) opened on on May 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168390) 33 additions and 29 deletions in 30 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision to `3.8.0-278.4.beta`<br />
   <sub>[#168391](https://github.com/flutter/flutter/pull/168391) opened on on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168391) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix typo in gpu_surface_gl_impeller.cc<br />
+  <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
 
