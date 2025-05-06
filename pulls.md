@@ -149,6 +149,3 @@
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#168377](https://github.com/flutter/flutter/pull/168377) opened on on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168377) 338 additions and 53 deletions in 14 files</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; Update Flutter-Cherrypick-Process.md<br />
-  <sub>[#168388](https://github.com/flutter/flutter/pull/168388) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168388) 2 additions and 1 deletion in 1 file</sub><br />
-
