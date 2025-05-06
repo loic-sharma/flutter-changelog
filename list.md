@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-15 commits.
+16 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -63,6 +63,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add typedefs, replace `height` and `width` with `size`
   <sub>[#168063](https://github.com/flutter/flutter/pull/168063) merged on May 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168063) over 5 days, 76 additions and 86 deletions in 9 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles (#165596)"
+  <sub>[#168339](https://github.com/flutter/flutter/pull/168339) merged on May 5, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/168339) over 4 hours, 333 additions and 447 deletions in 7 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Fix hit-testing order in semantics (#167522)"
   <sub>[#168235](https://github.com/flutter/flutter/pull/168235) merged on May 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168235) over 2 days, 38 additions and 230 deletions in 5 files</sub>
