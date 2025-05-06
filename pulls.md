@@ -47,9 +47,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Web][Engine] Update MediaQuery in response to semanticsEnabled<br />
   <sub>[#166836](https://github.com/flutter/flutter/pull/166836) opened on on April 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166836) 17 additions and 0 deletions in 2 files</sub><br />
 
-* **[Nicholas Wilson](https://github.com/NicholasWilsonDEV)** &mdash; Fix typos in CHANGELOG.md<br />
-  <sub>[#166988](https://github.com/flutter/flutter/pull/166988) opened on on April 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166988) 5 additions and 5 deletions in 1 file</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/167393) 6179 additions and 292 deletions in 164 files</sub><br />
 
@@ -151,4 +148,7 @@
 
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#168377](https://github.com/flutter/flutter/pull/168377) opened on on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168377) 338 additions and 53 deletions in 14 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dispose underlying picture recorder when ending recording.<br />
+  <sub>[#168384](https://github.com/flutter/flutter/pull/168384) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168384) 31 additions and 0 deletions in 5 files</sub><br />
 
