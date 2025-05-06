@@ -51,7 +51,7 @@
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/167393) 6330 additions and 292 deletions in 164 files</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Resolve Cupertino textstyle in MaterialBasedCupertinoThemeData<br />
-  <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167597) 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167597) 5 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Clip.None Docs<br />
   <sub>[#167695](https://github.com/flutter/flutter/pull/167695) opened on on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167695) 3 additions and 0 deletions in 1 file</sub><br />
@@ -163,7 +163,4 @@
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
-
-* **[MarkZ](https://github.com/Markzipan)** &mdash; Extending timeouts for DDC macrobenchmarks<br />
-  <sub>[#168409](https://github.com/flutter/flutter/pull/168409) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168409) 2 additions and 0 deletions in 1 file</sub><br />
 
