@@ -728,7 +728,11 @@
 
 ### May 3, 2025 to May 9, 2025
 
-1 commits.
+2 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player_android] Modify to use `handlesCropAndRotation` to detect the `SurfaceTexture` Impeller backend<br />
+  <sub>[#9107](https://github.com/flutter/packages/pull/9107) merged on May 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9107) over 2 weeks, 98 additions and 44 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update READMEs of discontinued packages<br />
   <sub>[#9203](https://github.com/flutter/packages/pull/9203) merged on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9203) over 1 day, 42 additions and 18 deletions in 18 files</sub><br />
