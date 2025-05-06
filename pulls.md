@@ -143,9 +143,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Refactor `@Preview()` detection and code generation<br />
   <sub>[#168307](https://github.com/flutter/flutter/pull/168307) opened on on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168307) 742 additions and 401 deletions in 11 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update `mac_ios` tests to run on either arm64 or x86<br />
-  <sub>[#168341](https://github.com/flutter/flutter/pull/168341) opened on on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168341) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#168377](https://github.com/flutter/flutter/pull/168377) opened on on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168377) 338 additions and 53 deletions in 14 files</sub><br />
 
@@ -156,8 +153,11 @@
   <sub>[#168390](https://github.com/flutter/flutter/pull/168390) opened on on May 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168390) 33 additions and 29 deletions in 30 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision to `3.8.0-278.4.beta`<br />
-  <sub>[#168391](https://github.com/flutter/flutter/pull/168391) opened on on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168391) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#168391](https://github.com/flutter/flutter/pull/168391) opened on on May 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168391) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix typo in gpu_surface_gl_impeller.cc<br />
   <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Updated execution path to silently include --start-paused and updated tests<br />
+  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168400) 95 additions and 29 deletions in 14 files</sub><br />
 
