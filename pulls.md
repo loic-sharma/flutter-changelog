@@ -164,3 +164,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
 
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Extending timeouts for DDC macrobenchmarks<br />
+  <sub>[#168409](https://github.com/flutter/flutter/pull/168409) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168409) 2 additions and 0 deletions in 1 file</sub><br />
+

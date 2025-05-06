@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-22 commits.
+23 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior <br />
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub><br />
@@ -47,6 +47,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping framework Template Defaults to Android 16 (API 36)<br />
   <sub>[#166464](https://github.com/flutter/flutter/pull/166464) merged on May 5, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/166464) over 1 month, 166 additions and 155 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add height and width aspects to MediaQuery.<br />
+  <sub>[#167829](https://github.com/flutter/flutter/pull/167829) merged on May 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167829) over 1 week, 130 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Copy Dart SDK _internal/vm/bin sources into the sky_engine package<br />
   <sub>[#168238](https://github.com/flutter/flutter/pull/168238) merged on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168238) over 3 days, 8 additions and 0 deletions in 1 file</sub><br />
