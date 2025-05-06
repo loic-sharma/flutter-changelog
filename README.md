@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-17 commits.
+18 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior <br />
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub><br />
@@ -19,6 +19,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm heavy<br />
   <sub>[#166619](https://github.com/flutter/flutter/pull/166619) merged on May 5, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/166619) over 1 month, 755 additions and 250 deletions in 30 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Upload `android-arm64-release` treemap to known location<br />
+  <sub>[#168349](https://github.com/flutter/flutter/pull/168349) merged on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168349) over 2 hours, 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Support writing Swift in the macOS embedder<br />
   <sub>[#168174](https://github.com/flutter/flutter/pull/168174) merged on May 5, 2025 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/168174) over 4 days, 272 additions and 190 deletions in 16 files</sub><br />
