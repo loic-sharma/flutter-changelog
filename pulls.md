@@ -149,3 +149,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update `mac_ios` tests to run on either arm64 or x86<br />
   <sub>[#168341](https://github.com/flutter/flutter/pull/168341) opened on on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168341) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
+  <sub>[#168377](https://github.com/flutter/flutter/pull/168377) opened on on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168377) 338 additions and 53 deletions in 14 files</sub><br />
+
