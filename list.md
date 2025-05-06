@@ -65,7 +65,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles (#165596)"
-  <sub>[#168339](https://github.com/flutter/flutter/pull/168339) merged on May 5, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/168339) over 4 hours, 333 additions and 447 deletions in 7 files</sub>
+  <sub>[#168339](https://github.com/flutter/flutter/pull/168339) merged on May 5, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/168339) over 4 hours, 333 additions and 447 deletions in 7 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Fix hit-testing order in semantics (#167522)"
