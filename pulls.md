@@ -149,3 +149,9 @@
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#168377](https://github.com/flutter/flutter/pull/168377) opened on on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168377) 338 additions and 53 deletions in 14 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Add the capability of dumping live object counts in debug mode.<br />
+  <sub>[#168389](https://github.com/flutter/flutter/pull/168389) opened on on May 6, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168389) 312 additions and 23 deletions in 27 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS/macOS: Consistent Flutter copyright headers<br />
+  <sub>[#168390](https://github.com/flutter/flutter/pull/168390) opened on on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168390) 33 additions and 29 deletions in 30 files</sub><br />
+
