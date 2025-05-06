@@ -155,6 +155,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS/macOS: Consistent Flutter copyright headers<br />
   <sub>[#168390](https://github.com/flutter/flutter/pull/168390) opened on on May 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168390) 33 additions and 29 deletions in 30 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision to e7f2f0556e3e57acb60749467e54f9a44b2bfc76<br />
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision to `3.8.0-278.4.beta`<br />
   <sub>[#168391](https://github.com/flutter/flutter/pull/168391) opened on on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168391) 1 addition and 1 deletion in 1 file</sub><br />
 
