@@ -147,22 +147,19 @@
   <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Updated execution path to silently include --start-paused and updated tests<br />
-  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) opened on on May 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/168400) 97 additions and 29 deletions in 14 files</sub><br />
+  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) opened on on May 6, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/168400) 97 additions and 29 deletions in 14 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix uninitalized fields in FlutterWindowMetricsEvent<br />
-  <sub>[#168446](https://github.com/flutter/flutter/pull/168446) opened on on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168446) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#168446](https://github.com/flutter/flutter/pull/168446) opened on on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168446) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix framebuffer leak rendering to secondary views.<br />
-  <sub>[#168447](https://github.com/flutter/flutter/pull/168447) opened on on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168447) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#168447](https://github.com/flutter/flutter/pull/168447) opened on on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168447) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Revert "Changes the offset computation to first item for RenderSliverMainAxisGroup" (#154688)<br />
   <sub>[#168450](https://github.com/flutter/flutter/pull/168450) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168450) 62 additions and 58 deletions in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Replace MediaQuery.sizeOf with heightOf and widthOf.<br />
-  <sub>[#168479](https://github.com/flutter/flutter/pull/168479) opened on on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168479) 20 additions and 25 deletions in 14 files</sub><br />
 
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix ListTile overwriting parent IconButtonTheme for its children (#167727)<br />
   <sub>[#168480](https://github.com/flutter/flutter/pull/168480) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168480) 76 additions and 1 deletion in 3 files</sub><br />
