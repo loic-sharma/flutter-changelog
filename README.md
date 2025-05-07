@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-35 commits.
+36 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior <br />
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub><br />
@@ -24,6 +24,10 @@
   <sub>[#163913](https://github.com/flutter/flutter/pull/163913) merged on May 7, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/163913) over 2 months, 55 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use StrokeParameters anywhere stroke is described<br />
+  <sub>[#168276](https://github.com/flutter/flutter/pull/168276) merged on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168276) over 1 day, 439 additions and 233 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Expose access to conservative path bounds.<br />
   <sub>[#168402](https://github.com/flutter/flutter/pull/168402) merged on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168402) over 1 hour, 51 additions and 3 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -40,24 +44,24 @@
   <sub>[#168174](https://github.com/flutter/flutter/pull/168174) merged on May 5, 2025 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/168174) over 4 days, 272 additions and 190 deletions in 16 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use StrokeParameters anywhere stroke is described<br />
-  <sub>[#168276](https://github.com/flutter/flutter/pull/168276) merged on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168276) over 1 day, 439 additions and 233 deletions in 22 files</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Ignore pointer on the outgoing route<br />
   <sub>[#168425](https://github.com/flutter/flutter/pull/168425) merged on May 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168425) over 1 hour, 84 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Replace MediaQuery.sizeOf with heightOf and widthOf.<br />
+  <sub>[#168479](https://github.com/flutter/flutter/pull/168479) merged on May 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168479) over 6 hours, 20 additions and 25 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping framework Template Defaults to Android 16 (API 36)<br />
   <sub>[#166464](https://github.com/flutter/flutter/pull/166464) merged on May 5, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/166464) over 1 month, 166 additions and 155 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(SwitchListTile): ensure that 'isThreeLine' can be configured through the theme.<br />
-  <sub>[#166820](https://github.com/flutter/flutter/pull/166820) merged on May 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/166820) over 3 weeks, 241 additions and 9 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(RadioListTile):ensure that 'isThreeLine' can be configured through the<br />
   <sub>[#166964](https://github.com/flutter/flutter/pull/166964) merged on May 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/166964) over 3 weeks, 245 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(SwitchListTile): ensure that 'isThreeLine' can be configured through the theme.<br />
+  <sub>[#166820](https://github.com/flutter/flutter/pull/166820) merged on May 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/166820) over 3 weeks, 241 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add height and width aspects to MediaQuery.<br />
@@ -96,12 +100,8 @@
   <sub>[#168063](https://github.com/flutter/flutter/pull/168063) merged on May 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168063) over 5 days, 76 additions and 86 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix stencil buffer leak<br />
-  <sub>[#168448](https://github.com/flutter/flutter/pull/168448) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168448) over 11 hours, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix uninitalized fields in FlutterWindowMetricsEvent<br />
-  <sub>[#168446](https://github.com/flutter/flutter/pull/168446) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168446) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix framebuffer leak rendering to secondary views.<br />
+  <sub>[#168447](https://github.com/flutter/flutter/pull/168447) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168447) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow iOS devicelab tests to run on macOS 15.1<br />
@@ -136,8 +136,12 @@
   <sub>[#168319](https://github.com/flutter/flutter/pull/168319) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168319) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix framebuffer leak rendering to secondary views.<br />
-  <sub>[#168447](https://github.com/flutter/flutter/pull/168447) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168447) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix stencil buffer leak<br />
+  <sub>[#168448](https://github.com/flutter/flutter/pull/168448) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168448) over 11 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix uninitalized fields in FlutterWindowMetricsEvent<br />
+  <sub>[#168446](https://github.com/flutter/flutter/pull/168446) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168446) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles (#165596)"<br />
