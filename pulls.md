@@ -152,3 +152,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
 
+* **[Pranav](https://github.com/pranavo72bex)** &mdash; fix: time selector separator in timepicker is not centered vertically<br />
+  <sub>[#168441](https://github.com/flutter/flutter/pull/168441) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168441) 62 additions and 6 deletions in 2 files</sub><br />
+
