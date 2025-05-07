@@ -155,3 +155,9 @@
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; fix: time selector separator in timepicker is not centered vertically<br />
   <sub>[#168441](https://github.com/flutter/flutter/pull/168441) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168441) 62 additions and 6 deletions in 2 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix uninitalized fields in FlutterWindowMetricsEvent<br />
+  <sub>[#168446](https://github.com/flutter/flutter/pull/168446) opened on on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168446) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix framebuffer leak rendering to secondary views.<br />
+  <sub>[#168447](https://github.com/flutter/flutter/pull/168447) opened on on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168447) 1 addition and 1 deletion in 1 file</sub><br />
+
