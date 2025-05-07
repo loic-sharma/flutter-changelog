@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-25 commits.
+26 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -55,6 +55,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add height and width aspects to MediaQuery.
   <sub>[#167829](https://github.com/flutter/flutter/pull/167829) merged on May 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167829) over 1 week, 130 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Ignore pointer on the outgoing route
+  <sub>[#168425](https://github.com/flutter/flutter/pull/168425) merged on May 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168425) over 1 hour, 84 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Copy Dart SDK _internal/vm/bin sources into the sky_engine package
   <sub>[#168238](https://github.com/flutter/flutter/pull/168238) merged on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168238) over 3 days, 8 additions and 0 deletions in 1 file</sub>
