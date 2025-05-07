@@ -89,9 +89,6 @@
 * **[nailahsall0](https://github.com/nailahsall0)** &mdash; docs: Fixed broken links in WidgetStateProperty documentations<br />
   <sub>[#168191](https://github.com/flutter/flutter/pull/168191) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168191) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Pranav](https://github.com/pranavo72bex)** &mdash; fix: time selector separator in timepicker is not centered vertically<br />
-  <sub>[#168197](https://github.com/flutter/flutter/pull/168197) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168197) 6 additions and 5 deletions in 1 file</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Fix deprecated API calls within tool<br />
   <sub>[#168200](https://github.com/flutter/flutter/pull/168200) opened on on May 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168200) 25 additions and 35 deletions in 6 files</sub><br />
 
