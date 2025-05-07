@@ -167,6 +167,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Revert "Changes the offset computation to first item for RenderSliverMainAxisGroup" (#154688)<br />
   <sub>[#168450](https://github.com/flutter/flutter/pull/168450) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168450) 62 additions and 58 deletions in 2 files</sub><br />
 
-* **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Merge parent icon button theme into list tiles icon buttons<br />
+* **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix ListTile overwriting parent IconButtonTheme for its children (#167727)<br />
   <sub>[#168465](https://github.com/flutter/flutter/pull/168465) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168465) 76 additions and 1 deletion in 3 files</sub><br />
 
