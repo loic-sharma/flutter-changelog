@@ -125,3 +125,6 @@
 * **[gaogao_qwq](https://github.com/gaogao-qwq)** &mdash; [gen-l10n] Add `// dart format off` for generated dart files to disable formatting<br />
   <sub>[#168504](https://github.com/flutter/flutter/pull/168504) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168504) 7 additions and 2 deletions in 2 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip search artifacts in CupertinoSliverNavigationBar searchable-to-searchable transitions<br />
+  <sub>[#168510](https://github.com/flutter/flutter/pull/168510) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168510) 172 additions and 62 deletions in 2 files</sub><br />
+
