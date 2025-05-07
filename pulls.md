@@ -110,15 +110,6 @@
 * **[Francisco Nunes](https://github.com/heisenunes)** &mdash; added removeSnackBar function for removing arbitrary queued items<br />
   <sub>[#168253](https://github.com/flutter/flutter/pull/168253) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168253) 103 additions and 2 deletions in 2 files</sub><br />
 
-* **[Yatharth Bajaj](https://github.com/Yatha04)** &mdash; docs: fix broken MaterialTapTargetSize links (#167808)<br />
-  <sub>[#168262](https://github.com/flutter/flutter/pull/168262) opened on on May 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168262) 5 additions and 0 deletions in 1 file</sub><br />
-
-* **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; fix FadeForwardsTransitionBuilder input irresponsive during return animation #164241<br />
-  <sub>[#168277](https://github.com/flutter/flutter/pull/168277) opened on on May 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168277) 218 additions and 25 deletions in 4 files</sub><br />
-
-* **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Respect `calendarDelegate` in `showDateRangePicker` and make `CalendarDateRangePicker` public<br />
-  <sub>[#168290](https://github.com/flutter/flutter/pull/168290) opened on on May 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168290) 52 additions and 5 deletions in 2 files</sub><br />
-
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
