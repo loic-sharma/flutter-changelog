@@ -170,3 +170,6 @@
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix ListTile overwriting parent IconButtonTheme for its children (#167727)<br />
   <sub>[#168465](https://github.com/flutter/flutter/pull/168465) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168465) 76 additions and 1 deletion in 3 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Replace MediaQuery.sizeOf with heightOf and widthOf.<br />
+  <sub>[#168479](https://github.com/flutter/flutter/pull/168479) opened on on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168479) 20 additions and 25 deletions in 14 files</sub><br />
+
