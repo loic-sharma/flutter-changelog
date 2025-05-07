@@ -128,3 +128,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Remove unused `reportNullSafety` getter<br />
   <sub>[#168484](https://github.com/flutter/flutter/pull/168484) opened on on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168484) 0 additions and 12 deletions in 4 files</sub><br />
 
+* **[gaogao_qwq](https://github.com/gaogao-qwq)** &mdash; [gen-l10n] Add `// dart format off` for generated dart files to disable formatting<br />
+  <sub>[#168504](https://github.com/flutter/flutter/pull/168504) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168504) 7 additions and 2 deletions in 2 files</sub><br />
+
