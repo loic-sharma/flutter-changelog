@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-26 commits.
+27 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -75,6 +75,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change FGP unit test `expect` to match on process result instead of exit code
   <sub>[#168278](https://github.com/flutter/flutter/pull/168278) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168278) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Extending timeouts for DDC macrobenchmarks
+  <sub>[#168409](https://github.com/flutter/flutter/pull/168409) merged on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168409) over 3 hours, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dispose underlying picture recorder when ending recording.
   <sub>[#168384](https://github.com/flutter/flutter/pull/168384) merged on May 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168384) over 5 hours, 34 additions and 6 deletions in 4 files</sub>
