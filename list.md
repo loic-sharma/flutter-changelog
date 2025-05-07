@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-27 commits.
+29 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -55,6 +55,14 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add height and width aspects to MediaQuery.
   <sub>[#167829](https://github.com/flutter/flutter/pull/167829) merged on May 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167829) over 1 week, 130 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS/macOS: Consistent Flutter copyright headers
+  <sub>[#168390](https://github.com/flutter/flutter/pull/168390) merged on May 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168390) over 6 hours, 34 additions and 29 deletions in 31 files</sub>
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Capture errors when running flutter_tools in the entrypoint_dart_registrant devicelab test
+  <sub>[#168411](https://github.com/flutter/flutter/pull/168411) merged on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168411) over 3 hours, 12 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Ignore pointer on the outgoing route
   <sub>[#168425](https://github.com/flutter/flutter/pull/168425) merged on May 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168425) over 1 hour, 84 additions and 5 deletions in 2 files</sub>
