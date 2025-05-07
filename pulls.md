@@ -147,7 +147,7 @@
   <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Updated execution path to silently include --start-paused and updated tests<br />
-  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) opened on on May 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168400) 95 additions and 29 deletions in 14 files</sub><br />
+  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) opened on on May 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168400) 97 additions and 29 deletions in 14 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
@@ -169,4 +169,7 @@
 
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix ListTile overwriting parent IconButtonTheme for its children (#167727)<br />
   <sub>[#168480](https://github.com/flutter/flutter/pull/168480) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168480) 76 additions and 1 deletion in 3 files</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Remove unused `reportNullSafety` getter<br />
+  <sub>[#168484](https://github.com/flutter/flutter/pull/168484) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168484) 0 additions and 12 deletions in 4 files</sub><br />
 
