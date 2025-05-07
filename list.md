@@ -40,6 +40,10 @@
   <sub>[#168276](https://github.com/flutter/flutter/pull/168276) merged on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168276) over 1 day, 439 additions and 233 deletions in 22 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Ignore pointer on the outgoing route
+  <sub>[#168425](https://github.com/flutter/flutter/pull/168425) merged on May 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168425) over 1 hour, 84 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(SwitchListTile): ensure that 'isThreeLine' can be configured through the theme.
   <sub>[#166820](https://github.com/flutter/flutter/pull/166820) merged on May 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/166820) over 3 weeks, 241 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
@@ -67,10 +71,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Capture errors when running flutter_tools in the entrypoint_dart_registrant devicelab test
   <sub>[#168411](https://github.com/flutter/flutter/pull/168411) merged on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168411) over 3 hours, 12 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Ignore pointer on the outgoing route
-  <sub>[#168425](https://github.com/flutter/flutter/pull/168425) merged on May 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168425) over 1 hour, 84 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Copy Dart SDK _internal/vm/bin sources into the sky_engine package
   <sub>[#168238](https://github.com/flutter/flutter/pull/168238) merged on May 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168238) over 3 days, 8 additions and 0 deletions in 1 file</sub>

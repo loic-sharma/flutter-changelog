@@ -164,3 +164,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix framebuffer leak rendering to secondary views.<br />
   <sub>[#168447](https://github.com/flutter/flutter/pull/168447) opened on on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168447) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Revert "Changes the offset computation to first item for RenderSliverMainAxisGroup" (#154688)<br />
+  <sub>[#168450](https://github.com/flutter/flutter/pull/168450) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168450) 62 additions and 58 deletions in 2 files</sub><br />
+
