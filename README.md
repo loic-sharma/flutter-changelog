@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-30 commits.
+31 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior <br />
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub><br />
@@ -87,6 +87,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change FGP unit test `expect` to match on process result instead of exit code<br />
   <sub>[#168278](https://github.com/flutter/flutter/pull/168278) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168278) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow iOS devicelab tests to run on macOS 15.1<br />
+  <sub>[#168234](https://github.com/flutter/flutter/pull/168234) merged on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168234) over 4 days, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[MarkZ](https://github.com/Markzipan)** &mdash; Extending timeouts for DDC macrobenchmarks<br />
   <sub>[#168409](https://github.com/flutter/flutter/pull/168409) merged on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168409) over 3 hours, 2 additions and 0 deletions in 1 file</sub><br />
