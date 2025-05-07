@@ -911,7 +911,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-6 commits.
+7 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add release notes for DevTools 2.46.0<br />
   <sub>[#11976](https://github.com/flutter/website/pull/11976) merged on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11976) over 19 hours, 31 additions and 0 deletions in 3 files</sub><br />
@@ -922,6 +922,10 @@
   <sub>[#11960](https://github.com/flutter/website/pull/11960) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11960) over 5 days, 1 addition and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
   <sub><details><summary>5 images...</summary>![image](https://github.com/user-attachments/assets/c80343f0-a86c-409e-81e5-dc183cc908c5)![image](https://github.com/user-attachments/assets/420177cd-3ed0-4658-b290-56a98702f52f)![image](https://github.com/user-attachments/assets/e29e8e09-f53a-4a23-941c-fccd498839b8)![image](https://github.com/user-attachments/assets/b86e2f5c-a695-4fa9-9b9e-8c573c30af84)![image](https://github.com/user-attachments/assets/26f8bce2-477f-4106-93a3-107ff5b30a2a)</details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce single 'Set up Android development' page<br />
+  <sub>[#11968](https://github.com/flutter/website/pull/11968) merged on May 7, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/website/pull/11968) over 5 days, 652 additions and 280 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Delete duplicate DevTools releaset note entries.<br />
   <sub>[#11974](https://github.com/flutter/website/pull/11974) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11974) over 12 minutes, 14 additions and 33 deletions in 2 files</sub><br />
