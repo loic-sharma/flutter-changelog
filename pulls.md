@@ -35,9 +35,6 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Fix navbar blur clipping outside of Cupertino sheet<br />
   <sub>[#166019](https://github.com/flutter/flutter/pull/166019) opened on on March 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166019) 90 additions and 16 deletions in 3 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] drop more use of deprecated JS functions<br />
-  <sub>[#166157](https://github.com/flutter/flutter/pull/166157) opened on on March 28, 2025 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/166157) 89 additions and 870 deletions in 12 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
