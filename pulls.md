@@ -35,6 +35,9 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Fix navbar blur clipping outside of Cupertino sheet<br />
   <sub>[#166019](https://github.com/flutter/flutter/pull/166019) opened on on March 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166019) 90 additions and 16 deletions in 3 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] drop more use of deprecated JS functions<br />
+  <sub>[#166157](https://github.com/flutter/flutter/pull/166157) opened on on March 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/166157) 26 additions and 70 deletions in 10 files</sub><br />
+
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
@@ -84,13 +87,10 @@
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds radio group widget r2<br />
-  <sub>[#168161](https://github.com/flutter/flutter/pull/168161) opened on on May 1, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168161) 1546 additions and 640 deletions in 32 files</sub><br />
+  <sub>[#168161](https://github.com/flutter/flutter/pull/168161) opened on on May 1, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168161) 1704 additions and 640 deletions in 32 files</sub><br />
 
 * **[Hamed Esam](https://github.com/Hamed233)** &mdash; [material] Fix tooltip blocking scroll events on web<br />
   <sub>[#168168](https://github.com/flutter/flutter/pull/168168) opened on on May 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168168) 69 additions and 1 deletion in 2 files</sub><br />
-
-* **[nailahsall0](https://github.com/nailahsall0)** &mdash; docs: Fixed broken links in WidgetStateProperty documentations<br />
-  <sub>[#168191](https://github.com/flutter/flutter/pull/168191) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168191) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Fix deprecated API calls within tool<br />
   <sub>[#168200](https://github.com/flutter/flutter/pull/168200) opened on on May 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168200) 25 additions and 35 deletions in 6 files</sub><br />
@@ -101,23 +101,14 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(button): add example usage to TextButton.icon constructor<br />
   <sub>[#168208](https://github.com/flutter/flutter/pull/168208) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168208) 3075 additions and 315 deletions in 11 files</sub><br />
 
-* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(button): add example usage to TextButton.icon constructor<br />
-  <sub>[#168209](https://github.com/flutter/flutter/pull/168209) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168209) 3075 additions and 315 deletions in 11 files</sub><br />
-
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(debug): add performance warning to debugPrint<br />
-  <sub>[#168212](https://github.com/flutter/flutter/pull/168212) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168212) 3078 additions and 315 deletions in 12 files</sub><br />
-
-* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(debug): add performance warning to debugPrint<br />
-  <sub>[#168213](https://github.com/flutter/flutter/pull/168213) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168213) 3078 additions and 315 deletions in 12 files</sub><br />
+  <sub>[#168212](https://github.com/flutter/flutter/pull/168212) opened on on May 2, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/168212) 3078 additions and 315 deletions in 12 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.<br />
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168217) 73 additions and 7 deletions in 2 files</sub><br />
 
 * **[Francisco Nunes](https://github.com/heisenunes)** &mdash; added removeSnackBar function for removing arbitrary queued items<br />
   <sub>[#168253](https://github.com/flutter/flutter/pull/168253) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168253) 103 additions and 2 deletions in 2 files</sub><br />
-
-* **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: Add Widget of the Week video to DropdownMenu<br />
-  <sub>[#168254](https://github.com/flutter/flutter/pull/168254) opened on on May 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168254) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Yatharth Bajaj](https://github.com/Yatha04)** &mdash; docs: fix broken MaterialTapTargetSize links (#167808)<br />
   <sub>[#168262](https://github.com/flutter/flutter/pull/168262) opened on on May 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168262) 5 additions and 0 deletions in 1 file</sub><br />
@@ -138,7 +129,7 @@
   <sub>[#168377](https://github.com/flutter/flutter/pull/168377) opened on on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168377) 338 additions and 53 deletions in 14 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Add the capability of dumping live object counts in debug mode.<br />
-  <sub>[#168389](https://github.com/flutter/flutter/pull/168389) opened on on May 6, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168389) 314 additions and 23 deletions in 28 files</sub><br />
+  <sub>[#168389](https://github.com/flutter/flutter/pull/168389) opened on on May 6, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168389) 313 additions and 23 deletions in 27 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision to `3.8.0-278.4.beta`<br />
   <sub>[#168391](https://github.com/flutter/flutter/pull/168391) opened on on May 6, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/168391) 32 additions and 4916 deletions in 4 files</sub><br />
@@ -152,15 +143,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix uninitalized fields in FlutterWindowMetricsEvent<br />
-  <sub>[#168446](https://github.com/flutter/flutter/pull/168446) opened on on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168446) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix framebuffer leak rendering to secondary views.<br />
-  <sub>[#168447](https://github.com/flutter/flutter/pull/168447) opened on on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168447) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Revert "Changes the offset computation to first item for RenderSliverMainAxisGroup" (#154688)<br />
   <sub>[#168450](https://github.com/flutter/flutter/pull/168450) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168450) 62 additions and 58 deletions in 2 files</sub><br />
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Remove unused `reportNullSafety` getter<br />
-  <sub>[#168484](https://github.com/flutter/flutter/pull/168484) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168484) 0 additions and 12 deletions in 4 files</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-32 commits.
+34 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -48,12 +48,12 @@
   <sub>[#168425](https://github.com/flutter/flutter/pull/168425) merged on May 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168425) over 1 hour, 84 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(SwitchListTile): ensure that 'isThreeLine' can be configured through the theme.
-  <sub>[#166820](https://github.com/flutter/flutter/pull/166820) merged on May 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/166820) over 3 weeks, 241 additions and 9 deletions in 3 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(RadioListTile):ensure that 'isThreeLine' can be configured through the
   <sub>[#166964](https://github.com/flutter/flutter/pull/166964) merged on May 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/166964) over 3 weeks, 245 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(SwitchListTile): ensure that 'isThreeLine' can be configured through the theme.
+  <sub>[#166820](https://github.com/flutter/flutter/pull/166820) merged on May 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/166820) over 3 weeks, 241 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping framework Template Defaults to Android 16 (API 36)
@@ -92,6 +92,14 @@
   <sub>[#168278](https://github.com/flutter/flutter/pull/168278) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168278) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add typedefs, replace `height` and `width` with `size`
+  <sub>[#168063](https://github.com/flutter/flutter/pull/168063) merged on May 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168063) over 5 days, 76 additions and 86 deletions in 9 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix uninitalized fields in FlutterWindowMetricsEvent
+  <sub>[#168446](https://github.com/flutter/flutter/pull/168446) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168446) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow iOS devicelab tests to run on macOS 15.1
   <sub>[#168234](https://github.com/flutter/flutter/pull/168234) merged on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168234) over 4 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -124,9 +132,9 @@
   <sub>[#168319](https://github.com/flutter/flutter/pull/168319) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168319) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add typedefs, replace `height` and `width` with `size`
-  <sub>[#168063](https://github.com/flutter/flutter/pull/168063) merged on May 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168063) over 5 days, 76 additions and 86 deletions in 9 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix framebuffer leak rendering to secondary views.
+  <sub>[#168447](https://github.com/flutter/flutter/pull/168447) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168447) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles (#165596)"
   <sub>[#168339](https://github.com/flutter/flutter/pull/168339) merged on May 5, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/168339) over 4 hours, 333 additions and 447 deletions in 7 files</sub>
