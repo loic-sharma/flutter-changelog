@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-31 commits.
+32 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior <br />
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub><br />
@@ -19,6 +19,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm heavy<br />
   <sub>[#166619](https://github.com/flutter/flutter/pull/166619) merged on May 5, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/166619) over 1 month, 755 additions and 250 deletions in 30 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Animate fill for material app bar<br />
+  <sub>[#163913](https://github.com/flutter/flutter/pull/163913) merged on May 7, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/163913) over 2 months, 55 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Expose access to conservative path bounds.<br />
   <sub>[#168402](https://github.com/flutter/flutter/pull/168402) merged on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168402) over 1 hour, 51 additions and 3 deletions in 6 files</sub><br />
