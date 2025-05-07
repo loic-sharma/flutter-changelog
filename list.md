@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-29 commits.
+30 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -55,6 +55,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add height and width aspects to MediaQuery.
   <sub>[#167829](https://github.com/flutter/flutter/pull/167829) merged on May 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167829) over 1 week, 130 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: trailing closures for FlutterRunLoop.perform*
+  <sub>[#168415](https://github.com/flutter/flutter/pull/168415) merged on May 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168415) over 7 hours, 36 additions and 39 deletions in 4 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS/macOS: Consistent Flutter copyright headers
   <sub>[#168390](https://github.com/flutter/flutter/pull/168390) merged on May 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168390) over 6 hours, 34 additions and 29 deletions in 31 files</sub>
