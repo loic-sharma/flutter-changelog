@@ -132,5 +132,5 @@
   <sub>[#168541](https://github.com/flutter/flutter/pull/168541) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168541) 23 additions and 1 deletion in 2 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue with Tooltip<br />
-  <sub>[#168546](https://github.com/flutter/flutter/pull/168546) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168546) 50 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#168546](https://github.com/flutter/flutter/pull/168546) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168546) 51 additions and 0 deletions in 2 files</sub><br />
 
