@@ -967,7 +967,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-15 commits.
+16 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add release notes for DevTools 2.46.0
   <sub>[#11976](https://github.com/flutter/website/pull/11976) merged on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11976) over 19 hours, 31 additions and 0 deletions in 3 files</sub>
@@ -978,6 +978,10 @@
   <sub>[#11960](https://github.com/flutter/website/pull/11960) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11960) over 5 days, 1 addition and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>5 images...</summary>![image](https://github.com/user-attachments/assets/c80343f0-a86c-409e-81e5-dc183cc908c5)![image](https://github.com/user-attachments/assets/420177cd-3ed0-4658-b290-56a98702f52f)![image](https://github.com/user-attachments/assets/e29e8e09-f53a-4a23-941c-fccd498839b8)![image](https://github.com/user-attachments/assets/b86e2f5c-a695-4fa9-9b9e-8c573c30af84)![image](https://github.com/user-attachments/assets/26f8bce2-477f-4106-93a3-107ff5b30a2a)</details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add standalone 'Install using VS Code' page
+  <sub>[#11992](https://github.com/flutter/website/pull/11992) merged on May 8, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11992) over 18 hours, 321 additions and 5 deletions in 5 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Block out docs contribution docs
   <sub>[#11983](https://github.com/flutter/website/pull/11983) merged on May 8, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11983) over 17 hours, 462 additions and 0 deletions in 12 files</sub>
