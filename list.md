@@ -4,7 +4,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-44 commits.
+45 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior 
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub>
@@ -64,12 +64,12 @@
   <sub>[#168425](https://github.com/flutter/flutter/pull/168425) merged on May 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168425) over 1 hour, 84 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Replace MediaQuery.sizeOf with heightOf and widthOf.
-  <sub>[#168479](https://github.com/flutter/flutter/pull/168479) merged on May 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168479) over 6 hours, 20 additions and 25 deletions in 14 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat(SwitchListTile): ensure that 'isThreeLine' can be configured through the theme.
   <sub>[#166820](https://github.com/flutter/flutter/pull/166820) merged on May 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/166820) over 3 weeks, 241 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Replace MediaQuery.sizeOf with heightOf and widthOf.
+  <sub>[#168479](https://github.com/flutter/flutter/pull/168479) merged on May 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168479) over 6 hours, 20 additions and 25 deletions in 14 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping framework Template Defaults to Android 16 (API 36)
@@ -83,6 +83,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add height and width aspects to MediaQuery.
   <sub>[#167829](https://github.com/flutter/flutter/pull/167829) merged on May 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167829) over 1 week, 130 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Rename apple -> darwin across our buildroot
+  <sub>[#168558](https://github.com/flutter/flutter/pull/168558) merged on May 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168558) over 2 hours, 22 additions and 22 deletions in 14 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Unify iOS,macOS build configs
   <sub>[#168517](https://github.com/flutter/flutter/pull/168517) merged on May 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168517) over 17 hours, 120 additions and 169 deletions in 7 files</sub>
@@ -120,9 +124,9 @@
   <sub>[#168278](https://github.com/flutter/flutter/pull/168278) merged on May 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168278) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dispose underlying picture recorder when ending recording.
-  <sub>[#168384](https://github.com/flutter/flutter/pull/168384) merged on May 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168384) over 5 hours, 34 additions and 6 deletions in 4 files</sub>
-  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub>
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add typedefs, replace `height` and `width` with `size`
+  <sub>[#168063](https://github.com/flutter/flutter/pull/168063) merged on May 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168063) over 5 days, 76 additions and 86 deletions in 9 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update `mac_ios` tests to run on either arm64 or x86
   <sub>[#168341](https://github.com/flutter/flutter/pull/168341) merged on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168341) over 22 hours, 0 additions and 1 deletion in 1 file</sub>
@@ -148,6 +152,10 @@
   <sub>[#168448](https://github.com/flutter/flutter/pull/168448) merged on May 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168448) over 11 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
+* **[MarkZ](https://github.com/Markzipan)** &mdash; Adding utf-8 encoding to hello world's html template
+  <sub>[#168162](https://github.com/flutter/flutter/pull/168162) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168162) over 4 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Yegor](https://github.com/yjbanov)</sub>
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix framebuffer leak rendering to secondary views.
   <sub>[#168447](https://github.com/flutter/flutter/pull/168447) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168447) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
@@ -160,10 +168,6 @@
   <sub>[#168446](https://github.com/flutter/flutter/pull/168446) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168446) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
-* **[MarkZ](https://github.com/Markzipan)** &mdash; Adding utf-8 encoding to hello world's html template
-  <sub>[#168162](https://github.com/flutter/flutter/pull/168162) merged on May 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168162) over 4 days, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Yegor](https://github.com/yjbanov)</sub>
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow iOS devicelab tests to run on macOS 15.1
   <sub>[#168234](https://github.com/flutter/flutter/pull/168234) merged on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168234) over 4 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -172,9 +176,9 @@
   <sub>[#168409](https://github.com/flutter/flutter/pull/168409) merged on May 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168409) over 3 hours, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add typedefs, replace `height` and `width` with `size`
-  <sub>[#168063](https://github.com/flutter/flutter/pull/168063) merged on May 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168063) over 5 days, 76 additions and 86 deletions in 9 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Dispose underlying picture recorder when ending recording.
+  <sub>[#168384](https://github.com/flutter/flutter/pull/168384) merged on May 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168384) over 5 hours, 34 additions and 6 deletions in 4 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Wire up `MenuAnchor`, `MenuBar`, `MenuItem`-related widgets to aria roles (#165596)"
   <sub>[#168339](https://github.com/flutter/flutter/pull/168339) merged on May 5, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/168339) over 4 hours, 333 additions and 447 deletions in 7 files</sub>
