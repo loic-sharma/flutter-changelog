@@ -816,11 +816,15 @@
 
 ### May 3, 2025 to May 9, 2025
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Delete discontinued packages
   <sub>[#9215](https://github.com/flutter/packages/pull/9215) merged on May 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9215) over 21 hours, 1 addition and 50144 deletions in 675 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix camera preview rotation for landscape oriented devices
+  <sub>[#9097](https://github.com/flutter/packages/pull/9097) merged on May 8, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/9097) over 3 weeks, 1804 additions and 551 deletions in 9 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[gentlemanxzh](https://github.com/gentlemanxzh)** &mdash; [google_maps_flutter] Fix for memory leak impacting all platforms due to subscriptions not getting cleaned up 
   <sub>[#8972](https://github.com/flutter/packages/pull/8972) merged on May 8, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/8972) over 1 month, 154 additions and 44 deletions in 5 files</sub>
