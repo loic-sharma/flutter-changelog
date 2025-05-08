@@ -119,14 +119,11 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Remove unused `reportNullSafety` getter<br />
   <sub>[#168484](https://github.com/flutter/flutter/pull/168484) opened on on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168484) 0 additions and 12 deletions in 4 files</sub><br />
 
-* **[gaogao_qwq](https://github.com/gaogao-qwq)** &mdash; [gen-l10n] Add `// dart format off` for generated dart files to disable formatting<br />
-  <sub>[#168504](https://github.com/flutter/flutter/pull/168504) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168504) 7 additions and 2 deletions in 2 files</sub><br />
-
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add a callback for when the menu opens or closes.<br />
   <sub>[#168519](https://github.com/flutter/flutter/pull/168519) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168519) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Michel Feinstein](https://github.com/feinstein)** &mdash; [stable] Fix ios platform view recreation<br />
-  <sub>[#168527](https://github.com/flutter/flutter/pull/168527) opened on on May 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168527) 82 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#168527](https://github.com/flutter/flutter/pull/168527) opened on on May 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168527) 82 additions and 0 deletions in 4 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu disposes of the controller.<br />
   <sub>[#168541](https://github.com/flutter/flutter/pull/168541) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168541) 23 additions and 1 deletion in 2 files</sub><br />
