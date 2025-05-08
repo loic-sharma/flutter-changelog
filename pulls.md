@@ -135,7 +135,7 @@
   <sub>[#168557](https://github.com/flutter/flutter/pull/168557) opened on on May 8, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/168557) 1848 additions and 310 deletions in 120 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Rename apple -> darwin across our buildroot<br />
-  <sub>[#168558](https://github.com/flutter/flutter/pull/168558) opened on on May 8, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/168558) 139 additions and 188 deletions in 16 files</sub><br />
+  <sub>[#168558](https://github.com/flutter/flutter/pull/168558) opened on on May 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168558) 22 additions and 22 deletions in 14 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll to Dart SDK 3.9 Beta 1<br />
   <sub>[#168559](https://github.com/flutter/flutter/pull/168559) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168559) 12 additions and 12 deletions in 2 files</sub><br />
