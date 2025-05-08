@@ -140,3 +140,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll to Dart SDK 3.9 Beta 1<br />
   <sub>[#168559](https://github.com/flutter/flutter/pull/168559) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168559) 12 additions and 12 deletions in 2 files</sub><br />
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
+  <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
+
