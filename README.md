@@ -137,7 +137,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix stencil buffer leak<br />
-  <sub>[#168448](https://github.com/flutter/flutter/pull/168448) merged on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168448) over 11 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#168448](https://github.com/flutter/flutter/pull/168448) merged on May 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168448) over 11 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix framebuffer leak rendering to secondary views.<br />
