@@ -134,3 +134,6 @@
 * **[Ahmed757Essam](https://github.com/Ahmed757Essam)** &mdash; First<br />
   <sub>[#168557](https://github.com/flutter/flutter/pull/168557) opened on on May 8, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/168557) 1848 additions and 310 deletions in 120 files</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Rename apple -> darwin across our buildroot<br />
+  <sub>[#168558](https://github.com/flutter/flutter/pull/168558) opened on on May 8, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168558) 139 additions and 188 deletions in 16 files</sub><br />
+
