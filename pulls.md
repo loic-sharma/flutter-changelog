@@ -126,5 +126,5 @@
   <sub>[#168504](https://github.com/flutter/flutter/pull/168504) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168504) 7 additions and 2 deletions in 2 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Unify iOS,macOS build configs<br />
-  <sub>[#168517](https://github.com/flutter/flutter/pull/168517) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168517) 46 additions and 169 deletions in 6 files</sub><br />
+  <sub>[#168517](https://github.com/flutter/flutter/pull/168517) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168517) 122 additions and 169 deletions in 7 files</sub><br />
 
