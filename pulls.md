@@ -131,3 +131,6 @@
 * **[Michel Feinstein](https://github.com/feinstein)** &mdash; [stable] Fix ios platform view recreation<br />
   <sub>[#168527](https://github.com/flutter/flutter/pull/168527) opened on on May 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168527) 82 additions and 0 deletions in 4 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu disposes of the controller.<br />
+  <sub>[#168541](https://github.com/flutter/flutter/pull/168541) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168541) 23 additions and 1 deletion in 2 files</sub><br />
+
