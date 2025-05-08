@@ -89,9 +89,6 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(debug): add performance warning to debugPrint<br />
   <sub>[#168212](https://github.com/flutter/flutter/pull/168212) opened on on May 2, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/168212) 3078 additions and 315 deletions in 12 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.<br />
-  <sub>[#168217](https://github.com/flutter/flutter/pull/168217) opened on on May 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168217) 73 additions and 7 deletions in 2 files</sub><br />
-
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
@@ -133,4 +130,7 @@
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu disposes of the controller.<br />
   <sub>[#168541](https://github.com/flutter/flutter/pull/168541) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168541) 23 additions and 1 deletion in 2 files</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue with Tooltip<br />
+  <sub>[#168546](https://github.com/flutter/flutter/pull/168546) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168546) 50 additions and 0 deletions in 2 files</sub><br />
 

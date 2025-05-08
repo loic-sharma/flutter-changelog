@@ -816,11 +816,15 @@
 
 ### May 3, 2025 to May 9, 2025
 
-6 commits.
+7 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Delete discontinued packages<br />
   <sub>[#9215](https://github.com/flutter/packages/pull/9215) merged on May 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9215) over 21 hours, 1 addition and 50144 deletions in 675 files</sub><br />
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[gentlemanxzh](https://github.com/gentlemanxzh)** &mdash; [google_maps_flutter] Fix for memory leak impacting all platforms due to subscriptions not getting cleaned up <br />
+  <sub>[#8972](https://github.com/flutter/packages/pull/8972) merged on May 8, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/8972) over 1 month, 154 additions and 44 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player_android] Modify to use `handlesCropAndRotation` to detect the `SurfaceTexture` Impeller backend<br />
   <sub>[#9107](https://github.com/flutter/packages/pull/9107) merged on May 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9107) over 2 weeks, 98 additions and 44 deletions in 9 files</sub><br />
