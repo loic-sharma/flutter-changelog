@@ -128,9 +128,9 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue with Tooltip<br />
   <sub>[#168546](https://github.com/flutter/flutter/pull/168546) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168546) 51 additions and 0 deletions in 2 files</sub><br />
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll to Dart SDK 3.9 Beta 1<br />
-  <sub>[#168559](https://github.com/flutter/flutter/pull/168559) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168559) 14 additions and 14 deletions in 3 files</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Migrate logging to Logger/FlutterLogger<br />
+  <sub>[#168568](https://github.com/flutter/flutter/pull/168568) opened on on May 8, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168568) 266 additions and 105 deletions in 24 files</sub><br />
 
