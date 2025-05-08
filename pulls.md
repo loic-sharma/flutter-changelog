@@ -57,7 +57,7 @@
   <sub>[#167695](https://github.com/flutter/flutter/pull/167695) opened on on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167695) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Test changing default `selectionHeightStyle`<br />
-  <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167762) 123 additions and 32 deletions in 13 files</sub><br />
+  <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/167762) 120 additions and 33 deletions in 13 files</sub><br />
 
 * **[toneyzeng](https://github.com/toneyzeng)** &mdash; Fix: Resolved a memory error caused by incompatible std::map implementations when multiple plugins were compiled with different C++ standards.<br />
   <sub>[#167804](https://github.com/flutter/flutter/pull/167804) opened on on April 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167804) 119 additions and 16 deletions in 2 files</sub><br />
@@ -125,6 +125,6 @@
 * **[gaogao_qwq](https://github.com/gaogao-qwq)** &mdash; [gen-l10n] Add `// dart format off` for generated dart files to disable formatting<br />
   <sub>[#168504](https://github.com/flutter/flutter/pull/168504) opened on on May 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168504) 7 additions and 2 deletions in 2 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Unify iOS,macOS build configs<br />
-  <sub>[#168517](https://github.com/flutter/flutter/pull/168517) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168517) 122 additions and 169 deletions in 7 files</sub><br />
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add a callback for when the menu opens or closes.<br />
+  <sub>[#168519](https://github.com/flutter/flutter/pull/168519) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168519) 4 additions and 0 deletions in 1 file</sub><br />
 
