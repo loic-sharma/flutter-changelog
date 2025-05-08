@@ -832,7 +832,7 @@
 
 ### May 3, 2025 to May 9, 2025
 
-9 commits.
+10 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Delete discontinued packages<br />
   <sub>[#9215](https://github.com/flutter/packages/pull/9215) merged on May 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9215) over 21 hours, 1 addition and 50144 deletions in 675 files</sub><br />
@@ -853,6 +853,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes support for ad tag URLs that do not contain a query<br />
   <sub>[#9176](https://github.com/flutter/packages/pull/9176) merged on May 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9176) over 1 week, 56 additions and 14 deletions in 6 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Kevyn Marins](https://github.com/KevynSM)** &mdash; [go_router] Fix requestFocus propagation to Navigator<br />
+  <sub>[#9177](https://github.com/flutter/packages/pull/9177) merged on May 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9177) over 1 week, 88 additions and 26 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [camera_android] Wait for creating capture session when initializing<br />
   <sub>[#8894](https://github.com/flutter/packages/pull/8894) merged on May 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/8894) over 1 month, 119 additions and 27 deletions in 5 files</sub><br />
