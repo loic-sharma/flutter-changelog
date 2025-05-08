@@ -68,9 +68,6 @@
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix [Widget Inspector]: flex factor null check exception.<br />
   <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167890) 45 additions and 2 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add support for new line adding in a multiline field with non-default action.<br />
-  <sub>[#167952](https://github.com/flutter/flutter/pull/167952) opened on on April 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167952) 91 additions and 4 deletions in 2 files</sub><br />
-
 * **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
   <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 270 additions and 2649 deletions in 4 files</sub><br />
 
@@ -102,13 +99,13 @@
   <sub>[#168389](https://github.com/flutter/flutter/pull/168389) opened on on May 6, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168389) 313 additions and 23 deletions in 27 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision to `3.8.0-278.4.beta`<br />
-  <sub>[#168391](https://github.com/flutter/flutter/pull/168391) opened on on May 6, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/168391) 32 additions and 4916 deletions in 4 files</sub><br />
+  <sub>[#168391](https://github.com/flutter/flutter/pull/168391) opened on on May 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168391) 32 additions and 46 deletions in 3 files</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix typo in gpu_surface_gl_impeller.cc<br />
   <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Updated execution path to silently include --start-paused and updated tests<br />
-  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) opened on on May 6, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/168400) 127 additions and 29 deletions in 14 files</sub><br />
+  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) opened on on May 6, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/168400) 131 additions and 29 deletions in 14 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
