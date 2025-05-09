@@ -141,5 +141,5 @@
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168604) 20 additions and 1 deletion in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes hero not shown when remove pages without animation<br />
-  <sub>[#168617](https://github.com/flutter/flutter/pull/168617) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168617) 67 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#168617](https://github.com/flutter/flutter/pull/168617) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168617) 68 additions and 13 deletions in 2 files</sub><br />
 
