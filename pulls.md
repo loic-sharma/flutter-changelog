@@ -134,3 +134,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update hello_world example to current layout flutter create uses<br />
   <sub>[#168571](https://github.com/flutter/flutter/pull/168571) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168571) 62 additions and 20 deletions in 5 files</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Normalize BottomAppBarTheme<br />
+  <sub>[#168586](https://github.com/flutter/flutter/pull/168586) opened on on May 9, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168586) 369 additions and 73 deletions in 9 files</sub><br />
+
