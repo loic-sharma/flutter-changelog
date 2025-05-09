@@ -131,6 +131,9 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update hello_world example to current layout flutter create uses<br />
   <sub>[#168571](https://github.com/flutter/flutter/pull/168571) opened on on May 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168571) 62 additions and 20 deletions in 5 files</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping Framework Default TargetSdk to 36<br />
+  <sub>[#168577](https://github.com/flutter/flutter/pull/168577) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168577) 2 additions and 2 deletions in 2 files</sub><br />
+
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add missing lockfiles not checked in from running generate_gradle_lockfiles.dart<br />
   <sub>[#168600](https://github.com/flutter/flutter/pull/168600) opened on on May 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168600) 62 additions and 65 deletions in 9 files</sub><br />
 
