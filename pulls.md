@@ -132,8 +132,11 @@
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update hello_world example to current layout flutter create uses<br />
-  <sub>[#168571](https://github.com/flutter/flutter/pull/168571) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168571) 62 additions and 20 deletions in 5 files</sub><br />
+  <sub>[#168571](https://github.com/flutter/flutter/pull/168571) opened on on May 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168571) 62 additions and 20 deletions in 5 files</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Normalize BottomAppBarTheme<br />
   <sub>[#168586](https://github.com/flutter/flutter/pull/168586) opened on on May 9, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168586) 369 additions and 73 deletions in 9 files</sub><br />
+
+* **[ash2moon](https://github.com/ash2moon)** &mdash; add missing lockfiles not checked in from running generate_gradle_lockfiles.dart<br />
+  <sub>[#168600](https://github.com/flutter/flutter/pull/168600) opened on on May 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168600) 62 additions and 65 deletions in 9 files</sub><br />
 
