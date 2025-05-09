@@ -134,9 +134,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping Framework Default TargetSdk to 36<br />
   <sub>[#168577](https://github.com/flutter/flutter/pull/168577) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168577) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `engine.version`<br />
-  <sub>[#168601](https://github.com/flutter/flutter/pull/168601) opened on on May 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168601) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168604) 20 additions and 1 deletion in 2 files</sub><br />
 
