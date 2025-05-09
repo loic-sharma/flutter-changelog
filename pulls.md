@@ -110,6 +110,9 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Remove unused `reportNullSafety` getter<br />
   <sub>[#168484](https://github.com/flutter/flutter/pull/168484) opened on on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168484) 0 additions and 12 deletions in 4 files</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Fix broken comment references and code spans in doc comments<br />
+  <sub>[#168498](https://github.com/flutter/flutter/pull/168498) opened on on May 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168498) 454 additions and 368 deletions in 108 files</sub><br />
+
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add a callback for when the menu opens or closes.<br />
   <sub>[#168519](https://github.com/flutter/flutter/pull/168519) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168519) 4 additions and 0 deletions in 1 file</sub><br />
 
