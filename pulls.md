@@ -87,7 +87,7 @@
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Refactor `@Preview()` detection and code generation<br />
-  <sub>[#168307](https://github.com/flutter/flutter/pull/168307) opened on on May 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168307) 742 additions and 401 deletions in 11 files</sub><br />
+  <sub>[#168307](https://github.com/flutter/flutter/pull/168307) opened on on May 5, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/168307) 742 additions and 401 deletions in 11 files</sub><br />
 
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Flutter GPU] WIP: Fix Android/GLES bugs.<br />
   <sub>[#168377](https://github.com/flutter/flutter/pull/168377) opened on on May 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168377) 338 additions and 53 deletions in 14 files</sub><br />
