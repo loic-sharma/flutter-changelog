@@ -68,7 +68,7 @@
 * **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
   <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 270 additions and 2649 deletions in 4 files</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping<br />
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping and test expression eval tests using DDC library bundle format<br />
   <sub>[#168017](https://github.com/flutter/flutter/pull/168017) opened on on April 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168017) 87 additions and 16 deletions in 4 files</sub><br />
 
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
