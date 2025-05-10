@@ -137,6 +137,9 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping Framework Default TargetSdk to 36<br />
   <sub>[#168577](https://github.com/flutter/flutter/pull/168577) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168577) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix crash on two finger selection gesture<br />
+  <sub>[#168598](https://github.com/flutter/flutter/pull/168598) opened on on May 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168598) 522 additions and 41 deletions in 4 files</sub><br />
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168604) 20 additions and 1 deletion in 2 files</sub><br />
 
