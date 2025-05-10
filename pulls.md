@@ -149,3 +149,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Switch from MediaQuery.sizeOf to didChangeMetrics for RawMenuAnchor<br />
   <sub>[#168623](https://github.com/flutter/flutter/pull/168623) opened on on May 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168623) 81 additions and 92 deletions in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add MenuAnchor.of and MenuAnchor.mayBeOf methods<br />
+  <sub>[#168630](https://github.com/flutter/flutter/pull/168630) opened on on May 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168630) 68 additions and 0 deletions in 2 files</sub><br />
+
