@@ -147,5 +147,5 @@
   <sub>[#168617](https://github.com/flutter/flutter/pull/168617) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168617) 68 additions and 13 deletions in 2 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Switch from MediaQuery.sizeOf to didChangeMetrics for RawMenuAnchor<br />
-  <sub>[#168623](https://github.com/flutter/flutter/pull/168623) opened on on May 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168623) 72 additions and 93 deletions in 2 files</sub><br />
+  <sub>[#168623](https://github.com/flutter/flutter/pull/168623) opened on on May 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168623) 79 additions and 92 deletions in 2 files</sub><br />
 
