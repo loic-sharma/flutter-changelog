@@ -152,6 +152,3 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add MenuAnchor.of and MenuAnchor.mayBeOf methods<br />
   <sub>[#168630](https://github.com/flutter/flutter/pull/168630) opened on on May 10, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/168630) 116 additions and 0 deletions in 2 files</sub><br />
 
-* **[MK](https://github.com/mk-riam)** &mdash; Madproj<br />
-  <sub>[#168643](https://github.com/flutter/flutter/pull/168643) opened on on May 11, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/168643) 6665 additions and 2408 deletions in 268 files</sub><br />
-
