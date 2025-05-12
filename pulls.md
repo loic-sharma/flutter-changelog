@@ -48,7 +48,7 @@
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/167393) 5971 additions and 20 deletions in 94 files</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Resolve Cupertino textstyle in MaterialBasedCupertinoThemeData<br />
-  <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167597) 5 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167597) 29 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Clip.None Docs<br />
   <sub>[#167695](https://github.com/flutter/flutter/pull/167695) opened on on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167695) 3 additions and 0 deletions in 1 file</sub><br />
@@ -62,7 +62,7 @@
 * **[Bobbie-Ware](https://github.com/Bobbie-Ware)** &mdash; fix minor spelling mistake in roadmap<br />
   <sub>[#167888](https://github.com/flutter/flutter/pull/167888) opened on on April 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167888) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix [Widget Inspector]: flex factor null check exception.<br />
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix(widget_inspector): add null check for flex factor property to prevent exception<br />
   <sub>[#167890](https://github.com/flutter/flutter/pull/167890) opened on on April 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167890) 45 additions and 2 deletions in 2 files</sub><br />
 
 * **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
