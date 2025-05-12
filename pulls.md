@@ -77,9 +77,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from dependencies 2<br />
   <sub>[#168203](https://github.com/flutter/flutter/pull/168203) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168203) 1086 additions and 1391 deletions in 60 files</sub><br />
 
-* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; docs(debug): add performance warning to debugPrint<br />
-  <sub>[#168212](https://github.com/flutter/flutter/pull/168212) opened on on May 2, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/168212) 3078 additions and 315 deletions in 12 files</sub><br />
-
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
