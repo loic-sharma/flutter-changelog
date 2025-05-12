@@ -131,9 +131,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update hello_world example to current layout flutter create uses<br />
-  <sub>[#168571](https://github.com/flutter/flutter/pull/168571) opened on on May 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168571) 62 additions and 20 deletions in 5 files</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix crash on two finger selection gesture<br />
   <sub>[#168598](https://github.com/flutter/flutter/pull/168598) opened on on May 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168598) 522 additions and 41 deletions in 4 files</sub><br />
 
