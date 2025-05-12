@@ -4,7 +4,12 @@
 
 ### May 10, 2025 to May 16, 2025
 
-10 commits.
+11 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow setting text decorations.<br />
+  <sub>[#168408](https://github.com/flutter/flutter/pull/168408) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168408) over 5 days, 124 additions and 0 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="1136" alt="Screenshot 2025-05-06 at 1 04 30 PM" src="https://github.com/user-attachments/assets/f2233ebd-87b2-42ca-ac2a-c71e40ceb953" /></details></sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Error when trying to use old HC mode when HCPP is enabled<br />
   <sub>[#168027](https://github.com/flutter/flutter/pull/168027) merged on May 12, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168027) over 1 week, 465 additions and 3 deletions in 7 files</sub><br />
@@ -757,9 +762,27 @@
 
 ## flutter/website
 
+### May 10, 2025 to May 16, 2025
+
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Adjust theme toggle icon<br />
+  <sub>[#12006](https://github.com/flutter/website/pull/12006) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12006) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="120" alt="Screenshot of the new theme select toggle" src="https://github.com/user-attachments/assets/7aec546e-e5be-4981-851a-2b2dc66b4d65" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce single 'Set up macOS development' page<br />
+  <sub>[#12003](https://github.com/flutter/website/pull/12003) merged on May 12, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12003) over 4 hours, 270 additions and 96 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce single 'Set up Windows development' page<br />
+  <sub>[#12005](https://github.com/flutter/website/pull/12005) merged on May 12, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12005) over 2 hours, 246 additions and 80 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 ### May 3, 2025 to May 9, 2025
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add release notes for DevTools 2.46.0<br />
   <sub>[#11976](https://github.com/flutter/website/pull/11976) merged on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11976) over 19 hours, 31 additions and 0 deletions in 3 files</sub><br />
@@ -838,6 +861,8 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Migration guide for semantics menu roles"<br />
   <sub>[#11977](https://github.com/flutter/website/pull/11977) merged on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11977) over 18 hours, 0 additions and 173 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### April 26, 2025 to May 2, 2025
 
