@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-6 commits.
+8 commits.
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Selected DropdownMenuItem isn't highlighted on mobile
   <sub>[#167874](https://github.com/flutter/flutter/pull/167874) merged on May 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167874) over 2 weeks, 74 additions and 2 deletions in 2 files</sub>
@@ -13,6 +13,14 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect the new `engine.version` verifier
   <sub>[#168413](https://github.com/flutter/flutter/pull/168413) merged on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168413) over 5 days, 4 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Remove CupertinoSliverNavigationBar background box when large title is extended
+  <sub>[#168407](https://github.com/flutter/flutter/pull/168407) merged on May 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/168407) over 5 days, 80 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping and test expression eval tests using DDC library bundle format
+  <sub>[#168017](https://github.com/flutter/flutter/pull/168017) merged on May 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168017) over 1 week, 87 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Label platform view modes using the unified naming scheme
   <sub>[#168670](https://github.com/flutter/flutter/pull/168670) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168670) over 2 hours, 4 additions and 3 deletions in 1 file</sub>

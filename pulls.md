@@ -68,9 +68,6 @@
 * **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
   <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 230 additions and 2649 deletions in 1 file</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping and test expression eval tests using DDC library bundle format<br />
-  <sub>[#168017](https://github.com/flutter/flutter/pull/168017) opened on on April 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168017) 87 additions and 16 deletions in 4 files</sub><br />
-
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
 
@@ -99,7 +96,7 @@
   <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Updated execution path to silently include --start-paused and updated tests<br />
-  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) opened on on May 6, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/168400) 131 additions and 29 deletions in 14 files</sub><br />
+  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) opened on on May 6, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/168400) 167 additions and 32 deletions in 14 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
