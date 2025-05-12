@@ -105,7 +105,7 @@
   <sub>[#168484](https://github.com/flutter/flutter/pull/168484) opened on on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168484) 0 additions and 12 deletions in 4 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Fix broken comment references and code spans in doc comments<br />
-  <sub>[#168498](https://github.com/flutter/flutter/pull/168498) opened on on May 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168498) 454 additions and 368 deletions in 108 files</sub><br />
+  <sub>[#168498](https://github.com/flutter/flutter/pull/168498) opened on on May 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168498) 454 additions and 368 deletions in 108 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add a callback for when the menu opens or closes.<br />
   <sub>[#168519](https://github.com/flutter/flutter/pull/168519) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168519) 4 additions and 0 deletions in 1 file</sub><br />
@@ -125,9 +125,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix crash on two finger selection gesture<br />
-  <sub>[#168598](https://github.com/flutter/flutter/pull/168598) opened on on May 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168598) 522 additions and 41 deletions in 4 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168604) 20 additions and 1 deletion in 2 files</sub><br />
 
@@ -142,4 +139,7 @@
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; When maintainHintSize is false, hint is centered and aligned, it is different from the original one<br />
   <sub>[#168654](https://github.com/flutter/flutter/pull/168654) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168654) 30 additions and 0 deletions in 2 files</sub><br />
+
+* **[Lucas Oliveira](https://github.com/tilucasoli)** &mdash; Replace SizedBox spacing with spacing parameter in Row usages<br />
+  <sub>[#168688](https://github.com/flutter/flutter/pull/168688) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168688) 15 additions and 15 deletions in 5 files</sub><br />
 
