@@ -688,13 +688,13 @@
   <sub>[#9177](https://github.com/flutter/packages/pull/9177) merged on May 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9177) over 1 week, 88 additions and 26 deletions in 4 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
-* **[David Martos](https://github.com/davidmartos96)** &mdash; [camera_android] Wait for creating capture session when initializing
-  <sub>[#8894](https://github.com/flutter/packages/pull/8894) merged on May 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/8894) over 1 month, 119 additions and 27 deletions in 5 files</sub>
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Camille Simon](https://github.com/camsim99)</sub>
-
 * **[Raju Muliyashiya](https://github.com/raju8000)** &mdash; [go_router_builder] Fixes an deprecated warning for using withNullability
   <sub>[#9158](https://github.com/flutter/packages/pull/9158) merged on May 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9158) over 1 week, 21 additions and 5 deletions in 5 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[David Martos](https://github.com/davidmartos96)** &mdash; [camera_android] Wait for creating capture session when initializing
+  <sub>[#8894](https://github.com/flutter/packages/pull/8894) merged on May 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/8894) over 1 month, 119 additions and 27 deletions in 5 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 3
   <sub>[#9182](https://github.com/flutter/packages/pull/9182) merged on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9182) over 5 days, 57 additions and 54 deletions in 13 files</sub>
