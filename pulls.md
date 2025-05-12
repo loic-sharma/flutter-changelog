@@ -149,3 +149,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add MenuAnchor.of and MenuAnchor.mayBeOf methods<br />
   <sub>[#168630](https://github.com/flutter/flutter/pull/168630) opened on on May 10, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/168630) 116 additions and 0 deletions in 2 files</sub><br />
 
+* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; When maintainHintSize is false, hint is centered and aligned, it is different from the original one<br />
+  <sub>[#168654](https://github.com/flutter/flutter/pull/168654) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168654) 30 additions and 0 deletions in 2 files</sub><br />
+
