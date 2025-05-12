@@ -149,6 +149,3 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; When maintainHintSize is false, hint is centered and aligned, it is different from the original one<br />
   <sub>[#168654](https://github.com/flutter/flutter/pull/168654) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168654) 30 additions and 0 deletions in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Label platform view modes using the unified naming scheme<br />
-  <sub>[#168670](https://github.com/flutter/flutter/pull/168670) opened on on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168670) 4 additions and 3 deletions in 1 file</sub><br />
-
