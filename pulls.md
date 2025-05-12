@@ -149,3 +149,6 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; When maintainHintSize is false, hint is centered and aligned, it is different from the original one<br />
   <sub>[#168654](https://github.com/flutter/flutter/pull/168654) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168654) 30 additions and 0 deletions in 2 files</sub><br />
 
+* **[Rehan62700](https://github.com/Rehan62700)** &mdash; Fin link 1.0<br />
+  <sub>[#168683](https://github.com/flutter/flutter/pull/168683) opened on on May 12, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/168683) 6665 additions and 2408 deletions in 268 files</sub><br />
+
