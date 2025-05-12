@@ -775,12 +775,16 @@
 
 ### May 10, 2025 to May 16, 2025
 
-3 commits.
+4 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Adjust theme toggle icon<br />
   <sub>[#12006](https://github.com/flutter/website/pull/12006) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12006) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
   <sub><details><summary>1 image...</summary><img width="120" alt="Screenshot of the new theme select toggle" src="https://github.com/user-attachments/assets/7aec546e-e5be-4981-851a-2b2dc66b4d65" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce single 'Set up Linux development' page<br />
+  <sub>[#12004](https://github.com/flutter/website/pull/12004) merged on May 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12004) over 4 hours, 155 additions and 67 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce single 'Set up macOS development' page<br />
   <sub>[#12003](https://github.com/flutter/website/pull/12003) merged on May 12, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12003) over 4 hours, 270 additions and 96 deletions in 10 files</sub><br />
