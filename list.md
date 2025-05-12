@@ -4,7 +4,12 @@
 
 ### May 10, 2025 to May 16, 2025
 
-13 commits.
+14 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField icon not vertically centered
+  <sub>[#163205](https://github.com/flutter/flutter/pull/163205) merged on May 12, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163205) over 2 months, 51 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+  <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/b79b35ae-c333-4cb4-91f7-5c9ce8edd975)![image](https://github.com/user-attachments/assets/b5704453-66a3-4cb2-97ff-bef556bff377)</details></sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow setting text decorations.
   <sub>[#168408](https://github.com/flutter/flutter/pull/168408) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168408) over 5 days, 124 additions and 0 deletions in 7 files</sub>
