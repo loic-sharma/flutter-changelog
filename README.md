@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-11 commits.
+12 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow setting text decorations.<br />
   <sub>[#168408](https://github.com/flutter/flutter/pull/168408) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168408) over 5 days, 124 additions and 0 deletions in 7 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Remove CupertinoSliverNavigationBar background box when large title is extended<br />
   <sub>[#168407](https://github.com/flutter/flutter/pull/168407) merged on May 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/168407) over 5 days, 80 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `TESTOWNERS` for Android PV tests<br />
+  <sub>[#168694](https://github.com/flutter/flutter/pull/168694) merged on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168694) over 1 hour, 2 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping and test expression eval tests using DDC library bundle format<br />
   <sub>[#168017](https://github.com/flutter/flutter/pull/168017) merged on May 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168017) over 1 week, 87 additions and 16 deletions in 4 files</sub><br />
