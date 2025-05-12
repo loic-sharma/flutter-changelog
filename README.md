@@ -4,7 +4,11 @@
 
 ### May 10, 2025 to May 16, 2025
 
-1 commits.
+2 commits.
+
+* **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: Add Widget of the Week video to DropdownMenu<br />
+  <sub>[#168254](https://github.com/flutter/flutter/pull/168254) merged on May 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168254) over 1 week, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping Framework Default TargetSdk to 36<br />
   <sub>[#168577](https://github.com/flutter/flutter/pull/168577) merged on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168577) over 3 days, 2 additions and 2 deletions in 2 files</sub><br />
