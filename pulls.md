@@ -143,3 +143,6 @@
 * **[Lucas Oliveira](https://github.com/tilucasoli)** &mdash; Replace SizedBox spacing with spacing parameter in Row usages<br />
   <sub>[#168688](https://github.com/flutter/flutter/pull/168688) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168688) 15 additions and 15 deletions in 5 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics<br />
+  <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168703) 33 additions and 664 deletions in 24 files</sub><br />
+
