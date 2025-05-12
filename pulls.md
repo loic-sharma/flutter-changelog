@@ -120,7 +120,7 @@
   <sub>[#168521](https://github.com/flutter/flutter/pull/168521) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168521) 265 additions and 9 deletions in 2 files</sub><br />
 
 * **[Michel Feinstein](https://github.com/feinstein)** &mdash; [stable] Fix ios platform view recreation<br />
-  <sub>[#168527](https://github.com/flutter/flutter/pull/168527) opened on on May 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168527) 82 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#168527](https://github.com/flutter/flutter/pull/168527) opened on on May 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168527) 79 additions and 0 deletions in 4 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu disposes of the controller.<br />
   <sub>[#168541](https://github.com/flutter/flutter/pull/168541) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168541) 23 additions and 1 deletion in 2 files</sub><br />
@@ -133,9 +133,6 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update hello_world example to current layout flutter create uses<br />
   <sub>[#168571](https://github.com/flutter/flutter/pull/168571) opened on on May 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168571) 62 additions and 20 deletions in 5 files</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping Framework Default TargetSdk to 36<br />
-  <sub>[#168577](https://github.com/flutter/flutter/pull/168577) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168577) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix crash on two finger selection gesture<br />
   <sub>[#168598](https://github.com/flutter/flutter/pull/168598) opened on on May 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168598) 522 additions and 41 deletions in 4 files</sub><br />

@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 10, 2025 to May 16, 2025
+
+1 commits.
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping Framework Default TargetSdk to 36<br />
+  <sub>[#168577](https://github.com/flutter/flutter/pull/168577) merged on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168577) over 3 days, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 ### May 3, 2025 to May 9, 2025
 
-57 commits.
+<details>
+<summary>57 commits...</summary>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Add on-device button for changing default "tap" behavior <br />
   <sub>[#167677](https://github.com/flutter/flutter/pull/167677) merged on May 5, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/167677) over 1 week, 670 additions and 124 deletions in 8 files</sub><br />
@@ -235,6 +244,8 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Fix hit-testing order in semantics (#167522)"<br />
   <sub>[#168235](https://github.com/flutter/flutter/pull/168235) merged on May 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168235) over 2 days, 38 additions and 230 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+</details>
 
 ### April 26, 2025 to May 2, 2025
 
