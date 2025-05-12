@@ -4,11 +4,15 @@
 
 ### May 10, 2025 to May 16, 2025
 
-4 commits.
+5 commits.
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Selected DropdownMenuItem isn't highlighted on mobile<br />
   <sub>[#167874](https://github.com/flutter/flutter/pull/167874) merged on May 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167874) over 2 weeks, 74 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect the new `engine.version` verifier<br />
+  <sub>[#168413](https://github.com/flutter/flutter/pull/168413) merged on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168413) over 5 days, 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update hello_world example to current layout flutter create uses<br />
   <sub>[#168571](https://github.com/flutter/flutter/pull/168571) merged on May 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168571) over 3 days, 62 additions and 20 deletions in 5 files</sub><br />
