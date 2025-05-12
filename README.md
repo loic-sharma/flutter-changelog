@@ -693,9 +693,18 @@
 
 ## flutter/packages
 
+### May 10, 2025 to May 16, 2025
+
+1 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Make Storekit 2 the default<br />
+  <sub>[#9178](https://github.com/flutter/packages/pull/9178) merged on May 12, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9178) over 1 week, 49 additions and 13 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 ### May 3, 2025 to May 9, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Delete discontinued packages<br />
   <sub>[#9215](https://github.com/flutter/packages/pull/9215) merged on May 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9215) over 21 hours, 1 addition and 50144 deletions in 675 files</sub><br />
@@ -736,6 +745,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update READMEs of discontinued packages<br />
   <sub>[#9203](https://github.com/flutter/packages/pull/9203) merged on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9203) over 1 day, 42 additions and 18 deletions in 18 files</sub><br />
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Ander Dobo](https://github.com/anderdobo), [Greg Spencer](https://github.com/gspencergoog), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+</details>
 
 ### April 26, 2025 to May 2, 2025
 
