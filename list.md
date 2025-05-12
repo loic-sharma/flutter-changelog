@@ -74,7 +74,7 @@
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `bin/internal/last_engine_commit.sh` and tests.
-  <sub>[#168387](https://github.com/flutter/flutter/pull/168387) merged on May 6, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168387) over 2 hours, 331 additions and 3 deletions in 5 files</sub>
+  <sub>[#168387](https://github.com/flutter/flutter/pull/168387) merged on May 6, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/168387) over 2 hours, 331 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Expose access to conservative path bounds.
