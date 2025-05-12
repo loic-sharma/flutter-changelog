@@ -149,3 +149,6 @@
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168704) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Increase logging around loading of libflutter.so<br />
+  <sub>[#168706](https://github.com/flutter/flutter/pull/168706) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168706) 74 additions and 5 deletions in 3 files</sub><br />
+
