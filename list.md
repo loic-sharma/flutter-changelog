@@ -32,14 +32,14 @@
   <sub>[#165531](https://github.com/flutter/flutter/pull/165531) merged on May 13, 2025 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/165531) over 1 month, 370 additions and 134 deletions in 17 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/165531)</sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip search artifacts in CupertinoSliverNavigationBar searchable-to-searchable transitions
+  <sub>[#168510](https://github.com/flutter/flutter/pull/168510) merged on May 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/168510) over 5 days, 172 additions and 62 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+  <sub><details><summary>4 images...</summary><img width="377" alt="before bottom search artifactsd" src="https://github.com/user-attachments/assets/a0726905-6dc1-463e-8cbb-bf1f5626fb1a" /><img width="379" alt="nav bar search artifacts bottom" src="https://github.com/user-attachments/assets/9474b3e5-a7a9-4a0e-9395-5f62106e65ad" /><img width="379" alt="before top search artifacts" src="https://github.com/user-attachments/assets/adf2b34d-ffa9-4c86-bee5-6683b06ec44f" /><img width="379" alt="nav bar search artifacts top" src="https://github.com/user-attachments/assets/a7a8edd8-0c66-4e3d-8958-3152bf55e42a" /></details></sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Error when trying to use old HC mode when HCPP is enabled
   <sub>[#168027](https://github.com/flutter/flutter/pull/168027) merged on May 12, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168027) over 1 week, 465 additions and 3 deletions in 7 files</sub>
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip search artifacts in CupertinoSliverNavigationBar searchable-to-searchable transitions
-  <sub>[#168510](https://github.com/flutter/flutter/pull/168510) merged on May 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/168510) over 5 days, 172 additions and 62 deletions in 2 files</sub>
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-  <sub><details><summary>4 images...</summary><img width="377" alt="before bottom search artifactsd" src="https://github.com/user-attachments/assets/a0726905-6dc1-463e-8cbb-bf1f5626fb1a" /><img width="379" alt="nav bar search artifacts bottom" src="https://github.com/user-attachments/assets/9474b3e5-a7a9-4a0e-9395-5f62106e65ad" /><img width="379" alt="before top search artifacts" src="https://github.com/user-attachments/assets/adf2b34d-ffa9-4c86-bee5-6683b06ec44f" /><img width="379" alt="nav bar search artifacts top" src="https://github.com/user-attachments/assets/a7a8edd8-0c66-4e3d-8958-3152bf55e42a" /></details></sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Selected DropdownMenuItem isn't highlighted on mobile
   <sub>[#167874](https://github.com/flutter/flutter/pull/167874) merged on May 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167874) over 2 weeks, 74 additions and 2 deletions in 2 files</sub>
