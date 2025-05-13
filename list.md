@@ -11,14 +11,14 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/b79b35ae-c333-4cb4-91f7-5c9ce8edd975)![image](https://github.com/user-attachments/assets/b5704453-66a3-4cb2-97ff-bef556bff377)</details></sub>
 
+* **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Make the barrier panel on the Material Drawer non-dismissible
+  <sub>[#164810](https://github.com/flutter/flutter/pull/164810) merged on May 12, 2025 &mdash; **Small:** [48 comments](https://github.com/flutter/flutter/pull/164810) over 2 months, 148 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow setting text decorations.
   <sub>[#168408](https://github.com/flutter/flutter/pull/168408) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168408) over 5 days, 124 additions and 0 deletions in 7 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
   <sub><details><summary>1 image...</summary><img width="1136" alt="Screenshot 2025-05-06 at 1 04 30 PM" src="https://github.com/user-attachments/assets/f2233ebd-87b2-42ca-ac2a-c71e40ceb953" /></details></sub>
-
-* **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Make the barrier panel on the Material Drawer non-dismissible
-  <sub>[#164810](https://github.com/flutter/flutter/pull/164810) merged on May 12, 2025 &mdash; **Small:** [48 comments](https://github.com/flutter/flutter/pull/164810) over 2 months, 148 additions and 1 deletion in 3 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Error when trying to use old HC mode when HCPP is enabled
   <sub>[#168027](https://github.com/flutter/flutter/pull/168027) merged on May 12, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168027) over 1 week, 465 additions and 3 deletions in 7 files</sub>

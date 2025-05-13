@@ -45,7 +45,7 @@
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) opened on on April 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/166753) 19 additions and 11 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
-  <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/167393) 5971 additions and 20 deletions in 94 files</sub><br />
+  <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/167393) 5900 additions and 20 deletions in 84 files</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Resolve Cupertino textstyle in MaterialBasedCupertinoThemeData<br />
   <sub>[#167597](https://github.com/flutter/flutter/pull/167597) opened on on April 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167597) 29 additions and 2 deletions in 2 files</sub><br />
@@ -128,9 +128,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168604) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes hero not shown when remove pages without animation<br />
-  <sub>[#168617](https://github.com/flutter/flutter/pull/168617) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168617) 68 additions and 13 deletions in 2 files</sub><br />
-
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Switch from MediaQuery.sizeOf to didChangeMetrics for RawMenuAnchor<br />
   <sub>[#168623](https://github.com/flutter/flutter/pull/168623) opened on on May 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168623) 81 additions and 92 deletions in 2 files</sub><br />
 
@@ -154,4 +151,7 @@
 
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix support for back gestures in CupertinoPageTransition delegatedTransition<br />
   <sub>[#168718](https://github.com/flutter/flutter/pull/168718) opened on on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168718) 18 additions and 7 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Tab bar theme and dialog theme documentation cleanup<br />
+  <sub>[#168724](https://github.com/flutter/flutter/pull/168724) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168724) 10 additions and 10 deletions in 2 files</sub><br />
 
