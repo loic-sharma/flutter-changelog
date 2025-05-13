@@ -837,7 +837,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-6 commits.
+7 commits.
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; iOS app extension update
   <sub>[#11982](https://github.com/flutter/website/pull/11982) merged on May 13, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/11982) over 5 days, 470 additions and 204 deletions in 7 files</sub>
@@ -847,6 +847,10 @@
   <sub>[#12006](https://github.com/flutter/website/pull/12006) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12006) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary><img width="120" alt="Screenshot of the new theme select toggle" src="https://github.com/user-attachments/assets/7aec546e-e5be-4981-851a-2b2dc66b4d65" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add standalone doc covering manual installation
+  <sub>[#12011](https://github.com/flutter/website/pull/12011) merged on May 13, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12011) over 19 minutes, 803 additions and 301 deletions in 9 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Finalize switch to new iOS setup page
   <sub>[#12007](https://github.com/flutter/website/pull/12007) merged on May 13, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/website/pull/12007) over 23 hours, 125 additions and 183 deletions in 10 files</sub>
