@@ -146,12 +146,12 @@
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168704) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Increase logging around loading of libflutter.so<br />
-  <sub>[#168706](https://github.com/flutter/flutter/pull/168706) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168706) 74 additions and 5 deletions in 3 files</sub><br />
-
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix support for back gestures in CupertinoPageTransition delegatedTransition<br />
   <sub>[#168718](https://github.com/flutter/flutter/pull/168718) opened on on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168718) 18 additions and 7 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Multi-window support (engine)<br />
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) opened on on May 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168728) 2072 additions and 18 deletions in 27 files</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from dependencies<br />
+  <sub>[#168733](https://github.com/flutter/flutter/pull/168733) opened on on May 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168733) 1086 additions and 1391 deletions in 60 files</sub><br />
 
