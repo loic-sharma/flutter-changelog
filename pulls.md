@@ -129,7 +129,7 @@
   <sub>[#168701](https://github.com/flutter/flutter/pull/168701) opened on on May 12, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168701) 8 additions and 7149 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics<br />
-  <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168703) 33 additions and 664 deletions in 24 files</sub><br />
+  <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168703) 33 additions and 672 deletions in 27 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168704) 1 addition and 0 deletions in 1 file</sub><br />
@@ -148,4 +148,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `docs_deploy_beta`, fix `docs_publish`, add comments.<br />
   <sub>[#168754](https://github.com/flutter/flutter/pull/168754) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168754) 16 additions and 30 deletions in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run `{Platform} flutter_packaging` builders on release candidates.<br />
+  <sub>[#168762](https://github.com/flutter/flutter/pull/168762) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168762) 4 additions and 0 deletions in 1 file</sub><br />
 
