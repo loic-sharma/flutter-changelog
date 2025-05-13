@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-16 commits.
+17 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField icon not vertically centered<br />
   <sub>[#163205](https://github.com/flutter/flutter/pull/163205) merged on May 12, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163205) over 2 months, 51 additions and 5 deletions in 2 files</sub><br />
@@ -47,6 +47,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `TESTOWNERS` for Android PV tests<br />
   <sub>[#168694](https://github.com/flutter/flutter/pull/168694) merged on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168694) over 1 hour, 2 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Fixed Android Lint Errors<br />
+  <sub>[#168613](https://github.com/flutter/flutter/pull/168613) merged on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168613) over 3 days, 20 additions and 3 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Tab bar theme and dialog theme documentation cleanup<br />
   <sub>[#168724](https://github.com/flutter/flutter/pull/168724) merged on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168724) over 3 hours, 10 additions and 10 deletions in 2 files</sub><br />
