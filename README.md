@@ -4,7 +4,15 @@
 
 ### May 10, 2025 to May 16, 2025
 
-18 commits.
+20 commits.
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.<br />
+  <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Call xcode_backend.dart from macos_assemble.sh<br />
+  <sub>[#168108](https://github.com/flutter/flutter/pull/168108) merged on May 13, 2025 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/168108) over 1 week, 1180 additions and 826 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Daco Harkes](https://github.com/dcharkes), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField icon not vertically centered<br />
   <sub>[#163205](https://github.com/flutter/flutter/pull/163205) merged on May 12, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163205) over 2 months, 51 additions and 5 deletions in 2 files</sub><br />
