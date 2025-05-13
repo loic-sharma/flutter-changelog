@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-14 commits.
+15 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField icon not vertically centered<br />
   <sub>[#163205](https://github.com/flutter/flutter/pull/163205) merged on May 12, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163205) over 2 months, 51 additions and 5 deletions in 2 files</sub><br />
@@ -19,6 +19,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Error when trying to use old HC mode when HCPP is enabled<br />
   <sub>[#168027](https://github.com/flutter/flutter/pull/168027) merged on May 12, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168027) over 1 week, 465 additions and 3 deletions in 7 files</sub><br />
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Make the barrier panel on the Material Drawer non-dismissible<br />
+  <sub>[#164810](https://github.com/flutter/flutter/pull/164810) merged on May 12, 2025 &mdash; **Small:** [48 comments](https://github.com/flutter/flutter/pull/164810) over 2 months, 148 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Selected DropdownMenuItem isn't highlighted on mobile<br />
   <sub>[#167874](https://github.com/flutter/flutter/pull/167874) merged on May 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167874) over 2 weeks, 74 additions and 2 deletions in 2 files</sub><br />
