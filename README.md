@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-20 commits.
+21 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.<br />
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub><br />
@@ -35,6 +35,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Selected DropdownMenuItem isn't highlighted on mobile<br />
   <sub>[#167874](https://github.com/flutter/flutter/pull/167874) merged on May 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167874) over 2 weeks, 74 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Updated execution path to silently include --start-paused and updated tests<br />
+  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) merged on May 13, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/168400) over 6 days, 167 additions and 32 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Android home/end keyboard shortcut support<br />
   <sub>[#168184](https://github.com/flutter/flutter/pull/168184) merged on May 12, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/168184) over 1 week, 375 additions and 88 deletions in 3 files</sub><br />
@@ -735,7 +739,7 @@
 1 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Make Storekit 2 the default<br />
-  <sub>[#9178](https://github.com/flutter/packages/pull/9178) merged on May 12, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/9178) over 1 week, 49 additions and 13 deletions in 11 files</sub><br />
+  <sub>[#9178](https://github.com/flutter/packages/pull/9178) merged on May 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9178) over 1 week, 49 additions and 13 deletions in 11 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 ### May 3, 2025 to May 9, 2025

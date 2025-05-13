@@ -71,9 +71,6 @@
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Fix deprecated API calls within tool<br />
-  <sub>[#168200](https://github.com/flutter/flutter/pull/168200) opened on on May 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168200) 25 additions and 35 deletions in 6 files</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from dependencies 2<br />
   <sub>[#168203](https://github.com/flutter/flutter/pull/168203) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168203) 1086 additions and 1391 deletions in 60 files</sub><br />
 
@@ -88,9 +85,6 @@
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix typo in gpu_surface_gl_impeller.cc<br />
   <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Updated execution path to silently include --start-paused and updated tests<br />
-  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) opened on on May 6, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/168400) 167 additions and 32 deletions in 14 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
