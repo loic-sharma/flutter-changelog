@@ -156,5 +156,5 @@
   <sub>[#168717](https://github.com/flutter/flutter/pull/168717) opened on on May 13, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168717) 309 additions and 0 deletions in 2 files</sub><br />
 
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix support for back gestures in CupertinoPageTransition delegatedTransition<br />
-  <sub>[#168718](https://github.com/flutter/flutter/pull/168718) opened on on May 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168718) 18 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#168718](https://github.com/flutter/flutter/pull/168718) opened on on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168718) 18 additions and 7 deletions in 1 file</sub><br />
 
