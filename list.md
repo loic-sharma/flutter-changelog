@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-23 commits.
+26 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub>
@@ -28,9 +28,18 @@
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
   <sub><details><summary>1 image...</summary><img width="1136" alt="Screenshot 2025-05-06 at 1 04 30 PM" src="https://github.com/user-attachments/assets/f2233ebd-87b2-42ca-ac2a-c71e40ceb953" /></details></sub>
 
+* **[ash2moon](https://github.com/ash2moon)** &mdash; Use live region in error text input decorator for Android
+  <sub>[#165531](https://github.com/flutter/flutter/pull/165531) merged on May 13, 2025 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/165531) over 1 month, 370 additions and 134 deletions in 17 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/165531)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Error when trying to use old HC mode when HCPP is enabled
   <sub>[#168027](https://github.com/flutter/flutter/pull/168027) merged on May 12, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168027) over 1 week, 465 additions and 3 deletions in 7 files</sub>
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip search artifacts in CupertinoSliverNavigationBar searchable-to-searchable transitions
+  <sub>[#168510](https://github.com/flutter/flutter/pull/168510) merged on May 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/168510) over 5 days, 172 additions and 62 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+  <sub><details><summary>4 images...</summary><img width="377" alt="before bottom search artifactsd" src="https://github.com/user-attachments/assets/a0726905-6dc1-463e-8cbb-bf1f5626fb1a" /><img width="379" alt="nav bar search artifacts bottom" src="https://github.com/user-attachments/assets/9474b3e5-a7a9-4a0e-9395-5f62106e65ad" /><img width="379" alt="before top search artifacts" src="https://github.com/user-attachments/assets/adf2b34d-ffa9-4c86-bee5-6683b06ec44f" /><img width="379" alt="nav bar search artifacts top" src="https://github.com/user-attachments/assets/a7a8edd8-0c66-4e3d-8958-3152bf55e42a" /></details></sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Selected DropdownMenuItem isn't highlighted on mobile
   <sub>[#167874](https://github.com/flutter/flutter/pull/167874) merged on May 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167874) over 2 weeks, 74 additions and 2 deletions in 2 files</sub>
@@ -67,6 +76,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `TESTOWNERS` for Android PV tests
   <sub>[#168694](https://github.com/flutter/flutter/pull/168694) merged on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168694) over 1 hour, 2 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Fix deprecated API calls within tool
+  <sub>[#168200](https://github.com/flutter/flutter/pull/168200) merged on May 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168200) over 1 week, 25 additions and 35 deletions in 6 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [iOS] Do not hide selection handles when platform hides system context menu
   <sub>[#168678](https://github.com/flutter/flutter/pull/168678) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168678) over 23 hours, 135 additions and 1 deletion in 3 files</sub>
