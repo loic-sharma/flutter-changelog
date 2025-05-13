@@ -735,7 +735,7 @@
 1 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Make Storekit 2 the default
-  <sub>[#9178](https://github.com/flutter/packages/pull/9178) merged on May 12, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9178) over 1 week, 49 additions and 13 deletions in 11 files</sub>
+  <sub>[#9178](https://github.com/flutter/packages/pull/9178) merged on May 12, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/9178) over 1 week, 49 additions and 13 deletions in 11 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 ### May 3, 2025 to May 9, 2025

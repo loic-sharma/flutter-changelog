@@ -158,6 +158,3 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make flutter_test depend on the packages needed for --experimental-faster-testing<br />
   <sub>[#168735](https://github.com/flutter/flutter/pull/168735) opened on on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168735) 89 additions and 139 deletions in 5 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fix swiftc -target on iOS<br />
-  <sub>[#168744](https://github.com/flutter/flutter/pull/168744) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168744) 6 additions and 6 deletions in 1 file</sub><br />
-
