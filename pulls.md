@@ -77,9 +77,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Refactor `@Preview()` detection and code generation<br />
   <sub>[#168307](https://github.com/flutter/flutter/pull/168307) opened on on May 5, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/168307) 742 additions and 401 deletions in 11 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Add the capability of dumping live object counts in debug mode.<br />
-  <sub>[#168389](https://github.com/flutter/flutter/pull/168389) opened on on May 6, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168389) 313 additions and 23 deletions in 27 files</sub><br />
-
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix typo in gpu_surface_gl_impeller.cc<br />
   <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -148,4 +145,7 @@
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make flutter_test depend on the packages needed for --experimental-faster-testing<br />
   <sub>[#168735](https://github.com/flutter/flutter/pull/168735) opened on on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168735) 89 additions and 139 deletions in 5 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `docs_deploy_beta`, fix `docs_publish`, add comments.<br />
+  <sub>[#168754](https://github.com/flutter/flutter/pull/168754) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168754) 16 additions and 30 deletions in 1 file</sub><br />
 

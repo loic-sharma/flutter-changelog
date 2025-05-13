@@ -837,7 +837,11 @@
 
 ### May 10, 2025 to May 16, 2025
 
-4 commits.
+5 commits.
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; iOS app extension update<br />
+  <sub>[#11982](https://github.com/flutter/website/pull/11982) merged on May 13, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/11982) over 5 days, 470 additions and 204 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Adjust theme toggle icon<br />
   <sub>[#12006](https://github.com/flutter/website/pull/12006) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12006) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
