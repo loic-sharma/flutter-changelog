@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-15 commits.
+16 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField icon not vertically centered
   <sub>[#163205](https://github.com/flutter/flutter/pull/163205) merged on May 12, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163205) over 2 months, 51 additions and 5 deletions in 2 files</sub>
@@ -47,6 +47,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `TESTOWNERS` for Android PV tests
   <sub>[#168694](https://github.com/flutter/flutter/pull/168694) merged on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168694) over 1 hour, 2 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Tab bar theme and dialog theme documentation cleanup
+  <sub>[#168724](https://github.com/flutter/flutter/pull/168724) merged on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168724) over 3 hours, 10 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping and test expression eval tests using DDC library bundle format
   <sub>[#168017](https://github.com/flutter/flutter/pull/168017) merged on May 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168017) over 1 week, 87 additions and 16 deletions in 4 files</sub>
