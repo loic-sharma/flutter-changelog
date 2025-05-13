@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-21 commits.
+23 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub>
@@ -52,6 +52,10 @@
   <sub>[#168194](https://github.com/flutter/flutter/pull/168194) merged on May 12, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/168194) over 1 week, 40 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes hero not shown when remove pages without animation
+  <sub>[#168617](https://github.com/flutter/flutter/pull/168617) merged on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168617) over 3 days, 68 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect the new `engine.version` verifier
   <sub>[#168413](https://github.com/flutter/flutter/pull/168413) merged on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168413) over 5 days, 4 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
@@ -63,6 +67,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `TESTOWNERS` for Android PV tests
   <sub>[#168694](https://github.com/flutter/flutter/pull/168694) merged on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168694) over 1 hour, 2 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [iOS] Do not hide selection handles when platform hides system context menu
+  <sub>[#168678](https://github.com/flutter/flutter/pull/168678) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168678) over 23 hours, 135 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fixed Android Lint Errors
   <sub>[#168613](https://github.com/flutter/flutter/pull/168613) merged on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168613) over 3 days, 20 additions and 3 deletions in 5 files</sub>
