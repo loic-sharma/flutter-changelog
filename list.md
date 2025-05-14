@@ -821,7 +821,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-3 commits.
+4 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Make Storekit 2 the default
   <sub>[#9178](https://github.com/flutter/packages/pull/9178) merged on May 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9178) over 1 week, 49 additions and 13 deletions in 11 files</sub>
@@ -833,6 +833,10 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_platform_interface] Adds support to set whether to draw the scrollbar
   <sub>[#9125](https://github.com/flutter/packages/pull/9125) merged on May 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9125) over 3 weeks, 63 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase] Bump `in_app_purchase_storekit` version
+  <sub>[#9247](https://github.com/flutter/packages/pull/9247) merged on May 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9247) over 1 day, 6 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 ### May 3, 2025 to May 9, 2025
