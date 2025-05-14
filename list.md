@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-34 commits.
+35 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub>
@@ -68,6 +68,10 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Nav bar back label is not clipped mid-transition
   <sub>[#168194](https://github.com/flutter/flutter/pull/168194) merged on May 12, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/168194) over 1 week, 40 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run `{Platform} flutter_packaging` builders on release candidates.
+  <sub>[#168762](https://github.com/flutter/flutter/pull/168762) merged on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168762) over 7 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove/replace the `team` label with `c: contributor-productivity`.
   <sub>[#168702](https://github.com/flutter/flutter/pull/168702) merged on May 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168702) over 1 day, 3 additions and 8 deletions in 4 files</sub>
