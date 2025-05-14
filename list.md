@@ -23,14 +23,14 @@
   <sub>[#164810](https://github.com/flutter/flutter/pull/164810) merged on May 12, 2025 &mdash; **Small:** [48 comments](https://github.com/flutter/flutter/pull/164810) over 2 months, 148 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[ash2moon](https://github.com/ash2moon)** &mdash; Use live region in error text input decorator for Android
+  <sub>[#165531](https://github.com/flutter/flutter/pull/165531) merged on May 13, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/flutter/pull/165531) over 1 month, 370 additions and 134 deletions in 17 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/165531)</sub>
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow setting text decorations.
   <sub>[#168408](https://github.com/flutter/flutter/pull/168408) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168408) over 5 days, 124 additions and 0 deletions in 7 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
   <sub><details><summary>1 image...</summary><img width="1136" alt="Screenshot 2025-05-06 at 1 04 30 PM" src="https://github.com/user-attachments/assets/f2233ebd-87b2-42ca-ac2a-c71e40ceb953" /></details></sub>
-
-* **[ash2moon](https://github.com/ash2moon)** &mdash; Use live region in error text input decorator for Android
-  <sub>[#165531](https://github.com/flutter/flutter/pull/165531) merged on May 13, 2025 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/165531) over 1 month, 370 additions and 134 deletions in 17 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/165531)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip search artifacts in CupertinoSliverNavigationBar searchable-to-searchable transitions
   <sub>[#168510](https://github.com/flutter/flutter/pull/168510) merged on May 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/168510) over 5 days, 172 additions and 62 deletions in 2 files</sub>
