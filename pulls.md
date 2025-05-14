@@ -128,6 +128,6 @@
 * **[hyiso](https://github.com/hyiso)** &mdash; Add cache for `depends_on_flutter` in `podhelper.rb`<br />
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [`ios-experimental`] Update README.md<br />
-  <sub>[#168860](https://github.com/flutter/flutter/pull/168860) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168860) 2 additions and 126 deletions in 1 file</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [`ios-experimental`] Update `.ci.yaml`s<br />
+  <sub>[#168860](https://github.com/flutter/flutter/pull/168860) opened on on May 14, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168860) 19 additions and 7462 deletions in 3 files</sub><br />
 
