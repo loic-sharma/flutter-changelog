@@ -99,7 +99,7 @@
   <sub>[#168521](https://github.com/flutter/flutter/pull/168521) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168521) 265 additions and 9 deletions in 2 files</sub><br />
 
 * **[Michel Feinstein](https://github.com/feinstein)** &mdash; [stable] Fix ios platform view recreation<br />
-  <sub>[#168527](https://github.com/flutter/flutter/pull/168527) opened on on May 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/168527) 80 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#168527](https://github.com/flutter/flutter/pull/168527) opened on on May 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/168527) 80 additions and 0 deletions in 4 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu disposes of the controller.<br />
   <sub>[#168541](https://github.com/flutter/flutter/pull/168541) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168541) 23 additions and 1 deletion in 2 files</sub><br />
@@ -146,11 +146,8 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] More granular configuration of the test environment<br />
   <sub>[#168767](https://github.com/flutter/flutter/pull/168767) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168767) 118 additions and 78 deletions in 25 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Further update `Engine-artifacts.md`.<br />
-  <sub>[#168779](https://github.com/flutter/flutter/pull/168779) opened on on May 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168779) 11 additions and 9 deletions in 1 file</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Homogenize themes documentation<br />
-  <sub>[#168808](https://github.com/flutter/flutter/pull/168808) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168808) 62 additions and 71 deletions in 27 files</sub><br />
+  <sub>[#168808](https://github.com/flutter/flutter/pull/168808) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168808) 67 additions and 71 deletions in 27 files</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix .xcodeproj file name in Setting-up-the-Engine-development-environment.md<br />
   <sub>[#168814](https://github.com/flutter/flutter/pull/168814) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168814) 1 addition and 1 deletion in 1 file</sub><br />
