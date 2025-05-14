@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-32 commits.
+33 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub>
@@ -80,6 +80,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect the new `engine.version` verifier
   <sub>[#168413](https://github.com/flutter/flutter/pull/168413) merged on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168413) over 5 days, 4 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `titleAlignment` to `CheckboxListTile` and `RadioListTile` 
+  <sub>[#168666](https://github.com/flutter/flutter/pull/168666) merged on May 14, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/168666) over 1 day, 580 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace hardcoded host and app level build.gradle paths with `AndroidProject`-level getters in `gradle_errors.dart`
   <sub>[#167949](https://github.com/flutter/flutter/pull/167949) merged on May 13, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/167949) over 2 weeks, 7 additions and 20 deletions in 1 file</sub>
@@ -865,7 +869,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-7 commits.
+8 commits.
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; iOS app extension update
   <sub>[#11982](https://github.com/flutter/website/pull/11982) merged on May 13, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/11982) over 5 days, 470 additions and 204 deletions in 7 files</sub>
@@ -895,6 +899,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce single 'Set up Windows development' page
   <sub>[#12005](https://github.com/flutter/website/pull/12005) merged on May 12, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12005) over 2 hours, 246 additions and 80 deletions in 9 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Add 2 design doc redirects
+  <sub>[#12012](https://github.com/flutter/website/pull/12012) merged on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12012) over 3 hours, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### May 3, 2025 to May 9, 2025
 
