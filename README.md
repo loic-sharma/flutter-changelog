@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-38 commits.
+39 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.<br />
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub><br />
@@ -19,6 +19,11 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/b79b35ae-c333-4cb4-91f7-5c9ce8edd975)![image](https://github.com/user-attachments/assets/b5704453-66a3-4cb2-97ff-bef556bff377)</details></sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip search artifacts in CupertinoSliverNavigationBar searchable-to-searchable transitions<br />
+  <sub>[#168510](https://github.com/flutter/flutter/pull/168510) merged on May 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/168510) over 5 days, 172 additions and 62 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+  <sub><details><summary>4 images...</summary><img width="377" alt="before bottom search artifactsd" src="https://github.com/user-attachments/assets/a0726905-6dc1-463e-8cbb-bf1f5626fb1a" /><img width="379" alt="nav bar search artifacts bottom" src="https://github.com/user-attachments/assets/9474b3e5-a7a9-4a0e-9395-5f62106e65ad" /><img width="379" alt="before top search artifacts" src="https://github.com/user-attachments/assets/adf2b34d-ffa9-4c86-bee5-6683b06ec44f" /><img width="379" alt="nav bar search artifacts top" src="https://github.com/user-attachments/assets/a7a8edd8-0c66-4e3d-8958-3152bf55e42a" /></details></sub>
+
 * **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Make the barrier panel on the Material Drawer non-dismissible<br />
   <sub>[#164810](https://github.com/flutter/flutter/pull/164810) merged on May 12, 2025 &mdash; **Small:** [48 comments](https://github.com/flutter/flutter/pull/164810) over 2 months, 148 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -31,11 +36,6 @@
   <sub>[#168408](https://github.com/flutter/flutter/pull/168408) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168408) over 5 days, 124 additions and 0 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1136" alt="Screenshot 2025-05-06 at 1 04 30 PM" src="https://github.com/user-attachments/assets/f2233ebd-87b2-42ca-ac2a-c71e40ceb953" /></details></sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clip search artifacts in CupertinoSliverNavigationBar searchable-to-searchable transitions<br />
-  <sub>[#168510](https://github.com/flutter/flutter/pull/168510) merged on May 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/168510) over 5 days, 172 additions and 62 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-  <sub><details><summary>4 images...</summary><img width="377" alt="before bottom search artifactsd" src="https://github.com/user-attachments/assets/a0726905-6dc1-463e-8cbb-bf1f5626fb1a" /><img width="379" alt="nav bar search artifacts bottom" src="https://github.com/user-attachments/assets/9474b3e5-a7a9-4a0e-9395-5f62106e65ad" /><img width="379" alt="before top search artifacts" src="https://github.com/user-attachments/assets/adf2b34d-ffa9-4c86-bee5-6683b06ec44f" /><img width="379" alt="nav bar search artifacts top" src="https://github.com/user-attachments/assets/a7a8edd8-0c66-4e3d-8958-3152bf55e42a" /></details></sub>
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Updated execution path to silently include --start-paused and updated tests<br />
   <sub>[#168400](https://github.com/flutter/flutter/pull/168400) merged on May 13, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/168400) over 6 days, 167 additions and 32 deletions in 14 files</sub><br />
@@ -60,6 +60,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes hero not shown when remove pages without animation<br />
   <sub>[#168617](https://github.com/flutter/flutter/pull/168617) merged on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168617) over 3 days, 68 additions and 13 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Huy](https://github.com/huycozy)** &mdash; Normalize BottomAppBarTheme<br />
+  <sub>[#168586](https://github.com/flutter/flutter/pull/168586) merged on May 14, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/168586) over 5 days, 400 additions and 80 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Wire up the system text scaler from `PlatformDispatcher`<br />
   <sub>[#159999](https://github.com/flutter/flutter/pull/159999) merged on May 13, 2025 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/159999) over 5 months, 153 additions and 76 deletions in 22 files</sub><br />
@@ -101,21 +105,21 @@
   <sub>[#167198](https://github.com/flutter/flutter/pull/167198) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167198) over 4 weeks, 4 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `docs_deploy_beta`, fix `docs_publish`, add comments.<br />
+  <sub>[#168754](https://github.com/flutter/flutter/pull/168754) merged on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168754) over 9 hours, 16 additions and 30 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS,iOS: fix swift target triple<br />
   <sub>[#168749](https://github.com/flutter/flutter/pull/168749) merged on May 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168749) over 22 hours, 9 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `TESTOWNERS` for Android PV tests<br />
-  <sub>[#168694](https://github.com/flutter/flutter/pull/168694) merged on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168694) over 1 hour, 2 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Further update `Engine-artifacts.md`.<br />
   <sub>[#168779](https://github.com/flutter/flutter/pull/168779) merged on May 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168779) over 15 hours, 11 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `docs_deploy_beta`, fix `docs_publish`, add comments.<br />
-  <sub>[#168754](https://github.com/flutter/flutter/pull/168754) merged on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168754) over 9 hours, 16 additions and 30 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `TESTOWNERS` for Android PV tests<br />
+  <sub>[#168694](https://github.com/flutter/flutter/pull/168694) merged on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168694) over 1 hour, 2 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Fix deprecated API calls within tool<br />
   <sub>[#168200](https://github.com/flutter/flutter/pull/168200) merged on May 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168200) over 1 week, 25 additions and 35 deletions in 6 files</sub><br />
@@ -893,7 +897,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-8 commits.
+9 commits.
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; iOS app extension update<br />
   <sub>[#11982](https://github.com/flutter/website/pull/11982) merged on May 13, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/11982) over 5 days, 470 additions and 204 deletions in 7 files</sub><br />
@@ -911,6 +915,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Finalize switch to new iOS setup page<br />
   <sub>[#12007](https://github.com/flutter/website/pull/12007) merged on May 13, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/website/pull/12007) over 23 hours, 125 additions and 183 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add new install docs to sidenav<br />
+  <sub>[#12013](https://github.com/flutter/website/pull/12013) merged on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12013) over 18 hours, 163 additions and 32 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce single 'Set up Linux development' page<br />
   <sub>[#12004](https://github.com/flutter/website/pull/12004) merged on May 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12004) over 4 hours, 155 additions and 67 deletions in 9 files</sub><br />

@@ -92,17 +92,11 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Fix broken comment references and code spans in doc comments<br />
   <sub>[#168498](https://github.com/flutter/flutter/pull/168498) opened on on May 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168498) 454 additions and 368 deletions in 108 files</sub><br />
 
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add a callback for when the menu opens or closes.<br />
-  <sub>[#168519](https://github.com/flutter/flutter/pull/168519) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168519) 4 additions and 0 deletions in 1 file</sub><br />
-
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; fix: ThemeData.badgeTheme Not working<br />
   <sub>[#168521](https://github.com/flutter/flutter/pull/168521) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168521) 265 additions and 9 deletions in 2 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu disposes of the controller.<br />
   <sub>[#168541](https://github.com/flutter/flutter/pull/168541) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168541) 23 additions and 1 deletion in 2 files</sub><br />
-
-* **[yim](https://github.com/yiiim)** &mdash; Fix the issue with Tooltip<br />
-  <sub>[#168546](https://github.com/flutter/flutter/pull/168546) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168546) 51 additions and 0 deletions in 2 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
@@ -113,14 +107,8 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Switch from MediaQuery.sizeOf to didChangeMetrics for RawMenuAnchor<br />
   <sub>[#168623](https://github.com/flutter/flutter/pull/168623) opened on on May 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168623) 81 additions and 92 deletions in 2 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add MenuAnchor.of and MenuAnchor.mayBeOf methods<br />
-  <sub>[#168630](https://github.com/flutter/flutter/pull/168630) opened on on May 10, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/168630) 116 additions and 0 deletions in 2 files</sub><br />
-
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; When maintainHintSize is false, hint is centered and aligned, it is different from the original one<br />
   <sub>[#168654](https://github.com/flutter/flutter/pull/168654) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168654) 30 additions and 0 deletions in 2 files</sub><br />
-
-* **[Lucas Oliveira](https://github.com/tilucasoli)** &mdash; Replace SizedBox spacing with spacing parameter in Row usages<br />
-  <sub>[#168688](https://github.com/flutter/flutter/pull/168688) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168688) 15 additions and 15 deletions in 5 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run one framework and engine test on macOS 15<br />
   <sub>[#168701](https://github.com/flutter/flutter/pull/168701) opened on on May 12, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168701) 8 additions and 7149 deletions in 2 files</sub><br />
@@ -129,7 +117,7 @@
   <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/168703) 33 additions and 672 deletions in 27 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
-  <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168704) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168704) 8 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Multi-window support (engine)<br />
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) opened on on May 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168728) 2072 additions and 18 deletions in 27 files</sub><br />
@@ -142,9 +130,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] More granular configuration of the test environment<br />
   <sub>[#168767](https://github.com/flutter/flutter/pull/168767) opened on on May 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168767) 158 additions and 106 deletions in 31 files</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Homogenize themes documentation<br />
-  <sub>[#168808](https://github.com/flutter/flutter/pull/168808) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168808) 67 additions and 71 deletions in 27 files</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix .xcodeproj file name in Setting-up-the-Engine-development-environment.md<br />
   <sub>[#168814](https://github.com/flutter/flutter/pull/168814) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168814) 1 addition and 1 deletion in 1 file</sub><br />
