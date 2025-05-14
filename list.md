@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-35 commits.
+36 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub>
@@ -37,6 +37,10 @@
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
   <sub><details><summary>4 images...</summary><img width="377" alt="before bottom search artifactsd" src="https://github.com/user-attachments/assets/a0726905-6dc1-463e-8cbb-bf1f5626fb1a" /><img width="379" alt="nav bar search artifacts bottom" src="https://github.com/user-attachments/assets/9474b3e5-a7a9-4a0e-9395-5f62106e65ad" /><img width="379" alt="before top search artifacts" src="https://github.com/user-attachments/assets/adf2b34d-ffa9-4c86-bee5-6683b06ec44f" /><img width="379" alt="nav bar search artifacts top" src="https://github.com/user-attachments/assets/a7a8edd8-0c66-4e3d-8958-3152bf55e42a" /></details></sub>
 
+* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Updated execution path to silently include --start-paused and updated tests
+  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) merged on May 13, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/168400) over 6 days, 167 additions and 32 deletions in 14 files</sub>
+  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Error when trying to use old HC mode when HCPP is enabled
   <sub>[#168027](https://github.com/flutter/flutter/pull/168027) merged on May 12, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168027) over 1 week, 465 additions and 3 deletions in 7 files</sub>
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -45,17 +49,17 @@
   <sub>[#167874](https://github.com/flutter/flutter/pull/167874) merged on May 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/167874) over 2 weeks, 74 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
 
-* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Updated execution path to silently include --start-paused and updated tests
-  <sub>[#168400](https://github.com/flutter/flutter/pull/168400) merged on May 13, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/168400) over 6 days, 167 additions and 32 deletions in 14 files</sub>
-  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 3: framework part
+  <sub>[#167771](https://github.com/flutter/flutter/pull/167771) merged on May 13, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/167771) over 2 weeks, 437 additions and 153 deletions in 10 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes hero not shown when remove pages without animation
+  <sub>[#168617](https://github.com/flutter/flutter/pull/168617) merged on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168617) over 3 days, 68 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Android home/end keyboard shortcut support
   <sub>[#168184](https://github.com/flutter/flutter/pull/168184) merged on May 12, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/168184) over 1 week, 375 additions and 88 deletions in 3 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
-
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 3: framework part
-  <sub>[#167771](https://github.com/flutter/flutter/pull/167771) merged on May 13, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/167771) over 2 weeks, 437 additions and 153 deletions in 10 files</sub>
-  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Wire up the system text scaler from `PlatformDispatcher`
   <sub>[#159999](https://github.com/flutter/flutter/pull/159999) merged on May 13, 2025 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/159999) over 5 months, 153 additions and 76 deletions in 22 files</sub>
@@ -76,10 +80,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove/replace the `team` label with `c: contributor-productivity`.
   <sub>[#168702](https://github.com/flutter/flutter/pull/168702) merged on May 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168702) over 1 day, 3 additions and 8 deletions in 4 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes hero not shown when remove pages without animation
-  <sub>[#168617](https://github.com/flutter/flutter/pull/168617) merged on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168617) over 3 days, 68 additions and 13 deletions in 2 files</sub>
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect the new `engine.version` verifier
   <sub>[#168413](https://github.com/flutter/flutter/pull/168413) merged on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168413) over 5 days, 4 additions and 2 deletions in 1 file</sub>
@@ -108,6 +108,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `TESTOWNERS` for Android PV tests
   <sub>[#168694](https://github.com/flutter/flutter/pull/168694) merged on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168694) over 1 hour, 2 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix Linux Impeller support broken by incorrect deletion of stencil buffer.
+  <sub>[#168668](https://github.com/flutter/flutter/pull/168668) merged on May 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168668) over 1 day, 58 additions and 8 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove deprecated todo about caching
   <sub>[#168534](https://github.com/flutter/flutter/pull/168534) merged on May 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168534) over 5 days, 0 additions and 1 deletion in 1 file</sub>
