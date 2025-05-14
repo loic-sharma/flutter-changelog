@@ -165,5 +165,5 @@
   <sub>[#168825](https://github.com/flutter/flutter/pull/168825) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168825) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.33.0-0.0.pre Framework Cherrypicks<br />
-  <sub>[#168826](https://github.com/flutter/flutter/pull/168826) opened on on May 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168826) 2 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#168826](https://github.com/flutter/flutter/pull/168826) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168826) 2 additions and 0 deletions in 2 files</sub><br />
 
