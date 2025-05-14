@@ -143,9 +143,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make flutter_test depend on the packages needed for --experimental-faster-testing<br />
   <sub>[#168735](https://github.com/flutter/flutter/pull/168735) opened on on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168735) 89 additions and 139 deletions in 5 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `docs_deploy_beta`, fix `docs_publish`, add comments.<br />
-  <sub>[#168754](https://github.com/flutter/flutter/pull/168754) opened on on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168754) 16 additions and 30 deletions in 1 file</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run `{Platform} flutter_packaging` builders on release candidates.<br />
   <sub>[#168762](https://github.com/flutter/flutter/pull/168762) opened on on May 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168762) 4 additions and 0 deletions in 1 file</sub><br />
 

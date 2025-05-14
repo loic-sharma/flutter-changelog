@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-33 commits.
+34 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub>
@@ -49,13 +49,13 @@
   <sub>[#168400](https://github.com/flutter/flutter/pull/168400) merged on May 13, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/168400) over 6 days, 167 additions and 32 deletions in 14 files</sub>
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 3: framework part
-  <sub>[#167771](https://github.com/flutter/flutter/pull/167771) merged on May 13, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/167771) over 2 weeks, 437 additions and 153 deletions in 10 files</sub>
-  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Android home/end keyboard shortcut support
   <sub>[#168184](https://github.com/flutter/flutter/pull/168184) merged on May 12, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/168184) over 1 week, 375 additions and 88 deletions in 3 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 3: framework part
+  <sub>[#167771](https://github.com/flutter/flutter/pull/167771) merged on May 13, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/167771) over 2 weeks, 437 additions and 153 deletions in 10 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Wire up the system text scaler from `PlatformDispatcher`
   <sub>[#159999](https://github.com/flutter/flutter/pull/159999) merged on May 13, 2025 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/159999) over 5 months, 153 additions and 76 deletions in 22 files</sub>
@@ -96,6 +96,10 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Improve documentation for KeyedSubtree constructor
   <sub>[#167198](https://github.com/flutter/flutter/pull/167198) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/167198) over 4 weeks, 4 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `docs_deploy_beta`, fix `docs_publish`, add comments.
+  <sub>[#168754](https://github.com/flutter/flutter/pull/168754) merged on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168754) over 9 hours, 16 additions and 30 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `TESTOWNERS` for Android PV tests
   <sub>[#168694](https://github.com/flutter/flutter/pull/168694) merged on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168694) over 1 hour, 2 additions and 3 deletions in 1 file</sub>
