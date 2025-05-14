@@ -152,3 +152,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Homogenize themes documentation<br />
   <sub>[#168808](https://github.com/flutter/flutter/pull/168808) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168808) 62 additions and 71 deletions in 27 files</sub><br />
 
+* **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix .xcodeproj file name in Setting-up-the-Engine-development-environment.md<br />
+  <sub>[#168814](https://github.com/flutter/flutter/pull/168814) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168814) 1 addition and 1 deletion in 1 file</sub><br />
+
