@@ -29,9 +29,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
   <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
 
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Fix navbar blur clipping outside of Cupertino sheet<br />
-  <sub>[#166019](https://github.com/flutter/flutter/pull/166019) opened on on March 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/166019) 90 additions and 16 deletions in 3 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
@@ -92,12 +89,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Fix broken comment references and code spans in doc comments<br />
   <sub>[#168498](https://github.com/flutter/flutter/pull/168498) opened on on May 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168498) 454 additions and 368 deletions in 108 files</sub><br />
 
-* **[jcheng](https://github.com/StanleyCocos)** &mdash; fix: ThemeData.badgeTheme Not working<br />
-  <sub>[#168521](https://github.com/flutter/flutter/pull/168521) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168521) 265 additions and 9 deletions in 2 files</sub><br />
-
-* **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu disposes of the controller.<br />
-  <sub>[#168541](https://github.com/flutter/flutter/pull/168541) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168541) 23 additions and 1 deletion in 2 files</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
 
@@ -128,6 +119,9 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make flutter_test depend on the packages needed for --experimental-faster-testing<br />
   <sub>[#168735](https://github.com/flutter/flutter/pull/168735) opened on on May 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168735) 89 additions and 139 deletions in 5 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix selection handles showing when using a mouse<br />
+  <sub>[#168751](https://github.com/flutter/flutter/pull/168751) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168751) 243 additions and 4 deletions in 5 files</sub><br />
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] More granular configuration of the test environment<br />
   <sub>[#168767](https://github.com/flutter/flutter/pull/168767) opened on on May 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168767) 158 additions and 106 deletions in 31 files</sub><br />
 
@@ -136,4 +130,7 @@
 
 * **[hyiso](https://github.com/hyiso)** &mdash; Add cache for `depends_on_flutter` in `podhelper.rb`<br />
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 4: web and updateNode<br />
+  <sub>[#168852](https://github.com/flutter/flutter/pull/168852) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168852) 165 additions and 87 deletions in 13 files</sub><br />
 
