@@ -98,9 +98,6 @@
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; fix: ThemeData.badgeTheme Not working<br />
   <sub>[#168521](https://github.com/flutter/flutter/pull/168521) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168521) 265 additions and 9 deletions in 2 files</sub><br />
 
-* **[Michel Feinstein](https://github.com/feinstein)** &mdash; [stable] Fix ios platform view recreation<br />
-  <sub>[#168527](https://github.com/flutter/flutter/pull/168527) opened on on May 8, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/168527) 80 additions and 0 deletions in 4 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu disposes of the controller.<br />
   <sub>[#168541](https://github.com/flutter/flutter/pull/168541) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168541) 23 additions and 1 deletion in 2 files</sub><br />
 
@@ -144,7 +141,7 @@
   <sub>[#168735](https://github.com/flutter/flutter/pull/168735) opened on on May 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168735) 89 additions and 139 deletions in 5 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] More granular configuration of the test environment<br />
-  <sub>[#168767](https://github.com/flutter/flutter/pull/168767) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168767) 158 additions and 106 deletions in 31 files</sub><br />
+  <sub>[#168767](https://github.com/flutter/flutter/pull/168767) opened on on May 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168767) 158 additions and 106 deletions in 31 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Homogenize themes documentation<br />
   <sub>[#168808](https://github.com/flutter/flutter/pull/168808) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168808) 67 additions and 71 deletions in 27 files</sub><br />
@@ -154,7 +151,4 @@
 
 * **[hyiso](https://github.com/hyiso)** &mdash; Add cache for `depends_on_flutter` in `podhelper.rb`<br />
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.33.0-0.0.pre Framework Cherrypicks<br />
-  <sub>[#168826](https://github.com/flutter/flutter/pull/168826) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168826) 2 additions and 0 deletions in 2 files</sub><br />
 
