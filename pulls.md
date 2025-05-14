@@ -152,9 +152,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] More granular configuration of the test environment<br />
   <sub>[#168767](https://github.com/flutter/flutter/pull/168767) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168767) 118 additions and 78 deletions in 25 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Validate Gold integration (take 2)<br />
-  <sub>[#168772](https://github.com/flutter/flutter/pull/168772) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168772) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Further update `Engine-artifacts.md`.<br />
   <sub>[#168779](https://github.com/flutter/flutter/pull/168779) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168779) 11 additions and 9 deletions in 1 file</sub><br />
 
