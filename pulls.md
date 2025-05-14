@@ -156,5 +156,5 @@
   <sub>[#168814](https://github.com/flutter/flutter/pull/168814) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168814) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[hyiso](https://github.com/hyiso)** &mdash; Add cache for `depends_on_flutter` in `podhelper.rb`<br />
-  <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
