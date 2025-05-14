@@ -48,7 +48,7 @@
   <sub>[#167695](https://github.com/flutter/flutter/pull/167695) opened on on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167695) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` for `EditableText`<br />
-  <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/167762) 256 additions and 43 deletions in 15 files</sub><br />
+  <sub>[#167762](https://github.com/flutter/flutter/pull/167762) opened on on April 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/167762) 262 additions and 43 deletions in 15 files</sub><br />
 
 * **[toneyzeng](https://github.com/toneyzeng)** &mdash; Fix: Resolved a memory error caused by incompatible std::map implementations when multiple plugins were compiled with different C++ standards.<br />
   <sub>[#167804](https://github.com/flutter/flutter/pull/167804) opened on on April 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167804) 119 additions and 16 deletions in 2 files</sub><br />
@@ -105,7 +105,7 @@
   <sub>[#168701](https://github.com/flutter/flutter/pull/168701) opened on on May 12, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168701) 8 additions and 7149 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics<br />
-  <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/168703) 40 additions and 695 deletions in 30 files</sub><br />
+  <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/168703) 59 additions and 709 deletions in 28 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168704) 8 additions and 1 deletion in 1 file</sub><br />
@@ -129,5 +129,5 @@
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 4: web and updateNode<br />
-  <sub>[#168852](https://github.com/flutter/flutter/pull/168852) opened on on May 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168852) 239 additions and 88 deletions in 13 files</sub><br />
+  <sub>[#168852](https://github.com/flutter/flutter/pull/168852) opened on on May 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168852) 243 additions and 92 deletions in 14 files</sub><br />
 
