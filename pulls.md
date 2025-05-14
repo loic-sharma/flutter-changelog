@@ -147,7 +147,7 @@
   <sub>[#168767](https://github.com/flutter/flutter/pull/168767) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168767) 118 additions and 78 deletions in 25 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Further update `Engine-artifacts.md`.<br />
-  <sub>[#168779](https://github.com/flutter/flutter/pull/168779) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168779) 11 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#168779](https://github.com/flutter/flutter/pull/168779) opened on on May 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168779) 11 additions and 9 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Homogenize themes documentation<br />
   <sub>[#168808](https://github.com/flutter/flutter/pull/168808) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168808) 62 additions and 71 deletions in 27 files</sub><br />
