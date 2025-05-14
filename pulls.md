@@ -119,9 +119,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make flutter_test depend on the packages needed for --experimental-faster-testing<br />
   <sub>[#168735](https://github.com/flutter/flutter/pull/168735) opened on on May 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168735) 89 additions and 139 deletions in 5 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix selection handles showing when using a mouse<br />
-  <sub>[#168751](https://github.com/flutter/flutter/pull/168751) opened on on May 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168751) 243 additions and 4 deletions in 5 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] More granular configuration of the test environment<br />
   <sub>[#168767](https://github.com/flutter/flutter/pull/168767) opened on on May 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168767) 158 additions and 106 deletions in 31 files</sub><br />
 
@@ -132,5 +129,5 @@
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 4: web and updateNode<br />
-  <sub>[#168852](https://github.com/flutter/flutter/pull/168852) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168852) 165 additions and 87 deletions in 13 files</sub><br />
+  <sub>[#168852](https://github.com/flutter/flutter/pull/168852) opened on on May 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168852) 239 additions and 88 deletions in 13 files</sub><br />
 
