@@ -128,6 +128,6 @@
 * **[hyiso](https://github.com/hyiso)** &mdash; Add cache for `depends_on_flutter` in `podhelper.rb`<br />
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 4: web and updateNode<br />
-  <sub>[#168852](https://github.com/flutter/flutter/pull/168852) opened on on May 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168852) 243 additions and 92 deletions in 14 files</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [`ios-experimental`] Update README.md<br />
+  <sub>[#168860](https://github.com/flutter/flutter/pull/168860) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168860) 2 additions and 126 deletions in 1 file</sub><br />
 
