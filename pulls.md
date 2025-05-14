@@ -101,9 +101,6 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; When maintainHintSize is false, hint is centered and aligned, it is different from the original one<br />
   <sub>[#168654](https://github.com/flutter/flutter/pull/168654) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168654) 30 additions and 0 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run one framework and engine test on macOS 15<br />
-  <sub>[#168701](https://github.com/flutter/flutter/pull/168701) opened on on May 12, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168701) 8 additions and 7149 deletions in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics<br />
   <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/168703) 59 additions and 717 deletions in 30 files</sub><br />
 
