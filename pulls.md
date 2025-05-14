@@ -105,7 +105,7 @@
   <sub>[#168701](https://github.com/flutter/flutter/pull/168701) opened on on May 12, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168701) 8 additions and 7149 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics<br />
-  <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/168703) 33 additions and 672 deletions in 27 files</sub><br />
+  <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/168703) 40 additions and 695 deletions in 30 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168704) 8 additions and 1 deletion in 1 file</sub><br />
