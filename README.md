@@ -4,7 +4,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-30 commits.
+32 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.<br />
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub><br />
@@ -81,6 +81,10 @@
   <sub>[#168413](https://github.com/flutter/flutter/pull/168413) merged on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168413) over 5 days, 4 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace hardcoded host and app level build.gradle paths with `AndroidProject`-level getters in `gradle_errors.dart`<br />
+  <sub>[#167949](https://github.com/flutter/flutter/pull/167949) merged on May 13, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/167949) over 2 weeks, 7 additions and 20 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [ash2moon](https://github.com/ash2moon)</sub><br />
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Remove CupertinoSliverNavigationBar background box when large title is extended<br />
   <sub>[#168407](https://github.com/flutter/flutter/pull/168407) merged on May 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/168407) over 5 days, 80 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
@@ -92,6 +96,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `TESTOWNERS` for Android PV tests<br />
   <sub>[#168694](https://github.com/flutter/flutter/pull/168694) merged on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168694) over 1 hour, 2 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove deprecated todo about caching<br />
+  <sub>[#168534](https://github.com/flutter/flutter/pull/168534) merged on May 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168534) over 5 days, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Fix deprecated API calls within tool<br />
   <sub>[#168200](https://github.com/flutter/flutter/pull/168200) merged on May 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168200) over 1 week, 25 additions and 35 deletions in 6 files</sub><br />
