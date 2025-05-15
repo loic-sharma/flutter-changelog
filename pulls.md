@@ -125,6 +125,9 @@
 * **[hyiso](https://github.com/hyiso)** &mdash; Add cache for `depends_on_flutter` in `podhelper.rb`<br />
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
+* **[Stefan Humm](https://github.com/Fintasys)** &mdash; Add `.separated` constructor to `ReorderableListView`<br />
+  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168834) 366 additions and 8 deletions in 4 files</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [`ios-experimental`] Update `.ci.yaml`s<br />
   <sub>[#168860](https://github.com/flutter/flutter/pull/168860) opened on on May 14, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/168860) 20 additions and 7429 deletions in 3 files</sub><br />
 
