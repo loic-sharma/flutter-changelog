@@ -95,7 +95,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Run `{Platform} flutter_packaging` builders on release candidates.
-  <sub>[#168762](https://github.com/flutter/flutter/pull/168762) merged on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168762) over 7 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>[#168762](https://github.com/flutter/flutter/pull/168762) merged on May 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168762) over 7 hours, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove/replace the `team` label with `c: contributor-productivity`.
