@@ -38,7 +38,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/165531)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Implements UISceneDelegate dynamically w/ FlutterLaunchEngine
-  <sub>[#168396](https://github.com/flutter/flutter/pull/168396) merged on May 14, 2025 &mdash; **Medium:** [61 comments](https://github.com/flutter/flutter/pull/168396) over 1 week, 376 additions and 13 deletions in 16 files</sub>
+  <sub>[#168396](https://github.com/flutter/flutter/pull/168396) merged on May 14, 2025 &mdash; **Medium:** [62 comments](https://github.com/flutter/flutter/pull/168396) over 1 week, 376 additions and 13 deletions in 16 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow setting text decorations.
