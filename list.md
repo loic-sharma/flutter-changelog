@@ -127,7 +127,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Remove `KernelSnapshot` dependency in build
-  <sub>[#168742](https://github.com/flutter/flutter/pull/168742) merged on May 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168742) over 1 day, 8 additions and 2 deletions in 2 files</sub>
+  <sub>[#168742](https://github.com/flutter/flutter/pull/168742) merged on May 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168742) over 1 day, 8 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `docs_deploy_beta`, fix `docs_publish`, add comments.
