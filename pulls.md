@@ -99,7 +99,7 @@
   <sub>[#168654](https://github.com/flutter/flutter/pull/168654) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168654) 30 additions and 0 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics<br />
-  <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/168703) 59 additions and 717 deletions in 30 files</sub><br />
+  <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/168703) 59 additions and 717 deletions in 30 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168704) 8 additions and 1 deletion in 1 file</sub><br />
@@ -141,16 +141,16 @@
   <sub>[#168909](https://github.com/flutter/flutter/pull/168909) opened on on May 15, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/168909) 1908 additions and 1918 deletions in 501 files</sub><br />
 
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
-  <sub>[#168912](https://github.com/flutter/flutter/pull/168912) opened on on May 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168912) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#168912](https://github.com/flutter/flutter/pull/168912) opened on on May 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168912) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Manual pub package roll<br />
-  <sub>[#168916](https://github.com/flutter/flutter/pull/168916) opened on on May 15, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/168916) 213 additions and 213 deletions in 64 files</sub><br />
+  <sub>[#168916](https://github.com/flutter/flutter/pull/168916) opened on on May 15, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/168916) 213 additions and 213 deletions in 64 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert: "Run `flutter_packaging` builders on release candidates<br />
-  <sub>[#168917](https://github.com/flutter/flutter/pull/168917) opened on on May 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168917) 0 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#168917](https://github.com/flutter/flutter/pull/168917) opened on on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168917) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.32] Revert: "Run `flutter_packaging` builders on release candidates<br />
-  <sub>[#168918](https://github.com/flutter/flutter/pull/168918) opened on on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168918) 0 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#168918](https://github.com/flutter/flutter/pull/168918) opened on on May 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168918) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.33] Revert: "Run `flutter_packaging` builders on release candidates<br />
   <sub>[#168921](https://github.com/flutter/flutter/pull/168921) opened on on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168921) 0 additions and 4 deletions in 1 file</sub><br />
