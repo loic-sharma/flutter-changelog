@@ -26,9 +26,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Add integration test<br />
-  <sub>[#165822](https://github.com/flutter/flutter/pull/165822) opened on on March 24, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/165822) 1637 additions and 14 deletions in 29 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Fixed fallback font loading process<br />
   <sub>[#166212](https://github.com/flutter/flutter/pull/166212) opened on on March 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/166212) 66 additions and 40 deletions in 2 files</sub><br />
 
@@ -66,7 +63,7 @@
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Refactor `@Preview()` detection and code generation<br />
-  <sub>[#168307](https://github.com/flutter/flutter/pull/168307) opened on on May 5, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/168307) 702 additions and 343 deletions in 7 files</sub><br />
+  <sub>[#168307](https://github.com/flutter/flutter/pull/168307) opened on on May 5, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/168307) 703 additions and 343 deletions in 7 files</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix typo in gpu_surface_gl_impeller.cc<br />
   <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
@@ -138,11 +135,8 @@
   <sub>[#168912](https://github.com/flutter/flutter/pull/168912) opened on on May 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168912) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; update dart hash to stable 3.32<br />
-  <sub>[#168927](https://github.com/flutter/flutter/pull/168927) opened on on May 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168927) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Switch to Linux orchestrators for Windows releasers.<br />
-  <sub>[#168941](https://github.com/flutter/flutter/pull/168941) opened on on May 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168941) 2 additions and 38 deletions in 1 file</sub><br />
+  <sub>[#168927](https://github.com/flutter/flutter/pull/168927) opened on on May 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168927) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use PathSource for DrawDiffRoundRect<br />
-  <sub>[#168942](https://github.com/flutter/flutter/pull/168942) opened on on May 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168942) 213 additions and 32 deletions in 10 files</sub><br />
+  <sub>[#168942](https://github.com/flutter/flutter/pull/168942) opened on on May 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168942) 214 additions and 33 deletions in 10 files</sub><br />
 
