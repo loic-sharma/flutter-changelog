@@ -107,8 +107,8 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Add a new CI build for iOS DDM-enabled artifacts<br />
-  <sub>[#168717](https://github.com/flutter/flutter/pull/168717) merged on May 15, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/168717) over 1 day, 249 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [sigmundch](https://github.com/sigmundch), [Jia Hao](https://github.com/jiahaog)</sub><br />
+  <sub>[#168717](https://github.com/flutter/flutter/pull/168717) merged on May 15, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/168717) over 1 day, 249 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [sigmundch](https://github.com/sigmundch), [Zachary Anderson](https://github.com/zanderso), [Jia Hao](https://github.com/jiahaog)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `titleAlignment` to `CheckboxListTile` and `RadioListTile` <br />
   <sub>[#168666](https://github.com/flutter/flutter/pull/168666) merged on May 14, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/168666) over 1 day, 580 additions and 0 deletions in 4 files</sub><br />
