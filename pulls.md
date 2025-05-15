@@ -131,9 +131,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [`ios-experimental`] Update `.ci.yaml`s<br />
   <sub>[#168860](https://github.com/flutter/flutter/pull/168860) opened on on May 14, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/168860) 20 additions and 7429 deletions in 3 files</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Skip hot reload breakpoints test when running with web<br />
-  <sub>[#168873](https://github.com/flutter/flutter/pull/168873) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168873) 76 additions and 67 deletions in 1 file</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; add `debugPaintTextLayoutBoxes` for debugging text layout<br />
   <sub>[#168876](https://github.com/flutter/flutter/pull/168876) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168876) 115 additions and 5 deletions in 4 files</sub><br />
 
