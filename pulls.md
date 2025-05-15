@@ -149,9 +149,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert: "Run `flutter_packaging` builders on release candidates<br />
   <sub>[#168917](https://github.com/flutter/flutter/pull/168917) opened on on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168917) 0 additions and 4 deletions in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.32] Revert: "Run `flutter_packaging` builders on release candidates<br />
-  <sub>[#168918](https://github.com/flutter/flutter/pull/168918) opened on on May 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168918) 0 additions and 4 deletions in 1 file</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.33] Revert: "Run `flutter_packaging` builders on release candidates<br />
-  <sub>[#168921](https://github.com/flutter/flutter/pull/168921) opened on on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168921) 0 additions and 4 deletions in 1 file</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; update dart hash to stable 3.32<br />
+  <sub>[#168927](https://github.com/flutter/flutter/pull/168927) opened on on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168927) 1 addition and 1 deletion in 1 file</sub><br />
 

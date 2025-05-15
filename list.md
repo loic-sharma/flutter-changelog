@@ -954,7 +954,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-10 commits.
+11 commits.
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; iOS app extension update
   <sub>[#11982](https://github.com/flutter/website/pull/11982) merged on May 13, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/11982) over 5 days, 470 additions and 204 deletions in 7 files</sub>
@@ -991,6 +991,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce single 'Set up Windows development' page
   <sub>[#12005](https://github.com/flutter/website/pull/12005) merged on May 12, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12005) over 2 hours, 246 additions and 80 deletions in 9 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add breaking change doc for removing semantics elevation and thickness
+  <sub>[#12010](https://github.com/flutter/website/pull/12010) merged on May 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12010) over 1 day, 70 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Add 2 design doc redirects
