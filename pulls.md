@@ -137,3 +137,6 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add WidgetStatesController to ListTile<br />
   <sub>[#168878](https://github.com/flutter/flutter/pull/168878) opened on on May 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168878) 91 additions and 0 deletions in 2 files</sub><br />
 
+* **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Fix mac_ios_engine_ddm config with missing ci/ios_debug_sim_ddm config<br />
+  <sub>[#168888](https://github.com/flutter/flutter/pull/168888) opened on on May 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168888) 47 additions and 0 deletions in 1 file</sub><br />
+
