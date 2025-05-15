@@ -126,7 +126,7 @@
   <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168834) 366 additions and 8 deletions in 4 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [`ios-experimental`] Update `.ci.yaml`s<br />
-  <sub>[#168860](https://github.com/flutter/flutter/pull/168860) opened on on May 14, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/168860) 12 additions and 7447 deletions in 3 files</sub><br />
+  <sub>[#168860](https://github.com/flutter/flutter/pull/168860) opened on on May 14, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/168860) 12 additions and 7447 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; add `debugPaintTextLayoutBoxes` for debugging text layout<br />
   <sub>[#168876](https://github.com/flutter/flutter/pull/168876) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168876) 115 additions and 5 deletions in 4 files</sub><br />
@@ -145,9 +145,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Manual pub package roll<br />
   <sub>[#168916](https://github.com/flutter/flutter/pull/168916) opened on on May 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168916) 8 additions and 5 deletions in 3 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert: "Run `flutter_packaging` builders on release candidates<br />
-  <sub>[#168917](https://github.com/flutter/flutter/pull/168917) opened on on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168917) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; update dart hash to stable 3.32<br />
   <sub>[#168927](https://github.com/flutter/flutter/pull/168927) opened on on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168927) 1 addition and 1 deletion in 1 file</sub><br />
