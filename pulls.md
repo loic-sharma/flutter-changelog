@@ -140,6 +140,3 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; update dart hash to stable 3.32<br />
   <sub>[#168927](https://github.com/flutter/flutter/pull/168927) opened on on May 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168927) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `bringup: true` Linux orchestrators that schedule Windows engine builds<br />
-  <sub>[#168937](https://github.com/flutter/flutter/pull/168937) opened on on May 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168937) 36 additions and 0 deletions in 1 file</sub><br />
-
