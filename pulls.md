@@ -134,3 +134,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; add `debugPaintTextLayoutBoxes` for debugging text layout<br />
   <sub>[#168876](https://github.com/flutter/flutter/pull/168876) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168876) 115 additions and 5 deletions in 4 files</sub><br />
 
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add WidgetStatesController to ListTile<br />
+  <sub>[#168878](https://github.com/flutter/flutter/pull/168878) opened on on May 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168878) 91 additions and 0 deletions in 2 files</sub><br />
+
