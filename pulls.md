@@ -134,6 +134,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactor the usage of `MediaQuery.sizeOf(context).height` to use the new `.heightOf(context)`<br />
   <sub>[#168894](https://github.com/flutter/flutter/pull/168894) opened on on May 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168894) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda argument<br />
+  <sub>[#168901](https://github.com/flutter/flutter/pull/168901) opened on on May 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168901) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
   <sub>[#168909](https://github.com/flutter/flutter/pull/168909) opened on on May 15, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/168909) 1908 additions and 1918 deletions in 501 files</sub><br />
 
