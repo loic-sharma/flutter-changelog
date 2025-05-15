@@ -78,10 +78,10 @@
   <sub>[#168450](https://github.com/flutter/flutter/pull/168450) opened on on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168450) 62 additions and 58 deletions in 2 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Remove unused `reportNullSafety` getter<br />
-  <sub>[#168484](https://github.com/flutter/flutter/pull/168484) opened on on May 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168484) 0 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#168484](https://github.com/flutter/flutter/pull/168484) opened on on May 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168484) 0 additions and 12 deletions in 4 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Fix broken comment references and code spans in doc comments<br />
-  <sub>[#168498](https://github.com/flutter/flutter/pull/168498) opened on on May 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/168498) 454 additions and 368 deletions in 108 files</sub><br />
+  <sub>[#168498](https://github.com/flutter/flutter/pull/168498) opened on on May 7, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/168498) 454 additions and 368 deletions in 108 files</sub><br />
 
 * **[masato](https://github.com/masal9pse)** &mdash; feat: Cupertino sheet implement upward stretch on full sheet<br />
   <sub>[#168547](https://github.com/flutter/flutter/pull/168547) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168547) 161 additions and 58 deletions in 2 files</sub><br />
