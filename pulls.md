@@ -131,6 +131,3 @@
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
   <sub>[#168912](https://github.com/flutter/flutter/pull/168912) opened on on May 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168912) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use PathSource for DrawDiffRoundRect<br />
-  <sub>[#168942](https://github.com/flutter/flutter/pull/168942) opened on on May 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168942) 214 additions and 33 deletions in 10 files</sub><br />
-
