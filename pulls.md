@@ -105,7 +105,7 @@
   <sub>[#168733](https://github.com/flutter/flutter/pull/168733) opened on on May 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168733) 1086 additions and 1391 deletions in 60 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make flutter_test depend on the packages needed for --experimental-faster-testing<br />
-  <sub>[#168735](https://github.com/flutter/flutter/pull/168735) opened on on May 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168735) 89 additions and 139 deletions in 5 files</sub><br />
+  <sub>[#168735](https://github.com/flutter/flutter/pull/168735) opened on on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168735) 89 additions and 139 deletions in 5 files</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix .xcodeproj file name in Setting-up-the-Engine-development-environment.md<br />
   <sub>[#168814](https://github.com/flutter/flutter/pull/168814) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168814) 1 addition and 1 deletion in 1 file</sub><br />
@@ -135,5 +135,5 @@
   <sub>[#168952](https://github.com/flutter/flutter/pull/168952) opened on on May 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168952) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Normalize BottomAppBarTheme (continue)<br />
-  <sub>[#168963](https://github.com/flutter/flutter/pull/168963) opened on on May 16, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168963) 373 additions and 78 deletions in 9 files</sub><br />
+  <sub>[#168963](https://github.com/flutter/flutter/pull/168963) opened on on May 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168963) 5 additions and 30 deletions in 1 file</sub><br />
 
