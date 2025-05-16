@@ -79,7 +79,7 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Normalize BottomAppBarTheme<br />
-  <sub>[#168586](https://github.com/flutter/flutter/pull/168586) merged on May 14, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/168586) over 5 days, 400 additions and 80 deletions in 9 files</sub><br />
+  <sub>[#168586](https://github.com/flutter/flutter/pull/168586) merged on May 14, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/168586) over 5 days, 400 additions and 80 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Nav bar back label is not clipped mid-transition<br />
