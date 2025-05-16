@@ -935,7 +935,11 @@
 
 ### May 10, 2025 to May 16, 2025
 
-6 commits.
+7 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to control whether to draw scrollbars<br />
+  <sub>[#9024](https://github.com/flutter/packages/pull/9024) merged on May 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9024) over 1 month, 113 additions and 9 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Make Storekit 2 the default<br />
   <sub>[#9178](https://github.com/flutter/packages/pull/9178) merged on May 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9178) over 1 week, 49 additions and 13 deletions in 11 files</sub><br />
