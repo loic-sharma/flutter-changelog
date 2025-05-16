@@ -86,9 +86,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168604) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; When maintainHintSize is false, hint is centered and aligned, it is different from the original one<br />
-  <sub>[#168654](https://github.com/flutter/flutter/pull/168654) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168654) 30 additions and 0 deletions in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics<br />
   <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/168703) 59 additions and 716 deletions in 29 files</sub><br />
 
