@@ -59,6 +59,9 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from dependencies 2<br />
   <sub>[#168203](https://github.com/flutter/flutter/pull/168203) opened on on May 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168203) 1086 additions and 1391 deletions in 60 files</sub><br />
 
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] add abiFilters to Flutter Gradle Plugin<br />
+  <sub>[#168293](https://github.com/flutter/flutter/pull/168293) opened on on May 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168293) 185 additions and 0 deletions in 2 files</sub><br />
+
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
