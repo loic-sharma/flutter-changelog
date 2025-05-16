@@ -86,9 +86,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168604) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Switch from MediaQuery.sizeOf to didChangeMetrics for RawMenuAnchor<br />
-  <sub>[#168623](https://github.com/flutter/flutter/pull/168623) opened on on May 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168623) 81 additions and 92 deletions in 2 files</sub><br />
-
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; When maintainHintSize is false, hint is centered and aligned, it is different from the original one<br />
   <sub>[#168654](https://github.com/flutter/flutter/pull/168654) opened on on May 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168654) 30 additions and 0 deletions in 2 files</sub><br />
 
@@ -139,4 +136,7 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; integration_tests: Check if BuildContext is mounted in display_cutout_test<br />
   <sub>[#169008](https://github.com/flutter/flutter/pull/169008) opened on on May 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169008) 13 additions and 1 deletion in 1 file</sub><br />
+
+* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Removes unnecessary parentheses<br />
+  <sub>[#169015](https://github.com/flutter/flutter/pull/169015) opened on on May 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169015) 7 additions and 7 deletions in 7 files</sub><br />
 
