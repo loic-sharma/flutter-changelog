@@ -140,6 +140,3 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; integration_tests: Check if BuildContext is mounted in display_cutout_test<br />
   <sub>[#169008](https://github.com/flutter/flutter/pull/169008) opened on on May 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169008) 13 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] separate immutable sampler descriptors.<br />
-  <sub>[#169011](https://github.com/flutter/flutter/pull/169011) opened on on May 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169011) 4 additions and 2 deletions in 2 files</sub><br />
-
