@@ -227,7 +227,7 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Manual pub package roll
-  <sub>[#168916](https://github.com/flutter/flutter/pull/168916) merged on May 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168916) over 2 hours, 8 additions and 5 deletions in 3 files</sub>
+  <sub>[#168916](https://github.com/flutter/flutter/pull/168916) merged on May 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168916) over 2 hours, 8 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping and test expression eval tests using DDC library bundle format

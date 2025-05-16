@@ -134,6 +134,3 @@
 * **[sutes-work](https://github.com/sutes-work)** &mdash; runtime/dart: fuchsia::io::MODE_TYPE_FILE -> V_TYPE_FILE<br />
   <sub>[#168952](https://github.com/flutter/flutter/pull/168952) opened on on May 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168952) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[Huy](https://github.com/huycozy)** &mdash; Normalize BottomAppBarTheme (continue)<br />
-  <sub>[#168966](https://github.com/flutter/flutter/pull/168966) opened on on May 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168966) 5 additions and 30 deletions in 1 file</sub><br />
-
