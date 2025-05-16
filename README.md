@@ -939,7 +939,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to control whether to draw scrollbars<br />
   <sub>[#9024](https://github.com/flutter/packages/pull/9024) merged on May 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9024) over 1 month, 113 additions and 9 deletions in 7 files</sub><br />
@@ -959,6 +959,10 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_platform_interface] Adds support to set whether to draw the scrollbar<br />
   <sub>[#9125](https://github.com/flutter/packages/pull/9125) merged on May 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9125) over 3 weeks, 63 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_platform_interface] Adds support to respond to recoverable SSL certificate errors<br />
+  <sub>[#9248](https://github.com/flutter/packages/pull/9248) merged on May 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9248) over 2 days, 95 additions and 1 deletion in 8 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Prevents premature finalization from unused Dart instance for ProxyApis<br />
