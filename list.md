@@ -147,7 +147,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Support using public API in Swift
-  <sub>[#168929](https://github.com/flutter/flutter/pull/168929) merged on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168929) over 3 hours, 79 additions and 24 deletions in 7 files</sub>
+  <sub>[#168929](https://github.com/flutter/flutter/pull/168929) merged on May 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168929) over 3 hours, 79 additions and 24 deletions in 7 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `bringup: true` Linux orchestrators that schedule Windows engine builds
@@ -227,7 +227,7 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Manual pub package roll
-  <sub>[#168916](https://github.com/flutter/flutter/pull/168916) merged on May 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168916) over 2 hours, 8 additions and 5 deletions in 3 files</sub>
+  <sub>[#168916](https://github.com/flutter/flutter/pull/168916) merged on May 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168916) over 2 hours, 8 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add test for stack trace mapping and test expression eval tests using DDC library bundle format

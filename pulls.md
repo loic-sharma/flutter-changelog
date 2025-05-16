@@ -135,5 +135,5 @@
   <sub>[#168912](https://github.com/flutter/flutter/pull/168912) opened on on May 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168912) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[sutes-work](https://github.com/sutes-work)** &mdash; runtime/dart: fuchsia::io::MODE_TYPE_FILE -> V_TYPE_FILE<br />
-  <sub>[#168952](https://github.com/flutter/flutter/pull/168952) opened on on May 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168952) 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#168952](https://github.com/flutter/flutter/pull/168952) opened on on May 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168952) 3 additions and 2 deletions in 1 file</sub><br />
 
