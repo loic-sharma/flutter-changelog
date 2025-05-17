@@ -90,7 +90,7 @@
   <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168704) 17 additions and 6 deletions in 4 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Multi-window support (engine)<br />
-  <sub>[#168728](https://github.com/flutter/flutter/pull/168728) opened on on May 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168728) 2072 additions and 18 deletions in 27 files</sub><br />
+  <sub>[#168728](https://github.com/flutter/flutter/pull/168728) opened on on May 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/168728) 2072 additions and 18 deletions in 27 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from dependencies<br />
   <sub>[#168733](https://github.com/flutter/flutter/pull/168733) opened on on May 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/168733) 1086 additions and 1391 deletions in 60 files</sub><br />
