@@ -137,3 +137,6 @@
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; Modernize system executable detection across components<br />
   <sub>[#169018](https://github.com/flutter/flutter/pull/169018) opened on on May 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169018) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Juergen Werner](https://github.com/pogojotz)** &mdash; Fix remaining iconbuttontheme overrides in listtile<br />
+  <sub>[#169029](https://github.com/flutter/flutter/pull/169029) opened on on May 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169029) 28 additions and 10 deletions in 2 files</sub><br />
+
