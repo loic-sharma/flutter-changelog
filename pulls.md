@@ -143,3 +143,6 @@
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Clean up redundant new line in the GPUSurfaceGLSkia constructor initializer list<br />
   <sub>[#169031](https://github.com/flutter/flutter/pull/169031) opened on on May 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169031) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
+  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
+
