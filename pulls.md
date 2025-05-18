@@ -132,7 +132,7 @@
   <sub>[#169008](https://github.com/flutter/flutter/pull/169008) opened on on May 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169008) 13 additions and 1 deletion in 1 file</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Removes unnecessary parentheses<br />
-  <sub>[#169015](https://github.com/flutter/flutter/pull/169015) opened on on May 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169015) 7 additions and 7 deletions in 7 files</sub><br />
+  <sub>[#169015](https://github.com/flutter/flutter/pull/169015) opened on on May 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169015) 7 additions and 7 deletions in 7 files</sub><br />
 
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; Modernize system executable detection across components<br />
   <sub>[#169018](https://github.com/flutter/flutter/pull/169018) opened on on May 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169018) 2 additions and 2 deletions in 1 file</sub><br />
