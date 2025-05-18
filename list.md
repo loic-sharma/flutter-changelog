@@ -1080,7 +1080,7 @@
 
 ### May 10, 2025 to May 16, 2025
 
-12 commits.
+16 commits.
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; iOS app extension update
   <sub>[#11982](https://github.com/flutter/website/pull/11982) merged on May 13, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/11982) over 5 days, 470 additions and 204 deletions in 7 files</sub>
@@ -1090,6 +1090,10 @@
   <sub>[#12006](https://github.com/flutter/website/pull/12006) merged on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12006) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary><img width="120" alt="Screenshot of the new theme select toggle" src="https://github.com/user-attachments/assets/7aec546e-e5be-4981-851a-2b2dc66b4d65" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash;  Update 11ty to 3.1 stable alongside other deps
+  <sub>[#12024](https://github.com/flutter/website/pull/12024) merged on May 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12024) over 36 minutes, 313 additions and 417 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add standalone doc covering manual installation
   <sub>[#12011](https://github.com/flutter/website/pull/12011) merged on May 13, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12011) over 19 minutes, 803 additions and 301 deletions in 9 files</sub>
@@ -1101,6 +1105,10 @@
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add documentation for the Flutter Property Editor
   <sub>[#12014](https://github.com/flutter/website/pull/12014) merged on May 15, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12014) over 1 day, 272 additions and 3 deletions in 19 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add blog link to sidenav
+  <sub>[#12023](https://github.com/flutter/website/pull/12023) merged on May 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12023) over 43 minutes, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add new install docs to sidenav
@@ -1117,6 +1125,14 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce single 'Set up Windows development' page
   <sub>[#12005](https://github.com/flutter/website/pull/12005) merged on May 12, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12005) over 2 hours, 246 additions and 80 deletions in 9 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Rahul Rao](https://github.com/rahulrao0209)** &mdash; Fix typos in user-input.md
+  <sub>[#12021](https://github.com/flutter/website/pull/12021) merged on May 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12021) over 9 hours, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Dawit Beyene](https://github.com/daveragos)** &mdash; Update internationalization.md
+  <sub>[#12022](https://github.com/flutter/website/pull/12022) merged on May 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12022) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Tsung-Han Yu](https://github.com/johan456789)** &mdash; Fix typo
