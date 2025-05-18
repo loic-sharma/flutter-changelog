@@ -87,7 +87,7 @@
   <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/168703) 59 additions and 716 deletions in 29 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
-  <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168704) 17 additions and 6 deletions in 4 files</sub><br />
+  <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168704) 17 additions and 6 deletions in 4 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Multi-window support (engine)<br />
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) opened on on May 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/168728) 2072 additions and 18 deletions in 27 files</sub><br />
