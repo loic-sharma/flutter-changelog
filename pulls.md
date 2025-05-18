@@ -146,3 +146,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
 
+* **[apulsifer](https://github.com/apulsifer)** &mdash; Correct documentation regarding dispose() for a TextEditingController<br />
+  <sub>[#169048](https://github.com/flutter/flutter/pull/169048) opened on on May 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169048) 3 additions and 2 deletions in 1 file</sub><br />
+
