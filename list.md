@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-11 commits.
+12 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub>
@@ -19,6 +19,10 @@
   <sub>[#168789](https://github.com/flutter/flutter/pull/168789) merged on May 19, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/168789) over 5 days, 1127 additions and 248 deletions in 9 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
   <sub><details><summary>1 image...</summary>![Screenshot 2025-05-14 at 2 54 28 PM](https://github.com/user-attachments/assets/c7cd7738-0f1a-4409-a7d1-f3d914a840d9)</details></sub>
+
+* **[maRci002](https://github.com/maRci002)** &mdash; Shared element transition for predictive back
+  <sub>[#154718](https://github.com/flutter/flutter/pull/154718) merged on May 19, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/154718) over 8 months, 1069 additions and 469 deletions in 5 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [TheLastFlame](https://github.com/TheLastFlame), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda argument
   <sub>[#168901](https://github.com/flutter/flutter/pull/168901) merged on May 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168901) over 4 days, 1 addition and 1 deletion in 1 file</sub>
