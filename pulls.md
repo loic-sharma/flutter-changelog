@@ -77,9 +77,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
-  <sub>[#168604](https://github.com/flutter/flutter/pull/168604) opened on on May 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168604) 20 additions and 1 deletion in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics<br />
   <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/168703) 59 additions and 716 deletions in 29 files</sub><br />
 
