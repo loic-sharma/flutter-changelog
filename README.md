@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-7 commits.
+8 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies<br />
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub><br />
@@ -19,6 +19,11 @@
   <sub>[#168789](https://github.com/flutter/flutter/pull/168789) merged on May 19, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/168789) over 5 days, 1127 additions and 248 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
   <sub><details><summary>1 image...</summary>![Screenshot 2025-05-14 at 2 54 28 PM](https://github.com/user-attachments/assets/c7cd7738-0f1a-4409-a7d1-f3d914a840d9)</details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda argument<br />
+  <sub>[#168901](https://github.com/flutter/flutter/pull/168901) merged on May 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168901) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+  <sub><details><summary>1 image...</summary>![ok](https://github.com/user-attachments/assets/f7b3fcb9-def6-49a9-bbbe-365ae8d84ed6)</details></sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; docs: Update deprecation message for Slider.year2023<br />
   <sub>[#169053](https://github.com/flutter/flutter/pull/169053) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169053) over 3 hours, 3 additions and 2 deletions in 1 file</sub><br />
