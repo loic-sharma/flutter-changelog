@@ -98,6 +98,9 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Normalize input decoration theme<br />
   <sub>[#168981](https://github.com/flutter/flutter/pull/168981) opened on on May 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/168981) 917 additions and 260 deletions in 31 files</sub><br />
 
+* **[ash2moon](https://github.com/ash2moon)** &mdash; Add back "Use live region in error text input decorator for Android #165531"<br />
+  <sub>[#168992](https://github.com/flutter/flutter/pull/168992) opened on on May 16, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/168992) 407 additions and 134 deletions in 18 files</sub><br />
+
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; integration_tests: Check if BuildContext is mounted in display_cutout_test<br />
   <sub>[#169008](https://github.com/flutter/flutter/pull/169008) opened on on May 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169008) 13 additions and 1 deletion in 1 file</sub><br />
 
@@ -118,4 +121,7 @@
 
 * **[Primaël Quémerais](https://github.com/PrimaelQuemerais)** &mdash; Fixes an issue where TapRegion would consume taps regardless of navigation state<br />
   <sub>[#169067](https://github.com/flutter/flutter/pull/169067) opened on on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169067) 2 additions and 1 deletion in 1 file</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Fix missing cupertino icon in on-device inspector …<br />
+  <sub>[#169092](https://github.com/flutter/flutter/pull/169092) opened on on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169092) 6 additions and 6 deletions in 2 files</sub><br />
 
