@@ -146,6 +146,3 @@
 * **[Primaël Quémerais](https://github.com/PrimaelQuemerais)** &mdash; Fixes an issue where TapRegion would consume taps regardless of navigation state<br />
   <sub>[#169067](https://github.com/flutter/flutter/pull/169067) opened on on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169067) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Impeller] separate immutable sampler descriptors.<br />
-  <sub>[#169074](https://github.com/flutter/flutter/pull/169074) opened on on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169074) 4 additions and 2 deletions in 2 files</sub><br />
-
