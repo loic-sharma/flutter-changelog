@@ -643,7 +643,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-2 commits.
+3 commits.
 
 * **[Marvin Willms](https://github.com/marvin-kolja)** &mdash; [video_player_android] Fix incorrect dimensions swap<br />
   <sub>[#9199](https://github.com/flutter/packages/pull/9199) merged on May 19, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9199) over 2 weeks, 31 additions and 38 deletions in 5 files</sub><br />
@@ -652,6 +652,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds support to respond to recoverable SSL certificate errors<br />
   <sub>[#9281](https://github.com/flutter/packages/pull/9281) merged on May 19, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9281) over 11 hours, 6829 additions and 1942 deletions in 48 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Swap out `BroadcastReceiver` for `OrientationEventListener`<br />
+  <sub>[#9261](https://github.com/flutter/packages/pull/9261) merged on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9261) over 3 days, 75 additions and 39 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub><br />
 
 ### May 10, 2025 to May 16, 2025
 
