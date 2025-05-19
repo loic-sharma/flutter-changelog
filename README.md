@@ -679,9 +679,18 @@
 
 ## flutter/website
 
+### May 17, 2025 to May 23, 2025
+
+1 commits.
+
+* **[Rahul Rao](https://github.com/rahulrao0209)** &mdash; Fix small typo in local-caching.md<br />
+  <sub>[#12032](https://github.com/flutter/website/pull/12032) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12032) over 39 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### May 10, 2025 to May 16, 2025
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; iOS app extension update<br />
   <sub>[#11982](https://github.com/flutter/website/pull/11982) merged on May 13, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/11982) over 5 days, 470 additions and 204 deletions in 7 files</sub><br />
@@ -747,6 +756,8 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Add 2 design doc redirects<br />
   <sub>[#12012](https://github.com/flutter/website/pull/12012) merged on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12012) over 3 hours, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### May 3, 2025 to May 9, 2025
 
