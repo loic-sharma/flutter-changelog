@@ -4,7 +4,16 @@
 
 ### May 17, 2025 to May 23, 2025
 
-1 commits.
+3 commits.
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies<br />
+  <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make FlutterGeneratedPluginSwiftPackage an Xcode root package<br />
+  <sub>[#168789](https://github.com/flutter/flutter/pull/168789) merged on May 19, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/168789) over 5 days, 1127 additions and 248 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+  <sub><details><summary>1 image...</summary>![Screenshot 2025-05-14 at 2 54 28 PM](https://github.com/user-attachments/assets/c7cd7738-0f1a-4409-a7d1-f3d914a840d9)</details></sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; docs: Update deprecation message for Slider.year2023<br />
   <sub>[#169053](https://github.com/flutter/flutter/pull/169053) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169053) over 3 hours, 3 additions and 2 deletions in 1 file</sub><br />
@@ -594,9 +603,18 @@
 
 ## flutter/packages
 
+### May 17, 2025 to May 23, 2025
+
+1 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds support to respond to recoverable SSL certificate errors<br />
+  <sub>[#9281](https://github.com/flutter/packages/pull/9281) merged on May 19, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9281) over 11 hours, 6829 additions and 1942 deletions in 48 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
 ### May 10, 2025 to May 16, 2025
 
-8 commits.
+<details>
+<summary>8 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to control whether to draw scrollbars<br />
   <sub>[#9024](https://github.com/flutter/packages/pull/9024) merged on May 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9024) over 1 month, 113 additions and 9 deletions in 7 files</sub><br />
@@ -629,6 +647,8 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase] Bump `in_app_purchase_storekit` version<br />
   <sub>[#9247](https://github.com/flutter/packages/pull/9247) merged on May 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9247) over 1 day, 6 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+</details>
 
 ### May 3, 2025 to May 9, 2025
 
