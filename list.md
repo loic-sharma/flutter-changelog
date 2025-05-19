@@ -718,12 +718,16 @@
 
 ### May 17, 2025 to May 23, 2025
 
-4 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve styling for `kbd` element
   <sub>[#12028](https://github.com/flutter/website/pull/12028) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12028) over 12 hours, 10 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>2 images...</summary><img width="320" alt="Screenshot of new kbd element in dark mode" src="https://github.com/user-attachments/assets/1a9370ad-3c3e-4cf1-92b3-45f3ce47f04e" /><img width="320" alt="Screenshot of new kbd element in light mode" src="https://github.com/user-attachments/assets/1e278a05-403f-4395-9a33-6f66967727d0" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Simplify setup of old setup docs
+  <sub>[#12026](https://github.com/flutter/website/pull/12026) merged on May 19, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/12026) over 18 hours, 767 additions and 1562 deletions in 45 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Rahul Rao](https://github.com/rahulrao0209)** &mdash; Fix small typo in local-caching.md
   <sub>[#12032](https://github.com/flutter/website/pull/12032) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12032) over 39 minutes, 1 addition and 1 deletion in 1 file</sub>
