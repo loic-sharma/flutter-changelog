@@ -44,26 +44,11 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Clip.None Docs<br />
   <sub>[#167695](https://github.com/flutter/flutter/pull/167695) opened on on April 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/167695) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[toneyzeng](https://github.com/toneyzeng)** &mdash; Fix: Resolved a memory error caused by incompatible std::map implementations when multiple plugins were compiled with different C++ standards.<br />
-  <sub>[#167804](https://github.com/flutter/flutter/pull/167804) opened on on April 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167804) 119 additions and 16 deletions in 2 files</sub><br />
-
 * **[Bobbie-Ware](https://github.com/Bobbie-Ware)** &mdash; fix minor spelling mistake in roadmap<br />
   <sub>[#167888](https://github.com/flutter/flutter/pull/167888) opened on on April 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167888) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Alex](https://github.com/alexio-dev)** &mdash; Implemented TODO in platform_dispatcher.dart<br />
-  <sub>[#167974](https://github.com/flutter/flutter/pull/167974) opened on on April 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/167974) 230 additions and 2649 deletions in 1 file</sub><br />
-
-* **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
-  <sub>[#168031](https://github.com/flutter/flutter/pull/168031) opened on on April 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168031) 4 additions and 4 deletions in 1 file</sub><br />
-
-* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] add abiFilters to Flutter Gradle Plugin<br />
-  <sub>[#168293](https://github.com/flutter/flutter/pull/168293) opened on on May 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168293) 185 additions and 0 deletions in 2 files</sub><br />
-
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
-
-* **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix typo in gpu_surface_gl_impeller.cc<br />
-  <sub>[#168395](https://github.com/flutter/flutter/pull/168395) opened on on May 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168395) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) opened on on May 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168403) 16 additions and 1 deletion in 2 files</sub><br />
@@ -88,9 +73,6 @@
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make flutter_test depend on the packages needed for --experimental-faster-testing<br />
   <sub>[#168735](https://github.com/flutter/flutter/pull/168735) opened on on May 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168735) 89 additions and 139 deletions in 5 files</sub><br />
-
-* **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix .xcodeproj file name in Setting-up-the-Engine-development-environment.md<br />
-  <sub>[#168814](https://github.com/flutter/flutter/pull/168814) opened on on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168814) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[hyiso](https://github.com/hyiso)** &mdash; [flutter_tools] Add cache for `depends_on_flutter` in `podhelper.rb`<br />
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
@@ -125,14 +107,8 @@
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Removes unnecessary parentheses<br />
   <sub>[#169015](https://github.com/flutter/flutter/pull/169015) opened on on May 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169015) 7 additions and 7 deletions in 7 files</sub><br />
 
-* **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; Modernize system executable detection across components<br />
-  <sub>[#169018](https://github.com/flutter/flutter/pull/169018) opened on on May 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169018) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Juergen Werner](https://github.com/pogojotz)** &mdash; Fix remaining iconbuttontheme overrides in listtile<br />
   <sub>[#169029](https://github.com/flutter/flutter/pull/169029) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169029) 28 additions and 10 deletions in 2 files</sub><br />
-
-* **[Littlegnal](https://github.com/littleGnAl)** &mdash; Clean up redundant new line in the GPUSurfaceGLSkia constructor initializer list<br />
-  <sub>[#169031](https://github.com/flutter/flutter/pull/169031) opened on on May 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169031) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
