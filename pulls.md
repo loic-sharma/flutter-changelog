@@ -153,5 +153,5 @@
   <sub>[#169051](https://github.com/flutter/flutter/pull/169051) opened on on May 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169051) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; docs: Update deprecation message for Slider.year2023<br />
-  <sub>[#169053](https://github.com/flutter/flutter/pull/169053) opened on on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169053) 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#169053](https://github.com/flutter/flutter/pull/169053) opened on on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169053) 3 additions and 2 deletions in 1 file</sub><br />
 
