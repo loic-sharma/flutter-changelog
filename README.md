@@ -4,11 +4,16 @@
 
 ### May 17, 2025 to May 23, 2025
 
-3 commits.
+4 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies<br />
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update the `RangeSlider` widget to the 2024 Material Design appearance<br />
+  <sub>[#163736](https://github.com/flutter/flutter/pull/163736) merged on May 19, 2025 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/163736) over 2 months, 1525 additions and 56 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+  <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/e14a1b04-4e32-4b37-b2f5-2d2001f53114"/><img src="https://github.com/user-attachments/assets/aad36529-d576-4ec7-b2e5-49c9387456be"/><img width="343" alt="Screenshot 2025-02-20 at 15 26 09" src="https://github.com/user-attachments/assets/06c09679-1df8-4380-b3e6-c4add8f0cc42" /><img width="338" alt="Screenshot 2025-02-20 at 15 27 19" src="https://github.com/user-attachments/assets/6226c515-f96b-412a-b59e-cafd2fba0515" /></details></sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make FlutterGeneratedPluginSwiftPackage an Xcode root package<br />
   <sub>[#168789](https://github.com/flutter/flutter/pull/168789) merged on May 19, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/168789) over 5 days, 1127 additions and 248 deletions in 9 files</sub><br />
