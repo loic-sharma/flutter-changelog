@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 17, 2025 to May 23, 2025
+
+1 commits.
+
+* **[Huy](https://github.com/huycozy)** &mdash; docs: Update deprecation message for Slider.year2023
+  <sub>[#169053](https://github.com/flutter/flutter/pull/169053) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169053) over 3 hours, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 ### May 10, 2025 to May 16, 2025
 
-79 commits.
+<details>
+<summary>79 commits...</summary>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.
   <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub>
@@ -327,6 +336,8 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Reland "Clip search artifacts in CupertinoSliverNavigationBar searchable-to-searchable transitions"
   <sub>[#168772](https://github.com/flutter/flutter/pull/168772) merged on May 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168772) over 20 hours, 172 additions and 62 deletions in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+</details>
 
 ### May 3, 2025 to May 9, 2025
 
