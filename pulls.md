@@ -149,3 +149,6 @@
 * **[apulsifer](https://github.com/apulsifer)** &mdash; Correct documentation regarding dispose() for a TextEditingController<br />
   <sub>[#169048](https://github.com/flutter/flutter/pull/169048) opened on on May 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169048) 3 additions and 2 deletions in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update mouse pointer behaviour for CupertinoDialogAction<br />
+  <sub>[#169051](https://github.com/flutter/flutter/pull/169051) opened on on May 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169051) 48 additions and 1 deletion in 2 files</sub><br />
+
