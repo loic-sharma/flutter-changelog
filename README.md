@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-4 commits.
+5 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies<br />
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub><br />
@@ -23,6 +23,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; docs: Update deprecation message for Slider.year2023<br />
   <sub>[#169053](https://github.com/flutter/flutter/pull/169053) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169053) over 3 hours, 3 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
+  <sub>[#168031](https://github.com/flutter/flutter/pull/168031) merged on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168031) over 2 weeks, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 ### May 10, 2025 to May 16, 2025
 
