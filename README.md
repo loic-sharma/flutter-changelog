@@ -681,11 +681,19 @@
 
 ### May 17, 2025 to May 23, 2025
 
-1 commits.
+3 commits.
 
 * **[Rahul Rao](https://github.com/rahulrao0209)** &mdash; Fix small typo in local-caching.md<br />
   <sub>[#12032](https://github.com/flutter/website/pull/12032) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12032) over 39 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Standardize uninstall docs with rest of new install docs<br />
+  <sub>[#12029](https://github.com/flutter/website/pull/12029) merged on May 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12029) over 8 hours, 160 additions and 300 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Move site switcher to icon button<br />
+  <sub>[#12030](https://github.com/flutter/website/pull/12030) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12030) over 7 hours, 115 additions and 141 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### May 10, 2025 to May 16, 2025
 
