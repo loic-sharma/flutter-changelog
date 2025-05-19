@@ -126,5 +126,5 @@
   <sub>[#169093](https://github.com/flutter/flutter/pull/169093) opened on on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169093) 6 additions and 6 deletions in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix DDC library bundle format test files to correctly pass flags<br />
-  <sub>[#169095](https://github.com/flutter/flutter/pull/169095) opened on on May 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169095) 42 additions and 44 deletions in 7 files</sub><br />
+  <sub>[#169095](https://github.com/flutter/flutter/pull/169095) opened on on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169095) 42 additions and 44 deletions in 7 files</sub><br />
 
