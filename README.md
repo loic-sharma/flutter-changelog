@@ -21,7 +21,7 @@
   <sub><details><summary>1 image...</summary>![Screenshot 2025-05-14 at 2 54 28 PM](https://github.com/user-attachments/assets/c7cd7738-0f1a-4409-a7d1-f3d914a840d9)</details></sub>
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Shared element transition for predictive back<br />
-  <sub>[#154718](https://github.com/flutter/flutter/pull/154718) merged on May 19, 2025 &mdash; **Extra large:** [58 comments](https://github.com/flutter/flutter/pull/154718) over 8 months, 1069 additions and 469 deletions in 5 files</sub><br />
+  <sub>[#154718](https://github.com/flutter/flutter/pull/154718) merged on May 19, 2025 &mdash; **Extra large:** [57 comments](https://github.com/flutter/flutter/pull/154718) over 8 months, 1069 additions and 469 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [TheLastFlame](https://github.com/TheLastFlame), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda argument<br />
