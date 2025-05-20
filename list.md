@@ -751,7 +751,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-9 commits.
+10 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve styling for `kbd` element
   <sub>[#12028](https://github.com/flutter/website/pull/12028) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12028) over 12 hours, 10 additions and 3 deletions in 1 file</sub>
@@ -776,6 +776,10 @@
 
 * **[Rahul Rao](https://github.com/rahulrao0209)** &mdash; Fix small typo in local-caching.md
   <sub>[#12032](https://github.com/flutter/website/pull/12032) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12032) over 39 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; Fix unexpected raw `<style>` in the 3.32 release note
+  <sub>[#12044](https://github.com/flutter/website/pull/12044) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12044) over 2 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking changes for 3.32
