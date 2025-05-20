@@ -751,7 +751,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-13 commits.
+14 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve styling for `kbd` element
   <sub>[#12028](https://github.com/flutter/website/pull/12028) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12028) over 12 hours, 10 additions and 3 deletions in 1 file</sub>
@@ -805,6 +805,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Move site switcher to icon button
   <sub>[#12030](https://github.com/flutter/website/pull/12030) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12030) over 7 hours, 115 additions and 141 deletions in 5 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding notes for 3.32 release
+  <sub>[#12046](https://github.com/flutter/website/pull/12046) merged on May 20, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12046) over 3 hours, 233 additions and 168 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### May 10, 2025 to May 16, 2025
 
