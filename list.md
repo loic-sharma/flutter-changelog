@@ -237,7 +237,7 @@
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes Navigator calls onPopInvokedWithResult when onPopPage return false
-  <sub>[#168567](https://github.com/flutter/flutter/pull/168567) merged on May 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168567) over 1 week, 39 additions and 6 deletions in 2 files</sub>
+  <sub>[#168567](https://github.com/flutter/flutter/pull/168567) merged on May 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168567) over 1 week, 39 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Fix missing cupertino icon in on-device inspector
