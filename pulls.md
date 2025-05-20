@@ -122,3 +122,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)<br />
   <sub>[#169163](https://github.com/flutter/flutter/pull/169163) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169163) 44 additions and 9 deletions in 3 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make `build_android_host_app_with_module_aar` build using an aar<br />
+  <sub>[#169171](https://github.com/flutter/flutter/pull/169171) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169171) 22 additions and 3 deletions in 2 files</sub><br />
+
