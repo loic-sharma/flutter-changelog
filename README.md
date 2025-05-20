@@ -751,7 +751,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-14 commits.
+16 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve styling for `kbd` element<br />
   <sub>[#12028](https://github.com/flutter/website/pull/12028) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12028) over 12 hours, 10 additions and 3 deletions in 1 file</sub><br />
@@ -778,9 +778,17 @@
   <sub>[#12044](https://github.com/flutter/website/pull/12044) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12044) over 2 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding notes for 3.32 release<br />
+  <sub>[#12046](https://github.com/flutter/website/pull/12046) merged on May 20, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12046) over 3 hours, 233 additions and 168 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 * **[Rahul Rao](https://github.com/rahulrao0209)** &mdash; Fix small typo in local-caching.md<br />
   <sub>[#12032](https://github.com/flutter/website/pull/12032) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12032) over 39 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix unscrollable sidenav due to height calculation<br />
+  <sub>[#12048](https://github.com/flutter/website/pull/12048) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12048) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove specific versions from old setup flow<br />
   <sub>[#12036](https://github.com/flutter/website/pull/12036) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12036) over 22 hours, 63 additions and 120 deletions in 11 files</sub><br />
@@ -806,9 +814,9 @@
   <sub>[#12030](https://github.com/flutter/website/pull/12030) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12030) over 7 hours, 115 additions and 141 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
-* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding notes for 3.32 release<br />
-  <sub>[#12046](https://github.com/flutter/website/pull/12046) merged on May 20, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12046) over 3 hours, 233 additions and 168 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update release details for hot reload web<br />
+  <sub>[#12049](https://github.com/flutter/website/pull/12049) merged on May 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12049) over 35 minutes, 4 additions and 10 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### May 10, 2025 to May 16, 2025
 
