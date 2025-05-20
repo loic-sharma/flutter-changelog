@@ -59,9 +59,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics<br />
   <sub>[#168703](https://github.com/flutter/flutter/pull/168703) opened on on May 12, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/168703) 59 additions and 716 deletions in 29 files</sub><br />
 
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
-  <sub>[#168704](https://github.com/flutter/flutter/pull/168704) opened on on May 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168704) 48 additions and 13 deletions in 5 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Multi-window support (engine)<br />
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) opened on on May 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/168728) 2072 additions and 18 deletions in 27 files</sub><br />
 
@@ -121,4 +118,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make `build_android_host_app_with_module_aar` build using an aar<br />
   <sub>[#169171](https://github.com/flutter/flutter/pull/169171) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169171) 34 additions and 5 deletions in 3 files</sub><br />
+
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
+  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 51 additions and 15 deletions in 6 files</sub><br />
 
