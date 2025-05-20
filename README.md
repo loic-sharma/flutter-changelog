@@ -751,7 +751,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-8 commits.
+9 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve styling for `kbd` element<br />
   <sub>[#12028](https://github.com/flutter/website/pull/12028) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12028) over 12 hours, 10 additions and 3 deletions in 1 file</sub><br />
@@ -769,6 +769,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Simplify setup of old setup docs<br />
   <sub>[#12026](https://github.com/flutter/website/pull/12026) merged on May 19, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/12026) over 18 hours, 767 additions and 1562 deletions in 45 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Add 3.32 generated changelog<br />
+  <sub>[#12037](https://github.com/flutter/website/pull/12037) merged on May 20, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12037) over 20 hours, 1051 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Rahul Rao](https://github.com/rahulrao0209)** &mdash; Fix small typo in local-caching.md<br />
   <sub>[#12032](https://github.com/flutter/website/pull/12032) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12032) over 39 minutes, 1 addition and 1 deletion in 1 file</sub><br />
