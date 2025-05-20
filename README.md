@@ -751,7 +751,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-16 commits.
+17 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve styling for `kbd` element<br />
   <sub>[#12028](https://github.com/flutter/website/pull/12028) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12028) over 12 hours, 10 additions and 3 deletions in 1 file</sub><br />
@@ -774,6 +774,10 @@
   <sub>[#12037](https://github.com/flutter/website/pull/12037) merged on May 20, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12037) over 20 hours, 1051 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix unscrollable sidenav due to height calculation<br />
+  <sub>[#12048](https://github.com/flutter/website/pull/12048) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12048) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Fix unexpected raw `<style>` in the 3.32 release note<br />
   <sub>[#12044](https://github.com/flutter/website/pull/12044) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12044) over 2 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
@@ -786,8 +790,8 @@
   <sub>[#12032](https://github.com/flutter/website/pull/12032) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12032) over 39 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix unscrollable sidenav due to height calculation<br />
-  <sub>[#12048](https://github.com/flutter/website/pull/12048) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12048) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add missing instructions for Android a2a depending on a module as source case<br />
+  <sub>[#12050](https://github.com/flutter/website/pull/12050) merged on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12050) over 22 minutes, 34 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove specific versions from old setup flow<br />
