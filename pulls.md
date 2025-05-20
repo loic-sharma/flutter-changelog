@@ -125,9 +125,6 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [CP: 3.33] [Widget Inspector] Update on-device inspector button to generic unicode icon<br />
   <sub>[#169093](https://github.com/flutter/flutter/pull/169093) opened on on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169093) 6 additions and 6 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip running `Linux fuchsia_test` on non-master channel.<br />
-  <sub>[#169106](https://github.com/flutter/flutter/pull/169106) opened on on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169106) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add documentation for experimental branches, update artifacts.<br />
   <sub>[#169109](https://github.com/flutter/flutter/pull/169109) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169109) 67 additions and 1 deletion in 3 files</sub><br />
 
