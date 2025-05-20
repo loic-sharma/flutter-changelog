@@ -67,7 +67,7 @@
 <summary>79 commits...</summary>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix multiline input selection in Chrome.
-  <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub>
+  <sub>[#168217](https://github.com/flutter/flutter/pull/168217) merged on May 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168217) over 1 week, 72 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Chip delete button semantic bounds

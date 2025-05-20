@@ -128,3 +128,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add documentation for experimental branches, update artifacts.<br />
   <sub>[#169109](https://github.com/flutter/flutter/pull/169109) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169109) 67 additions and 1 deletion in 3 files</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop writing package_config_subset<br />
+  <sub>[#169125](https://github.com/flutter/flutter/pull/169125) opened on on May 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169125) 5 additions and 85 deletions in 6 files</sub><br />
+
