@@ -116,14 +116,11 @@
 * **[Primaël Quémerais](https://github.com/PrimaelQuemerais)** &mdash; Fixes an issue where TapRegion would consume taps regardless of navigation state<br />
   <sub>[#169067](https://github.com/flutter/flutter/pull/169067) opened on on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169067) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; [CP: 3.33] [Widget Inspector] Update on-device inspector button to generic unicode icon<br />
-  <sub>[#169093](https://github.com/flutter/flutter/pull/169093) opened on on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169093) 6 additions and 6 deletions in 2 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add documentation for experimental branches, update artifacts.<br />
   <sub>[#169109](https://github.com/flutter/flutter/pull/169109) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169109) 67 additions and 1 deletion in 3 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; `gclient sync` only run `pub get` in workspace root folders<br />
-  <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.33] Update `engine.version`.<br />
   <sub>[#169146](https://github.com/flutter/flutter/pull/169146) opened on on May 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169146) 1 addition and 1 deletion in 1 file</sub><br />
