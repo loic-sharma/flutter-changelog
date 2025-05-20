@@ -123,7 +123,7 @@
   <sub>[#169092](https://github.com/flutter/flutter/pull/169092) opened on on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169092) 6 additions and 6 deletions in 2 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [CP: 3.33] [Widget Inspector] Update on-device inspector button to generic unicode icon<br />
-  <sub>[#169093](https://github.com/flutter/flutter/pull/169093) opened on on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169093) 6 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#169093](https://github.com/flutter/flutter/pull/169093) opened on on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169093) 6 additions and 6 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip running `Linux fuchsia_test` on non-master channel.<br />
   <sub>[#169106](https://github.com/flutter/flutter/pull/169106) opened on on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169106) 3 additions and 0 deletions in 1 file</sub><br />
