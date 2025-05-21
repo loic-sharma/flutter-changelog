@@ -105,7 +105,7 @@
   <sub>[#169153](https://github.com/flutter/flutter/pull/169153) opened on on May 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169153) 24 additions and 1 deletion in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)<br />
-  <sub>[#169163](https://github.com/flutter/flutter/pull/169163) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169163) 47 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#169163](https://github.com/flutter/flutter/pull/169163) opened on on May 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169163) 47 additions and 10 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make `build_android_host_app_with_module_aar` build using an aar<br />
   <sub>[#169171](https://github.com/flutter/flutter/pull/169171) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169171) 34 additions and 5 deletions in 3 files</sub><br />
