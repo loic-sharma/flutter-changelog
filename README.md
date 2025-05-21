@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-25 commits.
+26 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies<br />
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub><br />
@@ -46,6 +46,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; docs: Update deprecation message for Slider.year2023<br />
   <sub>[#169053](https://github.com/flutter/flutter/pull/169053) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169053) over 3 hours, 3 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add persistentFooterDecoration for scaffold<br />
+  <sub>[#167524](https://github.com/flutter/flutter/pull/167524) merged on May 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167524) over 4 weeks, 42 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable gl ext render to texture on vivante.<br />
   <sub>[#169153](https://github.com/flutter/flutter/pull/169153) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169153) over 22 hours, 24 additions and 1 deletion in 1 file</sub><br />
@@ -697,7 +701,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors<br />
   <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub><br />
@@ -714,6 +718,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Swap out `BroadcastReceiver` for `OrientationEventListener`<br />
   <sub>[#9261](https://github.com/flutter/packages/pull/9261) merged on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9261) over 3 days, 75 additions and 39 deletions in 4 files</sub><br />
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Ignore .cxx/ directories<br />
+  <sub>[#9268](https://github.com/flutter/packages/pull/9268) merged on May 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9268) over 5 days, 9 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Skip some integration tests on web<br />
   <sub>[#9302](https://github.com/flutter/packages/pull/9302) merged on May 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9302) over 1 hour, 11 additions and 12 deletions in 2 files</sub><br />
@@ -809,7 +817,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-17 commits.
+18 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve styling for `kbd` element<br />
   <sub>[#12028](https://github.com/flutter/website/pull/12028) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12028) over 12 hours, 10 additions and 3 deletions in 1 file</sub><br />
@@ -830,6 +838,10 @@
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Add 3.32 generated changelog<br />
   <sub>[#12037](https://github.com/flutter/website/pull/12037) merged on May 20, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12037) over 20 hours, 1051 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update and include changes to `generate-i10n` in `3.32.0`.<br />
+  <sub>[#12054](https://github.com/flutter/website/pull/12054) merged on May 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12054) over 21 minutes, 10 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix unscrollable sidenav due to height calculation<br />
