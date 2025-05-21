@@ -50,9 +50,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Revert "Changes the offset computation to first item for RenderSliverMainAxisGroup" (#154688)<br />
   <sub>[#168450](https://github.com/flutter/flutter/pull/168450) opened on on May 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168450) 62 additions and 58 deletions in 2 files</sub><br />
 
-* **[masato](https://github.com/masal9pse)** &mdash; feat: Cupertino sheet implement upward stretch on full sheet<br />
-  <sub>[#168547](https://github.com/flutter/flutter/pull/168547) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168547) 161 additions and 58 deletions in 2 files</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
 
@@ -71,9 +68,6 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add WidgetStatesController to ListTile<br />
   <sub>[#168878](https://github.com/flutter/flutter/pull/168878) opened on on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168878) 91 additions and 0 deletions in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactor the usage of `MediaQuery.sizeOf(context).height` to use the new `.heightOf(context)`<br />
-  <sub>[#168894](https://github.com/flutter/flutter/pull/168894) opened on on May 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168894) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
   <sub>[#168909](https://github.com/flutter/flutter/pull/168909) opened on on May 15, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/168909) 1908 additions and 1918 deletions in 501 files</sub><br />
 
@@ -86,17 +80,8 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; integration_tests: Check if BuildContext is mounted in display_cutout_test<br />
   <sub>[#169008](https://github.com/flutter/flutter/pull/169008) opened on on May 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169008) 13 additions and 1 deletion in 1 file</sub><br />
 
-* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Removes unnecessary parentheses<br />
-  <sub>[#169015](https://github.com/flutter/flutter/pull/169015) opened on on May 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169015) 7 additions and 7 deletions in 7 files</sub><br />
-
-* **[Juergen Werner](https://github.com/pogojotz)** &mdash; Fix remaining iconbuttontheme overrides in listtile<br />
-  <sub>[#169029](https://github.com/flutter/flutter/pull/169029) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169029) 28 additions and 10 deletions in 2 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update mouse pointer behaviour for CupertinoDialogAction<br />
-  <sub>[#169051](https://github.com/flutter/flutter/pull/169051) opened on on May 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169051) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; `gclient sync` only run `pub get` in workspace root folders<br />
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
