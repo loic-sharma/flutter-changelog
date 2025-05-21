@@ -110,9 +110,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable gl ext render to texture on vivante.<br />
   <sub>[#169153](https://github.com/flutter/flutter/pull/169153) opened on on May 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169153) 24 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] remove flaky goldens.<br />
-  <sub>[#169155](https://github.com/flutter/flutter/pull/169155) opened on on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169155) 0 additions and 8 deletions in 1 file</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)<br />
   <sub>[#169163](https://github.com/flutter/flutter/pull/169163) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169163) 44 additions and 9 deletions in 3 files</sub><br />
 
