@@ -65,9 +65,6 @@
 * **[Stefan Humm](https://github.com/Fintasys)** &mdash; Add `.separated` constructor to `ReorderableListView`<br />
   <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168834) 366 additions and 8 deletions in 4 files</sub><br />
 
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add WidgetStatesController to ListTile<br />
-  <sub>[#168878](https://github.com/flutter/flutter/pull/168878) opened on on May 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168878) 91 additions and 0 deletions in 2 files</sub><br />
-
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
   <sub>[#168909](https://github.com/flutter/flutter/pull/168909) opened on on May 15, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/168909) 1908 additions and 1918 deletions in 501 files</sub><br />
 
@@ -86,9 +83,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; `gclient sync` only run `pub get` in workspace root folders<br />
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)<br />
-  <sub>[#169163](https://github.com/flutter/flutter/pull/169163) opened on on May 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169163) 47 additions and 10 deletions in 3 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make `build_android_host_app_with_module_aar` build using an aar<br />
   <sub>[#169171](https://github.com/flutter/flutter/pull/169171) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169171) 34 additions and 5 deletions in 3 files</sub><br />
 
@@ -99,7 +93,7 @@
   <sub>[#169180](https://github.com/flutter/flutter/pull/169180) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169180) 98 additions and 0 deletions in 3 files</sub><br />
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
-  <sub>[#169196](https://github.com/flutter/flutter/pull/169196) opened on on May 21, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/169196) 371 additions and 57 deletions in 7 files</sub><br />
+  <sub>[#169196](https://github.com/flutter/flutter/pull/169196) opened on on May 21, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/169196) 366 additions and 57 deletions in 7 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
   <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
