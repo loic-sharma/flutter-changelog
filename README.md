@@ -46,6 +46,10 @@
   <sub>[#169156](https://github.com/flutter/flutter/pull/169156) merged on May 21, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169156) over 8 hours, 230 additions and 550 deletions in 21 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tool] Remove unused environment flags in JS compiler<br />
+  <sub>[#169097](https://github.com/flutter/flutter/pull/169097) merged on May 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169097) over 23 hours, 1 addition and 39 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) merged on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168031) over 2 weeks, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -65,10 +69,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix keyboard_hot_restart_ios flakes<br />
   <sub>[#168518](https://github.com/flutter/flutter/pull/168518) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168518) over 1 week, 51 additions and 12 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tool] Remove unused environment flags in JS compiler<br />
-  <sub>[#169097](https://github.com/flutter/flutter/pull/169097) merged on May 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169097) over 23 hours, 1 addition and 39 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix DDC library bundle format test files to correctly pass flags<br />
   <sub>[#169095](https://github.com/flutter/flutter/pull/169095) merged on May 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169095) over 2 hours, 55 additions and 45 deletions in 7 files</sub><br />
@@ -807,6 +807,10 @@
   <sub>[#12044](https://github.com/flutter/website/pull/12044) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12044) over 2 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update release details for hot reload web<br />
+  <sub>[#12049](https://github.com/flutter/website/pull/12049) merged on May 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12049) over 35 minutes, 4 additions and 10 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding notes for 3.32 release<br />
   <sub>[#12046](https://github.com/flutter/website/pull/12046) merged on May 20, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12046) over 3 hours, 233 additions and 168 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
@@ -842,10 +846,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Move site switcher to icon button<br />
   <sub>[#12030](https://github.com/flutter/website/pull/12030) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12030) over 7 hours, 115 additions and 141 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update release details for hot reload web<br />
-  <sub>[#12049](https://github.com/flutter/website/pull/12049) merged on May 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12049) over 35 minutes, 4 additions and 10 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### May 10, 2025 to May 16, 2025
 
