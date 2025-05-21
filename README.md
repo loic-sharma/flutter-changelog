@@ -709,7 +709,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors<br />
   <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub><br />
@@ -726,6 +726,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds support to respond to recoverable SSL certificate errors<br />
   <sub>[#9281](https://github.com/flutter/packages/pull/9281) merged on May 19, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9281) over 11 hours, 6829 additions and 1942 deletions in 48 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Rebalance Android plugin CODEOWNERS<br />
+  <sub>[#9298](https://github.com/flutter/packages/pull/9298) merged on May 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9298) over 20 hours, 7 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Swap out `BroadcastReceiver` for `OrientationEventListener`<br />
   <sub>[#9261](https://github.com/flutter/packages/pull/9261) merged on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9261) over 3 days, 75 additions and 39 deletions in 4 files</sub><br />
