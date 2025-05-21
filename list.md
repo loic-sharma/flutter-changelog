@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-21 commits.
+22 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub>
@@ -23,6 +23,11 @@
 * **[maRci002](https://github.com/maRci002)** &mdash; Shared element transition for predictive back
   <sub>[#154718](https://github.com/flutter/flutter/pull/154718) merged on May 19, 2025 &mdash; **Extra large:** [57 comments](https://github.com/flutter/flutter/pull/154718) over 8 months, 1069 additions and 469 deletions in 5 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [TheLastFlame](https://github.com/TheLastFlame), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix(widget_inspector): add null check for flex factor property to prevent exception
+  <sub>[#167890](https://github.com/flutter/flutter/pull/167890) merged on May 21, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/167890) over 3 weeks, 39 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Ben Konyi](https://github.com/bkonyi)</sub>
+  <sub><details><summary>1 image...</summary>![null_check_flex_factor](https://github.com/user-attachments/assets/325ee0b6-7c95-40bf-a717-e6eb354f9ad6)</details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for hiding widget subtrees from the widget inspector
   <sub>[#169007](https://github.com/flutter/flutter/pull/169007) merged on May 20, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/169007) over 4 days, 312 additions and 23 deletions in 7 files</sub>
