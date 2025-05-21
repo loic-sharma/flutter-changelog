@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-26 commits.
+27 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub>
@@ -33,6 +33,10 @@
   <sub>[#169007](https://github.com/flutter/flutter/pull/169007) merged on May 20, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/169007) over 4 days, 312 additions and 23 deletions in 7 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Elliott Brooks](https://github.com/elliette)</sub>
   <sub><details><summary>1 image...</summary><img width="1606" alt="image" src="https://github.com/user-attachments/assets/eb23160e-01c5-413f-b1d2-97985ced9ef9" /></details></sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add full screen dialog support for dialog routes
+  <sub>[#167794](https://github.com/flutter/flutter/pull/167794) merged on May 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/167794) over 3 weeks, 64 additions and 1 deletion in 5 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda argument
   <sub>[#168901](https://github.com/flutter/flutter/pull/168901) merged on May 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168901) over 4 days, 1 addition and 1 deletion in 1 file</sub>
