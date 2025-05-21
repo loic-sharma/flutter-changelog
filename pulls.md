@@ -116,3 +116,6 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new pr's modifying gradle files<br />
   <sub>[#169180](https://github.com/flutter/flutter/pull/169180) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169180) 98 additions and 0 deletions in 3 files</sub><br />
 
+* **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
+  <sub>[#169196](https://github.com/flutter/flutter/pull/169196) opened on on May 21, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169196) 292 additions and 13 deletions in 5 files</sub><br />
+
