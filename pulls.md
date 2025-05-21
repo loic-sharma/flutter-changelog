@@ -99,7 +99,7 @@
   <sub>[#169051](https://github.com/flutter/flutter/pull/169051) opened on on May 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169051) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; `gclient sync` only run `pub get` in workspace root folders<br />
-  <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable gl ext render to texture on vivante.<br />
   <sub>[#169153](https://github.com/flutter/flutter/pull/169153) opened on on May 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169153) 24 additions and 1 deletion in 1 file</sub><br />
