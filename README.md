@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-19 commits.
+20 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies<br />
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub><br />
@@ -69,6 +69,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix keyboard_hot_restart_ios flakes<br />
   <sub>[#168518](https://github.com/flutter/flutter/pull/168518) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168518) over 1 week, 51 additions and 12 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[sutes-work](https://github.com/sutes-work)** &mdash; runtime/dart: fuchsia::io::MODE_TYPE_FILE -> V_TYPE_FILE<br />
+  <sub>[#168952](https://github.com/flutter/flutter/pull/168952) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168952) over 5 days, 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix DDC library bundle format test files to correctly pass flags<br />
   <sub>[#169095](https://github.com/flutter/flutter/pull/169095) merged on May 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169095) over 2 hours, 55 additions and 45 deletions in 7 files</sub><br />
