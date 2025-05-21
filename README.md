@@ -680,7 +680,11 @@
 
 ### May 17, 2025 to May 23, 2025
 
-3 commits.
+4 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors<br />
+  <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Marvin Willms](https://github.com/marvin-kolja)** &mdash; [video_player_android] Fix incorrect dimensions swap<br />
   <sub>[#9199](https://github.com/flutter/packages/pull/9199) merged on May 19, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9199) over 2 weeks, 31 additions and 38 deletions in 5 files</sub><br />
