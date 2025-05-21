@@ -101,3 +101,6 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update TextInputConfiguration.viewId doc<br />
   <sub>[#169221](https://github.com/flutter/flutter/pull/169221) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169221) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; dev/bots: improve service worker test code<br />
+  <sub>[#169231](https://github.com/flutter/flutter/pull/169231) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169231) 44 additions and 1 deletion in 1 file</sub><br />
+
