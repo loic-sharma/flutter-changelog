@@ -693,7 +693,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-4 commits.
+5 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors
   <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub>
@@ -710,6 +710,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Swap out `BroadcastReceiver` for `OrientationEventListener`
   <sub>[#9261](https://github.com/flutter/packages/pull/9261) merged on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9261) over 3 days, 75 additions and 39 deletions in 4 files</sub>
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Skip some integration tests on web
+  <sub>[#9302](https://github.com/flutter/packages/pull/9302) merged on May 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9302) over 1 hour, 11 additions and 12 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 ### May 10, 2025 to May 16, 2025
 
