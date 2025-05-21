@@ -93,7 +93,7 @@
   <sub>[#169029](https://github.com/flutter/flutter/pull/169029) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169029) 28 additions and 10 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
-  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update mouse pointer behaviour for CupertinoDialogAction<br />
   <sub>[#169051](https://github.com/flutter/flutter/pull/169051) opened on on May 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169051) 48 additions and 1 deletion in 2 files</sub><br />
