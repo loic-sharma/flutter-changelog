@@ -119,3 +119,6 @@
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
   <sub>[#169196](https://github.com/flutter/flutter/pull/169196) opened on on May 21, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169196) 292 additions and 13 deletions in 5 files</sub><br />
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
+  <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
+
