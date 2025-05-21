@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-18 commits.
+19 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub>
@@ -41,6 +41,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; docs: Update deprecation message for Slider.year2023
   <sub>[#169053](https://github.com/flutter/flutter/pull/169053) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169053) over 3 hours, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `isExplicitPackageDependenciesEnabled: true`, it is the default.
+  <sub>[#169156](https://github.com/flutter/flutter/pull/169156) merged on May 21, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169156) over 8 hours, 230 additions and 550 deletions in 21 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) merged on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168031) over 2 weeks, 4 additions and 4 deletions in 1 file</sub>
