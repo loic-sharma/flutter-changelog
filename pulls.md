@@ -104,3 +104,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; dev/bots: improve service worker test code<br />
   <sub>[#169231](https://github.com/flutter/flutter/pull/169231) opened on on May 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169231) 44 additions and 1 deletion in 1 file</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: update to Dart 3.8, enable and fix new lints<br />
+  <sub>[#169242](https://github.com/flutter/flutter/pull/169242) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169242) 33 additions and 32 deletions in 25 files</sub><br />
+
