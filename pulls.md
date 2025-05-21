@@ -95,9 +95,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
   <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Start removing Observatory support and references<br />
-  <sub>[#169216](https://github.com/flutter/flutter/pull/169216) opened on on May 21, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169216) 61 additions and 336 deletions in 46 files</sub><br />
-
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update TextInputConfiguration.viewId doc<br />
   <sub>[#169221](https://github.com/flutter/flutter/pull/169221) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169221) 2 additions and 0 deletions in 1 file</sub><br />
 
