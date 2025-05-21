@@ -84,7 +84,7 @@
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
-  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 51 additions and 15 deletions in 6 files</sub><br />
+  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 159 additions and 23 deletions in 6 files</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new pr's modifying gradle files<br />
   <sub>[#169180](https://github.com/flutter/flutter/pull/169180) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169180) 98 additions and 0 deletions in 3 files</sub><br />
@@ -102,5 +102,5 @@
   <sub>[#169221](https://github.com/flutter/flutter/pull/169221) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169221) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; dev/bots: improve service worker test code<br />
-  <sub>[#169231](https://github.com/flutter/flutter/pull/169231) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169231) 44 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#169231](https://github.com/flutter/flutter/pull/169231) opened on on May 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169231) 44 additions and 1 deletion in 1 file</sub><br />
 
