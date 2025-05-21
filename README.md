@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-30 commits.
+31 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies<br />
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub><br />
@@ -130,6 +130,10 @@
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; Modernize system executable detection across components<br />
   <sub>[#169018](https://github.com/flutter/flutter/pull/169018) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169018) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine (#168396)<br />
+  <sub>[#168914](https://github.com/flutter/flutter/pull/168914) merged on May 21, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/168914) over 6 days, 396 additions and 36 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 ### May 10, 2025 to May 16, 2025
 
