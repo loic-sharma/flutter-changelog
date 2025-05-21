@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-32 commits.
+33 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies<br />
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add full screen dialog support for dialog routes<br />
   <sub>[#167794](https://github.com/flutter/flutter/pull/167794) merged on May 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/167794) over 3 weeks, 64 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Kyle Finlinson](https://github.com/KyleFin)** &mdash; Use gestureSettings.touchSlop in PrimaryPointerGestureRecognizer<br />
+  <sub>[#161549](https://github.com/flutter/flutter/pull/161549) merged on May 21, 2025 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/161549) over 4 months, 104 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda argument<br />
   <sub>[#168901](https://github.com/flutter/flutter/pull/168901) merged on May 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168901) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
