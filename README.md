@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-20 commits.
+21 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies<br />
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub><br />
@@ -53,6 +53,10 @@
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) merged on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168031) over 2 weeks, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unpin leak_tracker.<br />
+  <sub>[#169079](https://github.com/flutter/flutter/pull/169079) merged on May 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169079) over 1 day, 16 additions and 19 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
   <sub>[#169073](https://github.com/flutter/flutter/pull/169073) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169073) over 1 day, 33 additions and 17 deletions in 6 files</sub><br />
