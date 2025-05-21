@@ -104,3 +104,6 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update TextInputConfiguration.viewId doc<br />
   <sub>[#169221](https://github.com/flutter/flutter/pull/169221) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169221) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes tab semantics gets dropped if the child produce a semantics node<br />
+  <sub>[#169233](https://github.com/flutter/flutter/pull/169233) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169233) 42 additions and 13 deletions in 2 files</sub><br />
+
