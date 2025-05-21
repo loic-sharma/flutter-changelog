@@ -709,7 +709,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-6 commits.
+7 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors<br />
   <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub><br />
@@ -718,6 +718,10 @@
 * **[Marvin Willms](https://github.com/marvin-kolja)** &mdash; [video_player_android] Fix incorrect dimensions swap<br />
   <sub>[#9199](https://github.com/flutter/packages/pull/9199) merged on May 19, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9199) over 2 weeks, 31 additions and 38 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update repository for 3.29 release<br />
+  <sub>[#9270](https://github.com/flutter/packages/pull/9270) merged on May 21, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/9270) over 5 days, 505 additions and 342 deletions in 247 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Chris Bracken](https://github.com/cbracken), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds support to respond to recoverable SSL certificate errors<br />
   <sub>[#9281](https://github.com/flutter/packages/pull/9281) merged on May 19, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9281) over 11 hours, 6829 additions and 1942 deletions in 48 files</sub><br />
