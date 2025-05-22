@@ -152,7 +152,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Increase sub-task timeout for `web_tool_tests_1_2`<br />
-  <sub>[#169277](https://github.com/flutter/flutter/pull/169277) merged on May 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169277) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#169277](https://github.com/flutter/flutter/pull/169277) merged on May 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169277) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactor the usage of `MediaQuery.sizeOf(context).height` to use the new `.heightOf(context)`<br />
