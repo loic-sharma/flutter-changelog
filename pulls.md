@@ -63,7 +63,7 @@
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
 * **[Stefan Humm](https://github.com/Fintasys)** &mdash; Add `.separated` constructor to `ReorderableListView`<br />
-  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/168834) 366 additions and 8 deletions in 4 files</sub><br />
+  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/168834) 366 additions and 8 deletions in 4 files</sub><br />
 
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
   <sub>[#168909](https://github.com/flutter/flutter/pull/168909) opened on on May 15, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/168909) 1908 additions and 1918 deletions in 501 files</sub><br />
@@ -88,9 +88,6 @@
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 158 additions and 25 deletions in 8 files</sub><br />
-
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
-  <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update TextInputConfiguration.viewId doc<br />
   <sub>[#169221](https://github.com/flutter/flutter/pull/169221) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169221) 2 additions and 0 deletions in 1 file</sub><br />
