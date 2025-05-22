@@ -107,6 +107,12 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland2] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine<br />
   <sub>[#169276](https://github.com/flutter/flutter/pull/169276) opened on on May 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169276) 505 additions and 112 deletions in 25 files</sub><br />
 
+* **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
+  <sub>[#169293](https://github.com/flutter/flutter/pull/169293) opened on on May 22, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/169293) 608 additions and 146 deletions in 9 files</sub><br />
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct calculation for CupertinoTextSelectionToolbar vertical position<br />
   <sub>[#169308](https://github.com/flutter/flutter/pull/169308) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169308) 1 addition and 2 deletions in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stop using `isExplicitPackageDeps*` to guard Darwin devDependencies.<br />
+  <sub>[#169310](https://github.com/flutter/flutter/pull/169310) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169310) 3 additions and 18 deletions in 3 files</sub><br />
 
