@@ -102,7 +102,7 @@
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Use baseUri of WebAssetServer for reload_scripts.json<br />
-  <sub>[#169267](https://github.com/flutter/flutter/pull/169267) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169267) 5 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#169267](https://github.com/flutter/flutter/pull/169267) opened on on May 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169267) 5 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add currentIndex to CarouselController and onItemChanged to CarouselView<br />
   <sub>[#169271](https://github.com/flutter/flutter/pull/169271) opened on on May 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169271) 134 additions and 2 deletions in 2 files</sub><br />
@@ -118,7 +118,4 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stop using `isExplicitPackageDeps*` to guard Darwin devDependencies.<br />
   <sub>[#169310](https://github.com/flutter/flutter/pull/169310) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169310) 3 additions and 19 deletions in 3 files</sub><br />
-
-* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add dynamic module loader to flutter wasm entrypoint script.<br />
-  <sub>[#169313](https://github.com/flutter/flutter/pull/169313) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169313) 11 additions and 1 deletion in 1 file</sub><br />
 
