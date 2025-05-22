@@ -119,3 +119,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stop using `isExplicitPackageDeps*` to guard Darwin devDependencies.<br />
   <sub>[#169310](https://github.com/flutter/flutter/pull/169310) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169310) 3 additions and 19 deletions in 3 files</sub><br />
 
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add dynamic module loader to flutter wasm entrypoint script.<br />
+  <sub>[#169313](https://github.com/flutter/flutter/pull/169313) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169313) 11 additions and 1 deletion in 1 file</sub><br />
+
