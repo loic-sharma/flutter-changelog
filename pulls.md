@@ -114,5 +114,5 @@
   <sub>[#169308](https://github.com/flutter/flutter/pull/169308) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169308) 1 addition and 2 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stop using `isExplicitPackageDeps*` to guard Darwin devDependencies.<br />
-  <sub>[#169310](https://github.com/flutter/flutter/pull/169310) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169310) 3 additions and 18 deletions in 3 files</sub><br />
+  <sub>[#169310](https://github.com/flutter/flutter/pull/169310) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169310) 3 additions and 19 deletions in 3 files</sub><br />
 
