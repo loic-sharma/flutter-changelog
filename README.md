@@ -753,7 +753,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-8 commits.
+9 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors<br />
   <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub><br />
@@ -778,6 +778,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Swap out `BroadcastReceiver` for `OrientationEventListener`<br />
   <sub>[#9261](https://github.com/flutter/packages/pull/9261) merged on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9261) over 3 days, 75 additions and 39 deletions in 4 files</sub><br />
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub><br />
+
+* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; [google_maps_flutter] Removes unnecessary parentheses<br />
+  <sub>[#9273](https://github.com/flutter/packages/pull/9273) merged on May 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9273) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Ignore .cxx/ directories<br />
   <sub>[#9268](https://github.com/flutter/packages/pull/9268) merged on May 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9268) over 5 days, 9 additions and 1 deletion in 3 files</sub><br />
