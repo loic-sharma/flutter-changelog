@@ -105,5 +105,5 @@
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Use baseUri of WebAssetServer for reload_scripts.json<br />
-  <sub>[#169267](https://github.com/flutter/flutter/pull/169267) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169267) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#169267](https://github.com/flutter/flutter/pull/169267) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169267) 5 additions and 3 deletions in 1 file</sub><br />
 
