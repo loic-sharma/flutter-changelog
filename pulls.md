@@ -107,3 +107,6 @@
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Use baseUri of WebAssetServer for reload_scripts.json<br />
   <sub>[#169267](https://github.com/flutter/flutter/pull/169267) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169267) 5 additions and 3 deletions in 1 file</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Add currentIndex to CarouselController and onItemChanged to CarouselView<br />
+  <sub>[#169271](https://github.com/flutter/flutter/pull/169271) opened on on May 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169271) 136 additions and 2 deletions in 2 files</sub><br />
+
