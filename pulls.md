@@ -84,7 +84,7 @@
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [ios]: Warning for FlutterAppDelegate.window.rootViewController in launch functions<br />
-  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) opened on on May 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169166) 235 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169166) 237 additions and 0 deletions in 5 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 158 additions and 23 deletions in 7 files</sub><br />
@@ -111,7 +111,7 @@
   <sub>[#169276](https://github.com/flutter/flutter/pull/169276) opened on on May 22, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/169276) 505 additions and 112 deletions in 25 files</sub><br />
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
-  <sub>[#169293](https://github.com/flutter/flutter/pull/169293) opened on on May 22, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/169293) 608 additions and 146 deletions in 9 files</sub><br />
+  <sub>[#169293](https://github.com/flutter/flutter/pull/169293) opened on on May 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169293) 608 additions and 146 deletions in 9 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct calculation for CupertinoTextSelectionToolbar vertical position<br />
   <sub>[#169308](https://github.com/flutter/flutter/pull/169308) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169308) 1 addition and 2 deletions in 1 file</sub><br />
