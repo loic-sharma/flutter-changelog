@@ -87,7 +87,7 @@
   <sub>[#169166](https://github.com/flutter/flutter/pull/169166) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169166) 237 additions and 0 deletions in 5 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
-  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 158 additions and 23 deletions in 7 files</sub><br />
+  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 158 additions and 25 deletions in 8 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
   <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
@@ -112,9 +112,6 @@
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
   <sub>[#169293](https://github.com/flutter/flutter/pull/169293) opened on on May 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169293) 608 additions and 146 deletions in 9 files</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct calculation for CupertinoTextSelectionToolbar vertical position<br />
-  <sub>[#169308](https://github.com/flutter/flutter/pull/169308) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169308) 1 addition and 2 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stop using `isExplicitPackageDeps*` to guard Darwin devDependencies.<br />
   <sub>[#169310](https://github.com/flutter/flutter/pull/169310) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169310) 3 additions and 19 deletions in 3 files</sub><br />
