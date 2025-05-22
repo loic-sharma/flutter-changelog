@@ -757,7 +757,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-10 commits.
+11 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors
   <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub>
@@ -798,6 +798,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Skip some integration tests on web
   <sub>[#9302](https://github.com/flutter/packages/pull/9302) merged on May 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9302) over 1 hour, 11 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from c23637390482 to be698c48a675 (1274 revisions)
+  <sub>[#9300](https://github.com/flutter/packages/pull/9300) merged on May 22, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9300) over 1 day, 4 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### May 10, 2025 to May 16, 2025
 
