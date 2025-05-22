@@ -87,13 +87,10 @@
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 159 additions and 23 deletions in 6 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
-  <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
+  <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update TextInputConfiguration.viewId doc<br />
   <sub>[#169221](https://github.com/flutter/flutter/pull/169221) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169221) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; dev/bots: improve service worker test code<br />
-  <sub>[#169231](https://github.com/flutter/flutter/pull/169231) opened on on May 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169231) 44 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: update to Dart 3.8, enable and fix new lints<br />
   <sub>[#169242](https://github.com/flutter/flutter/pull/169242) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169242) 33 additions and 32 deletions in 25 files</sub><br />
