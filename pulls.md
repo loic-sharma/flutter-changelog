@@ -87,7 +87,7 @@
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 158 additions and 23 deletions in 7 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
-  <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
+  <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update TextInputConfiguration.viewId doc<br />
   <sub>[#169221](https://github.com/flutter/flutter/pull/169221) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169221) 2 additions and 0 deletions in 1 file</sub><br />
@@ -107,6 +107,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland2] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine<br />
   <sub>[#169276](https://github.com/flutter/flutter/pull/169276) opened on on May 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169276) 505 additions and 112 deletions in 25 files</sub><br />
 
-* **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
-  <sub>[#169293](https://github.com/flutter/flutter/pull/169293) opened on on May 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169293) 581 additions and 146 deletions in 9 files</sub><br />
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Increase sub-task timeout for Mac web_tool_tests<br />
+  <sub>[#169307](https://github.com/flutter/flutter/pull/169307) opened on on May 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169307) 1 addition and 1 deletion in 1 file</sub><br />
 
