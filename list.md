@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-39 commits.
+40 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub>
@@ -63,17 +63,25 @@
   <sub>[#167524](https://github.com/flutter/flutter/pull/167524) merged on May 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167524) over 4 weeks, 42 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable gl ext render to texture on vivante.
-  <sub>[#169153](https://github.com/flutter/flutter/pull/169153) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169153) over 22 hours, 24 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `isExplicitPackageDependenciesEnabled: true`, it is the default.
   <sub>[#169156](https://github.com/flutter/flutter/pull/169156) merged on May 21, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169156) over 8 hours, 230 additions and 550 deletions in 21 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Respect `calendarDelegate` in `showDateRangePicker`
-  <sub>[#168290](https://github.com/flutter/flutter/pull/168290) merged on May 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168290) over 2 weeks, 46 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update tool-internal `generateLocalizations...()` to never use synthetic (`flutter_gen`) packages
+  <sub>[#169285](https://github.com/flutter/flutter/pull/169285) merged on May 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169285) over 1 hour, 236 additions and 382 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable gl ext render to texture on vivante.
+  <sub>[#169153](https://github.com/flutter/flutter/pull/169153) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169153) over 22 hours, 24 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update ButtonStyle documentation
+  <sub>[#168062](https://github.com/flutter/flutter/pull/168062) merged on May 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168062) over 3 weeks, 15 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`
+  <sub>[#165273](https://github.com/flutter/flutter/pull/165273) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165273) over 2 months, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tool] Remove unused environment flags in JS compiler
   <sub>[#169097](https://github.com/flutter/flutter/pull/169097) merged on May 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169097) over 23 hours, 1 addition and 39 deletions in 3 files</sub>
@@ -83,13 +91,9 @@
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) merged on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168031) over 2 weeks, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update ButtonStyle documentation
-  <sub>[#168062](https://github.com/flutter/flutter/pull/168062) merged on May 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168062) over 3 weeks, 15 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`
-  <sub>[#165273](https://github.com/flutter/flutter/pull/165273) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165273) over 2 months, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+* **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Respect `calendarDelegate` in `showDateRangePicker`
+  <sub>[#168290](https://github.com/flutter/flutter/pull/168290) merged on May 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168290) over 2 weeks, 46 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine (#168396)
   <sub>[#168914](https://github.com/flutter/flutter/pull/168914) merged on May 21, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/168914) over 6 days, 396 additions and 36 deletions in 20 files</sub>
@@ -111,9 +115,9 @@
   <sub>[#169135](https://github.com/flutter/flutter/pull/169135) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169135) over 1 day, 17 additions and 12 deletions in 5 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Graduate to preview
-  <sub>[#169194](https://github.com/flutter/flutter/pull/169194) merged on May 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169194) over 9 hours, 42 additions and 110 deletions in 19 files</sub>
-  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann), [Matan Lurey](https://github.com/matanlurey), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unpin leak_tracker.
+  <sub>[#169079](https://github.com/flutter/flutter/pull/169079) merged on May 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169079) over 1 day, 16 additions and 19 deletions in 7 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
   <sub>[#169073](https://github.com/flutter/flutter/pull/169073) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169073) over 1 day, 33 additions and 17 deletions in 6 files</sub>
@@ -123,6 +127,10 @@
   <sub>[#169109](https://github.com/flutter/flutter/pull/169109) merged on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169109) over 19 hours, 67 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Graduate to preview
+  <sub>[#169194](https://github.com/flutter/flutter/pull/169194) merged on May 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169194) over 9 hours, 42 additions and 110 deletions in 19 files</sub>
+  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann), [Matan Lurey](https://github.com/matanlurey), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip running `Linux fuchsia_test` on non-master channel.
   <sub>[#169106](https://github.com/flutter/flutter/pull/169106) merged on May 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169106) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -130,10 +138,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix keyboard_hot_restart_ios flakes
   <sub>[#168518](https://github.com/flutter/flutter/pull/168518) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168518) over 1 week, 51 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unpin leak_tracker.
-  <sub>[#169079](https://github.com/flutter/flutter/pull/169079) merged on May 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169079) over 1 day, 16 additions and 19 deletions in 7 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Clean up redundant new line in the GPUSurfaceGLSkia constructor initializer list
   <sub>[#169031](https://github.com/flutter/flutter/pull/169031) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169031) over 2 days, 0 additions and 1 deletion in 1 file</sub>
@@ -753,7 +757,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-9 commits.
+10 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors
   <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub>
@@ -770,6 +774,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android][webview_flutter_wkwebview] Adds support to respond to recoverable SSL certificate errors
   <sub>[#9281](https://github.com/flutter/packages/pull/9281) merged on May 19, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9281) over 11 hours, 6829 additions and 1942 deletions in 48 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove CODEOWNER for generated iOS files
+  <sub>[#9272](https://github.com/flutter/packages/pull/9272) merged on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9272) over 5 days, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Rebalance Android plugin CODEOWNERS
   <sub>[#9298](https://github.com/flutter/packages/pull/9298) merged on May 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9298) over 20 hours, 7 additions and 7 deletions in 1 file</sub>
