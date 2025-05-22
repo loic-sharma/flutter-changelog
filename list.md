@@ -83,6 +83,10 @@
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) merged on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168031) over 2 weeks, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine (#168396)
+  <sub>[#168914](https://github.com/flutter/flutter/pull/168914) merged on May 21, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/168914) over 6 days, 396 additions and 36 deletions in 20 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 * **[Huy](https://github.com/huycozy)** &mdash; Normalize BottomAppBarTheme (continue)
   <sub>[#168966](https://github.com/flutter/flutter/pull/168966) merged on May 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168966) over 5 days, 5 additions and 30 deletions in 1 file</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -138,10 +142,6 @@
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; Modernize system executable detection across components
   <sub>[#169018](https://github.com/flutter/flutter/pull/169018) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169018) over 2 days, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine (#168396)
-  <sub>[#168914](https://github.com/flutter/flutter/pull/168914) merged on May 21, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/168914) over 6 days, 396 additions and 36 deletions in 20 files</sub>
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 ### May 10, 2025 to May 16, 2025
 
