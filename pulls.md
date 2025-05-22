@@ -110,3 +110,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add currentIndex to CarouselController and onItemChanged to CarouselView<br />
   <sub>[#169271](https://github.com/flutter/flutter/pull/169271) opened on on May 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169271) 134 additions and 2 deletions in 2 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [WIP] Bump Dart to 3.8<br />
+  <sub>[#169275](https://github.com/flutter/flutter/pull/169275) opened on on May 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169275) 38823 additions and 37761 deletions in 1784 files</sub><br />
+
