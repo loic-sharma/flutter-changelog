@@ -83,6 +83,9 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; `gclient sync` only run `pub get` in workspace root folders<br />
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [ios]: Warning for FlutterAppDelegate.window.rootViewController in launch functions<br />
+  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) opened on on May 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169166) 235 additions and 0 deletions in 5 files</sub><br />
+
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 158 additions and 23 deletions in 7 files</sub><br />
 
