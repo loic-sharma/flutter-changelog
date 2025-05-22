@@ -107,9 +107,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland2] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine<br />
   <sub>[#169276](https://github.com/flutter/flutter/pull/169276) opened on on May 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169276) 505 additions and 112 deletions in 25 files</sub><br />
 
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Increase sub-task timeout for Mac web_tool_tests<br />
-  <sub>[#169307](https://github.com/flutter/flutter/pull/169307) opened on on May 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169307) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct calculation for CupertinoTextSelectionToolbar vertical position<br />
   <sub>[#169308](https://github.com/flutter/flutter/pull/169308) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169308) 1 addition and 2 deletions in 1 file</sub><br />
 
