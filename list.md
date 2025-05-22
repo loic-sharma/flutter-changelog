@@ -4,7 +4,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-33 commits.
+35 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets and plugins from transitive closure of dependencies
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [100 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub>
@@ -47,13 +47,17 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
   <sub><details><summary>1 image...</summary>![ok](https://github.com/user-attachments/assets/f7b3fcb9-def6-49a9-bbbe-365ae8d84ed6)</details></sub>
 
+* **[Huy](https://github.com/huycozy)** &mdash; docs: Update deprecation message for Slider.year2023
+  <sub>[#169053](https://github.com/flutter/flutter/pull/169053) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169053) over 3 hours, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue with Tooltip
   <sub>[#168546](https://github.com/flutter/flutter/pull/168546) merged on May 20, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/168546) over 1 week, 43 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [Kishan Rathore](https://github.com/rkishan516), [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Huy](https://github.com/huycozy)** &mdash; docs: Update deprecation message for Slider.year2023
-  <sub>[#169053](https://github.com/flutter/flutter/pull/169053) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169053) over 3 hours, 3 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+* **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Add bottomSheetScrimBuilder to Scaffold
+  <sub>[#167335](https://github.com/flutter/flutter/pull/167335) merged on May 22, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/167335) over 1 month, 106 additions and 36 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add persistentFooterDecoration for scaffold
   <sub>[#167524](https://github.com/flutter/flutter/pull/167524) merged on May 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167524) over 4 weeks, 42 additions and 3 deletions in 2 files</sub>
@@ -87,6 +91,10 @@
   <sub>[#168914](https://github.com/flutter/flutter/pull/168914) merged on May 21, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/168914) over 6 days, 396 additions and 36 deletions in 20 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu disposes of the controller.
+  <sub>[#168541](https://github.com/flutter/flutter/pull/168541) merged on May 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168541) over 1 week, 23 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Huy](https://github.com/huycozy)** &mdash; Normalize BottomAppBarTheme (continue)
   <sub>[#168966](https://github.com/flutter/flutter/pull/168966) merged on May 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168966) over 5 days, 5 additions and 30 deletions in 1 file</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -94,14 +102,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make `build_android_host_app_with_module_aar` build using an aar
   <sub>[#169171](https://github.com/flutter/flutter/pull/169171) merged on May 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169171) over 22 hours, 34 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 7c40eba6bf77 to 56940edd099d
-  <sub>[#169135](https://github.com/flutter/flutter/pull/169135) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169135) over 1 day, 17 additions and 12 deletions in 5 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Graduate to preview
-  <sub>[#169194](https://github.com/flutter/flutter/pull/169194) merged on May 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169194) over 9 hours, 42 additions and 110 deletions in 19 files</sub>
-  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann), [Matan Lurey](https://github.com/matanlurey), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unpin leak_tracker.
   <sub>[#169079](https://github.com/flutter/flutter/pull/169079) merged on May 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169079) over 1 day, 16 additions and 19 deletions in 7 files</sub>
@@ -123,13 +123,13 @@
   <sub>[#168518](https://github.com/flutter/flutter/pull/168518) merged on May 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168518) over 1 week, 51 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[sutes-work](https://github.com/sutes-work)** &mdash; runtime/dart: fuchsia::io::MODE_TYPE_FILE -> V_TYPE_FILE
-  <sub>[#168952](https://github.com/flutter/flutter/pull/168952) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168952) over 5 days, 3 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 7c40eba6bf77 to 56940edd099d
+  <sub>[#169135](https://github.com/flutter/flutter/pull/169135) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169135) over 1 day, 17 additions and 12 deletions in 5 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso), [Siva](https://github.com/a-siva)</sub>
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix DDC library bundle format test files to correctly pass flags
-  <sub>[#169095](https://github.com/flutter/flutter/pull/169095) merged on May 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169095) over 2 hours, 55 additions and 45 deletions in 7 files</sub>
-  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Graduate to preview
+  <sub>[#169194](https://github.com/flutter/flutter/pull/169194) merged on May 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169194) over 9 hours, 42 additions and 110 deletions in 19 files</sub>
+  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann), [Matan Lurey](https://github.com/matanlurey), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Clean up redundant new line in the GPUSurfaceGLSkia constructor initializer list
   <sub>[#169031](https://github.com/flutter/flutter/pull/169031) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169031) over 2 days, 0 additions and 1 deletion in 1 file</sub>
@@ -142,6 +142,14 @@
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; Modernize system executable detection across components
   <sub>[#169018](https://github.com/flutter/flutter/pull/169018) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169018) over 2 days, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[sutes-work](https://github.com/sutes-work)** &mdash; runtime/dart: fuchsia::io::MODE_TYPE_FILE -> V_TYPE_FILE
+  <sub>[#168952](https://github.com/flutter/flutter/pull/168952) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168952) over 5 days, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Fix DDC library bundle format test files to correctly pass flags
+  <sub>[#169095](https://github.com/flutter/flutter/pull/169095) merged on May 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169095) over 2 hours, 55 additions and 45 deletions in 7 files</sub>
+  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
 
 ### May 10, 2025 to May 16, 2025
 
