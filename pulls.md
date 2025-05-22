@@ -86,6 +86,9 @@
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 159 additions and 23 deletions in 6 files</sub><br />
 
+* **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
+  <sub>[#169196](https://github.com/flutter/flutter/pull/169196) opened on on May 21, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/169196) 515 additions and 58 deletions in 10 files</sub><br />
+
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
   <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
 
