@@ -86,9 +86,6 @@
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 159 additions and 23 deletions in 6 files</sub><br />
 
-* **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new pr's modifying gradle files<br />
-  <sub>[#169180](https://github.com/flutter/flutter/pull/169180) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169180) 98 additions and 0 deletions in 3 files</sub><br />
-
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
   <sub>[#169196](https://github.com/flutter/flutter/pull/169196) opened on on May 21, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/169196) 367 additions and 57 deletions in 7 files</sub><br />
 
@@ -103,4 +100,7 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: update to Dart 3.8, enable and fix new lints<br />
   <sub>[#169242](https://github.com/flutter/flutter/pull/169242) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169242) 33 additions and 32 deletions in 25 files</sub><br />
+
+* **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
+  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) opened on on May 22, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169245) 322 additions and 0 deletions in 5 files</sub><br />
 
