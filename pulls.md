@@ -84,16 +84,13 @@
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
-  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 159 additions and 23 deletions in 6 files</sub><br />
+  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169174) 160 additions and 23 deletions in 7 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
   <sub>[#169198](https://github.com/flutter/flutter/pull/169198) opened on on May 21, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/169198) 210 additions and 213 deletions in 65 files</sub><br />
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update TextInputConfiguration.viewId doc<br />
   <sub>[#169221](https://github.com/flutter/flutter/pull/169221) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169221) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: update to Dart 3.8, enable and fix new lints<br />
-  <sub>[#169242](https://github.com/flutter/flutter/pull/169242) opened on on May 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169242) 33 additions and 32 deletions in 25 files</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
   <sub>[#169245](https://github.com/flutter/flutter/pull/169245) opened on on May 22, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169245) 322 additions and 0 deletions in 5 files</sub><br />
