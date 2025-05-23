@@ -99,7 +99,7 @@
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
 
 * **[Fré Dumazy](https://github.com/dumazy)** &mdash; Use baseUri of WebAssetServer for reload_scripts.json<br />
-  <sub>[#169267](https://github.com/flutter/flutter/pull/169267) opened on on May 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169267) 5 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#169267](https://github.com/flutter/flutter/pull/169267) opened on on May 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169267) 5 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add currentIndex to CarouselController and onItemChanged to CarouselView<br />
   <sub>[#169271](https://github.com/flutter/flutter/pull/169271) opened on on May 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169271) 134 additions and 2 deletions in 2 files</sub><br />
@@ -112,4 +112,10 @@
 
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Allow `Navigator.popUntil` to return a value<br />
   <sub>[#169341](https://github.com/flutter/flutter/pull/169341) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169341) 98 additions and 5 deletions in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Mark web_tool_tests_1_2 as bringup."<br />
+  <sub>[#169361](https://github.com/flutter/flutter/pull/169361) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169361) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fixes tab semantics gets dropped if the child produce a semantics node<br />
+  <sub>[#169362](https://github.com/flutter/flutter/pull/169362) opened on on May 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169362) 40 additions and 2 deletions in 4 files</sub><br />
 
