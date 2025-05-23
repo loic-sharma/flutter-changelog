@@ -108,5 +108,5 @@
   <sub>[#169381](https://github.com/flutter/flutter/pull/169381) opened on on May 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169381) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics r2<br />
-  <sub>[#169382](https://github.com/flutter/flutter/pull/169382) opened on on May 23, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169382) 87 additions and 721 deletions in 30 files</sub><br />
+  <sub>[#169382](https://github.com/flutter/flutter/pull/169382) opened on on May 23, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169382) 58 additions and 714 deletions in 29 files</sub><br />
 
