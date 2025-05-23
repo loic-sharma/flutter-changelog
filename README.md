@@ -132,7 +132,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland2] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine<br />
-  <sub>[#169276](https://github.com/flutter/flutter/pull/169276) merged on May 23, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/169276) over 8 hours, 505 additions and 112 deletions in 25 files</sub><br />
+  <sub>[#169276](https://github.com/flutter/flutter/pull/169276) merged on May 23, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/169276) over 8 hours, 505 additions and 112 deletions in 25 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Disable the ability to opt-out of `explicit-package-dependencies`.<br />
