@@ -821,7 +821,11 @@
 
 ### May 17, 2025 to May 23, 2025
 
-17 commits.
+18 commits.
+
+* **[Raju Muliyashiya](https://github.com/raju-muliyashiya)** &mdash; [video_player_android] isBuffering flag always return true after calling seekTo method - fixed
+  <sub>[#9198](https://github.com/flutter/packages/pull/9198) merged on May 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9198) over 2 weeks, 22 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors
   <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub>
