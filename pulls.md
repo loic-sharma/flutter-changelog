@@ -104,9 +104,6 @@
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; use Material widget for improved ink effects<br />
   <sub>[#169368](https://github.com/flutter/flutter/pull/169368) opened on on May 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169368) 9 additions and 6 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Skip running `Linux fuchsia_test` on non-master channel.<br />
-  <sub>[#169380](https://github.com/flutter/flutter/pull/169380) opened on on May 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169380) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Skip running `Linux fuchsia_test` on non-master channel.<br />
   <sub>[#169381](https://github.com/flutter/flutter/pull/169381) opened on on May 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169381) 3 additions and 0 deletions in 1 file</sub><br />
 
