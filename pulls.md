@@ -104,9 +104,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add currentIndex to CarouselController and onItemChanged to CarouselView<br />
   <sub>[#169271](https://github.com/flutter/flutter/pull/169271) opened on on May 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169271) 134 additions and 2 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland2] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine<br />
-  <sub>[#169276](https://github.com/flutter/flutter/pull/169276) opened on on May 22, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/169276) 505 additions and 112 deletions in 25 files</sub><br />
-
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
   <sub>[#169293](https://github.com/flutter/flutter/pull/169293) opened on on May 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169293) 608 additions and 146 deletions in 9 files</sub><br />
 
