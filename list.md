@@ -10,15 +10,15 @@
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) merged on May 19, 2025 &mdash; **Extra large:** [101 comments](https://github.com/flutter/flutter/pull/160443) over 5 months, 1086 additions and 1391 deletions in 60 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update the `RangeSlider` widget to the 2024 Material Design appearance
-  <sub>[#163736](https://github.com/flutter/flutter/pull/163736) merged on May 19, 2025 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/163736) over 2 months, 1525 additions and 56 deletions in 7 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-  <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/e14a1b04-4e32-4b37-b2f5-2d2001f53114"/><img src="https://github.com/user-attachments/assets/aad36529-d576-4ec7-b2e5-49c9387456be"/><img width="343" alt="Screenshot 2025-02-20 at 15 26 09" src="https://github.com/user-attachments/assets/06c09679-1df8-4380-b3e6-c4add8f0cc42" /><img width="338" alt="Screenshot 2025-02-20 at 15 27 19" src="https://github.com/user-attachments/assets/6226c515-f96b-412a-b59e-cafd2fba0515" /></details></sub>
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] Fast blurring algorithm for RSuperellipse
   <sub>[#169187](https://github.com/flutter/flutter/pull/169187) merged on May 23, 2025 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/169187) over 2 days, 1151 additions and 260 deletions in 25 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
   <sub><details><summary>2 images...</summary><img width="389" alt="image" src="https://github.com/user-attachments/assets/67cf4b10-f13f-4e55-bdfd-35d358617f38" /><img width="365" alt="image" src="https://github.com/user-attachments/assets/6869fa9c-5752-4a11-babe-b6a2d590ebc9" /></details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update the `RangeSlider` widget to the 2024 Material Design appearance
+  <sub>[#163736](https://github.com/flutter/flutter/pull/163736) merged on May 19, 2025 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/163736) over 2 months, 1525 additions and 56 deletions in 7 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+  <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/e14a1b04-4e32-4b37-b2f5-2d2001f53114"/><img src="https://github.com/user-attachments/assets/aad36529-d576-4ec7-b2e5-49c9387456be"/><img width="343" alt="Screenshot 2025-02-20 at 15 26 09" src="https://github.com/user-attachments/assets/06c09679-1df8-4380-b3e6-c4add8f0cc42" /><img width="338" alt="Screenshot 2025-02-20 at 15 27 19" src="https://github.com/user-attachments/assets/6226c515-f96b-412a-b59e-cafd2fba0515" /></details></sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make FlutterGeneratedPluginSwiftPackage an Xcode root package
   <sub>[#168789](https://github.com/flutter/flutter/pull/168789) merged on May 19, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/168789) over 5 days, 1127 additions and 248 deletions in 9 files</sub>
@@ -838,7 +838,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-18 commits.
+19 commits.
 
 * **[Raju Muliyashiya](https://github.com/raju-muliyashiya)** &mdash; [video_player_android] isBuffering flag always return true after calling seekTo method - fixed
   <sub>[#9198](https://github.com/flutter/packages/pull/9198) merged on May 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9198) over 2 weeks, 22 additions and 5 deletions in 4 files</sub>
@@ -847,6 +847,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors
   <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Implement `enableAudio` for video recording
+  <sub>[#9264](https://github.com/flutter/packages/pull/9264) merged on May 23, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/9264) over 1 week, 596 additions and 105 deletions in 14 files</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Marvin Willms](https://github.com/marvin-kolja)** &mdash; [video_player_android] Fix incorrect dimensions swap
   <sub>[#9199](https://github.com/flutter/packages/pull/9199) merged on May 19, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9199) over 2 weeks, 31 additions and 38 deletions in 5 files</sub>
