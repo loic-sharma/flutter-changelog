@@ -99,21 +99,9 @@
   <sub>[#169172](https://github.com/flutter/flutter/pull/169172) merged on May 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169172) over 1 day, 88 additions and 181 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] Fix an edge case of RoundSuperellipseParam::Contains with sharp corners<br />
-  <sub>[#167977](https://github.com/flutter/flutter/pull/167977) merged on May 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167977) over 3 weeks, 62 additions and 16 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
-  <sub>[#169198](https://github.com/flutter/flutter/pull/169198) merged on May 22, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/169198) over 1 day, 210 additions and 213 deletions in 65 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactor the usage of `MediaQuery.sizeOf(context).height` to use the new `.heightOf(context)`<br />
-  <sub>[#168894](https://github.com/flutter/flutter/pull/168894) merged on May 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168894) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tool] Remove unused environment flags in JS compiler<br />
-  <sub>[#169097](https://github.com/flutter/flutter/pull/169097) merged on May 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169097) over 23 hours, 1 addition and 39 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes tab semantics gets dropped if the child produce a semantics node<br />
+  <sub>[#169233](https://github.com/flutter/flutter/pull/169233) merged on May 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169233) over 1 day, 40 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update ButtonStyle documentation<br />
   <sub>[#168062](https://github.com/flutter/flutter/pull/168062) merged on May 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168062) over 3 weeks, 15 additions and 1 deletion in 1 file</sub><br />
@@ -127,13 +115,25 @@
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165273) over 2 months, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages<br />
+  <sub>[#169198](https://github.com/flutter/flutter/pull/169198) merged on May 22, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/169198) over 1 day, 210 additions and 213 deletions in 65 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] Fix an edge case of RoundSuperellipseParam::Contains with sharp corners<br />
+  <sub>[#167977](https://github.com/flutter/flutter/pull/167977) merged on May 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167977) over 3 weeks, 62 additions and 16 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tool] Remove unused environment flags in JS compiler<br />
+  <sub>[#169097](https://github.com/flutter/flutter/pull/169097) merged on May 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169097) over 23 hours, 1 addition and 39 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes<br />
   <sub>[#168031](https://github.com/flutter/flutter/pull/168031) merged on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168031) over 2 weeks, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes tab semantics gets dropped if the child produce a semantics node<br />
-  <sub>[#169233](https://github.com/flutter/flutter/pull/169233) merged on May 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169233) over 1 day, 40 additions and 2 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactor the usage of `MediaQuery.sizeOf(context).height` to use the new `.heightOf(context)`<br />
+  <sub>[#168894](https://github.com/flutter/flutter/pull/168894) merged on May 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168894) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland2] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine<br />
   <sub>[#169276](https://github.com/flutter/flutter/pull/169276) merged on May 23, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/169276) over 8 hours, 505 additions and 112 deletions in 25 files</sub><br />
