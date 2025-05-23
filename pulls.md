@@ -116,6 +116,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Mark web_tool_tests_1_2 as bringup."<br />
   <sub>[#169361](https://github.com/flutter/flutter/pull/169361) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169361) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fixes tab semantics gets dropped if the child produce a semantics node<br />
-  <sub>[#169362](https://github.com/flutter/flutter/pull/169362) opened on on May 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169362) 40 additions and 2 deletions in 4 files</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a page describing best CI practices for `flutter`-org repos<br />
+  <sub>[#169364](https://github.com/flutter/flutter/pull/169364) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169364) 175 additions and 0 deletions in 1 file</sub><br />
 
