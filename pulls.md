@@ -15,7 +15,7 @@
   <sub>[#164578](https://github.com/flutter/flutter/pull/164578) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164578) 28 additions and 1 deletion in 4 files</sub><br />
 
 * **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL<br />
-  <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164720) 40 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164720) 40 additions and 11 deletions in 2 files</sub><br />
 
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
   <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
@@ -112,4 +112,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove handling of the legacy `.flutter-plugins` file in `PluginHandler.kt`.<br />
   <sub>[#169317](https://github.com/flutter/flutter/pull/169317) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169317) 0 additions and 192 deletions in 2 files</sub><br />
+
+* **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Allow `Navigator.popUntil` to return a value<br />
+  <sub>[#169341](https://github.com/flutter/flutter/pull/169341) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169341) 98 additions and 5 deletions in 2 files</sub><br />
 
