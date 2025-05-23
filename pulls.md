@@ -110,3 +110,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stop using `isExplicitPackageDeps*` to guard Darwin devDependencies.<br />
   <sub>[#169310](https://github.com/flutter/flutter/pull/169310) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169310) 3 additions and 20 deletions in 3 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove handling of the legacy `.flutter-plugins` file in `PluginHandler.kt`.<br />
+  <sub>[#169317](https://github.com/flutter/flutter/pull/169317) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169317) 0 additions and 192 deletions in 2 files</sub><br />
+
