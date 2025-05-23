@@ -59,6 +59,10 @@
   <sub>[#168546](https://github.com/flutter/flutter/pull/168546) merged on May 20, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/168546) over 1 week, 43 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [Kishan Rathore](https://github.com/rkishan516), [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove patching of `package_config.json` from Flutter Pub wrapper.
+  <sub>[#169306](https://github.com/flutter/flutter/pull/169306) merged on May 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169306) over 7 hours, 25 additions and 184 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix crash on two finger selection gesture
   <sub>[#168598](https://github.com/flutter/flutter/pull/168598) merged on May 22, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/168598) over 1 week, 1174 additions and 57 deletions in 8 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
@@ -75,61 +79,57 @@
   <sub>[#168914](https://github.com/flutter/flutter/pull/168914) merged on May 21, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/168914) over 6 days, 396 additions and 36 deletions in 20 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `isExplicitPackageDependenciesEnabled: true`, it is the default.
-  <sub>[#169156](https://github.com/flutter/flutter/pull/169156) merged on May 21, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169156) over 8 hours, 230 additions and 550 deletions in 21 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable gl ext render to texture on vivante.
+  <sub>[#169153](https://github.com/flutter/flutter/pull/169153) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169153) over 22 hours, 24 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update tool-internal `generateLocalizations...()` to never use synthetic (`flutter_gen`) packages
   <sub>[#169285](https://github.com/flutter/flutter/pull/169285) merged on May 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169285) over 1 hour, 236 additions and 382 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable gl ext render to texture on vivante.
-  <sub>[#169153](https://github.com/flutter/flutter/pull/169153) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169153) over 22 hours, 24 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `isExplicitPackageDependenciesEnabled: true`, it is the default.
+  <sub>[#169156](https://github.com/flutter/flutter/pull/169156) merged on May 21, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169156) over 8 hours, 230 additions and 550 deletions in 21 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Replace goldens in test/cupertino/nav_bar_transition_test.dart
   <sub>[#169172](https://github.com/flutter/flutter/pull/169172) merged on May 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169172) over 1 day, 88 additions and 181 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update ButtonStyle documentation
-  <sub>[#168062](https://github.com/flutter/flutter/pull/168062) merged on May 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168062) over 3 weeks, 15 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes tab semantics gets dropped if the child produce a semantics node
-  <sub>[#169233](https://github.com/flutter/flutter/pull/169233) merged on May 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169233) over 1 day, 40 additions and 2 deletions in 4 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Hannah Jin](https://github.com/hannah-hyj)</sub>
-
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Removed repeated entry in `CHANGELOG.md`
   <sub>[#165273](https://github.com/flutter/flutter/pull/165273) merged on May 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/165273) over 2 months, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes
-  <sub>[#168031](https://github.com/flutter/flutter/pull/168031) merged on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168031) over 2 weeks, 4 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages
-  <sub>[#169198](https://github.com/flutter/flutter/pull/169198) merged on May 22, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/169198) over 1 day, 210 additions and 213 deletions in 65 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] Fix an edge case of RoundSuperellipseParam::Contains with sharp corners
   <sub>[#167977](https://github.com/flutter/flutter/pull/167977) merged on May 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/167977) over 3 weeks, 62 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Respect `calendarDelegate` in `showDateRangePicker`
-  <sub>[#168290](https://github.com/flutter/flutter/pull/168290) merged on May 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168290) over 2 weeks, 46 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tool] Remove unused environment flags in JS compiler
   <sub>[#169097](https://github.com/flutter/flutter/pull/169097) merged on May 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169097) over 23 hours, 1 addition and 39 deletions in 3 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin test/test_core/test_api packages
+  <sub>[#169198](https://github.com/flutter/flutter/pull/169198) merged on May 22, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/169198) over 1 day, 210 additions and 213 deletions in 65 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes tab semantics gets dropped if the child produce a semantics node
+  <sub>[#169233](https://github.com/flutter/flutter/pull/169233) merged on May 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169233) over 1 day, 40 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Sirui Qu](https://github.com/stuuupidcat)** &mdash; Update documentation for `Size` and `Rect` classes
+  <sub>[#168031](https://github.com/flutter/flutter/pull/168031) merged on May 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168031) over 2 weeks, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update ButtonStyle documentation
+  <sub>[#168062](https://github.com/flutter/flutter/pull/168062) merged on May 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168062) over 3 weeks, 15 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Respect `calendarDelegate` in `showDateRangePicker`
+  <sub>[#168290](https://github.com/flutter/flutter/pull/168290) merged on May 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168290) over 2 weeks, 46 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland2] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine
   <sub>[#169276](https://github.com/flutter/flutter/pull/169276) merged on May 23, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/169276) over 8 hours, 505 additions and 112 deletions in 25 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove patching of `package_config.json` from Flutter Pub wrapper.
-  <sub>[#169306](https://github.com/flutter/flutter/pull/169306) merged on May 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169306) over 7 hours, 25 additions and 184 deletions in 2 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Disable the ability to opt-out of `explicit-package-dependencies`.
   <sub>[#169283](https://github.com/flutter/flutter/pull/169283) merged on May 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169283) over 4 hours, 6 additions and 181 deletions in 11 files</sub>
