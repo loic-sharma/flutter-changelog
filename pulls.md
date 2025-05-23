@@ -117,7 +117,7 @@
   <sub>[#169361](https://github.com/flutter/flutter/pull/169361) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169361) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a page describing best CI practices for `flutter`-org repos<br />
-  <sub>[#169364](https://github.com/flutter/flutter/pull/169364) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169364) 175 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#169364](https://github.com/flutter/flutter/pull/169364) opened on on May 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169364) 175 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; use Material widget for improved ink effects<br />
   <sub>[#169368](https://github.com/flutter/flutter/pull/169368) opened on on May 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169368) 9 additions and 6 deletions in 1 file</sub><br />
