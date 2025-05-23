@@ -809,7 +809,7 @@
 
 ### May 17, 2025 to May 23, 2025
 
-14 commits.
+15 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds support to respond to recoverable SSL certificate errors
   <sub>[#9150](https://github.com/flutter/packages/pull/9150) merged on May 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9150) over 3 weeks, 166 additions and 12 deletions in 9 files</sub>
@@ -818,6 +818,10 @@
 * **[Marvin Willms](https://github.com/marvin-kolja)** &mdash; [video_player_android] Fix incorrect dimensions swap
   <sub>[#9199](https://github.com/flutter/packages/pull/9199) merged on May 19, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9199) over 2 weeks, 31 additions and 38 deletions in 5 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update repo for 3.32 stable
+  <sub>[#9311](https://github.com/flutter/packages/pull/9311) merged on May 23, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/9311) over 10 hours, 443 additions and 428 deletions in 274 files</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Correct pigeon configuration output paths
   <sub>[#9313](https://github.com/flutter/packages/pull/9313) merged on May 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9313) over 42 minutes, 2 additions and 2 deletions in 1 file</sub>
