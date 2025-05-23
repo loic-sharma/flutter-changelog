@@ -439,7 +439,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Mark web_tool_tests_1_2 as bringup.<br />
-  <sub>[#168871](https://github.com/flutter/flutter/pull/168871) merged on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168871) over 1 minute, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#168871](https://github.com/flutter/flutter/pull/168871) merged on May 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168871) over 1 minute, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Support using public API in Swift<br />
