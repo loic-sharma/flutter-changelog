@@ -110,3 +110,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightness export from widgets.dart<br />
   <sub>[#169410](https://github.com/flutter/flutter/pull/169410) opened on on May 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169410) 1 addition and 6 deletions in 4 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`<br />
+  <sub>[#169415](https://github.com/flutter/flutter/pull/169415) opened on on May 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169415) 257 additions and 5 deletions in 2 files</sub><br />
+
