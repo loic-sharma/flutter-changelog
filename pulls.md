@@ -113,6 +113,9 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`<br />
   <sub>[#169415](https://github.com/flutter/flutter/pull/169415) opened on on May 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169415) 257 additions and 5 deletions in 2 files</sub><br />
 
+* **[Juergen Werner](https://github.com/pogojotz)** &mdash; NavigationRail: optionally scrollable and more configurable<br />
+  <sub>[#169421](https://github.com/flutter/flutter/pull/169421) opened on on May 24, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169421) 307 additions and 90 deletions in 3 files</sub><br />
+
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix[widget_inspector]: Widget Inspector Directionality & Move button tooltip.<br />
   <sub>[#169425](https://github.com/flutter/flutter/pull/169425) opened on on May 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169425) 94 additions and 73 deletions in 2 files</sub><br />
 
