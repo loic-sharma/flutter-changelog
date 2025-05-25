@@ -358,7 +358,7 @@
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Normalize BottomAppBarTheme<br />
-  <sub>[#168586](https://github.com/flutter/flutter/pull/168586) merged on May 14, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/168586) over 5 days, 400 additions and 80 deletions in 9 files</sub><br />
+  <sub>[#168586](https://github.com/flutter/flutter/pull/168586) merged on May 14, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/168586) over 5 days, 400 additions and 80 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: port ResizeSynchronizer to Swift<br />
