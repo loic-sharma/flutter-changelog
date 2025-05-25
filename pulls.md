@@ -113,3 +113,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`<br />
   <sub>[#169415](https://github.com/flutter/flutter/pull/169415) opened on on May 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169415) 257 additions and 5 deletions in 2 files</sub><br />
 
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix[widget_inspector]: Widget Inspector Directionality & move button …<br />
+  <sub>[#169425](https://github.com/flutter/flutter/pull/169425) opened on on May 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169425) 8 additions and 4 deletions in 1 file</sub><br />
+
