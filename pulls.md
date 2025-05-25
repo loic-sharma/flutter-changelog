@@ -117,5 +117,5 @@
   <sub>[#169425](https://github.com/flutter/flutter/pull/169425) opened on on May 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169425) 94 additions and 73 deletions in 2 files</sub><br />
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Fixed an issue about scrolling re-competition<br />
-  <sub>[#169430](https://github.com/flutter/flutter/pull/169430) opened on on May 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169430) 112 additions and 2 deletions in 7 files</sub><br />
+  <sub>[#169430](https://github.com/flutter/flutter/pull/169430) opened on on May 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169430) 114 additions and 2 deletions in 7 files</sub><br />
 
