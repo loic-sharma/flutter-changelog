@@ -608,9 +608,18 @@
 
 ## flutter/packages
 
+### May 24, 2025 to May 30, 2025
+
+1 commits.
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [video_player_android] Add note about Android platform views known issue
+  <sub>[#9312](https://github.com/flutter/packages/pull/9312) merged on May 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9312) over 2 days, 10 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 ### May 17, 2025 to May 23, 2025
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Raju Muliyashiya](https://github.com/raju-muliyashiya)** &mdash; [video_player_android] isBuffering flag always return true after calling seekTo method - fixed
   <sub>[#9198](https://github.com/flutter/packages/pull/9198) merged on May 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9198) over 2 weeks, 22 additions and 5 deletions in 4 files</sub>
@@ -687,6 +696,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from c23637390482 to be698c48a675 (1274 revisions)
   <sub>[#9300](https://github.com/flutter/packages/pull/9300) merged on May 22, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9300) over 1 day, 4 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### May 10, 2025 to May 16, 2025
 
