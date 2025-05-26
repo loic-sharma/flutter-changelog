@@ -128,3 +128,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manually update vector_math package<br />
   <sub>[#169476](https://github.com/flutter/flutter/pull/169476) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169476) 118 additions and 118 deletions in 59 files</sub><br />
 
+* **[Stan](https://github.com/stan-at-work)** &mdash; Allow Passing an AnimationController to (Circular & Linear) ProgressIndicator<br />
+  <sub>[#169480](https://github.com/flutter/flutter/pull/169480) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169480) 225 additions and 19 deletions in 3 files</sub><br />
+
