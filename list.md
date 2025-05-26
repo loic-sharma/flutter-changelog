@@ -7,7 +7,7 @@
 2 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Add workspace
-  <sub>[#169451](https://github.com/flutter/flutter/pull/169451) merged on May 26, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/169451) over 4 hours, 3837 additions and 5322 deletions in 103 files</sub>
+  <sub>[#169451](https://github.com/flutter/flutter/pull/169451) merged on May 26, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/169451) over 4 hours, 3837 additions and 5322 deletions in 103 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Fix wrong path in 'archives' for release mode iOS DDM artifacts.
@@ -676,6 +676,10 @@
   <sub>[#9281](https://github.com/flutter/packages/pull/9281) merged on May 19, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9281) over 11 hours, 6829 additions and 1942 deletions in 48 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera,video_player] replace onSurfaceDestroyed with onSurfaceCleanup
+  <sub>[#9316](https://github.com/flutter/packages/pull/9316) merged on May 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9316) over 1 hour, 61 additions and 200 deletions in 15 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Ensure Example Packages Work on Android API 36
   <sub>[#9241](https://github.com/flutter/packages/pull/9241) merged on May 22, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/9241) over 1 week, 179 additions and 106 deletions in 114 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
@@ -691,10 +695,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Swap out `BroadcastReceiver` for `OrientationEventListener`
   <sub>[#9261](https://github.com/flutter/packages/pull/9261) merged on May 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9261) over 3 days, 75 additions and 39 deletions in 4 files</sub>
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera,video_player] replace onSurfaceDestroyed with onSurfaceCleanup
-  <sub>[#9316](https://github.com/flutter/packages/pull/9316) merged on May 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9316) over 1 hour, 61 additions and 200 deletions in 15 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; [google_maps_flutter] Removes unnecessary parentheses
   <sub>[#9273](https://github.com/flutter/packages/pull/9273) merged on May 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9273) over 5 days, 1 addition and 1 deletion in 1 file</sub>
