@@ -128,3 +128,6 @@
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Respect user-data-dir flag from web-browser-flag<br />
   <sub>[#169445](https://github.com/flutter/flutter/pull/169445) opened on on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169445) 30 additions and 3 deletions in 1 file</sub><br />
 
+* **[Moritz](https://github.com/mosuem)** &mdash; Add workspace<br />
+  <sub>[#169451](https://github.com/flutter/flutter/pull/169451) opened on on May 26, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169451) 3837 additions and 5322 deletions in 103 files</sub><br />
+
