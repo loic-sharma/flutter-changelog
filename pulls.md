@@ -125,3 +125,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Normalize generated file paths for the l10n generator<br />
   <sub>[#169467](https://github.com/flutter/flutter/pull/169467) opened on on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169467) 107 additions and 16 deletions in 7 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manually update vector_math package<br />
+  <sub>[#169476](https://github.com/flutter/flutter/pull/169476) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169476) 118 additions and 118 deletions in 59 files</sub><br />
+
