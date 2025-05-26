@@ -128,3 +128,6 @@
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Respect user-data-dir flag from web-browser-flag<br />
   <sub>[#169445](https://github.com/flutter/flutter/pull/169445) opened on on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169445) 30 additions and 3 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll `package:dds` to 5.0.2<br />
+  <sub>[#169471](https://github.com/flutter/flutter/pull/169471) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169471) 2 additions and 2 deletions in 1 file</sub><br />
+
