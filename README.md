@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-6 commits.
+7 commits.
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Fix warning when building for macOS desktop<br />
   <sub>[#165996](https://github.com/flutter/flutter/pull/165996) merged on May 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165996) over 2 months, 121 additions and 3 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `/coverage/` to `.gitignore.tmp`<br />
+  <sub>[#169387](https://github.com/flutter/flutter/pull/169387) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169387) over 2 days, 7 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make test output with encoded `dart-defines=...` human readable.<br />
   <sub>[#169353](https://github.com/flutter/flutter/pull/169353) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169353) over 3 days, 107 additions and 11 deletions in 7 files</sub><br />
