@@ -4,12 +4,16 @@
 
 ### May 24, 2025 to May 30, 2025
 
-7 commits.
+8 commits.
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Fix warning when building for macOS desktop
   <sub>[#165996](https://github.com/flutter/flutter/pull/165996) merged on May 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/165996) over 2 months, 121 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
   <sub><details><summary>6 images...</summary><img width="657" alt="image" src="https://github.com/user-attachments/assets/5207f2cc-2785-4bef-8eb0-e9a5a7431c91" /><img width="699" alt="image" src="https://github.com/user-attachments/assets/31f38373-adf9-4797-982d-782569be0681" /><img width="699" alt="image" src="https://github.com/user-attachments/assets/be1432f9-0668-44b9-b75e-ae4a56c0ff6e" /><img width="672" alt="image" src="https://github.com/user-attachments/assets/62f3b37b-8461-4274-b9be-53df22bec82d" /><img width="672" alt="image" src="https://github.com/user-attachments/assets/7c0489e7-0f7f-4498-b9d2-6d566722a05a" /><img width="672" alt="image" src="https://github.com/user-attachments/assets/d0a3e065-3ae7-4d53-beb5-d2a96aa01aea" /></details></sub>
+
+* **[munrocket](https://github.com/munrocket)** &mdash; Precise browser resizing with integration_test and driver
+  <sub>[#160678](https://github.com/flutter/flutter/pull/160678) merged on May 26, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/160678) over 5 months, 43 additions and 18 deletions in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Eaton Wu](https://github.com/EatonWu), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub>
