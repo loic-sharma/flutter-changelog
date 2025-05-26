@@ -122,9 +122,6 @@
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Respect user-data-dir flag from web-browser-flag<br />
   <sub>[#169445](https://github.com/flutter/flutter/pull/169445) opened on on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169445) 30 additions and 3 deletions in 1 file</sub><br />
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Normalize generated file paths for the l10n generator<br />
-  <sub>[#169467](https://github.com/flutter/flutter/pull/169467) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169467) 107 additions and 16 deletions in 7 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll `package:dds` to 5.0.2<br />
   <sub>[#169471](https://github.com/flutter/flutter/pull/169471) opened on on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169471) 18 additions and 14 deletions in 2 files</sub><br />
 
