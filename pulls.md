@@ -14,9 +14,6 @@
 * **[ניר](https://github.com/nrbnlulu)** &mdash; Expose-the-d3d11-device-used-by-flutter-engine<br />
   <sub>[#164578](https://github.com/flutter/flutter/pull/164578) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164578) 28 additions and 1 deletion in 4 files</sub><br />
 
-* **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL<br />
-  <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164720) 40 additions and 11 deletions in 2 files</sub><br />
-
 * **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
   <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
 
