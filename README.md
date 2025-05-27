@@ -20,7 +20,7 @@
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Eaton Wu](https://github.com/EatonWu), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Normalize generated file paths for the l10n generator<br />
-  <sub>[#169467](https://github.com/flutter/flutter/pull/169467) merged on May 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169467) over 9 hours, 107 additions and 16 deletions in 7 files</sub><br />
+  <sub>[#169467](https://github.com/flutter/flutter/pull/169467) merged on May 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169467) over 9 hours, 107 additions and 16 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
