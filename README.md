@@ -800,9 +800,18 @@
 
 ## flutter/website
 
+### May 24, 2025 to May 30, 2025
+
+1 commits.
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Update windows.md<br />
+  <sub>[#12073](https://github.com/flutter/website/pull/12073) merged on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12073) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### May 17, 2025 to May 23, 2025
 
-18 commits.
+<details>
+<summary>18 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve styling for `kbd` element<br />
   <sub>[#12028](https://github.com/flutter/website/pull/12028) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12028) over 12 hours, 10 additions and 3 deletions in 1 file</sub><br />
@@ -876,6 +885,8 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Move site switcher to icon button<br />
   <sub>[#12030](https://github.com/flutter/website/pull/12030) merged on May 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12030) over 7 hours, 115 additions and 141 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### May 10, 2025 to May 16, 2025
 
