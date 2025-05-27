@@ -123,7 +123,7 @@
   <sub>[#169445](https://github.com/flutter/flutter/pull/169445) opened on on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169445) 30 additions and 3 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manually update vector_math package<br />
-  <sub>[#169476](https://github.com/flutter/flutter/pull/169476) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169476) 120 additions and 120 deletions in 60 files</sub><br />
+  <sub>[#169476](https://github.com/flutter/flutter/pull/169476) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169476) 122 additions and 122 deletions in 61 files</sub><br />
 
 * **[Stan](https://github.com/stan-at-work)** &mdash; Allow Passing an AnimationController to (Circular & Linear) ProgressIndicator<br />
   <sub>[#169480](https://github.com/flutter/flutter/pull/169480) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169480) 225 additions and 19 deletions in 3 files</sub><br />
