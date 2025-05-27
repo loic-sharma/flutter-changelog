@@ -122,12 +122,15 @@
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Respect user-data-dir flag from web-browser-flag<br />
   <sub>[#169445](https://github.com/flutter/flutter/pull/169445) opened on on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169445) 30 additions and 3 deletions in 1 file</sub><br />
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Normalize generated file paths for the l10n generator<br />
-  <sub>[#169467](https://github.com/flutter/flutter/pull/169467) opened on on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169467) 107 additions and 16 deletions in 7 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manually update vector_math package<br />
   <sub>[#169476](https://github.com/flutter/flutter/pull/169476) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169476) 118 additions and 118 deletions in 59 files</sub><br />
 
 * **[Stan](https://github.com/stan-at-work)** &mdash; Allow Passing an AnimationController to (Circular & Linear) ProgressIndicator<br />
   <sub>[#169480](https://github.com/flutter/flutter/pull/169480) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169480) 225 additions and 19 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Use `.flutter-plugins-dependencies` for crash reporting.<br />
+  <sub>[#169483](https://github.com/flutter/flutter/pull/169483) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169483) 80 additions and 20 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Use `.flutter-plugins-dependencies` for crash reporting.<br />
+  <sub>[#169484](https://github.com/flutter/flutter/pull/169484) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169484) 80 additions and 20 deletions in 2 files</sub><br />
 

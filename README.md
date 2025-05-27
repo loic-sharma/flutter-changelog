@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-12 commits.
+13 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets<br />
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub><br />
@@ -18,6 +18,10 @@
 * **[munrocket](https://github.com/munrocket)** &mdash; Precise browser resizing with integration_test and driver<br />
   <sub>[#160678](https://github.com/flutter/flutter/pull/160678) merged on May 26, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/160678) over 5 months, 43 additions and 18 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Eaton Wu](https://github.com/EatonWu), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Normalize generated file paths for the l10n generator<br />
+  <sub>[#169467](https://github.com/flutter/flutter/pull/169467) merged on May 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169467) over 9 hours, 107 additions and 16 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub><br />
