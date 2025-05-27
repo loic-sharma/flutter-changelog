@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-14 commits.
+15 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets<br />
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub><br />
@@ -15,13 +15,13 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
   <sub><details><summary>6 images...</summary><img width="657" alt="image" src="https://github.com/user-attachments/assets/5207f2cc-2785-4bef-8eb0-e9a5a7431c91" /><img width="699" alt="image" src="https://github.com/user-attachments/assets/31f38373-adf9-4797-982d-782569be0681" /><img width="699" alt="image" src="https://github.com/user-attachments/assets/be1432f9-0668-44b9-b75e-ae4a56c0ff6e" /><img width="672" alt="image" src="https://github.com/user-attachments/assets/62f3b37b-8461-4274-b9be-53df22bec82d" /><img width="672" alt="image" src="https://github.com/user-attachments/assets/7c0489e7-0f7f-4498-b9d2-6d566722a05a" /><img width="672" alt="image" src="https://github.com/user-attachments/assets/d0a3e065-3ae7-4d53-beb5-d2a96aa01aea" /></details></sub>
 
-* **[munrocket](https://github.com/munrocket)** &mdash; Precise browser resizing with integration_test and driver<br />
-  <sub>[#160678](https://github.com/flutter/flutter/pull/160678) merged on May 26, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/160678) over 5 months, 43 additions and 18 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Eaton Wu](https://github.com/EatonWu), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Normalize generated file paths for the l10n generator<br />
   <sub>[#169467](https://github.com/flutter/flutter/pull/169467) merged on May 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169467) over 9 hours, 107 additions and 16 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[munrocket](https://github.com/munrocket)** &mdash; Precise browser resizing with integration_test and driver<br />
+  <sub>[#160678](https://github.com/flutter/flutter/pull/160678) merged on May 26, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/160678) over 5 months, 43 additions and 18 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Eaton Wu](https://github.com/EatonWu), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub><br />
@@ -58,6 +58,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use at most `PROC~/2` tasks to transform assets.<br />
   <sub>[#169386](https://github.com/flutter/flutter/pull/169386) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169386) over 2 days, 113 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Set pause_isolates_on_start flag if --start-paused<br />
+  <sub>[#169392](https://github.com/flutter/flutter/pull/169392) merged on May 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169392) over 3 days, 39 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
 
 * **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Fix wrong path in 'archives' for release mode iOS DDM artifacts.<br />
   <sub>[#169448](https://github.com/flutter/flutter/pull/169448) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169448) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
