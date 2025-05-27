@@ -92,6 +92,9 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add currentIndex to CarouselController and onItemChanged to CarouselView<br />
   <sub>[#169271](https://github.com/flutter/flutter/pull/169271) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169271) 134 additions and 2 deletions in 2 files</sub><br />
 
+* **[jcheng](https://github.com/StanleyCocos)** &mdash; fix: DialogTheme is missing the constraints property.<br />
+  <sub>[#169327](https://github.com/flutter/flutter/pull/169327) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169327) 177 additions and 73 deletions in 2 files</sub><br />
+
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; use Material widget for improved ink effects<br />
   <sub>[#169368](https://github.com/flutter/flutter/pull/169368) opened on on May 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169368) 9 additions and 6 deletions in 1 file</sub><br />
 
