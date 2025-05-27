@@ -101,6 +101,9 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics r2<br />
   <sub>[#169382](https://github.com/flutter/flutter/pull/169382) opened on on May 23, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169382) 58 additions and 714 deletions in 29 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Introduced FlutterPluginRegistrant protocol.<br />
+  <sub>[#169399](https://github.com/flutter/flutter/pull/169399) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169399) 120 additions and 3 deletions in 8 files</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate arc operations<br />
   <sub>[#169402](https://github.com/flutter/flutter/pull/169402) opened on on May 24, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/169402) 1242 additions and 26 deletions in 12 files</sub><br />
 
