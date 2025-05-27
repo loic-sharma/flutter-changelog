@@ -99,7 +99,7 @@
   <sub>[#169368](https://github.com/flutter/flutter/pull/169368) opened on on May 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169368) 9 additions and 6 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics r2<br />
-  <sub>[#169382](https://github.com/flutter/flutter/pull/169382) opened on on May 23, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169382) 58 additions and 714 deletions in 29 files</sub><br />
+  <sub>[#169382](https://github.com/flutter/flutter/pull/169382) opened on on May 23, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/169382) 58 additions and 714 deletions in 29 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate arc operations<br />
   <sub>[#169402](https://github.com/flutter/flutter/pull/169402) opened on on May 24, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/169402) 1242 additions and 26 deletions in 12 files</sub><br />
@@ -145,4 +145,7 @@
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Re-enable SelectableRegion web tests<br />
   <sub>[#169541](https://github.com/flutter/flutter/pull/169541) opened on on May 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169541) 87 additions and 8 deletions in 2 files</sub><br />
+
+* **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
+  <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
