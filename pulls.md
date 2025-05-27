@@ -144,5 +144,5 @@
   <sub>[#169534](https://github.com/flutter/flutter/pull/169534) opened on on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169534) 11 additions and 6 deletions in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Re-enable SelectableRegion web tests<br />
-  <sub>[#169541](https://github.com/flutter/flutter/pull/169541) opened on on May 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169541) 5 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#169541](https://github.com/flutter/flutter/pull/169541) opened on on May 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169541) 87 additions and 8 deletions in 2 files</sub><br />
 
