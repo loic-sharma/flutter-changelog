@@ -54,7 +54,7 @@
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
 * **[Stefan Humm](https://github.com/Fintasys)** &mdash; Add `.separated` constructor to `ReorderableListView`<br />
-  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/168834) 388 additions and 22 deletions in 4 files</sub><br />
+  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/168834) 388 additions and 22 deletions in 4 files</sub><br />
 
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
   <sub>[#168909](https://github.com/flutter/flutter/pull/168909) opened on on May 15, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/168909) 1908 additions and 1918 deletions in 501 files</sub><br />
@@ -130,4 +130,7 @@
 
 * **[Stan](https://github.com/stan-at-work)** &mdash; Allow Passing an AnimationController to (Circular & Linear) ProgressIndicator<br />
   <sub>[#169480](https://github.com/flutter/flutter/pull/169480) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169480) 225 additions and 19 deletions in 3 files</sub><br />
+
+* **[Le Trung Do](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
+  <sub>[#169494](https://github.com/flutter/flutter/pull/169494) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169494) 18 additions and 25 deletions in 1 file</sub><br />
 
