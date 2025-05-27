@@ -670,7 +670,11 @@
 
 ### May 24, 2025 to May 30, 2025
 
-1 commits.
+2 commits.
+
+* **[Benjamin Price](https://github.com/BenjaminPrice)** &mdash; [flutter_lints] Bump lints dependency to 6.0.0 and bump package to 6.0.0
+  <sub>[#9108](https://github.com/flutter/packages/pull/9108) merged on May 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9108) over 1 month, 8 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [video_player_android] Add note about Android platform views known issue
   <sub>[#9312](https://github.com/flutter/packages/pull/9312) merged on May 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9312) over 2 days, 10 additions and 1 deletion in 3 files</sub>
