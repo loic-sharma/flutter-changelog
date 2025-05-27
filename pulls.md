@@ -143,6 +143,3 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Use the system loader instead of Dart_LoadELF_Fd.<br />
   <sub>[#169534](https://github.com/flutter/flutter/pull/169534) opened on on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169534) 11 additions and 6 deletions in 2 files</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; unskip text_painter_rtl_test on web<br />
-  <sub>[#169537](https://github.com/flutter/flutter/pull/169537) opened on on May 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169537) 1 addition and 1 deletion in 1 file</sub><br />
-
