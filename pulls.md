@@ -54,7 +54,7 @@
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
 * **[Stefan Humm](https://github.com/Fintasys)** &mdash; Add `.separated` constructor to `ReorderableListView`<br />
-  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/168834) 386 additions and 10 deletions in 5 files</sub><br />
+  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/168834) 386 additions and 10 deletions in 5 files</sub><br />
 
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
   <sub>[#168909](https://github.com/flutter/flutter/pull/168909) opened on on May 15, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/168909) 1908 additions and 1918 deletions in 501 files</sub><br />
@@ -142,4 +142,7 @@
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Use the system loader instead of Dart_LoadELF_Fd.<br />
   <sub>[#169534](https://github.com/flutter/flutter/pull/169534) opened on on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169534) 11 additions and 6 deletions in 2 files</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; unskip text_painter_rtl_test on web<br />
+  <sub>[#169537](https://github.com/flutter/flutter/pull/169537) opened on on May 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169537) 1 addition and 1 deletion in 1 file</sub><br />
 
