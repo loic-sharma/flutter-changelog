@@ -137,3 +137,9 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce some CI timeouts<br />
   <sub>[#169512](https://github.com/flutter/flutter/pull/169512) opened on on May 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169512) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Layout Widgets for Dynamic UI Support<br />
+  <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Roll `package:dds` to 5.0.2 (#169471)<br />
+  <sub>[#169515](https://github.com/flutter/flutter/pull/169515) opened on on May 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/169515) 2328 additions and 963 deletions in 88 files</sub><br />
+
