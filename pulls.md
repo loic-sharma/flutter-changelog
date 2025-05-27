@@ -131,6 +131,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Use `.flutter-plugins-dependencies` for crash reporting.<br />
   <sub>[#169483](https://github.com/flutter/flutter/pull/169483) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169483) 80 additions and 20 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Use `.flutter-plugins-dependencies` for crash reporting.<br />
-  <sub>[#169484](https://github.com/flutter/flutter/pull/169484) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169484) 80 additions and 20 deletions in 2 files</sub><br />
-
