@@ -802,10 +802,14 @@
 
 ### May 24, 2025 to May 30, 2025
 
-4 commits.
+5 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update windows.md<br />
   <sub>[#12073](https://github.com/flutter/website/pull/12073) merged on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12073) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Update index.md<br />
+  <sub>[#12077](https://github.com/flutter/website/pull/12077) merged on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12077) over 45 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add two `flutter.dev/to/...` links for our docs-wiki.<br />
