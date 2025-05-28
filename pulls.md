@@ -132,7 +132,7 @@
   <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Use the system loader instead of Dart_LoadELF_Fd.<br />
-  <sub>[#169534](https://github.com/flutter/flutter/pull/169534) opened on on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169534) 11 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#169534](https://github.com/flutter/flutter/pull/169534) opened on on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169534) 26 additions and 7 deletions in 2 files</sub><br />
 
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
@@ -163,4 +163,10 @@
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Support AOT unit testing.<br />
   <sub>[#169629](https://github.com/flutter/flutter/pull/169629) opened on on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169629) 71 additions and 49 deletions in 6 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]🐛 Use consist slashes when generating dep files<br />
+  <sub>[#169630](https://github.com/flutter/flutter/pull/169630) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169630) 75 additions and 19 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]🐛 Use consist slashes when generating dep files<br />
+  <sub>[#169631](https://github.com/flutter/flutter/pull/169631) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169631) 75 additions and 19 deletions in 2 files</sub><br />
 
