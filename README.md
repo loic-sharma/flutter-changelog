@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-23 commits.
+24 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets<br />
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix unresponsive input above SelectionArea in Safari and Firefox.<br />
   <sub>[#167275](https://github.com/flutter/flutter/pull/167275) merged on May 27, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167275) over 1 month, 29 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Use consist slashes when generating dep files<br />
+  <sub>[#169570](https://github.com/flutter/flutter/pull/169570) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169570) over 6 hours, 75 additions and 19 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub><br />
