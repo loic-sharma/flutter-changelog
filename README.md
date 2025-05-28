@@ -698,7 +698,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-3 commits.
+4 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [file_selector_macos] Do not set nameFieldStringValue for NSOpenPanel<br />
   <sub>[#9324](https://github.com/flutter/packages/pull/9324) merged on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9324) over 2 hours, 14 additions and 4 deletions in 4 files</sub><br />
@@ -708,6 +708,10 @@
 * **[Benjamin Price](https://github.com/BenjaminPrice)** &mdash; [flutter_lints] Bump lints dependency to 6.0.0 and bump package to 6.0.0<br />
   <sub>[#9108](https://github.com/flutter/packages/pull/9108) merged on May 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9108) over 1 month, 8 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [webview_flutter_wkwebview] Fix `testNilRequest` test for macOS 15.5<br />
+  <sub>[#9330](https://github.com/flutter/packages/pull/9330) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9330) over 12 hours, 7 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [video_player_android] Add note about Android platform views known issue<br />
   <sub>[#9312](https://github.com/flutter/packages/pull/9312) merged on May 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9312) over 2 days, 10 additions and 1 deletion in 3 files</sub><br />
