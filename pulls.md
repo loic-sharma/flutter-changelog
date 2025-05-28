@@ -140,6 +140,9 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Use the system loader instead of Dart_LoadELF_Fd.<br />
   <sub>[#169534](https://github.com/flutter/flutter/pull/169534) opened on on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169534) 79 additions and 13 deletions in 5 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow tests to use macOS 15.5<br />
+  <sub>[#169536](https://github.com/flutter/flutter/pull/169536) opened on on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169536) 91 additions and 91 deletions in 9 files</sub><br />
+
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 

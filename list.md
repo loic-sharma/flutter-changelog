@@ -698,12 +698,16 @@
 
 ### May 24, 2025 to May 30, 2025
 
-4 commits.
+5 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [file_selector_macos] Do not set nameFieldStringValue for NSOpenPanel
   <sub>[#9324](https://github.com/flutter/packages/pull/9324) merged on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9324) over 2 hours, 14 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Chris Bracken](https://github.com/cbracken)</sub>
   <sub><details><summary>1 image...</summary>![Screenshot 2025-05-27 at 11 10 40 AM](https://github.com/user-attachments/assets/6af2016b-da93-482d-a5a2-5aeeac1abb47)</details></sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 3.5
+  <sub>[#9254](https://github.com/flutter/packages/pull/9254) merged on May 28, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/9254) over 1 week, 379 additions and 273 deletions in 38 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Benjamin Price](https://github.com/BenjaminPrice)** &mdash; [flutter_lints] Bump lints dependency to 6.0.0 and bump package to 6.0.0
   <sub>[#9108](https://github.com/flutter/packages/pull/9108) merged on May 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9108) over 1 month, 8 additions and 5 deletions in 2 files</sub>
