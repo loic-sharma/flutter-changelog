@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-18 commits.
+19 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub>
@@ -66,6 +66,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use at most `PROC~/2` tasks to transform assets.
   <sub>[#169386](https://github.com/flutter/flutter/pull/169386) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169386) over 2 days, 113 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Update DEPS to  add dart-lang/ai repo
+  <sub>[#169540](https://github.com/flutter/flutter/pull/169540) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169540) over 7 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; dev/bots: improve service worker test code
   <sub>[#169231](https://github.com/flutter/flutter/pull/169231) merged on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169231) over 6 days, 44 additions and 1 deletion in 1 file</sub>
