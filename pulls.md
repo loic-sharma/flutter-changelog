@@ -152,3 +152,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update dart revision (3.8.1) for 3.32.1 release<br />
   <sub>[#169601](https://github.com/flutter/flutter/pull/169601) opened on on May 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169601) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Fix clip behavior in Dismissible widget by adding a clipBehaviorOffset property<br />
+  <sub>[#169617](https://github.com/flutter/flutter/pull/169617) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169617) 18 additions and 4 deletions in 1 file</sub><br />
+
