@@ -170,3 +170,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]🐛 Use consist slashes when generating dep files<br />
   <sub>[#169631](https://github.com/flutter/flutter/pull/169631) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169631) 75 additions and 19 deletions in 2 files</sub><br />
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Check to see if previous page is laid out before starting hero flight<br />
+  <sub>[#169633](https://github.com/flutter/flutter/pull/169633) opened on on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169633) 117 additions and 7 deletions in 2 files</sub><br />
+
