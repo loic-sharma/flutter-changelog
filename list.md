@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-20 commits.
+21 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub>
@@ -58,6 +58,10 @@
 * **[Moritz](https://github.com/mosuem)** &mdash; Add workspace
   <sub>[#169451](https://github.com/flutter/flutter/pull/169451) merged on May 26, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/169451) over 4 hours, 3837 additions and 5322 deletions in 103 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Introduces FlutterPluginRegistrant protocol.
+  <sub>[#169399](https://github.com/flutter/flutter/pull/169399) merged on May 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169399) over 4 days, 120 additions and 3 deletions in 8 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Make Android team platform view TESTOWNERS
   <sub>[#169297](https://github.com/flutter/flutter/pull/169297) merged on May 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169297) over 5 days, 3 additions and 3 deletions in 1 file</sub>
