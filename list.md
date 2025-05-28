@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-19 commits.
+20 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub>
@@ -30,6 +30,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Initialize `default-flavor` in `FlutterCommand`, adds integration test.
+  <sub>[#169298](https://github.com/flutter/flutter/pull/169298) merged on May 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169298) over 5 days, 239 additions and 59 deletions in 6 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make test output with encoded `dart-defines=...` human readable.
   <sub>[#169353](https://github.com/flutter/flutter/pull/169353) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169353) over 3 days, 107 additions and 11 deletions in 7 files</sub>
