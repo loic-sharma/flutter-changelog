@@ -45,7 +45,7 @@
   <sub>[#168450](https://github.com/flutter/flutter/pull/168450) opened on on May 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168450) 62 additions and 58 deletions in 2 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
-  <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)<br />
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) opened on on May 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/168728) 2072 additions and 18 deletions in 27 files</sub><br />
@@ -144,10 +144,10 @@
   <sub>[#169583](https://github.com/flutter/flutter/pull/169583) opened on on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169583) 48 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Exclude `web-server` from `supportedWebDeviceIds`<br />
-  <sub>[#169590](https://github.com/flutter/flutter/pull/169590) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169590) 10 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#169590](https://github.com/flutter/flutter/pull/169590) opened on on May 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169590) 10 additions and 4 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update dart revision (3.8.1) for 3.32.1 release<br />
-  <sub>[#169601](https://github.com/flutter/flutter/pull/169601) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169601) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#169601](https://github.com/flutter/flutter/pull/169601) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169601) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix minify logic<br />
   <sub>[#169607](https://github.com/flutter/flutter/pull/169607) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169607) 1 addition and 1 deletion in 1 file</sub><br />
