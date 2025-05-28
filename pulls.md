@@ -89,6 +89,9 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add currentIndex to CarouselController and onItemChanged to CarouselView<br />
   <sub>[#169271](https://github.com/flutter/flutter/pull/169271) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169271) 134 additions and 2 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Make build_android_host_app_with_module_aar build using an aar<br />
+  <sub>[#169311](https://github.com/flutter/flutter/pull/169311) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169311) 60 additions and 5 deletions in 3 files</sub><br />
+
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; fix: DialogTheme is missing the constraints property.<br />
   <sub>[#169327](https://github.com/flutter/flutter/pull/169327) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169327) 177 additions and 73 deletions in 2 files</sub><br />
 
@@ -147,8 +150,5 @@
   <sub>[#169590](https://github.com/flutter/flutter/pull/169590) opened on on May 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169590) 10 additions and 4 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update dart revision (3.8.1) for 3.32.1 release<br />
-  <sub>[#169601](https://github.com/flutter/flutter/pull/169601) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169601) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix minify logic<br />
-  <sub>[#169607](https://github.com/flutter/flutter/pull/169607) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169607) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#169601](https://github.com/flutter/flutter/pull/169601) opened on on May 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169601) 1 addition and 1 deletion in 1 file</sub><br />
 
