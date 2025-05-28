@@ -32,7 +32,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Initialize `default-flavor` in `FlutterCommand`, adds integration test.
-  <sub>[#169298](https://github.com/flutter/flutter/pull/169298) merged on May 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169298) over 5 days, 239 additions and 59 deletions in 6 files</sub>
+  <sub>[#169298](https://github.com/flutter/flutter/pull/169298) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169298) over 5 days, 239 additions and 59 deletions in 6 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make test output with encoded `dart-defines=...` human readable.
