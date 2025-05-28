@@ -149,3 +149,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update dart revision (3.8.1) for 3.32.1 release<br />
   <sub>[#169601](https://github.com/flutter/flutter/pull/169601) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169601) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix minify logic<br />
+  <sub>[#169607](https://github.com/flutter/flutter/pull/169607) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169607) 1 addition and 1 deletion in 1 file</sub><br />
+
