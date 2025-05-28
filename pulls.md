@@ -155,9 +155,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Change lint ignore comment to use unawaited<br />
   <sub>[#169622](https://github.com/flutter/flutter/pull/169622) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169622) 11 additions and 10 deletions in 1 file</sub><br />
 
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [tests] Increase linux timeout and skip on others<br />
-  <sub>[#169627](https://github.com/flutter/flutter/pull/169627) opened on on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169627) 6 additions and 2 deletions in 6 files</sub><br />
-
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update didUnmountRenderObject text description<br />
   <sub>[#169628](https://github.com/flutter/flutter/pull/169628) opened on on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169628) 4 additions and 3 deletions in 1 file</sub><br />
 
