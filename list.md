@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-21 commits.
+23 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub>
@@ -74,6 +74,14 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use at most `PROC~/2` tasks to transform assets.
   <sub>[#169386](https://github.com/flutter/flutter/pull/169386) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169386) over 2 days, 113 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manually update vector_math package
+  <sub>[#169476](https://github.com/flutter/flutter/pull/169476) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169476) over 1 day, 122 additions and 122 deletions in 61 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow tests to use macOS 15.5
+  <sub>[#169536](https://github.com/flutter/flutter/pull/169536) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169536) over 19 hours, 91 additions and 91 deletions in 9 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Update DEPS to  add dart-lang/ai repo
   <sub>[#169540](https://github.com/flutter/flutter/pull/169540) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169540) over 7 hours, 4 additions and 0 deletions in 1 file</sub>

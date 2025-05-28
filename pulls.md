@@ -122,9 +122,6 @@
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Respect user-data-dir flag from web-browser-flag<br />
   <sub>[#169445](https://github.com/flutter/flutter/pull/169445) opened on on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169445) 30 additions and 3 deletions in 1 file</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manually update vector_math package<br />
-  <sub>[#169476](https://github.com/flutter/flutter/pull/169476) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169476) 122 additions and 122 deletions in 61 files</sub><br />
-
 * **[Stan](https://github.com/stan-at-work)** &mdash; Allow Passing an AnimationController to (Circular & Linear) ProgressIndicator<br />
   <sub>[#169480](https://github.com/flutter/flutter/pull/169480) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169480) 225 additions and 19 deletions in 3 files</sub><br />
 
@@ -140,9 +137,6 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Use the system loader instead of Dart_LoadELF_Fd.<br />
   <sub>[#169534](https://github.com/flutter/flutter/pull/169534) opened on on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169534) 79 additions and 13 deletions in 5 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow tests to use macOS 15.5<br />
-  <sub>[#169536](https://github.com/flutter/flutter/pull/169536) opened on on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169536) 91 additions and 91 deletions in 9 files</sub><br />
-
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
@@ -154,7 +148,4 @@
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Exclude `web-server` from `supportedWebDeviceIds`<br />
   <sub>[#169590](https://github.com/flutter/flutter/pull/169590) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169590) 10 additions and 4 deletions in 1 file</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update engine revision for version 3.33.0-0.2.pre<br />
-  <sub>[#169599](https://github.com/flutter/flutter/pull/169599) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169599) 1 addition and 1 deletion in 1 file</sub><br />
 
