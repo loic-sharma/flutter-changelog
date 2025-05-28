@@ -152,9 +152,3 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Change lint ignore comment to use unawaited<br />
   <sub>[#169622](https://github.com/flutter/flutter/pull/169622) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169622) 11 additions and 10 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Roll forward: "Initialize default-app-flavor" (#169298)<br />
-  <sub>[#169623](https://github.com/flutter/flutter/pull/169623) opened on on May 28, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/169623) 247 additions and 59 deletions in 6 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Roll forward: "Initialize default-app-flavor" (#169298)<br />
-  <sub>[#169624](https://github.com/flutter/flutter/pull/169624) opened on on May 28, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/169624) 247 additions and 59 deletions in 6 files</sub><br />
-
