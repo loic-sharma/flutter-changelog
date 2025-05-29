@@ -170,6 +170,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll customer_testing to 7f55026290e721fc648d3811664bbf3abca911d5<br />
   <sub>[#169671](https://github.com/flutter/flutter/pull/169671) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169671) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `engine.version` to `1425e5e9ec5eeb4f225c401d8db69b860e0fde9a`.<br />
-  <sub>[#169675](https://github.com/flutter/flutter/pull/169675) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169675) 1 addition and 1 deletion in 1 file</sub><br />
-
