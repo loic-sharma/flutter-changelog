@@ -162,7 +162,7 @@
   <sub>[#169662](https://github.com/flutter/flutter/pull/169662) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169662) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Trigger `CupertinoPicker` haptics in the middle of the item<br />
-  <sub>[#169670](https://github.com/flutter/flutter/pull/169670) opened on on May 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169670) 53 additions and 22 deletions in 2 files</sub><br />
+  <sub>[#169670](https://github.com/flutter/flutter/pull/169670) opened on on May 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169670) 53 additions and 22 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Point to previous commit for engine version for 3.33-0.2<br />
   <sub>[#169682](https://github.com/flutter/flutter/pull/169682) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169682) 1 addition and 1 deletion in 1 file</sub><br />
