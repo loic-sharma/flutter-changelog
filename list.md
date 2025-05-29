@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-36 commits.
+37 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub>
@@ -27,13 +27,13 @@
   <sub>[#167275](https://github.com/flutter/flutter/pull/167275) merged on May 27, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167275) over 1 month, 29 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Use consist slashes when generating dep files
-  <sub>[#169570](https://github.com/flutter/flutter/pull/169570) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169570) over 6 hours, 75 additions and 19 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Use consist slashes when generating dep files
+  <sub>[#169570](https://github.com/flutter/flutter/pull/169570) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169570) over 6 hours, 75 additions and 19 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Initialize `default-flavor` in `FlutterCommand`, adds integration test.
   <sub>[#169298](https://github.com/flutter/flutter/pull/169298) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169298) over 5 days, 239 additions and 59 deletions in 6 files</sub>
@@ -51,12 +51,12 @@
   <sub>[#169353](https://github.com/flutter/flutter/pull/169353) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169353) over 3 days, 107 additions and 11 deletions in 7 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `.flutter-plugins-dependencies` for crash reporting.
-  <sub>[#169319](https://github.com/flutter/flutter/pull/169319) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169319) over 3 days, 80 additions and 20 deletions in 2 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `/coverage/` to `.gitignore.tmp`
   <sub>[#169387](https://github.com/flutter/flutter/pull/169387) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169387) over 2 days, 7 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `.flutter-plugins-dependencies` for crash reporting.
+  <sub>[#169319](https://github.com/flutter/flutter/pull/169319) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169319) over 3 days, 80 additions and 20 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Split hint from label and expose it via aria-description or aria-describedby
@@ -103,13 +103,9 @@
   <sub>[#169386](https://github.com/flutter/flutter/pull/169386) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169386) over 2 days, 113 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce some CI timeouts
-  <sub>[#169512](https://github.com/flutter/flutter/pull/169512) merged on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169512) over 1 day, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix minify logic
-  <sub>[#169607](https://github.com/flutter/flutter/pull/169607) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169607) over 5 hours, 20 additions and 8 deletions in 3 files</sub>
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+* **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Fix wrong path in 'archives' for release mode iOS DDM artifacts.
+  <sub>[#169448](https://github.com/flutter/flutter/pull/169448) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169448) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jia Hao](https://github.com/jiahaog)</sub>
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add dynamic module loader to flutter wasm entrypoint script.
   <sub>[#169313](https://github.com/flutter/flutter/pull/169313) merged on May 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169313) over 5 days, 11 additions and 1 deletion in 1 file</sub>
@@ -147,9 +143,17 @@
   <sub>[#169668](https://github.com/flutter/flutter/pull/169668) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169668) over 58 minutes, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [darshankawar](https://github.com/darshankawar)</sub>
 
-* **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Fix wrong path in 'archives' for release mode iOS DDM artifacts.
-  <sub>[#169448](https://github.com/flutter/flutter/pull/169448) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169448) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Jia Hao](https://github.com/jiahaog)</sub>
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce some CI timeouts
+  <sub>[#169512](https://github.com/flutter/flutter/pull/169512) merged on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169512) over 1 day, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix minify logic
+  <sub>[#169607](https://github.com/flutter/flutter/pull/169607) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169607) over 5 hours, 20 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Make build_android_host_app_with_module_aar build using an aar
+  <sub>[#169311](https://github.com/flutter/flutter/pull/169311) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169311) over 6 days, 60 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 ### May 17, 2025 to May 23, 2025
 

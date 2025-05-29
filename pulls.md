@@ -125,6 +125,9 @@
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove deprecated Objective-C iOS app create template<br />
+  <sub>[#169547](https://github.com/flutter/flutter/pull/169547) opened on on May 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/169547) 108 additions and 1306 deletions in 25 files</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Fix TextInputPlugin crash when no viewId is provided<br />
   <sub>[#169583](https://github.com/flutter/flutter/pull/169583) opened on on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169583) 48 additions and 2 deletions in 2 files</sub><br />
 
@@ -133,9 +136,6 @@
 
 * **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Fix clip behavior in Dismissible widget by adding a clipBehaviorOffset property<br />
   <sub>[#169617](https://github.com/flutter/flutter/pull/169617) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169617) 33 additions and 19 deletions in 1 file</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update engine.version and changelog for upcoming stable release 3.32.1<br />
-  <sub>[#169619](https://github.com/flutter/flutter/pull/169619) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169619) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Change lint ignore comment to use unawaited<br />
   <sub>[#169622](https://github.com/flutter/flutter/pull/169622) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169622) 11 additions and 10 deletions in 1 file</sub><br />
