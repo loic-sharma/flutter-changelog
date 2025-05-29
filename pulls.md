@@ -158,3 +158,6 @@
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Trigger `CupertinoPicker` haptics in the middle of the item<br />
   <sub>[#169670](https://github.com/flutter/flutter/pull/169670) opened on on May 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169670) 53 additions and 22 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Trigger `ios-experimental` postsubmits.<br />
+  <sub>[#169689](https://github.com/flutter/flutter/pull/169689) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169689) 1 addition and 1 deletion in 1 file</sub><br />
+
