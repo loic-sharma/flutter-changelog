@@ -152,9 +152,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]🐛 Use consist slashes when generating dep files<br />
   <sub>[#169631](https://github.com/flutter/flutter/pull/169631) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169631) 75 additions and 19 deletions in 2 files</sub><br />
 
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Check to see if previous page is laid out before starting hero flight<br />
-  <sub>[#169633](https://github.com/flutter/flutter/pull/169633) opened on on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169633) 117 additions and 7 deletions in 2 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Only provide `DART_DEFINES=$encodedAppFlavor` for Xcode tooling.<br />
   <sub>[#169641](https://github.com/flutter/flutter/pull/169641) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169641) 59 additions and 30 deletions in 7 files</sub><br />
 
@@ -163,7 +160,4 @@
 
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Trigger `CupertinoPicker` haptics in the middle of the item<br />
   <sub>[#169670](https://github.com/flutter/flutter/pull/169670) opened on on May 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169670) 53 additions and 22 deletions in 2 files</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Point to previous commit for engine version for 3.33-0.2<br />
-  <sub>[#169682](https://github.com/flutter/flutter/pull/169682) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169682) 1 addition and 1 deletion in 1 file</sub><br />
 
