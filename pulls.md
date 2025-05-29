@@ -122,9 +122,6 @@
 * **[Le Trung Do](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
   <sub>[#169494](https://github.com/flutter/flutter/pull/169494) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169494) 18 additions and 25 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce some CI timeouts<br />
-  <sub>[#169512](https://github.com/flutter/flutter/pull/169512) opened on on May 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169512) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Layout Widgets for Dynamic UI Support<br />
   <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
 
