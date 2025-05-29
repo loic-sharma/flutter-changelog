@@ -135,7 +135,7 @@
   <sub>[#169617](https://github.com/flutter/flutter/pull/169617) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169617) 33 additions and 19 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update engine.version and changelog for upcoming stable release 3.32.1<br />
-  <sub>[#169619](https://github.com/flutter/flutter/pull/169619) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169619) 7 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#169619](https://github.com/flutter/flutter/pull/169619) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169619) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Change lint ignore comment to use unawaited<br />
   <sub>[#169622](https://github.com/flutter/flutter/pull/169622) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169622) 11 additions and 10 deletions in 1 file</sub><br />
@@ -162,8 +162,8 @@
   <sub>[#169662](https://github.com/flutter/flutter/pull/169662) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169662) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Trigger `CupertinoPicker` haptics in the middle of the item<br />
-  <sub>[#169670](https://github.com/flutter/flutter/pull/169670) opened on on May 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169670) 53 additions and 22 deletions in 2 files</sub><br />
+  <sub>[#169670](https://github.com/flutter/flutter/pull/169670) opened on on May 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169670) 53 additions and 22 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll customer_testing to 7f55026290e721fc648d3811664bbf3abca911d5<br />
-  <sub>[#169671](https://github.com/flutter/flutter/pull/169671) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169671) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Point to previous commit for engine version for 3.33-0.2<br />
+  <sub>[#169682](https://github.com/flutter/flutter/pull/169682) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169682) 1 addition and 1 deletion in 1 file</sub><br />
 
