@@ -155,3 +155,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller][WIP] testing removal of msaa for intermediate render targets used in filtering.<br />
   <sub>[#169692](https://github.com/flutter/flutter/pull/169692) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169692) 53 additions and 25 deletions in 6 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Remove deprecated desktop support<br />
+  <sub>[#169703](https://github.com/flutter/flutter/pull/169703) opened on on May 29, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169703) 129 additions and 255 deletions in 5 files</sub><br />
+
