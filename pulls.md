@@ -164,3 +164,9 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.32.1.<br />
   <sub>[#169713](https://github.com/flutter/flutter/pull/169713) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169713) 8 additions and 0 deletions in 1 file</sub><br />
 
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Adjust handle anchor offset for collapsed text selection for Android<br />
+  <sub>[#169715](https://github.com/flutter/flutter/pull/169715) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169715) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Mark `Linux web_tool_tests` as `bringup` due to being 10%+ flaky<br />
+  <sub>[#169716](https://github.com/flutter/flutter/pull/169716) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169716) 1 addition and 0 deletions in 1 file</sub><br />
+
