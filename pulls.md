@@ -171,5 +171,5 @@
   <sub>[#169662](https://github.com/flutter/flutter/pull/169662) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169662) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update triage for new team-devexp<br />
-  <sub>[#169668](https://github.com/flutter/flutter/pull/169668) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169668) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#169668](https://github.com/flutter/flutter/pull/169668) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169668) 2 additions and 1 deletion in 1 file</sub><br />
 

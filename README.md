@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-32 commits.
+33 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets<br />
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub><br />
@@ -98,6 +98,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use at most `PROC~/2` tasks to transform assets.<br />
   <sub>[#169386](https://github.com/flutter/flutter/pull/169386) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169386) over 2 days, 113 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce some CI timeouts<br />
+  <sub>[#169512](https://github.com/flutter/flutter/pull/169512) merged on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169512) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix minify logic<br />
   <sub>[#169607](https://github.com/flutter/flutter/pull/169607) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169607) over 5 hours, 20 additions and 8 deletions in 3 files</sub><br />
@@ -746,12 +750,16 @@
 
 ### May 24, 2025 to May 30, 2025
 
-5 commits.
+6 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [file_selector_macos] Do not set nameFieldStringValue for NSOpenPanel<br />
   <sub>[#9324](https://github.com/flutter/packages/pull/9324) merged on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9324) over 2 hours, 14 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Chris Bracken](https://github.com/cbracken)</sub><br />
   <sub><details><summary>1 image...</summary>![Screenshot 2025-05-27 at 11 10 40 AM](https://github.com/user-attachments/assets/6af2016b-da93-482d-a5a2-5aeeac1abb47)</details></sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [camera_web] Remove mocktail dependency.<br />
+  <sub>[#9195](https://github.com/flutter/packages/pull/9195) merged on May 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/9195) over 3 weeks, 931 additions and 249 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 3.5<br />
   <sub>[#9254](https://github.com/flutter/packages/pull/9254) merged on May 28, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/9254) over 1 week, 379 additions and 273 deletions in 38 files</sub><br />
