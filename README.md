@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-27 commits.
+28 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets<br />
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub><br />
@@ -66,6 +66,10 @@
 * **[Moritz](https://github.com/mosuem)** &mdash; Add workspace<br />
   <sub>[#169451](https://github.com/flutter/flutter/pull/169451) merged on May 26, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/169451) over 4 hours, 3837 additions and 5322 deletions in 103 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] acquire the gpu sync switch when flush stored GPU tasks.<br />
+  <sub>[#169596](https://github.com/flutter/flutter/pull/169596) merged on May 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169596) over 5 hours, 107 additions and 4 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; unskip text_painter_rtl_test on web<br />
   <sub>[#169537](https://github.com/flutter/flutter/pull/169537) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169537) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -875,7 +879,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-6 commits.
+7 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update windows.md<br />
   <sub>[#12073](https://github.com/flutter/website/pull/12073) merged on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12073) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -892,6 +896,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add two `flutter.dev/to/...` links for our docs-wiki.<br />
   <sub>[#12060](https://github.com/flutter/website/pull/12060) merged on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12060) over 3 days, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add radio widget migration guide<br />
+  <sub>[#12080](https://github.com/flutter/website/pull/12080) merged on May 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12080) over 6 hours, 244 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[mg3994](https://github.com/mg3994)** &mdash; Fix broken GitHub URL by adding missing slash<br />
   <sub>[#12056](https://github.com/flutter/website/pull/12056) merged on May 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12056) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />

@@ -99,7 +99,7 @@
   <sub>[#169402](https://github.com/flutter/flutter/pull/169402) opened on on May 24, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/169402) 1242 additions and 26 deletions in 12 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightness export from widgets.dart<br />
-  <sub>[#169410](https://github.com/flutter/flutter/pull/169410) opened on on May 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169410) 1 addition and 6 deletions in 4 files</sub><br />
+  <sub>[#169410](https://github.com/flutter/flutter/pull/169410) opened on on May 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169410) 1 addition and 6 deletions in 4 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`<br />
   <sub>[#169415](https://github.com/flutter/flutter/pull/169415) opened on on May 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169415) 257 additions and 5 deletions in 2 files</sub><br />
@@ -169,4 +169,7 @@
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Check to see if previous page is laid out before starting hero flight<br />
   <sub>[#169633](https://github.com/flutter/flutter/pull/169633) opened on on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169633) 117 additions and 7 deletions in 2 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Only provide `DART_DEFINES=$encodedAppFlavor` for Xcode tooling.<br />
+  <sub>[#169641](https://github.com/flutter/flutter/pull/169641) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169641) 59 additions and 30 deletions in 7 files</sub><br />
 
