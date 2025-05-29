@@ -165,7 +165,7 @@
   <sub>[#169633](https://github.com/flutter/flutter/pull/169633) opened on on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169633) 117 additions and 7 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Only provide `DART_DEFINES=$encodedAppFlavor` for Xcode tooling.<br />
-  <sub>[#169641](https://github.com/flutter/flutter/pull/169641) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169641) 59 additions and 30 deletions in 7 files</sub><br />
+  <sub>[#169641](https://github.com/flutter/flutter/pull/169641) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169641) 59 additions and 30 deletions in 7 files</sub><br />
 
 * **[Paolo Baldo Luchini](https://github.com/Paolo9711)** &mdash; Fix stepper line active color<br />
   <sub>[#169662](https://github.com/flutter/flutter/pull/169662) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169662) 2 additions and 1 deletion in 1 file</sub><br />
