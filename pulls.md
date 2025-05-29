@@ -104,9 +104,6 @@
 * **[Juergen Werner](https://github.com/pogojotz)** &mdash; NavigationRail: optionally scrollable and more configurable<br />
   <sub>[#169421](https://github.com/flutter/flutter/pull/169421) opened on on May 24, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169421) 307 additions and 90 deletions in 3 files</sub><br />
 
-* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix[widget_inspector]: Widget Inspector Directionality & Move button tooltip.<br />
-  <sub>[#169425](https://github.com/flutter/flutter/pull/169425) opened on on May 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169425) 94 additions and 73 deletions in 2 files</sub><br />
-
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Fixed an issue about scrolling re-competition<br />
   <sub>[#169430](https://github.com/flutter/flutter/pull/169430) opened on on May 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169430) 114 additions and 2 deletions in 7 files</sub><br />
 
@@ -137,9 +134,6 @@
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Exclude `web-server` from `supportedWebDeviceIds`<br />
   <sub>[#169590](https://github.com/flutter/flutter/pull/169590) opened on on May 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169590) 10 additions and 4 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] let drawImage nine use porter duff optimization.<br />
-  <sub>[#169611](https://github.com/flutter/flutter/pull/169611) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169611) 100 additions and 61 deletions in 7 files</sub><br />
-
 * **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Fix clip behavior in Dismissible widget by adding a clipBehaviorOffset property<br />
   <sub>[#169617](https://github.com/flutter/flutter/pull/169617) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169617) 33 additions and 19 deletions in 1 file</sub><br />
 
@@ -169,6 +163,9 @@
 
 * **[Paolo Baldo Luchini](https://github.com/Paolo9711)** &mdash; Fix stepper line active color<br />
   <sub>[#169662](https://github.com/flutter/flutter/pull/169662) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169662) 2 additions and 1 deletion in 1 file</sub><br />
+
+* **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Trigger `CupertinoPicker` haptics in the middle of the item<br />
+  <sub>[#169670](https://github.com/flutter/flutter/pull/169670) opened on on May 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169670) 53 additions and 22 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll customer_testing to 7f55026290e721fc648d3811664bbf3abca911d5<br />
   <sub>[#169671](https://github.com/flutter/flutter/pull/169671) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169671) 1 addition and 1 deletion in 1 file</sub><br />

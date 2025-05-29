@@ -758,7 +758,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-6 commits.
+7 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [file_selector_macos] Do not set nameFieldStringValue for NSOpenPanel<br />
   <sub>[#9324](https://github.com/flutter/packages/pull/9324) merged on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9324) over 2 hours, 14 additions and 4 deletions in 4 files</sub><br />
@@ -767,6 +767,10 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [camera_web] Remove mocktail dependency.<br />
   <sub>[#9195](https://github.com/flutter/packages/pull/9195) merged on May 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/9195) over 3 weeks, 931 additions and 249 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow tests to use macOS 14 or 15.5<br />
+  <sub>[#9328](https://github.com/flutter/packages/pull/9328) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9328) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 3.5<br />
