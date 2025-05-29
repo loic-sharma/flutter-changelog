@@ -159,5 +159,8 @@
   <sub>[#169705](https://github.com/flutter/flutter/pull/169705) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169705) 43 additions and 9 deletions in 2 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: experimental workflow for  Linux tool-tests-general<br />
-  <sub>[#169706](https://github.com/flutter/flutter/pull/169706) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169706) 56 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#169706](https://github.com/flutter/flutter/pull/169706) opened on on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169706) 56 additions and 0 deletions in 1 file</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.32.1.<br />
+  <sub>[#169713](https://github.com/flutter/flutter/pull/169713) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169713) 8 additions and 0 deletions in 1 file</sub><br />
 
