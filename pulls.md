@@ -173,3 +173,6 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update triage for new team-devexp<br />
   <sub>[#169668](https://github.com/flutter/flutter/pull/169668) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169668) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll customer_testing to 7f55026290e721fc648d3811664bbf3abca911d5<br />
+  <sub>[#169671](https://github.com/flutter/flutter/pull/169671) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169671) 1 addition and 1 deletion in 1 file</sub><br />
+
