@@ -155,3 +155,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Remove deprecated desktop support<br />
   <sub>[#169703](https://github.com/flutter/flutter/pull/169703) opened on on May 29, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169703) 129 additions and 255 deletions in 5 files</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; IOSSystemContextMenuItem.toString to Diagnosticable<br />
+  <sub>[#169705](https://github.com/flutter/flutter/pull/169705) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169705) 43 additions and 9 deletions in 2 files</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: experimental workflow for  Linux tool-tests-general<br />
+  <sub>[#169706](https://github.com/flutter/flutter/pull/169706) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169706) 56 additions and 0 deletions in 1 file</sub><br />
+
