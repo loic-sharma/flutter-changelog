@@ -135,7 +135,7 @@
   <sub>[#169583](https://github.com/flutter/flutter/pull/169583) opened on on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169583) 48 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Exclude `web-server` from `supportedWebDeviceIds`<br />
-  <sub>[#169590](https://github.com/flutter/flutter/pull/169590) opened on on May 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169590) 10 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#169590](https://github.com/flutter/flutter/pull/169590) opened on on May 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169590) 10 additions and 4 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] let drawImage nine use porter duff optimization.<br />
   <sub>[#169611](https://github.com/flutter/flutter/pull/169611) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169611) 100 additions and 61 deletions in 7 files</sub><br />
@@ -169,9 +169,6 @@
 
 * **[Paolo Baldo Luchini](https://github.com/Paolo9711)** &mdash; Fix stepper line active color<br />
   <sub>[#169662](https://github.com/flutter/flutter/pull/169662) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169662) 2 additions and 1 deletion in 1 file</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update triage for new team-devexp<br />
-  <sub>[#169668](https://github.com/flutter/flutter/pull/169668) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169668) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll customer_testing to 7f55026290e721fc648d3811664bbf3abca911d5<br />
   <sub>[#169671](https://github.com/flutter/flutter/pull/169671) opened on on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169671) 1 addition and 1 deletion in 1 file</sub><br />
