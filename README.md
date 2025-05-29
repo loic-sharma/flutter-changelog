@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-37 commits.
+38 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets<br />
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub><br />
@@ -59,13 +59,13 @@
   <sub>[#169319](https://github.com/flutter/flutter/pull/169319) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169319) over 3 days, 80 additions and 20 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Split hint from label and expose it via aria-description or aria-describedby<br />
-  <sub>[#169157](https://github.com/flutter/flutter/pull/169157) merged on May 27, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/169157) over 6 days, 252 additions and 25 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll `package:dds` to 5.0.2<br />
   <sub>[#169471](https://github.com/flutter/flutter/pull/169471) merged on May 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169471) over 3 hours, 18 additions and 14 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16)</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Split hint from label and expose it via aria-description or aria-describedby<br />
+  <sub>[#169157](https://github.com/flutter/flutter/pull/169157) merged on May 27, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/169157) over 6 days, 252 additions and 25 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Add workspace<br />
   <sub>[#169451](https://github.com/flutter/flutter/pull/169451) merged on May 26, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/169451) over 4 hours, 3837 additions and 5322 deletions in 103 files</sub><br />
@@ -150,6 +150,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix minify logic<br />
   <sub>[#169607](https://github.com/flutter/flutter/pull/169607) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169607) over 5 hours, 20 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Re-enable SelectableRegion web tests<br />
+  <sub>[#169541](https://github.com/flutter/flutter/pull/169541) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169541) over 1 day, 87 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Make build_android_host_app_with_module_aar build using an aar<br />
   <sub>[#169311](https://github.com/flutter/flutter/pull/169311) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169311) over 6 days, 60 additions and 5 deletions in 3 files</sub><br />
