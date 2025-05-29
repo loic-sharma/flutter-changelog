@@ -63,7 +63,7 @@
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [ios]: Warning for FlutterAppDelegate.window.rootViewController in launch functions<br />
-  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) opened on on May 20, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/169166) 237 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) opened on on May 20, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/169166) 234 additions and 0 deletions in 5 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169174) 158 additions and 25 deletions in 8 files</sub><br />
@@ -76,9 +76,6 @@
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Adding support for experimental wasm dynamic modules<br />
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Add currentIndex to CarouselController and onItemChanged to CarouselView<br />
-  <sub>[#169271](https://github.com/flutter/flutter/pull/169271) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169271) 134 additions and 2 deletions in 2 files</sub><br />
 
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; fix: DialogTheme is missing the constraints property.<br />
   <sub>[#169327](https://github.com/flutter/flutter/pull/169327) opened on on May 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169327) 177 additions and 73 deletions in 2 files</sub><br />
@@ -160,4 +157,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller][WIP] testing removal of msaa for intermediate render targets used in filtering.<br />
   <sub>[#169692](https://github.com/flutter/flutter/pull/169692) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169692) 53 additions and 25 deletions in 6 files</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add missing localization generation for widgets<br />
+  <sub>[#169695](https://github.com/flutter/flutter/pull/169695) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169695) 1 addition and 0 deletions in 1 file</sub><br />
 
