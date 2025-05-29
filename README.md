@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-39 commits.
+40 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets<br />
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub><br />
@@ -47,6 +47,10 @@
   <sub>[#169602](https://github.com/flutter/flutter/pull/169602) merged on May 28, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169602) over 2 hours, 247 additions and 59 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
+* **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
+  <sub>[#168403](https://github.com/flutter/flutter/pull/168403) merged on May 29, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/168403) over 3 weeks, 14 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make test output with encoded `dart-defines=...` human readable.<br />
   <sub>[#169353](https://github.com/flutter/flutter/pull/169353) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169353) over 3 days, 107 additions and 11 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -63,13 +67,13 @@
   <sub>[#169642](https://github.com/flutter/flutter/pull/169642) merged on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169642) over 15 hours, 16 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Split hint from label and expose it via aria-description or aria-describedby<br />
-  <sub>[#169157](https://github.com/flutter/flutter/pull/169157) merged on May 27, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/169157) over 6 days, 252 additions and 25 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll `package:dds` to 5.0.2<br />
   <sub>[#169471](https://github.com/flutter/flutter/pull/169471) merged on May 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169471) over 3 hours, 18 additions and 14 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16)</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Split hint from label and expose it via aria-description or aria-describedby<br />
+  <sub>[#169157](https://github.com/flutter/flutter/pull/169157) merged on May 27, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/169157) over 6 days, 252 additions and 25 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Add workspace<br />
   <sub>[#169451](https://github.com/flutter/flutter/pull/169451) merged on May 26, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/169451) over 4 hours, 3837 additions and 5322 deletions in 103 files</sub><br />
@@ -106,10 +110,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use at most `PROC~/2` tasks to transform assets.<br />
   <sub>[#169386](https://github.com/flutter/flutter/pull/169386) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169386) over 2 days, 113 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Fix wrong path in 'archives' for release mode iOS DDM artifacts.<br />
-  <sub>[#169448](https://github.com/flutter/flutter/pull/169448) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169448) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Jia Hao](https://github.com/jiahaog)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; integration_tests: Check if BuildContext is mounted in display_cutout_test<br />
   <sub>[#169008](https://github.com/flutter/flutter/pull/169008) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169008) over 1 week, 13 additions and 1 deletion in 1 file</sub><br />
@@ -158,6 +158,10 @@
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add dynamic module loader to flutter wasm entrypoint script.<br />
   <sub>[#169313](https://github.com/flutter/flutter/pull/169313) merged on May 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169313) over 5 days, 11 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [sigmundch](https://github.com/sigmundch)</sub><br />
+
+* **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Fix wrong path in 'archives' for release mode iOS DDM artifacts.<br />
+  <sub>[#169448](https://github.com/flutter/flutter/pull/169448) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169448) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jia Hao](https://github.com/jiahaog)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Make build_android_host_app_with_module_aar build using an aar<br />
   <sub>[#169311](https://github.com/flutter/flutter/pull/169311) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169311) over 6 days, 60 additions and 5 deletions in 3 files</sub><br />
