@@ -80,9 +80,6 @@
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; use Material widget for improved ink effects<br />
   <sub>[#169368](https://github.com/flutter/flutter/pull/169368) opened on on May 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169368) 9 additions and 6 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics r2<br />
-  <sub>[#169382](https://github.com/flutter/flutter/pull/169382) opened on on May 23, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169382) 58 additions and 714 deletions in 29 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightness export from widgets.dart<br />
   <sub>[#169410](https://github.com/flutter/flutter/pull/169410) opened on on May 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169410) 1 addition and 6 deletions in 4 files</sub><br />
 
@@ -148,7 +145,4 @@
 
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat: Add radius to DividerThemeData.<br />
   <sub>[#169739](https://github.com/flutter/flutter/pull/169739) opened on on May 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169739) 66 additions and 7 deletions in 3 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable vivante from using impeller gles/vulkan.<br />
-  <sub>[#169760](https://github.com/flutter/flutter/pull/169760) opened on on May 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169760) 19 additions and 25 deletions in 2 files</sub><br />
 
