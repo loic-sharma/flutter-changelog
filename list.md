@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-59 commits.
+60 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub>
@@ -67,13 +67,13 @@
   <sub>[#169616](https://github.com/flutter/flutter/pull/169616) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169616) over 1 hour, 49 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Pass the same optimization level to both stages of JS compiler
-  <sub>[#169642](https://github.com/flutter/flutter/pull/169642) merged on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169642) over 15 hours, 16 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll forward: "Initialize default-app-flavor" (#169298)
   <sub>[#169602](https://github.com/flutter/flutter/pull/169602) merged on May 28, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169602) over 2 hours, 247 additions and 59 deletions in 6 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Pass the same optimization level to both stages of JS compiler
+  <sub>[#169642](https://github.com/flutter/flutter/pull/169642) merged on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169642) over 15 hours, 16 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) merged on May 29, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/168403) over 3 weeks, 14 additions and 1 deletion in 2 files</sub>
@@ -91,6 +91,10 @@
   <sub>[#169387](https://github.com/flutter/flutter/pull/169387) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169387) over 2 days, 7 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [tests] Increase linux timeout and skip on others
+  <sub>[#169627](https://github.com/flutter/flutter/pull/169627) merged on May 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169627) over 20 hours, 8 additions and 4 deletions in 8 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll `package:dds` to 5.0.2
   <sub>[#169471](https://github.com/flutter/flutter/pull/169471) merged on May 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169471) over 3 hours, 18 additions and 14 deletions in 2 files</sub>
   <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16)</sub>
@@ -98,10 +102,6 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Split hint from label and expose it via aria-description or aria-describedby
   <sub>[#169157](https://github.com/flutter/flutter/pull/169157) merged on May 27, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/169157) over 6 days, 252 additions and 25 deletions in 3 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [tests] Increase linux timeout and skip on others
-  <sub>[#169627](https://github.com/flutter/flutter/pull/169627) merged on May 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169627) over 20 hours, 8 additions and 4 deletions in 8 files</sub>
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Add workspace
   <sub>[#169451](https://github.com/flutter/flutter/pull/169451) merged on May 26, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/169451) over 4 hours, 3837 additions and 5322 deletions in 103 files</sub>
@@ -111,6 +111,14 @@
   <sub>[#169238](https://github.com/flutter/flutter/pull/169238) merged on May 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169238) over 1 week, 6 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Switch to Linux orchestrators for Windows releasers.
+  <sub>[#168941](https://github.com/flutter/flutter/pull/168941) merged on May 30, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/168941) over 2 weeks, 2 additions and 38 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; dev/bots: improve service worker test code
+  <sub>[#169231](https://github.com/flutter/flutter/pull/169231) merged on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169231) over 6 days, 44 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manually update vector_math package
   <sub>[#169476](https://github.com/flutter/flutter/pull/169476) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169476) over 1 day, 122 additions and 122 deletions in 61 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -119,20 +127,12 @@
   <sub>[#169607](https://github.com/flutter/flutter/pull/169607) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169607) over 5 hours, 20 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; dev/bots: improve service worker test code
-  <sub>[#169231](https://github.com/flutter/flutter/pull/169231) merged on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169231) over 6 days, 44 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Experimental-Branch.md`
-  <sub>[#169721](https://github.com/flutter/flutter/pull/169721) merged on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169721) over 4 hours, 0 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: update experiment to use different setup
   <sub>[#169728](https://github.com/flutter/flutter/pull/169728) merged on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169728) over 1 hour, 9 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: experimental workflow for  Linux tool-tests-general
-  <sub>[#169706](https://github.com/flutter/flutter/pull/169706) merged on May 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169706) over 2 hours, 56 additions and 0 deletions in 1 file</sub>
+  <sub>[#169706](https://github.com/flutter/flutter/pull/169706) merged on May 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169706) over 2 hours, 56 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; IOSSystemContextMenuItem.toString to Diagnosticable
@@ -155,6 +155,10 @@
   <sub>[#169140](https://github.com/flutter/flutter/pull/169140) merged on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169140) over 1 week, 61 additions and 28 deletions in 10 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll expat to 8e49998f
+  <sub>[#169707](https://github.com/flutter/flutter/pull/169707) merged on May 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169707) over 18 hours, 110 additions and 25 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; unskip text_painter_rtl_test on web
   <sub>[#169537](https://github.com/flutter/flutter/pull/169537) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169537) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
@@ -163,37 +167,33 @@
   <sub>[#169614](https://github.com/flutter/flutter/pull/169614) merged on May 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169614) over 4 minutes, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Maintain a global map of each context's currently active thread-local command pools
-  <sub>[#169548](https://github.com/flutter/flutter/pull/169548) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169548) over 1 day, 70 additions and 27 deletions in 5 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] acquire the gpu sync switch when flush stored GPU tasks.
-  <sub>[#169596](https://github.com/flutter/flutter/pull/169596) merged on May 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169596) over 5 hours, 107 additions and 4 deletions in 10 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Introduces FlutterPluginRegistrant protocol.
+  <sub>[#169399](https://github.com/flutter/flutter/pull/169399) merged on May 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169399) over 4 days, 120 additions and 3 deletions in 8 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Make Android team platform view TESTOWNERS
   <sub>[#169297](https://github.com/flutter/flutter/pull/169297) merged on May 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169297) over 5 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Introduces FlutterPluginRegistrant protocol.
-  <sub>[#169399](https://github.com/flutter/flutter/pull/169399) merged on May 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169399) over 4 days, 120 additions and 3 deletions in 8 files</sub>
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use at most `PROC~/2` tasks to transform assets.
-  <sub>[#169386](https://github.com/flutter/flutter/pull/169386) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169386) over 2 days, 113 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll expat to 8e49998f
-  <sub>[#169707](https://github.com/flutter/flutter/pull/169707) merged on May 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169707) over 18 hours, 110 additions and 25 deletions in 5 files</sub>
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Maintain a global map of each context's currently active thread-local command pools
+  <sub>[#169548](https://github.com/flutter/flutter/pull/169548) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169548) over 1 day, 70 additions and 27 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove now disabled code that would generate `.flutter-plugins`.
   <sub>[#169320](https://github.com/flutter/flutter/pull/169320) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169320) over 3 days, 1 addition and 166 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add missing localization generation for widgets
-  <sub>[#169695](https://github.com/flutter/flutter/pull/169695) merged on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169695) over 3 hours, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Experimental-Branch.md`
+  <sub>[#169721](https://github.com/flutter/flutter/pull/169721) merged on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169721) over 4 hours, 0 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use at most `PROC~/2` tasks to transform assets.
+  <sub>[#169386](https://github.com/flutter/flutter/pull/169386) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169386) over 2 days, 113 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] acquire the gpu sync switch when flush stored GPU tasks.
+  <sub>[#169596](https://github.com/flutter/flutter/pull/169596) merged on May 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169596) over 5 hours, 107 additions and 4 deletions in 10 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.32.1.
   <sub>[#169713](https://github.com/flutter/flutter/pull/169713) merged on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169713) over 1 hour, 8 additions and 0 deletions in 1 file</sub>
@@ -203,25 +203,25 @@
   <sub>[#169541](https://github.com/flutter/flutter/pull/169541) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169541) over 1 day, 87 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow tests to use macOS 15.5
-  <sub>[#169536](https://github.com/flutter/flutter/pull/169536) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169536) over 19 hours, 91 additions and 91 deletions in 9 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll customer_testing to 7f55026290e721fc648d3811664bbf3abca911d5
   <sub>[#169671](https://github.com/flutter/flutter/pull/169671) merged on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169671) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow tests to use macOS 15.5
+  <sub>[#169536](https://github.com/flutter/flutter/pull/169536) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169536) over 19 hours, 91 additions and 91 deletions in 9 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update triage for new team-devexp
   <sub>[#169668](https://github.com/flutter/flutter/pull/169668) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169668) over 58 minutes, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [darshankawar](https://github.com/darshankawar)</sub>
 
-* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Update DEPS to  add dart-lang/ai repo
-  <sub>[#169540](https://github.com/flutter/flutter/pull/169540) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169540) over 7 hours, 4 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub>
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce some CI timeouts
   <sub>[#169512](https://github.com/flutter/flutter/pull/169512) merged on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169512) over 1 day, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Update DEPS to  add dart-lang/ai repo
+  <sub>[#169540](https://github.com/flutter/flutter/pull/169540) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169540) over 7 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub>
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add dynamic module loader to flutter wasm entrypoint script.
   <sub>[#169313](https://github.com/flutter/flutter/pull/169313) merged on May 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169313) over 5 days, 11 additions and 1 deletion in 1 file</sub>
@@ -231,13 +231,17 @@
   <sub>[#169008](https://github.com/flutter/flutter/pull/169008) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169008) over 1 week, 13 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove discontinued packages from issue template
+  <sub>[#169666](https://github.com/flutter/flutter/pull/169666) merged on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169666) over 22 hours, 0 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Set pause_isolates_on_start flag if --start-paused
   <sub>[#169392](https://github.com/flutter/flutter/pull/169392) merged on May 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169392) over 3 days, 39 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Nicholas Shahan](https://github.com/nshahan)</sub>
 
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove discontinued packages from issue template
-  <sub>[#169666](https://github.com/flutter/flutter/pull/169666) merged on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169666) over 22 hours, 0 additions and 6 deletions in 1 file</sub>
-  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add missing localization generation for widgets
+  <sub>[#169695](https://github.com/flutter/flutter/pull/169695) merged on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169695) over 3 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Fix wrong path in 'archives' for release mode iOS DDM artifacts.
   <sub>[#169448](https://github.com/flutter/flutter/pull/169448) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169448) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
