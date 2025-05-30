@@ -155,9 +155,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Remove deprecated desktop support<br />
   <sub>[#169703](https://github.com/flutter/flutter/pull/169703) opened on on May 29, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169703) 129 additions and 255 deletions in 5 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: experimental workflow for  Linux tool-tests-general<br />
-  <sub>[#169706](https://github.com/flutter/flutter/pull/169706) opened on on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169706) 56 additions and 0 deletions in 1 file</sub><br />
-
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Adjust handle anchor offset for collapsed text selection for Android<br />
   <sub>[#169715](https://github.com/flutter/flutter/pull/169715) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169715) 1 addition and 1 deletion in 1 file</sub><br />
 
