@@ -77,9 +77,6 @@
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Adding support for experimental wasm dynamic modules<br />
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
 
-* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat: Add constraints to the AlertDialog and SimpleDialog<br />
-  <sub>[#169327](https://github.com/flutter/flutter/pull/169327) opened on on May 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169327) 54 additions and 11 deletions in 2 files</sub><br />
-
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; use Material widget for improved ink effects<br />
   <sub>[#169368](https://github.com/flutter/flutter/pull/169368) opened on on May 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169368) 9 additions and 6 deletions in 1 file</sub><br />
 
