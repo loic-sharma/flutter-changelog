@@ -144,7 +144,7 @@
   <sub>[#169670](https://github.com/flutter/flutter/pull/169670) opened on on May 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169670) 53 additions and 22 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller][WIP] testing removal of msaa for intermediate render targets used in filtering.<br />
-  <sub>[#169692](https://github.com/flutter/flutter/pull/169692) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169692) 53 additions and 25 deletions in 6 files</sub><br />
+  <sub>[#169692](https://github.com/flutter/flutter/pull/169692) opened on on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169692) 53 additions and 25 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Remove deprecated desktop support<br />
   <sub>[#169703](https://github.com/flutter/flutter/pull/169703) opened on on May 29, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169703) 125 additions and 255 deletions in 4 files</sub><br />
@@ -159,7 +159,7 @@
   <sub>[#169743](https://github.com/flutter/flutter/pull/169743) opened on on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169743) 38 additions and 11 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable vivante from using impeller gles/vulkan.<br />
-  <sub>[#169760](https://github.com/flutter/flutter/pull/169760) opened on on May 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169760) 19 additions and 25 deletions in 2 files</sub><br />
+  <sub>[#169760](https://github.com/flutter/flutter/pull/169760) opened on on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169760) 19 additions and 25 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] document reverse-y requirement for ImageFilter.shader<br />
   <sub>[#169761](https://github.com/flutter/flutter/pull/169761) opened on on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169761) 11 additions and 1 deletion in 1 file</sub><br />

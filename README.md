@@ -854,7 +854,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-7 commits.
+8 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [file_selector_macos] Do not set nameFieldStringValue for NSOpenPanel<br />
   <sub>[#9324](https://github.com/flutter/packages/pull/9324) merged on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9324) over 2 hours, 14 additions and 4 deletions in 4 files</sub><br />
@@ -884,6 +884,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [video_player_android] Add note about Android platform views known issue<br />
   <sub>[#9312](https://github.com/flutter/packages/pull/9312) merged on May 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9312) over 2 days, 10 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from be698c48a675 to b25305a8832c (11 revisions)<br />
+  <sub>[#9342](https://github.com/flutter/packages/pull/9342) merged on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9342) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### May 17, 2025 to May 23, 2025
 
