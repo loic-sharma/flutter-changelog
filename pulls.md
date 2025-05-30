@@ -63,7 +63,7 @@
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [ios]: Warning for FlutterAppDelegate.window.rootViewController in launch functions<br />
-  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) opened on on May 20, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/169166) 241 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) opened on on May 20, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/169166) 246 additions and 1 deletion in 5 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169174) 167 additions and 32 deletions in 9 files</sub><br />
