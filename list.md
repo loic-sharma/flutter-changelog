@@ -854,7 +854,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-8 commits.
+9 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [file_selector_macos] Do not set nameFieldStringValue for NSOpenPanel
   <sub>[#9324](https://github.com/flutter/packages/pull/9324) merged on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9324) over 2 hours, 14 additions and 4 deletions in 4 files</sub>
@@ -876,6 +876,10 @@
 * **[Benjamin Price](https://github.com/BenjaminPrice)** &mdash; [flutter_lints] Bump lints dependency to 6.0.0 and bump package to 6.0.0
   <sub>[#9108](https://github.com/flutter/packages/pull/9108) merged on May 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9108) over 1 month, 8 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [all_packages] Bump `compileSdk` version to 35
+  <sub>[#9168](https://github.com/flutter/packages/pull/9168) merged on May 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9168) over 1 month, 30 additions and 76 deletions in 8 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [webview_flutter_wkwebview] Fix `testNilRequest` test for macOS 15.5
   <sub>[#9330](https://github.com/flutter/packages/pull/9330) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9330) over 12 hours, 7 additions and 2 deletions in 1 file</sub>
