@@ -167,3 +167,6 @@
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Adjust handle anchor offset for collapsed text selection for Android<br />
   <sub>[#169715](https://github.com/flutter/flutter/pull/169715) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169715) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Experimental-Branch.md`<br />
+  <sub>[#169721](https://github.com/flutter/flutter/pull/169721) opened on on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169721) 0 additions and 3 deletions in 1 file</sub><br />
+

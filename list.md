@@ -4,7 +4,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-49 commits.
+50 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub>
@@ -79,20 +79,16 @@
   <sub>[#169353](https://github.com/flutter/flutter/pull/169353) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169353) over 3 days, 107 additions and 11 deletions in 7 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `.flutter-plugins-dependencies` for crash reporting.
-  <sub>[#169319](https://github.com/flutter/flutter/pull/169319) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169319) over 3 days, 80 additions and 20 deletions in 2 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `/coverage/` to `.gitignore.tmp`
   <sub>[#169387](https://github.com/flutter/flutter/pull/169387) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169387) over 2 days, 7 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `.flutter-plugins-dependencies` for crash reporting.
+  <sub>[#169319](https://github.com/flutter/flutter/pull/169319) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169319) over 3 days, 80 additions and 20 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Pass the same optimization level to both stages of JS compiler
   <sub>[#169642](https://github.com/flutter/flutter/pull/169642) merged on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169642) over 15 hours, 16 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
-
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [tests] Increase linux timeout and skip on others
-  <sub>[#169627](https://github.com/flutter/flutter/pull/169627) merged on May 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169627) over 20 hours, 8 additions and 4 deletions in 8 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll `package:dds` to 5.0.2
@@ -103,9 +99,17 @@
   <sub>[#169157](https://github.com/flutter/flutter/pull/169157) merged on May 27, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/169157) over 6 days, 252 additions and 25 deletions in 3 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [tests] Increase linux timeout and skip on others
+  <sub>[#169627](https://github.com/flutter/flutter/pull/169627) merged on May 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169627) over 20 hours, 8 additions and 4 deletions in 8 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Moritz](https://github.com/mosuem)** &mdash; Add workspace
   <sub>[#169451](https://github.com/flutter/flutter/pull/169451) merged on May 26, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/169451) over 4 hours, 3837 additions and 5322 deletions in 103 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Mark `Linux web_tool_tests` as `bringup` due to being 10%+ flaky
+  <sub>[#169716](https://github.com/flutter/flutter/pull/169716) merged on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169716) over 5 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [John "codefu" McDole](https://github.com/jtmcdole), [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Clean up references to deprecated onPop method in docs
   <sub>[#169700](https://github.com/flutter/flutter/pull/169700) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169700) over 30 minutes, 5 additions and 5 deletions in 1 file</sub>
@@ -139,21 +143,17 @@
   <sub>[#169297](https://github.com/flutter/flutter/pull/169297) merged on May 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169297) over 5 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better null-safe implementation of `AssetTransformerEntry`.
-  <sub>[#169645](https://github.com/flutter/flutter/pull/169645) merged on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169645) over 18 hours, 16 additions and 24 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove now disabled code that would generate `.flutter-plugins`.
   <sub>[#169320](https://github.com/flutter/flutter/pull/169320) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169320) over 3 days, 1 addition and 166 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Better null-safe implementation of `AssetTransformerEntry`.
+  <sub>[#169645](https://github.com/flutter/flutter/pull/169645) merged on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169645) over 18 hours, 16 additions and 24 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use at most `PROC~/2` tasks to transform assets.
   <sub>[#169386](https://github.com/flutter/flutter/pull/169386) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169386) over 2 days, 113 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce some CI timeouts
-  <sub>[#169512](https://github.com/flutter/flutter/pull/169512) merged on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169512) over 1 day, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Set pause_isolates_on_start flag if --start-paused
   <sub>[#169392](https://github.com/flutter/flutter/pull/169392) merged on May 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169392) over 3 days, 39 additions and 5 deletions in 2 files</sub>
@@ -198,6 +198,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update triage for new team-devexp
   <sub>[#169668](https://github.com/flutter/flutter/pull/169668) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169668) over 58 minutes, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [darshankawar](https://github.com/darshankawar)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce some CI timeouts
+  <sub>[#169512](https://github.com/flutter/flutter/pull/169512) merged on May 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169512) over 1 day, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Fix wrong path in 'archives' for release mode iOS DDM artifacts.
   <sub>[#169448](https://github.com/flutter/flutter/pull/169448) merged on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169448) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
