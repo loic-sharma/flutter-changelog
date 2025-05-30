@@ -86,9 +86,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics r2<br />
   <sub>[#169382](https://github.com/flutter/flutter/pull/169382) opened on on May 23, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169382) 58 additions and 714 deletions in 29 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate arc operations<br />
-  <sub>[#169402](https://github.com/flutter/flutter/pull/169402) opened on on May 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/169402) 1670 additions and 26 deletions in 16 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightness export from widgets.dart<br />
   <sub>[#169410](https://github.com/flutter/flutter/pull/169410) opened on on May 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169410) 1 addition and 6 deletions in 4 files</sub><br />
 
@@ -160,4 +157,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Experimental-Branch.md`<br />
   <sub>[#169721](https://github.com/flutter/flutter/pull/169721) opened on on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169721) 0 additions and 3 deletions in 1 file</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: update experiment to use different setup<br />
+  <sub>[#169728](https://github.com/flutter/flutter/pull/169728) opened on on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169728) 9 additions and 2 deletions in 1 file</sub><br />
 
