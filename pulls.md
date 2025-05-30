@@ -63,7 +63,7 @@
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [ios]: Warning for FlutterAppDelegate.window.rootViewController in launch functions<br />
-  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) opened on on May 20, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/169166) 240 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) opened on on May 20, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/169166) 240 additions and 1 deletion in 5 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169174) 166 additions and 32 deletions in 9 files</sub><br />
@@ -160,4 +160,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable vivante from using impeller gles/vulkan.<br />
   <sub>[#169760](https://github.com/flutter/flutter/pull/169760) opened on on May 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169760) 19 additions and 25 deletions in 2 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] document reverse-y requirement for ImageFilter.shader<br />
+  <sub>[#169761](https://github.com/flutter/flutter/pull/169761) opened on on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169761) 11 additions and 1 deletion in 1 file</sub><br />
 
