@@ -161,6 +161,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable vivante from using impeller gles/vulkan.<br />
   <sub>[#169760](https://github.com/flutter/flutter/pull/169760) opened on on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169760) 19 additions and 25 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] document reverse-y requirement for ImageFilter.shader<br />
-  <sub>[#169761](https://github.com/flutter/flutter/pull/169761) opened on on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169761) 10 additions and 1 deletion in 1 file</sub><br />
-

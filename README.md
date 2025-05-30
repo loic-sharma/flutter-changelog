@@ -1031,7 +1031,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-7 commits.
+12 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update windows.md<br />
   <sub>[#12073](https://github.com/flutter/website/pull/12073) merged on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12073) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1040,6 +1040,26 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update index.md<br />
   <sub>[#12077](https://github.com/flutter/website/pull/12077) merged on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12077) over 45 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve dark mode version and accessibility of learning index<br />
+  <sub>[#12083](https://github.com/flutter/website/pull/12083) merged on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12083) over 11 hours, 60 additions and 39 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Update Impeller availability on iOS.<br />
+  <sub>[#12081](https://github.com/flutter/website/pull/12081) merged on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12081) over 1 day, 2 additions and 17 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Show all source types in learning index filter menu<br />
+  <sub>[#12084](https://github.com/flutter/website/pull/12084) merged on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12084) over 11 hours, 7 additions and 9 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove separate wide layout<br />
+  <sub>[#12086](https://github.com/flutter/website/pull/12086) merged on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12086) over 11 hours, 7 additions and 45 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Redirect tutorial links to learning resources index<br />
+  <sub>[#12087](https://github.com/flutter/website/pull/12087) merged on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12087) over 6 hours, 2 additions and 31 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up liquid config and variable naming<br />
   <sub>[#12078](https://github.com/flutter/website/pull/12078) merged on May 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12078) over 55 minutes, 177 additions and 169 deletions in 42 files</sub><br />
