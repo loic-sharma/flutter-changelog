@@ -132,7 +132,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: experimental workflow for  Linux tool-tests-general<br />
-  <sub>[#169706](https://github.com/flutter/flutter/pull/169706) merged on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169706) over 2 hours, 56 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#169706](https://github.com/flutter/flutter/pull/169706) merged on May 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169706) over 2 hours, 56 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; IOSSystemContextMenuItem.toString to Diagnosticable<br />
