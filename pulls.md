@@ -138,7 +138,7 @@
   <sub>[#169631](https://github.com/flutter/flutter/pull/169631) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169631) 75 additions and 19 deletions in 2 files</sub><br />
 
 * **[Paolo Baldo Luchini](https://github.com/Paolo9711)** &mdash; Fix stepper line active color<br />
-  <sub>[#169662](https://github.com/flutter/flutter/pull/169662) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169662) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#169662](https://github.com/flutter/flutter/pull/169662) opened on on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169662) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Trigger `CupertinoPicker` haptics in the middle of the item<br />
   <sub>[#169670](https://github.com/flutter/flutter/pull/169670) opened on on May 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169670) 53 additions and 22 deletions in 2 files</sub><br />
