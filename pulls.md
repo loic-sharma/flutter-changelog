@@ -153,7 +153,7 @@
   <sub>[#169715](https://github.com/flutter/flutter/pull/169715) opened on on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169715) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Experimental-Branch.md`<br />
-  <sub>[#169721](https://github.com/flutter/flutter/pull/169721) opened on on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169721) 0 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#169721](https://github.com/flutter/flutter/pull/169721) opened on on May 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169721) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: update experiment to use different setup<br />
   <sub>[#169728](https://github.com/flutter/flutter/pull/169728) opened on on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169728) 9 additions and 2 deletions in 1 file</sub><br />
