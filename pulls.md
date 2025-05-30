@@ -87,7 +87,7 @@
   <sub>[#169382](https://github.com/flutter/flutter/pull/169382) opened on on May 23, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169382) 58 additions and 714 deletions in 29 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate arc operations<br />
-  <sub>[#169402](https://github.com/flutter/flutter/pull/169402) opened on on May 24, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/169402) 1670 additions and 26 deletions in 16 files</sub><br />
+  <sub>[#169402](https://github.com/flutter/flutter/pull/169402) opened on on May 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/169402) 1670 additions and 26 deletions in 16 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightness export from widgets.dart<br />
   <sub>[#169410](https://github.com/flutter/flutter/pull/169410) opened on on May 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169410) 1 addition and 6 deletions in 4 files</sub><br />
