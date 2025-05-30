@@ -164,3 +164,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] document reverse-y requirement for ImageFilter.shader<br />
   <sub>[#169761](https://github.com/flutter/flutter/pull/169761) opened on on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169761) 11 additions and 1 deletion in 1 file</sub><br />
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: update experiment to work in different conditions<br />
+  <sub>[#169768](https://github.com/flutter/flutter/pull/169768) opened on on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169768) 53 additions and 15 deletions in 2 files</sub><br />
+
