@@ -15,13 +15,13 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
   <sub><details><summary>6 images...</summary><img width="657" alt="image" src="https://github.com/user-attachments/assets/5207f2cc-2785-4bef-8eb0-e9a5a7431c91" /><img width="699" alt="image" src="https://github.com/user-attachments/assets/31f38373-adf9-4797-982d-782569be0681" /><img width="699" alt="image" src="https://github.com/user-attachments/assets/be1432f9-0668-44b9-b75e-ae4a56c0ff6e" /><img width="672" alt="image" src="https://github.com/user-attachments/assets/62f3b37b-8461-4274-b9be-53df22bec82d" /><img width="672" alt="image" src="https://github.com/user-attachments/assets/7c0489e7-0f7f-4498-b9d2-6d566722a05a" /><img width="672" alt="image" src="https://github.com/user-attachments/assets/d0a3e065-3ae7-4d53-beb5-d2a96aa01aea" /></details></sub>
 
-* **[munrocket](https://github.com/munrocket)** &mdash; Precise browser resizing with integration_test and driver<br />
-  <sub>[#160678](https://github.com/flutter/flutter/pull/160678) merged on May 26, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/160678) over 5 months, 43 additions and 18 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Eaton Wu](https://github.com/EatonWu), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Normalize generated file paths for the l10n generator<br />
   <sub>[#169467](https://github.com/flutter/flutter/pull/169467) merged on May 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169467) over 9 hours, 107 additions and 16 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[munrocket](https://github.com/munrocket)** &mdash; Precise browser resizing with integration_test and driver<br />
+  <sub>[#160678](https://github.com/flutter/flutter/pull/160678) merged on May 26, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/160678) over 5 months, 43 additions and 18 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Eaton Wu](https://github.com/EatonWu), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix unresponsive input above SelectionArea in Safari and Firefox.<br />
   <sub>[#167275](https://github.com/flutter/flutter/pull/167275) merged on May 27, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/167275) over 1 month, 29 additions and 0 deletions in 3 files</sub><br />
@@ -47,13 +47,13 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>2 images...</summary>![flutter_04](https://github.com/user-attachments/assets/006c89ad-14a6-4387-9bfb-f6be357f43d6)![flutter_03](https://github.com/user-attachments/assets/e058d86e-7f1a-4708-bb40-8746bb9199e4)</details></sub>
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
-  <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Use consist slashes when generating dep files<br />
   <sub>[#169570](https://github.com/flutter/flutter/pull/169570) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169570) over 6 hours, 75 additions and 19 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test<br />
+  <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Initialize `default-flavor` in `FlutterCommand`, adds integration test.<br />
   <sub>[#169298](https://github.com/flutter/flutter/pull/169298) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169298) over 5 days, 239 additions and 59 deletions in 6 files</sub><br />
