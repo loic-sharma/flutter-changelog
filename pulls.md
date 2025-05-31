@@ -143,3 +143,6 @@
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat: Add radius to DividerThemeData.<br />
   <sub>[#169739](https://github.com/flutter/flutter/pull/169739) opened on on May 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169739) 66 additions and 7 deletions in 3 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update anchorRect for overlayBuilder when anchor moves<br />
+  <sub>[#169814](https://github.com/flutter/flutter/pull/169814) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169814) 61 additions and 1 deletion in 2 files</sub><br />
+
