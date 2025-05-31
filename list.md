@@ -116,7 +116,7 @@
   <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics r2
-  <sub>[#169382](https://github.com/flutter/flutter/pull/169382) merged on May 30, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/169382) over 1 week, 58 additions and 714 deletions in 29 files</sub>
+  <sub>[#169382](https://github.com/flutter/flutter/pull/169382) merged on May 30, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/169382) over 1 week, 58 additions and 714 deletions in 29 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [tests] Increase linux timeout and skip on others
