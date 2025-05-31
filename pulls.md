@@ -146,3 +146,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update anchorRect for overlayBuilder when anchor moves<br />
   <sub>[#169814](https://github.com/flutter/flutter/pull/169814) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169814) 61 additions and 1 deletion in 2 files</sub><br />
 
+* **[likir09](https://github.com/likir09)** &mdash; fix: set versionCodeOverride when split-per-abi is specified<br />
+  <sub>[#169816](https://github.com/flutter/flutter/pull/169816) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169816) 1 addition and 1 deletion in 1 file</sub><br />
+
