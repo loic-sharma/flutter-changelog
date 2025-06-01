@@ -1071,7 +1071,7 @@
 
 ### May 24, 2025 to May 30, 2025
 
-12 commits.
+13 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update windows.md
   <sub>[#12073](https://github.com/flutter/website/pull/12073) merged on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12073) over 14 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -1108,6 +1108,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add two `flutter.dev/to/...` links for our docs-wiki.
   <sub>[#12060](https://github.com/flutter/website/pull/12060) merged on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12060) over 3 days, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Pubspec > make it clear that default flavor is not Android-specific
+  <sub>[#12088](https://github.com/flutter/website/pull/12088) merged on June 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12088) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add radio widget migration guide
   <sub>[#12080](https://github.com/flutter/website/pull/12080) merged on May 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12080) over 6 hours, 244 additions and 0 deletions in 2 files</sub>
