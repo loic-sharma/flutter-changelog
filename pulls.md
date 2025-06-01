@@ -155,3 +155,6 @@
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; feat(IconButton): add property to specify a states controller<br />
   <sub>[#169821](https://github.com/flutter/flutter/pull/169821) opened on on June 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169821) 142 additions and 7 deletions in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Docs: Update docs for suffix icon interaction behaviour<br />
+  <sub>[#169828](https://github.com/flutter/flutter/pull/169828) opened on on June 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169828) 21 additions and 0 deletions in 1 file</sub><br />
+
