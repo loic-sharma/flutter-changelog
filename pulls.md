@@ -147,7 +147,7 @@
   <sub>[#169814](https://github.com/flutter/flutter/pull/169814) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169814) 61 additions and 1 deletion in 2 files</sub><br />
 
 * **[likir09](https://github.com/likir09)** &mdash; fix: set versionCodeOverride when split-per-abi is specified<br />
-  <sub>[#169816](https://github.com/flutter/flutter/pull/169816) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169816) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#169816](https://github.com/flutter/flutter/pull/169816) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169816) 103 additions and 1 deletion in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [DO NOT SUBMIT] Adding logs in DDC library bundle format to debug timeouts<br />
   <sub>[#169818](https://github.com/flutter/flutter/pull/169818) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169818) 35 additions and 2 deletions in 6 files</sub><br />
