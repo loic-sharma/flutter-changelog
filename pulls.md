@@ -164,3 +164,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add caching to the tool test workflow<br />
   <sub>[#169858](https://github.com/flutter/flutter/pull/169858) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169858) 59 additions and 9 deletions in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Combine expression evaluation tests to reduce testing time<br />
+  <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169860) 11 additions and 67 deletions in 2 files</sub><br />
+
