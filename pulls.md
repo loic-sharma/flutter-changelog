@@ -161,3 +161,6 @@
 * **[Yaroslav Vorobev](https://github.com/Zekfad)** &mdash; fix(GappedSliderTrackShape): hide secondary track similar to right part<br />
   <sub>[#169846](https://github.com/flutter/flutter/pull/169846) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169846) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Fix text selection toolbar alignment for RTL languages<br />
+  <sub>[#169854](https://github.com/flutter/flutter/pull/169854) opened on on June 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169854) 264 additions and 52 deletions in 3 files</sub><br />
+
