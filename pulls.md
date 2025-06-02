@@ -92,9 +92,6 @@
 * **[EdwynZN](https://github.com/EdwynZN)** &mdash; Fix default minimumSize in dropdownMenu when maximumSize is null<br />
   <sub>[#169438](https://github.com/flutter/flutter/pull/169438) opened on on May 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169438) 29 additions and 2 deletions in 2 files</sub><br />
 
-* **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Respect user-data-dir flag from web-browser-flag<br />
-  <sub>[#169445](https://github.com/flutter/flutter/pull/169445) opened on on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169445) 30 additions and 3 deletions in 1 file</sub><br />
-
 * **[Stan](https://github.com/stan-at-work)** &mdash; Allow Passing an AnimationController to (Circular & Linear) ProgressIndicator<br />
   <sub>[#169480](https://github.com/flutter/flutter/pull/169480) opened on on May 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169480) 225 additions and 19 deletions in 3 files</sub><br />
 
