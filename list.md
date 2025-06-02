@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 31, 2025 to June 6, 2025
+
+1 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert "Fix NavigationBar indicator overlay color (#164484)"
+  <sub>[#169497](https://github.com/flutter/flutter/pull/169497) merged on June 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169497) over 5 days, 52 additions and 35 deletions in 7 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 ### May 24, 2025 to May 30, 2025
 
-71 commits.
+<details>
+<summary>71 commits...</summary>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Cupertino] Apply RSuperellipse to most Cupertino widgets
   <sub>[#167784](https://github.com/flutter/flutter/pull/167784) merged on May 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/167784) over 1 month, 250 additions and 219 deletions in 28 files</sub>
@@ -294,6 +303,8 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [reland] Make build_android_host_app_with_module_aar build using an aar
   <sub>[#169311](https://github.com/flutter/flutter/pull/169311) merged on May 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169311) over 6 days, 60 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+</details>
 
 ### May 17, 2025 to May 23, 2025
 
