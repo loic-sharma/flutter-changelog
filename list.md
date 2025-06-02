@@ -4,7 +4,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-15 commits.
+16 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools
   <sub>[#169863](https://github.com/flutter/flutter/pull/169863) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169863) over 3 hours, 20 additions and 16 deletions in 11 files</sub>
@@ -33,6 +33,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Symlink SwiftPM plugins in the same directory
   <sub>[#168932](https://github.com/flutter/flutter/pull/168932) merged on June 2, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168932) over 2 weeks, 292 additions and 139 deletions in 9 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add convenience static members to AlignmentGeometry
+  <sub>[#169709](https://github.com/flutter/flutter/pull/169709) merged on June 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169709) over 4 days, 77 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-foward: "Remove legacy platforms in `.ci.yaml` with 0 usages"
   <sub>[#169882](https://github.com/flutter/flutter/pull/169882) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169882) over 1 hour, 14 additions and 52 deletions in 1 file</sub>
