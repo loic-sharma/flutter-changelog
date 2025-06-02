@@ -4,7 +4,11 @@
 
 ### May 31, 2025 to June 6, 2025
 
-5 commits.
+6 commits.
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Check to see if previous page is laid out before starting hero flight<br />
+  <sub>[#169633](https://github.com/flutter/flutter/pull/169633) merged on June 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/169633) over 4 days, 115 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Web][Engine] Update MediaQuery in response to semanticsEnabled<br />
   <sub>[#166836](https://github.com/flutter/flutter/pull/166836) merged on June 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/166836) over 1 month, 29 additions and 4 deletions in 5 files</sub><br />
