@@ -120,7 +120,7 @@
   <sub>[#169628](https://github.com/flutter/flutter/pull/169628) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169628) 4 additions and 3 deletions in 1 file</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Support AOT unit testing.<br />
-  <sub>[#169629](https://github.com/flutter/flutter/pull/169629) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169629) 71 additions and 49 deletions in 6 files</sub><br />
+  <sub>[#169629](https://github.com/flutter/flutter/pull/169629) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169629) 71 additions and 49 deletions in 6 files</sub><br />
 
 * **[Paolo Baldo Luchini](https://github.com/Paolo9711)** &mdash; Fix stepper line active color<br />
   <sub>[#169662](https://github.com/flutter/flutter/pull/169662) opened on on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169662) 2 additions and 1 deletion in 1 file</sub><br />
@@ -166,4 +166,10 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Combine expression evaluation tests to reduce testing time<br />
   <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169860) 11 additions and 67 deletions in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools<br />
+  <sub>[#169863](https://github.com/flutter/flutter/pull/169863) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169863) 20 additions and 16 deletions in 11 files</sub><br />
+
+* **[Runrioter Wung](https://github.com/Runrioter)** &mdash; fix: add the missing type of debug metadata<br />
+  <sub>[#169864](https://github.com/flutter/flutter/pull/169864) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169864) 4 additions and 3 deletions in 1 file</sub><br />
 
