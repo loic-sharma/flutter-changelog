@@ -153,7 +153,7 @@
   <sub>[#169858](https://github.com/flutter/flutter/pull/169858) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169858) 59 additions and 9 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Combine expression evaluation tests to reduce testing time<br />
-  <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/169860) 68 additions and 162 deletions in 10 files</sub><br />
+  <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169860) 68 additions and 162 deletions in 10 files</sub><br />
 
 * **[Runrioter Wung](https://github.com/Runrioter)** &mdash; fix: add the missing type of debug metadata<br />
   <sub>[#169864](https://github.com/flutter/flutter/pull/169864) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169864) 4 additions and 3 deletions in 1 file</sub><br />

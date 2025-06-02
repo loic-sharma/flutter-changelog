@@ -4,7 +4,15 @@
 
 ### May 31, 2025 to June 6, 2025
 
-9 commits.
+11 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools
+  <sub>[#169863](https://github.com/flutter/flutter/pull/169863) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169863) over 3 hours, 20 additions and 16 deletions in 11 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds radio group widget r2
+  <sub>[#168161](https://github.com/flutter/flutter/pull/168161) merged on June 2, 2025 &mdash; **Extra large:** [61 comments](https://github.com/flutter/flutter/pull/168161) over 1 month, 1764 additions and 742 deletions in 37 files</sub>
+  <sub>Reviewed by: [copilot-pull-request-reviewer](https://github.com/apps/copilot-pull-request-reviewer), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Check to see if previous page is laid out before starting hero flight
   <sub>[#169633](https://github.com/flutter/flutter/pull/169633) merged on June 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/169633) over 4 days, 115 additions and 8 deletions in 2 files</sub>
