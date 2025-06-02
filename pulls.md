@@ -165,7 +165,7 @@
   <sub>[#169858](https://github.com/flutter/flutter/pull/169858) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169858) 59 additions and 9 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Combine expression evaluation tests to reduce testing time<br />
-  <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169860) 11 additions and 67 deletions in 2 files</sub><br />
+  <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169860) 11 additions and 67 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools<br />
   <sub>[#169863](https://github.com/flutter/flutter/pull/169863) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169863) 20 additions and 16 deletions in 11 files</sub><br />
