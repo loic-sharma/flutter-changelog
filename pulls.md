@@ -147,14 +147,17 @@
   <sub>[#169854](https://github.com/flutter/flutter/pull/169854) opened on on June 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169854) 264 additions and 52 deletions in 3 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add caching to the tool test workflow<br />
-  <sub>[#169858](https://github.com/flutter/flutter/pull/169858) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169858) 59 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#169858](https://github.com/flutter/flutter/pull/169858) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169858) 59 additions and 9 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Combine expression evaluation tests to reduce testing time<br />
-  <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169860) 52 additions and 160 deletions in 10 files</sub><br />
+  <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/169860) 52 additions and 160 deletions in 10 files</sub><br />
 
 * **[Runrioter Wung](https://github.com/Runrioter)** &mdash; fix: add the missing type of debug metadata<br />
   <sub>[#169864](https://github.com/flutter/flutter/pull/169864) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169864) 4 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid allocating path for dashed lines<br />
   <sub>[#169881](https://github.com/flutter/flutter/pull/169881) opened on on June 2, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169881) 284 additions and 34 deletions in 10 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-foward: "Remove legacy platforms in `.ci.yaml` with 0 usages"<br />
+  <sub>[#169882](https://github.com/flutter/flutter/pull/169882) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169882) 14 additions and 52 deletions in 1 file</sub><br />
 
