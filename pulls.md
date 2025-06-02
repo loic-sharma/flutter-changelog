@@ -156,7 +156,7 @@
   <sub>[#169864](https://github.com/flutter/flutter/pull/169864) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169864) 4 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid allocating path for dashed lines<br />
-  <sub>[#169881](https://github.com/flutter/flutter/pull/169881) opened on on June 2, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169881) 286 additions and 34 deletions in 10 files</sub><br />
+  <sub>[#169881](https://github.com/flutter/flutter/pull/169881) opened on on June 2, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169881) 286 additions and 35 deletions in 10 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-foward: "Remove legacy platforms in `.ci.yaml` with 0 usages"<br />
   <sub>[#169882](https://github.com/flutter/flutter/pull/169882) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169882) 14 additions and 52 deletions in 1 file</sub><br />
