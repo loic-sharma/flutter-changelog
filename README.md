@@ -4,11 +4,19 @@
 
 ### May 31, 2025 to June 6, 2025
 
-3 commits.
+5 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Web][Engine] Update MediaQuery in response to semanticsEnabled<br />
   <sub>[#166836](https://github.com/flutter/flutter/pull/166836) merged on June 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/166836) over 1 month, 29 additions and 4 deletions in 5 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Symlink SwiftPM plugins in the same directory<br />
+  <sub>[#168932](https://github.com/flutter/flutter/pull/168932) merged on June 2, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168932) over 2 weeks, 292 additions and 139 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Add error message for #169475<br />
+  <sub>[#169866](https://github.com/flutter/flutter/pull/169866) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169866) over 46 minutes, 11 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Remove deprecated desktop support<br />
   <sub>[#169703](https://github.com/flutter/flutter/pull/169703) merged on June 2, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169703) over 3 days, 127 additions and 258 deletions in 4 files</sub><br />
