@@ -4,7 +4,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-16 commits.
+17 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools<br />
   <sub>[#169863](https://github.com/flutter/flutter/pull/169863) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169863) over 3 hours, 20 additions and 16 deletions in 11 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Web][Engine] Update MediaQuery in response to semanticsEnabled<br />
   <sub>[#166836](https://github.com/flutter/flutter/pull/166836) merged on June 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/166836) over 1 month, 29 additions and 4 deletions in 5 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `generateSyntheticPackages` and code that invoked it.<br />
+  <sub>[#169893](https://github.com/flutter/flutter/pull/169893) merged on June 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169893) over 44 minutes, 1 addition and 767 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Symlink SwiftPM plugins in the same directory<br />
   <sub>[#168932](https://github.com/flutter/flutter/pull/168932) merged on June 2, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168932) over 2 weeks, 292 additions and 139 deletions in 9 files</sub><br />
@@ -656,7 +660,11 @@
 
 ### May 31, 2025 to June 6, 2025
 
-1 commits.
+2 commits.
+
+* **[Kaique Gazola](https://github.com/kaiquegazola)** &mdash; [in_app_purchase_storekit] Add support to win back offers / promotional offers<br />
+  <sub>[#8474](https://github.com/flutter/packages/pull/8474) merged on June 2, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/8474) over 4 months, 1502 additions and 108 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [two_dimensional_scrollables] Enable multi-cell/single-cell text selection in Simple Table example<br />
   <sub>[#8189](https://github.com/flutter/packages/pull/8189) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8189) over 6 months, 192 additions and 45 deletions in 4 files</sub><br />

@@ -120,7 +120,7 @@
   <sub>[#169692](https://github.com/flutter/flutter/pull/169692) opened on on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169692) 53 additions and 25 deletions in 6 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Adjust handle anchor offset for collapsed text selection for Android<br />
-  <sub>[#169715](https://github.com/flutter/flutter/pull/169715) opened on on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169715) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#169715](https://github.com/flutter/flutter/pull/169715) opened on on May 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169715) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat: Add radius to DividerThemeData.<br />
   <sub>[#169739](https://github.com/flutter/flutter/pull/169739) opened on on May 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169739) 66 additions and 7 deletions in 3 files</sub><br />
