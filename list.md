@@ -4,7 +4,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-12 commits.
+14 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools
   <sub>[#169863](https://github.com/flutter/flutter/pull/169863) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169863) over 3 hours, 20 additions and 16 deletions in 11 files</sub>
@@ -13,6 +13,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds radio group widget r2
   <sub>[#168161](https://github.com/flutter/flutter/pull/168161) merged on June 2, 2025 &mdash; **Extra large:** [61 comments](https://github.com/flutter/flutter/pull/168161) over 1 month, 1764 additions and 742 deletions in 37 files</sub>
   <sub>Reviewed by: [copilot-pull-request-reviewer](https://github.com/apps/copilot-pull-request-reviewer), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; doc: Explain `MenuController.maybeOf` in `MenuAnchor` and `RawMenuAnchor`
+  <sub>[#168630](https://github.com/flutter/flutter/pull/168630) merged on June 2, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/168630) over 3 weeks, 10 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Check to see if previous page is laid out before starting hero flight
   <sub>[#169633](https://github.com/flutter/flutter/pull/169633) merged on June 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/169633) over 4 days, 115 additions and 8 deletions in 2 files</sub>
@@ -25,6 +29,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Symlink SwiftPM plugins in the same directory
   <sub>[#168932](https://github.com/flutter/flutter/pull/168932) merged on June 2, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168932) over 2 weeks, 292 additions and 139 deletions in 9 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-foward: "Remove legacy platforms in `.ci.yaml` with 0 usages"
+  <sub>[#169882](https://github.com/flutter/flutter/pull/169882) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169882) over 1 hour, 14 additions and 52 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix flakes in the CommandPoolRecyclerVKTest suite
   <sub>[#169785](https://github.com/flutter/flutter/pull/169785) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169785) over 2 days, 37 additions and 46 deletions in 1 file</sub>
