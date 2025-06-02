@@ -164,3 +164,6 @@
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Fix text selection toolbar alignment for RTL languages<br />
   <sub>[#169854](https://github.com/flutter/flutter/pull/169854) opened on on June 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169854) 264 additions and 52 deletions in 3 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add caching to the tool test workflow<br />
+  <sub>[#169858](https://github.com/flutter/flutter/pull/169858) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169858) 59 additions and 9 deletions in 1 file</sub><br />
+
