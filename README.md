@@ -753,7 +753,11 @@
 
 ### May 31, 2025 to June 6, 2025
 
-1 commits.
+2 commits.
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add go link for migration of material and cupertino libraries<br />
+  <sub>[#12070](https://github.com/flutter/website/pull/12070) merged on June 2, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12070) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter_lints and switch back to stable<br />
   <sub>[#12092](https://github.com/flutter/website/pull/12092) merged on June 2, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/12092) over 4 hours, 159 additions and 159 deletions in 151 files</sub><br />
