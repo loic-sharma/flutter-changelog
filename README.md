@@ -720,9 +720,18 @@
 
 ## flutter/website
 
+### May 31, 2025 to June 6, 2025
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter_lints and switch back to stable<br />
+  <sub>[#12092](https://github.com/flutter/website/pull/12092) merged on June 2, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/12092) over 4 hours, 159 additions and 159 deletions in 151 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
 ### May 24, 2025 to May 30, 2025
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update windows.md<br />
   <sub>[#12073](https://github.com/flutter/website/pull/12073) merged on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12073) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -775,6 +784,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add go link for google_maps_flutter versioning doc<br />
   <sub>[#12061](https://github.com/flutter/website/pull/12061) merged on May 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12061) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### May 17, 2025 to May 23, 2025
 
