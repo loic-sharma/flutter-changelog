@@ -614,9 +614,18 @@
 
 ## flutter/packages
 
+### May 31, 2025 to June 6, 2025
+
+1 commits.
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [two_dimensional_scrollables] Enable multi-cell/single-cell text selection in Simple Table example<br />
+  <sub>[#8189](https://github.com/flutter/packages/pull/8189) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8189) over 6 months, 192 additions and 45 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 ### May 24, 2025 to May 30, 2025
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [file_selector_macos] Do not set nameFieldStringValue for NSOpenPanel<br />
   <sub>[#9324](https://github.com/flutter/packages/pull/9324) merged on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9324) over 2 hours, 14 additions and 4 deletions in 4 files</sub><br />
@@ -654,6 +663,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from be698c48a675 to b25305a8832c (11 revisions)<br />
   <sub>[#9342](https://github.com/flutter/packages/pull/9342) merged on May 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9342) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### May 17, 2025 to May 23, 2025
 
