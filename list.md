@@ -4,11 +4,15 @@
 
 ### May 31, 2025 to June 6, 2025
 
-2 commits.
+3 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Web][Engine] Update MediaQuery in response to semanticsEnabled
   <sub>[#166836](https://github.com/flutter/flutter/pull/166836) merged on June 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/166836) over 1 month, 29 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Remove deprecated desktop support
+  <sub>[#169703](https://github.com/flutter/flutter/pull/169703) merged on June 2, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169703) over 3 days, 127 additions and 258 deletions in 4 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert "Fix NavigationBar indicator overlay color (#164484)"
   <sub>[#169497](https://github.com/flutter/flutter/pull/169497) merged on June 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169497) over 5 days, 52 additions and 35 deletions in 7 files</sub>
@@ -129,7 +133,7 @@
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes elevation and thickness from semantics r2
-  <sub>[#169382](https://github.com/flutter/flutter/pull/169382) merged on May 30, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/169382) over 1 week, 58 additions and 714 deletions in 29 files</sub>
+  <sub>[#169382](https://github.com/flutter/flutter/pull/169382) merged on May 30, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/169382) over 1 week, 58 additions and 714 deletions in 29 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [tests] Increase linux timeout and skip on others
