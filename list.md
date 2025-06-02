@@ -193,7 +193,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove legacy platforms in `.ci.yaml` with 0 usages.
-  <sub>[#169783](https://github.com/flutter/flutter/pull/169783) merged on May 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169783) over 1 hour, 14 additions and 52 deletions in 1 file</sub>
+  <sub>[#169783](https://github.com/flutter/flutter/pull/169783) merged on May 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169783) over 1 hour, 14 additions and 52 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll expat to 8e49998f

@@ -60,7 +60,7 @@
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) opened on on May 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169134) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
-  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169174) 167 additions and 32 deletions in 9 files</sub><br />
+  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) opened on on May 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169174) 170 additions and 34 deletions in 9 files</sub><br />
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update TextInputConfiguration.viewId doc<br />
   <sub>[#169221](https://github.com/flutter/flutter/pull/169221) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169221) 2 additions and 0 deletions in 1 file</sub><br />
