@@ -158,3 +158,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Docs: Update docs for suffix icon interaction behaviour<br />
   <sub>[#169828](https://github.com/flutter/flutter/pull/169828) opened on on June 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169828) 21 additions and 0 deletions in 1 file</sub><br />
 
+* **[Yaroslav Vorobev](https://github.com/Zekfad)** &mdash; fix(GappedSliderTrackShape): hide secondary track similar to right part<br />
+  <sub>[#169846](https://github.com/flutter/flutter/pull/169846) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169846) 2 additions and 1 deletion in 1 file</sub><br />
+
