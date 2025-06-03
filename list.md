@@ -4,7 +4,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-39 commits.
+40 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support software rendering on Linux
   <sub>[#166307](https://github.com/flutter/flutter/pull/166307) merged on June 2, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/166307) over 2 months, 479 additions and 105 deletions in 13 files</sub>
@@ -67,6 +67,10 @@
   <sub>[#169893](https://github.com/flutter/flutter/pull/169893) merged on June 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169893) over 44 minutes, 1 addition and 767 deletions in 6 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver
+  <sub>[#166753](https://github.com/flutter/flutter/pull/166753) merged on June 3, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/166753) over 1 month, 19 additions and 11 deletions in 1 file</sub>
+  <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Fix .xcodeproj file name in Setting-up-the-Engine-development-environment.md
   <sub>[#168814](https://github.com/flutter/flutter/pull/168814) merged on June 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168814) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -75,13 +79,13 @@
   <sub>[#169556](https://github.com/flutter/flutter/pull/169556) merged on June 3, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169556) over 6 days, 3849 additions and 5434 deletions in 105 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver
-  <sub>[#166753](https://github.com/flutter/flutter/pull/166753) merged on June 3, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/166753) over 1 month, 19 additions and 11 deletions in 1 file</sub>
-  <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Symlink SwiftPM plugins in the same directory
   <sub>[#168932](https://github.com/flutter/flutter/pull/168932) merged on June 2, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168932) over 2 weeks, 292 additions and 139 deletions in 9 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Update expansible.dart
+  <sub>[#169925](https://github.com/flutter/flutter/pull/169925) merged on June 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169925) over 8 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all now inert references to "synthetic" packages.
   <sub>[#169943](https://github.com/flutter/flutter/pull/169943) merged on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169943) over 1 hour, 10 additions and 246 deletions in 14 files</sub>
@@ -99,14 +103,6 @@
   <sub>[#169895](https://github.com/flutter/flutter/pull/169895) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169895) over 2 hours, 0 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `FlutterProject.flutterPluginsFile`.
-  <sub>[#169897](https://github.com/flutter/flutter/pull/169897) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169897) over 35 minutes, 4 additions and 48 deletions in 7 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Add error message for #169475
-  <sub>[#169866](https://github.com/flutter/flutter/pull/169866) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169866) over 46 minutes, 11 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix flakes in the CommandPoolRecyclerVKTest suite
   <sub>[#169785](https://github.com/flutter/flutter/pull/169785) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169785) over 2 days, 37 additions and 46 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -118,6 +114,14 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-foward: "Remove legacy platforms in `.ci.yaml` with 0 usages"
   <sub>[#169882](https://github.com/flutter/flutter/pull/169882) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169882) over 1 hour, 14 additions and 52 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Add error message for #169475
+  <sub>[#169866](https://github.com/flutter/flutter/pull/169866) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169866) over 46 minutes, 11 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `FlutterProject.flutterPluginsFile`.
+  <sub>[#169897](https://github.com/flutter/flutter/pull/169897) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169897) over 35 minutes, 4 additions and 48 deletions in 7 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; `gclient sync` only run `pub get` in workspace root folders
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) merged on June 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169134) over 1 week, 2 additions and 2 deletions in 1 file</sub>
