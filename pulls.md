@@ -90,7 +90,7 @@
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Workspace<br />
-  <sub>[#169556](https://github.com/flutter/flutter/pull/169556) opened on on May 28, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169556) 3928 additions and 5439 deletions in 105 files</sub><br />
+  <sub>[#169556](https://github.com/flutter/flutter/pull/169556) opened on on May 28, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169556) 3849 additions and 5434 deletions in 105 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Exclude `web-server` from `supportedWebDeviceIds`<br />
   <sub>[#169590](https://github.com/flutter/flutter/pull/169590) opened on on May 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/169590) 10 additions and 4 deletions in 1 file</sub><br />
