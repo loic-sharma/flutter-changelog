@@ -53,9 +53,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
 
-* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Update TextInputConfiguration.viewId doc<br />
-  <sub>[#169221](https://github.com/flutter/flutter/pull/169221) opened on on May 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169221) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
   <sub>[#169245](https://github.com/flutter/flutter/pull/169245) opened on on May 22, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169245) 340 additions and 0 deletions in 6 files</sub><br />
 
