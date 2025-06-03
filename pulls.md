@@ -152,3 +152,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix failed VSCode version lookup on Linux<br />
   <sub>[#169949](https://github.com/flutter/flutter/pull/169949) opened on on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169949) 30 additions and 2 deletions in 3 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `engine.version` for 3.32.2 stable hotfix release<br />
+  <sub>[#169952](https://github.com/flutter/flutter/pull/169952) opened on on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169952) 1 addition and 1 deletion in 1 file</sub><br />
+
