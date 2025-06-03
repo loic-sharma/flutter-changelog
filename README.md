@@ -4,7 +4,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-19 commits.
+20 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools<br />
   <sub>[#169863](https://github.com/flutter/flutter/pull/169863) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169863) over 3 hours, 20 additions and 16 deletions in 11 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Check to see if previous page is laid out before starting hero flight<br />
   <sub>[#169633](https://github.com/flutter/flutter/pull/169633) merged on June 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/169633) over 4 days, 115 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add more documentation around keep alive<br />
+  <sub>[#168311](https://github.com/flutter/flutter/pull/168311) merged on June 2, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/168311) over 4 weeks, 123 additions and 23 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Web][Engine] Update MediaQuery in response to semanticsEnabled<br />
   <sub>[#166836](https://github.com/flutter/flutter/pull/166836) merged on June 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/166836) over 1 month, 29 additions and 4 deletions in 5 files</sub><br />
