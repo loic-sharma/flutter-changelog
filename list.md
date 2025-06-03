@@ -160,25 +160,25 @@
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [ios]: Warning for FlutterAppDelegate.window.rootViewController in launch functions
-  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) merged on May 31, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/169166) over 1 week, 241 additions and 1 deletion in 5 files</sub>
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Initialize `default-flavor` in `FlutterCommand`, adds integration test.
   <sub>[#169298](https://github.com/flutter/flutter/pull/169298) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169298) over 5 days, 239 additions and 59 deletions in 6 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [ios]: Warning for FlutterAppDelegate.window.rootViewController in launch functions
+  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) merged on May 31, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/169166) over 1 week, 241 additions and 1 deletion in 5 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add opaque, isActive, isFirst, popDisposition aspects for ModalRoute
   <sub>[#167324](https://github.com/flutter/flutter/pull/167324) merged on May 29, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/167324) over 1 month, 195 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update FAQ for WebGPU/Dawn.
-  <sub>[#169616](https://github.com/flutter/flutter/pull/169616) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169616) over 1 hour, 49 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll forward: "Initialize default-app-flavor" (#169298)
   <sub>[#169602](https://github.com/flutter/flutter/pull/169602) merged on May 28, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169602) over 2 hours, 247 additions and 59 deletions in 6 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update FAQ for WebGPU/Dawn.
+  <sub>[#169616](https://github.com/flutter/flutter/pull/169616) merged on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169616) over 1 hour, 49 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Pass the same optimization level to both stages of JS compiler
   <sub>[#169642](https://github.com/flutter/flutter/pull/169642) merged on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169642) over 15 hours, 16 additions and 1 deletion in 2 files</sub>
