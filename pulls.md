@@ -149,3 +149,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Split `Linux docs_publish` into `Linux docs_generate_release`<br />
   <sub>[#169912](https://github.com/flutter/flutter/pull/169912) opened on on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169912) 67 additions and 36 deletions in 2 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
+  <sub>[#169920](https://github.com/flutter/flutter/pull/169920) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169920) 38 additions and 31 deletions in 12 files</sub><br />
+
