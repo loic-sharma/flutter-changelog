@@ -138,11 +138,8 @@
   <sub>[#169894](https://github.com/flutter/flutter/pull/169894) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169894) 0 additions and 60 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `bringup` on `Linux docs_generate_release`.<br />
-  <sub>[#169937](https://github.com/flutter/flutter/pull/169937) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169937) 0 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#169937](https://github.com/flutter/flutter/pull/169937) opened on on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169937) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix failed VSCode version lookup on Linux<br />
   <sub>[#169949](https://github.com/flutter/flutter/pull/169949) opened on on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169949) 30 additions and 2 deletions in 3 files</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `engine.version` for 3.32.2 stable hotfix release<br />
-  <sub>[#169952](https://github.com/flutter/flutter/pull/169952) opened on on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169952) 7 additions and 1 deletion in 2 files</sub><br />
 
