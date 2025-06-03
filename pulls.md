@@ -152,3 +152,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
   <sub>[#169920](https://github.com/flutter/flutter/pull/169920) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169920) 38 additions and 31 deletions in 12 files</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; Update expansible.dart<br />
+  <sub>[#169925](https://github.com/flutter/flutter/pull/169925) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169925) 1 addition and 1 deletion in 1 file</sub><br />
+
