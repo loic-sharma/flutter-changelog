@@ -158,6 +158,3 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove legacy checks for `.flutter-plugins`, which no longer exists.<br />
   <sub>[#169894](https://github.com/flutter/flutter/pull/169894) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169894) 0 additions and 60 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove stray (unused) `legacyFlutterPluginsWarning`.<br />
-  <sub>[#169895](https://github.com/flutter/flutter/pull/169895) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169895) 0 additions and 8 deletions in 1 file</sub><br />
-
