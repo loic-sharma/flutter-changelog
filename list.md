@@ -874,10 +874,14 @@
 
 ### May 31, 2025 to June 6, 2025
 
-4 commits.
+5 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add go link for migration of material and cupertino libraries
   <sub>[#12070](https://github.com/flutter/website/pull/12070) merged on June 2, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12070) over 1 week, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Use existing template for feedback widget
+  <sub>[#12100](https://github.com/flutter/website/pull/12100) merged on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12100) over 52 minutes, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add release notes for DevTools 2.47.0
