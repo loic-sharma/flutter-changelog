@@ -4,7 +4,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-30 commits.
+31 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support software rendering on Linux
   <sub>[#166307](https://github.com/flutter/flutter/pull/166307) merged on June 2, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/166307) over 2 months, 479 additions and 105 deletions in 13 files</sub>
@@ -13,6 +13,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools
   <sub>[#169863](https://github.com/flutter/flutter/pull/169863) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169863) over 3 hours, 20 additions and 16 deletions in 11 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Web][Engine] Fix composingBaseOffset and composingExtentOffset value when input japanese text
+  <sub>[#161593](https://github.com/flutter/flutter/pull/161593) merged on June 3, 2025 &mdash; **Small:** [67 comments](https://github.com/flutter/flutter/pull/161593) over 4 months, 231 additions and 7 deletions in 4 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds radio group widget r2
   <sub>[#168161](https://github.com/flutter/flutter/pull/168161) merged on June 2, 2025 &mdash; **Extra large:** [61 comments](https://github.com/flutter/flutter/pull/168161) over 1 month, 1764 additions and 742 deletions in 37 files</sub>
