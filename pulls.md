@@ -146,9 +146,9 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove legacy checks for `.flutter-plugins`, which no longer exists.<br />
   <sub>[#169894](https://github.com/flutter/flutter/pull/169894) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169894) 0 additions and 60 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable] Split `Linux docs_publish` into `Linux docs_generate_release`<br />
-  <sub>[#169912](https://github.com/flutter/flutter/pull/169912) opened on on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169912) 67 additions and 36 deletions in 2 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update expansible.dart<br />
   <sub>[#169925](https://github.com/flutter/flutter/pull/169925) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169925) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `bringup` on `Linux docs_generate_release`.<br />
+  <sub>[#169937](https://github.com/flutter/flutter/pull/169937) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169937) 0 additions and 4 deletions in 1 file</sub><br />
 
