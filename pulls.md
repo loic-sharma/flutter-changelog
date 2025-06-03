@@ -147,5 +147,8 @@
   <sub>[#169937](https://github.com/flutter/flutter/pull/169937) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169937) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove Observatory build rules and remaining references from the engine<br />
-  <sub>[#169945](https://github.com/flutter/flutter/pull/169945) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169945) 5 additions and 114 deletions in 16 files</sub><br />
+  <sub>[#169945](https://github.com/flutter/flutter/pull/169945) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169945) 5 additions and 103 deletions in 15 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix failed VSCode version lookup on Linux<br />
+  <sub>[#169949](https://github.com/flutter/flutter/pull/169949) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169949) 19 additions and 2 deletions in 2 files</sub><br />
 
