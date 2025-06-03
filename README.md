@@ -4,7 +4,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-31 commits.
+32 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support software rendering on Linux<br />
   <sub>[#166307](https://github.com/flutter/flutter/pull/166307) merged on June 2, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/166307) over 2 months, 479 additions and 105 deletions in 13 files</sub><br />
@@ -25,6 +25,11 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; doc: Explain `MenuController.maybeOf` in `MenuAnchor` and `RawMenuAnchor`<br />
   <sub>[#168630](https://github.com/flutter/flutter/pull/168630) merged on June 2, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/168630) over 3 weeks, 10 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix[widget_inspector]: Widget Inspector Directionality & Move button tooltip.<br />
+  <sub>[#169425](https://github.com/flutter/flutter/pull/169425) merged on June 3, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/169425) over 1 week, 112 additions and 34 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+  <sub><details><summary>6 images...</summary>![before_1](https://github.com/user-attachments/assets/c0cd3f65-d524-4e49-a946-4736a4f3890a)![before_2](https://github.com/user-attachments/assets/3c8d2f4a-f2be-4c12-a2a0-696736f2b2e9)![after_en1](https://github.com/user-attachments/assets/617293f6-d047-4fc0-8e3d-1de9608b48c6)![after_en2](https://github.com/user-attachments/assets/4bff323c-3814-489f-bd90-d213b71192f1)![after_ar1](https://github.com/user-attachments/assets/50f3d78b-d403-4d31-b6c9-4a5ad25da7cd)![after_ar2](https://github.com/user-attachments/assets/601dcfdf-44d8-4bb3-9696-cf87ddaff911)</details></sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) merged on June 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169174) over 1 week, 164 additions and 27 deletions in 9 files</sub><br />
