@@ -53,9 +53,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit<br />
-  <sub>[#169105](https://github.com/flutter/flutter/pull/169105) opened on on May 19, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/169105) 3107 additions and 3 deletions in 28 files</sub><br />
-
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
   <sub>[#169245](https://github.com/flutter/flutter/pull/169245) opened on on May 22, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169245) 340 additions and 0 deletions in 6 files</sub><br />
 
@@ -78,7 +75,7 @@
   <sub>[#169438](https://github.com/flutter/flutter/pull/169438) opened on on May 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169438) 29 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update deprecated vector_math calls<br />
-  <sub>[#169477](https://github.com/flutter/flutter/pull/169477) opened on on May 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169477) 73 additions and 69 deletions in 24 files</sub><br />
+  <sub>[#169477](https://github.com/flutter/flutter/pull/169477) opened on on May 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169477) 72 additions and 65 deletions in 24 files</sub><br />
 
 * **[Le Trung Do](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
   <sub>[#169494](https://github.com/flutter/flutter/pull/169494) opened on on May 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169494) 18 additions and 25 deletions in 1 file</sub><br />
@@ -154,4 +151,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `bringup` on `Linux docs_generate_release`.<br />
   <sub>[#169937](https://github.com/flutter/flutter/pull/169937) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169937) 0 additions and 4 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove Observatory build rules and remaining references from the engine<br />
+  <sub>[#169945](https://github.com/flutter/flutter/pull/169945) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169945) 5 additions and 114 deletions in 16 files</sub><br />
 
