@@ -4,7 +4,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-40 commits.
+41 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support software rendering on Linux<br />
   <sub>[#166307](https://github.com/flutter/flutter/pull/166307) merged on June 2, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/166307) over 2 months, 479 additions and 105 deletions in 13 files</sub><br />
@@ -67,6 +67,10 @@
   <sub>[#169893](https://github.com/flutter/flutter/pull/169893) merged on June 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169893) over 44 minutes, 1 addition and 767 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Moritz](https://github.com/mosuem)** &mdash; Workspace<br />
+  <sub>[#169556](https://github.com/flutter/flutter/pull/169556) merged on June 3, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169556) over 6 days, 3849 additions and 5434 deletions in 105 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Linux OpenGL compositor on ARM driver<br />
   <sub>[#166753](https://github.com/flutter/flutter/pull/166753) merged on June 3, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/166753) over 1 month, 19 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
@@ -75,9 +79,9 @@
   <sub>[#168814](https://github.com/flutter/flutter/pull/168814) merged on June 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168814) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Moritz](https://github.com/mosuem)** &mdash; Workspace<br />
-  <sub>[#169556](https://github.com/flutter/flutter/pull/169556) merged on June 3, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169556) over 6 days, 3849 additions and 5434 deletions in 105 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Revert "Changes the offset computation to first item for RenderSliverMainAxisGroup" (#154688)<br />
+  <sub>[#168450](https://github.com/flutter/flutter/pull/168450) merged on June 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168450) over 3 weeks, 62 additions and 58 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Symlink SwiftPM plugins in the same directory<br />
   <sub>[#168932](https://github.com/flutter/flutter/pull/168932) merged on June 2, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/168932) over 2 weeks, 292 additions and 139 deletions in 9 files</sub><br />
@@ -99,29 +103,29 @@
   <sub>[#169793](https://github.com/flutter/flutter/pull/169793) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169793) over 3 days, 67 additions and 36 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove stray (unused) `legacyFlutterPluginsWarning`.<br />
-  <sub>[#169895](https://github.com/flutter/flutter/pull/169895) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169895) over 2 hours, 0 additions and 8 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix flakes in the CommandPoolRecyclerVKTest suite<br />
   <sub>[#169785](https://github.com/flutter/flutter/pull/169785) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169785) over 2 days, 37 additions and 46 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add convenience static members to AlignmentGeometry<br />
-  <sub>[#169709](https://github.com/flutter/flutter/pull/169709) merged on June 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169709) over 4 days, 77 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-foward: "Remove legacy platforms in `.ci.yaml` with 0 usages"<br />
-  <sub>[#169882](https://github.com/flutter/flutter/pull/169882) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169882) over 1 hour, 14 additions and 52 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove stray (unused) `legacyFlutterPluginsWarning`.<br />
+  <sub>[#169895](https://github.com/flutter/flutter/pull/169895) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169895) over 2 hours, 0 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Add error message for #169475<br />
   <sub>[#169866](https://github.com/flutter/flutter/pull/169866) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169866) over 46 minutes, 11 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-foward: "Remove legacy platforms in `.ci.yaml` with 0 usages"<br />
+  <sub>[#169882](https://github.com/flutter/flutter/pull/169882) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169882) over 1 hour, 14 additions and 52 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `FlutterProject.flutterPluginsFile`.<br />
   <sub>[#169897](https://github.com/flutter/flutter/pull/169897) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169897) over 35 minutes, 4 additions and 48 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add convenience static members to AlignmentGeometry<br />
+  <sub>[#169709](https://github.com/flutter/flutter/pull/169709) merged on June 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169709) over 4 days, 77 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; `gclient sync` only run `pub get` in workspace root folders<br />
   <sub>[#169134](https://github.com/flutter/flutter/pull/169134) merged on June 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169134) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
@@ -753,7 +757,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-5 commits.
+6 commits.
 
 * **[Kaique Gazola](https://github.com/kaiquegazola)** &mdash; [in_app_purchase_storekit] Add support to win back offers / promotional offers<br />
   <sub>[#8474](https://github.com/flutter/packages/pull/8474) merged on June 2, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/8474) over 4 months, 1502 additions and 108 deletions in 20 files</sub><br />
@@ -762,6 +766,11 @@
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player] Platform view support<br />
   <sub>[#8810](https://github.com/flutter/packages/pull/8810) merged on June 3, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/8810) over 2 months, 258 additions and 89 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Robert Odrowaz](https://github.com/RobertOdrowaz), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; [camera] 🐛 Fix toggles overflow in the camera example<br />
+  <sub>[#9274](https://github.com/flutter/packages/pull/9274) merged on June 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9274) over 2 weeks, 59 additions and 37 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+  <sub><details><summary>2 images...</summary>![Screenshot_2025-05-17-11-31-18-73_2088dbc85c3063e](https://github.com/user-attachments/assets/25fb9323-81dd-4fa0-8bd5-80cc5cb36459) | ![Screenshot_2025-05-17-11-37-47-38_2088dbc85c3063e](https://github.com/user-attachments/assets/9dffa9fa-de9a-4038-9984-ab7191659f72)![Screenshot_2025-05-17-11-31-25-33_2088dbc85c3063e](https://github.com/user-attachments/assets/d3178853-afff-4e94-af3c-d2ab14accfa4) | ![Screenshot_2025-05-17-11-37-56-58_2088dbc85c3063e](https://github.com/user-attachments/assets/19390f1b-e374-4e69-b825-275c1a17683a)</details></sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [two_dimensional_scrollables] Enable multi-cell/single-cell text selection in Simple Table example<br />
   <sub>[#8189](https://github.com/flutter/packages/pull/8189) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8189) over 6 months, 192 additions and 45 deletions in 4 files</sub><br />
