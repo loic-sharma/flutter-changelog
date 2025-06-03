@@ -721,7 +721,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-3 commits.
+4 commits.
 
 * **[Kaique Gazola](https://github.com/kaiquegazola)** &mdash; [in_app_purchase_storekit] Add support to win back offers / promotional offers
   <sub>[#8474](https://github.com/flutter/packages/pull/8474) merged on June 2, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/8474) over 4 months, 1502 additions and 108 deletions in 20 files</sub>
@@ -734,6 +734,10 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [two_dimensional_scrollables] Enable multi-cell/single-cell text selection in Simple Table example
   <sub>[#8189](https://github.com/flutter/packages/pull/8189) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8189) over 6 months, 192 additions and 45 deletions in 4 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [pointer_interceptor_web] Fix unresponsive input above PointerInterceptor on Safari and Firefox.
+  <sub>[#9362](https://github.com/flutter/packages/pull/9362) merged on June 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9362) over 1 hour, 45 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 ### May 24, 2025 to May 30, 2025
 
@@ -866,7 +870,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-2 commits.
+3 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add go link for migration of material and cupertino libraries
   <sub>[#12070](https://github.com/flutter/website/pull/12070) merged on June 2, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12070) over 1 week, 1 addition and 0 deletions in 1 file</sub>
@@ -875,6 +879,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter_lints and switch back to stable
   <sub>[#12092](https://github.com/flutter/website/pull/12092) merged on June 2, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/12092) over 4 hours, 159 additions and 159 deletions in 151 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove ios_platform_images reference
+  <sub>[#12098](https://github.com/flutter/website/pull/12098) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12098) over 27 minutes, 3 additions and 17 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### May 24, 2025 to May 30, 2025
 
