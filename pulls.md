@@ -152,3 +152,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
   <sub>[#169920](https://github.com/flutter/flutter/pull/169920) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169920) 38 additions and 31 deletions in 12 files</sub><br />
 
+* **[Moritz](https://github.com/mosuem)** &mdash; Use flutter pub get, not dart pub get, on the autoroller<br />
+  <sub>[#169922](https://github.com/flutter/flutter/pull/169922) opened on on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169922) 5 additions and 4 deletions in 2 files</sub><br />
+
