@@ -741,7 +741,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-4 commits.
+5 commits.
 
 * **[Kaique Gazola](https://github.com/kaiquegazola)** &mdash; [in_app_purchase_storekit] Add support to win back offers / promotional offers
   <sub>[#8474](https://github.com/flutter/packages/pull/8474) merged on June 2, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/8474) over 4 months, 1502 additions and 108 deletions in 20 files</sub>
@@ -758,6 +758,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [pointer_interceptor_web] Fix unresponsive input above PointerInterceptor on Safari and Firefox.
   <sub>[#9362](https://github.com/flutter/packages/pull/9362) merged on June 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9362) over 1 hour, 45 additions and 5 deletions in 4 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Remove duplicate integration test
+  <sub>[#9368](https://github.com/flutter/packages/pull/9368) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9368) over 1 hour, 0 additions and 19 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 ### May 24, 2025 to May 30, 2025
 
