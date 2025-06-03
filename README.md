@@ -700,11 +700,15 @@
 
 ### May 31, 2025 to June 6, 2025
 
-2 commits.
+3 commits.
 
 * **[Kaique Gazola](https://github.com/kaiquegazola)** &mdash; [in_app_purchase_storekit] Add support to win back offers / promotional offers<br />
   <sub>[#8474](https://github.com/flutter/packages/pull/8474) merged on June 2, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/8474) over 4 months, 1502 additions and 108 deletions in 20 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player] Platform view support<br />
+  <sub>[#8810](https://github.com/flutter/packages/pull/8810) merged on June 3, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/8810) over 2 months, 258 additions and 89 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Robert Odrowaz](https://github.com/RobertOdrowaz), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [two_dimensional_scrollables] Enable multi-cell/single-cell text selection in Simple Table example<br />
   <sub>[#8189](https://github.com/flutter/packages/pull/8189) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8189) over 6 months, 192 additions and 45 deletions in 4 files</sub><br />
