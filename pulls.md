@@ -132,7 +132,7 @@
   <sub>[#169816](https://github.com/flutter/flutter/pull/169816) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169816) 124 additions and 1 deletion in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [DO NOT SUBMIT] Adding logs in DDC library bundle format to debug timeouts<br />
-  <sub>[#169818](https://github.com/flutter/flutter/pull/169818) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169818) 62 additions and 2 deletions in 8 files</sub><br />
+  <sub>[#169818](https://github.com/flutter/flutter/pull/169818) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169818) 42 additions and 2 deletions in 8 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; feat(IconButton): add property to specify a states controller<br />
   <sub>[#169821](https://github.com/flutter/flutter/pull/169821) opened on on June 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169821) 142 additions and 7 deletions in 2 files</sub><br />
