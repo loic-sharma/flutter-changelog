@@ -29,9 +29,6 @@
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Revert "Changes the offset computation to first item for RenderSliverMainAxisGroup" (#154688)<br />
-  <sub>[#168450](https://github.com/flutter/flutter/pull/168450) opened on on May 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168450) 62 additions and 58 deletions in 2 files</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
 
@@ -145,4 +142,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix failed VSCode version lookup on Linux<br />
   <sub>[#169949](https://github.com/flutter/flutter/pull/169949) opened on on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169949) 30 additions and 2 deletions in 3 files</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `engine.version` for 3.32.2 stable hotfix release<br />
+  <sub>[#169952](https://github.com/flutter/flutter/pull/169952) opened on on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169952) 7 additions and 1 deletion in 2 files</sub><br />
 
