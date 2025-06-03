@@ -74,9 +74,6 @@
 * **[EdwynZN](https://github.com/EdwynZN)** &mdash; Fix default minimumSize in dropdownMenu when maximumSize is null<br />
   <sub>[#169438](https://github.com/flutter/flutter/pull/169438) opened on on May 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169438) 29 additions and 2 deletions in 2 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update deprecated vector_math calls<br />
-  <sub>[#169477](https://github.com/flutter/flutter/pull/169477) opened on on May 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169477) 72 additions and 65 deletions in 24 files</sub><br />
-
 * **[Le Trung Do](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
   <sub>[#169494](https://github.com/flutter/flutter/pull/169494) opened on on May 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169494) 18 additions and 25 deletions in 1 file</sub><br />
 
