@@ -18,13 +18,13 @@
   <sub>[#161593](https://github.com/flutter/flutter/pull/161593) merged on June 3, 2025 &mdash; **Small:** [67 comments](https://github.com/flutter/flutter/pull/161593) over 4 months, 231 additions and 7 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds radio group widget r2<br />
-  <sub>[#168161](https://github.com/flutter/flutter/pull/168161) merged on June 2, 2025 &mdash; **Extra large:** [61 comments](https://github.com/flutter/flutter/pull/168161) over 1 month, 1764 additions and 742 deletions in 37 files</sub><br />
-  <sub>Reviewed by: [copilot-pull-request-reviewer](https://github.com/apps/copilot-pull-request-reviewer), [Justin McCandless](https://github.com/justinmc)</sub><br />
-
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
   <sub>[#169174](https://github.com/flutter/flutter/pull/169174) merged on June 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169174) over 1 week, 164 additions and 27 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Mouad Debbar](https://github.com/mdebbar), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds radio group widget r2<br />
+  <sub>[#168161](https://github.com/flutter/flutter/pull/168161) merged on June 2, 2025 &mdash; **Extra large:** [61 comments](https://github.com/flutter/flutter/pull/168161) over 1 month, 1764 additions and 742 deletions in 37 files</sub><br />
+  <sub>Reviewed by: [copilot-pull-request-reviewer](https://github.com/apps/copilot-pull-request-reviewer), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; doc: Explain `MenuController.maybeOf` in `MenuAnchor` and `RawMenuAnchor`<br />
   <sub>[#168630](https://github.com/flutter/flutter/pull/168630) merged on June 2, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/168630) over 3 weeks, 10 additions and 0 deletions in 2 files</sub><br />
