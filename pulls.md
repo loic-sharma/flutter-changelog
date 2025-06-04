@@ -39,7 +39,7 @@
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
 * **[Stefan Humm](https://github.com/Fintasys)** &mdash; Add `.separated` constructor to `ReorderableListView`<br />
-  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/168834) 384 additions and 11 deletions in 4 files</sub><br />
+  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/168834) 384 additions and 11 deletions in 4 files</sub><br />
 
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
   <sub>[#168909](https://github.com/flutter/flutter/pull/168909) opened on on May 15, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/168909) 1908 additions and 1918 deletions in 501 files</sub><br />
@@ -138,5 +138,8 @@
   <sub>[#169971](https://github.com/flutter/flutter/pull/169971) opened on on June 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169971) 39695 additions and 44199 deletions in 2692 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Do not remove version files when fetching tags on main / beta<br />
-  <sub>[#169994](https://github.com/flutter/flutter/pull/169994) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169994) 182 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#169994](https://github.com/flutter/flutter/pull/169994) opened on on June 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169994) 207 additions and 3 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed the FlutterViewController.pluginRegistrant<br />
+  <sub>[#169995](https://github.com/flutter/flutter/pull/169995) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169995) 0 additions and 21 deletions in 3 files</sub><br />
 
