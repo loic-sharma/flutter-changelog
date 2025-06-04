@@ -137,3 +137,6 @@
 * **[Erik Ernst](https://github.com/eernstg)** &mdash; Enable obvious lints<br />
   <sub>[#169971](https://github.com/flutter/flutter/pull/169971) opened on on June 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169971) 39695 additions and 44199 deletions in 2692 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Do not remove version files when fetching tags on main / beta<br />
+  <sub>[#169994](https://github.com/flutter/flutter/pull/169994) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169994) 182 additions and 1 deletion in 2 files</sub><br />
+
