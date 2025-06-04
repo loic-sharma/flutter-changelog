@@ -152,6 +152,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: add the missing type of debug metadata<br />
   <sub>[#170003](https://github.com/flutter/flutter/pull/170003) opened on on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170003) 79 additions and 3 deletions in 2 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Re-update `engine.version` for 3.32.2 stable hotfix release to the last SHA with engine change<br />
-  <sub>[#170005](https://github.com/flutter/flutter/pull/170005) opened on on June 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170005) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add connectedApps listener before we launch the browser<br />
+  <sub>[#170010](https://github.com/flutter/flutter/pull/170010) opened on on June 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170010) 12 additions and 5 deletions in 2 files</sub><br />
 
