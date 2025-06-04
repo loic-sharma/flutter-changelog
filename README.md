@@ -307,7 +307,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [ios]: Warning for FlutterAppDelegate.window.rootViewController in launch functions<br />
-  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) merged on May 31, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/169166) over 1 week, 241 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#169166](https://github.com/flutter/flutter/pull/169166) merged on May 31, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/169166) over 1 week, 241 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add opaque, isActive, isFirst, popDisposition aspects for ModalRoute<br />
