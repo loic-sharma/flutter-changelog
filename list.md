@@ -589,7 +589,7 @@
   <sub>[#168598](https://github.com/flutter/flutter/pull/168598) merged on May 22, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/168598) over 1 week, 1174 additions and 57 deletions in 8 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Alex Medinsh](https://github.com/RepliedSage11)** &mdash; Add bottomSheetScrimBuilder to Scaffold
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add bottomSheetScrimBuilder to Scaffold
   <sub>[#167335](https://github.com/flutter/flutter/pull/167335) merged on May 22, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/167335) over 1 month, 106 additions and 36 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
