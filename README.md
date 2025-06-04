@@ -802,7 +802,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-7 commits.
+8 commits.
 
 * **[Kaique Gazola](https://github.com/kaiquegazola)** &mdash; [in_app_purchase_storekit] Add support to win back offers / promotional offers<br />
   <sub>[#8474](https://github.com/flutter/packages/pull/8474) merged on June 2, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/8474) over 4 months, 1502 additions and 108 deletions in 20 files</sub><br />
@@ -820,6 +820,10 @@
 * **[rmasarovic](https://github.com/rmasarovic)** &mdash; [in_app_purchase_android] GooglePlayPurchaseParam add possibility set selected offerToken<br />
   <sub>[#8452](https://github.com/flutter/packages/pull/8452) merged on June 3, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8452) over 4 months, 105 additions and 3 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Bump create_all_packages_command CompileSdk to 36<br />
+  <sub>[#9293](https://github.com/flutter/packages/pull/9293) merged on June 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9293) over 2 weeks, 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [two_dimensional_scrollables] Enable multi-cell/single-cell text selection in Simple Table example<br />
   <sub>[#8189](https://github.com/flutter/packages/pull/8189) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8189) over 6 months, 192 additions and 45 deletions in 4 files</sub><br />

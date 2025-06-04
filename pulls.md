@@ -65,9 +65,6 @@
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Fixed an issue about scrolling re-competition<br />
   <sub>[#169430](https://github.com/flutter/flutter/pull/169430) opened on on May 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169430) 114 additions and 2 deletions in 7 files</sub><br />
 
-* **[EdwynZN](https://github.com/EdwynZN)** &mdash; Fix default minimumSize in dropdownMenu when maximumSize is null<br />
-  <sub>[#169438](https://github.com/flutter/flutter/pull/169438) opened on on May 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169438) 29 additions and 2 deletions in 2 files</sub><br />
-
 * **[Le Trung Do](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
   <sub>[#169494](https://github.com/flutter/flutter/pull/169494) opened on on May 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169494) 18 additions and 25 deletions in 1 file</sub><br />
 
@@ -98,9 +95,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller][WIP] testing removal of msaa for intermediate render targets used in filtering.<br />
   <sub>[#169692](https://github.com/flutter/flutter/pull/169692) opened on on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169692) 53 additions and 25 deletions in 6 files</sub><br />
 
-* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Adjust handle anchor offset for collapsed text selection for Android<br />
-  <sub>[#169715](https://github.com/flutter/flutter/pull/169715) opened on on May 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169715) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat: Add radius to DividerThemeData.<br />
   <sub>[#169739](https://github.com/flutter/flutter/pull/169739) opened on on May 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169739) 66 additions and 7 deletions in 3 files</sub><br />
 
@@ -116,12 +110,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Docs: Update docs for suffix icon interaction behaviour<br />
   <sub>[#169828](https://github.com/flutter/flutter/pull/169828) opened on on June 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169828) 21 additions and 0 deletions in 1 file</sub><br />
 
-* **[Yaroslav Vorobev](https://github.com/Zekfad)** &mdash; fix(GappedSliderTrackShape): hide secondary track similar to right part<br />
-  <sub>[#169846](https://github.com/flutter/flutter/pull/169846) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169846) 2 additions and 1 deletion in 1 file</sub><br />
-
-* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Fix text selection toolbar alignment for RTL languages<br />
-  <sub>[#169854](https://github.com/flutter/flutter/pull/169854) opened on on June 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/169854) 264 additions and 52 deletions in 3 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add caching to the tool test workflow<br />
   <sub>[#169858](https://github.com/flutter/flutter/pull/169858) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169858) 59 additions and 9 deletions in 1 file</sub><br />
 
@@ -133,9 +121,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix failed VSCode version lookup on Linux<br />
   <sub>[#169949](https://github.com/flutter/flutter/pull/169949) opened on on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169949) 34 additions and 2 deletions in 4 files</sub><br />
-
-* **[Erik Ernst](https://github.com/eernstg)** &mdash; Enable obvious lints<br />
-  <sub>[#169971](https://github.com/flutter/flutter/pull/169971) opened on on June 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169971) 39695 additions and 44199 deletions in 2692 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Do not remove version files when fetching tags on main / beta<br />
   <sub>[#169994](https://github.com/flutter/flutter/pull/169994) opened on on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169994) 207 additions and 3 deletions in 2 files</sub><br />
