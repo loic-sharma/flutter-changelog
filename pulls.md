@@ -6,7 +6,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156620) 13 additions and 5 deletions in 4 files</sub><br />
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add flag to disable automatic device reboot for DeviceLab tests<br />
-  <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
 * **[ניר](https://github.com/nrbnlulu)** &mdash; Expose-the-d3d11-device-used-by-flutter-engine<br />
   <sub>[#164578](https://github.com/flutter/flutter/pull/164578) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164578) 28 additions and 1 deletion in 4 files</sub><br />
