@@ -143,3 +143,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manually roll material_color_utilities<br />
   <sub>[#170000](https://github.com/flutter/flutter/pull/170000) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170000) 11 additions and 11 deletions in 6 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `conductor`, keeping everything that `packages_autoroller` uses.<br />
+  <sub>[#170001](https://github.com/flutter/flutter/pull/170001) opened on on June 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/170001) 10 additions and 4563 deletions in 30 files</sub><br />
+
