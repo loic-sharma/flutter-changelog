@@ -140,3 +140,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Do not remove version files when fetching tags on main / beta<br />
   <sub>[#169994](https://github.com/flutter/flutter/pull/169994) opened on on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169994) 207 additions and 3 deletions in 2 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manually roll material_color_utilities<br />
+  <sub>[#170000](https://github.com/flutter/flutter/pull/170000) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170000) 11 additions and 11 deletions in 6 files</sub><br />
+
