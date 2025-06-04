@@ -132,7 +132,7 @@
   <sub>[#169894](https://github.com/flutter/flutter/pull/169894) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169894) 0 additions and 60 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix failed VSCode version lookup on Linux<br />
-  <sub>[#169949](https://github.com/flutter/flutter/pull/169949) opened on on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169949) 30 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#169949](https://github.com/flutter/flutter/pull/169949) opened on on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169949) 34 additions and 2 deletions in 4 files</sub><br />
 
 * **[Erik Ernst](https://github.com/eernstg)** &mdash; Enable obvious lints<br />
   <sub>[#169971](https://github.com/flutter/flutter/pull/169971) opened on on June 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/169971) 39695 additions and 44199 deletions in 2692 files</sub><br />
