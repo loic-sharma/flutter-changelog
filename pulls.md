@@ -110,3 +110,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; synchronously flush semantics when semantics is enabled<br />
   <sub>[#170014](https://github.com/flutter/flutter/pull/170014) opened on on June 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170014) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoRadio widget of the week video<br />
+  <sub>[#170027](https://github.com/flutter/flutter/pull/170027) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170027) 2 additions and 0 deletions in 1 file</sub><br />
+
