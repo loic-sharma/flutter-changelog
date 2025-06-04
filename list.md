@@ -1004,10 +1004,18 @@
 
 ### May 31, 2025 to June 6, 2025
 
-5 commits.
+7 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added UISceneDelegate breaking change notice.
+  <sub>[#12082](https://github.com/flutter/website/pull/12082) merged on June 4, 2025 &mdash; **Small:** [45 comments](https://github.com/flutter/website/pull/12082) over 6 days, 256 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add go link for migration of material and cupertino libraries
   <sub>[#12070](https://github.com/flutter/website/pull/12070) merged on June 2, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12070) over 1 week, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated the platform channel recommendations to match uiscenedelegate usage
+  <sub>[#12095](https://github.com/flutter/website/pull/12095) merged on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12095) over 2 days, 30 additions and 20 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use existing template for feedback widget
