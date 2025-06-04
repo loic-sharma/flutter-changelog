@@ -48,7 +48,7 @@
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit<br />
-  <sub>[#169105](https://github.com/flutter/flutter/pull/169105) opened on on May 19, 2025 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/169105) 3872 additions and 9 deletions in 37 files</sub><br />
+  <sub>[#169105](https://github.com/flutter/flutter/pull/169105) opened on on May 19, 2025 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/169105) 3878 additions and 9 deletions in 37 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Adding support for experimental wasm dynamic modules<br />
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
@@ -112,7 +112,4 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoRadio widget of the week video<br />
   <sub>[#170027](https://github.com/flutter/flutter/pull/170027) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170027) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Merge `CHANGELOG` from 3.32.2<br />
-  <sub>[#170028](https://github.com/flutter/flutter/pull/170028) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170028) 6 additions and 0 deletions in 1 file</sub><br />
 
