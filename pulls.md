@@ -47,6 +47,9 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit<br />
+  <sub>[#169105](https://github.com/flutter/flutter/pull/169105) opened on on May 19, 2025 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/169105) 3872 additions and 9 deletions in 37 files</sub><br />
+
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Adding support for experimental wasm dynamic modules<br />
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
 
@@ -94,9 +97,6 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove legacy checks for `.flutter-plugins`, which no longer exists.<br />
   <sub>[#169894](https://github.com/flutter/flutter/pull/169894) opened on on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169894) 0 additions and 60 deletions in 2 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix failed VSCode version lookup on Linux<br />
-  <sub>[#169949](https://github.com/flutter/flutter/pull/169949) opened on on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169949) 34 additions and 2 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]fix: add the missing type of debug metadata<br />
   <sub>[#170002](https://github.com/flutter/flutter/pull/170002) opened on on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170002) 79 additions and 3 deletions in 2 files</sub><br />
