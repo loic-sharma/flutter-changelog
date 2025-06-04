@@ -98,9 +98,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix failed VSCode version lookup on Linux<br />
   <sub>[#169949](https://github.com/flutter/flutter/pull/169949) opened on on June 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169949) 34 additions and 2 deletions in 4 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Do not remove version files when fetching tags on main / beta<br />
-  <sub>[#169994](https://github.com/flutter/flutter/pull/169994) opened on on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169994) 207 additions and 3 deletions in 2 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `conductor`, keeping everything that `packages_autoroller` uses.<br />
   <sub>[#170001](https://github.com/flutter/flutter/pull/170001) opened on on June 4, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/170001) 10 additions and 4563 deletions in 30 files</sub><br />
 
