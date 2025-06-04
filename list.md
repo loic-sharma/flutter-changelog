@@ -69,7 +69,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Data assets
-  <sub>[#169273](https://github.com/flutter/flutter/pull/169273) merged on June 4, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/flutter/pull/169273) over 1 week, 1806 additions and 592 deletions in 51 files</sub>
+  <sub>[#169273](https://github.com/flutter/flutter/pull/169273) merged on June 4, 2025 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/169273) over 1 week, 1806 additions and 592 deletions in 51 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Allow setting the Gradle `--project-cache-dir` for Android builds
