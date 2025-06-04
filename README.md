@@ -6,13 +6,13 @@
 
 47 commits.
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools<br />
-  <sub>[#169863](https://github.com/flutter/flutter/pull/169863) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169863) over 3 hours, 20 additions and 16 deletions in 11 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support software rendering on Linux<br />
   <sub>[#166307](https://github.com/flutter/flutter/pull/166307) merged on June 2, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/166307) over 2 months, 479 additions and 105 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools<br />
+  <sub>[#169863](https://github.com/flutter/flutter/pull/169863) merged on June 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169863) over 3 hours, 20 additions and 16 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; CupertinoSearchTextField and CupertinoSliverNavigationBar.search more fidelity updates<br />
   <sub>[#169708](https://github.com/flutter/flutter/pull/169708) merged on June 3, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/169708) over 5 days, 78 additions and 55 deletions in 6 files</sub><br />
