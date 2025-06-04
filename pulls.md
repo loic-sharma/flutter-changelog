@@ -155,6 +155,3 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Re-update `engine.version` for 3.32.2 stable hotfix release to the last SHA with engine change<br />
   <sub>[#170005](https://github.com/flutter/flutter/pull/170005) opened on on June 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170005) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[MarkZ](https://github.com/Markzipan)** &mdash; Explicitly disabling hot reload for non-hot-reload web debug benchmarks<br />
-  <sub>[#170006](https://github.com/flutter/flutter/pull/170006) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170006) 4 additions and 1 deletion in 1 file</sub><br />
-
