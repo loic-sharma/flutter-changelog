@@ -104,9 +104,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: add the missing type of debug metadata<br />
   <sub>[#170003](https://github.com/flutter/flutter/pull/170003) opened on on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170003) 79 additions and 3 deletions in 2 files</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Add connectedApps listener before we launch the browser<br />
-  <sub>[#170010](https://github.com/flutter/flutter/pull/170010) opened on on June 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170010) 12 additions and 5 deletions in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; synchronously flush semantics when semantics is enabled<br />
   <sub>[#170014](https://github.com/flutter/flutter/pull/170014) opened on on June 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170014) 1 addition and 0 deletions in 1 file</sub><br />
 
