@@ -858,7 +858,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-10 commits.
+11 commits.
 
 * **[Kaique Gazola](https://github.com/kaiquegazola)** &mdash; [in_app_purchase_storekit] Add support to win back offers / promotional offers
   <sub>[#8474](https://github.com/flutter/packages/pull/8474) merged on June 2, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/8474) over 4 months, 1502 additions and 108 deletions in 20 files</sub>
@@ -872,6 +872,10 @@
   <sub>[#9274](https://github.com/flutter/packages/pull/9274) merged on June 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9274) over 2 weeks, 59 additions and 37 deletions in 3 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
   <sub><details><summary>2 images...</summary>![Screenshot_2025-05-17-11-31-18-73_2088dbc85c3063e](https://github.com/user-attachments/assets/25fb9323-81dd-4fa0-8bd5-80cc5cb36459) | ![Screenshot_2025-05-17-11-37-47-38_2088dbc85c3063e](https://github.com/user-attachments/assets/9dffa9fa-de9a-4038-9984-ab7191659f72)![Screenshot_2025-05-17-11-31-25-33_2088dbc85c3063e](https://github.com/user-attachments/assets/d3178853-afff-4e94-af3c-d2ab14accfa4) | ![Screenshot_2025-05-17-11-37-56-58_2088dbc85c3063e](https://github.com/user-attachments/assets/19390f1b-e374-4e69-b825-275c1a17683a)</details></sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Fixes premature garbage collection of native objects when app is under memory pressure
+  <sub>[#9287](https://github.com/flutter/packages/pull/9287) merged on June 5, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9287) over 2 weeks, 105 additions and 98 deletions in 6 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[rmasarovic](https://github.com/rmasarovic)** &mdash; [in_app_purchase_android] GooglePlayPurchaseParam add possibility set selected offerToken
   <sub>[#8452](https://github.com/flutter/packages/pull/8452) merged on June 3, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8452) over 4 months, 105 additions and 3 deletions in 5 files</sub>
