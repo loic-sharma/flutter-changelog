@@ -302,6 +302,10 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
   <sub><details><summary>2 images...</summary>![flutter_04](https://github.com/user-attachments/assets/006c89ad-14a6-4387-9bfb-f6be357f43d6)![flutter_03](https://github.com/user-attachments/assets/e058d86e-7f1a-4708-bb40-8746bb9199e4)</details></sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Initialize `default-flavor` in `FlutterCommand`, adds integration test.
+  <sub>[#169298](https://github.com/flutter/flutter/pull/169298) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169298) over 5 days, 239 additions and 59 deletions in 6 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 Use consist slashes when generating dep files
   <sub>[#169570](https://github.com/flutter/flutter/pull/169570) merged on May 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169570) over 6 hours, 75 additions and 19 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -309,10 +313,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Forward exit code from dart test to flutter test
   <sub>[#168604](https://github.com/flutter/flutter/pull/168604) merged on May 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168604) over 2 weeks, 20 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Initialize `default-flavor` in `FlutterCommand`, adds integration test.
-  <sub>[#169298](https://github.com/flutter/flutter/pull/169298) merged on May 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169298) over 5 days, 239 additions and 59 deletions in 6 files</sub>
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [ios]: Warning for FlutterAppDelegate.window.rootViewController in launch functions
   <sub>[#169166](https://github.com/flutter/flutter/pull/169166) merged on May 31, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/169166) over 1 week, 241 additions and 1 deletion in 5 files</sub>
