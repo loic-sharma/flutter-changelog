@@ -117,5 +117,8 @@
   <sub>[#170052](https://github.com/flutter/flutter/pull/170052) opened on on June 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170052) 52 additions and 35 deletions in 7 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets<br />
-  <sub>[#170060](https://github.com/flutter/flutter/pull/170060) opened on on June 5, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170060) 338 additions and 125 deletions in 2 files</sub><br />
+  <sub>[#170060](https://github.com/flutter/flutter/pull/170060) opened on on June 5, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170060) 429 additions and 157 deletions in 3 files</sub><br />
+
+* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; fix(cupertino): adjust CupertinoCheckbox padding on macOS<br />
+  <sub>[#170063](https://github.com/flutter/flutter/pull/170063) opened on on June 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170063) 38 additions and 34 deletions in 1 file</sub><br />
 
