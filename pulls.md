@@ -95,9 +95,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Combine expression evaluation tests to reduce testing time<br />
   <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/169860) 52 additions and 159 deletions in 9 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: add the missing type of debug metadata<br />
-  <sub>[#170003](https://github.com/flutter/flutter/pull/170003) opened on on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170003) 79 additions and 3 deletions in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; synchronously flush semantics when semantics is enabled<br />
   <sub>[#170014](https://github.com/flutter/flutter/pull/170014) opened on on June 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170014) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -115,4 +112,7 @@
 
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; fix(cupertino): adjust CupertinoCheckbox padding on macOS<br />
   <sub>[#170063](https://github.com/flutter/flutter/pull/170063) opened on on June 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170063) 38 additions and 34 deletions in 1 file</sub><br />
+
+* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Limit Dialog max width to 560dp per Material Design spec<br />
+  <sub>[#170065](https://github.com/flutter/flutter/pull/170065) opened on on June 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170065) 40 additions and 42 deletions in 1 file</sub><br />
 

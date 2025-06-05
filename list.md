@@ -145,7 +145,7 @@
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make ImageFilter::equals a static method and fix the name in its FFI annotation
-  <sub>[#170023](https://github.com/flutter/flutter/pull/170023) merged on June 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170023) over 17 hours, 3 additions and 3 deletions in 3 files</sub>
+  <sub>[#170023](https://github.com/flutter/flutter/pull/170023) merged on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170023) over 17 hours, 3 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Clean up EmbedderExternalViewEmbedder creation
