@@ -107,6 +107,3 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Limit Dialog max width to 560dp per Material Design spec<br />
   <sub>[#170065](https://github.com/flutter/flutter/pull/170065) opened on on June 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170065) 40 additions and 42 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes inputDecoration sibling explicit child not included in semantic…<br />
-  <sub>[#170079](https://github.com/flutter/flutter/pull/170079) opened on on June 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170079) 75 additions and 7 deletions in 2 files</sub><br />
-
