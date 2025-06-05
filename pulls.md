@@ -104,3 +104,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoRadio widget of the week video<br />
   <sub>[#170027](https://github.com/flutter/flutter/pull/170027) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170027) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[agra](https://github.com/agrapine)** &mdash; fixes DrivenScrollActivity LateInitializationError _controller<br />
+  <sub>[#170047](https://github.com/flutter/flutter/pull/170047) opened on on June 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170047) 3 additions and 5 deletions in 1 file</sub><br />
+
