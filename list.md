@@ -137,7 +137,7 @@
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Combine expression evaluation tests to reduce testing time
-  <sub>[#169860](https://github.com/flutter/flutter/pull/169860) merged on June 5, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/169860) over 3 days, 52 additions and 159 deletions in 9 files</sub>
+  <sub>[#169860](https://github.com/flutter/flutter/pull/169860) merged on June 5, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/169860) over 3 days, 52 additions and 159 deletions in 9 files</sub>
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs), [Nicholas Shahan](https://github.com/nshahan)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Revert "Changes the offset computation to first item for RenderSliverMainAxisGroup" (#154688)
@@ -858,7 +858,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-11 commits.
+12 commits.
 
 * **[Kaique Gazola](https://github.com/kaiquegazola)** &mdash; [in_app_purchase_storekit] Add support to win back offers / promotional offers
   <sub>[#8474](https://github.com/flutter/packages/pull/8474) merged on June 2, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/8474) over 4 months, 1502 additions and 108 deletions in 20 files</sub>
@@ -896,6 +896,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [pointer_interceptor_web] Fix unresponsive input above PointerInterceptor on Safari and Firefox.
   <sub>[#9362](https://github.com/flutter/packages/pull/9362) merged on June 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9362) over 1 hour, 45 additions and 5 deletions in 4 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll Flutter master to 8b18dde7
+  <sub>[#9387](https://github.com/flutter/packages/pull/9387) merged on June 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9387) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; [google_maps_flutter_platform_interface] Add a new zIndexInt param to marker and deprecate zIndex 
   <sub>[#9372](https://github.com/flutter/packages/pull/9372) merged on June 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9372) over 1 day, 71 additions and 8 deletions in 4 files</sub>
