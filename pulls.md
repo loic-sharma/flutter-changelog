@@ -116,3 +116,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Revert "Fix NavigationBar indicator overlay color (#164484)"<br />
   <sub>[#170052](https://github.com/flutter/flutter/pull/170052) opened on on June 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170052) 52 additions and 35 deletions in 7 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets<br />
+  <sub>[#170060](https://github.com/flutter/flutter/pull/170060) opened on on June 5, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170060) 338 additions and 125 deletions in 2 files</sub><br />
+
