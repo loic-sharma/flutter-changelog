@@ -77,9 +77,6 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Support AOT unit testing.<br />
   <sub>[#169629](https://github.com/flutter/flutter/pull/169629) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169629) 71 additions and 49 deletions in 6 files</sub><br />
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Trigger `CupertinoPicker` haptics in the middle of the item<br />
-  <sub>[#169670](https://github.com/flutter/flutter/pull/169670) opened on on May 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169670) 53 additions and 22 deletions in 2 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller][WIP] testing removal of msaa for intermediate render targets used in filtering.<br />
   <sub>[#169692](https://github.com/flutter/flutter/pull/169692) opened on on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169692) 53 additions and 25 deletions in 6 files</sub><br />
 
@@ -111,5 +108,5 @@
   <sub>[#170065](https://github.com/flutter/flutter/pull/170065) opened on on June 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170065) 40 additions and 42 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes inputDecoration sibling explicit child not included in semantic…<br />
-  <sub>[#170079](https://github.com/flutter/flutter/pull/170079) opened on on June 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170079) 71 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#170079](https://github.com/flutter/flutter/pull/170079) opened on on June 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170079) 75 additions and 7 deletions in 2 files</sub><br />
 
