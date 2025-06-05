@@ -95,9 +95,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Combine expression evaluation tests to reduce testing time<br />
   <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/169860) 52 additions and 159 deletions in 9 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]fix: add the missing type of debug metadata<br />
-  <sub>[#170002](https://github.com/flutter/flutter/pull/170002) opened on on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170002) 79 additions and 3 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: add the missing type of debug metadata<br />
   <sub>[#170003](https://github.com/flutter/flutter/pull/170003) opened on on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170003) 79 additions and 3 deletions in 2 files</sub><br />
 
@@ -112,9 +109,6 @@
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Fix `DropdownMenuFormField` not updating when value updated in `onChanged`<br />
   <sub>[#170050](https://github.com/flutter/flutter/pull/170050) opened on on June 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170050) 46 additions and 1 deletion in 2 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Revert "Fix NavigationBar indicator overlay color (#164484)"<br />
-  <sub>[#170052](https://github.com/flutter/flutter/pull/170052) opened on on June 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170052) 52 additions and 35 deletions in 7 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets<br />
   <sub>[#170060](https://github.com/flutter/flutter/pull/170060) opened on on June 5, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170060) 429 additions and 157 deletions in 3 files</sub><br />
