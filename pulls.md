@@ -92,9 +92,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add caching to the tool test workflow<br />
   <sub>[#169858](https://github.com/flutter/flutter/pull/169858) opened on on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169858) 59 additions and 9 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Combine expression evaluation tests to reduce testing time<br />
-  <sub>[#169860](https://github.com/flutter/flutter/pull/169860) opened on on June 2, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/169860) 52 additions and 159 deletions in 9 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; synchronously flush semantics when semantics is enabled<br />
   <sub>[#170014](https://github.com/flutter/flutter/pull/170014) opened on on June 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170014) 1 addition and 0 deletions in 1 file</sub><br />
 
