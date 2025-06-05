@@ -76,13 +76,13 @@
   <sub>[#169954](https://github.com/flutter/flutter/pull/169954) merged on June 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169954) over 23 hours, 83 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop writing package_config_subset<br />
-  <sub>[#169125](https://github.com/flutter/flutter/pull/169125) merged on June 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169125) over 2 weeks, 5 additions and 45 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Fix TextInputPlugin crash when no viewId is provided<br />
   <sub>[#169583](https://github.com/flutter/flutter/pull/169583) merged on June 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169583) over 5 days, 48 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop writing package_config_subset<br />
+  <sub>[#169125](https://github.com/flutter/flutter/pull/169125) merged on June 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169125) over 2 weeks, 5 additions and 45 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Use `StrokePathSourceGeometry` to stroke RoundSuperellipse<br />
   <sub>[#169704](https://github.com/flutter/flutter/pull/169704) merged on June 3, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/169704) over 5 days, 111 additions and 24 deletions in 9 files</sub><br />
@@ -351,7 +351,7 @@
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable vivante from using impeller gles/vulkan.<br />
-  <sub>[#169760](https://github.com/flutter/flutter/pull/169760) merged on May 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169760) over 7 hours, 19 additions and 25 deletions in 2 files</sub><br />
+  <sub>[#169760](https://github.com/flutter/flutter/pull/169760) merged on May 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169760) over 7 hours, 19 additions and 25 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Directly tessellate arc operations<br />
