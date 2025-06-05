@@ -20,6 +20,9 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Convert Gradle buildscripts of Android plugin templates from Groovy to Kotlin<br />
   <sub>[#166312](https://github.com/flutter/flutter/pull/166312) opened on on April 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166312) 16 additions and 19 deletions in 8 files</sub><br />
 
+* **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix PopupMenuButton unmounted exception when updating position<br />
+  <sub>[#166412](https://github.com/flutter/flutter/pull/166412) opened on on April 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166412) 50 additions and 1 deletion in 2 files</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/167393) 5971 additions and 20 deletions in 94 files</sub><br />
 
