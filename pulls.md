@@ -111,5 +111,5 @@
   <sub>[#170050](https://github.com/flutter/flutter/pull/170050) opened on on June 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170050) 46 additions and 1 deletion in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Revert "Fix NavigationBar indicator overlay color (#164484)"<br />
-  <sub>[#170052](https://github.com/flutter/flutter/pull/170052) opened on on June 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170052) 52 additions and 35 deletions in 7 files</sub><br />
+  <sub>[#170052](https://github.com/flutter/flutter/pull/170052) opened on on June 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170052) 52 additions and 35 deletions in 7 files</sub><br />
 
