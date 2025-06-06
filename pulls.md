@@ -116,6 +116,3 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; chore: export AdaptiveButton in widgets.dart<br />
   <sub>[#170135](https://github.com/flutter/flutter/pull/170135) opened on on June 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170135) 78 additions and 13 deletions in 4 files</sub><br />
 
-* **[Florin Malita](https://github.com/fmalita)** &mdash; Add SK_SUPPORT_UNSPANNED_APIS staging flag<br />
-  <sub>[#170139](https://github.com/flutter/flutter/pull/170139) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170139) 1 addition and 0 deletions in 1 file</sub><br />
-
