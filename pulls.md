@@ -111,5 +111,8 @@
   <sub>[#170111](https://github.com/flutter/flutter/pull/170111) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170111) 76 additions and 9 deletions in 1 file</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; [stable] disable vivante from using impeller gles/vulkan<br />
-  <sub>[#170132](https://github.com/flutter/flutter/pull/170132) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170132) 18 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#170132](https://github.com/flutter/flutter/pull/170132) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170132) 18 additions and 1 deletion in 1 file</sub><br />
+
+* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; feat: add AdaptiveButton widget for platform-aware button rendering<br />
+  <sub>[#170134](https://github.com/flutter/flutter/pull/170134) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170134) 120 additions and 42 deletions in 5 files</sub><br />
 
