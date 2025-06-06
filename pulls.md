@@ -45,7 +45,7 @@
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit<br />
-  <sub>[#169105](https://github.com/flutter/flutter/pull/169105) opened on on May 19, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/169105) 3878 additions and 9 deletions in 37 files</sub><br />
+  <sub>[#169105](https://github.com/flutter/flutter/pull/169105) opened on on May 19, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/169105) 3882 additions and 8 deletions in 37 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Adding support for experimental wasm dynamic modules<br />
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
@@ -115,7 +115,4 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Exclude draft PRs from Flutter Web triage<br />
   <sub>[#170172](https://github.com/flutter/flutter/pull/170172) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170172) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Redirect the output of the "pub upgrade" command run by bin/flutter to stderr<br />
-  <sub>[#170174](https://github.com/flutter/flutter/pull/170174) opened on on June 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170174) 1 addition and 1 deletion in 1 file</sub><br />
 
