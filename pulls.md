@@ -11,9 +11,6 @@
 * **[ניר](https://github.com/nrbnlulu)** &mdash; Expose-the-d3d11-device-used-by-flutter-engine<br />
   <sub>[#164578](https://github.com/flutter/flutter/pull/164578) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164578) 28 additions and 1 deletion in 4 files</sub><br />
 
-* **[yuuang](https://github.com/zhangyuang)** &mdash; feat: add felt build --watch-dir options support more directories in …<br />
-  <sub>[#165466](https://github.com/flutter/flutter/pull/165466) opened on on March 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165466) 26 additions and 8 deletions in 1 file</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
   <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 
@@ -48,7 +45,7 @@
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit<br />
-  <sub>[#169105](https://github.com/flutter/flutter/pull/169105) opened on on May 19, 2025 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/169105) 3878 additions and 9 deletions in 37 files</sub><br />
+  <sub>[#169105](https://github.com/flutter/flutter/pull/169105) opened on on May 19, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/169105) 3878 additions and 9 deletions in 37 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Adding support for experimental wasm dynamic modules<br />
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
@@ -118,4 +115,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added a warning to using the launch engine<br />
   <sub>[#170156](https://github.com/flutter/flutter/pull/170156) opened on on June 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170156) 3 additions and 0 deletions in 1 file</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Rename `entryPointBaseUrl` to `entrypointBaseUrl`<br />
+  <sub>[#170166](https://github.com/flutter/flutter/pull/170166) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170166) 5 additions and 5 deletions in 2 files</sub><br />
 
