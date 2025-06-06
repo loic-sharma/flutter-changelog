@@ -113,3 +113,9 @@
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Make dev/customer_testing/ci.sh invoke `flutter pub get` instead of `dart pub get`<br />
   <sub>[#170149](https://github.com/flutter/flutter/pull/170149) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170149) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add Drag Sensitivity to RefreshIndicator<br />
+  <sub>[#170170](https://github.com/flutter/flutter/pull/170170) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170170) 186 additions and 0 deletions in 4 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Exclude draft PRs from Flutter Web triage<br />
+  <sub>[#170172](https://github.com/flutter/flutter/pull/170172) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170172) 1 addition and 1 deletion in 1 file</sub><br />
+
