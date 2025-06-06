@@ -119,3 +119,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Exclude draft PRs from Flutter Web triage<br />
   <sub>[#170172](https://github.com/flutter/flutter/pull/170172) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170172) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Redirect the output of the "pub upgrade" command run by bin/flutter to stderr<br />
+  <sub>[#170174](https://github.com/flutter/flutter/pull/170174) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170174) 1 addition and 1 deletion in 1 file</sub><br />
+
