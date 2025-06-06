@@ -4,7 +4,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-71 commits.
+72 commits.
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Resolve resolve native Flutter dependencies in Android Studio
   <sub>[#167332](https://github.com/flutter/flutter/pull/167332) merged on June 4, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/167332) over 1 month, 30 additions and 10 deletions in 1 file</sub>
@@ -48,6 +48,10 @@
   <sub>[#169425](https://github.com/flutter/flutter/pull/169425) merged on June 3, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/169425) over 1 week, 112 additions and 34 deletions in 4 files</sub>
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
   <sub><details><summary>6 images...</summary>![before_1](https://github.com/user-attachments/assets/c0cd3f65-d524-4e49-a946-4736a4f3890a)![before_2](https://github.com/user-attachments/assets/3c8d2f4a-f2be-4c12-a2a0-696736f2b2e9)![after_en1](https://github.com/user-attachments/assets/617293f6-d047-4fc0-8e3d-1de9608b48c6)![after_en2](https://github.com/user-attachments/assets/4bff323c-3814-489f-bd90-d213b71192f1)![after_ar1](https://github.com/user-attachments/assets/50f3d78b-d403-4d31-b6c9-4a5ad25da7cd)![after_ar2](https://github.com/user-attachments/assets/601dcfdf-44d8-4bb3-9696-cf87ddaff911)</details></sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Lazy paths and frame object arenas
+  <sub>[#168996](https://github.com/flutter/flutter/pull/168996) merged on June 6, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/168996) over 2 weeks, 1167 additions and 79 deletions in 17 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Runrioter Wung](https://github.com/Runrioter)** &mdash; fix: add the missing type of debug metadata
   <sub>[#169864](https://github.com/flutter/flutter/pull/169864) merged on June 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169864) over 1 day, 79 additions and 3 deletions in 2 files</sub>
@@ -109,21 +113,21 @@
   <sub>[#170001](https://github.com/flutter/flutter/pull/170001) merged on June 4, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/170001) over 2 hours, 10 additions and 4563 deletions in 30 files</sub>
   <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage page
-  <sub>[#170084](https://github.com/flutter/flutter/pull/170084) merged on June 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170084) over 20 minutes, 3 additions and 8 deletions in 1 file</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Finish removing `--explicit-package-dependencies`.
   <sub>[#169950](https://github.com/flutter/flutter/pull/169950) merged on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169950) over 7 hours, 141 additions and 156 deletions in 12 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `noExitOnFailure` in `flutter clean`.
+  <sub>[#169966](https://github.com/flutter/flutter/pull/169966) merged on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169966) over 12 hours, 19 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `generateSyntheticPackages` and code that invoked it.
   <sub>[#169893](https://github.com/flutter/flutter/pull/169893) merged on June 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/169893) over 44 minutes, 1 addition and 767 deletions in 6 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `noExitOnFailure` in `flutter clean`.
-  <sub>[#169966](https://github.com/flutter/flutter/pull/169966) merged on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169966) over 12 hours, 19 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage page
+  <sub>[#170084](https://github.com/flutter/flutter/pull/170084) merged on June 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170084) over 20 minutes, 3 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Do not remove version files when fetching tags on main / beta
   <sub>[#169994](https://github.com/flutter/flutter/pull/169994) merged on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169994) over 2 hours, 207 additions and 3 deletions in 2 files</sub>
@@ -165,57 +169,29 @@
   <sub>[#169794](https://github.com/flutter/flutter/pull/169794) merged on June 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169794) over 5 days, 54 additions and 32 deletions in 4 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add caching to the tool test workflow
-  <sub>[#169858](https://github.com/flutter/flutter/pull/169858) merged on June 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/169858) over 3 days, 56 additions and 9 deletions in 1 file</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update expansible.dart
   <sub>[#169925](https://github.com/flutter/flutter/pull/169925) merged on June 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169925) over 8 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all now inert references to "synthetic" packages.
-  <sub>[#169943](https://github.com/flutter/flutter/pull/169943) merged on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169943) over 1 hour, 10 additions and 246 deletions in 14 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Split `Linux docs_publish` into `Linux docs_generate_release`
-  <sub>[#169793](https://github.com/flutter/flutter/pull/169793) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169793) over 3 days, 67 additions and 36 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-foward: "Remove legacy platforms in `.ci.yaml` with 0 usages"
-  <sub>[#169882](https://github.com/flutter/flutter/pull/169882) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169882) over 1 hour, 14 additions and 52 deletions in 1 file</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add caching to the tool test workflow
+  <sub>[#169858](https://github.com/flutter/flutter/pull/169858) merged on June 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/169858) over 3 days, 56 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `.flutter-plugins`, no longer generated, from `.gitignore`.
   <sub>[#169896](https://github.com/flutter/flutter/pull/169896) merged on June 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169896) over 18 hours, 1 addition and 22 deletions in 19 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove stray (unused) `legacyFlutterPluginsWarning`.
+  <sub>[#169895](https://github.com/flutter/flutter/pull/169895) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169895) over 2 hours, 0 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix flakes in the CommandPoolRecyclerVKTest suite
   <sub>[#169785](https://github.com/flutter/flutter/pull/169785) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169785) over 2 days, 37 additions and 46 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Add error message for #169475
-  <sub>[#169866](https://github.com/flutter/flutter/pull/169866) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169866) over 46 minutes, 11 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make ImageFilter::equals a static method and fix the name in its FFI annotation
-  <sub>[#170023](https://github.com/flutter/flutter/pull/170023) merged on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170023) over 17 hours, 3 additions and 3 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `bringup` on `Linux docs_generate_release`.
-  <sub>[#169937](https://github.com/flutter/flutter/pull/169937) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169937) over 6 hours, 0 additions and 4 deletions in 1 file</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-foward: "Remove legacy platforms in `.ci.yaml` with 0 usages"
+  <sub>[#169882](https://github.com/flutter/flutter/pull/169882) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169882) over 1 hour, 14 additions and 52 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Clean up EmbedderExternalViewEmbedder creation
-  <sub>[#169962](https://github.com/flutter/flutter/pull/169962) merged on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169962) over 5 hours, 18 additions and 14 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `FlutterProject.flutterPluginsFile`.
-  <sub>[#169897](https://github.com/flutter/flutter/pull/169897) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169897) over 35 minutes, 4 additions and 48 deletions in 7 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove stray (unused) `legacyFlutterPluginsWarning`.
-  <sub>[#169895](https://github.com/flutter/flutter/pull/169895) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169895) over 2 hours, 0 additions and 8 deletions in 1 file</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add convenience static members to AlignmentGeometry
   <sub>[#169709](https://github.com/flutter/flutter/pull/169709) merged on June 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169709) over 4 days, 77 additions and 2 deletions in 2 files</sub>
@@ -224,6 +200,34 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix typos: canvakit--> canvaskit
   <sub>[#169868](https://github.com/flutter/flutter/pull/169868) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169868) over 1 day, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Split `Linux docs_publish` into `Linux docs_generate_release`
+  <sub>[#169793](https://github.com/flutter/flutter/pull/169793) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169793) over 3 days, 67 additions and 36 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all now inert references to "synthetic" packages.
+  <sub>[#169943](https://github.com/flutter/flutter/pull/169943) merged on June 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169943) over 1 hour, 10 additions and 246 deletions in 14 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `FlutterProject.flutterPluginsFile`.
+  <sub>[#169897](https://github.com/flutter/flutter/pull/169897) merged on June 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169897) over 35 minutes, 4 additions and 48 deletions in 7 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Clean up EmbedderExternalViewEmbedder creation
+  <sub>[#169962](https://github.com/flutter/flutter/pull/169962) merged on June 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169962) over 5 hours, 18 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make ImageFilter::equals a static method and fix the name in its FFI annotation
+  <sub>[#170023](https://github.com/flutter/flutter/pull/170023) merged on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170023) over 17 hours, 3 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Add error message for #169475
+  <sub>[#169866](https://github.com/flutter/flutter/pull/169866) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169866) over 46 minutes, 11 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `bringup` on `Linux docs_generate_release`.
+  <sub>[#169937](https://github.com/flutter/flutter/pull/169937) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169937) over 6 hours, 0 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Use flutter pub get, not dart pub get, on the autoroller
   <sub>[#169922](https://github.com/flutter/flutter/pull/169922) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169922) over 1 hour, 7 additions and 6 deletions in 3 files</sub>
@@ -889,6 +893,11 @@
   <sub>[#8810](https://github.com/flutter/packages/pull/8810) merged on June 3, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/8810) over 2 months, 258 additions and 89 deletions in 7 files</sub>
   <sub>Reviewed by: [Robert Odrowaz](https://github.com/RobertOdrowaz), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [multi] Remove @tool from docs that does not work
+  <sub>[#9394](https://github.com/flutter/packages/pull/9394) merged on June 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9394) over 17 hours, 11 additions and 23 deletions in 15 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+  <sub><details><summary>1 image...</summary>![Screenshot 2025-06-05 at 6 10 11 PM](https://github.com/user-attachments/assets/7f6515c4-bc23-4574-b5b2-e3e411bb44e6)</details></sub>
+
 * **[Alex Li](https://github.com/AlexV525)** &mdash; [camera] 🐛 Fix toggles overflow in the camera example
   <sub>[#9274](https://github.com/flutter/packages/pull/9274) merged on June 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9274) over 2 weeks, 59 additions and 37 deletions in 3 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
@@ -897,11 +906,6 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 4
   <sub>[#9219](https://github.com/flutter/packages/pull/9219) merged on June 6, 2025 &mdash; **Large:** [36 comments](https://github.com/flutter/packages/pull/9219) over 1 month, 450 additions and 334 deletions in 18 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [multi] Remove @tool from docs that does not work
-  <sub>[#9394](https://github.com/flutter/packages/pull/9394) merged on June 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9394) over 17 hours, 11 additions and 23 deletions in 15 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-  <sub><details><summary>1 image...</summary>![Screenshot 2025-06-05 at 6 10 11 PM](https://github.com/user-attachments/assets/7f6515c4-bc23-4574-b5b2-e3e411bb44e6)</details></sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Fixes premature garbage collection of native objects when app is under memory pressure
   <sub>[#9287](https://github.com/flutter/packages/pull/9287) merged on June 5, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9287) over 2 weeks, 105 additions and 98 deletions in 6 files</sub>
