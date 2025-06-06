@@ -116,3 +116,6 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; chore: export AdaptiveButton in widgets.dart<br />
   <sub>[#170135](https://github.com/flutter/flutter/pull/170135) opened on on June 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170135) 78 additions and 13 deletions in 4 files</sub><br />
 
+* **[Derek Xu](https://github.com/derekxu16)** &mdash; Make dev/customer_testing/ci.sh invoke `flutter pub get` instead of `dart pub get`<br />
+  <sub>[#170149](https://github.com/flutter/flutter/pull/170149) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170149) 1 addition and 1 deletion in 1 file</sub><br />
+
