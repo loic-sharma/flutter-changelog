@@ -113,9 +113,3 @@
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Make dev/customer_testing/ci.sh invoke `flutter pub get` instead of `dart pub get`<br />
   <sub>[#170149](https://github.com/flutter/flutter/pull/170149) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170149) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added a warning to using the launch engine<br />
-  <sub>[#170156](https://github.com/flutter/flutter/pull/170156) opened on on June 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170156) 3 additions and 0 deletions in 1 file</sub><br />
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; Rename `entryPointBaseUrl` to `entrypointBaseUrl`<br />
-  <sub>[#170166](https://github.com/flutter/flutter/pull/170166) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170166) 5 additions and 5 deletions in 2 files</sub><br />
-

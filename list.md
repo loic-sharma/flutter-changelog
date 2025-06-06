@@ -1090,7 +1090,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-8 commits.
+9 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE pt 1
   <sub>[#12035](https://github.com/flutter/website/pull/12035) merged on June 6, 2025 &mdash; **Extra large:** [133 comments](https://github.com/flutter/website/pull/12035) over 2 weeks, 1891 additions and 0 deletions in 21 files</sub>
@@ -1102,6 +1102,10 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add go link for migration of material and cupertino libraries
   <sub>[#12070](https://github.com/flutter/website/pull/12070) merged on June 2, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12070) over 1 week, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Hide fwe tutorial from sitemap and search
+  <sub>[#12104](https://github.com/flutter/website/pull/12104) merged on June 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12104) over 42 minutes, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated the platform channel recommendations to match uiscenedelegate usage
