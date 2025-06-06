@@ -101,9 +101,6 @@
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Limit Dialog max width to 560dp per Material Design spec<br />
   <sub>[#170065](https://github.com/flutter/flutter/pull/170065) opened on on June 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170065) 40 additions and 42 deletions in 1 file</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align persistent nav bar leading widget<br />
-  <sub>[#170095](https://github.com/flutter/flutter/pull/170095) opened on on June 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170095) 4 additions and 2 deletions in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `CupertinoLinearActivityIndicator`<br />
   <sub>[#170108](https://github.com/flutter/flutter/pull/170108) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170108) 274 additions and 0 deletions in 4 files</sub><br />
 
@@ -118,9 +115,6 @@
 
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Make dev/customer_testing/ci.sh invoke `flutter pub get` instead of `dart pub get`<br />
   <sub>[#170149](https://github.com/flutter/flutter/pull/170149) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170149) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Make DDC tests run on linux only<br />
-  <sub>[#170155](https://github.com/flutter/flutter/pull/170155) opened on on June 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170155) 4 additions and 0 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added a warning to using the launch engine<br />
   <sub>[#170156](https://github.com/flutter/flutter/pull/170156) opened on on June 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170156) 3 additions and 0 deletions in 1 file</sub><br />
