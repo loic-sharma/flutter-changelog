@@ -875,7 +875,7 @@
 
 ### May 31, 2025 to June 6, 2025
 
-14 commits.
+15 commits.
 
 * **[Kaique Gazola](https://github.com/kaiquegazola)** &mdash; [in_app_purchase_storekit] Add support to win back offers / promotional offers
   <sub>[#8474](https://github.com/flutter/packages/pull/8474) merged on June 2, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/8474) over 4 months, 1502 additions and 108 deletions in 20 files</sub>
@@ -893,6 +893,11 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 4
   <sub>[#9219](https://github.com/flutter/packages/pull/9219) merged on June 6, 2025 &mdash; **Large:** [36 comments](https://github.com/flutter/packages/pull/9219) over 1 month, 450 additions and 334 deletions in 18 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [multi] Remove @tool from docs that does not work
+  <sub>[#9394](https://github.com/flutter/packages/pull/9394) merged on June 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9394) over 17 hours, 11 additions and 23 deletions in 15 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+  <sub><details><summary>1 image...</summary>![Screenshot 2025-06-05 at 6 10 11 PM](https://github.com/user-attachments/assets/7f6515c4-bc23-4574-b5b2-e3e411bb44e6)</details></sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Fixes premature garbage collection of native objects when app is under memory pressure
   <sub>[#9287](https://github.com/flutter/packages/pull/9287) merged on June 5, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9287) over 2 weeks, 105 additions and 98 deletions in 6 files</sub>

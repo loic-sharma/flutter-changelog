@@ -119,3 +119,6 @@
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Make dev/customer_testing/ci.sh invoke `flutter pub get` instead of `dart pub get`<br />
   <sub>[#170149](https://github.com/flutter/flutter/pull/170149) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170149) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Make DDC tests run on linux only<br />
+  <sub>[#170155](https://github.com/flutter/flutter/pull/170155) opened on on June 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170155) 3 additions and 0 deletions in 3 files</sub><br />
+
