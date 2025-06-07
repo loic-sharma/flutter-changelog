@@ -122,3 +122,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves<br />
   <sub>[#170194](https://github.com/flutter/flutter/pull/170194) opened on on June 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170194) 45 additions and 5 deletions in 2 files</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; RawScrollBar can accept `EdgeInsetsGeometry`<br />
+  <sub>[#170199](https://github.com/flutter/flutter/pull/170199) opened on on June 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170199) 11 additions and 11 deletions in 1 file</sub><br />
+
