@@ -41,13 +41,13 @@
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
   <sub><details><summary>2 images...</summary><img width="381" alt="placeholder color dark mode" src="https://github.com/user-attachments/assets/e37e23fa-9f4f-495e-8f02-b9c38a4faffb" /><img width="381" alt="placeholder color light mode" src="https://github.com/user-attachments/assets/16e24a61-2528-44e0-9afa-8431487cf5ff" /></details></sub>
 
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
-  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) merged on June 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169174) over 1 week, 164 additions and 27 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Mouad Debbar](https://github.com/mdebbar), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds radio group widget r2<br />
   <sub>[#168161](https://github.com/flutter/flutter/pull/168161) merged on June 2, 2025 &mdash; **Extra large:** [61 comments](https://github.com/flutter/flutter/pull/168161) over 1 month, 1764 additions and 742 deletions in 37 files</sub><br />
   <sub>Reviewed by: [copilot-pull-request-reviewer](https://github.com/apps/copilot-pull-request-reviewer), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Enable hot reload on the web<br />
+  <sub>[#169174](https://github.com/flutter/flutter/pull/169174) merged on June 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169174) over 1 week, 164 additions and 27 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Mouad Debbar](https://github.com/mdebbar), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add landmark roles<br />
   <sub>[#168931](https://github.com/flutter/flutter/pull/168931) merged on June 6, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/168931) over 3 weeks, 948 additions and 0 deletions in 11 files</sub><br />
