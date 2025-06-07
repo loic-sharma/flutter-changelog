@@ -183,7 +183,7 @@
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs), [Nicholas Shahan](https://github.com/nshahan)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Revert "Changes the offset computation to first item for RenderSliverMainAxisGroup" (#154688)
-  <sub>[#168450](https://github.com/flutter/flutter/pull/168450) merged on June 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168450) over 3 weeks, 62 additions and 58 deletions in 2 files</sub>
+  <sub>[#168450](https://github.com/flutter/flutter/pull/168450) merged on June 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168450) over 3 weeks, 62 additions and 58 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Symlink SwiftPM plugins in the same directory
