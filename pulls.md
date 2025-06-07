@@ -116,6 +116,9 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Exclude draft PRs from Flutter Web triage<br />
   <sub>[#170172](https://github.com/flutter/flutter/pull/170172) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170172) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` unused codepaths<br />
+  <sub>[#170191](https://github.com/flutter/flutter/pull/170191) opened on on June 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170191) 2 additions and 7 deletions in 2 files</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves<br />
   <sub>[#170194](https://github.com/flutter/flutter/pull/170194) opened on on June 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170194) 45 additions and 5 deletions in 2 files</sub><br />
 
