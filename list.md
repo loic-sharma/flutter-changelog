@@ -106,13 +106,13 @@
   <sub>[#169954](https://github.com/flutter/flutter/pull/169954) merged on June 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169954) over 23 hours, 83 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 4: web and updateNode
-  <sub>[#168852](https://github.com/flutter/flutter/pull/168852) merged on June 6, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/168852) over 3 weeks, 677 additions and 522 deletions in 24 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Fix TextInputPlugin crash when no viewId is provided
   <sub>[#169583](https://github.com/flutter/flutter/pull/169583) merged on June 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169583) over 5 days, 48 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semanctis flag refactor step 4: web and updateNode
+  <sub>[#168852](https://github.com/flutter/flutter/pull/168852) merged on June 6, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/168852) over 3 weeks, 677 additions and 522 deletions in 24 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop writing package_config_subset
   <sub>[#169125](https://github.com/flutter/flutter/pull/169125) merged on June 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169125) over 2 weeks, 5 additions and 45 deletions in 5 files</sub>
