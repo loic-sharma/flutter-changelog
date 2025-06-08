@@ -128,3 +128,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoPicker` new onChanged behaviour<br />
   <sub>[#170202](https://github.com/flutter/flutter/pull/170202) opened on on June 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170202) 156 additions and 10 deletions in 4 files</sub><br />
 
+* **[nakanoh](https://github.com/nakanoh)** &mdash; fix: correct typo in analysis_options.yaml comment (disabeling -> disabling)<br />
+  <sub>[#170206](https://github.com/flutter/flutter/pull/170206) opened on on June 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170206) 1 addition and 1 deletion in 1 file</sub><br />
+
