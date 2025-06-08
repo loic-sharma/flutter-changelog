@@ -134,3 +134,6 @@
 * **[Klemen Tusar](https://github.com/techouse)** &mdash; Fix infinite loop in CupertinoSliverNavigationBar collapse animation by adding bounds check for target scroll position<br />
   <sub>[#170210](https://github.com/flutter/flutter/pull/170210) opened on on June 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170210) 73 additions and 1 deletion in 2 files</sub><br />
 
+* **[Muhammad Mohiuddin](https://github.com/MohiuddinM)** &mdash; Add a getter to get the recorder used by painting context<br />
+  <sub>[#170223](https://github.com/flutter/flutter/pull/170223) opened on on June 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170223) 14 additions and 0 deletions in 1 file</sub><br />
+
