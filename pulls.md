@@ -131,3 +131,6 @@
 * **[nakanoh](https://github.com/nakanoh)** &mdash; fix: correct typo in analysis_options.yaml comment (disabeling -> disabling)<br />
   <sub>[#170206](https://github.com/flutter/flutter/pull/170206) opened on on June 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170206) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Klemen Tusar](https://github.com/techouse)** &mdash; Fix infinite loop in CupertinoSliverNavigationBar collapse animation by adding bounds check for target scroll position<br />
+  <sub>[#170210](https://github.com/flutter/flutter/pull/170210) opened on on June 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170210) 2 additions and 1 deletion in 1 file</sub><br />
+
