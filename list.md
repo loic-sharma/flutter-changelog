@@ -57,14 +57,14 @@
   <sub>[#168630](https://github.com/flutter/flutter/pull/168630) merged on June 2, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/168630) over 3 weeks, 10 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Runrioter Wung](https://github.com/Runrioter)** &mdash; fix: add the missing type of debug metadata
+  <sub>[#169864](https://github.com/flutter/flutter/pull/169864) merged on June 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169864) over 1 day, 79 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix[widget_inspector]: Widget Inspector Directionality & Move button tooltip.
   <sub>[#169425](https://github.com/flutter/flutter/pull/169425) merged on June 3, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/169425) over 1 week, 112 additions and 34 deletions in 4 files</sub>
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
   <sub><details><summary>6 images...</summary>![before_1](https://github.com/user-attachments/assets/c0cd3f65-d524-4e49-a946-4736a4f3890a)![before_2](https://github.com/user-attachments/assets/3c8d2f4a-f2be-4c12-a2a0-696736f2b2e9)![after_en1](https://github.com/user-attachments/assets/617293f6-d047-4fc0-8e3d-1de9608b48c6)![after_en2](https://github.com/user-attachments/assets/4bff323c-3814-489f-bd90-d213b71192f1)![after_ar1](https://github.com/user-attachments/assets/50f3d78b-d403-4d31-b6c9-4a5ad25da7cd)![after_ar2](https://github.com/user-attachments/assets/601dcfdf-44d8-4bb3-9696-cf87ddaff911)</details></sub>
-
-* **[Runrioter Wung](https://github.com/Runrioter)** &mdash; fix: add the missing type of debug metadata
-  <sub>[#169864](https://github.com/flutter/flutter/pull/169864) merged on June 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169864) over 1 day, 79 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Dispose ImmutableBuffer at web_ui.instantiateImageCodecFromBuffer and web_ui.instantiateImageCodecWithSize
   <sub>[#161488](https://github.com/flutter/flutter/pull/161488) merged on June 6, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/161488) over 4 months, 78 additions and 27 deletions in 2 files</sub>
@@ -421,7 +421,7 @@
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland3] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine (#169276)
-  <sub>[#169365](https://github.com/flutter/flutter/pull/169365) merged on May 30, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/169365) over 1 week, 732 additions and 118 deletions in 35 files</sub>
+  <sub>[#169365](https://github.com/flutter/flutter/pull/169365) merged on May 30, 2025 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/169365) over 1 week, 732 additions and 118 deletions in 35 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error
