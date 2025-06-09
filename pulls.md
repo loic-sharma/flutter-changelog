@@ -107,9 +107,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; RawScrollBar can accept `EdgeInsetsGeometry`<br />
   <sub>[#170199](https://github.com/flutter/flutter/pull/170199) opened on on June 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170199) 11 additions and 11 deletions in 1 file</sub><br />
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoPicker` new onChanged behaviour<br />
-  <sub>[#170202](https://github.com/flutter/flutter/pull/170202) opened on on June 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170202) 156 additions and 10 deletions in 4 files</sub><br />
-
 * **[Klemen Tusar](https://github.com/techouse)** &mdash; Fix infinite loop in CupertinoSliverNavigationBar collapse animation by adding bounds check for target scroll position<br />
   <sub>[#170210](https://github.com/flutter/flutter/pull/170210) opened on on June 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170210) 73 additions and 1 deletion in 2 files</sub><br />
 
