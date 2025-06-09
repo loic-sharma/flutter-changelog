@@ -72,7 +72,7 @@
   <sub>[#169814](https://github.com/flutter/flutter/pull/169814) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169814) 61 additions and 1 deletion in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [DO NOT SUBMIT] Adding logs in DDC library bundle format to debug timeouts<br />
-  <sub>[#169818](https://github.com/flutter/flutter/pull/169818) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169818) 94 additions and 2 deletions in 7 files</sub><br />
+  <sub>[#169818](https://github.com/flutter/flutter/pull/169818) opened on on May 31, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/169818) 30910 additions and 5 deletions in 7 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoRadio widget of the week video<br />
   <sub>[#170027](https://github.com/flutter/flutter/pull/170027) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170027) 2 additions and 0 deletions in 1 file</sub><br />
@@ -115,4 +115,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Try Xcode 16.4<br />
   <sub>[#170274](https://github.com/flutter/flutter/pull/170274) opened on on June 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170274) 159 additions and 159 deletions in 8 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Auto-format Dart code in  package/flutter_test<br />
+  <sub>[#170281](https://github.com/flutter/flutter/pull/170281) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170281) 582 additions and 618 deletions in 41 files</sub><br />
 
