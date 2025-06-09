@@ -45,7 +45,7 @@
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit<br />
-  <sub>[#169105](https://github.com/flutter/flutter/pull/169105) opened on on May 19, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/169105) 3882 additions and 8 deletions in 37 files</sub><br />
+  <sub>[#169105](https://github.com/flutter/flutter/pull/169105) opened on on May 19, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/169105) 3882 additions and 8 deletions in 37 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Adding support for experimental wasm dynamic modules<br />
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
@@ -109,4 +109,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Assert the ascending order of widgets<br />
   <sub>[#170236](https://github.com/flutter/flutter/pull/170236) opened on on June 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170236) 434 additions and 0 deletions in 2 files</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Roll Dart to 3.9.0-196.1.beta<br />
+  <sub>[#170285](https://github.com/flutter/flutter/pull/170285) opened on on June 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170285) 1 addition and 1 deletion in 1 file</sub><br />
 
