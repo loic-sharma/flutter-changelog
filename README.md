@@ -4,7 +4,15 @@
 
 ### June 7, 2025 to June 13, 2025
 
-1 commits.
+3 commits.
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves<br />
+  <sub>[#170194](https://github.com/flutter/flutter/pull/170194) merged on June 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170194) over 2 days, 45 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Invalidate build target when new output file is added<br />
+  <sub>[#170253](https://github.com/flutter/flutter/pull/170253) merged on June 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170253) over 2 hours, 123 additions and 21 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add debugOverridePlatformViewRegistry to HtmlElementView test.<br />
   <sub>[#170163](https://github.com/flutter/flutter/pull/170163) merged on June 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170163) over 2 days, 3 additions and 13 deletions in 2 files</sub><br />

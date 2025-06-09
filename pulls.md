@@ -36,7 +36,7 @@
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
 * **[Stefan Humm](https://github.com/Fintasys)** &mdash; Add `.separated` constructor to `ReorderableListView`<br />
-  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/168834) 356 additions and 8 deletions in 4 files</sub><br />
+  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [43 comments](https://github.com/flutter/flutter/pull/168834) 356 additions and 8 deletions in 4 files</sub><br />
 
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
   <sub>[#168912](https://github.com/flutter/flutter/pull/168912) opened on on May 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168912) 1 addition and 1 deletion in 1 file</sub><br />
@@ -53,9 +53,6 @@
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Fixed an issue about scrolling re-competition<br />
   <sub>[#169430](https://github.com/flutter/flutter/pull/169430) opened on on May 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169430) 114 additions and 2 deletions in 7 files</sub><br />
 
-* **[Le Trung Do](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
-  <sub>[#169494](https://github.com/flutter/flutter/pull/169494) opened on on May 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169494) 18 additions and 25 deletions in 1 file</sub><br />
-
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Layout Widgets for Dynamic UI Support<br />
   <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
 
@@ -70,9 +67,6 @@
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update didUnmountRenderObject text description<br />
   <sub>[#169628](https://github.com/flutter/flutter/pull/169628) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169628) 4 additions and 3 deletions in 1 file</sub><br />
-
-* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Support AOT unit testing.<br />
-  <sub>[#169629](https://github.com/flutter/flutter/pull/169629) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169629) 71 additions and 49 deletions in 6 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update anchorRect for overlayBuilder when anchor moves<br />
   <sub>[#169814](https://github.com/flutter/flutter/pull/169814) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169814) 61 additions and 1 deletion in 2 files</sub><br />
@@ -115,9 +109,6 @@
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoPicker` new onChanged behaviour<br />
   <sub>[#170202](https://github.com/flutter/flutter/pull/170202) opened on on June 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170202) 156 additions and 10 deletions in 4 files</sub><br />
-
-* **[nakanoh](https://github.com/nakanoh)** &mdash; fix: correct typo in analysis_options.yaml comment (disabeling -> disabling)<br />
-  <sub>[#170206](https://github.com/flutter/flutter/pull/170206) opened on on June 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170206) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Klemen Tusar](https://github.com/techouse)** &mdash; Fix infinite loop in CupertinoSliverNavigationBar collapse animation by adding bounds check for target scroll position<br />
   <sub>[#170210](https://github.com/flutter/flutter/pull/170210) opened on on June 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170210) 73 additions and 1 deletion in 2 files</sub><br />
