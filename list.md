@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 7, 2025 to June 13, 2025
+
+1 commits.
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add debugOverridePlatformViewRegistry to HtmlElementView test.
+  <sub>[#170163](https://github.com/flutter/flutter/pull/170163) merged on June 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170163) over 2 days, 3 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 ### May 31, 2025 to June 6, 2025
 
-83 commits.
+<details>
+<summary>83 commits...</summary>
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Resolve resolve native Flutter dependencies in Android Studio
   <sub>[#167332](https://github.com/flutter/flutter/pull/167332) merged on June 4, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/167332) over 1 month, 30 additions and 10 deletions in 1 file</sub>
@@ -341,6 +350,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Reland workflow cache
   <sub>[#170111](https://github.com/flutter/flutter/pull/170111) merged on June 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170111) over 18 hours, 76 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+</details>
 
 ### May 24, 2025 to May 30, 2025
 
