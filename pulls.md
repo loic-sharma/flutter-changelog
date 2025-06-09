@@ -110,6 +110,3 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Assert the ascending order of widgets<br />
   <sub>[#170236](https://github.com/flutter/flutter/pull/170236) opened on on June 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170236) 434 additions and 0 deletions in 2 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Auto-format Dart code in  package/flutter_test<br />
-  <sub>[#170281](https://github.com/flutter/flutter/pull/170281) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170281) 582 additions and 618 deletions in 41 files</sub><br />
-
