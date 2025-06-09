@@ -4,11 +4,15 @@
 
 ### June 7, 2025 to June 13, 2025
 
-5 commits.
+6 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes inputDecoration sibling explicit child not included in semantic…<br />
   <sub>[#170079](https://github.com/flutter/flutter/pull/170079) merged on June 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170079) over 4 days, 75 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid allocating path for dashed lines<br />
+  <sub>[#169881](https://github.com/flutter/flutter/pull/169881) merged on June 9, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/169881) over 1 week, 286 additions and 35 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves<br />
   <sub>[#170194](https://github.com/flutter/flutter/pull/170194) merged on June 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170194) over 2 days, 45 additions and 5 deletions in 2 files</sub><br />
