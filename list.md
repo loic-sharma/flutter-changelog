@@ -801,7 +801,7 @@
   <sub>Reviewed by: [mdh](https://github.com/bivens-dev), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added UISceneDelegate breaking change notice.
-  <sub>[#12082](https://github.com/flutter/website/pull/12082) merged on June 4, 2025 &mdash; **Small:** [51 comments](https://github.com/flutter/website/pull/12082) over 6 days, 256 additions and 0 deletions in 3 files</sub>
+  <sub>[#12082](https://github.com/flutter/website/pull/12082) merged on June 4, 2025 &mdash; **Small:** [52 comments](https://github.com/flutter/website/pull/12082) over 6 days, 256 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add go link for migration of material and cupertino libraries

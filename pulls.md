@@ -74,9 +74,6 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Support AOT unit testing.<br />
   <sub>[#169629](https://github.com/flutter/flutter/pull/169629) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169629) 71 additions and 49 deletions in 6 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller][WIP] testing removal of msaa for intermediate render targets used in filtering.<br />
-  <sub>[#169692](https://github.com/flutter/flutter/pull/169692) opened on on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169692) 53 additions and 25 deletions in 6 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update anchorRect for overlayBuilder when anchor moves<br />
   <sub>[#169814](https://github.com/flutter/flutter/pull/169814) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169814) 61 additions and 1 deletion in 2 files</sub><br />
 
