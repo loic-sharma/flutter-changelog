@@ -419,6 +419,10 @@
   <sub>[#167324](https://github.com/flutter/flutter/pull/167324) merged on May 29, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/167324) over 1 month, 195 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland3] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine (#169276)<br />
+  <sub>[#169365](https://github.com/flutter/flutter/pull/169365) merged on May 30, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/flutter/pull/169365) over 1 week, 732 additions and 118 deletions in 35 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll forward: "Initialize default-app-flavor" (#169298)<br />
   <sub>[#169602](https://github.com/flutter/flutter/pull/169602) merged on May 28, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/169602) over 2 hours, 247 additions and 59 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
@@ -430,10 +434,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Pass the same optimization level to both stages of JS compiler<br />
   <sub>[#169642](https://github.com/flutter/flutter/pull/169642) merged on May 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169642) over 15 hours, 16 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland3] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine (#169276)<br />
-  <sub>[#169365](https://github.com/flutter/flutter/pull/169365) merged on May 30, 2025 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/169365) over 1 week, 732 additions and 118 deletions in 35 files</sub><br />
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix the "Missing ExternalProject for :" error<br />
   <sub>[#168403](https://github.com/flutter/flutter/pull/168403) merged on May 29, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/168403) over 3 weeks, 14 additions and 1 deletion in 2 files</sub><br />
@@ -801,7 +801,7 @@
   <sub>Reviewed by: [mdh](https://github.com/bivens-dev), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added UISceneDelegate breaking change notice.<br />
-  <sub>[#12082](https://github.com/flutter/website/pull/12082) merged on June 4, 2025 &mdash; **Small:** [47 comments](https://github.com/flutter/website/pull/12082) over 6 days, 256 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#12082](https://github.com/flutter/website/pull/12082) merged on June 4, 2025 &mdash; **Small:** [48 comments](https://github.com/flutter/website/pull/12082) over 6 days, 256 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add go link for migration of material and cupertino libraries<br />
