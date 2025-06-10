@@ -472,7 +472,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Reland3] Implements UISceneDelegate dynamically w/ FlutterLaunchEngine (#169276)<br />
-  <sub>[#169365](https://github.com/flutter/flutter/pull/169365) merged on May 30, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/flutter/pull/169365) over 1 week, 732 additions and 118 deletions in 35 files</sub><br />
+  <sub>[#169365](https://github.com/flutter/flutter/pull/169365) merged on May 30, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/169365) over 1 week, 732 additions and 118 deletions in 35 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll forward: "Initialize default-app-flavor" (#169298)<br />
