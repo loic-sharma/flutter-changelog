@@ -131,6 +131,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Re-split hot reload error and hot restart tests<br />
   <sub>[#170368](https://github.com/flutter/flutter/pull/170368) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170368) 10 additions and 4 deletions in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Navigator should call didpop when popping page based route<br />
-  <sub>[#170376](https://github.com/flutter/flutter/pull/170376) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170376) 37 additions and 1 deletion in 2 files</sub><br />
+* **[Stan Persoons](https://github.com/Sten435)** &mdash; Allow Passing an AnimationController to (Circular & Linear) ProgressIndicator (#165741)<br />
+  <sub>[#170378](https://github.com/flutter/flutter/pull/170378) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170378) 228 additions and 20 deletions in 3 files</sub><br />
 

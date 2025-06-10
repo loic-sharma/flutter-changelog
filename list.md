@@ -4,7 +4,11 @@
 
 ### June 7, 2025 to June 13, 2025
 
-15 commits.
+16 commits.
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semantics flag refactor step 2: embedder part
+  <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `pubspec.lock` files for `flutter_tools` and `widget_preview_scaffold`.
   <sub>[#170364](https://github.com/flutter/flutter/pull/170364) merged on June 10, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170364) over 56 minutes, 4 additions and 1182 deletions in 4 files</sub>
@@ -35,7 +39,7 @@
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.
-  <sub>[#170313](https://github.com/flutter/flutter/pull/170313) merged on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170313) over 15 hours, 14 additions and 0 deletions in 4 files</sub>
+  <sub>[#170313](https://github.com/flutter/flutter/pull/170313) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170313) over 15 hours, 14 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed the FlutterViewController.pluginRegistrant
