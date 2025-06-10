@@ -832,9 +832,19 @@
 
 ## flutter/website
 
+### June 7, 2025 to June 13, 2025
+
+1 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add iOS 26 beta warnings<br />
+  <sub>[#12112](https://github.com/flutter/website/pull/12112) merged on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12112) over 13 hours, 20 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>2 images...</summary>![Screenshot 2025-06-09 at 7 30 30 PM](https://github.com/user-attachments/assets/d5e09536-761e-4351-b2d1-403ca07c3ba6)![Screenshot 2025-06-09 at 7 31 03 PM](https://github.com/user-attachments/assets/00697c1e-f0ec-41c3-9729-6d8d48228243)</details></sub>
+
 ### May 31, 2025 to June 6, 2025
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE pt 1<br />
   <sub>[#12035](https://github.com/flutter/website/pull/12035) merged on June 6, 2025 &mdash; **Extra large:** [133 comments](https://github.com/flutter/website/pull/12035) over 2 weeks, 1891 additions and 0 deletions in 21 files</sub><br />
@@ -871,6 +881,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove ios_platform_images reference<br />
   <sub>[#12098](https://github.com/flutter/website/pull/12098) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12098) over 27 minutes, 3 additions and 17 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### May 24, 2025 to May 30, 2025
 
