@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-20 commits.
+22 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semantics flag refactor step 2: embedder part<br />
   <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub><br />
@@ -41,6 +41,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Export FlutterSceneDelegate<br />
   <sub>[#170169](https://github.com/flutter/flutter/pull/170169) merged on June 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170169) over 3 days, 46 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Verify old version of Python has the `lib2to3` import available<br />
+  <sub>[#170187](https://github.com/flutter/flutter/pull/170187) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170187) over 3 days, 26 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use "flutter pub get" to resolve packages when building the docs snippets tool<br />
+  <sub>[#170381](https://github.com/flutter/flutter/pull/170381) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170381) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Add call to Dart_NotifyDestroyed when the flutter view is des…<br />
   <sub>[#170309](https://github.com/flutter/flutter/pull/170309) merged on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170309) over 20 hours, 0 additions and 86 deletions in 7 files</sub><br />
