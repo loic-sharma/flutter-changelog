@@ -379,7 +379,7 @@
   <sub>[#169533](https://github.com/flutter/flutter/pull/169533) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169533) over 5 days, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Updated AVD dependency in Engine CI
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Upgrade to an API 36 AVD in Engine CI
   <sub>[#169124](https://github.com/flutter/flutter/pull/169124) merged on June 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169124) over 1 week, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
