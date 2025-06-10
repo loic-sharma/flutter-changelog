@@ -131,6 +131,3 @@
 * **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
   <sub>[#170343](https://github.com/flutter/flutter/pull/170343) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170343) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `pubspec.lock` files for `flutter_tools` and `widget_preview_scaffold`.<br />
-  <sub>[#170364](https://github.com/flutter/flutter/pull/170364) opened on on June 10, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170364) 4 additions and 1182 deletions in 4 files</sub><br />
-
