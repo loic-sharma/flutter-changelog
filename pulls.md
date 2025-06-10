@@ -92,9 +92,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `CupertinoLinearActivityIndicator`<br />
   <sub>[#170108](https://github.com/flutter/flutter/pull/170108) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170108) 274 additions and 0 deletions in 4 files</sub><br />
 
-* **[René Kilczan](https://github.com/rekire)** &mdash; [stable] disable vivante from using impeller gles/vulkan<br />
-  <sub>[#170132](https://github.com/flutter/flutter/pull/170132) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170132) 18 additions and 1 deletion in 1 file</sub><br />
-
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; chore: export AdaptiveButton in widgets.dart<br />
   <sub>[#170135](https://github.com/flutter/flutter/pull/170135) opened on on June 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170135) 78 additions and 13 deletions in 4 files</sub><br />
 
