@@ -104,6 +104,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Assert the ascending order of widgets<br />
   <sub>[#170236](https://github.com/flutter/flutter/pull/170236) opened on on June 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170236) 484 additions and 0 deletions in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to load previews with compile-time errors<br />
+  <sub>[#170262](https://github.com/flutter/flutter/pull/170262) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170262) 858 additions and 296 deletions in 6 files</sub><br />
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Roll Dart to 3.9.0-196.1.beta<br />
   <sub>[#170285](https://github.com/flutter/flutter/pull/170285) opened on on June 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170285) 1 addition and 1 deletion in 1 file</sub><br />
 
