@@ -758,7 +758,11 @@
 
 ### June 7, 2025 to June 13, 2025
 
-3 commits.
+4 commits.
+
+* **[Shaun Panjabi](https://github.com/shaunpanjabi)** &mdash; [in_app_purchase] Return jwsRepresentation and jsonRepresentation for StoreKit2
+  <sub>[#9280](https://github.com/flutter/packages/pull/9280) merged on June 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9280) over 3 weeks, 49 additions and 5 deletions in 6 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[wangyognqi](https://github.com/wyqlxf)** &mdash; [vector_graphics]Add Null Check for Image Retrieval in listener.dart's onDrawImage Function
   <sub>[#9211](https://github.com/flutter/packages/pull/9211) merged on June 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9211) over 1 month, 22 additions and 4 deletions in 4 files</sub>
