@@ -726,7 +726,11 @@
 
 ### June 7, 2025 to June 13, 2025
 
-1 commits.
+2 commits.
+
+* **[wangyognqi](https://github.com/wyqlxf)** &mdash; [vector_graphics]Add Null Check for Image Retrieval in listener.dart's onDrawImage Function<br />
+  <sub>[#9211](https://github.com/flutter/packages/pull/9211) merged on June 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9211) over 1 month, 22 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll Flutter master to 8b22f67c85114<br />
   <sub>[#9407](https://github.com/flutter/packages/pull/9407) merged on June 10, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9407) over 1 day, 237 additions and 160 deletions in 15 files</sub><br />
