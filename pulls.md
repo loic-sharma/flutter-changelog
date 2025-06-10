@@ -134,3 +134,9 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Re-split hot reload error and hot restart tests<br />
   <sub>[#170368](https://github.com/flutter/flutter/pull/170368) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170368) 10 additions and 4 deletions in 2 files</sub><br />
 
+* **[Stan Persoons](https://github.com/Sten435)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator (Fix #165741)<br />
+  <sub>[#170380](https://github.com/flutter/flutter/pull/170380) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170380) 227 additions and 19 deletions in 3 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use "flutter pub get" to resolve packages when building the docs snippets tool<br />
+  <sub>[#170381](https://github.com/flutter/flutter/pull/170381) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170381) 1 addition and 1 deletion in 1 file</sub><br />
+
