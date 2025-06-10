@@ -117,7 +117,7 @@
   <sub>[#170307](https://github.com/flutter/flutter/pull/170307) opened on on June 9, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/170307) 592 additions and 1806 deletions in 51 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.<br />
-  <sub>[#170313](https://github.com/flutter/flutter/pull/170313) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170313) 14 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#170313](https://github.com/flutter/flutter/pull/170313) opened on on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170313) 14 additions and 0 deletions in 4 files</sub><br />
 
 * **[greyovo](https://github.com/greyovo)** &mdash; Fix dragging scrollbar down causes unexpected behavior when scrollable has a negative minScrollExtent<br />
   <sub>[#170331](https://github.com/flutter/flutter/pull/170331) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170331) 46 additions and 4 deletions in 2 files</sub><br />
@@ -130,4 +130,7 @@
 
 * **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
   <sub>[#170343](https://github.com/flutter/flutter/pull/170343) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170343) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `pubspec.lock` files for `flutter_tools` and `widget_preview_scaffold`.<br />
+  <sub>[#170364](https://github.com/flutter/flutter/pull/170364) opened on on June 10, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170364) 4 additions and 1182 deletions in 4 files</sub><br />
 

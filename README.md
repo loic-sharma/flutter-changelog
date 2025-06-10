@@ -4,11 +4,15 @@
 
 ### June 7, 2025 to June 13, 2025
 
-11 commits.
+13 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit<br />
   <sub>[#169105](https://github.com/flutter/flutter/pull/169105) merged on June 10, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/169105) over 3 weeks, 3882 additions and 8 deletions in 37 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] dont double free surface texture interop objects.<br />
+  <sub>[#170284](https://github.com/flutter/flutter/pull/170284) merged on June 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170284) over 19 hours, 41 additions and 4 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`<br />
   <sub>[#169415](https://github.com/flutter/flutter/pull/169415) merged on June 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/169415) over 2 weeks, 260 additions and 5 deletions in 2 files</sub><br />
@@ -37,6 +41,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves<br />
   <sub>[#170194](https://github.com/flutter/flutter/pull/170194) merged on June 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170194) over 2 days, 45 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Update test_vulkan_context.cc to use Vulkan 1.1<br />
+  <sub>[#170351](https://github.com/flutter/flutter/pull/170351) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170351) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove lldb warnings<br />
   <sub>[#169673](https://github.com/flutter/flutter/pull/169673) merged on June 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169673) over 1 week, 1 addition and 248 deletions in 3 files</sub><br />
@@ -712,9 +720,18 @@
 
 ## flutter/packages
 
+### June 7, 2025 to June 13, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll Flutter master to 8b22f67c85114<br />
+  <sub>[#9407](https://github.com/flutter/packages/pull/9407) merged on June 10, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9407) over 1 day, 237 additions and 160 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 ### May 31, 2025 to June 6, 2025
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[Kaique Gazola](https://github.com/kaiquegazola)** &mdash; [in_app_purchase_storekit] Add support to win back offers / promotional offers<br />
   <sub>[#8474](https://github.com/flutter/packages/pull/8474) merged on June 2, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/8474) over 4 months, 1502 additions and 108 deletions in 20 files</sub><br />
@@ -785,6 +802,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Remove duplicate integration test<br />
   <sub>[#9368](https://github.com/flutter/packages/pull/9368) merged on June 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9368) over 1 hour, 0 additions and 19 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+</details>
 
 ### May 24, 2025 to May 30, 2025
 
