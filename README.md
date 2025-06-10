@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-16 commits.
+17 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semantics flag refactor step 2: embedder part<br />
   <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub><br />
@@ -37,6 +37,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Export FlutterSceneDelegate<br />
   <sub>[#170169](https://github.com/flutter/flutter/pull/170169) merged on June 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170169) over 3 days, 46 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: Skip native assets build test (flaky, takes 15m+)<br />
+  <sub>[#170383](https://github.com/flutter/flutter/pull/170383) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170383) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.<br />
   <sub>[#170313](https://github.com/flutter/flutter/pull/170313) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170313) over 15 hours, 14 additions and 0 deletions in 4 files</sub><br />
@@ -734,7 +738,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-2 commits.
+3 commits.
 
 * **[wangyognqi](https://github.com/wyqlxf)** &mdash; [vector_graphics]Add Null Check for Image Retrieval in listener.dart's onDrawImage Function<br />
   <sub>[#9211](https://github.com/flutter/packages/pull/9211) merged on June 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9211) over 1 month, 22 additions and 4 deletions in 4 files</sub><br />
@@ -743,6 +747,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll Flutter master to 8b22f67c85114<br />
   <sub>[#9407](https://github.com/flutter/packages/pull/9407) merged on June 10, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9407) over 1 day, 237 additions and 160 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll Flutter master to 7e30df2225<br />
+  <sub>[#9413](https://github.com/flutter/packages/pull/9413) merged on June 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9413) over 3 hours, 14 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 ### May 31, 2025 to June 6, 2025
 

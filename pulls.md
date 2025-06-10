@@ -116,9 +116,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; tools: move DebuggingOptions to its own file<br />
   <sub>[#170299](https://github.com/flutter/flutter/pull/170299) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170299) 549 additions and 484 deletions in 83 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Cherry picks "Reverts "Data assets (#169273)""<br />
-  <sub>[#170307](https://github.com/flutter/flutter/pull/170307) opened on on June 9, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/170307) 592 additions and 1806 deletions in 51 files</sub><br />
-
 * **[greyovo](https://github.com/greyovo)** &mdash; Fix dragging scrollbar down causes unexpected behavior when scrollable has a negative minScrollExtent<br />
   <sub>[#170331](https://github.com/flutter/flutter/pull/170331) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170331) 46 additions and 4 deletions in 2 files</sub><br />
 
@@ -138,5 +135,5 @@
   <sub>[#170381](https://github.com/flutter/flutter/pull/170381) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170381) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] Reland: ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.<br />
-  <sub>[#170389](https://github.com/flutter/flutter/pull/170389) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170389) 15 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#170389](https://github.com/flutter/flutter/pull/170389) opened on on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170389) 15 additions and 0 deletions in 5 files</sub><br />
 
