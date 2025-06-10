@@ -125,3 +125,6 @@
 * **[greyovo](https://github.com/greyovo)** &mdash; Fix dragging scrollbar down causes unexpected behavior when scrollable has a negative minScrollExtent<br />
   <sub>[#170331](https://github.com/flutter/flutter/pull/170331) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170331) 46 additions and 4 deletions in 2 files</sub><br />
 
+* **[Kamil Kras](https://github.com/xVemu)** &mdash; Remove duplicated line in CHANGELOG.md<br />
+  <sub>[#170334](https://github.com/flutter/flutter/pull/170334) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170334) 0 additions and 1 deletion in 1 file</sub><br />
+
