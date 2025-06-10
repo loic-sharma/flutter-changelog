@@ -125,3 +125,6 @@
 * **[greyovo](https://github.com/greyovo)** &mdash; Fix dragging scrollbar down causes unexpected behavior when scrollable has a negative minScrollExtent<br />
   <sub>[#170331](https://github.com/flutter/flutter/pull/170331) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170331) 46 additions and 4 deletions in 2 files</sub><br />
 
+* **[Dipali Thakare](https://github.com/thakaredipali)** &mdash; Add example for CupertinoExpansionTile transition modes<br />
+  <sub>[#170335](https://github.com/flutter/flutter/pull/170335) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170335) 201 additions and 0 deletions in 4 files</sub><br />
+
