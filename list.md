@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-13 commits.
+14 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit
   <sub>[#169105](https://github.com/flutter/flutter/pull/169105) merged on June 10, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/169105) over 3 weeks, 3882 additions and 8 deletions in 37 files</sub>
@@ -29,6 +29,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Export FlutterSceneDelegate
   <sub>[#170169](https://github.com/flutter/flutter/pull/170169) merged on June 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170169) over 3 days, 46 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.
+  <sub>[#170313](https://github.com/flutter/flutter/pull/170313) merged on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170313) over 15 hours, 14 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed the FlutterViewController.pluginRegistrant
   <sub>[#169995](https://github.com/flutter/flutter/pull/169995) merged on June 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169995) over 5 days, 0 additions and 21 deletions in 3 files</sub>
