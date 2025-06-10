@@ -119,3 +119,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Cherry picks "Reverts "Data assets (#169273)""<br />
   <sub>[#170307](https://github.com/flutter/flutter/pull/170307) opened on on June 9, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/170307) 592 additions and 1806 deletions in 51 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.<br />
+  <sub>[#170313](https://github.com/flutter/flutter/pull/170313) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170313) 14 additions and 0 deletions in 4 files</sub><br />
+
