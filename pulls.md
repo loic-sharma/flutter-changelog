@@ -134,6 +134,3 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Re-split hot reload error and hot restart tests<br />
   <sub>[#170368](https://github.com/flutter/flutter/pull/170368) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170368) 10 additions and 4 deletions in 2 files</sub><br />
 
-* **[Stan Persoons](https://github.com/Sten435)** &mdash; Fix #165741<br />
-  <sub>[#170379](https://github.com/flutter/flutter/pull/170379) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170379) 228 additions and 20 deletions in 3 files</sub><br />
-
