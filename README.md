@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-19 commits.
+20 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semantics flag refactor step 2: embedder part<br />
   <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub><br />
@@ -81,6 +81,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add debugOverridePlatformViewRegistry to HtmlElementView test.<br />
   <sub>[#170163](https://github.com/flutter/flutter/pull/170163) merged on June 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170163) over 2 days, 3 additions and 13 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] Reland: ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.<br />
+  <sub>[#170389](https://github.com/flutter/flutter/pull/170389) merged on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170389) over 1 hour, 15 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 ### May 31, 2025 to June 6, 2025
 

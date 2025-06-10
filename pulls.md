@@ -110,9 +110,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to load previews with compile-time errors<br />
   <sub>[#170262](https://github.com/flutter/flutter/pull/170262) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170262) 860 additions and 296 deletions in 6 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Roll Dart to 3.9.0-196.1.beta<br />
-  <sub>[#170285](https://github.com/flutter/flutter/pull/170285) opened on on June 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170285) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; tools: move DebuggingOptions to its own file<br />
   <sub>[#170299](https://github.com/flutter/flutter/pull/170299) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170299) 549 additions and 484 deletions in 83 files</sub><br />
 
@@ -134,6 +131,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use "flutter pub get" to resolve packages when building the docs snippets tool<br />
   <sub>[#170381](https://github.com/flutter/flutter/pull/170381) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170381) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] Reland: ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.<br />
-  <sub>[#170389](https://github.com/flutter/flutter/pull/170389) opened on on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170389) 15 additions and 0 deletions in 5 files</sub><br />
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix `Semantics.identifier` on TextField not working on web<br />
+  <sub>[#170395](https://github.com/flutter/flutter/pull/170395) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170395) 74 additions and 5 deletions in 2 files</sub><br />
 
