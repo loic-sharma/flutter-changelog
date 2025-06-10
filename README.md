@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-17 commits.
+18 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semantics flag refactor step 2: embedder part<br />
   <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub><br />
@@ -17,6 +17,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit<br />
   <sub>[#169105](https://github.com/flutter/flutter/pull/169105) merged on June 10, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/169105) over 3 weeks, 3882 additions and 8 deletions in 37 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[likir09](https://github.com/likir09)** &mdash; fix: set versionCodeOverride when split-per-abi is specified<br />
+  <sub>[#169816](https://github.com/flutter/flutter/pull/169816) merged on June 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169816) over 1 week, 126 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] dont double free surface texture interop objects.<br />
   <sub>[#170284](https://github.com/flutter/flutter/pull/170284) merged on June 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170284) over 19 hours, 41 additions and 4 deletions in 6 files</sub><br />
