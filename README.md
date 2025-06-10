@@ -4,7 +4,11 @@
 
 ### June 7, 2025 to June 13, 2025
 
-14 commits.
+15 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `pubspec.lock` files for `flutter_tools` and `widget_preview_scaffold`.<br />
+  <sub>[#170364](https://github.com/flutter/flutter/pull/170364) merged on June 10, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170364) over 56 minutes, 4 additions and 1182 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit<br />
   <sub>[#169105](https://github.com/flutter/flutter/pull/169105) merged on June 10, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/169105) over 3 weeks, 3882 additions and 8 deletions in 37 files</sub><br />
