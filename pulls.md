@@ -45,7 +45,7 @@
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
-  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) opened on on May 22, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/169245) 526 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) opened on on May 22, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/169245) 526 additions and 0 deletions in 5 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Adding support for experimental wasm dynamic modules<br />
   <sub>[#169256](https://github.com/flutter/flutter/pull/169256) opened on on May 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169256) 106 additions and 16 deletions in 4 files</sub><br />
@@ -133,9 +133,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Re-split hot reload error and hot restart tests<br />
   <sub>[#170368](https://github.com/flutter/flutter/pull/170368) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170368) 10 additions and 4 deletions in 2 files</sub><br />
-
-* **[Stan Persoons](https://github.com/Sten435)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator (Fix #165741)<br />
-  <sub>[#170380](https://github.com/flutter/flutter/pull/170380) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170380) 227 additions and 19 deletions in 3 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use "flutter pub get" to resolve packages when building the docs snippets tool<br />
   <sub>[#170381](https://github.com/flutter/flutter/pull/170381) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170381) 1 addition and 1 deletion in 1 file</sub><br />

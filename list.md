@@ -791,7 +791,7 @@
   <sub>[#9234](https://github.com/flutter/packages/pull/9234) merged on June 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9234) over 3 weeks, 147 additions and 66 deletions in 32 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Bump create_all_packages_command CompileSdk to 36
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Bumped create_all_packages_command CompileSdk to 36
   <sub>[#9293](https://github.com/flutter/packages/pull/9293) merged on June 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9293) over 2 weeks, 4 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
