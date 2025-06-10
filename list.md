@@ -4,11 +4,15 @@
 
 ### June 7, 2025 to June 13, 2025
 
-7 commits.
+8 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes inputDecoration sibling explicit child not included in semantic…
   <sub>[#170079](https://github.com/flutter/flutter/pull/170079) merged on June 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170079) over 4 days, 75 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Export FlutterSceneDelegate
+  <sub>[#170169](https://github.com/flutter/flutter/pull/170169) merged on June 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170169) over 3 days, 46 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed the FlutterViewController.pluginRegistrant
   <sub>[#169995](https://github.com/flutter/flutter/pull/169995) merged on June 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169995) over 5 days, 0 additions and 21 deletions in 3 files</sub>
