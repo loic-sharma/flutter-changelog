@@ -140,3 +140,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use "flutter pub get" to resolve packages when building the docs snippets tool<br />
   <sub>[#170381](https://github.com/flutter/flutter/pull/170381) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170381) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] Reland: ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.<br />
+  <sub>[#170389](https://github.com/flutter/flutter/pull/170389) opened on on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170389) 15 additions and 0 deletions in 5 files</sub><br />
+
