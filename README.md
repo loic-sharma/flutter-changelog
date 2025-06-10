@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-18 commits.
+19 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semantics flag refactor step 2: embedder part<br />
   <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub><br />
@@ -41,6 +41,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Export FlutterSceneDelegate<br />
   <sub>[#170169](https://github.com/flutter/flutter/pull/170169) merged on June 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170169) over 3 days, 46 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Add call to Dart_NotifyDestroyed when the flutter view is des…<br />
+  <sub>[#170309](https://github.com/flutter/flutter/pull/170309) merged on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170309) over 20 hours, 0 additions and 86 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Siva](https://github.com/a-siva)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: Skip native assets build test (flaky, takes 15m+)<br />
   <sub>[#170383](https://github.com/flutter/flutter/pull/170383) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170383) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
