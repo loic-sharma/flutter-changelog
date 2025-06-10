@@ -901,12 +901,16 @@
 
 ### June 7, 2025 to June 13, 2025
 
-1 commits.
+2 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add iOS 26 beta warnings<br />
   <sub>[#12112](https://github.com/flutter/website/pull/12112) merged on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12112) over 13 hours, 20 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
   <sub><details><summary>2 images...</summary>![Screenshot 2025-06-09 at 7 30 30 PM](https://github.com/user-attachments/assets/d5e09536-761e-4351-b2d1-403ca07c3ba6)![Screenshot 2025-06-09 at 7 31 03 PM](https://github.com/user-attachments/assets/00697c1e-f0ec-41c3-9729-6d8d48228243)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed swift code<br />
+  <sub>[#12110](https://github.com/flutter/website/pull/12110) merged on June 10, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12110) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [John McCutchan](https://github.com/johnmccutchan), [John "codefu" McDole](https://github.com/jtmcdole), [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### May 31, 2025 to June 6, 2025
 
