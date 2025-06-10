@@ -116,3 +116,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; tools: move DebuggingOptions to its own file<br />
   <sub>[#170299](https://github.com/flutter/flutter/pull/170299) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170299) 549 additions and 484 deletions in 83 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Cherry picks "Reverts "Data assets (#169273)""<br />
+  <sub>[#170307](https://github.com/flutter/flutter/pull/170307) opened on on June 9, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/170307) 592 additions and 1806 deletions in 51 files</sub><br />
+
