@@ -56,7 +56,7 @@
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Pause UIScene migration<br />
-  <sub>[#170457](https://github.com/flutter/flutter/pull/170457) merged on June 11, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/170457) over 2 hours, 0 additions and 1748 deletions in 3 files</sub><br />
+  <sub>[#170457](https://github.com/flutter/flutter/pull/170457) merged on June 11, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/170457) over 2 hours, 0 additions and 1748 deletions in 3 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`<br />
