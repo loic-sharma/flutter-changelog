@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-33 commits.
+34 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)
   <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub>
@@ -18,6 +18,10 @@
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix DropdownButtonFormField focusing when replacing FocusNode
   <sub>[#166645](https://github.com/flutter/flutter/pull/166645) merged on June 11, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/166645) over 2 months, 102 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [Hamza Nasser](https://github.com/Hamza-Nasser), [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all code in `conductor/core` that is now unused
+  <sub>[#170454](https://github.com/flutter/flutter/pull/170454) merged on June 11, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170454) over 2 hours, 78 additions and 1144 deletions in 14 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `pubspec.lock` files for `flutter_tools` and `widget_preview_scaffold`.
   <sub>[#170364](https://github.com/flutter/flutter/pull/170364) merged on June 10, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170364) over 56 minutes, 4 additions and 1182 deletions in 4 files</sub>
@@ -43,13 +47,13 @@
   <sub>[#170398](https://github.com/flutter/flutter/pull/170398) merged on June 11, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/170398) over 17 hours, 1042 additions and 765 deletions in 22 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Docs: Update docs for suffix icon interaction behaviour
-  <sub>[#169828](https://github.com/flutter/flutter/pull/169828) merged on June 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169828) over 1 week, 21 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Valentin Vignal](https://github.com/ValentinVignal)</sub>
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to load previews with compile-time errors
   <sub>[#170262](https://github.com/flutter/flutter/pull/170262) merged on June 11, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170262) over 2 days, 860 additions and 296 deletions in 6 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Docs: Update docs for suffix icon interaction behaviour
+  <sub>[#169828](https://github.com/flutter/flutter/pull/169828) merged on June 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169828) over 1 week, 21 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Valentin Vignal](https://github.com/ValentinVignal)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`
   <sub>[#169415](https://github.com/flutter/flutter/pull/169415) merged on June 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/169415) over 2 weeks, 260 additions and 5 deletions in 2 files</sub>
@@ -87,9 +91,9 @@
   <sub>[#170381](https://github.com/flutter/flutter/pull/170381) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170381) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Add call to Dart_NotifyDestroyed when the flutter view is des…
-  <sub>[#170309](https://github.com/flutter/flutter/pull/170309) merged on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170309) over 20 hours, 0 additions and 86 deletions in 7 files</sub>
-  <sub>Reviewed by: [Siva](https://github.com/a-siva)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves
+  <sub>[#170194](https://github.com/flutter/flutter/pull/170194) merged on June 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170194) over 2 days, 45 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: Skip native assets build test (flaky, takes 15m+)
   <sub>[#170383](https://github.com/flutter/flutter/pull/170383) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170383) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
@@ -107,9 +111,9 @@
   <sub>[#169881](https://github.com/flutter/flutter/pull/169881) merged on June 9, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/169881) over 1 week, 286 additions and 35 deletions in 10 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves
-  <sub>[#170194](https://github.com/flutter/flutter/pull/170194) merged on June 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170194) over 2 days, 45 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Add call to Dart_NotifyDestroyed when the flutter view is des…
+  <sub>[#170309](https://github.com/flutter/flutter/pull/170309) merged on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170309) over 20 hours, 0 additions and 86 deletions in 7 files</sub>
+  <sub>Reviewed by: [Siva](https://github.com/a-siva)</sub>
 
 * **[Florin Malita](https://github.com/fmalita)** &mdash; Add SK_SUPPORT_UNSPANNED_APIS staging flag
   <sub>[#170139](https://github.com/flutter/flutter/pull/170139) merged on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170139) over 5 days, 1 addition and 0 deletions in 1 file</sub>

@@ -6,7 +6,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156620) 13 additions and 5 deletions in 4 files</sub><br />
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add flag to disable automatic device reboot for DeviceLab tests<br />
-  <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
 * **[ניר](https://github.com/nrbnlulu)** &mdash; Expose-the-d3d11-device-used-by-flutter-engine<br />
   <sub>[#164578](https://github.com/flutter/flutter/pull/164578) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164578) 28 additions and 1 deletion in 4 files</sub><br />
@@ -121,7 +121,4 @@
 
 * **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
   <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 375 additions and 26 deletions in 4 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Prepare to publish 3.32.3, update changelog+engine.version.<br />
-  <sub>[#170470](https://github.com/flutter/flutter/pull/170470) opened on on June 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170470) 7 additions and 1 deletion in 2 files</sub><br />
 
