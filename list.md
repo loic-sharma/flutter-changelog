@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-28 commits.
+29 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)
   <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub>
@@ -38,6 +38,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid creating paths when rendering arcs
   <sub>[#170398](https://github.com/flutter/flutter/pull/170398) merged on June 11, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/170398) over 17 hours, 1042 additions and 765 deletions in 22 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to load previews with compile-time errors
+  <sub>[#170262](https://github.com/flutter/flutter/pull/170262) merged on June 11, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170262) over 2 days, 860 additions and 296 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`
   <sub>[#169415](https://github.com/flutter/flutter/pull/169415) merged on June 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/169415) over 2 weeks, 260 additions and 5 deletions in 2 files</sub>
