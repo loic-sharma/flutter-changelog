@@ -68,9 +68,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [DO NOT SUBMIT] Adding logs in DDC library bundle format to debug timeouts<br />
   <sub>[#169818](https://github.com/flutter/flutter/pull/169818) opened on on May 31, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/169818) 2327 additions and 5 deletions in 8 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoRadio widget of the week video<br />
-  <sub>[#170027](https://github.com/flutter/flutter/pull/170027) opened on on June 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170027) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[agra](https://github.com/agrapine)** &mdash; fixes DrivenScrollActivity LateInitializationError _controller<br />
   <sub>[#170047](https://github.com/flutter/flutter/pull/170047) opened on on June 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170047) 3 additions and 5 deletions in 1 file</sub><br />
 
@@ -120,7 +117,7 @@
   <sub>[#170447](https://github.com/flutter/flutter/pull/170447) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170447) 20 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Refactor the `flutter widget-preview` command<br />
-  <sub>[#170467](https://github.com/flutter/flutter/pull/170467) opened on on June 11, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/170467) 748 additions and 652 deletions in 10 files</sub><br />
+  <sub>[#170467](https://github.com/flutter/flutter/pull/170467) opened on on June 11, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/170467) 748 additions and 652 deletions in 10 files</sub><br />
 
 * **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
   <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 375 additions and 26 deletions in 4 files</sub><br />
