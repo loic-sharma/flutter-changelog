@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-22 commits.
+23 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semantics flag refactor step 2: embedder part<br />
   <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub><br />
@@ -73,6 +73,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves<br />
   <sub>[#170194](https://github.com/flutter/flutter/pull/170194) merged on June 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170194) over 2 days, 45 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use pathops module groups<br />
+  <sub>[#169857](https://github.com/flutter/flutter/pull/169857) merged on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169857) over 1 week, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Update test_vulkan_context.cc to use Vulkan 1.1<br />
   <sub>[#170351](https://github.com/flutter/flutter/pull/170351) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170351) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
