@@ -12,13 +12,10 @@
   <sub>[#164578](https://github.com/flutter/flutter/pull/164578) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164578) 28 additions and 1 deletion in 4 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
-  <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
+  <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Convert Gradle buildscripts of Android plugin templates from Groovy to Kotlin<br />
   <sub>[#166312](https://github.com/flutter/flutter/pull/166312) opened on on April 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166312) 16 additions and 19 deletions in 8 files</sub><br />
-
-* **[Simone Stasi](https://github.com/sstasi95)** &mdash; fix PopupMenuButton unmounted exception when updating position<br />
-  <sub>[#166412](https://github.com/flutter/flutter/pull/166412) opened on on April 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166412) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
   <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/167393) 5971 additions and 20 deletions in 94 files</sub><br />
@@ -78,7 +75,7 @@
   <sub>[#170047](https://github.com/flutter/flutter/pull/170047) opened on on June 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170047) 3 additions and 5 deletions in 1 file</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Fix `DropdownMenuFormField` not updating when value updated in `onChanged`<br />
-  <sub>[#170050](https://github.com/flutter/flutter/pull/170050) opened on on June 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170050) 46 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#170050](https://github.com/flutter/flutter/pull/170050) opened on on June 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170050) 46 additions and 1 deletion in 2 files</sub><br />
 
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; fix(cupertino): adjust CupertinoCheckbox padding on macOS<br />
   <sub>[#170063](https://github.com/flutter/flutter/pull/170063) opened on on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170063) 38 additions and 34 deletions in 1 file</sub><br />
@@ -88,12 +85,6 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `CupertinoLinearActivityIndicator`<br />
   <sub>[#170108](https://github.com/flutter/flutter/pull/170108) opened on on June 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170108) 274 additions and 0 deletions in 4 files</sub><br />
-
-* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; chore: export AdaptiveButton in widgets.dart<br />
-  <sub>[#170135](https://github.com/flutter/flutter/pull/170135) opened on on June 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170135) 78 additions and 13 deletions in 4 files</sub><br />
-
-* **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add Drag Sensitivity to RefreshIndicator<br />
-  <sub>[#170170](https://github.com/flutter/flutter/pull/170170) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170170) 198 additions and 3 deletions in 4 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; RawScrollBar can accept `EdgeInsetsGeometry`<br />
   <sub>[#170199](https://github.com/flutter/flutter/pull/170199) opened on on June 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170199) 11 additions and 11 deletions in 1 file</sub><br />

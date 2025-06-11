@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-27 commits.
+28 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)
   <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub>
@@ -30,6 +30,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] dont double free surface texture interop objects.
   <sub>[#170284](https://github.com/flutter/flutter/pull/170284) merged on June 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170284) over 19 hours, 41 additions and 4 deletions in 6 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Manually trigger `input` event in text editing tests for Safari
+  <sub>[#170022](https://github.com/flutter/flutter/pull/170022) merged on June 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170022) over 6 days, 13 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid creating paths when rendering arcs
   <sub>[#170398](https://github.com/flutter/flutter/pull/170398) merged on June 11, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/170398) over 17 hours, 1042 additions and 765 deletions in 22 files</sub>
@@ -779,7 +783,11 @@
 
 ### June 7, 2025 to June 13, 2025
 
-6 commits.
+7 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for companion ads
+  <sub>[#9260](https://github.com/flutter/packages/pull/9260) merged on June 11, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/9260) over 3 weeks, 4595 additions and 1361 deletions in 57 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Shaun Panjabi](https://github.com/shaunpanjabi)** &mdash; [in_app_purchase] Return jwsRepresentation and jsonRepresentation for StoreKit2
   <sub>[#9280](https://github.com/flutter/packages/pull/9280) merged on June 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9280) over 3 weeks, 49 additions and 5 deletions in 6 files</sub>
