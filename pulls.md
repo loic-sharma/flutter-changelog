@@ -17,9 +17,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Convert Gradle buildscripts of Android plugin templates from Groovy to Kotlin<br />
   <sub>[#166312](https://github.com/flutter/flutter/pull/166312) opened on on April 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/166312) 16 additions and 19 deletions in 8 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: FFI based multi-window support<br />
-  <sub>[#167393](https://github.com/flutter/flutter/pull/167393) opened on on April 18, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/167393) 5971 additions and 20 deletions in 94 files</sub><br />
-
 * **[Bobbie-Ware](https://github.com/Bobbie-Ware)** &mdash; fix minor spelling mistake in roadmap<br />
   <sub>[#167888](https://github.com/flutter/flutter/pull/167888) opened on on April 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/167888) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -92,11 +89,8 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Assert the ascending order of widgets<br />
   <sub>[#170236](https://github.com/flutter/flutter/pull/170236) opened on on June 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170236) 484 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; tools: move DebuggingOptions to its own file<br />
-  <sub>[#170299](https://github.com/flutter/flutter/pull/170299) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170299) 549 additions and 484 deletions in 83 files</sub><br />
-
 * **[Dipali Thakare](https://github.com/thakaredipali)** &mdash; Add example for CupertinoExpansionTile transition modes<br />
-  <sub>[#170335](https://github.com/flutter/flutter/pull/170335) opened on on June 10, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/170335) 150 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#170335](https://github.com/flutter/flutter/pull/170335) opened on on June 10, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170335) 150 additions and 0 deletions in 3 files</sub><br />
 
 * **[Roc Boronat](https://github.com/rocboronat)** &mdash; Fix styling typos in commit links for latest versions<br />
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
@@ -106,9 +100,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Re-split hot reload error and hot restart tests<br />
   <sub>[#170368](https://github.com/flutter/flutter/pull/170368) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170368) 10 additions and 4 deletions in 2 files</sub><br />
-
-* **[Erik Ernst](https://github.com/eernstg)** &mdash; Enable obvious lints 2<br />
-  <sub>[#170435](https://github.com/flutter/flutter/pull/170435) opened on on June 11, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/170435) 38400 additions and 38399 deletions in 2681 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] faster intersection computation for scale/translate.<br />
   <sub>[#170446](https://github.com/flutter/flutter/pull/170446) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170446) 162 additions and 10 deletions in 6 files</sub><br />

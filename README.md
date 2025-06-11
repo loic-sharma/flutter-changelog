@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-36 commits.
+37 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)<br />
   <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub><br />
@@ -51,13 +51,17 @@
   <sub>[#169828](https://github.com/flutter/flutter/pull/169828) merged on June 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169828) over 1 week, 21 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Valentin Vignal](https://github.com/ValentinVignal)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`<br />
-  <sub>[#169415](https://github.com/flutter/flutter/pull/169415) merged on June 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/169415) over 2 weeks, 260 additions and 5 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to load previews with compile-time errors<br />
   <sub>[#170262](https://github.com/flutter/flutter/pull/170262) merged on June 11, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170262) over 2 days, 860 additions and 296 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Pause UIScene migration<br />
+  <sub>[#170457](https://github.com/flutter/flutter/pull/170457) merged on June 11, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/170457) over 2 hours, 0 additions and 1748 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`<br />
+  <sub>[#169415](https://github.com/flutter/flutter/pull/169415) merged on June 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/169415) over 2 weeks, 260 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes inputDecoration sibling explicit child not included in semantic…<br />
   <sub>[#170079](https://github.com/flutter/flutter/pull/170079) merged on June 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170079) over 4 days, 75 additions and 7 deletions in 2 files</sub><br />
@@ -87,13 +91,13 @@
   <sub>[#170187](https://github.com/flutter/flutter/pull/170187) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170187) over 3 days, 26 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use "flutter pub get" to resolve packages when building the docs snippets tool<br />
-  <sub>[#170381](https://github.com/flutter/flutter/pull/170381) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170381) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid allocating path for dashed lines<br />
   <sub>[#169881](https://github.com/flutter/flutter/pull/169881) merged on June 9, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/169881) over 1 week, 286 additions and 35 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use "flutter pub get" to resolve packages when building the docs snippets tool<br />
+  <sub>[#170381](https://github.com/flutter/flutter/pull/170381) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170381) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves<br />
   <sub>[#170194](https://github.com/flutter/flutter/pull/170194) merged on June 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170194) over 2 days, 45 additions and 5 deletions in 2 files</sub><br />
