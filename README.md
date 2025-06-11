@@ -758,7 +758,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-4 commits.
+5 commits.
 
 * **[Shaun Panjabi](https://github.com/shaunpanjabi)** &mdash; [in_app_purchase] Return jwsRepresentation and jsonRepresentation for StoreKit2<br />
   <sub>[#9280](https://github.com/flutter/packages/pull/9280) merged on June 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9280) over 3 weeks, 49 additions and 5 deletions in 6 files</sub><br />
@@ -771,6 +771,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll Flutter master to 8b22f67c85114<br />
   <sub>[#9407](https://github.com/flutter/packages/pull/9407) merged on June 10, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9407) over 1 day, 237 additions and 160 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix iOS analysis for newer Xcode<br />
+  <sub>[#9415](https://github.com/flutter/packages/pull/9415) merged on June 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9415) over 16 hours, 26 additions and 23 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll Flutter master to 7e30df2225<br />
   <sub>[#9413](https://github.com/flutter/packages/pull/9413) merged on June 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9413) over 3 hours, 14 additions and 1 deletion in 3 files</sub><br />
