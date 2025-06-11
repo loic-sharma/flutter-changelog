@@ -122,3 +122,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Refactor the `flutter widget-preview` command<br />
   <sub>[#170467](https://github.com/flutter/flutter/pull/170467) opened on on June 11, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/170467) 748 additions and 652 deletions in 10 files</sub><br />
 
+* **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
+  <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 375 additions and 26 deletions in 4 files</sub><br />
+
