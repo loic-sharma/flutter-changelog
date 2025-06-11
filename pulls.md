@@ -128,9 +128,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Re-split hot reload error and hot restart tests<br />
   <sub>[#170368](https://github.com/flutter/flutter/pull/170368) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170368) 10 additions and 4 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impellerc] add GLES shader define.<br />
-  <sub>[#170375](https://github.com/flutter/flutter/pull/170375) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170375) 38 additions and 0 deletions in 4 files</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix `Semantics.identifier` on TextField not working on web<br />
   <sub>[#170395](https://github.com/flutter/flutter/pull/170395) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170395) 74 additions and 5 deletions in 2 files</sub><br />
 
