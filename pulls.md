@@ -99,7 +99,7 @@
   <sub>[#170299](https://github.com/flutter/flutter/pull/170299) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170299) 549 additions and 484 deletions in 83 files</sub><br />
 
 * **[Dipali Thakare](https://github.com/thakaredipali)** &mdash; Add example for CupertinoExpansionTile transition modes<br />
-  <sub>[#170335](https://github.com/flutter/flutter/pull/170335) opened on on June 10, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170335) 143 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#170335](https://github.com/flutter/flutter/pull/170335) opened on on June 10, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/170335) 150 additions and 0 deletions in 3 files</sub><br />
 
 * **[Roc Boronat](https://github.com/rocboronat)** &mdash; Fix styling typos in commit links for latest versions<br />
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
@@ -120,5 +120,5 @@
   <sub>[#170447](https://github.com/flutter/flutter/pull/170447) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170447) 20 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Refactor the `flutter widget-preview` command<br />
-  <sub>[#170467](https://github.com/flutter/flutter/pull/170467) opened on on June 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170467) 742 additions and 652 deletions in 10 files</sub><br />
+  <sub>[#170467](https://github.com/flutter/flutter/pull/170467) opened on on June 11, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/170467) 748 additions and 652 deletions in 10 files</sub><br />
 
