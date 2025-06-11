@@ -96,7 +96,7 @@
   <sub>[#170135](https://github.com/flutter/flutter/pull/170135) opened on on June 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170135) 78 additions and 13 deletions in 4 files</sub><br />
 
 * **[Furkan Acar](https://github.com/AcarFurkan)** &mdash; Add Drag Sensitivity to RefreshIndicator<br />
-  <sub>[#170170](https://github.com/flutter/flutter/pull/170170) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170170) 192 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#170170](https://github.com/flutter/flutter/pull/170170) opened on on June 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170170) 198 additions and 3 deletions in 4 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; RawScrollBar can accept `EdgeInsetsGeometry`<br />
   <sub>[#170199](https://github.com/flutter/flutter/pull/170199) opened on on June 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170199) 11 additions and 11 deletions in 1 file</sub><br />
