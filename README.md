@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-34 commits.
+35 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)<br />
   <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub><br />
@@ -47,17 +47,17 @@
   <sub>[#170398](https://github.com/flutter/flutter/pull/170398) merged on June 11, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/170398) over 17 hours, 1042 additions and 765 deletions in 22 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to load previews with compile-time errors<br />
-  <sub>[#170262](https://github.com/flutter/flutter/pull/170262) merged on June 11, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170262) over 2 days, 860 additions and 296 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`<br />
+  <sub>[#169415](https://github.com/flutter/flutter/pull/169415) merged on June 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/169415) over 2 weeks, 260 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Docs: Update docs for suffix icon interaction behaviour<br />
   <sub>[#169828](https://github.com/flutter/flutter/pull/169828) merged on June 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169828) over 1 week, 21 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Valentin Vignal](https://github.com/ValentinVignal)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`<br />
-  <sub>[#169415](https://github.com/flutter/flutter/pull/169415) merged on June 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/169415) over 2 weeks, 260 additions and 5 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to load previews with compile-time errors<br />
+  <sub>[#170262](https://github.com/flutter/flutter/pull/170262) merged on June 11, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170262) over 2 days, 860 additions and 296 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes inputDecoration sibling explicit child not included in semantic…<br />
   <sub>[#170079](https://github.com/flutter/flutter/pull/170079) merged on June 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170079) over 4 days, 75 additions and 7 deletions in 2 files</sub><br />
@@ -95,9 +95,9 @@
   <sub>[#170194](https://github.com/flutter/flutter/pull/170194) merged on June 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170194) over 2 days, 45 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: Skip native assets build test (flaky, takes 15m+)<br />
-  <sub>[#170383](https://github.com/flutter/flutter/pull/170383) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170383) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Daco Harkes](https://github.com/dcharkes)</sub><br />
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Add call to Dart_NotifyDestroyed when the flutter view is des…<br />
+  <sub>[#170309](https://github.com/flutter/flutter/pull/170309) merged on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170309) over 20 hours, 0 additions and 86 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Siva](https://github.com/a-siva)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.<br />
   <sub>[#170313](https://github.com/flutter/flutter/pull/170313) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170313) over 15 hours, 14 additions and 0 deletions in 4 files</sub><br />
@@ -111,9 +111,9 @@
   <sub>[#169881](https://github.com/flutter/flutter/pull/169881) merged on June 9, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/169881) over 1 week, 286 additions and 35 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Add call to Dart_NotifyDestroyed when the flutter view is des…<br />
-  <sub>[#170309](https://github.com/flutter/flutter/pull/170309) merged on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170309) over 20 hours, 0 additions and 86 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Siva](https://github.com/a-siva)</sub><br />
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: Skip native assets build test (flaky, takes 15m+)<br />
+  <sub>[#170383](https://github.com/flutter/flutter/pull/170383) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170383) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Florin Malita](https://github.com/fmalita)** &mdash; Add SK_SUPPORT_UNSPANNED_APIS staging flag<br />
   <sub>[#170139](https://github.com/flutter/flutter/pull/170139) merged on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170139) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
@@ -133,6 +133,10 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Invalidate build target when new output file is added<br />
   <sub>[#170253](https://github.com/flutter/flutter/pull/170253) merged on June 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170253) over 2 hours, 123 additions and 21 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Adds getters for different formats of build mode name<br />
+  <sub>[#170251](https://github.com/flutter/flutter/pull/170251) merged on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170251) over 2 days, 58 additions and 27 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add debugOverridePlatformViewRegistry to HtmlElementView test.<br />
@@ -807,7 +811,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for companion ads<br />
   <sub>[#9260](https://github.com/flutter/packages/pull/9260) merged on June 11, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/9260) over 3 weeks, 4595 additions and 1361 deletions in 57 files</sub><br />
@@ -820,6 +824,10 @@
 * **[wangyognqi](https://github.com/wyqlxf)** &mdash; [vector_graphics]Add Null Check for Image Retrieval in listener.dart's onDrawImage Function<br />
   <sub>[#9211](https://github.com/flutter/packages/pull/9211) merged on June 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9211) over 1 month, 22 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll Flutter master to 824868f5d1e6c091a5df23d3628407e75149e1da<br />
+  <sub>[#9416](https://github.com/flutter/packages/pull/9416) merged on June 11, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/9416) over 5 hours, 5 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll Flutter master to 8b22f67c85114<br />
   <sub>[#9407](https://github.com/flutter/packages/pull/9407) merged on June 10, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9407) over 1 day, 237 additions and 160 deletions in 15 files</sub><br />
