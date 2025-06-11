@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-26 commits.
+27 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)<br />
   <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub><br />
@@ -50,6 +50,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Export FlutterSceneDelegate<br />
   <sub>[#170169](https://github.com/flutter/flutter/pull/170169) merged on June 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170169) over 3 days, 46 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Tiny clean-up in triage docs<br />
+  <sub>[#170429](https://github.com/flutter/flutter/pull/170429) merged on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170429) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Verify old version of Python has the `lib2to3` import available<br />
   <sub>[#170187](https://github.com/flutter/flutter/pull/170187) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170187) over 3 days, 26 additions and 6 deletions in 1 file</sub><br />
