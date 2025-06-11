@@ -134,3 +134,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix `Semantics.identifier` on TextField not working on web<br />
   <sub>[#170395](https://github.com/flutter/flutter/pull/170395) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170395) 74 additions and 5 deletions in 2 files</sub><br />
 
+* **[Erik Ernst](https://github.com/eernstg)** &mdash; Enable obvious lints 2<br />
+  <sub>[#170435](https://github.com/flutter/flutter/pull/170435) opened on on June 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/170435) 38400 additions and 38399 deletions in 2681 files</sub><br />
+
