@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-31 commits.
+33 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)
   <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub>
@@ -14,6 +14,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semantics flag refactor step 2: embedder part
   <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix DropdownButtonFormField focusing when replacing FocusNode
+  <sub>[#166645](https://github.com/flutter/flutter/pull/166645) merged on June 11, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/166645) over 2 months, 102 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Hamza Nasser](https://github.com/Hamza-Nasser), [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `pubspec.lock` files for `flutter_tools` and `widget_preview_scaffold`.
   <sub>[#170364](https://github.com/flutter/flutter/pull/170364) merged on June 10, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170364) over 56 minutes, 4 additions and 1182 deletions in 4 files</sub>
@@ -62,6 +66,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Export FlutterSceneDelegate
   <sub>[#170169](https://github.com/flutter/flutter/pull/170169) merged on June 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170169) over 3 days, 46 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Juergen Werner](https://github.com/pogojotz)** &mdash; Fix remaining iconbuttontheme overrides in listtile
+  <sub>[#169029](https://github.com/flutter/flutter/pull/169029) merged on June 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169029) over 3 weeks, 95 additions and 21 deletions in 3 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoRadio widget of the week video
   <sub>[#170027](https://github.com/flutter/flutter/pull/170027) merged on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170027) over 6 days, 2 additions and 0 deletions in 1 file</sub>

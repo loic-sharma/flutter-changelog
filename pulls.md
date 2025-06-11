@@ -122,3 +122,6 @@
 * **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
   <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 375 additions and 26 deletions in 4 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Prepare to publish 3.32.3, update changelog+engine.version.<br />
+  <sub>[#170470](https://github.com/flutter/flutter/pull/170470) opened on on June 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170470) 7 additions and 1 deletion in 2 files</sub><br />
+
