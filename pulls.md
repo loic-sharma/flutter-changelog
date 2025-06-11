@@ -122,3 +122,9 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Start a `dev/checks_tool` directory.<br />
   <sub>[#170493](https://github.com/flutter/flutter/pull/170493) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170493) 61 additions and 0 deletions in 7 files</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Remove use of simple Skia objects<br />
+  <sub>[#170494](https://github.com/flutter/flutter/pull/170494) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170494) 33 additions and 44 deletions in 12 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Copy `packages_autoroller` to `dev/packages_autoroller/run`.<br />
+  <sub>[#170495](https://github.com/flutter/flutter/pull/170495) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170495) 64 additions and 0 deletions in 3 files</sub><br />
+
