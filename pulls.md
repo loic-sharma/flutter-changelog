@@ -119,6 +119,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.<br />
   <sub>[#170447](https://github.com/flutter/flutter/pull/170447) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170447) 20 additions and 4 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Pause UIScene migration<br />
-  <sub>[#170457](https://github.com/flutter/flutter/pull/170457) opened on on June 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/170457) 0 additions and 1748 deletions in 3 files</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Refactor the `flutter widget-preview` command<br />
+  <sub>[#170467](https://github.com/flutter/flutter/pull/170467) opened on on June 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170467) 742 additions and 652 deletions in 10 files</sub><br />
 
