@@ -113,12 +113,12 @@
 * **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
   <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 375 additions and 26 deletions in 4 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; CP: iOS tool dylibs do not need entitlements (#170448)<br />
-  <sub>[#170481](https://github.com/flutter/flutter/pull/170481) opened on on June 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170481) 148 additions and 60 deletions in 4 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Posix: Use `aot-snapshot` if `FLUTTER_TOOLS_USE_AOT_SNAPSHOT=1`<br />
   <sub>[#170488](https://github.com/flutter/flutter/pull/170488) opened on on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170488) 32 additions and 4 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update master branch `CHANGELOG.md` for 3.32.3.<br />
   <sub>[#170492](https://github.com/flutter/flutter/pull/170492) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170492) 6 additions and 0 deletions in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Start a `dev/checks_tool` directory.<br />
+  <sub>[#170493](https://github.com/flutter/flutter/pull/170493) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170493) 61 additions and 0 deletions in 7 files</sub><br />
 
