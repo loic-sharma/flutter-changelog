@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-25 commits.
+26 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)
   <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub>
@@ -30,6 +30,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] dont double free surface texture interop objects.
   <sub>[#170284](https://github.com/flutter/flutter/pull/170284) merged on June 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170284) over 19 hours, 41 additions and 4 deletions in 6 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid creating paths when rendering arcs
+  <sub>[#170398](https://github.com/flutter/flutter/pull/170398) merged on June 11, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/170398) over 17 hours, 1042 additions and 765 deletions in 22 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `Radio`
   <sub>[#169415](https://github.com/flutter/flutter/pull/169415) merged on June 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/169415) over 2 weeks, 260 additions and 5 deletions in 2 files</sub>
