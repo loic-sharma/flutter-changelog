@@ -122,3 +122,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Roll customer_testing from 7f5502629 to 9a7ff449e (3 commits)<br />
   <sub>[#170544](https://github.com/flutter/flutter/pull/170544) opened on on June 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170544) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix mask filter application to Vertices.<br />
+  <sub>[#170548](https://github.com/flutter/flutter/pull/170548) opened on on June 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170548) 26 additions and 1 deletion in 4 files</sub><br />
+
