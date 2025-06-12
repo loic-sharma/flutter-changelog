@@ -1014,7 +1014,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-3 commits.
+4 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add iOS 26 beta warnings<br />
   <sub>[#12112](https://github.com/flutter/website/pull/12112) merged on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12112) over 13 hours, 20 additions and 3 deletions in 2 files</sub><br />
@@ -1028,6 +1028,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed swift code<br />
   <sub>[#12110](https://github.com/flutter/website/pull/12110) merged on June 10, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12110) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [John McCutchan](https://github.com/johnmccutchan), [John "codefu" McDole](https://github.com/jtmcdole), [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New design doc: Render Squircles on Web with a Cache<br />
+  <sub>[#12114](https://github.com/flutter/website/pull/12114) merged on June 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12114) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### May 31, 2025 to June 6, 2025
 
