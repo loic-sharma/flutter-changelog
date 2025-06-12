@@ -111,7 +111,7 @@
   <sub>[#170467](https://github.com/flutter/flutter/pull/170467) opened on on June 11, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/170467) 748 additions and 652 deletions in 10 files</sub><br />
 
 * **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
-  <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 375 additions and 26 deletions in 4 files</sub><br />
+  <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 373 additions and 26 deletions in 4 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Posix: Use `aot-snapshot` if `FLUTTER_TOOLS_USE_AOT_SNAPSHOT=1`<br />
   <sub>[#170488](https://github.com/flutter/flutter/pull/170488) opened on on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170488) 36 additions and 4 deletions in 2 files</sub><br />
