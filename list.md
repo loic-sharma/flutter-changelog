@@ -19,6 +19,10 @@
   <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [57 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix `Semantics.identifier` on TextField not working on web
+  <sub>[#170395](https://github.com/flutter/flutter/pull/170395) merged on June 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170395) over 1 day, 74 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add time to first frame for `Mac_arm64_ios imitation_game_swiftui`
   <sub>[#167602](https://github.com/flutter/flutter/pull/167602) merged on June 11, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/167602) over 1 month, 375 additions and 11 deletions in 5 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -34,10 +38,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: initial commit
   <sub>[#169105](https://github.com/flutter/flutter/pull/169105) merged on June 10, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/169105) over 3 weeks, 3882 additions and 8 deletions in 37 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix `Semantics.identifier` on TextField not working on web
-  <sub>[#170395](https://github.com/flutter/flutter/pull/170395) merged on June 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170395) over 1 day, 74 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all code in `conductor/core` that is now unused
   <sub>[#170454](https://github.com/flutter/flutter/pull/170454) merged on June 11, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170454) over 2 hours, 78 additions and 1144 deletions in 14 files</sub>
@@ -851,7 +851,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-9 commits.
+10 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for companion ads
   <sub>[#9260](https://github.com/flutter/packages/pull/9260) merged on June 11, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/9260) over 3 weeks, 4595 additions and 1361 deletions in 57 files</sub>
@@ -860,6 +860,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [android_camera_camerax] Fix incorrect camera mirroring for front cameras on devices using `ImageReader` Impeller backend
   <sub>[#9233](https://github.com/flutter/packages/pull/9233) merged on June 12, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9233) over 1 month, 246 additions and 25 deletions in 4 files</sub>
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update example apps to Swift
+  <sub>[#9347](https://github.com/flutter/packages/pull/9347) merged on June 12, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/9347) over 1 week, 3511 additions and 2659 deletions in 254 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Shaun Panjabi](https://github.com/shaunpanjabi)** &mdash; [in_app_purchase] Return jwsRepresentation and jsonRepresentation for StoreKit2
   <sub>[#9280](https://github.com/flutter/packages/pull/9280) merged on June 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9280) over 3 weeks, 49 additions and 5 deletions in 6 files</sub>

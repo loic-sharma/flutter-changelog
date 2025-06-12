@@ -39,7 +39,7 @@
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
-  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) opened on on May 22, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/169245) 526 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) opened on on May 22, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/169245) 526 additions and 0 deletions in 5 files</sub><br />
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Fixed an issue about scrolling re-competition<br />
   <sub>[#169430](https://github.com/flutter/flutter/pull/169430) opened on on May 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169430) 114 additions and 2 deletions in 7 files</sub><br />
@@ -75,7 +75,7 @@
   <sub>[#170065](https://github.com/flutter/flutter/pull/170065) opened on on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170065) 40 additions and 42 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `CupertinoLinearActivityIndicator`<br />
-  <sub>[#170108](https://github.com/flutter/flutter/pull/170108) opened on on June 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170108) 274 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#170108](https://github.com/flutter/flutter/pull/170108) opened on on June 6, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/170108) 274 additions and 0 deletions in 4 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; RawScrollBar can accept `EdgeInsetsGeometry`<br />
   <sub>[#170199](https://github.com/flutter/flutter/pull/170199) opened on on June 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170199) 11 additions and 11 deletions in 1 file</sub><br />
