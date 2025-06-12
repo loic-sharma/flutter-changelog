@@ -68,9 +68,6 @@
 * **[agra](https://github.com/agrapine)** &mdash; fixes DrivenScrollActivity LateInitializationError _controller<br />
   <sub>[#170047](https://github.com/flutter/flutter/pull/170047) opened on on June 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170047) 3 additions and 5 deletions in 1 file</sub><br />
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Fix `DropdownButtonFormField` not updating when value updated in `onChanged`<br />
-  <sub>[#170050](https://github.com/flutter/flutter/pull/170050) opened on on June 5, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170050) 46 additions and 1 deletion in 2 files</sub><br />
-
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; fix(cupertino): adjust CupertinoCheckbox padding on macOS<br />
   <sub>[#170063](https://github.com/flutter/flutter/pull/170063) opened on on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170063) 38 additions and 34 deletions in 1 file</sub><br />
 
@@ -121,4 +118,7 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Remove use of simple Skia objects<br />
   <sub>[#170494](https://github.com/flutter/flutter/pull/170494) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170494) 33 additions and 44 deletions in 12 files</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Run pub get post-processing for each package in workspace<br />
+  <sub>[#170517](https://github.com/flutter/flutter/pull/170517) opened on on June 12, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170517) 205 additions and 99 deletions in 8 files</sub><br />
 
