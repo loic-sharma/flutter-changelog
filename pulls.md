@@ -86,6 +86,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Assert the ascending order of widgets<br />
   <sub>[#170236](https://github.com/flutter/flutter/pull/170236) opened on on June 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170236) 484 additions and 0 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland lazy path and object arenas<br />
+  <sub>[#170303](https://github.com/flutter/flutter/pull/170303) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170303) 1202 additions and 114 deletions in 22 files</sub><br />
+
 * **[Dipali Thakare](https://github.com/thakaredipali)** &mdash; Add example for CupertinoExpansionTile transition modes<br />
   <sub>[#170335](https://github.com/flutter/flutter/pull/170335) opened on on June 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/170335) 149 additions and 0 deletions in 3 files</sub><br />
 
