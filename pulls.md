@@ -89,9 +89,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland lazy path and object arenas<br />
   <sub>[#170303](https://github.com/flutter/flutter/pull/170303) opened on on June 9, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/170303) 1202 additions and 114 deletions in 22 files</sub><br />
 
-* **[Dipali Thakare](https://github.com/thakaredipali)** &mdash; Add example for CupertinoExpansionTile transition modes<br />
-  <sub>[#170335](https://github.com/flutter/flutter/pull/170335) opened on on June 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/170335) 149 additions and 0 deletions in 3 files</sub><br />
-
 * **[Roc Boronat](https://github.com/rocboronat)** &mdash; Fix styling typos in commit links for latest versions<br />
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
 
