@@ -16,7 +16,7 @@
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/22f906b9-bd95-4996-852e-bc2df4247364)![image](https://github.com/user-attachments/assets/83fd37e2-2cd1-454d-a13d-f2dcc3220e3b)</details></sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Semantics flag refactor step 2: embedder part<br />
-  <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [56 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub><br />
+  <sub>[#167738](https://github.com/flutter/flutter/pull/167738) merged on June 10, 2025 &mdash; **Medium:** [57 comments](https://github.com/flutter/flutter/pull/167738) over 1 month, 354 additions and 122 deletions in 13 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add time to first frame for `Mac_arm64_ios imitation_game_swiftui`<br />
