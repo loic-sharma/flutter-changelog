@@ -851,11 +851,15 @@
 
 ### June 7, 2025 to June 13, 2025
 
-8 commits.
+9 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for companion ads
   <sub>[#9260](https://github.com/flutter/packages/pull/9260) merged on June 11, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/9260) over 3 weeks, 4595 additions and 1361 deletions in 57 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [android_camera_camerax] Fix incorrect camera mirroring for front cameras on devices using `ImageReader` Impeller backend
+  <sub>[#9233](https://github.com/flutter/packages/pull/9233) merged on June 12, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9233) over 1 month, 246 additions and 25 deletions in 4 files</sub>
+  <sub>Reviewed by: [jesswrd](https://github.com/jesswrd), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Shaun Panjabi](https://github.com/shaunpanjabi)** &mdash; [in_app_purchase] Return jwsRepresentation and jsonRepresentation for StoreKit2
   <sub>[#9280](https://github.com/flutter/packages/pull/9280) merged on June 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9280) over 3 weeks, 49 additions and 5 deletions in 6 files</sub>
