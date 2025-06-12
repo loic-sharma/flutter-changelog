@@ -95,6 +95,10 @@
   <sub>[#170169](https://github.com/flutter/flutter/pull/170169) merged on June 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170169) over 3 days, 46 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves
+  <sub>[#170194](https://github.com/flutter/flutter/pull/170194) merged on June 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/170194) over 2 days, 45 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Juergen Werner](https://github.com/pogojotz)** &mdash; Fix remaining iconbuttontheme overrides in listtile
   <sub>[#169029](https://github.com/flutter/flutter/pull/169029) merged on June 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169029) over 3 weeks, 95 additions and 21 deletions in 3 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -118,10 +122,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Tiny clean-up in triage docs
   <sub>[#170429](https://github.com/flutter/flutter/pull/170429) merged on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170429) over 7 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix vertex allocation counts for flat curves
-  <sub>[#170194](https://github.com/flutter/flutter/pull/170194) merged on June 9, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170194) over 2 days, 45 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Verify old version of Python has the `lib2to3` import available
   <sub>[#170187](https://github.com/flutter/flutter/pull/170187) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170187) over 3 days, 26 additions and 6 deletions in 1 file</sub>
@@ -713,7 +713,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] acquire the gpu sync switch when flush stored GPU tasks.
-  <sub>[#169596](https://github.com/flutter/flutter/pull/169596) merged on May 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169596) over 5 hours, 107 additions and 4 deletions in 10 files</sub>
+  <sub>[#169596](https://github.com/flutter/flutter/pull/169596) merged on May 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169596) over 5 hours, 107 additions and 4 deletions in 10 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Maintain a global map of each context's currently active thread-local command pools
