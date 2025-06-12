@@ -4,7 +4,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-50 commits.
+52 commits.
 
 * **[yim](https://github.com/yiiim)** &mdash; Allow the Slider to always show the value indicator.
   <sub>[#162223](https://github.com/flutter/flutter/pull/162223) merged on June 11, 2025 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/162223) over 4 months, 456 additions and 120 deletions in 10 files</sub>
@@ -55,25 +55,29 @@
   <sub>[#170284](https://github.com/flutter/flutter/pull/170284) merged on June 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170284) over 19 hours, 41 additions and 4 deletions in 6 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid creating paths when rendering arcs
+  <sub>[#170398](https://github.com/flutter/flutter/pull/170398) merged on June 11, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/170398) over 17 hours, 1042 additions and 765 deletions in 22 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Manually trigger `input` event in text editing tests for Safari
   <sub>[#170022](https://github.com/flutter/flutter/pull/170022) merged on June 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170022) over 6 days, 13 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid creating paths when rendering arcs
-  <sub>[#170398](https://github.com/flutter/flutter/pull/170398) merged on June 11, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/170398) over 17 hours, 1042 additions and 765 deletions in 22 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix stray `--packages` argument from `workspace` refactor; add a test.
+  <sub>[#170449](https://github.com/flutter/flutter/pull/170449) merged on June 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170449) over 1 day, 70 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impellerc] add GLES shader define.
   <sub>[#170375](https://github.com/flutter/flutter/pull/170375) merged on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170375) over 1 day, 43 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Docs: Update docs for suffix icon interaction behaviour
-  <sub>[#169828](https://github.com/flutter/flutter/pull/169828) merged on June 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169828) over 1 week, 21 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Valentin Vignal](https://github.com/ValentinVignal)</sub>
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Pause UIScene migration
   <sub>[#170490](https://github.com/flutter/flutter/pull/170490) merged on June 12, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/170490) over 22 hours, 146 additions and 1796 deletions in 12 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Docs: Update docs for suffix icon interaction behaviour
+  <sub>[#169828](https://github.com/flutter/flutter/pull/169828) merged on June 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169828) over 1 week, 21 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Valentin Vignal](https://github.com/ValentinVignal)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to load previews with compile-time errors
   <sub>[#170262](https://github.com/flutter/flutter/pull/170262) merged on June 11, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170262) over 2 days, 860 additions and 296 deletions in 6 files</sub>
@@ -111,6 +115,10 @@
   <sub>[#169029](https://github.com/flutter/flutter/pull/169029) merged on June 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169029) over 3 weeks, 95 additions and 21 deletions in 3 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoSheetRoute widget of the week video
+  <sub>[#170026](https://github.com/flutter/flutter/pull/170026) merged on June 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170026) over 1 week, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix the path to `packages_autoroller`.
   <sub>[#170538](https://github.com/flutter/flutter/pull/170538) merged on June 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170538) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -122,10 +130,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update master branch `CHANGELOG.md` for 3.32.3.
   <sub>[#170492](https://github.com/flutter/flutter/pull/170492) merged on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170492) over 19 minutes, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoRadio widget of the week video
-  <sub>[#170027](https://github.com/flutter/flutter/pull/170027) merged on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170027) over 6 days, 2 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed the FlutterViewController.pluginRegistrant
   <sub>[#169995](https://github.com/flutter/flutter/pull/169995) merged on June 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169995) over 5 days, 0 additions and 21 deletions in 3 files</sub>
@@ -139,13 +143,21 @@
   <sub>[#170381](https://github.com/flutter/flutter/pull/170381) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170381) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Add call to Dart_NotifyDestroyed when the flutter view is des…
-  <sub>[#170309](https://github.com/flutter/flutter/pull/170309) merged on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170309) over 20 hours, 0 additions and 86 deletions in 7 files</sub>
-  <sub>Reviewed by: [Siva](https://github.com/a-siva)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.
+  <sub>[#170313](https://github.com/flutter/flutter/pull/170313) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170313) over 15 hours, 14 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: Skip native assets build test (flaky, takes 15m+)
   <sub>[#170383](https://github.com/flutter/flutter/pull/170383) merged on June 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170383) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Daco Harkes](https://github.com/dcharkes)</sub>
+
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Add call to Dart_NotifyDestroyed when the flutter view is des…
+  <sub>[#170309](https://github.com/flutter/flutter/pull/170309) merged on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170309) over 20 hours, 0 additions and 86 deletions in 7 files</sub>
+  <sub>Reviewed by: [Siva](https://github.com/a-siva)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CupertinoRadio widget of the week video
+  <sub>[#170027](https://github.com/flutter/flutter/pull/170027) merged on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170027) over 6 days, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Tiny clean-up in triage docs
   <sub>[#170429](https://github.com/flutter/flutter/pull/170429) merged on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170429) over 7 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -154,18 +166,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Verify old version of Python has the `lib2to3` import available
   <sub>[#170187](https://github.com/flutter/flutter/pull/170187) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170187) over 3 days, 26 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.
-  <sub>[#170313](https://github.com/flutter/flutter/pull/170313) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170313) over 15 hours, 14 additions and 0 deletions in 4 files</sub>
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Navigator should call didpop when popping page based route
-  <sub>[#170376](https://github.com/flutter/flutter/pull/170376) merged on June 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170376) over 2 days, 37 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Relax RadioGroup semantics to allow non-radio children
-  <sub>[#170273](https://github.com/flutter/flutter/pull/170273) merged on June 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170273) over 3 days, 78 additions and 45 deletions in 4 files</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; iOS tool dylibs do not need entitlements
   <sub>[#170448](https://github.com/flutter/flutter/pull/170448) merged on June 11, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170448) over 3 hours, 148 additions and 60 deletions in 4 files</sub>
@@ -179,6 +179,14 @@
   <sub>[#170139](https://github.com/flutter/flutter/pull/170139) merged on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170139) over 5 days, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use pathops module groups
+  <sub>[#169857](https://github.com/flutter/flutter/pull/169857) merged on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169857) over 1 week, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Navigator should call didpop when popping page based route
+  <sub>[#170376](https://github.com/flutter/flutter/pull/170376) merged on June 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170376) over 2 days, 37 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Update test_vulkan_context.cc to use Vulkan 1.1
   <sub>[#170351](https://github.com/flutter/flutter/pull/170351) merged on June 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170351) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -191,9 +199,9 @@
   <sub>[#170253](https://github.com/flutter/flutter/pull/170253) merged on June 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170253) over 2 hours, 123 additions and 21 deletions in 7 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use pathops module groups
-  <sub>[#169857](https://github.com/flutter/flutter/pull/169857) merged on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169857) over 1 week, 3 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Relax RadioGroup semantics to allow non-radio children
+  <sub>[#170273](https://github.com/flutter/flutter/pull/170273) merged on June 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170273) over 3 days, 78 additions and 45 deletions in 4 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add debugOverridePlatformViewRegistry to HtmlElementView test.
   <sub>[#170163](https://github.com/flutter/flutter/pull/170163) merged on June 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170163) over 2 days, 3 additions and 13 deletions in 2 files</sub>
