@@ -122,3 +122,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add DropdownButtonFormField value param test<br />
   <sub>[#170518](https://github.com/flutter/flutter/pull/170518) opened on on June 12, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/170518) 49 additions and 0 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move verify_binaries_pre_codesigned test out of bringup<br />
+  <sub>[#170526](https://github.com/flutter/flutter/pull/170526) opened on on June 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170526) 0 additions and 2 deletions in 1 file</sub><br />
+
