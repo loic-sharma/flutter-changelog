@@ -35,6 +35,10 @@
   <sub>[#169105](https://github.com/flutter/flutter/pull/169105) merged on June 10, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/169105) over 3 weeks, 3882 additions and 8 deletions in 37 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix `Semantics.identifier` on TextField not working on web
+  <sub>[#170395](https://github.com/flutter/flutter/pull/170395) merged on June 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170395) over 1 day, 74 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all code in `conductor/core` that is now unused
   <sub>[#170454](https://github.com/flutter/flutter/pull/170454) merged on June 11, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170454) over 2 hours, 78 additions and 1144 deletions in 14 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -42,10 +46,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `pubspec.lock` files for `flutter_tools` and `widget_preview_scaffold`.
   <sub>[#170364](https://github.com/flutter/flutter/pull/170364) merged on June 10, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170364) over 56 minutes, 4 additions and 1182 deletions in 4 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix `Semantics.identifier` on TextField not working on web
-  <sub>[#170395](https://github.com/flutter/flutter/pull/170395) merged on June 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170395) over 1 day, 74 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[likir09](https://github.com/likir09)** &mdash; fix: set versionCodeOverride when split-per-abi is specified
   <sub>[#169816](https://github.com/flutter/flutter/pull/169816) merged on June 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169816) over 1 week, 126 additions and 1 deletion in 2 files</sub>
