@@ -125,3 +125,6 @@
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
   <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170612) 39 additions and 30 deletions in 3 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix whitespace issue in .ci.yaml.<br />
+  <sub>[#170615](https://github.com/flutter/flutter/pull/170615) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170615) 1 addition and 1 deletion in 1 file</sub><br />
+
