@@ -92,9 +92,6 @@
 * **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
   <sub>[#170343](https://github.com/flutter/flutter/pull/170343) opened on on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170343) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Re-split hot reload error and hot restart tests<br />
-  <sub>[#170368](https://github.com/flutter/flutter/pull/170368) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170368) 10 additions and 4 deletions in 2 files</sub><br />
-
 * **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
   <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 373 additions and 26 deletions in 4 files</sub><br />
 
