@@ -122,3 +122,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; CP: Pause UIScene migration (#170490)<br />
   <sub>[#170569](https://github.com/flutter/flutter/pull/170569) opened on on June 13, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/170569) 138 additions and 1790 deletions in 10 files</sub><br />
 
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; Manual roll of Fuchsia Test Scripts from xobrcSN07udKdXOq_shTG6-PJwjx…<br />
+  <sub>[#170594](https://github.com/flutter/flutter/pull/170594) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170594) 1 addition and 1 deletion in 1 file</sub><br />
+
