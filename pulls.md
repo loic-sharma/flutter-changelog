@@ -125,3 +125,6 @@
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
   <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170612) 39 additions and 30 deletions in 3 files</sub><br />
 
+* **[ash2moon](https://github.com/ash2moon)** &mdash; rename from announce to supportsAnnounce on engine<br />
+  <sub>[#170618](https://github.com/flutter/flutter/pull/170618) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170618) 28 additions and 26 deletions in 4 files</sub><br />
+
