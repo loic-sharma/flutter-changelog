@@ -56,6 +56,9 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update didUnmountRenderObject text description<br />
   <sub>[#169628](https://github.com/flutter/flutter/pull/169628) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169628) 4 additions and 3 deletions in 1 file</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move android_obfuscate_test from devicelab into tools integration.shard<br />
+  <sub>[#169798](https://github.com/flutter/flutter/pull/169798) opened on on May 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169798) 118 additions and 123 deletions in 4 files</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update anchorRect for overlayBuilder when anchor moves<br />
   <sub>[#169814](https://github.com/flutter/flutter/pull/169814) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169814) 61 additions and 1 deletion in 2 files</sub><br />
 
@@ -94,9 +97,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Re-split hot reload error and hot restart tests<br />
   <sub>[#170368](https://github.com/flutter/flutter/pull/170368) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170368) 10 additions and 4 deletions in 2 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] faster intersection computation for scale/translate.<br />
-  <sub>[#170446](https://github.com/flutter/flutter/pull/170446) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170446) 162 additions and 10 deletions in 6 files</sub><br />
 
 * **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
   <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 373 additions and 26 deletions in 4 files</sub><br />
