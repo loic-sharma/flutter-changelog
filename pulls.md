@@ -122,6 +122,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix file path conflict introduced in https://github.com/flutter/flutter/pull/169949<br />
   <sub>[#170606](https://github.com/flutter/flutter/pull/170606) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170606) 6 additions and 10 deletions in 3 files</sub><br />
 
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Prevent --web-experimental-hot-reload on web-server<br />
-  <sub>[#170610](https://github.com/flutter/flutter/pull/170610) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170610) 6 additions and 1 deletion in 1 file</sub><br />
-
