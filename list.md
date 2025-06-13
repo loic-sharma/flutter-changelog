@@ -1076,7 +1076,7 @@
 
 ### June 7, 2025 to June 13, 2025
 
-6 commits.
+7 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add iOS 26 beta warnings
   <sub>[#12112](https://github.com/flutter/website/pull/12112) merged on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12112) over 13 hours, 20 additions and 3 deletions in 2 files</sub>
@@ -1093,6 +1093,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix build failure due to tsx changes
   <sub>[#12123](https://github.com/flutter/website/pull/12123) merged on June 12, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12123) over 19 minutes, 246 additions and 239 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update to UISceneDelegate adoption breaking change
+  <sub>[#12120](https://github.com/flutter/website/pull/12120) merged on June 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12120) over 1 day, 35 additions and 39 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New design doc: Render Squircles on Web with a Cache
