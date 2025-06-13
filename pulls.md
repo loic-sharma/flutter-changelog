@@ -119,9 +119,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable lossy texture compression.<br />
   <sub>[#170596](https://github.com/flutter/flutter/pull/170596) opened on on June 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170596) 0 additions and 2 deletions in 1 file</sub><br />
 
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update CHANGELOG with 3.32.4 changes<br />
-  <sub>[#170598](https://github.com/flutter/flutter/pull/170598) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170598) 4 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove support for synthetic package:flutter_gen<br />
   <sub>[#170602](https://github.com/flutter/flutter/pull/170602) opened on on June 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170602) 0 additions and 70 deletions in 2 files</sub><br />
 
