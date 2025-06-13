@@ -119,3 +119,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Roll customer_testing from 7f5502629 to 9a7ff449e (3 commits)<br />
   <sub>[#170544](https://github.com/flutter/flutter/pull/170544) opened on on June 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170544) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; CP: Pause UIScene migration (#170490)<br />
+  <sub>[#170569](https://github.com/flutter/flutter/pull/170569) opened on on June 13, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/170569) 138 additions and 1790 deletions in 10 files</sub><br />
+
