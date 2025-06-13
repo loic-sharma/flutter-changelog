@@ -50,9 +50,6 @@
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
-* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Exclude `web-server` from `supportedWebDeviceIds`<br />
-  <sub>[#169590](https://github.com/flutter/flutter/pull/169590) opened on on May 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/169590) 96 additions and 4 deletions in 23 files</sub><br />
-
 * **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Fix clip behavior in Dismissible widget by adding a clipBehaviorOffset property<br />
   <sub>[#169617](https://github.com/flutter/flutter/pull/169617) opened on on May 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169617) 33 additions and 19 deletions in 1 file</sub><br />
 
@@ -124,4 +121,10 @@
 
 * **[Jonny Wang](https://github.com/jrwang)** &mdash; Manual roll of Fuchsia Test Scripts from xobrcSN07udKdXOq_shTG6-PJwjx…<br />
   <sub>[#170594](https://github.com/flutter/flutter/pull/170594) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170594) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Remove lldb warnings<br />
+  <sub>[#170595](https://github.com/flutter/flutter/pull/170595) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170595) 2 additions and 248 deletions in 4 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable lossy texture compression.<br />
+  <sub>[#170596](https://github.com/flutter/flutter/pull/170596) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170596) 0 additions and 2 deletions in 1 file</sub><br />
 
