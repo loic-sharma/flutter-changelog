@@ -126,7 +126,7 @@
   <sub>[#170598](https://github.com/flutter/flutter/pull/170598) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170598) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove support for synthetic package:flutter_gen<br />
-  <sub>[#170602](https://github.com/flutter/flutter/pull/170602) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170602) 0 additions and 70 deletions in 2 files</sub><br />
+  <sub>[#170602](https://github.com/flutter/flutter/pull/170602) opened on on June 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170602) 0 additions and 70 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix file path conflict introduced in https://github.com/flutter/flutter/pull/169949<br />
   <sub>[#170606](https://github.com/flutter/flutter/pull/170606) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170606) 6 additions and 10 deletions in 3 files</sub><br />

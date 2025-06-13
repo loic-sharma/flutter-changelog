@@ -1076,12 +1076,16 @@
 
 ### June 7, 2025 to June 13, 2025
 
-7 commits.
+8 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add iOS 26 beta warnings<br />
   <sub>[#12112](https://github.com/flutter/website/pull/12112) merged on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12112) over 13 hours, 20 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
   <sub><details><summary>2 images...</summary>![Screenshot 2025-06-09 at 7 30 30 PM](https://github.com/user-attachments/assets/d5e09536-761e-4351-b2d1-403ca07c3ba6)![Screenshot 2025-06-09 at 7 31 03 PM](https://github.com/user-attachments/assets/00697c1e-f0ec-41c3-9729-6d8d48228243)</details></sub>
+
+* **[Helin Shiah](https://github.com/helin24)** &mdash; Update SDK documentation with IDE support policy<br />
+  <sub>[#12119](https://github.com/flutter/website/pull/12119) merged on June 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12119) over 1 day, 7 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Thomsen](https://github.com/mit-mit), [Phil Quitslund](https://github.com/pq), [Danny Tuppeny](https://github.com/DanTup), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Updates component theme normalization breaking changes<br />
   <sub>[#12057](https://github.com/flutter/website/pull/12057) merged on June 11, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12057) over 2 weeks, 81 additions and 1 deletion in 2 files</sub><br />
