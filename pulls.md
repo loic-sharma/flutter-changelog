@@ -101,9 +101,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Start a `dev/checks_tool` directory.<br />
   <sub>[#170493](https://github.com/flutter/flutter/pull/170493) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170493) 65 additions and 0 deletions in 7 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move verify_binaries_pre_codesigned test out of bringup<br />
-  <sub>[#170526](https://github.com/flutter/flutter/pull/170526) opened on on June 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170526) 0 additions and 2 deletions in 1 file</sub><br />
-
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Roll customer_testing from 7f5502629 to 9a7ff449e (3 commits)<br />
   <sub>[#170544](https://github.com/flutter/flutter/pull/170544) opened on on June 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170544) 1 addition and 1 deletion in 1 file</sub><br />
 
