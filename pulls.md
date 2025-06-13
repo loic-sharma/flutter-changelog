@@ -98,9 +98,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] faster intersection computation for scale/translate.<br />
   <sub>[#170446](https://github.com/flutter/flutter/pull/170446) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170446) 162 additions and 10 deletions in 6 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.<br />
-  <sub>[#170447](https://github.com/flutter/flutter/pull/170447) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170447) 20 additions and 4 deletions in 2 files</sub><br />
-
 * **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
   <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 373 additions and 26 deletions in 4 files</sub><br />
 
@@ -126,5 +123,5 @@
   <sub>[#170595](https://github.com/flutter/flutter/pull/170595) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170595) 2 additions and 248 deletions in 4 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable lossy texture compression.<br />
-  <sub>[#170596](https://github.com/flutter/flutter/pull/170596) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170596) 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#170596](https://github.com/flutter/flutter/pull/170596) opened on on June 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170596) 0 additions and 2 deletions in 1 file</sub><br />
 
