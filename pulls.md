@@ -98,9 +98,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Posix: Use `aot-snapshot` if `FLUTTER_TOOLS_USE_AOT_SNAPSHOT=1`<br />
   <sub>[#170488](https://github.com/flutter/flutter/pull/170488) opened on on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170488) 36 additions and 4 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Start a `dev/checks_tool` directory.<br />
-  <sub>[#170493](https://github.com/flutter/flutter/pull/170493) opened on on June 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170493) 65 additions and 0 deletions in 7 files</sub><br />
-
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Roll customer_testing from 7f5502629 to 9a7ff449e (3 commits)<br />
   <sub>[#170544](https://github.com/flutter/flutter/pull/170544) opened on on June 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170544) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -127,4 +124,7 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Style: Rename pageBuilder with builder in showCupertinoSheet<br />
   <sub>[#170625](https://github.com/flutter/flutter/pull/170625) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170625) 35 additions and 6 deletions in 2 files</sub><br />
+
+* **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
+  <sub>[#170635](https://github.com/flutter/flutter/pull/170635) opened on on June 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170635) 40 additions and 3 deletions in 2 files</sub><br />
 
