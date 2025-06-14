@@ -123,5 +123,5 @@
   <sub>[#170606](https://github.com/flutter/flutter/pull/170606) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170606) 6 additions and 10 deletions in 3 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
-  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170612) 39 additions and 30 deletions in 3 files</sub><br />
+  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170612) 39 additions and 30 deletions in 3 files</sub><br />
 
