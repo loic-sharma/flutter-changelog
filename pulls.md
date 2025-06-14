@@ -113,9 +113,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Remove lldb warnings<br />
   <sub>[#170595](https://github.com/flutter/flutter/pull/170595) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170595) 2 additions and 248 deletions in 4 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable lossy texture compression.<br />
-  <sub>[#170596](https://github.com/flutter/flutter/pull/170596) opened on on June 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170596) 0 additions and 2 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove support for synthetic package:flutter_gen<br />
   <sub>[#170602](https://github.com/flutter/flutter/pull/170602) opened on on June 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170602) 0 additions and 70 deletions in 2 files</sub><br />
 
