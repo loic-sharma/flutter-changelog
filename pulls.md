@@ -125,3 +125,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Deprecate: Mark AppBarTheme color parameter as deprecated in favor of backgroundColor<br />
   <sub>[#170624](https://github.com/flutter/flutter/pull/170624) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170624) 32 additions and 0 deletions in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Style: Rename pageBuilder with builder in showCupertinoSheet<br />
+  <sub>[#170625](https://github.com/flutter/flutter/pull/170625) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170625) 35 additions and 6 deletions in 2 files</sub><br />
+
