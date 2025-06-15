@@ -136,13 +136,13 @@
   <sub>[#169029](https://github.com/flutter/flutter/pull/169029) merged on June 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169029) over 3 weeks, 95 additions and 21 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Use ANGLE blit extension on GLES 2.0<br />
-  <sub>[#170298](https://github.com/flutter/flutter/pull/170298) merged on June 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170298) over 3 days, 118 additions and 13 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] eliminate PathReceiver::PathEnd which is only used in one case<br />
   <sub>[#170500](https://github.com/flutter/flutter/pull/170500) merged on June 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170500) over 2 days, 43 additions and 70 deletions in 17 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Use ANGLE blit extension on GLES 2.0<br />
+  <sub>[#170298](https://github.com/flutter/flutter/pull/170298) merged on June 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170298) over 3 days, 118 additions and 13 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Remove use of simple Skia objects<br />
   <sub>[#170494](https://github.com/flutter/flutter/pull/170494) merged on June 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170494) over 2 days, 33 additions and 44 deletions in 12 files</sub><br />
