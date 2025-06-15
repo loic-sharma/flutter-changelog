@@ -132,5 +132,5 @@
   <sub>[#170636](https://github.com/flutter/flutter/pull/170636) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170636) 48 additions and 7 deletions in 3 files</sub><br />
 
 * **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; fix(web): Adjust flutter.js asset handling in web builds<br />
-  <sub>[#170642](https://github.com/flutter/flutter/pull/170642) opened on on June 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170642) 39 additions and 13 deletions in 1 file</sub><br />
+  <sub>[#170642](https://github.com/flutter/flutter/pull/170642) opened on on June 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170642) 39 additions and 13 deletions in 1 file</sub><br />
 
