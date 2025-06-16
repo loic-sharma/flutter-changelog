@@ -121,7 +121,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Build dev dependencies in `flutter test integration_test`
-  <sub>[#170374](https://github.com/flutter/flutter/pull/170374) merged on June 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/170374) over 4 days, 128 additions and 2 deletions in 3 files</sub>
+  <sub>[#170374](https://github.com/flutter/flutter/pull/170374) merged on June 15, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/170374) over 4 days, 128 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated templates to avoid the LaunchEngine
