@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 14, 2025 to June 20, 2025
+
+1 commits.
+
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add DropdownButtonFormField value param test
+  <sub>[#170518](https://github.com/flutter/flutter/pull/170518) merged on June 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170518) over 4 days, 49 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
+
 ### June 7, 2025 to June 13, 2025
 
-72 commits.
+<details>
+<summary>72 commits...</summary>
 
 * **[yim](https://github.com/yiiim)** &mdash; Allow the Slider to always show the value indicator.
   <sub>[#162223](https://github.com/flutter/flutter/pull/162223) merged on June 11, 2025 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/162223) over 4 months, 456 additions and 120 deletions in 10 files</sub>
@@ -295,6 +304,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] Reland: ensure engines spawned from an engine using dynamic rendering selection still use the dynamic surface.
   <sub>[#170389](https://github.com/flutter/flutter/pull/170389) merged on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170389) over 1 hour, 15 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
+
+</details>
 
 ### May 31, 2025 to June 6, 2025
 
@@ -662,7 +673,15 @@
 
 ### June 14, 2025 to June 20, 2025
 
-1 commits.
+3 commits.
+
+* **[Jorge Sardina](https://github.com/js2702)** &mdash; [camera_avfoundation] fix race condition when starting image stream on iOS
+  <sub>[#8733](https://github.com/flutter/packages/pull/8733) merged on June 16, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8733) over 3 months, 158 additions and 65 deletions in 12 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Hari07](https://github.com/Hari-07)** &mdash; [google_maps_flutter_platform_(web/android/ios)] Add a new zIndexInt param to marker and deprecate zIndex
+  <sub>[#9408](https://github.com/flutter/packages/pull/9408) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/9408) over 1 week, 50 additions and 27 deletions in 18 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; metrics_center: bump outdated deps, prepare for release
   <sub>[#9421](https://github.com/flutter/packages/pull/9421) merged on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9421) over 3 days, 193 additions and 80 deletions in 4 files</sub>
