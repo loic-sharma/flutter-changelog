@@ -137,3 +137,6 @@
 * **[Jiaming Meng](https://github.com/exoad)** &mdash; Update `/examples` code that use `.withOpacity` to use `.withValues()` <br />
   <sub>[#170651](https://github.com/flutter/flutter/pull/170651) opened on on June 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170651) 60 additions and 52 deletions in 26 files</sub><br />
 
+* **[Atlas3214](https://github.com/Atlas3214)** &mdash; Update pubspec.yaml<br />
+  <sub>[#170657](https://github.com/flutter/flutter/pull/170657) opened on on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170657) 1 addition and 1 deletion in 1 file</sub><br />
+
