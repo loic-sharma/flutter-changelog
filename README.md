@@ -660,9 +660,18 @@
 
 ## flutter/packages
 
+### June 14, 2025 to June 20, 2025
+
+1 commits.
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; metrics_center: bump outdated deps, prepare for release<br />
+  <sub>[#9421](https://github.com/flutter/packages/pull/9421) merged on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9421) over 3 days, 193 additions and 80 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
 ### June 7, 2025 to June 13, 2025
 
-12 commits.
+<details>
+<summary>12 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for companion ads<br />
   <sub>[#9260](https://github.com/flutter/packages/pull/9260) merged on June 11, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/9260) over 3 weeks, 4595 additions and 1361 deletions in 57 files</sub><br />
@@ -712,6 +721,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll Flutter master to 7e30df2225<br />
   <sub>[#9413](https://github.com/flutter/packages/pull/9413) merged on June 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9413) over 3 hours, 14 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+</details>
 
 ### May 31, 2025 to June 6, 2025
 
