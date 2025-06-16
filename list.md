@@ -121,7 +121,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Build dev dependencies in `flutter test integration_test`
-  <sub>[#170374](https://github.com/flutter/flutter/pull/170374) merged on June 15, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/170374) over 4 days, 128 additions and 2 deletions in 3 files</sub>
+  <sub>[#170374](https://github.com/flutter/flutter/pull/170374) merged on June 15, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170374) over 4 days, 128 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated templates to avoid the LaunchEngine
@@ -794,12 +794,16 @@
 
 ### June 14, 2025 to June 20, 2025
 
-1 commits.
+2 commits.
 
 * **[Robson Duarte](https://github.com/robsonoduarte)** &mdash; (fix) - the class GrowTransition compilation
   <sub>[#12126](https://github.com/flutter/website/pull/12126) merged on June 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12126) over 2 days, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/f3023975-af08-4a87-b8b5-6495955dde75)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added section on FlutterLaunchEngine and GeneratedPluginRegistrant to UISceneDelegate breaking change notice
+  <sub>[#12111](https://github.com/flutter/website/pull/12111) merged on June 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12111) over 6 days, 51 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 ### June 7, 2025 to June 13, 2025
 
