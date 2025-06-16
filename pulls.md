@@ -132,7 +132,7 @@
   <sub>[#170641](https://github.com/flutter/flutter/pull/170641) opened on on June 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170641) 41 additions and 5 deletions in 7 files</sub><br />
 
 * **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; fix(web): Adjust flutter.js asset handling in web builds<br />
-  <sub>[#170642](https://github.com/flutter/flutter/pull/170642) opened on on June 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170642) 39 additions and 13 deletions in 1 file</sub><br />
+  <sub>[#170642](https://github.com/flutter/flutter/pull/170642) opened on on June 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170642) 39 additions and 13 deletions in 1 file</sub><br />
 
 * **[Jiaming Meng](https://github.com/exoad)** &mdash; Update `/examples` code that use `.withOpacity` to use `.withValues()` <br />
   <sub>[#170651](https://github.com/flutter/flutter/pull/170651) opened on on June 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170651) 60 additions and 52 deletions in 26 files</sub><br />
