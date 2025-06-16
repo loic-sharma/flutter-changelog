@@ -792,9 +792,19 @@
 
 ## flutter/website
 
+### June 14, 2025 to June 20, 2025
+
+1 commits.
+
+* **[Robson Duarte](https://github.com/robsonoduarte)** &mdash; (fix) - the class GrowTransition compilation
+  <sub>[#12126](https://github.com/flutter/website/pull/12126) merged on June 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12126) over 2 days, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/f3023975-af08-4a87-b8b5-6495955dde75)</details></sub>
+
 ### June 7, 2025 to June 13, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add iOS 26 beta warnings
   <sub>[#12112](https://github.com/flutter/website/pull/12112) merged on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12112) over 13 hours, 20 additions and 3 deletions in 2 files</sub>
@@ -836,6 +846,8 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Revert "Bump subosito/flutter-action from 2.19.0 to 2.20.0"
   <sub>[#12122](https://github.com/flutter/website/pull/12122) merged on June 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12122) over 45 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### May 31, 2025 to June 6, 2025
 
