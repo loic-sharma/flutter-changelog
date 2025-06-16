@@ -4,11 +4,15 @@
 
 ### June 14, 2025 to June 20, 2025
 
-6 commits.
+7 commits.
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] add abiFilters to Flutter Gradle Plugin
   <sub>[#168293](https://github.com/flutter/flutter/pull/168293) merged on June 16, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/168293) over 1 month, 200 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[greyovo](https://github.com/greyovo)** &mdash; Fix dragging scrollbar down causes unexpected behavior when scrollable has a negative minScrollExtent
+  <sub>[#170331](https://github.com/flutter/flutter/pull/170331) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170331) over 6 days, 50 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Set max request pool size for DDC module loader when in CI
   <sub>[#170565](https://github.com/flutter/flutter/pull/170565) merged on June 16, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/170565) over 3 days, 315 additions and 202 deletions in 6 files</sub>
