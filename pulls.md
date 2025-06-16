@@ -114,7 +114,7 @@
   <sub>[#170606](https://github.com/flutter/flutter/pull/170606) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170606) 6 additions and 10 deletions in 3 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
-  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170612) 43 additions and 32 deletions in 4 files</sub><br />
+  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170612) 43 additions and 32 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Deprecate: Mark AppBarTheme color parameter as deprecated in favor of backgroundColor<br />
   <sub>[#170624](https://github.com/flutter/flutter/pull/170624) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170624) 32 additions and 0 deletions in 2 files</sub><br />
@@ -123,7 +123,7 @@
   <sub>[#170625](https://github.com/flutter/flutter/pull/170625) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170625) 35 additions and 6 deletions in 2 files</sub><br />
 
 * **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
-  <sub>[#170635](https://github.com/flutter/flutter/pull/170635) opened on on June 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170635) 44 additions and 5 deletions in 3 files</sub><br />
+  <sub>[#170635](https://github.com/flutter/flutter/pull/170635) opened on on June 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170635) 40 additions and 5 deletions in 3 files</sub><br />
 
 * **[dt_emmy](https://github.com/DeTuksa)** &mdash; #72267<br />
   <sub>[#170636](https://github.com/flutter/flutter/pull/170636) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170636) 48 additions and 7 deletions in 3 files</sub><br />
@@ -136,4 +136,7 @@
 
 * **[Jiaming Meng](https://github.com/exoad)** &mdash; Update `/examples` code that use `.withOpacity` to use `.withValues()` <br />
   <sub>[#170651](https://github.com/flutter/flutter/pull/170651) opened on on June 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170651) 60 additions and 52 deletions in 26 files</sub><br />
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [release] Sync stable changelog to master<br />
+  <sub>[#170691](https://github.com/flutter/flutter/pull/170691) opened on on June 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170691) 59 additions and 0 deletions in 1 file</sub><br />
 
