@@ -58,7 +58,7 @@
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix DropdownButtonFormField focusing when replacing FocusNode<br />
-  <sub>[#166645](https://github.com/flutter/flutter/pull/166645) merged on June 11, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/166645) over 2 months, 102 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#166645](https://github.com/flutter/flutter/pull/166645) merged on June 11, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/166645) over 2 months, 102 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Hamza Nasser](https://github.com/Hamza-Nasser), [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Make `DropdownMenu` TextField reactive to label changes<br />
