@@ -138,7 +138,7 @@
   <sub>[#170651](https://github.com/flutter/flutter/pull/170651) opened on on June 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170651) 60 additions and 52 deletions in 26 files</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [release] Sync stable changelog to master<br />
-  <sub>[#170691](https://github.com/flutter/flutter/pull/170691) opened on on June 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170691) 58 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#170691](https://github.com/flutter/flutter/pull/170691) opened on on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170691) 58 additions and 0 deletions in 1 file</sub><br />
 
 * **[Azat](https://github.com/azatech)** &mdash; Allow empty initial time when using text input mode in showTimePicker dialog<br />
   <sub>[#170694](https://github.com/flutter/flutter/pull/170694) opened on on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170694) 123 additions and 1 deletion in 2 files</sub><br />
