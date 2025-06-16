@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-7 commits.
+9 commits.
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] add abiFilters to Flutter Gradle Plugin<br />
   <sub>[#168293](https://github.com/flutter/flutter/pull/168293) merged on June 16, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/168293) over 1 month, 200 additions and 0 deletions in 2 files</sub><br />
@@ -26,6 +26,10 @@
   <sub>[#170518](https://github.com/flutter/flutter/pull/170518) merged on June 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170518) over 4 days, 49 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
+  <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Prevent --web-experimental-hot-reload on web-server<br />
   <sub>[#170610](https://github.com/flutter/flutter/pull/170610) merged on June 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170610) over 2 days, 28 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
@@ -33,6 +37,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland lazy path and object arenas<br />
   <sub>[#170303](https://github.com/flutter/flutter/pull/170303) merged on June 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170303) over 6 days, 1204 additions and 114 deletions in 22 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reland "[native assets] Build dev dependencies in `flutter test integration_test`"<br />
+  <sub>[#170686](https://github.com/flutter/flutter/pull/170686) merged on June 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170686) over 3 hours, 132 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 ### June 7, 2025 to June 13, 2025
 
