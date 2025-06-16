@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-3 commits.
+5 commits.
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] add abiFilters to Flutter Gradle Plugin<br />
   <sub>[#168293](https://github.com/flutter/flutter/pull/168293) merged on June 16, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/168293) over 1 month, 200 additions and 0 deletions in 2 files</sub><br />
@@ -14,9 +14,17 @@
   <sub>[#170565](https://github.com/flutter/flutter/pull/170565) merged on June 16, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/170565) over 3 days, 315 additions and 202 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Removal of MSAA for intermediate render targets used in filtering.<br />
+  <sub>[#169692](https://github.com/flutter/flutter/pull/169692) merged on June 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169692) over 2 weeks, 53 additions and 25 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add DropdownButtonFormField value param test<br />
   <sub>[#170518](https://github.com/flutter/flutter/pull/170518) merged on June 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170518) over 4 days, 49 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Prevent --web-experimental-hot-reload on web-server<br />
+  <sub>[#170610](https://github.com/flutter/flutter/pull/170610) merged on June 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170610) over 2 days, 28 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 ### June 7, 2025 to June 13, 2025
 

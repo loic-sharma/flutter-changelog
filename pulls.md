@@ -114,7 +114,7 @@
   <sub>[#170606](https://github.com/flutter/flutter/pull/170606) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170606) 6 additions and 10 deletions in 3 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
-  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170612) 44 additions and 32 deletions in 4 files</sub><br />
+  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/170612) 44 additions and 32 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Deprecate: Mark AppBarTheme color parameter as deprecated in favor of backgroundColor<br />
   <sub>[#170624](https://github.com/flutter/flutter/pull/170624) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170624) 32 additions and 0 deletions in 2 files</sub><br />
@@ -138,5 +138,8 @@
   <sub>[#170651](https://github.com/flutter/flutter/pull/170651) opened on on June 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170651) 60 additions and 52 deletions in 26 files</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [release] Sync stable changelog to master<br />
-  <sub>[#170691](https://github.com/flutter/flutter/pull/170691) opened on on June 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170691) 59 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#170691](https://github.com/flutter/flutter/pull/170691) opened on on June 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170691) 58 additions and 0 deletions in 1 file</sub><br />
+
+* **[Azat](https://github.com/azatech)** &mdash; Allow empty initial time when using text input mode in showTimePicker…<br />
+  <sub>[#170693](https://github.com/flutter/flutter/pull/170693) opened on on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170693) 123 additions and 1 deletion in 2 files</sub><br />
 
