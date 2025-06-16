@@ -131,6 +131,9 @@
 * **[dt_emmy](https://github.com/DeTuksa)** &mdash; #72267<br />
   <sub>[#170636](https://github.com/flutter/flutter/pull/170636) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170636) 48 additions and 7 deletions in 3 files</sub><br />
 
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add `CupertinoPicker` ticking sound<br />
+  <sub>[#170641](https://github.com/flutter/flutter/pull/170641) opened on on June 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170641) 40 additions and 5 deletions in 6 files</sub><br />
+
 * **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; fix(web): Adjust flutter.js asset handling in web builds<br />
   <sub>[#170642](https://github.com/flutter/flutter/pull/170642) opened on on June 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170642) 39 additions and 13 deletions in 1 file</sub><br />
 
