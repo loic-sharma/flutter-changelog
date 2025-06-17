@@ -105,7 +105,7 @@
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)
-  <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub>
+  <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/22f906b9-bd95-4996-852e-bc2df4247364)![image](https://github.com/user-attachments/assets/83fd37e2-2cd1-454d-a13d-f2dcc3220e3b)</details></sub>
 
