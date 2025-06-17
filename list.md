@@ -730,7 +730,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-5 commits.
+6 commits.
 
 * **[Jorge Sardina](https://github.com/js2702)** &mdash; [camera_avfoundation] fix race condition when starting image stream on iOS
   <sub>[#8733](https://github.com/flutter/packages/pull/8733) merged on June 16, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8733) over 3 months, 158 additions and 65 deletions in 12 files</sub>
@@ -743,6 +743,10 @@
 * **[Jesse Riemens](https://github.com/JesseRiemens)** &mdash; [pigeon] Use a const for custom type ids for gobject generated files (#156100)
   <sub>[#9306](https://github.com/flutter/packages/pull/9306) merged on June 17, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9306) over 3 weeks, 433 additions and 159 deletions in 10 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [rfw] Update tests to no longer depend on a `Container` pumped via `testWidgets`.
+  <sub>[#9063](https://github.com/flutter/packages/pull/9063) merged on June 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9063) over 2 months, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; [google_maps_flutter_platform_(web/android/ios)] Add a new zIndexInt param to marker and deprecate zIndex
   <sub>[#9408](https://github.com/flutter/packages/pull/9408) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/9408) over 1 week, 50 additions and 27 deletions in 18 files</sub>
