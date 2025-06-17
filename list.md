@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-17 commits.
+18 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub>
@@ -14,6 +14,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] add abiFilters to Flutter Gradle Plugin
   <sub>[#168293](https://github.com/flutter/flutter/pull/168293) merged on June 16, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/168293) over 1 month, 200 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files
+  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) merged on June 17, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/169245) over 3 weeks, 526 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[greyovo](https://github.com/greyovo)** &mdash; Fix dragging scrollbar down causes unexpected behavior when scrollable has a negative minScrollExtent
   <sub>[#170331](https://github.com/flutter/flutter/pull/170331) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170331) over 6 days, 50 additions and 4 deletions in 2 files</sub>

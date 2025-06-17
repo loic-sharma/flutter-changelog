@@ -38,9 +38,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
 
-* **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
-  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) opened on on May 22, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/169245) 526 additions and 0 deletions in 5 files</sub><br />
-
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Fixed an issue about scrolling re-competition<br />
   <sub>[#169430](https://github.com/flutter/flutter/pull/169430) opened on on May 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169430) 114 additions and 2 deletions in 7 files</sub><br />
 
