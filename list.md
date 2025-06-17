@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-13 commits.
+14 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub>
@@ -54,6 +54,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland lazy path and object arenas
   <sub>[#170303](https://github.com/flutter/flutter/pull/170303) merged on June 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170303) over 6 days, 1204 additions and 114 deletions in 22 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reland "[native assets] Build dev dependencies in `flutter test integration_test`"
+  <sub>[#170728](https://github.com/flutter/flutter/pull/170728) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170728) over 42 minutes, 128 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reland "[native assets] Build dev dependencies in `flutter test integration_test`"
   <sub>[#170686](https://github.com/flutter/flutter/pull/170686) merged on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170686) over 3 hours, 132 additions and 3 deletions in 4 files</sub>
