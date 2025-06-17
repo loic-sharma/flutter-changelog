@@ -758,7 +758,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-6 commits.
+7 commits.
 
 * **[Jorge Sardina](https://github.com/js2702)** &mdash; [camera_avfoundation] fix race condition when starting image stream on iOS<br />
   <sub>[#8733](https://github.com/flutter/packages/pull/8733) merged on June 16, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8733) over 3 months, 158 additions and 65 deletions in 12 files</sub><br />
@@ -779,6 +779,10 @@
 * **[Hari07](https://github.com/Hari-07)** &mdash; [google_maps_flutter_platform_(web/android/ios)] Add a new zIndexInt param to marker and deprecate zIndex<br />
   <sub>[#9408](https://github.com/flutter/packages/pull/9408) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/9408) over 1 week, 50 additions and 27 deletions in 18 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Update readme to use mixin `with _$RouteName`<br />
+  <sub>[#9423](https://github.com/flutter/packages/pull/9423) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9423) over 4 days, 186 additions and 9 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; metrics_center: bump outdated deps, prepare for release<br />
   <sub>[#9421](https://github.com/flutter/packages/pull/9421) merged on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9421) over 3 days, 193 additions and 80 deletions in 4 files</sub><br />
