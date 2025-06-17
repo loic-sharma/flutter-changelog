@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-16 commits.
+17 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -42,6 +42,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
   <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [release] Sync stable changelog to master<br />
+  <sub>[#170691](https://github.com/flutter/flutter/pull/170691) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170691) over 21 hours, 58 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove support for synthetic package:flutter_gen<br />
   <sub>[#170602](https://github.com/flutter/flutter/pull/170602) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170602) over 3 days, 0 additions and 70 deletions in 2 files</sub><br />
