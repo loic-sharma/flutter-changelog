@@ -47,9 +47,6 @@
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
-* **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Fix clip behavior in Dismissible widget by adding a clipBehaviorOffset property<br />
-  <sub>[#169617](https://github.com/flutter/flutter/pull/169617) opened on on May 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169617) 33 additions and 19 deletions in 1 file</sub><br />
-
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update didUnmountRenderObject text description<br />
   <sub>[#169628](https://github.com/flutter/flutter/pull/169628) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169628) 4 additions and 3 deletions in 1 file</sub><br />
 
