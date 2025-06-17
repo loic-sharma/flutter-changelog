@@ -42,7 +42,7 @@
   <sub>[#169430](https://github.com/flutter/flutter/pull/169430) opened on on May 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169430) 114 additions and 2 deletions in 7 files</sub><br />
 
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Layout Widgets for Dynamic UI Support<br />
-  <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
+  <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
 
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
@@ -71,14 +71,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `CupertinoLinearActivityIndicator`<br />
   <sub>[#170108](https://github.com/flutter/flutter/pull/170108) opened on on June 6, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/170108) 280 additions and 0 deletions in 4 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; RawScrollBar can accept `EdgeInsetsGeometry`<br />
-  <sub>[#170199](https://github.com/flutter/flutter/pull/170199) opened on on June 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170199) 11 additions and 11 deletions in 1 file</sub><br />
-
 * **[Muhammad Mohiuddin](https://github.com/MohiuddinM)** &mdash; Add a getter to get the recorder used by painting context<br />
   <sub>[#170223](https://github.com/flutter/flutter/pull/170223) opened on on June 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170223) 13 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Assert the ascending order of widgets<br />
-  <sub>[#170236](https://github.com/flutter/flutter/pull/170236) opened on on June 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170236) 484 additions and 0 deletions in 2 files</sub><br />
 
 * **[Roc Boronat](https://github.com/rocboronat)** &mdash; Fix styling typos in commit links for latest versions<br />
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
@@ -117,13 +111,10 @@
   <sub>[#170701](https://github.com/flutter/flutter/pull/170701) opened on on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170701) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use a shared vertex buffer for rendering layers.<br />
-  <sub>[#170717](https://github.com/flutter/flutter/pull/170717) opened on on June 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170717) 56 additions and 36 deletions in 1 file</sub><br />
+  <sub>[#170717](https://github.com/flutter/flutter/pull/170717) opened on on June 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170717) 56 additions and 36 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect flutter/cocoon/4785<br />
   <sub>[#170751](https://github.com/flutter/flutter/pull/170751) opened on on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170751) 5 additions and 8 deletions in 1 file</sub><br />
-
-* **[Azat](https://github.com/azatech)** &mdash; Enhance Text Contrast for WCAG AAA Compliance<br />
-  <sub>[#170758](https://github.com/flutter/flutter/pull/170758) opened on on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170758) 116 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Reland [#166645] Fix DropdownButtonFormField focusing when replacing FocusNode <br />
   <sub>[#170761](https://github.com/flutter/flutter/pull/170761) opened on on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170761) 102 additions and 8 deletions in 2 files</sub><br />
