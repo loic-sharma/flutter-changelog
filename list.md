@@ -57,7 +57,7 @@
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reland "[native assets] Build dev dependencies in `flutter test integration_test`"
   <sub>[#170728](https://github.com/flutter/flutter/pull/170728) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170728) over 42 minutes, 128 additions and 3 deletions in 4 files</sub>
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reland "[native assets] Build dev dependencies in `flutter test integration_test`"
   <sub>[#170686](https://github.com/flutter/flutter/pull/170686) merged on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170686) over 3 hours, 132 additions and 3 deletions in 4 files</sub>
