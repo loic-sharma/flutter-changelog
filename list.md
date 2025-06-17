@@ -27,6 +27,10 @@
   <sub>[#170689](https://github.com/flutter/flutter/pull/170689) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170689) over 11 hours, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `LinkedHashMap.*` with `Map.*`, which _is_ `Linked`
+  <sub>[#170713](https://github.com/flutter/flutter/pull/170713) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170713) over 3 hours, 49 additions and 66 deletions in 7 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Removal of MSAA for intermediate render targets used in filtering.
   <sub>[#169692](https://github.com/flutter/flutter/pull/169692) merged on June 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169692) over 2 weeks, 53 additions and 25 deletions in 6 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -34,10 +38,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add DropdownButtonFormField value param test
   <sub>[#170518](https://github.com/flutter/flutter/pull/170518) merged on June 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170518) over 4 days, 49 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `LinkedHashMap.*` with `Map.*`, which _is_ `Linked`
-  <sub>[#170713](https://github.com/flutter/flutter/pull/170713) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170713) over 3 hours, 49 additions and 66 deletions in 7 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13
   <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub>
