@@ -861,7 +861,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-2 commits.
+4 commits.
 
 * **[Robson Duarte](https://github.com/robsonoduarte)** &mdash; (fix) - the class GrowTransition compilation<br />
   <sub>[#12126](https://github.com/flutter/website/pull/12126) merged on June 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12126) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
@@ -871,6 +871,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added section on FlutterLaunchEngine and GeneratedPluginRegistrant to UISceneDelegate breaking change notice<br />
   <sub>[#12111](https://github.com/flutter/website/pull/12111) merged on June 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12111) over 6 days, 51 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[tarundhot](https://github.com/tarundhot)** &mdash; Fix typo List<TripSummary> to List<BookingSummary> in ui-layer.md<br />
+  <sub>[#12127](https://github.com/flutter/website/pull/12127) merged on June 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12127) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Lorix](https://github.com/loricso)** &mdash; Fixed typo in get-started/fundamentals/state-management page<br />
+  <sub>[#12130](https://github.com/flutter/website/pull/12130) merged on June 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12130) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### June 7, 2025 to June 13, 2025
 
