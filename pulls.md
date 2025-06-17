@@ -89,9 +89,6 @@
 * **[Roc Boronat](https://github.com/rocboronat)** &mdash; Fix styling typos in commit links for latest versions<br />
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
-  <sub>[#170343](https://github.com/flutter/flutter/pull/170343) opened on on June 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170343) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
   <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 373 additions and 26 deletions in 4 files</sub><br />
 
@@ -116,9 +113,6 @@
 * **[dt_emmy](https://github.com/DeTuksa)** &mdash; #72267<br />
   <sub>[#170636](https://github.com/flutter/flutter/pull/170636) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170636) 48 additions and 7 deletions in 3 files</sub><br />
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add `CupertinoPicker` ticking sound<br />
-  <sub>[#170641](https://github.com/flutter/flutter/pull/170641) opened on on June 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170641) 41 additions and 5 deletions in 7 files</sub><br />
-
 * **[Jiaming Meng](https://github.com/exoad)** &mdash; Update `/examples` code that use `.withOpacity` to use `.withValues()` <br />
   <sub>[#170651](https://github.com/flutter/flutter/pull/170651) opened on on June 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170651) 60 additions and 52 deletions in 26 files</sub><br />
 
@@ -133,7 +127,4 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Prevent --web-experimental-hot-reload on web-server<br />
   <sub>[#170744](https://github.com/flutter/flutter/pull/170744) opened on on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170744) 28 additions and 1 deletion in 2 files</sub><br />
-
-* **[gourabkumarsi](https://github.com/gourabkumarsi)** &mdash; Drop support for 21/22 Lollipop<br />
-  <sub>[#170748](https://github.com/flutter/flutter/pull/170748) opened on on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170748) 0 additions and 46 deletions in 1 file</sub><br />
 
