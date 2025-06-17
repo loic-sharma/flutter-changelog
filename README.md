@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-21 commits.
+22 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -54,6 +54,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
   <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Prefer .of over .from<br />
+  <sub>[#170750](https://github.com/flutter/flutter/pull/170750) merged on June 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170750) over 1 hour, 33 additions and 35 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
   <sub>[#170343](https://github.com/flutter/flutter/pull/170343) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170343) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />

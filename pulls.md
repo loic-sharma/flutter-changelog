@@ -125,6 +125,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Prevent --web-experimental-hot-reload on web-server<br />
   <sub>[#170744](https://github.com/flutter/flutter/pull/170744) opened on on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170744) 28 additions and 1 deletion in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect https://github.com/flutter/cocoon/pull/4785<br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect flutter/cocoon/4785<br />
   <sub>[#170751](https://github.com/flutter/flutter/pull/170751) opened on on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170751) 5 additions and 8 deletions in 1 file</sub><br />
 
