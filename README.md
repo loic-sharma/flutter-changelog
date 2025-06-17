@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-23 commits.
+24 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -18,6 +18,10 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
   <sub>[#169245](https://github.com/flutter/flutter/pull/169245) merged on June 17, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/169245) over 3 weeks, 526 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started bridging the scene delegate to the lifecycle delegate for shortcuts<br />
+  <sub>[#170180](https://github.com/flutter/flutter/pull/170180) merged on June 17, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/170180) over 1 week, 64 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[greyovo](https://github.com/greyovo)** &mdash; Fix dragging scrollbar down causes unexpected behavior when scrollable has a negative minScrollExtent<br />
   <sub>[#170331](https://github.com/flutter/flutter/pull/170331) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170331) over 6 days, 50 additions and 4 deletions in 2 files</sub><br />
