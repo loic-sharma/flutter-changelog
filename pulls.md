@@ -101,12 +101,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Roll customer_testing from 7f5502629 to 9a7ff449e (3 commits)<br />
   <sub>[#170544](https://github.com/flutter/flutter/pull/170544) opened on on June 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170544) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Remove lldb warnings<br />
-  <sub>[#170595](https://github.com/flutter/flutter/pull/170595) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170595) 2 additions and 248 deletions in 4 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove support for synthetic package:flutter_gen<br />
-  <sub>[#170602](https://github.com/flutter/flutter/pull/170602) opened on on June 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170602) 0 additions and 70 deletions in 2 files</sub><br />
-
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
   <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170612) 45 additions and 32 deletions in 4 files</sub><br />
 
