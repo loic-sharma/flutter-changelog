@@ -561,13 +561,13 @@
   <sub>[#161481](https://github.com/flutter/flutter/pull/161481) merged on June 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/161481) over 4 months, 18 additions and 58 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the check for Git in the PATH into the top level Windows flutter.bat script<br />
-  <sub>[#169794](https://github.com/flutter/flutter/pull/169794) merged on June 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169794) over 5 days, 54 additions and 32 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make ImageFilter::equals a static method and fix the name in its FFI annotation<br />
   <sub>[#170023](https://github.com/flutter/flutter/pull/170023) merged on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170023) over 17 hours, 3 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the check for Git in the PATH into the top level Windows flutter.bat script<br />
+  <sub>[#169794](https://github.com/flutter/flutter/pull/169794) merged on June 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169794) over 5 days, 54 additions and 32 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Redirect the output of the "pub upgrade" command run by bin/flutter to stderr<br />
   <sub>[#170174](https://github.com/flutter/flutter/pull/170174) merged on June 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170174) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
