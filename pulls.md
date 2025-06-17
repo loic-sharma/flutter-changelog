@@ -129,5 +129,5 @@
   <sub>[#170751](https://github.com/flutter/flutter/pull/170751) opened on on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170751) 5 additions and 8 deletions in 1 file</sub><br />
 
 * **[Azat](https://github.com/azatech)** &mdash; Enhance Text Contrast for WCAG AAA Compliance<br />
-  <sub>[#170758](https://github.com/flutter/flutter/pull/170758) opened on on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170758) 116 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#170758](https://github.com/flutter/flutter/pull/170758) opened on on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170758) 116 additions and 0 deletions in 2 files</sub><br />
 
