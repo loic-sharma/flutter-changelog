@@ -101,9 +101,6 @@
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Roll customer_testing from 7f5502629 to 9a7ff449e (3 commits)<br />
   <sub>[#170544](https://github.com/flutter/flutter/pull/170544) opened on on June 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170544) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jonny Wang](https://github.com/jrwang)** &mdash; Manual roll of Fuchsia Test Scripts from xobrcSN07udKdXOq_shTG6-PJwjx…<br />
-  <sub>[#170594](https://github.com/flutter/flutter/pull/170594) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170594) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Remove lldb warnings<br />
   <sub>[#170595](https://github.com/flutter/flutter/pull/170595) opened on on June 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170595) 2 additions and 248 deletions in 4 files</sub><br />
 
@@ -114,7 +111,7 @@
   <sub>[#170606](https://github.com/flutter/flutter/pull/170606) opened on on June 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170606) 6 additions and 10 deletions in 3 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
-  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170612) 44 additions and 32 deletions in 4 files</sub><br />
+  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170612) 45 additions and 32 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Deprecate: Mark AppBarTheme color parameter as deprecated in favor of backgroundColor<br />
   <sub>[#170624](https://github.com/flutter/flutter/pull/170624) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170624) 32 additions and 0 deletions in 2 files</sub><br />
