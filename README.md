@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-19 commits.
+21 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -31,6 +31,10 @@
   <sub>[#170689](https://github.com/flutter/flutter/pull/170689) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170689) over 11 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fix RawGestureDetector semantics<br />
+  <sub>[#170549](https://github.com/flutter/flutter/pull/170549) merged on June 17, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/170549) over 4 days, 413 additions and 24 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `LinkedHashMap.*` with `Map.*`, which _is_ `Linked`<br />
   <sub>[#170713](https://github.com/flutter/flutter/pull/170713) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170713) over 3 hours, 49 additions and 66 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -50,6 +54,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
   <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
+  <sub>[#170343](https://github.com/flutter/flutter/pull/170343) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170343) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [release] Sync stable changelog to master<br />
   <sub>[#170691](https://github.com/flutter/flutter/pull/170691) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170691) over 21 hours, 58 additions and 0 deletions in 1 file</sub><br />
