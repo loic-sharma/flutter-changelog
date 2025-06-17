@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-12 commits.
+13 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Set max request pool size for DDC module loader when in CI<br />
   <sub>[#170565](https://github.com/flutter/flutter/pull/170565) merged on June 16, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/170565) over 3 days, 315 additions and 202 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Switch device lab Android with Linux host to emulator<br />
+  <sub>[#170689](https://github.com/flutter/flutter/pull/170689) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170689) over 11 hours, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Removal of MSAA for intermediate render targets used in filtering.<br />
   <sub>[#169692](https://github.com/flutter/flutter/pull/169692) merged on June 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169692) over 2 weeks, 53 additions and 25 deletions in 6 files</sub><br />
