@@ -73,7 +73,7 @@
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix date picker calendar tap targets (portrait mode)<br />
-  <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub><br />
+  <sub>[#169163](https://github.com/flutter/flutter/pull/169163) merged on June 11, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/169163) over 3 weeks, 60 additions and 11 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/22f906b9-bd95-4996-852e-bc2df4247364)![image](https://github.com/user-attachments/assets/83fd37e2-2cd1-454d-a13d-f2dcc3220e3b)</details></sub>
 
@@ -91,7 +91,7 @@
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix DropdownButtonFormField focusing when replacing FocusNode<br />
-  <sub>[#166645](https://github.com/flutter/flutter/pull/166645) merged on June 11, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/166645) over 2 months, 102 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#166645](https://github.com/flutter/flutter/pull/166645) merged on June 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/166645) over 2 months, 102 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Hamza Nasser](https://github.com/Hamza-Nasser), [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Make `DropdownMenu` TextField reactive to label changes<br />
