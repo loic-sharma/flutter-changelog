@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-22 commits.
+23 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -46,6 +46,10 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add DropdownButtonFormField value param test<br />
   <sub>[#170518](https://github.com/flutter/flutter/pull/170518) merged on June 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170518) over 4 days, 49 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.<br />
+  <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline `license_header.txt`<br />
   <sub>[#170475](https://github.com/flutter/flutter/pull/170475) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170475) over 5 days, 6 additions and 23 deletions in 3 files</sub><br />
