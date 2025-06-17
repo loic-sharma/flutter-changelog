@@ -134,3 +134,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use a shared vertex buffer for rendering layers.<br />
   <sub>[#170717](https://github.com/flutter/flutter/pull/170717) opened on on June 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170717) 56 additions and 36 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Prevent --web-experimental-hot-reload on web-server<br />
+  <sub>[#170744](https://github.com/flutter/flutter/pull/170744) opened on on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170744) 28 additions and 1 deletion in 2 files</sub><br />
+
