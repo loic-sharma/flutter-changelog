@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-24 commits.
+25 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Switch device lab Android with Linux host to emulator<br />
   <sub>[#170689](https://github.com/flutter/flutter/pull/170689) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170689) over 11 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat: Add radius to DividerThemeData.<br />
+  <sub>[#169739](https://github.com/flutter/flutter/pull/169739) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169739) over 2 weeks, 66 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fix RawGestureDetector semantics<br />
   <sub>[#170549](https://github.com/flutter/flutter/pull/170549) merged on June 17, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/170549) over 4 days, 413 additions and 24 deletions in 2 files</sub><br />
