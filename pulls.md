@@ -74,6 +74,9 @@
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Clean up Devfs_Web into seperate files<br />
   <sub>[#170769](https://github.com/flutter/flutter/pull/170769) opened on on June 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/170769) 1017 additions and 936 deletions in 10 files</sub><br />
 
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoDatePicker` and `CupertinoTimerPicker` new onChanged behavior<br />
+  <sub>[#170793](https://github.com/flutter/flutter/pull/170793) opened on on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170793) 105 additions and 0 deletions in 2 files</sub><br />
+
 * **[마카롱](https://github.com/Mkkas3145)** &mdash; Fixed issue #140739<br />
   <sub>[#170798](https://github.com/flutter/flutter/pull/170798) opened on on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170798) 5 additions and 0 deletions in 1 file</sub><br />
 
