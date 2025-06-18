@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-32 commits.
+33 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub>
@@ -26,6 +26,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add mouse cursor for CupertinoDialogAction
   <sub>[#169051](https://github.com/flutter/flutter/pull/169051) merged on June 18, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169051) over 1 month, 49 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update didUnmountRenderObject text description
+  <sub>[#169628](https://github.com/flutter/flutter/pull/169628) merged on June 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169628) over 2 weeks, 4 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoPicker` new onChanged behaviour
   <sub>[#170202](https://github.com/flutter/flutter/pull/170202) merged on June 18, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170202) over 1 week, 162 additions and 11 deletions in 4 files</sub>
