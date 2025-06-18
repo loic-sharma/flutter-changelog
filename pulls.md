@@ -56,9 +56,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Posix: Use `aot-snapshot` if `FLUTTER_TOOLS_USE_AOT_SNAPSHOT=1`<br />
   <sub>[#170488](https://github.com/flutter/flutter/pull/170488) opened on on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170488) 36 additions and 4 deletions in 2 files</sub><br />
 
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Roll customer_testing from 7f5502629 to 9a7ff449e (3 commits)<br />
-  <sub>[#170544](https://github.com/flutter/flutter/pull/170544) opened on on June 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170544) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
   <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/170612) 41 additions and 60 deletions in 6 files</sub><br />
 
