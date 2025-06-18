@@ -977,7 +977,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-6 commits.
+7 commits.
 
 * **[Robson Duarte](https://github.com/robsonoduarte)** &mdash; (fix) - the class GrowTransition compilation<br />
   <sub>[#12126](https://github.com/flutter/website/pull/12126) merged on June 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12126) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
@@ -995,6 +995,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added section on FlutterLaunchEngine and GeneratedPluginRegistrant to UISceneDelegate breaking change notice<br />
   <sub>[#12111](https://github.com/flutter/website/pull/12111) merged on June 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12111) over 6 days, 51 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Update Homepage with Google I/O 2025 videos<br />
+  <sub>[#12135](https://github.com/flutter/website/pull/12135) merged on June 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12135) over 2 hours, 12 additions and 14 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[tarundhot](https://github.com/tarundhot)** &mdash; Fix typo List<TripSummary> to List<BookingSummary> in ui-layer.md<br />
   <sub>[#12127](https://github.com/flutter/website/pull/12127) merged on June 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12127) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
