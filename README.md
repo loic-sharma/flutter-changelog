@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-34 commits.
+35 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -27,6 +27,10 @@
   <sub>[#169051](https://github.com/flutter/flutter/pull/169051) merged on June 18, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169051) over 1 month, 49 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Set max request pool size for DDC module loader when in CI<br />
+  <sub>[#170565](https://github.com/flutter/flutter/pull/170565) merged on June 16, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/170565) over 3 days, 315 additions and 202 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
+
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update didUnmountRenderObject text description<br />
   <sub>[#169628](https://github.com/flutter/flutter/pull/169628) merged on June 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169628) over 2 weeks, 4 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -47,9 +51,9 @@
   <sub>[#170331](https://github.com/flutter/flutter/pull/170331) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170331) over 6 days, 50 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Set max request pool size for DDC module loader when in CI<br />
-  <sub>[#170565](https://github.com/flutter/flutter/pull/170565) merged on June 16, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/170565) over 3 days, 315 additions and 202 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun16<br />
+  <sub>[#170716](https://github.com/flutter/flutter/pull/170716) merged on June 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170716) over 1 day, 488 additions and 65 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Switch device lab Android with Linux host to emulator<br />
   <sub>[#170689](https://github.com/flutter/flutter/pull/170689) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170689) over 11 hours, 3 additions and 3 deletions in 1 file</sub><br />
@@ -95,17 +99,13 @@
   <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
-  <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline `license_header.txt`<br />
   <sub>[#170475](https://github.com/flutter/flutter/pull/170475) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170475) over 5 days, 6 additions and 23 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
-  <sub>[#170343](https://github.com/flutter/flutter/pull/170343) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170343) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
+  <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [release] Sync stable changelog to master<br />
   <sub>[#170691](https://github.com/flutter/flutter/pull/170691) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170691) over 21 hours, 58 additions and 0 deletions in 1 file</sub><br />
@@ -130,6 +130,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Prefer .of over .from<br />
   <sub>[#170750](https://github.com/flutter/flutter/pull/170750) merged on June 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170750) over 1 hour, 33 additions and 35 deletions in 13 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
+  <sub>[#170343](https://github.com/flutter/flutter/pull/170343) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170343) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland lazy path and object arenas<br />
   <sub>[#170303](https://github.com/flutter/flutter/pull/170303) merged on June 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170303) over 6 days, 1204 additions and 114 deletions in 22 files</sub><br />
@@ -981,7 +985,7 @@
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/f3023975-af08-4a87-b8b5-6495955dde75)</details></sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Add go link to "Web Development Proxy Server" design doc<br />
-  <sub>[#12133](https://github.com/flutter/website/pull/12133) merged on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12133) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#12133](https://github.com/flutter/website/pull/12133) merged on June 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12133) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/feature-flags`<br />
