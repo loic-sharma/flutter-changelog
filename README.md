@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-28 commits.
+29 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -18,6 +18,10 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
   <sub>[#169245](https://github.com/flutter/flutter/pull/169245) merged on June 17, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/169245) over 3 weeks, 526 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoPicker` new onChanged behaviour<br />
+  <sub>[#170202](https://github.com/flutter/flutter/pull/170202) merged on June 18, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170202) over 1 week, 162 additions and 11 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Dipali Thakare](https://github.com/thakaredipali)** &mdash; Add example for CupertinoExpansionTile transition modes<br />
   <sub>[#170335](https://github.com/flutter/flutter/pull/170335) merged on June 18, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/170335) over 1 week, 169 additions and 0 deletions in 3 files</sub><br />

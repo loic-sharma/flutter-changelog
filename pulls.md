@@ -29,17 +29,11 @@
 * **[hyiso](https://github.com/hyiso)** &mdash; [flutter_tools] Add cache for `depends_on_flutter` in `podhelper.rb`<br />
   <sub>[#168819](https://github.com/flutter/flutter/pull/168819) opened on on May 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/168819) 15 additions and 7 deletions in 1 file</sub><br />
 
-* **[Stefan Humm](https://github.com/Fintasys)** &mdash; Add `.separated` constructor to `ReorderableListView`<br />
-  <sub>[#168834](https://github.com/flutter/flutter/pull/168834) opened on on May 14, 2025 &mdash; **Medium:** [52 comments](https://github.com/flutter/flutter/pull/168834) 463 additions and 8 deletions in 4 files</sub><br />
-
 * **[Sai Kiran Katayath](https://github.com/Katayath-Sai-Kiran)** &mdash; fix: Correct lerp method in RelativeRect to handle null inputs properly<br />
   <sub>[#168912](https://github.com/flutter/flutter/pull/168912) opened on on May 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168912) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
-
-* **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Fixed an issue about scrolling re-competition<br />
-  <sub>[#169430](https://github.com/flutter/flutter/pull/169430) opened on on May 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169430) 114 additions and 2 deletions in 7 files</sub><br />
 
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Layout Widgets for Dynamic UI Support<br />
   <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
@@ -47,29 +41,17 @@
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update didUnmountRenderObject text description<br />
-  <sub>[#169628](https://github.com/flutter/flutter/pull/169628) opened on on May 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169628) 4 additions and 3 deletions in 1 file</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move android_obfuscate_test from devicelab into tools integration.shard<br />
   <sub>[#169798](https://github.com/flutter/flutter/pull/169798) opened on on May 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169798) 118 additions and 123 deletions in 4 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update anchorRect for overlayBuilder when anchor moves<br />
-  <sub>[#169814](https://github.com/flutter/flutter/pull/169814) opened on on May 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169814) 61 additions and 1 deletion in 2 files</sub><br />
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [DO NOT SUBMIT] Adding logs in DDC library bundle format to debug timeouts<br />
   <sub>[#169818](https://github.com/flutter/flutter/pull/169818) opened on on May 31, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/169818) 2343 additions and 4 deletions in 7 files</sub><br />
-
-* **[agra](https://github.com/agrapine)** &mdash; fixes DrivenScrollActivity LateInitializationError _controller<br />
-  <sub>[#170047](https://github.com/flutter/flutter/pull/170047) opened on on June 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170047) 3 additions and 5 deletions in 1 file</sub><br />
 
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; fix(cupertino): adjust CupertinoCheckbox padding on macOS<br />
   <sub>[#170063](https://github.com/flutter/flutter/pull/170063) opened on on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170063) 38 additions and 34 deletions in 1 file</sub><br />
 
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Limit Dialog max width to 560dp per Material Design spec<br />
   <sub>[#170065](https://github.com/flutter/flutter/pull/170065) opened on on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170065) 40 additions and 42 deletions in 1 file</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `CupertinoLinearActivityIndicator`<br />
-  <sub>[#170108](https://github.com/flutter/flutter/pull/170108) opened on on June 6, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/170108) 280 additions and 0 deletions in 4 files</sub><br />
 
 * **[Roc Boronat](https://github.com/rocboronat)** &mdash; Fix styling typos in commit links for latest versions<br />
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
@@ -92,9 +74,6 @@
 * **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
   <sub>[#170635](https://github.com/flutter/flutter/pull/170635) opened on on June 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170635) 40 additions and 5 deletions in 3 files</sub><br />
 
-* **[Azat](https://github.com/azatech)** &mdash; Allow empty initial time when using text input mode in showTimePicker dialog<br />
-  <sub>[#170694](https://github.com/flutter/flutter/pull/170694) opened on on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170694) 123 additions and 1 deletion in 2 files</sub><br />
-
 * **[bungeman](https://github.com/bungeman)** &mdash; Pass font scanner to font mgr that need it<br />
   <sub>[#170701](https://github.com/flutter/flutter/pull/170701) opened on on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170701) 3 additions and 1 deletion in 1 file</sub><br />
 
@@ -104,15 +83,9 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect flutter/cocoon/4785<br />
   <sub>[#170751](https://github.com/flutter/flutter/pull/170751) opened on on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170751) 5 additions and 8 deletions in 1 file</sub><br />
 
-* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Reland [#166645] Fix DropdownButtonFormField focusing when replacing FocusNode <br />
-  <sub>[#170761](https://github.com/flutter/flutter/pull/170761) opened on on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170761) 102 additions and 8 deletions in 2 files</sub><br />
-
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Clean up Devfs_Web into seperate files<br />
   <sub>[#170769](https://github.com/flutter/flutter/pull/170769) opened on on June 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/170769) 1017 additions and 936 deletions in 10 files</sub><br />
 
 * **[마카롱](https://github.com/Mkkas3145)** &mdash; Fixed issue #140739<br />
   <sub>[#170798](https://github.com/flutter/flutter/pull/170798) opened on on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170798) 5 additions and 0 deletions in 1 file</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate DropdownDownFormField "value" parameter in favor of "initialValue"<br />
-  <sub>[#170805](https://github.com/flutter/flutter/pull/170805) opened on on June 18, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170805) 224 additions and 120 deletions in 7 files</sub><br />
 
