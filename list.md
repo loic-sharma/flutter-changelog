@@ -826,7 +826,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-8 commits.
+11 commits.
 
 * **[Jorge Sardina](https://github.com/js2702)** &mdash; [camera_avfoundation] fix race condition when starting image stream on iOS
   <sub>[#8733](https://github.com/flutter/packages/pull/8733) merged on June 16, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8733) over 3 months, 158 additions and 65 deletions in 12 files</sub>
@@ -840,6 +840,14 @@
   <sub>[#9306](https://github.com/flutter/packages/pull/9306) merged on June 17, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9306) over 3 weeks, 433 additions and 159 deletions in 10 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Fix incorrect types in image stream events
+  <sub>[#9418](https://github.com/flutter/packages/pull/9418) merged on June 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9418) over 6 days, 45 additions and 6 deletions in 4 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[q1](https://github.com/ahyangnb)** &mdash; [go_router] fix Popping state and re-rendering scaffold at the same time doesn't update the URL on web [new] 
+  <sub>[#8352](https://github.com/flutter/packages/pull/8352) merged on June 18, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/8352) over 5 months, 32 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [rfw] Update tests to no longer depend on a `Container` pumped via `testWidgets`.
   <sub>[#9063](https://github.com/flutter/packages/pull/9063) merged on June 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9063) over 2 months, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
@@ -847,6 +855,10 @@
 * **[Hari07](https://github.com/Hari-07)** &mdash; [google_maps_flutter_platform_(web/android/ios)] Add a new zIndexInt param to marker and deprecate zIndex
   <sub>[#9408](https://github.com/flutter/packages/pull/9408) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/9408) over 1 week, 50 additions and 27 deletions in 18 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [go_router] Use library prefix for meta
+  <sub>[#9434](https://github.com/flutter/packages/pull/9434) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9434) over 5 days, 7 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [go_router_builder] Temporarily restrict `build`
   <sub>[#9453](https://github.com/flutter/packages/pull/9453) merged on June 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9453) over 1 hour, 9 additions and 2 deletions in 2 files</sub>
