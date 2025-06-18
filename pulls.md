@@ -60,7 +60,7 @@
   <sub>[#170544](https://github.com/flutter/flutter/pull/170544) opened on on June 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170544) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
-  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/170612) 40 additions and 32 deletions in 4 files</sub><br />
+  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170612) 40 additions and 32 deletions in 4 files</sub><br />
 
 * **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
   <sub>[#170635](https://github.com/flutter/flutter/pull/170635) opened on on June 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170635) 40 additions and 5 deletions in 3 files</sub><br />
