@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-31 commits.
+32 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -18,6 +18,10 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
   <sub>[#169245](https://github.com/flutter/flutter/pull/169245) merged on June 17, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/169245) over 3 weeks, 526 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add an initial "Using feature flags" doc for the team.<br />
+  <sub>[#170767](https://github.com/flutter/flutter/pull/170767) merged on June 18, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/170767) over 20 hours, 333 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add mouse cursor for CupertinoDialogAction<br />
   <sub>[#169051](https://github.com/flutter/flutter/pull/169051) merged on June 18, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169051) over 1 month, 49 additions and 1 deletion in 2 files</sub><br />
