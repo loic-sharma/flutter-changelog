@@ -16,7 +16,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
-  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) merged on June 17, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/169245) over 3 weeks, 526 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) merged on June 17, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/169245) over 3 weeks, 526 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started bridging the scene delegate to the lifecycle delegate for shortcuts<br />
