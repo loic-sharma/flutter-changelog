@@ -969,12 +969,20 @@
 
 ### June 14, 2025 to June 20, 2025
 
-4 commits.
+6 commits.
 
 * **[Robson Duarte](https://github.com/robsonoduarte)** &mdash; (fix) - the class GrowTransition compilation<br />
   <sub>[#12126](https://github.com/flutter/website/pull/12126) merged on June 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12126) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/f3023975-af08-4a87-b8b5-6495955dde75)</details></sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; Add go link to "Web Development Proxy Server" design doc<br />
+  <sub>[#12133](https://github.com/flutter/website/pull/12133) merged on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12133) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/feature-flags`<br />
+  <sub>[#12136](https://github.com/flutter/website/pull/12136) merged on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12136) over 45 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added section on FlutterLaunchEngine and GeneratedPluginRegistrant to UISceneDelegate breaking change notice<br />
   <sub>[#12111](https://github.com/flutter/website/pull/12111) merged on June 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12111) over 6 days, 51 additions and 1 deletion in 1 file</sub><br />
