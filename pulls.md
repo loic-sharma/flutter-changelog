@@ -71,9 +71,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use a shared vertex buffer for rendering layers.<br />
   <sub>[#170717](https://github.com/flutter/flutter/pull/170717) opened on on June 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170717) 56 additions and 36 deletions in 1 file</sub><br />
 
-* **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Clean up Devfs_Web into seperate files<br />
-  <sub>[#170769](https://github.com/flutter/flutter/pull/170769) opened on on June 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/170769) 1017 additions and 936 deletions in 10 files</sub><br />
-
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoDatePicker` and `CupertinoTimerPicker` new onChanged behavior<br />
   <sub>[#170793](https://github.com/flutter/flutter/pull/170793) opened on on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170793) 105 additions and 0 deletions in 2 files</sub><br />
 
@@ -82,4 +79,10 @@
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; DO NOT SUMBIT: Enable interpretation fallback when unable to JIT on iOS.<br />
   <sub>[#170835](https://github.com/flutter/flutter/pull/170835) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170835) 8 additions and 1 deletion in 2 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Clear background in the GTK layer, instead of OpenGL<br />
+  <sub>[#170840](https://github.com/flutter/flutter/pull/170840) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170840) 34 additions and 80 deletions in 4 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Set the background in the Linux template<br />
+  <sub>[#170841](https://github.com/flutter/flutter/pull/170841) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170841) 4 additions and 0 deletions in 1 file</sub><br />
 
