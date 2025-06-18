@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-27 commits.
+28 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub>
@@ -46,6 +46,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fix RawGestureDetector semantics
   <sub>[#170549](https://github.com/flutter/flutter/pull/170549) merged on June 17, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/170549) over 4 days, 413 additions and 24 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Rename `entryPointBaseUrl` to `entrypointBaseUrl`
+  <sub>[#170166](https://github.com/flutter/flutter/pull/170166) merged on June 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170166) over 1 week, 12 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `LinkedHashMap.*` with `Map.*`, which _is_ `Linked`
   <sub>[#170713](https://github.com/flutter/flutter/pull/170713) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170713) over 3 hours, 49 additions and 66 deletions in 7 files</sub>

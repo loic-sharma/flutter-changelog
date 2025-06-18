@@ -71,14 +71,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `CupertinoLinearActivityIndicator`<br />
   <sub>[#170108](https://github.com/flutter/flutter/pull/170108) opened on on June 6, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/170108) 280 additions and 0 deletions in 4 files</sub><br />
 
-* **[Muhammad Mohiuddin](https://github.com/MohiuddinM)** &mdash; Add a getter to get the recorder used by painting context<br />
-  <sub>[#170223](https://github.com/flutter/flutter/pull/170223) opened on on June 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170223) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[Roc Boronat](https://github.com/rocboronat)** &mdash; Fix styling typos in commit links for latest versions<br />
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
-
-* **[Micha](https://github.com/guenth39)** &mdash; Add maxLines property to Wrap Widget for line limitation (#65331)<br />
-  <sub>[#170469](https://github.com/flutter/flutter/pull/170469) opened on on June 11, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170469) 373 additions and 26 deletions in 4 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Posix: Use `aot-snapshot` if `FLUTTER_TOOLS_USE_AOT_SNAPSHOT=1`<br />
   <sub>[#170488](https://github.com/flutter/flutter/pull/170488) opened on on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170488) 36 additions and 4 deletions in 2 files</sub><br />
@@ -97,12 +91,6 @@
 
 * **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
   <sub>[#170635](https://github.com/flutter/flutter/pull/170635) opened on on June 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170635) 40 additions and 5 deletions in 3 files</sub><br />
-
-* **[dt_emmy](https://github.com/DeTuksa)** &mdash; #72267<br />
-  <sub>[#170636](https://github.com/flutter/flutter/pull/170636) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170636) 48 additions and 7 deletions in 3 files</sub><br />
-
-* **[Jiaming Meng](https://github.com/exoad)** &mdash; Update `/examples` code that use `.withOpacity` to use `.withValues()` <br />
-  <sub>[#170651](https://github.com/flutter/flutter/pull/170651) opened on on June 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170651) 60 additions and 52 deletions in 26 files</sub><br />
 
 * **[Azat](https://github.com/azatech)** &mdash; Allow empty initial time when using text input mode in showTimePicker dialog<br />
   <sub>[#170694](https://github.com/flutter/flutter/pull/170694) opened on on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170694) 123 additions and 1 deletion in 2 files</sub><br />
