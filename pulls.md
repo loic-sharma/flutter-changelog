@@ -48,10 +48,7 @@
   <sub>[#169818](https://github.com/flutter/flutter/pull/169818) opened on on May 31, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/169818) 2343 additions and 4 deletions in 7 files</sub><br />
 
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; fix(cupertino): adjust CupertinoCheckbox padding on macOS<br />
-  <sub>[#170063](https://github.com/flutter/flutter/pull/170063) opened on on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170063) 38 additions and 34 deletions in 1 file</sub><br />
-
-* **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; Limit Dialog max width to 560dp per Material Design spec<br />
-  <sub>[#170065](https://github.com/flutter/flutter/pull/170065) opened on on June 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170065) 40 additions and 42 deletions in 1 file</sub><br />
+  <sub>[#170063](https://github.com/flutter/flutter/pull/170063) opened on on June 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170063) 38 additions and 34 deletions in 1 file</sub><br />
 
 * **[Roc Boronat](https://github.com/rocboronat)** &mdash; Fix styling typos in commit links for latest versions<br />
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
@@ -65,12 +62,6 @@
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
   <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/170612) 45 additions and 32 deletions in 4 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Deprecate: Mark AppBarTheme color parameter as deprecated in favor of backgroundColor<br />
-  <sub>[#170624](https://github.com/flutter/flutter/pull/170624) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170624) 32 additions and 0 deletions in 2 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Style: Rename pageBuilder with builder in showCupertinoSheet<br />
-  <sub>[#170625](https://github.com/flutter/flutter/pull/170625) opened on on June 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170625) 35 additions and 6 deletions in 2 files</sub><br />
-
 * **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
   <sub>[#170635](https://github.com/flutter/flutter/pull/170635) opened on on June 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170635) 40 additions and 5 deletions in 3 files</sub><br />
 
@@ -79,9 +70,6 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use a shared vertex buffer for rendering layers.<br />
   <sub>[#170717](https://github.com/flutter/flutter/pull/170717) opened on on June 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170717) 56 additions and 36 deletions in 1 file</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect flutter/cocoon/4785<br />
-  <sub>[#170751](https://github.com/flutter/flutter/pull/170751) opened on on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170751) 5 additions and 8 deletions in 1 file</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Clean up Devfs_Web into seperate files<br />
   <sub>[#170769](https://github.com/flutter/flutter/pull/170769) opened on on June 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/170769) 1017 additions and 936 deletions in 10 files</sub><br />
