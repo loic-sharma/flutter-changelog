@@ -120,5 +120,5 @@
   <sub>[#170761](https://github.com/flutter/flutter/pull/170761) opened on on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170761) 102 additions and 8 deletions in 2 files</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Clean up Devfs_Web into seperate files<br />
-  <sub>[#170769](https://github.com/flutter/flutter/pull/170769) opened on on June 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/170769) 1010 additions and 936 deletions in 10 files</sub><br />
+  <sub>[#170769](https://github.com/flutter/flutter/pull/170769) opened on on June 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/170769) 1018 additions and 936 deletions in 10 files</sub><br />
 
