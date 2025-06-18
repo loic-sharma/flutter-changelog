@@ -826,7 +826,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-11 commits.
+12 commits.
 
 * **[Jorge Sardina](https://github.com/js2702)** &mdash; [camera_avfoundation] fix race condition when starting image stream on iOS
   <sub>[#8733](https://github.com/flutter/packages/pull/8733) merged on June 16, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8733) over 3 months, 158 additions and 65 deletions in 12 files</sub>
@@ -859,6 +859,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [go_router] Use library prefix for meta
   <sub>[#9434](https://github.com/flutter/packages/pull/9434) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9434) over 5 days, 7 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Create a message call free InstanceManager when running unit tests
+  <sub>[#9395](https://github.com/flutter/packages/pull/9395) merged on June 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9395) over 1 week, 58 additions and 4 deletions in 7 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [go_router_builder] Temporarily restrict `build`
   <sub>[#9453](https://github.com/flutter/packages/pull/9453) merged on June 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9453) over 1 hour, 9 additions and 2 deletions in 2 files</sub>
