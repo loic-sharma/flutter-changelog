@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-39 commits.
+40 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -39,6 +39,10 @@
   <sub>[#170565](https://github.com/flutter/flutter/pull/170565) merged on June 16, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/170565) over 3 days, 315 additions and 202 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
 
+* **[greyovo](https://github.com/greyovo)** &mdash; Fix dragging scrollbar down causes unexpected behavior when scrollable has a negative minScrollExtent<br />
+  <sub>[#170331](https://github.com/flutter/flutter/pull/170331) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170331) over 6 days, 50 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update didUnmountRenderObject text description<br />
   <sub>[#169628](https://github.com/flutter/flutter/pull/169628) merged on June 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169628) over 2 weeks, 4 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -54,10 +58,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started bridging the scene delegate to the lifecycle delegate for shortcuts<br />
   <sub>[#170180](https://github.com/flutter/flutter/pull/170180) merged on June 17, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/170180) over 1 week, 64 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[greyovo](https://github.com/greyovo)** &mdash; Fix dragging scrollbar down causes unexpected behavior when scrollable has a negative minScrollExtent<br />
-  <sub>[#170331](https://github.com/flutter/flutter/pull/170331) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170331) over 6 days, 50 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix array uniforms on GLES backend.<br />
   <sub>[#170710](https://github.com/flutter/flutter/pull/170710) merged on June 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170710) over 1 day, 55 additions and 4 deletions in 4 files</sub><br />
@@ -107,21 +107,21 @@
   <sub>[#170751](https://github.com/flutter/flutter/pull/170751) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170751) over 1 day, 5 additions and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
-  <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Add `--profile-microtasks` switch<br />
   <sub>[#170690](https://github.com/flutter/flutter/pull/170690) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170690) over 1 day, 56 additions and 3 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.<br />
-  <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
+  <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline `license_header.txt`<br />
   <sub>[#170475](https://github.com/flutter/flutter/pull/170475) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170475) over 5 days, 6 additions and 23 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.<br />
+  <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix file path conflict introduced in https://github.com/flutter/flutter/pull/169949<br />
   <sub>[#170606](https://github.com/flutter/flutter/pull/170606) merged on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170606) over 3 days, 6 additions and 10 deletions in 3 files</sub><br />
@@ -130,6 +130,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update Linux embedder to new semantics flags API<br />
   <sub>[#170497](https://github.com/flutter/flutter/pull/170497) merged on June 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170497) over 5 days, 153 additions and 113 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use a shared vertex buffer for rendering layers.<br />
+  <sub>[#170717](https://github.com/flutter/flutter/pull/170717) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170717) over 1 day, 56 additions and 36 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Prefer .of over .from<br />
   <sub>[#170750](https://github.com/flutter/flutter/pull/170750) merged on June 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170750) over 1 hour, 33 additions and 35 deletions in 13 files</sub><br />
