@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-36 commits.
+37 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub>
@@ -26,6 +26,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add mouse cursor for CupertinoDialogAction
   <sub>[#169051](https://github.com/flutter/flutter/pull/169051) merged on June 18, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169051) over 1 month, 49 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update README to add section about custom embedders.
+  <sub>[#170077](https://github.com/flutter/flutter/pull/170077) merged on June 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170077) over 1 week, 23 additions and 20 deletions in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Set max request pool size for DDC module loader when in CI
   <sub>[#170565](https://github.com/flutter/flutter/pull/170565) merged on June 16, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/170565) over 3 days, 315 additions and 202 deletions in 6 files</sub>
@@ -51,13 +55,13 @@
   <sub>[#170331](https://github.com/flutter/flutter/pull/170331) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170331) over 6 days, 50 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun16
-  <sub>[#170716](https://github.com/flutter/flutter/pull/170716) merged on June 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170716) over 1 day, 488 additions and 65 deletions in 9 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Switch device lab Android with Linux host to emulator
   <sub>[#170689](https://github.com/flutter/flutter/pull/170689) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170689) over 11 hours, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun16
+  <sub>[#170716](https://github.com/flutter/flutter/pull/170716) merged on June 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170716) over 1 day, 488 additions and 65 deletions in 9 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat: Add radius to DividerThemeData.
   <sub>[#169739](https://github.com/flutter/flutter/pull/169739) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169739) over 2 weeks, 66 additions and 7 deletions in 3 files</sub>
@@ -99,13 +103,13 @@
   <sub>[#170690](https://github.com/flutter/flutter/pull/170690) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170690) over 1 day, 56 additions and 3 deletions in 7 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.
-  <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13
   <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.
+  <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline `license_header.txt`
   <sub>[#170475](https://github.com/flutter/flutter/pull/170475) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170475) over 5 days, 6 additions and 23 deletions in 3 files</sub>
