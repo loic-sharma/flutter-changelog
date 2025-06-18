@@ -39,7 +39,7 @@
   <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
 
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
-  <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
+  <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move android_obfuscate_test from devicelab into tools integration.shard<br />
   <sub>[#169798](https://github.com/flutter/flutter/pull/169798) opened on on May 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169798) 118 additions and 123 deletions in 4 files</sub><br />
