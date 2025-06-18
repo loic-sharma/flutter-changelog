@@ -125,3 +125,6 @@
 * **[마카롱](https://github.com/Mkkas3145)** &mdash; Fixed issue #140739<br />
   <sub>[#170798](https://github.com/flutter/flutter/pull/170798) opened on on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170798) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate DropdownDownFormField "value" parameter in favor of "initialValue"<br />
+  <sub>[#170805](https://github.com/flutter/flutter/pull/170805) opened on on June 18, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170805) 224 additions and 120 deletions in 7 files</sub><br />
+
