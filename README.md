@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-33 commits.
+34 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -79,6 +79,10 @@
   <sub>[#170518](https://github.com/flutter/flutter/pull/170518) merged on June 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170518) over 4 days, 49 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Work around newer compilers requiring the satisfaction of three-way comparison of EncodableValue.<br />
+  <sub>[#170822](https://github.com/flutter/flutter/pull/170822) merged on June 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170822) over 2 hours, 48 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jim Graham](https://github.com/flar)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect flutter/cocoon/4785<br />
   <sub>[#170751](https://github.com/flutter/flutter/pull/170751) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170751) over 1 day, 5 additions and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
@@ -91,17 +95,13 @@
   <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline `license_header.txt`<br />
-  <sub>[#170475](https://github.com/flutter/flutter/pull/170475) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170475) over 5 days, 6 additions and 23 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
   <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Prefer .of over .from<br />
-  <sub>[#170750](https://github.com/flutter/flutter/pull/170750) merged on June 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170750) over 1 hour, 33 additions and 35 deletions in 13 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline `license_header.txt`<br />
+  <sub>[#170475](https://github.com/flutter/flutter/pull/170475) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170475) over 5 days, 6 additions and 23 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
   <sub>[#170343](https://github.com/flutter/flutter/pull/170343) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170343) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -126,6 +126,10 @@
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Prevent --web-experimental-hot-reload on web-server<br />
   <sub>[#170610](https://github.com/flutter/flutter/pull/170610) merged on June 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170610) over 2 days, 28 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Prefer .of over .from<br />
+  <sub>[#170750](https://github.com/flutter/flutter/pull/170750) merged on June 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170750) over 1 hour, 33 additions and 35 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland lazy path and object arenas<br />
   <sub>[#170303](https://github.com/flutter/flutter/pull/170303) merged on June 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170303) over 6 days, 1204 additions and 114 deletions in 22 files</sub><br />
