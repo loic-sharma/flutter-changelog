@@ -136,7 +136,7 @@
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[gourabkumarsi](https://github.com/gourabkumarsi)** &mdash; Drop support for 21/22 Lollipop
-  <sub>[#170748](https://github.com/flutter/flutter/pull/170748) merged on June 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170748) over 1 day, 0 additions and 46 deletions in 1 file</sub>
+  <sub>[#170748](https://github.com/flutter/flutter/pull/170748) merged on June 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170748) over 1 day, 0 additions and 46 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use a shared vertex buffer for rendering layers.
