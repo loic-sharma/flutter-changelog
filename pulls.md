@@ -56,9 +56,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Posix: Use `aot-snapshot` if `FLUTTER_TOOLS_USE_AOT_SNAPSHOT=1`<br />
   <sub>[#170488](https://github.com/flutter/flutter/pull/170488) opened on on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170488) 36 additions and 4 deletions in 2 files</sub><br />
 
-* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; remove --start-paused flag by default and set useDwdsWebSocketConnect…<br />
-  <sub>[#170612](https://github.com/flutter/flutter/pull/170612) opened on on June 13, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/170612) 41 additions and 60 deletions in 6 files</sub><br />
-
 * **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
   <sub>[#170635](https://github.com/flutter/flutter/pull/170635) opened on on June 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170635) 40 additions and 5 deletions in 3 files</sub><br />
 
@@ -87,5 +84,5 @@
   <sub>[#170846](https://github.com/flutter/flutter/pull/170846) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170846) 167 additions and 30 deletions in 25 files</sub><br />
 
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Added new version check to flutter --version<br />
-  <sub>[#170851](https://github.com/flutter/flutter/pull/170851) opened on on June 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170851) 275 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#170851](https://github.com/flutter/flutter/pull/170851) opened on on June 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170851) 270 additions and 4 deletions in 2 files</sub><br />
 
