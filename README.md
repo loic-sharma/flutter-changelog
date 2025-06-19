@@ -861,7 +861,7 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; [go_router] fix: PopScope.onPopInvokedWithResult not called in branch routes<br />
-  <sub>[#9245](https://github.com/flutter/packages/pull/9245) merged on June 19, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9245) over 1 month, 162 additions and 16 deletions in 4 files</sub><br />
+  <sub>[#9245](https://github.com/flutter/packages/pull/9245) merged on June 19, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9245) over 1 month, 162 additions and 16 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [rfw] Update tests to no longer depend on a `Container` pumped via `testWidgets`.<br />
