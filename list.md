@@ -830,7 +830,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-12 commits.
+13 commits.
 
 * **[Jorge Sardina](https://github.com/js2702)** &mdash; [camera_avfoundation] fix race condition when starting image stream on iOS
   <sub>[#8733](https://github.com/flutter/packages/pull/8733) merged on June 16, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8733) over 3 months, 158 additions and 65 deletions in 12 files</sub>
@@ -851,6 +851,10 @@
 * **[q1](https://github.com/ahyangnb)** &mdash; [go_router] fix Popping state and re-rendering scaffold at the same time doesn't update the URL on web [new] 
   <sub>[#8352](https://github.com/flutter/packages/pull/8352) merged on June 18, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/8352) over 5 months, 32 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[August](https://github.com/Gustl22)** &mdash; [go_router] fix: PopScope.onPopInvokedWithResult not called in branch routes
+  <sub>[#9245](https://github.com/flutter/packages/pull/9245) merged on June 19, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9245) over 1 month, 162 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [rfw] Update tests to no longer depend on a `Container` pumped via `testWidgets`.
   <sub>[#9063](https://github.com/flutter/packages/pull/9063) merged on June 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9063) over 2 months, 3 additions and 3 deletions in 1 file</sub>
