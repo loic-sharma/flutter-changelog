@@ -86,6 +86,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP] Fix pink images when returning from background on iOS<br />
   <sub>[#170846](https://github.com/flutter/flutter/pull/170846) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170846) 167 additions and 30 deletions in 25 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Engine builders no longer require `is_fusion`<br />
-  <sub>[#170849](https://github.com/flutter/flutter/pull/170849) opened on on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170849) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Phantom-101](https://github.com/Phantom-101)** &mdash; Added new version check to flutter --version<br />
+  <sub>[#170851](https://github.com/flutter/flutter/pull/170851) opened on on June 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170851) 275 additions and 4 deletions in 2 files</sub><br />
 
