@@ -74,9 +74,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Clear background in the GTK layer, instead of OpenGL<br />
   <sub>[#170840](https://github.com/flutter/flutter/pull/170840) opened on on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170840) 34 additions and 80 deletions in 4 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Set the background in the Linux template<br />
-  <sub>[#170841](https://github.com/flutter/flutter/pull/170841) opened on on June 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170841) 4 additions and 0 deletions in 1 file</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Show window on first frame on Linux<br />
   <sub>[#170844](https://github.com/flutter/flutter/pull/170844) opened on on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170844) 11 additions and 1 deletion in 1 file</sub><br />
 
