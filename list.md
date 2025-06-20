@@ -1041,7 +1041,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-7 commits.
+10 commits.
 
 * **[Robson Duarte](https://github.com/robsonoduarte)** &mdash; (fix) - the class GrowTransition compilation
   <sub>[#12126](https://github.com/flutter/website/pull/12126) merged on June 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12126) over 2 days, 0 additions and 1 deletion in 1 file</sub>
@@ -1059,6 +1059,18 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added section on FlutterLaunchEngine and GeneratedPluginRegistrant to UISceneDelegate breaking change notice
   <sub>[#12111](https://github.com/flutter/website/pull/12111) merged on June 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12111) over 6 days, 51 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add LLDB Init Instructions for Add to App
+  <sub>[#12131](https://github.com/flutter/website/pull/12131) merged on June 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12131) over 2 days, 84 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amir Abbas Jannatian](https://github.com/amir14a)** &mdash; Update internationalization documents and gen_l10n example.
+  <sub>[#12113](https://github.com/flutter/website/pull/12113) merged on June 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12113) over 1 week, 3 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[emilakerman](https://github.com/emilakerman)** &mdash; Update english incorrect grammar for handlings-taps.md
+  <sub>[#12128](https://github.com/flutter/website/pull/12128) merged on June 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12128) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Update Homepage with Google I/O 2025 videos
   <sub>[#12135](https://github.com/flutter/website/pull/12135) merged on June 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12135) over 2 hours, 12 additions and 14 deletions in 1 file</sub>
