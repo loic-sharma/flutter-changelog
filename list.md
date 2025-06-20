@@ -862,7 +862,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-16 commits.
+17 commits.
 
 * **[Jorge Sardina](https://github.com/js2702)** &mdash; [camera_avfoundation] fix race condition when starting image stream on iOS
   <sub>[#8733](https://github.com/flutter/packages/pull/8733) merged on June 16, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8733) over 3 months, 158 additions and 65 deletions in 12 files</sub>
@@ -899,6 +899,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [go_router] Use library prefix for meta
   <sub>[#9434](https://github.com/flutter/packages/pull/9434) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9434) over 5 days, 7 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Annotate `zIndex` usage
+  <sub>[#9462](https://github.com/flutter/packages/pull/9462) merged on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9462) over 4 hours, 14 additions and 5 deletions in 8 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 5
   <sub>[#9397](https://github.com/flutter/packages/pull/9397) merged on June 20, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/9397) over 2 weeks, 226 additions and 223 deletions in 6 files</sub>
