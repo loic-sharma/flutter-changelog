@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-48 commits.
+49 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`<br />
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub><br />
@@ -67,10 +67,6 @@
   <sub>[#170710](https://github.com/flutter/flutter/pull/170710) merged on June 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170710) over 1 day, 55 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun16<br />
-  <sub>[#170716](https://github.com/flutter/flutter/pull/170716) merged on June 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170716) over 1 day, 488 additions and 65 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Switch device lab Android with Linux host to emulator<br />
   <sub>[#170689](https://github.com/flutter/flutter/pull/170689) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170689) over 11 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
@@ -79,17 +75,21 @@
   <sub>[#170845](https://github.com/flutter/flutter/pull/170845) merged on June 20, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/170845) over 1 day, 387 additions and 18 deletions in 24 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun16<br />
+  <sub>[#170716](https://github.com/flutter/flutter/pull/170716) merged on June 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170716) over 1 day, 488 additions and 65 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll DDS 5.0.3<br />
   <sub>[#170880](https://github.com/flutter/flutter/pull/170880) merged on June 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170880) over 2 hours, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
-* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat: Add radius to DividerThemeData.<br />
-  <sub>[#169739](https://github.com/flutter/flutter/pull/169739) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169739) over 2 weeks, 66 additions and 7 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fix RawGestureDetector semantics<br />
   <sub>[#170549](https://github.com/flutter/flutter/pull/170549) merged on June 17, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/170549) over 4 days, 413 additions and 24 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[jcheng](https://github.com/StanleyCocos)** &mdash; feat: Add radius to DividerThemeData.<br />
+  <sub>[#169739](https://github.com/flutter/flutter/pull/169739) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169739) over 2 weeks, 66 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Rename `entryPointBaseUrl` to `entrypointBaseUrl`<br />
   <sub>[#170166](https://github.com/flutter/flutter/pull/170166) merged on June 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170166) over 1 week, 12 additions and 3 deletions in 2 files</sub><br />
@@ -102,6 +102,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Removal of MSAA for intermediate render targets used in filtering.<br />
   <sub>[#169692](https://github.com/flutter/flutter/pull/169692) merged on June 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169692) over 2 weeks, 53 additions and 25 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Close CupertinoContextMenu overlay if the widget is disposed or a new route is pushed<br />
+  <sub>[#170186](https://github.com/flutter/flutter/pull/170186) merged on June 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170186) over 1 week, 121 additions and 18 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add a way to request new `Surface`s from `SurfaceProducer` and avoid `SurfaceProducer` returning invalid `Surface`<br />
   <sub>[#169899](https://github.com/flutter/flutter/pull/169899) merged on June 20, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169899) over 2 weeks, 215 additions and 14 deletions in 6 files</sub><br />
@@ -119,29 +123,29 @@
   <sub>[#170702](https://github.com/flutter/flutter/pull/170702) merged on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170702) over 1 day, 2 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Work around newer compilers requiring the satisfaction of three-way comparison of EncodableValue.<br />
-  <sub>[#170822](https://github.com/flutter/flutter/pull/170822) merged on June 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170822) over 2 hours, 48 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jim Graham](https://github.com/flar)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline `license_header.txt`<br />
   <sub>[#170475](https://github.com/flutter/flutter/pull/170475) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170475) over 5 days, 6 additions and 23 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Derek Xu](https://github.com/derekxu16)** &mdash; Add `--profile-microtasks` switch<br />
-  <sub>[#170690](https://github.com/flutter/flutter/pull/170690) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170690) over 1 day, 56 additions and 3 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
-  <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Work around newer compilers requiring the satisfaction of three-way comparison of EncodableValue.<br />
+  <sub>[#170822](https://github.com/flutter/flutter/pull/170822) merged on June 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170822) over 2 hours, 48 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.<br />
   <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
+* **[Derek Xu](https://github.com/derekxu16)** &mdash; Add `--profile-microtasks` switch<br />
+  <sub>[#170690](https://github.com/flutter/flutter/pull/170690) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170690) over 1 day, 56 additions and 3 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect flutter/cocoon/4785<br />
   <sub>[#170751](https://github.com/flutter/flutter/pull/170751) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170751) over 1 day, 5 additions and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
+  <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update Linux embedder to new semantics flags API<br />
   <sub>[#170497](https://github.com/flutter/flutter/pull/170497) merged on June 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170497) over 5 days, 153 additions and 113 deletions in 6 files</sub><br />
