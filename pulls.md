@@ -102,5 +102,8 @@
   <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] : set isFocused will update isFocusable to true<br />
-  <sub>[#170935](https://github.com/flutter/flutter/pull/170935) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170935) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#170935](https://github.com/flutter/flutter/pull/170935) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170935) 5 additions and 5 deletions in 3 files</sub><br />
+
+* **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; fix: Add focusNode and textEditingController in `Autocomplete`<br />
+  <sub>[#170936](https://github.com/flutter/flutter/pull/170936) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170936) 80 additions and 0 deletions in 2 files</sub><br />
 
