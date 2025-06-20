@@ -862,7 +862,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-15 commits.
+16 commits.
 
 * **[Jorge Sardina](https://github.com/js2702)** &mdash; [camera_avfoundation] fix race condition when starting image stream on iOS
   <sub>[#8733](https://github.com/flutter/packages/pull/8733) merged on June 16, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8733) over 3 months, 158 additions and 65 deletions in 12 files</sub>
@@ -923,6 +923,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; metrics_center: bump outdated deps, prepare for release
   <sub>[#9421](https://github.com/flutter/packages/pull/9421) merged on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9421) over 3 days, 193 additions and 80 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from b25305a8832c to 6fba2447e95c (11 revisions)
+  <sub>[#9435](https://github.com/flutter/packages/pull/9435) merged on June 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9435) over 6 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### June 7, 2025 to June 13, 2025
 
