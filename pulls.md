@@ -89,9 +89,12 @@
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Service worker removal<br />
   <sub>[#170918](https://github.com/flutter/flutter/pull/170918) opened on on June 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170918) 237 additions and 1006 deletions in 4 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Windows] Use ANGLE blit extension on GLES 2.0<br />
-  <sub>[#170924](https://github.com/flutter/flutter/pull/170924) opened on on June 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170924) 118 additions and 13 deletions in 4 files</sub><br />
-
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Change RawScrollbar padding from EdgeInsets to EdgeInsetsGeometry<br />
   <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170927) 71 additions and 2 deletions in 2 files</sub><br />
+
+* **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix RenderParagraph textAlign setter to call markNeedsLayout<br />
+  <sub>[#170928](https://github.com/flutter/flutter/pull/170928) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170928) 21 additions and 4 deletions in 2 files</sub><br />
+
+* **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix TreeSliver null check assertion on rapid toggling<br />
+  <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
 
