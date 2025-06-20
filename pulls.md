@@ -89,3 +89,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add foreground color for cupertino button<br />
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170898) 145 additions and 4 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing M3 tests fro InputDecoration.floatingLabelAlignment<br />
+  <sub>[#170903](https://github.com/flutter/flutter/pull/170903) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170903) 214 additions and 0 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited<br />
+  <sub>[#170905](https://github.com/flutter/flutter/pull/170905) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170905) 37 additions and 25 deletions in 2 files</sub><br />
+
