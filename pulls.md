@@ -89,3 +89,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add foreground color for cupertino button<br />
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170898) 145 additions and 4 deletions in 2 files</sub><br />
 
+* **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Service worker removal<br />
+  <sub>[#170918](https://github.com/flutter/flutter/pull/170918) opened on on June 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170918) 229 additions and 965 deletions in 3 files</sub><br />
+
