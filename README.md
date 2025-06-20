@@ -1097,7 +1097,7 @@
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Amir Abbas Jannatian](https://github.com/amir14a)** &mdash; Update internationalization documents and gen_l10n example.<br />
-  <sub>[#12113](https://github.com/flutter/website/pull/12113) merged on June 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12113) over 1 week, 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#12113](https://github.com/flutter/website/pull/12113) merged on June 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12113) over 1 week, 3 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[emilakerman](https://github.com/emilakerman)** &mdash; Update english incorrect grammar for handlings-taps.md<br />
