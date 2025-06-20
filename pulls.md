@@ -107,3 +107,6 @@
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; fix: Add focusNode and textEditingController in `Autocomplete`<br />
   <sub>[#170936](https://github.com/flutter/flutter/pull/170936) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170936) 80 additions and 0 deletions in 2 files</sub><br />
 
+* **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; feat: Add hintLocales in TextFormField<br />
+  <sub>[#170938](https://github.com/flutter/flutter/pull/170938) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170938) 12 additions and 0 deletions in 2 files</sub><br />
+
