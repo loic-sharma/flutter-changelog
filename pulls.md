@@ -87,7 +87,7 @@
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170898) 145 additions and 4 deletions in 2 files</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Service worker removal<br />
-  <sub>[#170918](https://github.com/flutter/flutter/pull/170918) opened on on June 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170918) 230 additions and 1007 deletions in 4 files</sub><br />
+  <sub>[#170918](https://github.com/flutter/flutter/pull/170918) opened on on June 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170918) 237 additions and 1006 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Windows] Use ANGLE blit extension on GLES 2.0<br />
   <sub>[#170924](https://github.com/flutter/flutter/pull/170924) opened on on June 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170924) 118 additions and 13 deletions in 4 files</sub><br />
