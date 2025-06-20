@@ -110,3 +110,9 @@
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; feat: Add hintLocales in TextFormField<br />
   <sub>[#170938](https://github.com/flutter/flutter/pull/170938) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170938) 12 additions and 0 deletions in 2 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20<br />
+  <sub>[#170948](https://github.com/flutter/flutter/pull/170948) opened on on June 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) 279 additions and 35 deletions in 19 files</sub><br />
+
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Remove temporary workaround for web testing<br />
+  <sub>[#170949](https://github.com/flutter/flutter/pull/170949) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170949) 0 additions and 3 deletions in 1 file</sub><br />
+
