@@ -4,7 +4,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-44 commits.
+45 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub>
@@ -63,13 +63,13 @@
   <sub>[#170180](https://github.com/flutter/flutter/pull/170180) merged on June 17, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/170180) over 1 week, 64 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Switch device lab Android with Linux host to emulator
-  <sub>[#170689](https://github.com/flutter/flutter/pull/170689) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170689) over 11 hours, 3 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun16
   <sub>[#170716](https://github.com/flutter/flutter/pull/170716) merged on June 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170716) over 1 day, 488 additions and 65 deletions in 9 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Switch device lab Android with Linux host to emulator
+  <sub>[#170689](https://github.com/flutter/flutter/pull/170689) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170689) over 11 hours, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix array uniforms on GLES backend.
   <sub>[#170710](https://github.com/flutter/flutter/pull/170710) merged on June 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170710) over 1 day, 55 additions and 4 deletions in 4 files</sub>
@@ -119,13 +119,13 @@
   <sub>[#170751](https://github.com/flutter/flutter/pull/170751) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170751) over 1 day, 5 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.
-  <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline `license_header.txt`
   <sub>[#170475](https://github.com/flutter/flutter/pull/170475) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170475) over 5 days, 6 additions and 23 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.
+  <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Add `--profile-microtasks` switch
   <sub>[#170690](https://github.com/flutter/flutter/pull/170690) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170690) over 1 day, 56 additions and 3 deletions in 7 files</sub>
@@ -170,6 +170,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update Linux embedder to new semantics flags API
   <sub>[#170497](https://github.com/flutter/flutter/pull/170497) merged on June 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170497) over 5 days, 153 additions and 113 deletions in 6 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro dynamic_path_stroke_tessellation_perf__timeline_summary to be flaky
+  <sub>[#170785](https://github.com/flutter/flutter/pull/170785) merged on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170785) over 1 day, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland lazy path and object arenas
   <sub>[#170303](https://github.com/flutter/flutter/pull/170303) merged on June 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/170303) over 6 days, 1204 additions and 114 deletions in 22 files</sub>
