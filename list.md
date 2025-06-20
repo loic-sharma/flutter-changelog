@@ -862,7 +862,7 @@
 
 ### June 14, 2025 to June 20, 2025
 
-14 commits.
+15 commits.
 
 * **[Jorge Sardina](https://github.com/js2702)** &mdash; [camera_avfoundation] fix race condition when starting image stream on iOS
   <sub>[#8733](https://github.com/flutter/packages/pull/8733) merged on June 16, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8733) over 3 months, 158 additions and 65 deletions in 12 files</sub>
@@ -899,6 +899,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [go_router] Use library prefix for meta
   <sub>[#9434](https://github.com/flutter/packages/pull/9434) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9434) over 5 days, 7 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 5
+  <sub>[#9397](https://github.com/flutter/packages/pull/9397) merged on June 20, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/9397) over 2 weeks, 226 additions and 223 deletions in 6 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Update sype safe routing topic to use mixin from go_router_builder 3.0.0
   <sub>[#9422](https://github.com/flutter/packages/pull/9422) merged on June 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9422) over 5 days, 9 additions and 5 deletions in 3 files</sub>
