@@ -32,7 +32,7 @@
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
-  <sub>[#166291](https://github.com/flutter/flutter/pull/166291) merged on June 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/166291) over 2 months, 62 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#166291](https://github.com/flutter/flutter/pull/166291) merged on June 21, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/166291) over 2 months, 62 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixes deeplinking in uiscenedelegate migrated projects<br />
