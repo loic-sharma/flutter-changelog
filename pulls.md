@@ -119,6 +119,9 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Update `CupertinoPicker` docs<br />
   <sub>[#170960](https://github.com/flutter/flutter/pull/170960) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170960) 3 additions and 7 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in CI  builder linux_android_emulator<br />
+  <sub>[#170964](https://github.com/flutter/flutter/pull/170964) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170964) 0 additions and 63 deletions in 1 file</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in BUILD.gn<br />
   <sub>[#170965](https://github.com/flutter/flutter/pull/170965) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170965) 0 additions and 17 deletions in 1 file</sub><br />
 
