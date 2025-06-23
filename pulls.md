@@ -71,9 +71,6 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable interpretation fallback when unable to JIT on iOS.<br />
   <sub>[#170835](https://github.com/flutter/flutter/pull/170835) opened on on June 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170835) 8 additions and 0 deletions in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Clear background in the GTK layer, instead of OpenGL<br />
-  <sub>[#170840](https://github.com/flutter/flutter/pull/170840) opened on on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170840) 34 additions and 80 deletions in 4 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP] Fix pink images when returning from background on iOS<br />
   <sub>[#170846](https://github.com/flutter/flutter/pull/170846) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170846) 167 additions and 30 deletions in 25 files</sub><br />
 
