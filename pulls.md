@@ -68,9 +68,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP] Fix pink images when returning from background on iOS<br />
   <sub>[#170846](https://github.com/flutter/flutter/pull/170846) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170846) 167 additions and 30 deletions in 25 files</sub><br />
 
-* **[Phantom-101](https://github.com/Phantom-101)** &mdash; Added new version check to flutter --version<br />
-  <sub>[#170851](https://github.com/flutter/flutter/pull/170851) opened on on June 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170851) 270 additions and 4 deletions in 2 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add foreground color for cupertino button<br />
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170898) 145 additions and 4 deletions in 2 files</sub><br />
 
@@ -94,9 +91,6 @@
 
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; feat: Add hintLocales in TextFormField<br />
   <sub>[#170938](https://github.com/flutter/flutter/pull/170938) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170938) 12 additions and 0 deletions in 2 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20<br />
-  <sub>[#170948](https://github.com/flutter/flutter/pull/170948) opened on on June 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) 279 additions and 35 deletions in 19 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Remove temporary workaround for web testing<br />
   <sub>[#170949](https://github.com/flutter/flutter/pull/170949) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170949) 0 additions and 3 deletions in 1 file</sub><br />
@@ -130,4 +124,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Include dev_dependencies in all builds for iOS and macOS<br />
   <sub>[#171015](https://github.com/flutter/flutter/pull/171015) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171015) 32 additions and 17 deletions in 2 files</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove update CHANGELOG step from stable cherry pick process<br />
+  <sub>[#171017](https://github.com/flutter/flutter/pull/171017) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171017) 0 additions and 2 deletions in 1 file</sub><br />
 
