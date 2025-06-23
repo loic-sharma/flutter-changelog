@@ -110,3 +110,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `packages_autoroller` out of the carcass of `conductor`, delete `conductor`<br />
   <sub>[#171029](https://github.com/flutter/flutter/pull/171029) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171029) 107 additions and 178 deletions in 22 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove stale references to `Release-process.md` and `conductor`<br />
+  <sub>[#171046](https://github.com/flutter/flutter/pull/171046) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171046) 3 additions and 85 deletions in 4 files</sub><br />
+
