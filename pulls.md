@@ -95,9 +95,6 @@
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170980) 31 additions and 24 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CP-stable] [ Tool ] Roll DDS 5.0.3 (#170880)<br />
-  <sub>[#171002](https://github.com/flutter/flutter/pull/171002) opened on on June 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171002) 13 additions and 8 deletions in 2 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue with `SliverMainAxisGroups` growing in the reverse direction during layout.<br />
   <sub>[#171005](https://github.com/flutter/flutter/pull/171005) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171005) 50 additions and 5 deletions in 2 files</sub><br />
 
@@ -108,7 +105,7 @@
   <sub>[#171027](https://github.com/flutter/flutter/pull/171027) opened on on June 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171027) 996 additions and 683 deletions in 12 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Diagnosticable, not toString, for IOSSystemContextMenuItemDatas<br />
-  <sub>[#171028](https://github.com/flutter/flutter/pull/171028) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171028) 66 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#171028](https://github.com/flutter/flutter/pull/171028) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171028) 66 additions and 12 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `packages_autoroller` out of the carcass of `conductor`, delete `conductor`<br />
   <sub>[#171029](https://github.com/flutter/flutter/pull/171029) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171029) 84 additions and 151 deletions in 19 files</sub><br />
