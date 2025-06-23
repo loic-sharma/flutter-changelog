@@ -62,9 +62,6 @@
 * **[마카롱](https://github.com/Mkkas3145)** &mdash; Fixed issue #140739<br />
   <sub>[#170798](https://github.com/flutter/flutter/pull/170798) opened on on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170798) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add LLDB warnings<br />
-  <sub>[#170827](https://github.com/flutter/flutter/pull/170827) opened on on June 18, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170827) 368 additions and 79 deletions in 8 files</sub><br />
-
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable interpretation fallback when unable to JIT on iOS.<br />
   <sub>[#170835](https://github.com/flutter/flutter/pull/170835) opened on on June 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170835) 8 additions and 0 deletions in 1 file</sub><br />
 
@@ -120,7 +117,7 @@
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170980) 31 additions and 24 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CP-stable] [ Tool ] Roll DDS 5.0.3 (#170880)<br />
-  <sub>[#171002](https://github.com/flutter/flutter/pull/171002) opened on on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171002) 14 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#171002](https://github.com/flutter/flutter/pull/171002) opened on on June 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171002) 14 additions and 9 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Un-bringup `Linux web_tool_tests`<br />
   <sub>[#171004](https://github.com/flutter/flutter/pull/171004) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171004) 0 additions and 1 deletion in 1 file</sub><br />
@@ -135,5 +132,5 @@
   <sub>[#171008](https://github.com/flutter/flutter/pull/171008) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171008) 21 additions and 4 deletions in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Include dev_dependencies in all builds for iOS and macOS<br />
-  <sub>[#171015](https://github.com/flutter/flutter/pull/171015) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171015) 30 additions and 17 deletions in 2 files</sub><br />
+  <sub>[#171015](https://github.com/flutter/flutter/pull/171015) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171015) 32 additions and 17 deletions in 2 files</sub><br />
 
