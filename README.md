@@ -4,11 +4,15 @@
 
 ### June 21, 2025 to June 27, 2025
 
-13 commits.
+14 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Run pub get post-processing for each package in workspace<br />
   <sub>[#170517](https://github.com/flutter/flutter/pull/170517) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170517) over 1 week, 197 additions and 98 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Make service worker tests more lenient.<br />
+  <sub>[#170939](https://github.com/flutter/flutter/pull/170939) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170939) over 2 days, 21 additions and 14 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Include dev_dependencies in all builds for iOS and macOS<br />
   <sub>[#171015](https://github.com/flutter/flutter/pull/171015) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171015) over 2 hours, 32 additions and 17 deletions in 2 files</sub><br />
@@ -47,7 +51,7 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add `--no-web-resources-cdn` to all web integration tests<br />
-  <sub>[#171013](https://github.com/flutter/flutter/pull/171013) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171013) over 53 minutes, 27 additions and 11 deletions in 12 files</sub><br />
+  <sub>[#171013](https://github.com/flutter/flutter/pull/171013) merged on June 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171013) over 53 minutes, 27 additions and 11 deletions in 12 files</sub><br />
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Nate Biggs](https://github.com/biggs0125)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dds 5.0.4<br />
