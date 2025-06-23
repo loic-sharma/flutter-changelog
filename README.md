@@ -595,7 +595,11 @@
 
 ### June 21, 2025 to June 27, 2025
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs - Platform Implementations<br />
+  <sub>[#9479](https://github.com/flutter/packages/pull/9479) merged on June 23, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/9479) over 4 hours, 6954 additions and 5093 deletions in 56 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs - Platform Interface<br />
   <sub>[#9454](https://github.com/flutter/packages/pull/9454) merged on June 23, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9454) over 4 days, 541 additions and 550 deletions in 9 files</sub><br />
