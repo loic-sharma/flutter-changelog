@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 21, 2025 to June 27, 2025
+
+1 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited
+  <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 ### June 14, 2025 to June 20, 2025
 
-54 commits.
+<details>
+<summary>54 commits...</summary>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update default `selectionHeightStyle` and `selectionWidthStyle` for `EditableText`
   <sub>[#167762](https://github.com/flutter/flutter/pull/167762) merged on June 16, 2025 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/167762) over 1 month, 253 additions and 47 deletions in 14 files</sub>
@@ -222,6 +231,8 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reland "[native assets] Build dev dependencies in `flutter test integration_test`"
   <sub>[#170686](https://github.com/flutter/flutter/pull/170686) merged on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170686) over 3 hours, 132 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+</details>
 
 ### June 7, 2025 to June 13, 2025
 
