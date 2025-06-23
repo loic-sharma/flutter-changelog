@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-14 commits.
+15 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Run pub get post-processing for each package in workspace<br />
   <sub>[#170517](https://github.com/flutter/flutter/pull/170517) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170517) over 1 week, 197 additions and 98 deletions in 7 files</sub><br />
@@ -45,6 +45,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20<br />
   <sub>[#170948](https://github.com/flutter/flutter/pull/170948) merged on June 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) over 2 days, 279 additions and 35 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Pass font scanner to font mgr that need it<br />
+  <sub>[#170701](https://github.com/flutter/flutter/pull/170701) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170701) over 1 week, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Enhance Text Contrast for WCAG AAA Compliance<br />
   <sub>[#170758](https://github.com/flutter/flutter/pull/170758) merged on June 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/170758) over 5 days, 117 additions and 0 deletions in 2 files</sub><br />
