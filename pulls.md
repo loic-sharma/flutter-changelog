@@ -113,3 +113,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `packages_autoroller` out of the carcass of `conductor`, delete `conductor`<br />
   <sub>[#171029](https://github.com/flutter/flutter/pull/171029) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171029) 84 additions and 151 deletions in 19 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP] Include dev_dependencies in all builds for iOS and macOS (#171015)<br />
+  <sub>[#171034](https://github.com/flutter/flutter/pull/171034) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171034) 31 additions and 17 deletions in 2 files</sub><br />
+
