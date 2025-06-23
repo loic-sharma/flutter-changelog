@@ -125,6 +125,6 @@
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170980) 31 additions and 24 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll DDS 5.0.3 (#170880)<br />
-  <sub>[#171002](https://github.com/flutter/flutter/pull/171002) opened on on June 23, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171002) 3112 additions and 1167 deletions in 120 files</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CP-stable] [ Tool ] Roll DDS 5.0.3 (#170880)<br />
+  <sub>[#171002](https://github.com/flutter/flutter/pull/171002) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171002) 14 additions and 9 deletions in 2 files</sub><br />
 
