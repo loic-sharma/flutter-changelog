@@ -89,9 +89,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in CI  builder linux_android_emulator<br />
   <sub>[#170964](https://github.com/flutter/flutter/pull/170964) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170964) 0 additions and 63 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in BUILD.gn<br />
-  <sub>[#170965](https://github.com/flutter/flutter/pull/170965) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170965) 0 additions and 17 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in flutter_gdb<br />
   <sub>[#170966](https://github.com/flutter/flutter/pull/170966) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170966) 1 addition and 3 deletions in 1 file</sub><br />
 
@@ -113,6 +110,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove update CHANGELOG step from stable cherry pick process<br />
   <sub>[#171017](https://github.com/flutter/flutter/pull/171017) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171017) 0 additions and 2 deletions in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `web_long_running_tests_{1,5}_5` to `bringup`.<br />
-  <sub>[#171026](https://github.com/flutter/flutter/pull/171026) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171026) 2 additions and 0 deletions in 1 file</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files<br />
+  <sub>[#171027](https://github.com/flutter/flutter/pull/171027) opened on on June 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171027) 991 additions and 678 deletions in 11 files</sub><br />
 
