@@ -44,9 +44,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move android_obfuscate_test from devicelab into tools integration.shard<br />
   <sub>[#169798](https://github.com/flutter/flutter/pull/169798) opened on on May 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169798) 118 additions and 123 deletions in 4 files</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [DO NOT SUBMIT] Adding logs in DDC library bundle format to debug timeouts<br />
-  <sub>[#169818](https://github.com/flutter/flutter/pull/169818) opened on on May 31, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/169818) 2343 additions and 4 deletions in 7 files</sub><br />
-
 * **[dogaozyagci](https://github.com/dogaozyagci)** &mdash; fix(cupertino): adjust CupertinoCheckbox padding on macOS<br />
   <sub>[#170063](https://github.com/flutter/flutter/pull/170063) opened on on June 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170063) 38 additions and 34 deletions in 1 file</sub><br />
 
@@ -79,9 +76,6 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add foreground color for cupertino button<br />
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170898) 145 additions and 4 deletions in 2 files</sub><br />
-
-* **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Service worker removal<br />
-  <sub>[#170918](https://github.com/flutter/flutter/pull/170918) opened on on June 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/170918) 237 additions and 1006 deletions in 4 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Change RawScrollbar padding from EdgeInsets to EdgeInsetsGeometry<br />
   <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170927) 73 additions and 2 deletions in 2 files</sub><br />
