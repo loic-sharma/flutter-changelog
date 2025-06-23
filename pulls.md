@@ -104,9 +104,6 @@
 * **[Luca Antonelli](https://github.com/lucaantonelli)** &mdash; Fix interpolation error in Discrete Sliders value<br />
   <sub>[#171008](https://github.com/flutter/flutter/pull/171008) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171008) 21 additions and 4 deletions in 3 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Include dev_dependencies in all builds for iOS and macOS<br />
-  <sub>[#171015](https://github.com/flutter/flutter/pull/171015) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171015) 32 additions and 17 deletions in 2 files</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove update CHANGELOG step from stable cherry pick process<br />
   <sub>[#171017](https://github.com/flutter/flutter/pull/171017) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171017) 0 additions and 2 deletions in 1 file</sub><br />
 
