@@ -56,9 +56,6 @@
 * **[마카롱](https://github.com/Mkkas3145)** &mdash; Fixed issue #140739<br />
   <sub>[#170798](https://github.com/flutter/flutter/pull/170798) opened on on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170798) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable interpretation fallback when unable to JIT on iOS.<br />
-  <sub>[#170835](https://github.com/flutter/flutter/pull/170835) opened on on June 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170835) 8 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add foreground color for cupertino button<br />
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170898) 145 additions and 4 deletions in 2 files</sub><br />
 
