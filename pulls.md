@@ -80,6 +80,9 @@
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; feat: Add hintLocales in TextFormField<br />
   <sub>[#170938](https://github.com/flutter/flutter/pull/170938) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170938) 12 additions and 0 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Make service worker tests more lenient.<br />
+  <sub>[#170939](https://github.com/flutter/flutter/pull/170939) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170939) 21 additions and 14 deletions in 1 file</sub><br />
+
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Remove temporary workaround for web testing<br />
   <sub>[#170949](https://github.com/flutter/flutter/pull/170949) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170949) 0 additions and 3 deletions in 1 file</sub><br />
 
