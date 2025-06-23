@@ -35,6 +35,10 @@
   <sub>[#170767](https://github.com/flutter/flutter/pull/170767) merged on June 18, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/170767) over 20 hours, 333 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Show window on first frame on Linux<br />
+  <sub>[#170844](https://github.com/flutter/flutter/pull/170844) merged on June 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170844) over 4 days, 11 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
 * **[YU-KI Hidea](https://github.com/hidea)** &mdash; Fix the Japanese IME problem on macOS reported in the following issue.<br />
   <sub>[#166291](https://github.com/flutter/flutter/pull/166291) merged on June 21, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/166291) over 2 months, 62 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
@@ -51,17 +55,13 @@
   <sub>[#170077](https://github.com/flutter/flutter/pull/170077) merged on June 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170077) over 1 week, 23 additions and 20 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Show window on first frame on Linux<br />
-  <sub>[#170844](https://github.com/flutter/flutter/pull/170844) merged on June 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170844) over 4 days, 11 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update didUnmountRenderObject text description<br />
+  <sub>[#169628](https://github.com/flutter/flutter/pull/169628) merged on June 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169628) over 2 weeks, 4 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[greyovo](https://github.com/greyovo)** &mdash; Fix dragging scrollbar down causes unexpected behavior when scrollable has a negative minScrollExtent<br />
   <sub>[#170331](https://github.com/flutter/flutter/pull/170331) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170331) over 6 days, 50 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update didUnmountRenderObject text description<br />
-  <sub>[#169628](https://github.com/flutter/flutter/pull/169628) merged on June 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/169628) over 2 weeks, 4 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoPicker` new onChanged behaviour<br />
   <sub>[#170202](https://github.com/flutter/flutter/pull/170202) merged on June 18, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170202) over 1 week, 162 additions and 11 deletions in 4 files</sub><br />
