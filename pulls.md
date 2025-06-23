@@ -75,7 +75,7 @@
   <sub>[#170846](https://github.com/flutter/flutter/pull/170846) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170846) 167 additions and 30 deletions in 25 files</sub><br />
 
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Added new version check to flutter --version<br />
-  <sub>[#170851](https://github.com/flutter/flutter/pull/170851) opened on on June 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170851) 270 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#170851](https://github.com/flutter/flutter/pull/170851) opened on on June 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170851) 270 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add foreground color for cupertino button<br />
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170898) 145 additions and 4 deletions in 2 files</sub><br />
