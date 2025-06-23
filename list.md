@@ -4,11 +4,15 @@
 
 ### June 21, 2025 to June 27, 2025
 
-3 commits.
+4 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Run pub get post-processing for each package in workspace
   <sub>[#170517](https://github.com/flutter/flutter/pull/170517) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170517) over 1 week, 197 additions and 98 deletions in 7 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Un-bringup `Linux web_tool_tests`
+  <sub>[#171004](https://github.com/flutter/flutter/pull/171004) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171004) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited
   <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub>
@@ -541,9 +545,18 @@
 
 ## flutter/packages
 
+### June 21, 2025 to June 27, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs - Platform Interface
+  <sub>[#9454](https://github.com/flutter/packages/pull/9454) merged on June 23, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9454) over 4 days, 541 additions and 550 deletions in 9 files</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### June 14, 2025 to June 20, 2025
 
-18 commits.
+<details>
+<summary>18 commits...</summary>
 
 * **[Jorge Sardina](https://github.com/js2702)** &mdash; [camera_avfoundation] fix race condition when starting image stream on iOS
   <sub>[#8733](https://github.com/flutter/packages/pull/8733) merged on June 16, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8733) over 3 months, 158 additions and 65 deletions in 12 files</sub>
@@ -616,6 +629,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from b25305a8832c to 6fba2447e95c (11 revisions)
   <sub>[#9435](https://github.com/flutter/packages/pull/9435) merged on June 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9435) over 6 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### June 7, 2025 to June 13, 2025
 
