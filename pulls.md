@@ -113,3 +113,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove update CHANGELOG step from stable cherry pick process<br />
   <sub>[#171017](https://github.com/flutter/flutter/pull/171017) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171017) 0 additions and 2 deletions in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `web_long_running_tests_{1,5}_5` to `bringup`.<br />
+  <sub>[#171026](https://github.com/flutter/flutter/pull/171026) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171026) 2 additions and 0 deletions in 1 file</sub><br />
+
