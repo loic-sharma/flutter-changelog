@@ -7,7 +7,7 @@
 3 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Run pub get post-processing for each package in workspace<br />
-  <sub>[#170517](https://github.com/flutter/flutter/pull/170517) merged on June 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170517) over 1 week, 197 additions and 98 deletions in 7 files</sub><br />
+  <sub>[#170517](https://github.com/flutter/flutter/pull/170517) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170517) over 1 week, 197 additions and 98 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited<br />
