@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-6 commits.
+7 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Run pub get post-processing for each package in workspace
   <sub>[#170517](https://github.com/flutter/flutter/pull/170517) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170517) over 1 week, 197 additions and 98 deletions in 7 files</sub>
@@ -25,6 +25,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20
   <sub>[#170948](https://github.com/flutter/flutter/pull/170948) merged on June 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) over 2 days, 279 additions and 35 deletions in 19 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dds 5.0.4
+  <sub>[#171007](https://github.com/flutter/flutter/pull/171007) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171007) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland: Fix InputDecoration.floatingLabelBehavior is not inherited
   <sub>[#170995](https://github.com/flutter/flutter/pull/170995) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170995) over 46 minutes, 38 additions and 25 deletions in 2 files</sub>
