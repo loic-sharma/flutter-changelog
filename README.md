@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-2 commits.
+3 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Run pub get post-processing for each package in workspace<br />
   <sub>[#170517](https://github.com/flutter/flutter/pull/170517) merged on June 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170517) over 1 week, 197 additions and 98 deletions in 7 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited<br />
   <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland: Fix InputDecoration.floatingLabelBehavior is not inherited<br />
+  <sub>[#170995](https://github.com/flutter/flutter/pull/170995) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170995) over 46 minutes, 38 additions and 25 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kostia Sokolovskyi](https://github.com/ksokolovskyi)</sub><br />
 
 ### June 14, 2025 to June 20, 2025
 
