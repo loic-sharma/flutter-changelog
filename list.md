@@ -4,11 +4,15 @@
 
 ### June 21, 2025 to June 27, 2025
 
-5 commits.
+6 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Run pub get post-processing for each package in workspace
   <sub>[#170517](https://github.com/flutter/flutter/pull/170517) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170517) over 1 week, 197 additions and 98 deletions in 7 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Docs to Warn Users Edge-To-Edge opt out is being deprecated for Android 16+ (API 36+)
+  <sub>[#170816](https://github.com/flutter/flutter/pull/170816) merged on June 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170816) over 4 days, 43 additions and 12 deletions in 2 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Un-bringup `Linux web_tool_tests`
   <sub>[#171004](https://github.com/flutter/flutter/pull/171004) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171004) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
@@ -551,11 +555,15 @@
 
 ### June 21, 2025 to June 27, 2025
 
-1 commits.
+2 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs - Platform Interface
   <sub>[#9454](https://github.com/flutter/packages/pull/9454) merged on June 23, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9454) over 4 days, 541 additions and 550 deletions in 9 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Skip case sensitive test
+  <sub>[#9444](https://github.com/flutter/packages/pull/9444) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9444) over 5 days, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 ### June 14, 2025 to June 20, 2025
 
