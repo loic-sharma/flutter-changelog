@@ -113,7 +113,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll DDS 5.0.3<br />
-  <sub>[#170880](https://github.com/flutter/flutter/pull/170880) merged on June 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170880) over 2 hours, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#170880](https://github.com/flutter/flutter/pull/170880) merged on June 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170880) over 2 hours, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[jcheng](https://github.com/StanleyCocos)** &mdash; feat: Add radius to DividerThemeData.<br />
