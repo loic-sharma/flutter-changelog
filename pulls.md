@@ -53,9 +53,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Posix: Use `aot-snapshot` if `FLUTTER_TOOLS_USE_AOT_SNAPSHOT=1`<br />
   <sub>[#170488](https://github.com/flutter/flutter/pull/170488) opened on on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170488) 36 additions and 4 deletions in 2 files</sub><br />
 
-* **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
-  <sub>[#170635](https://github.com/flutter/flutter/pull/170635) opened on on June 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170635) 40 additions and 5 deletions in 3 files</sub><br />
-
 * **[bungeman](https://github.com/bungeman)** &mdash; Pass font scanner to font mgr that need it<br />
   <sub>[#170701](https://github.com/flutter/flutter/pull/170701) opened on on June 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170701) 3 additions and 1 deletion in 1 file</sub><br />
 
