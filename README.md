@@ -24,13 +24,13 @@
   <sub>[#168293](https://github.com/flutter/flutter/pull/168293) merged on June 16, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/168293) over 1 month, 200 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
-  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) merged on June 17, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/169245) over 3 weeks, 526 additions and 0 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Huy](https://github.com/huycozy)** &mdash; Normalize AppBarTheme<br />
   <sub>[#169130](https://github.com/flutter/flutter/pull/169130) merged on June 20, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/169130) over 1 month, 691 additions and 152 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[ash2moon](https://github.com/ash2moon)** &mdash; add run_gradle_lock_files_check.dart for new PR's that modify gradle files<br />
+  <sub>[#169245](https://github.com/flutter/flutter/pull/169245) merged on June 17, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/169245) over 3 weeks, 526 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Normalize input decoration theme<br />
   <sub>[#168981](https://github.com/flutter/flutter/pull/168981) merged on June 21, 2025 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/168981) over 1 month, 1424 additions and 262 deletions in 27 files</sub><br />
