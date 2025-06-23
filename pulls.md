@@ -33,7 +33,7 @@
   <sub>[#168912](https://github.com/flutter/flutter/pull/168912) opened on on May 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168912) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
-  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169034) 66 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
 
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Layout Widgets for Dynamic UI Support<br />
   <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
@@ -130,4 +130,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dds 5.0.4<br />
   <sub>[#171007](https://github.com/flutter/flutter/pull/171007) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171007) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Luca Antonelli](https://github.com/lucaantonelli)** &mdash; Fix interpolation error in Discrete Sliders value<br />
+  <sub>[#171008](https://github.com/flutter/flutter/pull/171008) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171008) 21 additions and 4 deletions in 3 files</sub><br />
 
