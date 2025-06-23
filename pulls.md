@@ -72,7 +72,7 @@
   <sub>[#170846](https://github.com/flutter/flutter/pull/170846) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170846) 167 additions and 30 deletions in 25 files</sub><br />
 
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Added new version check to flutter --version<br />
-  <sub>[#170851](https://github.com/flutter/flutter/pull/170851) opened on on June 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170851) 270 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#170851](https://github.com/flutter/flutter/pull/170851) opened on on June 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170851) 270 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add foreground color for cupertino button<br />
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170898) 145 additions and 4 deletions in 2 files</sub><br />
@@ -129,7 +129,7 @@
   <sub>[#171005](https://github.com/flutter/flutter/pull/171005) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171005) 50 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dds 5.0.4<br />
-  <sub>[#171007](https://github.com/flutter/flutter/pull/171007) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171007) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#171007](https://github.com/flutter/flutter/pull/171007) opened on on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171007) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Luca Antonelli](https://github.com/lucaantonelli)** &mdash; Fix interpolation error in Discrete Sliders value<br />
   <sub>[#171008](https://github.com/flutter/flutter/pull/171008) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171008) 21 additions and 4 deletions in 3 files</sub><br />
