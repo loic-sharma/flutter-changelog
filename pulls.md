@@ -80,9 +80,6 @@
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; feat: Add hintLocales in TextFormField<br />
   <sub>[#170938](https://github.com/flutter/flutter/pull/170938) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170938) 12 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Make service worker tests more lenient.<br />
-  <sub>[#170939](https://github.com/flutter/flutter/pull/170939) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170939) 21 additions and 14 deletions in 1 file</sub><br />
-
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Remove temporary workaround for web testing<br />
   <sub>[#170949](https://github.com/flutter/flutter/pull/170949) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170949) 0 additions and 3 deletions in 1 file</sub><br />
 
@@ -99,7 +96,7 @@
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170980) 31 additions and 24 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CP-stable] [ Tool ] Roll DDS 5.0.3 (#170880)<br />
-  <sub>[#171002](https://github.com/flutter/flutter/pull/171002) opened on on June 23, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/171002) 13 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#171002](https://github.com/flutter/flutter/pull/171002) opened on on June 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171002) 13 additions and 8 deletions in 2 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue with `SliverMainAxisGroups` growing in the reverse direction during layout.<br />
   <sub>[#171005](https://github.com/flutter/flutter/pull/171005) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171005) 50 additions and 5 deletions in 2 files</sub><br />
