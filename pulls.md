@@ -120,7 +120,7 @@
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170980) 31 additions and 24 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CP-stable] [ Tool ] Roll DDS 5.0.3 (#170880)<br />
-  <sub>[#171002](https://github.com/flutter/flutter/pull/171002) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171002) 14 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#171002](https://github.com/flutter/flutter/pull/171002) opened on on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171002) 14 additions and 9 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Un-bringup `Linux web_tool_tests`<br />
   <sub>[#171004](https://github.com/flutter/flutter/pull/171004) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171004) 0 additions and 1 deletion in 1 file</sub><br />
