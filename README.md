@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-28 commits.
+29 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks<br />
   <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub><br />
@@ -90,6 +90,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20<br />
   <sub>[#170948](https://github.com/flutter/flutter/pull/170948) merged on June 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) over 2 days, 279 additions and 35 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Migrate DAP off `ProcessUtils.writelnToStdinUnsafe`<br />
+  <sub>[#171081](https://github.com/flutter/flutter/pull/171081) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171081) over 3 hours, 65 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Remove temporary workaround for web testing<br />
   <sub>[#170949](https://github.com/flutter/flutter/pull/170949) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170949) over 3 days, 1 addition and 3 deletions in 2 files</sub><br />
