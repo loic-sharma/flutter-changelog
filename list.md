@@ -4,11 +4,16 @@
 
 ### June 21, 2025 to June 27, 2025
 
-20 commits.
+21 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Don't strip symbols from `libapp.so` on android by default
   <sub>[#162464](https://github.com/flutter/flutter/pull/162464) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162464) over 4 months, 39 additions and 22 deletions in 7 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Slava Egorov](https://github.com/mraleph), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; When maintainHintSize is false, hint is centered and aligned, it is different from the original one
+  <sub>[#168654](https://github.com/flutter/flutter/pull/168654) merged on June 24, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/168654) over 1 month, 44 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
+  <sub><details><summary>2 images...</summary><img width="416" alt="b" src="https://github.com/user-attachments/assets/fe58c2d0-4d37-4bca-aabc-0f7d4785fb2a" /><img width="415" alt="a" src="https://github.com/user-attachments/assets/096fd83a-9d8f-4cb7-be1d-c3075acbfdc0" /></details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate DropdownButtonFormField "value" parameter in favor of "initialValue"
   <sub>[#170805](https://github.com/flutter/flutter/pull/170805) merged on June 24, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/170805) over 5 days, 227 additions and 120 deletions in 7 files</sub>
