@@ -4,7 +4,11 @@
 
 ### June 21, 2025 to June 27, 2025
 
-25 commits.
+26 commits.
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks<br />
+  <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Don't strip symbols from `libapp.so` on android by default<br />
   <sub>[#162464](https://github.com/flutter/flutter/pull/162464) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162464) over 4 months, 39 additions and 22 deletions in 7 files</sub><br />
