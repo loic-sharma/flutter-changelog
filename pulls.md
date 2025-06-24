@@ -65,9 +65,6 @@
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Change RawScrollbar padding from EdgeInsets to EdgeInsetsGeometry<br />
   <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170927) 73 additions and 2 deletions in 2 files</sub><br />
 
-* **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix RenderParagraph textAlign setter to call markNeedsLayout<br />
-  <sub>[#170928](https://github.com/flutter/flutter/pull/170928) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170928) 21 additions and 4 deletions in 2 files</sub><br />
-
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix TreeSliver null check assertion on rapid toggling<br />
   <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
 
@@ -123,7 +120,7 @@
   <sub>[#171076](https://github.com/flutter/flutter/pull/171076) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) 90 additions and 90 deletions in 11 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun24<br />
-  <sub>[#171088](https://github.com/flutter/flutter/pull/171088) opened on on June 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171088) 9001 additions and 87 deletions in 71 files</sub><br />
+  <sub>[#171088](https://github.com/flutter/flutter/pull/171088) opened on on June 24, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171088) 9001 additions and 87 deletions in 71 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Move `web_long_running_tests_{1,5}_5` to `bringup`."<br />
   <sub>[#171100](https://github.com/flutter/flutter/pull/171100) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171100) 0 additions and 2 deletions in 1 file</sub><br />
