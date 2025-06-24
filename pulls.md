@@ -102,7 +102,7 @@
   <sub>[#171046](https://github.com/flutter/flutter/pull/171046) opened on on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171046) 3 additions and 85 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun23<br />
-  <sub>[#171047](https://github.com/flutter/flutter/pull/171047) opened on on June 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171047) 8750 additions and 71 deletions in 22 files</sub><br />
+  <sub>[#171047](https://github.com/flutter/flutter/pull/171047) opened on on June 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171047) 8751 additions and 71 deletions in 23 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update Setting-up-the-Engine-development-environment.md<br />
   <sub>[#171051](https://github.com/flutter/flutter/pull/171051) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171051) 1 addition and 1 deletion in 1 file</sub><br />
@@ -112,4 +112,7 @@
 
 * **[Luca Antonelli](https://github.com/lucaantonelli)** &mdash; Fix interpolation error using Discrete Sliders<br />
   <sub>[#171067](https://github.com/flutter/flutter/pull/171067) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171067) 148 additions and 3 deletions in 6 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 14 or 15<br />
+  <sub>[#171076](https://github.com/flutter/flutter/pull/171076) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) 90 additions and 90 deletions in 11 files</sub><br />
 
