@@ -113,3 +113,6 @@
 * **[Torikul Islam Topu](https://github.com/iamtoricool)** &mdash; feat: Add `maxCount` parameter to `Badge.count` constructor.<br />
   <sub>[#171054](https://github.com/flutter/flutter/pull/171054) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171054) 12 additions and 9 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing M3 tests for InputDecoration.isDense<br />
+  <sub>[#171058](https://github.com/flutter/flutter/pull/171058) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171058) 82 additions and 0 deletions in 1 file</sub><br />
+
