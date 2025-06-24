@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-17 commits.
+18 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Don't strip symbols from `libapp.so` on android by default
   <sub>[#162464](https://github.com/flutter/flutter/pull/162464) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162464) over 4 months, 39 additions and 22 deletions in 7 files</sub>
@@ -33,6 +33,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited
   <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Flutter test cleanup
+  <sub>[#170891](https://github.com/flutter/flutter/pull/170891) merged on June 24, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/170891) over 4 days, 58 additions and 164 deletions in 13 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; rename from announce to supportsAnnounce on engine
   <sub>[#170618](https://github.com/flutter/flutter/pull/170618) merged on June 23, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170618) over 1 week, 43 additions and 35 deletions in 5 files</sub>
