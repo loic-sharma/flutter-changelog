@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-31 commits.
+32 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks
   <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub>
@@ -62,6 +62,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited
   <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add android-reviewers to CODEOWNERS
+  <sub>[#170157](https://github.com/flutter/flutter/pull/170157) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170157) over 2 weeks, 11 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update FormField.initialValue documentation
   <sub>[#171061](https://github.com/flutter/flutter/pull/171061) merged on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171061) over 3 hours, 0 additions and 3 deletions in 1 file</sub>
