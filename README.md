@@ -610,7 +610,7 @@
 4 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Fix routing to treat URLs with different cases (e.g., `/Home` vs `/home`) as distinct routes.<br />
-  <sub>[#9426](https://github.com/flutter/packages/pull/9426) merged on June 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9426) over 1 week, 87 additions and 34 deletions in 9 files</sub><br />
+  <sub>[#9426](https://github.com/flutter/packages/pull/9426) merged on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9426) over 1 week, 87 additions and 34 deletions in 9 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs - Platform Implementations<br />
@@ -622,7 +622,7 @@
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Skip case sensitive test<br />
-  <sub>[#9444](https://github.com/flutter/packages/pull/9444) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9444) over 5 days, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#9444](https://github.com/flutter/packages/pull/9444) merged on June 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9444) over 5 days, 3 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 ### June 14, 2025 to June 20, 2025
