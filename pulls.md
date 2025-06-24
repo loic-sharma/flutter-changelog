@@ -84,7 +84,7 @@
   <sub>[#170938](https://github.com/flutter/flutter/pull/170938) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170938) 12 additions and 0 deletions in 2 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; No Keys for tests?<br />
-  <sub>[#170952](https://github.com/flutter/flutter/pull/170952) opened on on June 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170952) 24 additions and 33 deletions in 6 files</sub><br />
+  <sub>[#170952](https://github.com/flutter/flutter/pull/170952) opened on on June 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170952) 24 additions and 41 deletions in 6 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Update `CupertinoPicker` docs<br />
   <sub>[#170960](https://github.com/flutter/flutter/pull/170960) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170960) 3 additions and 7 deletions in 1 file</sub><br />
@@ -127,4 +127,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Move `web_long_running_tests_{1,5}_5` to `bringup`."<br />
   <sub>[#171100](https://github.com/flutter/flutter/pull/171100) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171100) 0 additions and 2 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Re-split hot reload error and hot restart tests (#170368)"<br />
+  <sub>[#171103](https://github.com/flutter/flutter/pull/171103) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171103) 3 additions and 10 deletions in 1 file</sub><br />
 
