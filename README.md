@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-21 commits.
+22 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Don't strip symbols from `libapp.so` on android by default<br />
   <sub>[#162464](https://github.com/flutter/flutter/pull/162464) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162464) over 4 months, 39 additions and 22 deletions in 7 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited<br />
   <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update FormField.initialValue documentation<br />
+  <sub>[#171061](https://github.com/flutter/flutter/pull/171061) merged on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171061) over 3 hours, 0 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Kostia Sokolovskyi](https://github.com/ksokolovskyi)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Flutter test cleanup<br />
   <sub>[#170891](https://github.com/flutter/flutter/pull/170891) merged on June 24, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/170891) over 4 days, 58 additions and 164 deletions in 13 files</sub><br />

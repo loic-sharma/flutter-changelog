@@ -113,9 +113,6 @@
 * **[Torikul Islam Topu](https://github.com/iamtoricool)** &mdash; feat: Add `maxCount` parameter to `Badge.count` constructor.<br />
   <sub>[#171054](https://github.com/flutter/flutter/pull/171054) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171054) 12 additions and 9 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update FormField.initialValue documentation<br />
-  <sub>[#171061](https://github.com/flutter/flutter/pull/171061) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171061) 0 additions and 3 deletions in 1 file</sub><br />
-
 * **[Luca Antonelli](https://github.com/lucaantonelli)** &mdash; Fix interpolation error using Discrete Sliders<br />
   <sub>[#171067](https://github.com/flutter/flutter/pull/171067) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171067) 148 additions and 3 deletions in 6 files</sub><br />
 
