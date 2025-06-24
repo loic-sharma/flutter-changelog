@@ -84,7 +84,7 @@
   <sub>[#170938](https://github.com/flutter/flutter/pull/170938) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170938) 12 additions and 0 deletions in 2 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; No Keys for tests?<br />
-  <sub>[#170952](https://github.com/flutter/flutter/pull/170952) opened on on June 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170952) 8 additions and 21 deletions in 4 files</sub><br />
+  <sub>[#170952](https://github.com/flutter/flutter/pull/170952) opened on on June 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170952) 24 additions and 33 deletions in 6 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Update `CupertinoPicker` docs<br />
   <sub>[#170960](https://github.com/flutter/flutter/pull/170960) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170960) 3 additions and 7 deletions in 1 file</sub><br />
@@ -125,6 +125,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun24<br />
   <sub>[#171088](https://github.com/flutter/flutter/pull/171088) opened on on June 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171088) 8962 additions and 86 deletions in 70 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update changelog for 3.32.5<br />
-  <sub>[#171098](https://github.com/flutter/flutter/pull/171098) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171098) 2 additions and 0 deletions in 1 file</sub><br />
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Move `web_long_running_tests_{1,5}_5` to `bringup`."<br />
+  <sub>[#171100](https://github.com/flutter/flutter/pull/171100) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171100) 0 additions and 2 deletions in 1 file</sub><br />
 
