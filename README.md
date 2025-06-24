@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-27 commits.
+28 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks<br />
   <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub><br />
@@ -22,6 +22,10 @@
   <sub>[#168654](https://github.com/flutter/flutter/pull/168654) merged on June 24, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/168654) over 1 month, 44 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
   <sub><details><summary>2 images...</summary><img width="416" alt="b" src="https://github.com/user-attachments/assets/fe58c2d0-4d37-4bca-aabc-0f7d4785fb2a" /><img width="415" alt="a" src="https://github.com/user-attachments/assets/096fd83a-9d8f-4cb7-be1d-c3075acbfdc0" /></details></sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] More granular configuration of the test environment<br />
+  <sub>[#168767](https://github.com/flutter/flutter/pull/168767) merged on June 24, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/168767) over 1 month, 189 additions and 157 deletions in 32 files</sub><br />
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Support wide gamut colors when applying a DlColor to an SkPaint<br />
   <sub>[#170613](https://github.com/flutter/flutter/pull/170613) merged on June 24, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/170613) over 1 week, 93 additions and 29 deletions in 12 files</sub><br />
