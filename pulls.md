@@ -113,3 +113,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update Setting-up-the-Engine-development-environment.md<br />
   <sub>[#171051](https://github.com/flutter/flutter/pull/171051) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171051) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Torikul Islam Topu](https://github.com/iamtoricool)** &mdash; feat: Add `maxCount` parameter to `Badge.count` constructor.<br />
+  <sub>[#171054](https://github.com/flutter/flutter/pull/171054) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171054) 12 additions and 9 deletions in 1 file</sub><br />
+
