@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-26 commits.
+27 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks
   <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub>
@@ -13,6 +13,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Don't strip symbols from `libapp.so` on android by default
   <sub>[#162464](https://github.com/flutter/flutter/pull/162464) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162464) over 4 months, 39 additions and 22 deletions in 7 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Slava Egorov](https://github.com/mraleph), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Clean up Devfs_Web into separate files
+  <sub>[#170769](https://github.com/flutter/flutter/pull/170769) merged on June 24, 2025 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/170769) over 6 days, 1027 additions and 937 deletions in 10 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; When maintainHintSize is false, hint is centered and aligned, it is different from the original one
   <sub>[#168654](https://github.com/flutter/flutter/pull/168654) merged on June 24, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/168654) over 1 month, 44 additions and 0 deletions in 2 files</sub>
@@ -636,11 +640,15 @@
 
 ### June 21, 2025 to June 27, 2025
 
-6 commits.
+7 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs
   <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Force new `Surface` for each `SurfaceRequest`
+  <sub>[#9360](https://github.com/flutter/packages/pull/9360) merged on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9360) over 3 weeks, 9 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Fix routing to treat URLs with different cases (e.g., `/Home` vs `/home`) as distinct routes.
   <sub>[#9426](https://github.com/flutter/packages/pull/9426) merged on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9426) over 1 week, 87 additions and 34 deletions in 9 files</sub>
