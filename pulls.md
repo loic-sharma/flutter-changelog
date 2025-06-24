@@ -129,5 +129,5 @@
   <sub>[#171106](https://github.com/flutter/flutter/pull/171106) opened on on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171106) 125 additions and 120 deletions in 2 files</sub><br />
 
 * **[Arindam Karmakar](https://github.com/k-arindam)** &mdash; Add `automaticallyImplyActions` property to AppBar<br />
-  <sub>[#171113](https://github.com/flutter/flutter/pull/171113) opened on on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171113) 34 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#171113](https://github.com/flutter/flutter/pull/171113) opened on on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171113) 34 additions and 1 deletion in 1 file</sub><br />
 
