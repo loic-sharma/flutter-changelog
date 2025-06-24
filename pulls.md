@@ -108,7 +108,7 @@
   <sub>[#171046](https://github.com/flutter/flutter/pull/171046) opened on on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171046) 3 additions and 85 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun23<br />
-  <sub>[#171047](https://github.com/flutter/flutter/pull/171047) opened on on June 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171047) 8753 additions and 72 deletions in 25 files</sub><br />
+  <sub>[#171047](https://github.com/flutter/flutter/pull/171047) opened on on June 23, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171047) 8753 additions and 72 deletions in 25 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update Setting-up-the-Engine-development-environment.md<br />
   <sub>[#171051](https://github.com/flutter/flutter/pull/171051) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171051) 1 addition and 1 deletion in 1 file</sub><br />

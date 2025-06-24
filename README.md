@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-30 commits.
+31 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks<br />
   <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub><br />
@@ -90,6 +90,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20<br />
   <sub>[#170948](https://github.com/flutter/flutter/pull/170948) merged on June 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) over 2 days, 279 additions and 35 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update tool/README.md regarding locally-built engine<br />
+  <sub>[#171102](https://github.com/flutter/flutter/pull/171102) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171102) over 1 hour, 8 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Align the PR triage process with the ecosystem's triage flow<br />
   <sub>[#171086](https://github.com/flutter/flutter/pull/171086) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171086) over 3 hours, 5 additions and 1 deletion in 1 file</sub><br />
