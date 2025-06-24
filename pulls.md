@@ -96,7 +96,7 @@
   <sub>[#171005](https://github.com/flutter/flutter/pull/171005) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171005) 50 additions and 5 deletions in 2 files</sub><br />
 
 * **[Luca Antonelli](https://github.com/lucaantonelli)** &mdash; Fix interpolation error in Discrete Sliders value<br />
-  <sub>[#171008](https://github.com/flutter/flutter/pull/171008) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171008) 23 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#171008](https://github.com/flutter/flutter/pull/171008) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171008) 22 additions and 4 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files<br />
   <sub>[#171027](https://github.com/flutter/flutter/pull/171027) opened on on June 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171027) 996 additions and 683 deletions in 12 files</sub><br />
