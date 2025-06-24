@@ -624,7 +624,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs<br />
   <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub><br />
@@ -641,6 +641,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs - Platform Interface<br />
   <sub>[#9454](https://github.com/flutter/packages/pull/9454) merged on June 23, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9454) over 4 days, 541 additions and 550 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Konstantin Dubrouski](https://github.com/MsYoda)** &mdash; [google_maps_flutter_web] Fix no effect behavior of cameraTargetBounds option on web<br />
+  <sub>[#9153](https://github.com/flutter/packages/pull/9153) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9153) over 1 month, 41 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [zhongliugo](https://github.com/flutter-zl)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Skip case sensitive test<br />
   <sub>[#9444](https://github.com/flutter/packages/pull/9444) merged on June 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9444) over 5 days, 3 additions and 0 deletions in 1 file</sub><br />
