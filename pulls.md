@@ -101,9 +101,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Diagnosticable, not toString, for IOSSystemContextMenuItemDatas<br />
   <sub>[#171028](https://github.com/flutter/flutter/pull/171028) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171028) 66 additions and 12 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove stale references to `Release-process.md` and `conductor`<br />
-  <sub>[#171046](https://github.com/flutter/flutter/pull/171046) opened on on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171046) 3 additions and 85 deletions in 4 files</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update Setting-up-the-Engine-development-environment.md<br />
   <sub>[#171051](https://github.com/flutter/flutter/pull/171051) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171051) 1 addition and 1 deletion in 1 file</sub><br />
 

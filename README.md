@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-33 commits.
+34 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks<br />
   <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Make service worker tests more lenient.<br />
   <sub>[#170939](https://github.com/flutter/flutter/pull/170939) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170939) over 2 days, 21 additions and 14 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove stale references to `Release-process.md` and `conductor`<br />
+  <sub>[#171046](https://github.com/flutter/flutter/pull/171046) merged on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171046) over 22 hours, 3 additions and 85 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun23<br />
   <sub>[#171047](https://github.com/flutter/flutter/pull/171047) merged on June 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171047) over 22 hours, 8753 additions and 72 deletions in 25 files</sub><br />
@@ -91,17 +95,13 @@
   <sub>[#171017](https://github.com/flutter/flutter/pull/171017) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171017) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `web_long_running_tests_{1,5}_5` to `bringup`.<br />
-  <sub>[#171026](https://github.com/flutter/flutter/pull/171026) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171026) over 3 minutes, 2 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20<br />
   <sub>[#170948](https://github.com/flutter/flutter/pull/170948) merged on June 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) over 2 days, 279 additions and 35 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update tool/README.md regarding locally-built engine<br />
-  <sub>[#171102](https://github.com/flutter/flutter/pull/171102) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171102) over 1 hour, 8 additions and 8 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `web_long_running_tests_{1,5}_5` to `bringup`.<br />
+  <sub>[#171026](https://github.com/flutter/flutter/pull/171026) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171026) over 3 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Align the PR triage process with the ecosystem's triage flow<br />
   <sub>[#171086](https://github.com/flutter/flutter/pull/171086) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171086) over 3 hours, 5 additions and 1 deletion in 1 file</sub><br />
@@ -134,6 +134,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dds 5.0.4<br />
   <sub>[#171007](https://github.com/flutter/flutter/pull/171007) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171007) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update tool/README.md regarding locally-built engine<br />
+  <sub>[#171102](https://github.com/flutter/flutter/pull/171102) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171102) over 1 hour, 8 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland: Fix InputDecoration.floatingLabelBehavior is not inherited<br />
   <sub>[#170995](https://github.com/flutter/flutter/pull/170995) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170995) over 46 minutes, 38 additions and 25 deletions in 2 files</sub><br />
