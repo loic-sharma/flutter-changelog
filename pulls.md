@@ -92,9 +92,6 @@
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170980) 31 additions and 24 deletions in 1 file</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix the issue with `SliverMainAxisGroups` growing in the reverse direction during layout.<br />
-  <sub>[#171005](https://github.com/flutter/flutter/pull/171005) opened on on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171005) 50 additions and 5 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files<br />
   <sub>[#171027](https://github.com/flutter/flutter/pull/171027) opened on on June 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171027) 996 additions and 683 deletions in 12 files</sub><br />
 
@@ -115,4 +112,7 @@
 
 * **[Luca Antonelli](https://github.com/lucaantonelli)** &mdash; Fix interpolation error using Discrete Sliders<br />
   <sub>[#171067](https://github.com/flutter/flutter/pull/171067) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171067) 148 additions and 3 deletions in 6 files</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; Fix the hitTest issue of reversed SliverMainAxisGroup.<br />
+  <sub>[#171073](https://github.com/flutter/flutter/pull/171073) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171073) 39 additions and 4 deletions in 2 files</sub><br />
 
