@@ -128,3 +128,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Move `web_long_running_tests_{1,5}_5` to `bringup`."<br />
   <sub>[#171100](https://github.com/flutter/flutter/pull/171100) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171100) 0 additions and 2 deletions in 1 file</sub><br />
 
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update tool/README.md regarding locally-built engine<br />
+  <sub>[#171102](https://github.com/flutter/flutter/pull/171102) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171102) 8 additions and 8 deletions in 1 file</sub><br />
+
