@@ -116,3 +116,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 14 or 15<br />
   <sub>[#171076](https://github.com/flutter/flutter/pull/171076) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) 90 additions and 90 deletions in 11 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump engine version for 3.24.5 release.<br />
+  <sub>[#171079](https://github.com/flutter/flutter/pull/171079) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171079) 1 addition and 1 deletion in 1 file</sub><br />
+
