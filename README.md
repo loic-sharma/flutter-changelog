@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-18 commits.
+19 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Don't strip symbols from `libapp.so` on android by default<br />
   <sub>[#162464](https://github.com/flutter/flutter/pull/162464) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162464) over 4 months, 39 additions and 22 deletions in 7 files</sub><br />
@@ -57,6 +57,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20<br />
   <sub>[#170948](https://github.com/flutter/flutter/pull/170948) merged on June 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) over 2 days, 279 additions and 35 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable interpretation fallback when unable to JIT on iOS.<br />
+  <sub>[#170835](https://github.com/flutter/flutter/pull/170835) merged on June 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170835) over 5 days, 8 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Pass font scanner to font mgr that need it<br />
   <sub>[#170701](https://github.com/flutter/flutter/pull/170701) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170701) over 1 week, 3 additions and 1 deletion in 1 file</sub><br />
