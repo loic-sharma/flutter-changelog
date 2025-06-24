@@ -113,6 +113,3 @@
 * **[Luca Antonelli](https://github.com/lucaantonelli)** &mdash; Fix interpolation error using Discrete Sliders<br />
   <sub>[#171067](https://github.com/flutter/flutter/pull/171067) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171067) 148 additions and 3 deletions in 6 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix the hitTest issue of reversed SliverMainAxisGroup.<br />
-  <sub>[#171073](https://github.com/flutter/flutter/pull/171073) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171073) 39 additions and 4 deletions in 2 files</sub><br />
-
