@@ -214,7 +214,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add a way to request new `Surface`s from `SurfaceProducer` and avoid `SurfaceProducer` returning invalid `Surface`
-  <sub>[#169899](https://github.com/flutter/flutter/pull/169899) merged on June 20, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169899) over 2 weeks, 215 additions and 14 deletions in 6 files</sub>
+  <sub>[#169899](https://github.com/flutter/flutter/pull/169899) merged on June 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/169899) over 2 weeks, 215 additions and 14 deletions in 6 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add DropdownButtonFormField value param test
@@ -616,7 +616,11 @@
 
 ### June 21, 2025 to June 27, 2025
 
-4 commits.
+5 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs
+  <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Fix routing to treat URLs with different cases (e.g., `/Home` vs `/home`) as distinct routes.
   <sub>[#9426](https://github.com/flutter/packages/pull/9426) merged on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9426) over 1 week, 87 additions and 34 deletions in 9 files</sub>
