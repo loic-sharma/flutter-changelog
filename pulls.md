@@ -56,6 +56,9 @@
 * **[마카롱](https://github.com/Mkkas3145)** &mdash; Fixed issue #140739<br />
   <sub>[#170798](https://github.com/flutter/flutter/pull/170798) opened on on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170798) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1<br />
+  <sub>[#170882](https://github.com/flutter/flutter/pull/170882) opened on on June 19, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/170882) 115 additions and 207 deletions in 26 files</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add foreground color for cupertino button<br />
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170898) 145 additions and 4 deletions in 2 files</sub><br />
 
@@ -117,5 +120,5 @@
   <sub>[#171076](https://github.com/flutter/flutter/pull/171076) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) 90 additions and 90 deletions in 11 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun24<br />
-  <sub>[#171088](https://github.com/flutter/flutter/pull/171088) opened on on June 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171088) 8946 additions and 86 deletions in 69 files</sub><br />
+  <sub>[#171088](https://github.com/flutter/flutter/pull/171088) opened on on June 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171088) 8955 additions and 86 deletions in 69 files</sub><br />
 
