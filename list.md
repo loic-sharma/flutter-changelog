@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-43 commits.
+44 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks
   <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub>
@@ -69,9 +69,9 @@
   <sub>[#171015](https://github.com/flutter/flutter/pull/171015) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171015) over 2 hours, 32 additions and 17 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add LLDB warnings
-  <sub>[#170827](https://github.com/flutter/flutter/pull/170827) merged on June 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/170827) over 5 days, 370 additions and 79 deletions in 8 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files
+  <sub>[#171027](https://github.com/flutter/flutter/pull/171027) merged on June 25, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171027) over 1 day, 996 additions and 683 deletions in 12 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Docs to Warn Users Edge-To-Edge opt out is being deprecated for Android 16+ (API 36+)
   <sub>[#170816](https://github.com/flutter/flutter/pull/170816) merged on June 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170816) over 4 days, 43 additions and 12 deletions in 2 files</sub>
@@ -81,13 +81,17 @@
   <sub>[#171004](https://github.com/flutter/flutter/pull/171004) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171004) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files
-  <sub>[#171027](https://github.com/flutter/flutter/pull/171027) merged on June 25, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171027) over 1 day, 996 additions and 683 deletions in 12 files</sub>
-  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add LLDB warnings
+  <sub>[#170827](https://github.com/flutter/flutter/pull/170827) merged on June 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/170827) over 5 days, 370 additions and 79 deletions in 8 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited
   <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun24
+  <sub>[#171088](https://github.com/flutter/flutter/pull/171088) merged on June 25, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/171088) over 1 day, 281 additions and 21 deletions in 52 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add android-reviewers to CODEOWNERS
   <sub>[#170157](https://github.com/flutter/flutter/pull/170157) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170157) over 2 weeks, 11 additions and 0 deletions in 2 files</sub>
@@ -109,37 +113,37 @@
   <sub>[#170618](https://github.com/flutter/flutter/pull/170618) merged on June 23, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170618) over 1 week, 43 additions and 35 deletions in 5 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Log stack traces from exceptions thrown by devicelab test tasks
-  <sub>[#171165](https://github.com/flutter/flutter/pull/171165) merged on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171165) over 36 minutes, 36 additions and 19 deletions in 18 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `web_long_running_tests_{1,5}_5` to `bringup`.
+  <sub>[#171026](https://github.com/flutter/flutter/pull/171026) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171026) over 3 minutes, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update foundation library to export internal
   <sub>[#170563](https://github.com/flutter/flutter/pull/170563) merged on June 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170563) over 1 week, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `packages_autoroller` out of the carcass of `conductor`, delete `conductor`
-  <sub>[#171029](https://github.com/flutter/flutter/pull/171029) merged on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171029) over 5 hours, 107 additions and 178 deletions in 22 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20
   <sub>[#170948](https://github.com/flutter/flutter/pull/170948) merged on June 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) over 2 days, 279 additions and 35 deletions in 19 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `web_long_running_tests_{1,5}_5` to `bringup`.
-  <sub>[#171026](https://github.com/flutter/flutter/pull/171026) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171026) over 3 minutes, 2 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Log stack traces from exceptions thrown by devicelab test tasks
+  <sub>[#171165](https://github.com/flutter/flutter/pull/171165) merged on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171165) over 36 minutes, 36 additions and 19 deletions in 18 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove update CHANGELOG step from stable cherry pick process
   <sub>[#171017](https://github.com/flutter/flutter/pull/171017) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171017) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[bungeman](https://github.com/bungeman)** &mdash; Pass font scanner to font mgr that need it
-  <sub>[#170701](https://github.com/flutter/flutter/pull/170701) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170701) over 1 week, 3 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `packages_autoroller` out of the carcass of `conductor`, delete `conductor`
+  <sub>[#171029](https://github.com/flutter/flutter/pull/171029) merged on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171029) over 5 hours, 107 additions and 178 deletions in 22 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing M3 tests for InputDecoration.isDense
   <sub>[#171058](https://github.com/flutter/flutter/pull/171058) merged on June 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171058) over 1 day, 90 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update tool/README.md regarding locally-built engine
+  <sub>[#171102](https://github.com/flutter/flutter/pull/171102) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171102) over 1 hour, 8 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Enhance Text Contrast for WCAG AAA Compliance
   <sub>[#170758](https://github.com/flutter/flutter/pull/170758) merged on June 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/170758) over 5 days, 117 additions and 0 deletions in 2 files</sub>
@@ -152,10 +156,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dds 5.0.4
   <sub>[#171007](https://github.com/flutter/flutter/pull/171007) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171007) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup)</sub>
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update tool/README.md regarding locally-built engine
-  <sub>[#171102](https://github.com/flutter/flutter/pull/171102) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171102) over 1 hour, 8 additions and 8 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Align the PR triage process with the ecosystem's triage flow
   <sub>[#171086](https://github.com/flutter/flutter/pull/171086) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171086) over 3 hours, 5 additions and 1 deletion in 1 file</sub>
@@ -172,6 +172,10 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable interpretation fallback when unable to JIT on iOS.
   <sub>[#170835](https://github.com/flutter/flutter/pull/170835) merged on June 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170835) over 5 days, 8 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Pass font scanner to font mgr that need it
+  <sub>[#170701](https://github.com/flutter/flutter/pull/170701) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170701) over 1 week, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Move `web_long_running_tests_{1,5}_5` to `bringup`."
   <sub>[#171100](https://github.com/flutter/flutter/pull/171100) merged on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171100) over 20 hours, 0 additions and 2 deletions in 1 file</sub>
