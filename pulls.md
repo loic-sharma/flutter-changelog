@@ -107,3 +107,6 @@
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Restrict menu layout to be within safe area<br />
   <sub>[#171199](https://github.com/flutter/flutter/pull/171199) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171199) 56 additions and 2 deletions in 2 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a flag that disables SecureSocket support in Dart<br />
+  <sub>[#171201](https://github.com/flutter/flutter/pull/171201) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171201) 9 additions and 0 deletions in 1 file</sub><br />
+
