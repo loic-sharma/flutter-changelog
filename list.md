@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-40 commits.
+41 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks
   <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub>
@@ -31,6 +31,11 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] More granular configuration of the test environment
   <sub>[#168767](https://github.com/flutter/flutter/pull/168767) merged on June 24, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/168767) over 1 month, 189 additions and 157 deletions in 32 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Use monospace fonts when displaying stack traces
+  <sub>[#171167](https://github.com/flutter/flutter/pull/171167) merged on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171167) over 45 minutes, 20 additions and 17 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+  <sub><details><summary>1 image...</summary><img width="1149" alt="image" src="https://github.com/user-attachments/assets/fc2a43a9-7622-479e-bca5-957b9d32d0e7" /></details></sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Support wide gamut colors when applying a DlColor to an SkPaint
   <sub>[#170613](https://github.com/flutter/flutter/pull/170613) merged on June 24, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/170613) over 1 week, 93 additions and 29 deletions in 12 files</sub>
@@ -60,9 +65,9 @@
   <sub>[#171015](https://github.com/flutter/flutter/pull/171015) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171015) over 2 hours, 32 additions and 17 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add LLDB warnings
-  <sub>[#170827](https://github.com/flutter/flutter/pull/170827) merged on June 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/170827) over 5 days, 370 additions and 79 deletions in 8 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files
+  <sub>[#171027](https://github.com/flutter/flutter/pull/171027) merged on June 25, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171027) over 1 day, 996 additions and 683 deletions in 12 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Docs to Warn Users Edge-To-Edge opt out is being deprecated for Android 16+ (API 36+)
   <sub>[#170816](https://github.com/flutter/flutter/pull/170816) merged on June 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170816) over 4 days, 43 additions and 12 deletions in 2 files</sub>
@@ -72,9 +77,9 @@
   <sub>[#171004](https://github.com/flutter/flutter/pull/171004) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171004) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files
-  <sub>[#171027](https://github.com/flutter/flutter/pull/171027) merged on June 25, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171027) over 1 day, 996 additions and 683 deletions in 12 files</sub>
-  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add LLDB warnings
+  <sub>[#170827](https://github.com/flutter/flutter/pull/170827) merged on June 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/170827) over 5 days, 370 additions and 79 deletions in 8 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited
   <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub>
@@ -104,13 +109,13 @@
   <sub>[#170563](https://github.com/flutter/flutter/pull/170563) merged on June 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170563) over 1 week, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `packages_autoroller` out of the carcass of `conductor`, delete `conductor`
-  <sub>[#171029](https://github.com/flutter/flutter/pull/171029) merged on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171029) over 5 hours, 107 additions and 178 deletions in 22 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `web_long_running_tests_{1,5}_5` to `bringup`.
   <sub>[#171026](https://github.com/flutter/flutter/pull/171026) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171026) over 3 minutes, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `packages_autoroller` out of the carcass of `conductor`, delete `conductor`
+  <sub>[#171029](https://github.com/flutter/flutter/pull/171029) merged on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171029) over 5 hours, 107 additions and 178 deletions in 22 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20
   <sub>[#170948](https://github.com/flutter/flutter/pull/170948) merged on June 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) over 2 days, 279 additions and 35 deletions in 19 files</sub>
