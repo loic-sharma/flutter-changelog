@@ -108,7 +108,7 @@
   <sub>[#171076](https://github.com/flutter/flutter/pull/171076) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) 90 additions and 90 deletions in 11 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Make _layoutBoundary a boolean 2<br />
-  <sub>[#171106](https://github.com/flutter/flutter/pull/171106) opened on on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171106) 125 additions and 120 deletions in 2 files</sub><br />
+  <sub>[#171106](https://github.com/flutter/flutter/pull/171106) opened on on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171106) 125 additions and 120 deletions in 2 files</sub><br />
 
 * **[Arindam Karmakar](https://github.com/k-arindam)** &mdash; Add `automaticallyImplyActions` property to AppBar<br />
   <sub>[#171113](https://github.com/flutter/flutter/pull/171113) opened on on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171113) 34 additions and 1 deletion in 1 file</sub><br />
