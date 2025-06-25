@@ -125,3 +125,6 @@
 * **[Arindam Karmakar](https://github.com/k-arindam)** &mdash; Add `automaticallyImplyActions` property to AppBar<br />
   <sub>[#171113](https://github.com/flutter/flutter/pull/171113) opened on on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171113) 34 additions and 1 deletion in 1 file</sub><br />
 
+* **[emakar](https://github.com/emakar)** &mdash; don't break sheet's snap from physics<br />
+  <sub>[#171157](https://github.com/flutter/flutter/pull/171157) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171157) 4 additions and 1 deletion in 1 file</sub><br />
+
