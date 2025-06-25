@@ -73,9 +73,13 @@
   <sub>[#171015](https://github.com/flutter/flutter/pull/171015) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171015) over 2 hours, 32 additions and 17 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files<br />
-  <sub>[#171027](https://github.com/flutter/flutter/pull/171027) merged on June 25, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171027) over 1 day, 996 additions and 683 deletions in 12 files</sub><br />
-  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix `Radio`'s painters<br />
+  <sub>[#170321](https://github.com/flutter/flutter/pull/170321) merged on June 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/170321) over 2 weeks, 127 additions and 27 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add LLDB warnings<br />
+  <sub>[#170827](https://github.com/flutter/flutter/pull/170827) merged on June 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/170827) over 5 days, 370 additions and 79 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Docs to Warn Users Edge-To-Edge opt out is being deprecated for Android 16+ (API 36+)<br />
   <sub>[#170816](https://github.com/flutter/flutter/pull/170816) merged on June 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170816) over 4 days, 43 additions and 12 deletions in 2 files</sub><br />
@@ -85,9 +89,9 @@
   <sub>[#171004](https://github.com/flutter/flutter/pull/171004) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171004) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add LLDB warnings<br />
-  <sub>[#170827](https://github.com/flutter/flutter/pull/170827) merged on June 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/170827) over 5 days, 370 additions and 79 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files<br />
+  <sub>[#171027](https://github.com/flutter/flutter/pull/171027) merged on June 25, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171027) over 1 day, 996 additions and 683 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited<br />
   <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub><br />
@@ -100,10 +104,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add android-reviewers to CODEOWNERS<br />
   <sub>[#170157](https://github.com/flutter/flutter/pull/170157) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170157) over 2 weeks, 11 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix `Radio`'s painters<br />
-  <sub>[#170321](https://github.com/flutter/flutter/pull/170321) merged on June 25, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/170321) over 2 weeks, 127 additions and 27 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Report Android x86 target devices as unsupported<br />
   <sub>[#170282](https://github.com/flutter/flutter/pull/170282) merged on June 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170282) over 2 weeks, 141 additions and 80 deletions in 41 files</sub><br />
