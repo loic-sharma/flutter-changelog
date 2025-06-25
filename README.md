@@ -202,6 +202,10 @@
   <sub>[#169051](https://github.com/flutter/flutter/pull/169051) merged on June 18, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169051) over 1 month, 49 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Dipali Thakare](https://github.com/thakaredipali)** &mdash; Add example for CupertinoExpansionTile transition modes<br />
+  <sub>[#170335](https://github.com/flutter/flutter/pull/170335) merged on June 18, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/170335) over 1 week, 169 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update README to add section about custom embedders.<br />
   <sub>[#170077](https://github.com/flutter/flutter/pull/170077) merged on June 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170077) over 1 week, 23 additions and 20 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
@@ -214,17 +218,13 @@
   <sub>[#170331](https://github.com/flutter/flutter/pull/170331) merged on June 16, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170331) over 6 days, 50 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoPicker` new onChanged behaviour<br />
-  <sub>[#170202](https://github.com/flutter/flutter/pull/170202) merged on June 18, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170202) over 1 week, 162 additions and 11 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started bridging the scene delegate to the lifecycle delegate for shortcuts<br />
   <sub>[#170180](https://github.com/flutter/flutter/pull/170180) merged on June 17, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/170180) over 1 week, 64 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
-* **[Dipali Thakare](https://github.com/thakaredipali)** &mdash; Add example for CupertinoExpansionTile transition modes<br />
-  <sub>[#170335](https://github.com/flutter/flutter/pull/170335) merged on June 18, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/170335) over 1 week, 169 additions and 0 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc)</sub><br />
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoPicker` new onChanged behaviour<br />
+  <sub>[#170202](https://github.com/flutter/flutter/pull/170202) merged on June 18, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170202) over 1 week, 162 additions and 11 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Set max request pool size for DDC module loader when in CI<br />
   <sub>[#170565](https://github.com/flutter/flutter/pull/170565) merged on June 16, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/170565) over 3 days, 315 additions and 202 deletions in 6 files</sub><br />
