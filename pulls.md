@@ -101,3 +101,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics locale support for web<br />
   <sub>[#171196](https://github.com/flutter/flutter/pull/171196) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171196) 255 additions and 9 deletions in 14 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
+  <sub>[#171198](https://github.com/flutter/flutter/pull/171198) opened on on June 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171198) 557 additions and 72 deletions in 34 files</sub><br />
+
