@@ -45,7 +45,7 @@
   <sub>[#170488](https://github.com/flutter/flutter/pull/170488) opened on on June 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170488) 36 additions and 4 deletions in 2 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoDatePicker` and `CupertinoTimerPicker` new onChanged behavior<br />
-  <sub>[#170793](https://github.com/flutter/flutter/pull/170793) opened on on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170793) 105 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#170793](https://github.com/flutter/flutter/pull/170793) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170793) 105 additions and 0 deletions in 2 files</sub><br />
 
 * **[마카롱](https://github.com/Mkkas3145)** &mdash; Fixed issue #140739<br />
   <sub>[#170798](https://github.com/flutter/flutter/pull/170798) opened on on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170798) 5 additions and 0 deletions in 1 file</sub><br />
@@ -87,7 +87,7 @@
   <sub>[#171106](https://github.com/flutter/flutter/pull/171106) opened on on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171106) 125 additions and 120 deletions in 2 files</sub><br />
 
 * **[Arindam Karmakar](https://github.com/k-arindam)** &mdash; Add `automaticallyImplyActions` property to AppBar<br />
-  <sub>[#171113](https://github.com/flutter/flutter/pull/171113) opened on on June 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171113) 34 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#171113](https://github.com/flutter/flutter/pull/171113) opened on on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171113) 139 additions and 1 deletion in 3 files</sub><br />
 
 * **[emakar](https://github.com/emakar)** &mdash; don't break sheet's snap from physics<br />
   <sub>[#171157](https://github.com/flutter/flutter/pull/171157) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171157) 81 additions and 1 deletion in 2 files</sub><br />
