@@ -104,3 +104,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
   <sub>[#171198](https://github.com/flutter/flutter/pull/171198) opened on on June 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171198) 557 additions and 72 deletions in 34 files</sub><br />
 
+* **[Phantom-101](https://github.com/Phantom-101)** &mdash; Restrict menu layout to be within safe area<br />
+  <sub>[#171199](https://github.com/flutter/flutter/pull/171199) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171199) 56 additions and 2 deletions in 2 files</sub><br />
+
