@@ -113,9 +113,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun24<br />
   <sub>[#171088](https://github.com/flutter/flutter/pull/171088) opened on on June 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171088) 254 additions and 21 deletions in 51 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Move `web_long_running_tests_{1,5}_5` to `bringup`."<br />
-  <sub>[#171100](https://github.com/flutter/flutter/pull/171100) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171100) 0 additions and 2 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Make _layoutBoundary a boolean 2<br />
   <sub>[#171106](https://github.com/flutter/flutter/pull/171106) opened on on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171106) 125 additions and 120 deletions in 2 files</sub><br />
 
@@ -126,8 +123,11 @@
   <sub>[#171157](https://github.com/flutter/flutter/pull/171157) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171157) 81 additions and 1 deletion in 2 files</sub><br />
 
 * **[matasb-google](https://github.com/matasb-google)** &mdash; Fix crash when editableText is not mounted<br />
-  <sub>[#171159](https://github.com/flutter/flutter/pull/171159) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171159) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#171159](https://github.com/flutter/flutter/pull/171159) opened on on June 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171159) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing deprecations to CupertinoDynamicColor.<br />
   <sub>[#171160](https://github.com/flutter/flutter/pull/171160) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171160) 96 additions and 1 deletion in 4 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Log stack traces from exceptions thrown by devicelab test tasks<br />
+  <sub>[#171165](https://github.com/flutter/flutter/pull/171165) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171165) 36 additions and 19 deletions in 18 files</sub><br />
 
