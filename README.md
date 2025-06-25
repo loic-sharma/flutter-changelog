@@ -102,7 +102,7 @@
   <sub>Reviewed by: [Kostia Sokolovskyi](https://github.com/ksokolovskyi)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Flutter test cleanup<br />
-  <sub>[#170891](https://github.com/flutter/flutter/pull/170891) merged on June 24, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/170891) over 4 days, 58 additions and 164 deletions in 13 files</sub><br />
+  <sub>[#170891](https://github.com/flutter/flutter/pull/170891) merged on June 24, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170891) over 4 days, 58 additions and 164 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; rename from announce to supportsAnnounce on engine<br />

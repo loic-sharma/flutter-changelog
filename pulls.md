@@ -65,9 +65,6 @@
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix NaN/Infinity crash in RenderSliverFixedExtentBoxAdaptor<br />
   <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; No Keys for tests?<br />
-  <sub>[#170952](https://github.com/flutter/flutter/pull/170952) opened on on June 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170952) 24 additions and 41 deletions in 6 files</sub><br />
-
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Update `CupertinoPicker` docs<br />
   <sub>[#170960](https://github.com/flutter/flutter/pull/170960) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170960) 3 additions and 7 deletions in 1 file</sub><br />
 
@@ -86,12 +83,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update Setting-up-the-Engine-development-environment.md<br />
   <sub>[#171051](https://github.com/flutter/flutter/pull/171051) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171051) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Torikul Islam Topu](https://github.com/iamtoricool)** &mdash; feat: Add `maxCount` parameter to `Badge.count` constructor.<br />
-  <sub>[#171054](https://github.com/flutter/flutter/pull/171054) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171054) 12 additions and 9 deletions in 1 file</sub><br />
-
-* **[Luca Antonelli](https://github.com/lucaantonelli)** &mdash; Fix interpolation error using Discrete Sliders<br />
-  <sub>[#171067](https://github.com/flutter/flutter/pull/171067) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171067) 148 additions and 3 deletions in 6 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 14 or 15<br />
   <sub>[#171076](https://github.com/flutter/flutter/pull/171076) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) 90 additions and 90 deletions in 11 files</sub><br />
 
@@ -99,7 +90,7 @@
   <sub>[#171106](https://github.com/flutter/flutter/pull/171106) opened on on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171106) 125 additions and 120 deletions in 2 files</sub><br />
 
 * **[Arindam Karmakar](https://github.com/k-arindam)** &mdash; Add `automaticallyImplyActions` property to AppBar<br />
-  <sub>[#171113](https://github.com/flutter/flutter/pull/171113) opened on on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171113) 34 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#171113](https://github.com/flutter/flutter/pull/171113) opened on on June 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171113) 34 additions and 1 deletion in 1 file</sub><br />
 
 * **[emakar](https://github.com/emakar)** &mdash; don't break sheet's snap from physics<br />
   <sub>[#171157](https://github.com/flutter/flutter/pull/171157) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171157) 81 additions and 1 deletion in 2 files</sub><br />
@@ -108,5 +99,5 @@
   <sub>[#171159](https://github.com/flutter/flutter/pull/171159) opened on on June 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171159) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing deprecations to CupertinoDynamicColor.<br />
-  <sub>[#171160](https://github.com/flutter/flutter/pull/171160) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171160) 96 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#171160](https://github.com/flutter/flutter/pull/171160) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171160) 96 additions and 1 deletion in 4 files</sub><br />
 
