@@ -60,7 +60,7 @@
   <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix NaN/Infinity crash in RenderSliverFixedExtentBoxAdaptor<br />
-  <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Update `CupertinoPicker` docs<br />
   <sub>[#170960](https://github.com/flutter/flutter/pull/170960) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170960) 3 additions and 7 deletions in 1 file</sub><br />
