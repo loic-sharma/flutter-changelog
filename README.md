@@ -4,7 +4,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-37 commits.
+38 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks<br />
   <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub><br />
@@ -60,17 +60,17 @@
   <sub>[#171015](https://github.com/flutter/flutter/pull/171015) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171015) over 2 hours, 32 additions and 17 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Docs to Warn Users Edge-To-Edge opt out is being deprecated for Android 16+ (API 36+)<br />
-  <sub>[#170816](https://github.com/flutter/flutter/pull/170816) merged on June 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170816) over 4 days, 43 additions and 12 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add LLDB warnings<br />
+  <sub>[#170827](https://github.com/flutter/flutter/pull/170827) merged on June 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/170827) over 5 days, 370 additions and 79 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Un-bringup `Linux web_tool_tests`<br />
   <sub>[#171004](https://github.com/flutter/flutter/pull/171004) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171004) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add LLDB warnings<br />
-  <sub>[#170827](https://github.com/flutter/flutter/pull/170827) merged on June 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/170827) over 5 days, 370 additions and 79 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Docs to Warn Users Edge-To-Edge opt out is being deprecated for Android 16+ (API 36+)<br />
+  <sub>[#170816](https://github.com/flutter/flutter/pull/170816) merged on June 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170816) over 4 days, 43 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited<br />
   <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub><br />
@@ -104,17 +104,13 @@
   <sub>[#171017](https://github.com/flutter/flutter/pull/171017) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171017) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `web_long_running_tests_{1,5}_5` to `bringup`.<br />
-  <sub>[#171026](https://github.com/flutter/flutter/pull/171026) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171026) over 3 minutes, 2 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20<br />
   <sub>[#170948](https://github.com/flutter/flutter/pull/170948) merged on June 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) over 2 days, 279 additions and 35 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Migrate DAP off `ProcessUtils.writelnToStdinUnsafe`<br />
-  <sub>[#171081](https://github.com/flutter/flutter/pull/171081) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171081) over 3 hours, 65 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `web_long_running_tests_{1,5}_5` to `bringup`.<br />
+  <sub>[#171026](https://github.com/flutter/flutter/pull/171026) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171026) over 3 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Remove temporary workaround for web testing<br />
   <sub>[#170949](https://github.com/flutter/flutter/pull/170949) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170949) over 3 days, 1 addition and 3 deletions in 2 files</sub><br />
@@ -151,6 +147,14 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Align the PR triage process with the ecosystem's triage flow<br />
   <sub>[#171086](https://github.com/flutter/flutter/pull/171086) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171086) over 3 hours, 5 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Migrate DAP off `ProcessUtils.writelnToStdinUnsafe`<br />
+  <sub>[#171081](https://github.com/flutter/flutter/pull/171081) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171081) over 3 hours, 65 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Move `web_long_running_tests_{1,5}_5` to `bringup`."<br />
+  <sub>[#171100](https://github.com/flutter/flutter/pull/171100) merged on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171100) over 20 hours, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland: Fix InputDecoration.floatingLabelBehavior is not inherited<br />
   <sub>[#170995](https://github.com/flutter/flutter/pull/170995) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170995) over 46 minutes, 38 additions and 25 deletions in 2 files</sub><br />

@@ -110,9 +110,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 14 or 15<br />
   <sub>[#171076](https://github.com/flutter/flutter/pull/171076) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) 90 additions and 90 deletions in 11 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun24<br />
-  <sub>[#171088](https://github.com/flutter/flutter/pull/171088) opened on on June 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171088) 254 additions and 21 deletions in 51 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Make _layoutBoundary a boolean 2<br />
   <sub>[#171106](https://github.com/flutter/flutter/pull/171106) opened on on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171106) 125 additions and 120 deletions in 2 files</sub><br />
 
@@ -129,5 +126,8 @@
   <sub>[#171160](https://github.com/flutter/flutter/pull/171160) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171160) 96 additions and 1 deletion in 4 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Log stack traces from exceptions thrown by devicelab test tasks<br />
-  <sub>[#171165](https://github.com/flutter/flutter/pull/171165) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171165) 36 additions and 19 deletions in 18 files</sub><br />
+  <sub>[#171165](https://github.com/flutter/flutter/pull/171165) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171165) 36 additions and 19 deletions in 18 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Use monospace fonts when displaying stack traces<br />
+  <sub>[#171167](https://github.com/flutter/flutter/pull/171167) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171167) 20 additions and 17 deletions in 5 files</sub><br />
 
