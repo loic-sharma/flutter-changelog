@@ -125,9 +125,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing deprecations to CupertinoDynamicColor.<br />
   <sub>[#171160](https://github.com/flutter/flutter/pull/171160) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171160) 96 additions and 1 deletion in 4 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Log stack traces from exceptions thrown by devicelab test tasks<br />
-  <sub>[#171165](https://github.com/flutter/flutter/pull/171165) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171165) 36 additions and 19 deletions in 18 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Use monospace fonts when displaying stack traces<br />
   <sub>[#171167](https://github.com/flutter/flutter/pull/171167) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171167) 20 additions and 17 deletions in 5 files</sub><br />
 
