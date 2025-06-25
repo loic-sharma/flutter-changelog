@@ -54,7 +54,7 @@
   <sub>[#170882](https://github.com/flutter/flutter/pull/170882) opened on on June 19, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/170882) 115 additions and 207 deletions in 26 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Change RawScrollbar padding from EdgeInsets to EdgeInsetsGeometry<br />
-  <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170927) 73 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170927) 73 additions and 2 deletions in 2 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix TreeSliver null check assertion on rapid toggling<br />
   <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
@@ -63,7 +63,7 @@
   <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Update `CupertinoPicker` docs<br />
-  <sub>[#170960](https://github.com/flutter/flutter/pull/170960) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170960) 3 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#170960](https://github.com/flutter/flutter/pull/170960) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170960) 3 additions and 7 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in CI  builder linux_android_emulator<br />
   <sub>[#170964](https://github.com/flutter/flutter/pull/170964) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170964) 0 additions and 63 deletions in 1 file</sub><br />
@@ -72,7 +72,7 @@
   <sub>[#170966](https://github.com/flutter/flutter/pull/170966) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170966) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170980) 31 additions and 24 deletions in 1 file</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170980) 31 additions and 24 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Diagnosticable, not toString, for IOSSystemContextMenuItemDatas<br />
   <sub>[#171028](https://github.com/flutter/flutter/pull/171028) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171028) 66 additions and 12 deletions in 2 files</sub><br />
