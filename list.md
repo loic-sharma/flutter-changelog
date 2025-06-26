@@ -743,19 +743,31 @@
 
 ### June 21, 2025 to June 27, 2025
 
-8 commits.
+11 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs
   <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Camille Simon](https://github.com/camsim99)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Use `swift-format` from Xcode
+  <sub>[#9460](https://github.com/flutter/packages/pull/9460) merged on June 26, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/9460) over 6 days, 709 additions and 260 deletions in 33 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Force new `Surface` for each `SurfaceRequest`
   <sub>[#9360](https://github.com/flutter/packages/pull/9360) merged on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9360) over 3 weeks, 9 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Bump AVD and SDK to API 36 in Packages CI
+  <sub>[#9414](https://github.com/flutter/packages/pull/9414) merged on June 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9414) over 2 weeks, 23 additions and 18 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Fix routing to treat URLs with different cases (e.g., `/Home` vs `/home`) as distinct routes.
   <sub>[#9426](https://github.com/flutter/packages/pull/9426) merged on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9426) over 1 week, 87 additions and 34 deletions in 9 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [extension_google_sign_in_as_googleapis_auth] Update to google_sign_in 7
+  <sub>[#9484](https://github.com/flutter/packages/pull/9484) merged on June 26, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/9484) over 1 day, 183 additions and 140 deletions in 7 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs - Platform Implementations
   <sub>[#9479](https://github.com/flutter/packages/pull/9479) merged on June 23, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/9479) over 4 hours, 6954 additions and 5093 deletions in 56 files</sub>
