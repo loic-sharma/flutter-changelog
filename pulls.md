@@ -72,7 +72,7 @@
   <sub>[#170966](https://github.com/flutter/flutter/pull/170966) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170966) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170980) 35 additions and 26 deletions in 1 file</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170980) 35 additions and 26 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Diagnosticable, not toString, for IOSSystemContextMenuItemDatas<br />
   <sub>[#171028](https://github.com/flutter/flutter/pull/171028) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171028) 66 additions and 12 deletions in 2 files</sub><br />
@@ -105,7 +105,7 @@
   <sub>[#171198](https://github.com/flutter/flutter/pull/171198) opened on on June 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171198) 557 additions and 72 deletions in 34 files</sub><br />
 
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Restrict menu layout to be within safe area<br />
-  <sub>[#171199](https://github.com/flutter/flutter/pull/171199) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171199) 57 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#171199](https://github.com/flutter/flutter/pull/171199) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171199) 62 additions and 4 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a flag that disables SecureSocket support in Dart<br />
   <sub>[#171201](https://github.com/flutter/flutter/pull/171201) opened on on June 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171201) 9 additions and 0 deletions in 1 file</sub><br />
@@ -115,4 +115,7 @@
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: remove "cmd.exe" requirement for content-hashing<br />
   <sub>[#171233](https://github.com/flutter/flutter/pull/171233) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171233) 13 additions and 1 deletion in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Android] Add a way to request new `Surface`s from `SurfaceProducer` and avoid `SurfaceProducer` returning invalid `Surface`<br />
+  <sub>[#171234](https://github.com/flutter/flutter/pull/171234) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171234) 215 additions and 14 deletions in 6 files</sub><br />
 
