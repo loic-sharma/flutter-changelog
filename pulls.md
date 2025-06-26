@@ -102,7 +102,7 @@
   <sub>[#171235](https://github.com/flutter/flutter/pull/171235) opened on on June 26, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171235) 2364 additions and 215 deletions in 18 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "[skwasm] Use `transferToImageBitmap` instead of `createImageBitmap` (#163251)"<br />
-  <sub>[#171238](https://github.com/flutter/flutter/pull/171238) opened on on June 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171238) 22 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#171238](https://github.com/flutter/flutter/pull/171238) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171238) 22 additions and 17 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Impeller] Make ContextVK hash values globally unique<br />
   <sub>[#171239](https://github.com/flutter/flutter/pull/171239) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171239) 18 additions and 4 deletions in 2 files</sub><br />
