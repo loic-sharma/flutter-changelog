@@ -45,10 +45,10 @@
   <sub>[#170882](https://github.com/flutter/flutter/pull/170882) opened on on June 19, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/170882) 115 additions and 207 deletions in 26 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Change RawScrollbar padding from EdgeInsets to EdgeInsetsGeometry<br />
-  <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170927) 73 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170927) 73 additions and 3 deletions in 2 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix TreeSliver null check assertion on rapid toggling<br />
-  <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix NaN/Infinity crash in RenderSliverFixedExtentBoxAdaptor<br />
   <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
