@@ -8,9 +8,6 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add flag to disable automatic device reboot for DeviceLab tests<br />
   <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Upgrade Firefox and Chrome.<br />
-  <sub>[#165707](https://github.com/flutter/flutter/pull/165707) opened on on March 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/165707) 110 additions and 110 deletions in 5 files</sub><br />
-
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Convert Gradle buildscripts of Android plugin templates from Groovy to Kotlin<br />
   <sub>[#166312](https://github.com/flutter/flutter/pull/166312) opened on on April 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166312) 16 additions and 19 deletions in 8 files</sub><br />
 
@@ -48,7 +45,7 @@
   <sub>[#170882](https://github.com/flutter/flutter/pull/170882) opened on on June 19, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/170882) 115 additions and 207 deletions in 26 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Change RawScrollbar padding from EdgeInsets to EdgeInsetsGeometry<br />
-  <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170927) 73 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170927) 73 additions and 2 deletions in 2 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix TreeSliver null check assertion on rapid toggling<br />
   <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
@@ -69,7 +66,7 @@
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170980) 26 additions and 24 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Diagnosticable, not toString, for IOSSystemContextMenuItemDatas<br />
-  <sub>[#171028](https://github.com/flutter/flutter/pull/171028) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171028) 66 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#171028](https://github.com/flutter/flutter/pull/171028) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171028) 75 additions and 12 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update Setting-up-the-Engine-development-environment.md<br />
   <sub>[#171051](https://github.com/flutter/flutter/pull/171051) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171051) 1 addition and 1 deletion in 1 file</sub><br />
@@ -100,9 +97,6 @@
 
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Restrict menu layout to be within safe area<br />
   <sub>[#171199](https://github.com/flutter/flutter/pull/171199) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171199) 62 additions and 4 deletions in 2 files</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a flag that disables SecureSocket support in Dart<br />
-  <sub>[#171201](https://github.com/flutter/flutter/pull/171201) opened on on June 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171201) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.3.dart] Replace arrow character with Icon in RawMenuAnchor submenu example<br />
   <sub>[#171218](https://github.com/flutter/flutter/pull/171218) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171218) 4 additions and 4 deletions in 2 files</sub><br />
