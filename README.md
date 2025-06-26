@@ -754,7 +754,7 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Force new `Surface` for each `SurfaceRequest`<br />
-  <sub>[#9360](https://github.com/flutter/packages/pull/9360) merged on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9360) over 3 weeks, 9 additions and 4 deletions in 4 files</sub><br />
+  <sub>[#9360](https://github.com/flutter/packages/pull/9360) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9360) over 3 weeks, 9 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Use an activity for credential requests<br />

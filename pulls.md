@@ -72,7 +72,7 @@
   <sub>[#170966](https://github.com/flutter/flutter/pull/170966) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170966) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170980) 31 additions and 24 deletions in 1 file</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170980) 35 additions and 26 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Diagnosticable, not toString, for IOSSystemContextMenuItemDatas<br />
   <sub>[#171028](https://github.com/flutter/flutter/pull/171028) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171028) 66 additions and 12 deletions in 2 files</sub><br />
@@ -99,7 +99,7 @@
   <sub>[#171160](https://github.com/flutter/flutter/pull/171160) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171160) 96 additions and 1 deletion in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics locale support for web<br />
-  <sub>[#171196](https://github.com/flutter/flutter/pull/171196) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171196) 255 additions and 9 deletions in 14 files</sub><br />
+  <sub>[#171196](https://github.com/flutter/flutter/pull/171196) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171196) 257 additions and 9 deletions in 15 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
   <sub>[#171198](https://github.com/flutter/flutter/pull/171198) opened on on June 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171198) 557 additions and 72 deletions in 34 files</sub><br />
