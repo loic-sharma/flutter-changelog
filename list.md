@@ -743,7 +743,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-11 commits.
+12 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs
   <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub>
@@ -756,6 +756,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Force new `Surface` for each `SurfaceRequest`
   <sub>[#9360](https://github.com/flutter/packages/pull/9360) merged on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9360) over 3 weeks, 9 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Use an activity for credential requests
+  <sub>[#9497](https://github.com/flutter/packages/pull/9497) merged on June 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9497) over 18 hours, 91 additions and 20 deletions in 8 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bump AVD and SDK to API 36 in Packages CI
   <sub>[#9414](https://github.com/flutter/packages/pull/9414) merged on June 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9414) over 2 weeks, 23 additions and 18 deletions in 2 files</sub>

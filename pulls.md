@@ -108,7 +108,7 @@
   <sub>[#171199](https://github.com/flutter/flutter/pull/171199) opened on on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171199) 57 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a flag that disables SecureSocket support in Dart<br />
-  <sub>[#171201](https://github.com/flutter/flutter/pull/171201) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171201) 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#171201](https://github.com/flutter/flutter/pull/171201) opened on on June 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171201) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.3.dart] Replace arrow character with Icon in RawMenuAnchor submenu example<br />
   <sub>[#171218](https://github.com/flutter/flutter/pull/171218) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171218) 4 additions and 4 deletions in 2 files</sub><br />
