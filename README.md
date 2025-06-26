@@ -974,9 +974,26 @@
 
 ## flutter/website
 
+### June 21, 2025 to June 27, 2025
+
+3 commits.
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Updated edge to edge UI Mode Migration Docs<br />
+  <sub>[#12148](https://github.com/flutter/website/pull/12148) merged on June 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12148) over 3 days, 15 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Update key-value-data.md<br />
+  <sub>[#12155](https://github.com/flutter/website/pull/12155) merged on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12155) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add `/go/go-router-v15-2-0-breaking-changes` redirect<br />
+  <sub>[#12149](https://github.com/flutter/website/pull/12149) merged on June 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12149) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 ### June 14, 2025 to June 20, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[Robson Duarte](https://github.com/robsonoduarte)** &mdash; (fix) - the class GrowTransition compilation<br />
   <sub>[#12126](https://github.com/flutter/website/pull/12126) merged on June 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12126) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
@@ -1018,6 +1035,8 @@
 * **[Lorix](https://github.com/loricso)** &mdash; Fixed typo in get-started/fundamentals/state-management page<br />
   <sub>[#12130](https://github.com/flutter/website/pull/12130) merged on June 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12130) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### June 7, 2025 to June 13, 2025
 
