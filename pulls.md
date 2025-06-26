@@ -72,7 +72,7 @@
   <sub>[#170966](https://github.com/flutter/flutter/pull/170966) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170966) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170980) 35 additions and 26 deletions in 1 file</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170980) 35 additions and 26 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Diagnosticable, not toString, for IOSSystemContextMenuItemDatas<br />
   <sub>[#171028](https://github.com/flutter/flutter/pull/171028) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171028) 66 additions and 12 deletions in 2 files</sub><br />
@@ -112,4 +112,7 @@
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.3.dart] Replace arrow character with Icon in RawMenuAnchor submenu example<br />
   <sub>[#171218](https://github.com/flutter/flutter/pull/171218) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171218) 4 additions and 4 deletions in 2 files</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: remove "cmd.exe" requirement for content-hashing<br />
+  <sub>[#171233](https://github.com/flutter/flutter/pull/171233) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171233) 13 additions and 1 deletion in 1 file</sub><br />
 
