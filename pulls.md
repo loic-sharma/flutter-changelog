@@ -110,6 +110,3 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Increase per-step timeout for `build_android_host_app_with_module_source` targets<br />
   <sub>[#171241](https://github.com/flutter/flutter/pull/171241) opened on on June 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171241) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; No SystemContextMenu when readOnly is true<br />
-  <sub>[#171242](https://github.com/flutter/flutter/pull/171242) opened on on June 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171242) 95 additions and 5 deletions in 6 files</sub><br />
-
