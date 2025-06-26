@@ -51,7 +51,7 @@
   <sub>[#170798](https://github.com/flutter/flutter/pull/170798) opened on on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170798) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1<br />
-  <sub>[#170882](https://github.com/flutter/flutter/pull/170882) opened on on June 19, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/170882) 115 additions and 207 deletions in 26 files</sub><br />
+  <sub>[#170882](https://github.com/flutter/flutter/pull/170882) opened on on June 19, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/170882) 115 additions and 207 deletions in 26 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Change RawScrollbar padding from EdgeInsets to EdgeInsetsGeometry<br />
   <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170927) 73 additions and 2 deletions in 2 files</sub><br />
@@ -115,9 +115,6 @@
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: remove "cmd.exe" requirement for content-hashing<br />
   <sub>[#171233](https://github.com/flutter/flutter/pull/171233) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171233) 13 additions and 1 deletion in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Android] Add a way to request new `Surface`s from `SurfaceProducer` and avoid `SurfaceProducer` returning invalid `Surface`<br />
-  <sub>[#171234](https://github.com/flutter/flutter/pull/171234) opened on on June 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171234) 215 additions and 14 deletions in 6 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun25<br />
   <sub>[#171235](https://github.com/flutter/flutter/pull/171235) opened on on June 26, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171235) 2358 additions and 215 deletions in 18 files</sub><br />
