@@ -798,7 +798,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Remove in_app_purchase_storekit from Xcode analyzer exclusion list<br />
-  <sub>[#9429](https://github.com/flutter/packages/pull/9429) merged on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9429) over 1 week, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#9429](https://github.com/flutter/packages/pull/9429) merged on June 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9429) over 1 week, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add contributor setup instructions<br />
