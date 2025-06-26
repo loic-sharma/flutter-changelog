@@ -119,3 +119,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Android] Add a way to request new `Surface`s from `SurfaceProducer` and avoid `SurfaceProducer` returning invalid `Surface`<br />
   <sub>[#171234](https://github.com/flutter/flutter/pull/171234) opened on on June 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171234) 215 additions and 14 deletions in 6 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun25<br />
+  <sub>[#171235](https://github.com/flutter/flutter/pull/171235) opened on on June 26, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171235) 2358 additions and 215 deletions in 18 files</sub><br />
+
