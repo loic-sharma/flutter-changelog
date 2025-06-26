@@ -69,7 +69,7 @@
   <sub>[#170966](https://github.com/flutter/flutter/pull/170966) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170966) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170980) 26 additions and 24 deletions in 1 file</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170980) 26 additions and 24 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Diagnosticable, not toString, for IOSSystemContextMenuItemDatas<br />
   <sub>[#171028](https://github.com/flutter/flutter/pull/171028) opened on on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171028) 66 additions and 12 deletions in 2 files</sub><br />
@@ -112,4 +112,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun25<br />
   <sub>[#171235](https://github.com/flutter/flutter/pull/171235) opened on on June 26, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171235) 2358 additions and 215 deletions in 18 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "[skwasm] Use `transferToImageBitmap` instead of `createImageBitmap` (#163251)"<br />
+  <sub>[#171238](https://github.com/flutter/flutter/pull/171238) opened on on June 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171238) 22 additions and 17 deletions in 3 files</sub><br />
 
