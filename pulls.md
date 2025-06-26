@@ -47,9 +47,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoDatePicker` and `CupertinoTimerPicker` new onChanged behavior<br />
   <sub>[#170793](https://github.com/flutter/flutter/pull/170793) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170793) 105 additions and 0 deletions in 2 files</sub><br />
 
-* **[마카롱](https://github.com/Mkkas3145)** &mdash; Fixed issue #140739<br />
-  <sub>[#170798](https://github.com/flutter/flutter/pull/170798) opened on on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170798) 5 additions and 0 deletions in 1 file</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1<br />
   <sub>[#170882](https://github.com/flutter/flutter/pull/170882) opened on on June 19, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/170882) 115 additions and 207 deletions in 26 files</sub><br />
 
@@ -94,9 +91,6 @@
 
 * **[emakar](https://github.com/emakar)** &mdash; don't break sheet's snap from physics<br />
   <sub>[#171157](https://github.com/flutter/flutter/pull/171157) opened on on June 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171157) 81 additions and 1 deletion in 2 files</sub><br />
-
-* **[matasb-google](https://github.com/matasb-google)** &mdash; Fix crash when editableText is not mounted<br />
-  <sub>[#171159](https://github.com/flutter/flutter/pull/171159) opened on on June 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171159) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing deprecations to CupertinoDynamicColor.<br />
   <sub>[#171160](https://github.com/flutter/flutter/pull/171160) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171160) 96 additions and 1 deletion in 4 files</sub><br />
