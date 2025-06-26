@@ -117,5 +117,5 @@
   <sub>[#171233](https://github.com/flutter/flutter/pull/171233) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171233) 13 additions and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Android] Add a way to request new `Surface`s from `SurfaceProducer` and avoid `SurfaceProducer` returning invalid `Surface`<br />
-  <sub>[#171234](https://github.com/flutter/flutter/pull/171234) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171234) 215 additions and 14 deletions in 6 files</sub><br />
+  <sub>[#171234](https://github.com/flutter/flutter/pull/171234) opened on on June 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171234) 215 additions and 14 deletions in 6 files</sub><br />
 
