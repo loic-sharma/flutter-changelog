@@ -86,6 +86,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Make _layoutBoundary a boolean 2<br />
   <sub>[#171106](https://github.com/flutter/flutter/pull/171106) opened on on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171106) 125 additions and 120 deletions in 2 files</sub><br />
 
+* **[Phantom-101](https://github.com/Phantom-101)** &mdash; Added intrinsic box widget<br />
+  <sub>[#171111](https://github.com/flutter/flutter/pull/171111) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171111) 160 additions and 0 deletions in 3 files</sub><br />
+
 * **[Arindam Karmakar](https://github.com/k-arindam)** &mdash; Add `automaticallyImplyActions` property to AppBar<br />
   <sub>[#171113](https://github.com/flutter/flutter/pull/171113) opened on on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171113) 139 additions and 1 deletion in 3 files</sub><br />
 
