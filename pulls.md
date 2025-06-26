@@ -111,5 +111,5 @@
   <sub>[#171201](https://github.com/flutter/flutter/pull/171201) opened on on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171201) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.3.dart] Replace arrow character with Icon in RawMenuAnchor submenu example<br />
-  <sub>[#171218](https://github.com/flutter/flutter/pull/171218) opened on on June 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171218) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#171218](https://github.com/flutter/flutter/pull/171218) opened on on June 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171218) 4 additions and 4 deletions in 2 files</sub><br />
 
