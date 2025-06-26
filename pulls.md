@@ -107,3 +107,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Impeller] Make ContextVK hash values globally unique<br />
   <sub>[#171239](https://github.com/flutter/flutter/pull/171239) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171239) 18 additions and 4 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Increase per-step timeout for `build_android_host_app_with_module_source` targets<br />
+  <sub>[#171241](https://github.com/flutter/flutter/pull/171241) opened on on June 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171241) 3 additions and 0 deletions in 1 file</sub><br />
+
