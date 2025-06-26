@@ -116,9 +116,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.3.dart] Replace arrow character with Icon in RawMenuAnchor submenu example<br />
   <sub>[#171218](https://github.com/flutter/flutter/pull/171218) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171218) 4 additions and 4 deletions in 2 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: remove "cmd.exe" requirement for content-hashing<br />
-  <sub>[#171233](https://github.com/flutter/flutter/pull/171233) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171233) 13 additions and 1 deletion in 1 file</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun25<br />
   <sub>[#171235](https://github.com/flutter/flutter/pull/171235) opened on on June 26, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171235) 2358 additions and 215 deletions in 18 files</sub><br />
 
