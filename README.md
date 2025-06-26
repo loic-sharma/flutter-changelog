@@ -747,7 +747,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-14 commits.
+15 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs<br />
   <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub><br />
@@ -788,6 +788,10 @@
 * **[Konstantin Dubrouski](https://github.com/MsYoda)** &mdash; [google_maps_flutter_web] Fix no effect behavior of cameraTargetBounds option on web<br />
   <sub>[#9153](https://github.com/flutter/packages/pull/9153) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9153) over 1 month, 41 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [zhongliugo](https://github.com/flutter-zl)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Check macOS 15 for Xcode analyzer warnings<br />
+  <sub>[#9427](https://github.com/flutter/packages/pull/9427) merged on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9427) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Remove in_app_purchase_storekit from Xcode analyzer exclusion list<br />
   <sub>[#9429](https://github.com/flutter/packages/pull/9429) merged on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9429) over 1 week, 0 additions and 2 deletions in 1 file</sub><br />
