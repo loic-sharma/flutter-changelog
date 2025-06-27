@@ -122,6 +122,3 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run stateless_stateful_hot_reload_web_test.dart on Mac/Windows<br />
   <sub>[#171283](https://github.com/flutter/flutter/pull/171283) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171283) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Phantom-101](https://github.com/Phantom-101)** &mdash; Removed string keys<br />
-  <sub>[#171293](https://github.com/flutter/flutter/pull/171293) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171293) 10 additions and 14 deletions in 4 files</sub><br />
-
