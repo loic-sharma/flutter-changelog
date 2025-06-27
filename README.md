@@ -75,6 +75,10 @@
   <sub>[#170952](https://github.com/flutter/flutter/pull/170952) merged on June 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/170952) over 5 days, 24 additions and 41 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightness export from widgets.dart<br />
+  <sub>[#169410](https://github.com/flutter/flutter/pull/169410) merged on June 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169410) over 1 month, 1 addition and 8 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Run pub get post-processing for each package in workspace<br />
   <sub>[#170517](https://github.com/flutter/flutter/pull/170517) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170517) over 1 week, 197 additions and 98 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -95,21 +99,17 @@
   <sub>[#171046](https://github.com/flutter/flutter/pull/171046) merged on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171046) over 22 hours, 3 additions and 85 deletions in 4 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun23<br />
-  <sub>[#171047](https://github.com/flutter/flutter/pull/171047) merged on June 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171047) over 22 hours, 8753 additions and 72 deletions in 25 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Ensure `flutter_tools`'s `pubspec.lock` is newer than `pubspec.yaml`<br />
   <sub>[#171300](https://github.com/flutter/flutter/pull/171300) merged on June 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171300) over 1 hour, 123 additions and 38 deletions in 5 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightness export from widgets.dart<br />
-  <sub>[#169410](https://github.com/flutter/flutter/pull/169410) merged on June 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169410) over 1 month, 1 addition and 8 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun25<br />
   <sub>[#171235](https://github.com/flutter/flutter/pull/171235) merged on June 26, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171235) over 5 hours, 2364 additions and 215 deletions in 18 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun23<br />
+  <sub>[#171047](https://github.com/flutter/flutter/pull/171047) merged on June 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171047) over 22 hours, 8753 additions and 72 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Include dev_dependencies in all builds for iOS and macOS<br />
   <sub>[#171015](https://github.com/flutter/flutter/pull/171015) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171015) over 2 hours, 32 additions and 17 deletions in 2 files</sub><br />
