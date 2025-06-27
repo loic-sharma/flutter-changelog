@@ -29,6 +29,9 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
 
+* **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`<br />
+  <sub>[#169286](https://github.com/flutter/flutter/pull/169286) opened on on May 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169286) 4 additions and 4 deletions in 2 files</sub><br />
+
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Layout Widgets for Dynamic UI Support<br />
   <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
 
@@ -63,7 +66,7 @@
   <sub>[#170966](https://github.com/flutter/flutter/pull/170966) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170966) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update Setting-up-the-Engine-development-environment.md<br />
   <sub>[#171051](https://github.com/flutter/flutter/pull/171051) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171051) 1 addition and 1 deletion in 1 file</sub><br />
