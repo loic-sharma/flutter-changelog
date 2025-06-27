@@ -113,6 +113,3 @@
 * **[ahyang](https://github.com/ahyangnb)** &mdash; fix: ColorScheme will removeListener on imageStream twice if there is error loading the image.<br />
   <sub>[#171261](https://github.com/flutter/flutter/pull/171261) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171261) 20 additions and 16 deletions in 2 files</sub><br />
 
-* **[Vladislav Semyanov](https://github.com/StarkOne)** &mdash; Fix broken markdown link to Engine repository in Project-teams.md<br />
-  <sub>[#171267](https://github.com/flutter/flutter/pull/171267) opened on on June 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171267) 1 addition and 1 deletion in 1 file</sub><br />
-
