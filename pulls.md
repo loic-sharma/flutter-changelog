@@ -45,7 +45,7 @@
   <sub>[#170793](https://github.com/flutter/flutter/pull/170793) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170793) 105 additions and 0 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1<br />
-  <sub>[#170882](https://github.com/flutter/flutter/pull/170882) opened on on June 19, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/170882) 118 additions and 210 deletions in 26 files</sub><br />
+  <sub>[#170882](https://github.com/flutter/flutter/pull/170882) opened on on June 19, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/170882) 118 additions and 210 deletions in 26 files</sub><br />
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Change RawScrollbar padding from EdgeInsets to EdgeInsetsGeometry<br />
   <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170927) 98 additions and 3 deletions in 2 files</sub><br />
