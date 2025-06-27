@@ -4,7 +4,11 @@
 
 ### June 21, 2025 to June 27, 2025
 
-68 commits.
+69 commits.
+
+* **[Juergen Werner](https://github.com/pogojotz)** &mdash; NavigationRail: optionally scrollable and more configurable<br />
+  <sub>[#169421](https://github.com/flutter/flutter/pull/169421) merged on June 27, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/169421) over 1 month, 314 additions and 90 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor animation callbacks<br />
   <sub>[#167806](https://github.com/flutter/flutter/pull/167806) merged on June 24, 2025 &mdash; **Extra large:** [260 comments](https://github.com/flutter/flutter/pull/167806) over 2 months, 1761 additions and 115 deletions in 6 files</sub><br />
@@ -87,6 +91,10 @@
   <sub>[#171046](https://github.com/flutter/flutter/pull/171046) merged on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171046) over 22 hours, 3 additions and 85 deletions in 4 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun23<br />
+  <sub>[#171047](https://github.com/flutter/flutter/pull/171047) merged on June 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171047) over 22 hours, 8753 additions and 72 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun25<br />
   <sub>[#171235](https://github.com/flutter/flutter/pull/171235) merged on June 26, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171235) over 5 hours, 2364 additions and 215 deletions in 18 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -94,10 +102,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightness export from widgets.dart<br />
   <sub>[#169410](https://github.com/flutter/flutter/pull/169410) merged on June 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169410) over 1 month, 1 addition and 8 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun23<br />
-  <sub>[#171047](https://github.com/flutter/flutter/pull/171047) merged on June 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171047) over 22 hours, 8753 additions and 72 deletions in 25 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Include dev_dependencies in all builds for iOS and macOS<br />
   <sub>[#171015](https://github.com/flutter/flutter/pull/171015) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171015) over 2 hours, 32 additions and 17 deletions in 2 files</sub><br />
@@ -107,9 +111,9 @@
   <sub>[#170321](https://github.com/flutter/flutter/pull/170321) merged on June 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/170321) over 2 weeks, 127 additions and 27 deletions in 4 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `side` to `Radio`<br />
-  <sub>[#171217](https://github.com/flutter/flutter/pull/171217) merged on June 27, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/171217) over 1 day, 445 additions and 10 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files<br />
+  <sub>[#171027](https://github.com/flutter/flutter/pull/171027) merged on June 25, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171027) over 1 day, 996 additions and 683 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix gestures not being recognized in <img>-backed NetworkImages<br />
   <sub>[#171190](https://github.com/flutter/flutter/pull/171190) merged on June 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171190) over 46 minutes, 62 additions and 1 deletion in 2 files</sub><br />
@@ -127,9 +131,9 @@
   <sub>[#171004](https://github.com/flutter/flutter/pull/171004) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171004) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Support projects containing libraries with part files<br />
-  <sub>[#171027](https://github.com/flutter/flutter/pull/171027) merged on June 25, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171027) over 1 day, 996 additions and 683 deletions in 12 files</sub><br />
-  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `side` to `Radio`<br />
+  <sub>[#171217](https://github.com/flutter/flutter/pull/171217) merged on June 27, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/171217) over 1 day, 445 additions and 10 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration.floatingLabelBehavior is not inherited<br />
   <sub>[#170905](https://github.com/flutter/flutter/pull/170905) merged on June 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170905) over 2 days, 38 additions and 25 deletions in 2 files</sub><br />
@@ -183,9 +187,9 @@
   <sub>[#171026](https://github.com/flutter/flutter/pull/171026) merged on June 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171026) over 3 minutes, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Allow uninstalling Git hooks.<br />
-  <sub>[#170839](https://github.com/flutter/flutter/pull/170839) merged on June 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170839) over 1 week, 26 additions and 5 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update foundation library to export internal<br />
+  <sub>[#170563](https://github.com/flutter/flutter/pull/170563) merged on June 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170563) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun20<br />
   <sub>[#170948](https://github.com/flutter/flutter/pull/170948) merged on June 23, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/170948) over 2 days, 279 additions and 35 deletions in 19 files</sub><br />
@@ -195,37 +199,37 @@
   <sub>[#171166](https://github.com/flutter/flutter/pull/171166) merged on June 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171166) over 5 hours, 53 additions and 7 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Log stack traces from exceptions thrown by devicelab test tasks<br />
-  <sub>[#171165](https://github.com/flutter/flutter/pull/171165) merged on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171165) over 36 minutes, 36 additions and 19 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Make ContextVK hash values globally unique<br />
+  <sub>[#171119](https://github.com/flutter/flutter/pull/171119) merged on June 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171119) over 21 hours, 18 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Allow uninstalling Git hooks.<br />
+  <sub>[#170839](https://github.com/flutter/flutter/pull/170839) merged on June 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170839) over 1 week, 26 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove update CHANGELOG step from stable cherry pick process<br />
   <sub>[#171017](https://github.com/flutter/flutter/pull/171017) merged on June 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171017) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update foundation library to export internal<br />
-  <sub>[#170563](https://github.com/flutter/flutter/pull/170563) merged on June 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170563) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Make ContextVK hash values globally unique<br />
-  <sub>[#171119](https://github.com/flutter/flutter/pull/171119) merged on June 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171119) over 21 hours, 18 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Log stack traces from exceptions thrown by devicelab test tasks<br />
+  <sub>[#171165](https://github.com/flutter/flutter/pull/171165) merged on June 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171165) over 36 minutes, 36 additions and 19 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Pass font scanner to font mgr that need it<br />
   <sub>[#170701](https://github.com/flutter/flutter/pull/170701) merged on June 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170701) over 1 week, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing M3 tests for InputDecoration.floatingLabelAlignment<br />
-  <sub>[#170903](https://github.com/flutter/flutter/pull/170903) merged on June 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170903) over 6 days, 214 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; feat: Add hintLocales in TextFormField<br />
+  <sub>[#170938](https://github.com/flutter/flutter/pull/170938) merged on June 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170938) over 5 days, 12 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tirth Patel](https://github.com/tirth-patel-nc)</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Remove temporary workaround for web testing<br />
   <sub>[#170949](https://github.com/flutter/flutter/pull/170949) merged on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170949) over 3 days, 1 addition and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
-* **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; feat: Add hintLocales in TextFormField<br />
-  <sub>[#170938](https://github.com/flutter/flutter/pull/170938) merged on June 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170938) over 5 days, 12 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tirth Patel](https://github.com/tirth-patel-nc)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing M3 tests for InputDecoration.isDense<br />
+  <sub>[#171058](https://github.com/flutter/flutter/pull/171058) merged on June 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171058) over 1 day, 90 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update tool/README.md regarding locally-built engine<br />
   <sub>[#171102](https://github.com/flutter/flutter/pull/171102) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171102) over 1 hour, 8 additions and 8 deletions in 1 file</sub><br />
@@ -255,10 +259,6 @@
   <sub>[#170835](https://github.com/flutter/flutter/pull/170835) merged on June 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/170835) over 5 days, 8 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing M3 tests for InputDecoration.isDense<br />
-  <sub>[#171058](https://github.com/flutter/flutter/pull/171058) merged on June 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171058) over 1 day, 90 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run expression_evaluation_web_amd_test.dart on Mac/Windows<br />
   <sub>[#171277](https://github.com/flutter/flutter/pull/171277) merged on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171277) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub><br />
@@ -266,6 +266,10 @@
 * **[Vladislav Semyanov](https://github.com/StarkOne)** &mdash; Fix broken markdown link to Engine repository in Project-teams.md<br />
   <sub>[#171267](https://github.com/flutter/flutter/pull/171267) merged on June 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171267) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [Tirth Patel](https://github.com/tirth-patel-nc)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing M3 tests for InputDecoration.floatingLabelAlignment<br />
+  <sub>[#170903](https://github.com/flutter/flutter/pull/170903) merged on June 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/170903) over 6 days, 214 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Reland [#166645] Fix DropdownButtonFormField focusing when replacing FocusNode <br />
   <sub>[#170761](https://github.com/flutter/flutter/pull/170761) merged on June 27, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170761) over 1 week, 109 additions and 8 deletions in 2 files</sub><br />
