@@ -866,7 +866,7 @@
   <sub>[#9418](https://github.com/flutter/packages/pull/9418) merged on June 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9418) over 6 days, 45 additions and 6 deletions in 4 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[q1](https://github.com/ahyangnb)** &mdash; [go_router] fix Popping state and re-rendering scaffold at the same time doesn't update the URL on web [new] 
+* **[ahyang](https://github.com/ahyangnb)** &mdash; [go_router] fix Popping state and re-rendering scaffold at the same time doesn't update the URL on web [new] 
   <sub>[#8352](https://github.com/flutter/packages/pull/8352) merged on June 18, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/8352) over 5 months, 32 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
