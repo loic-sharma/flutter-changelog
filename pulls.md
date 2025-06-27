@@ -110,3 +110,6 @@
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Re-combine reload error and restart test cases<br />
   <sub>[#171251](https://github.com/flutter/flutter/pull/171251) opened on on June 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171251) 19 additions and 9 deletions in 1 file</sub><br />
 
+* **[ahyang](https://github.com/ahyangnb)** &mdash; fix: ColorScheme will removeListener on imageStream twice if there is error loading the image.<br />
+  <sub>[#171261](https://github.com/flutter/flutter/pull/171261) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171261) 20 additions and 16 deletions in 2 files</sub><br />
+
