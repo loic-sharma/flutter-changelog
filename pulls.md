@@ -107,3 +107,6 @@
 * **[Lewin Pauli](https://github.com/lewinpauli)** &mdash; Added computeDryBaseline implementation in RenderShiftedBox<br />
   <sub>[#171250](https://github.com/flutter/flutter/pull/171250) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171250) 29 additions and 5 deletions in 1 file</sub><br />
 
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Re-combine reload error and restart test cases<br />
+  <sub>[#171251](https://github.com/flutter/flutter/pull/171251) opened on on June 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171251) 19 additions and 9 deletions in 1 file</sub><br />
+
