@@ -826,7 +826,7 @@
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [zhongliugo](https://github.com/flutter-zl)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Check macOS 15 for Xcode analyzer warnings
-  <sub>[#9427](https://github.com/flutter/packages/pull/9427) merged on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9427) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+  <sub>[#9427](https://github.com/flutter/packages/pull/9427) merged on June 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9427) over 1 week, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Remove in_app_purchase_storekit from Xcode analyzer exclusion list
