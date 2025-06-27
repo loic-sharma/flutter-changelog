@@ -984,7 +984,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-5 commits.
+6 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Updated edge to edge UI Mode Migration Docs<br />
   <sub>[#12148](https://github.com/flutter/website/pull/12148) merged on June 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12148) over 3 days, 15 additions and 5 deletions in 1 file</sub><br />
@@ -992,6 +992,10 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update key-value-data.md<br />
   <sub>[#12155](https://github.com/flutter/website/pull/12155) merged on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12155) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Seunghyun Min](https://github.com/MinSeungHyun)** &mdash; Fix wrong command in flutter-plugins-configuration.md<br />
+  <sub>[#12145](https://github.com/flutter/website/pull/12145) merged on June 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12145) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Keqy](https://github.com/Keqy)** &mdash; Fix incorrect verbose flag in troubleshoot section<br />
