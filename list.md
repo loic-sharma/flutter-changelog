@@ -1037,7 +1037,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-9 commits.
+10 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE pt 2 - Working with data
   <sub>[#12150](https://github.com/flutter/website/pull/12150) merged on June 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/12150) over 2 days, 853 additions and 0 deletions in 4 files</sub>
@@ -1053,6 +1053,10 @@
 
 * **[সৌম্যদীপ ঘোষ](https://github.com/soumyaDghosh)** &mdash; move snap doc to core24
   <sub>[#12143](https://github.com/flutter/website/pull/12143) merged on June 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12143) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update eleventy and other node dependencies
+  <sub>[#12160](https://github.com/flutter/website/pull/12160) merged on June 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12160) over 8 hours, 111 additions and 114 deletions in 5 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update key-value-data.md
