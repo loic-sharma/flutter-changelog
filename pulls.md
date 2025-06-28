@@ -122,3 +122,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run stateless_stateful_hot_reload_web_test.dart on Mac/Windows<br />
   <sub>[#171283](https://github.com/flutter/flutter/pull/171283) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171283) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `radioSide` to `RadioListTile`<br />
+  <sub>[#171318](https://github.com/flutter/flutter/pull/171318) opened on on June 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171318) 25 additions and 0 deletions in 2 files</sub><br />
+
