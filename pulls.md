@@ -126,5 +126,5 @@
   <sub>[#171318](https://github.com/flutter/flutter/pull/171318) opened on on June 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171318) 25 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kouki Badr](https://github.com/koukibadr)** &mdash; feat(cupertino): Add weekType parameter to CupertinoDatePicker for selectable day control #171332<br />
-  <sub>[#171334](https://github.com/flutter/flutter/pull/171334) opened on on June 28, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/171334) 334 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#171334](https://github.com/flutter/flutter/pull/171334) opened on on June 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171334) 221 additions and 4 deletions in 2 files</sub><br />
 
