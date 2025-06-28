@@ -1037,11 +1037,15 @@
 
 ### June 21, 2025 to June 27, 2025
 
-8 commits.
+9 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE pt 2 - Working with data
   <sub>[#12150](https://github.com/flutter/website/pull/12150) merged on June 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/12150) over 2 days, 853 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Fix PR template
+  <sub>[#12158](https://github.com/flutter/website/pull/12158) merged on June 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12158) over 22 hours, 22 additions and 14 deletions in 5 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Updated edge to edge UI Mode Migration Docs
   <sub>[#12148](https://github.com/flutter/website/pull/12148) merged on June 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12148) over 3 days, 15 additions and 5 deletions in 1 file</sub>
