@@ -128,3 +128,6 @@
 * **[Kouki Badr](https://github.com/koukibadr)** &mdash; feat(cupertino): Add weekType parameter to CupertinoDatePicker for selectable day control #171332<br />
   <sub>[#171334](https://github.com/flutter/flutter/pull/171334) opened on on June 28, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171334) 334 additions and 4 deletions in 2 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue where calling showOnScreen on a sliver after a pinned child in SliverMainAxisGroup does not reveal it.<br />
+  <sub>[#171339](https://github.com/flutter/flutter/pull/171339) opened on on June 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171339) 69 additions and 1 deletion in 4 files</sub><br />
+
