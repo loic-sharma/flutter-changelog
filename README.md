@@ -1041,7 +1041,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-10 commits.
+11 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE pt 2 - Working with data<br />
   <sub>[#12150](https://github.com/flutter/website/pull/12150) merged on June 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/12150) over 2 days, 853 additions and 0 deletions in 4 files</sub><br />
@@ -1065,6 +1065,10 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update key-value-data.md<br />
   <sub>[#12155](https://github.com/flutter/website/pull/12155) merged on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12155) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[GOLD](https://github.com/kumgold)** &mdash; Update compose-devs.md to fix typo<br />
+  <sub>[#12162](https://github.com/flutter/website/pull/12162) merged on June 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12162) over 47 minutes, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Seunghyun Min](https://github.com/MinSeungHyun)** &mdash; Fix wrong command in flutter-plugins-configuration.md<br />
