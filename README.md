@@ -840,7 +840,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-15 commits.
+16 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs<br />
   <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub><br />
@@ -889,6 +889,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Remove in_app_purchase_storekit from Xcode analyzer exclusion list<br />
   <sub>[#9429](https://github.com/flutter/packages/pull/9429) merged on June 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9429) over 1 week, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[ash2moon](https://github.com/ash2moon)** &mdash; Skip test to unblock packages<br />
+  <sub>[#9516](https://github.com/flutter/packages/pull/9516) merged on June 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9516) over 1 day, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add contributor setup instructions<br />
   <sub>[#9489](https://github.com/flutter/packages/pull/9489) merged on June 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9489) over 1 day, 12 additions and 1 deletion in 2 files</sub><br />
