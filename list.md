@@ -840,7 +840,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-16 commits.
+17 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs
   <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub>
@@ -901,6 +901,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Skip case sensitive test
   <sub>[#9444](https://github.com/flutter/packages/pull/9444) merged on June 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9444) over 5 days, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 6fba2447e95c to fcf2c11572af (6 revisions)
+  <sub>[#9502](https://github.com/flutter/packages/pull/9502) merged on June 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9502) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Revert "[camera_android_camerax] Force new `Surface` for each `SurfaceRequest`"
   <sub>[#9500](https://github.com/flutter/packages/pull/9500) merged on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9500) over 3 hours, 4 additions and 9 deletions in 4 files</sub>
