@@ -840,7 +840,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-17 commits.
+19 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs
   <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub>
@@ -866,6 +866,10 @@
   <sub>[#9426](https://github.com/flutter/packages/pull/9426) merged on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9426) over 1 week, 87 additions and 34 deletions in 9 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Ortes](https://github.com/Ortes)** &mdash; [video_player] Add poster attribute for html video tag in video_player_platform_interface
+  <sub>[#8979](https://github.com/flutter/packages/pull/8979) merged on June 29, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8979) over 2 months, 27 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [extension_google_sign_in_as_googleapis_auth] Update to google_sign_in 7
   <sub>[#9484](https://github.com/flutter/packages/pull/9484) merged on June 26, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/9484) over 1 day, 183 additions and 140 deletions in 7 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
@@ -889,6 +893,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Remove in_app_purchase_storekit from Xcode analyzer exclusion list
   <sub>[#9429](https://github.com/flutter/packages/pull/9429) merged on June 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9429) over 1 week, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [in_app_purchase] Annotate deprecation in test
+  <sub>[#9473](https://github.com/flutter/packages/pull/9473) merged on June 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9473) over 5 days, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; Skip test to unblock packages
   <sub>[#9516](https://github.com/flutter/packages/pull/9516) merged on June 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9516) over 1 day, 2 additions and 1 deletion in 1 file</sub>
