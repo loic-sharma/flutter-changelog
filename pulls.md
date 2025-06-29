@@ -131,3 +131,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add top gap for cupertino sheet<br />
   <sub>[#171348](https://github.com/flutter/flutter/pull/171348) opened on on June 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171348) 44 additions and 9 deletions in 1 file</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Fix the algorithm for building paths for RSuperellipses with sharp corners<br />
+  <sub>[#171351](https://github.com/flutter/flutter/pull/171351) opened on on June 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171351) 80 additions and 11 deletions in 2 files</sub><br />
+
