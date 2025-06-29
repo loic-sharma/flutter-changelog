@@ -132,5 +132,5 @@
   <sub>[#171348](https://github.com/flutter/flutter/pull/171348) opened on on June 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171348) 44 additions and 9 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Fix the algorithm for building paths for RSuperellipses with sharp corners<br />
-  <sub>[#171351](https://github.com/flutter/flutter/pull/171351) opened on on June 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171351) 114 additions and 11 deletions in 3 files</sub><br />
+  <sub>[#171351](https://github.com/flutter/flutter/pull/171351) opened on on June 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171351) 114 additions and 12 deletions in 3 files</sub><br />
 
