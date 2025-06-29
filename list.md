@@ -840,7 +840,7 @@
 
 ### June 21, 2025 to June 27, 2025
 
-19 commits.
+20 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs
   <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub>
@@ -861,6 +861,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bump AVD and SDK to API 36 in Packages CI
   <sub>[#9414](https://github.com/flutter/packages/pull/9414) merged on June 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9414) over 2 weeks, 23 additions and 18 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix incorrectly rotated captured photos
+  <sub>[#9498](https://github.com/flutter/packages/pull/9498) merged on June 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9498) over 3 days, 13 additions and 7 deletions in 4 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [ash2moon](https://github.com/ash2moon)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Fix routing to treat URLs with different cases (e.g., `/Home` vs `/home`) as distinct routes.
   <sub>[#9426](https://github.com/flutter/packages/pull/9426) merged on June 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9426) over 1 week, 87 additions and 34 deletions in 9 files</sub>
