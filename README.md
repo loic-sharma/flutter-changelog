@@ -587,9 +587,18 @@
 
 ## flutter/packages
 
+### June 28, 2025 to July 4, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Remove legacy renderer tests<br />
+  <sub>[#9517](https://github.com/flutter/packages/pull/9517) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9517) over 2 days, 40 additions and 123 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### June 21, 2025 to June 27, 2025
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Redesign API for current identity SDKs<br />
   <sub>[#9267](https://github.com/flutter/packages/pull/9267) merged on June 24, 2025 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/9267) over 1 month, 1504 additions and 1173 deletions in 21 files</sub><br />
@@ -670,6 +679,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Revert "[camera_android_camerax] Force new `Surface` for each `SurfaceRequest`"<br />
   <sub>[#9500](https://github.com/flutter/packages/pull/9500) merged on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9500) over 3 hours, 4 additions and 9 deletions in 4 files</sub><br />
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub><br />
+
+</details>
 
 ### June 14, 2025 to June 20, 2025
 
