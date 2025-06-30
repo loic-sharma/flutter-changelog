@@ -591,13 +591,13 @@
   <sub>[#9460](https://github.com/flutter/packages/pull/9460) merged on June 26, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/9460) over 6 days, 709 additions and 260 deletions in 33 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Force new `Surface` for each `SurfaceRequest`<br />
-  <sub>[#9360](https://github.com/flutter/packages/pull/9360) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9360) over 3 weeks, 9 additions and 4 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub><br />
-
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Use an activity for credential requests<br />
   <sub>[#9497](https://github.com/flutter/packages/pull/9497) merged on June 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9497) over 18 hours, 91 additions and 20 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Force new `Surface` for each `SurfaceRequest`<br />
+  <sub>[#9360](https://github.com/flutter/packages/pull/9360) merged on June 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9360) over 3 weeks, 9 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bump AVD and SDK to API 36 in Packages CI<br />
   <sub>[#9414](https://github.com/flutter/packages/pull/9414) merged on June 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9414) over 2 weeks, 23 additions and 18 deletions in 2 files</sub><br />
