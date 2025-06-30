@@ -131,3 +131,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Fix the algorithm for building paths for RSuperellipses with sharp corners<br />
   <sub>[#171351](https://github.com/flutter/flutter/pull/171351) opened on on June 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171351) 114 additions and 12 deletions in 3 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Change name of test classes that don't extend `Mock` from `Mock*` to `Fake*`<br />
+  <sub>[#171380](https://github.com/flutter/flutter/pull/171380) opened on on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171380) 135 additions and 135 deletions in 8 files</sub><br />
+

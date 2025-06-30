@@ -750,10 +750,14 @@
 
 ### June 28, 2025 to July 4, 2025
 
-1 commits.
+2 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix IDs of headers on books page<br />
   <sub>[#12163](https://github.com/flutter/website/pull/12163) merged on June 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12163) over 6 hours, 4 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate `value`parameter of `DropdownButtonFormField`<br />
+  <sub>[#12164](https://github.com/flutter/website/pull/12164) merged on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12164) over 5 hours, 77 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### June 21, 2025 to June 27, 2025
