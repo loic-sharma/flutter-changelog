@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-7 commits.
+8 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`<br />
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add `CupertinoPicker` ticking sound<br />
   <sub>[#170641](https://github.com/flutter/flutter/pull/170641) merged on June 30, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170641) over 2 weeks, 57 additions and 7 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Victor Sanni](https://github.com/victorsanni), [dcq01](https://github.com/dcq01), [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; feat(web): Add navigation focus handler for assistive technology focus restoration<br />
+  <sub>[#170046](https://github.com/flutter/flutter/pull/170046) merged on June 30, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/170046) over 3 weeks, 474 additions and 26 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: add "stamp" to et and create build-time engine_stamp.json<br />
   <sub>[#171310](https://github.com/flutter/flutter/pull/171310) merged on June 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/171310) over 2 days, 298 additions and 0 deletions in 5 files</sub><br />
@@ -781,7 +785,11 @@
 
 ### June 28, 2025 to July 4, 2025
 
-3 commits.
+4 commits.
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Removing a deprecated cookbook recipe<br />
+  <sub>[#12168](https://github.com/flutter/website/pull/12168) merged on June 30, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/website/pull/12168) over 3 hours, 5 additions and 516 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix IDs of headers on books page<br />
   <sub>[#12163](https://github.com/flutter/website/pull/12163) merged on June 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12163) over 6 hours, 4 additions and 7 deletions in 3 files</sub><br />
