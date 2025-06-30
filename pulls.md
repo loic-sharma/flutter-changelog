@@ -128,3 +128,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Use Async SurfaceHolder Callback to remove need for setting alpha workaround<br />
   <sub>[#171398](https://github.com/flutter/flutter/pull/171398) opened on on June 30, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/171398) 292 additions and 31 deletions in 4 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
+  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171399) 17 additions and 18 deletions in 4 files</sub><br />
+
