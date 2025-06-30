@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-5 commits.
+6 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`<br />
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Activate microtask profiling in `dart:async` when `Switch::ProfileMicrotasks` is set<br />
   <sub>[#171035](https://github.com/flutter/flutter/pull/171035) merged on June 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171035) over 6 days, 98 additions and 7 deletions in 6 files</sub><br />
   <sub>Reviewed by: [dcq01](https://github.com/dcq01), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update Setting-up-the-Engine-development-environment.md<br />
+  <sub>[#171051](https://github.com/flutter/flutter/pull/171051) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171051) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run expression_evaluation_web_ddc_library_bundle_test.dart on Mac/Windows<br />
   <sub>[#171278](https://github.com/flutter/flutter/pull/171278) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171278) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
