@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 28, 2025 to July 4, 2025
+
+1 commits.
+
+* **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
+  <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 ### June 21, 2025 to June 27, 2025
 
-76 commits.
+<details>
+<summary>76 commits...</summary>
 
 * **[Juergen Werner](https://github.com/pogojotz)** &mdash; NavigationRail: optionally scrollable and more configurable
   <sub>[#169421](https://github.com/flutter/flutter/pull/169421) merged on June 27, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/169421) over 1 month, 314 additions and 90 deletions in 3 files</sub>
@@ -314,6 +323,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "[skwasm] Use `transferToImageBitmap` instead of `createImageBitmap` (#163251)"
   <sub>[#171238](https://github.com/flutter/flutter/pull/171238) merged on June 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171238) over 21 hours, 22 additions and 17 deletions in 3 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+</details>
 
 ### June 14, 2025 to June 20, 2025
 
