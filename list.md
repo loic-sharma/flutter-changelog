@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-2 commits.
+3 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -13,6 +13,10 @@
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Activate microtask profiling in `dart:async` when `Switch::ProfileMicrotasks` is set
   <sub>[#171035](https://github.com/flutter/flutter/pull/171035) merged on June 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171035) over 6 days, 98 additions and 7 deletions in 6 files</sub>
   <sub>Reviewed by: [dcq01](https://github.com/dcq01), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run expression_evaluation_web_ddc_library_bundle_test.dart on Mac/Windows
+  <sub>[#171278](https://github.com/flutter/flutter/pull/171278) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171278) over 2 days, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 ### June 21, 2025 to June 27, 2025
 
