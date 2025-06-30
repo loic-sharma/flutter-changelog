@@ -111,7 +111,7 @@
   <sub>[#171318](https://github.com/flutter/flutter/pull/171318) opened on on June 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171318) 25 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kouki Badr](https://github.com/koukibadr)** &mdash; feat(cupertino): Add weekType parameter to CupertinoDatePicker for selectable day control #171332<br />
-  <sub>[#171334](https://github.com/flutter/flutter/pull/171334) opened on on June 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171334) 221 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#171334](https://github.com/flutter/flutter/pull/171334) opened on on June 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171334) 221 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add top gap for cupertino sheet<br />
   <sub>[#171348](https://github.com/flutter/flutter/pull/171348) opened on on June 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171348) 44 additions and 9 deletions in 1 file</sub><br />
@@ -121,4 +121,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Update validator of NO_PROXY to explicitly match detected hosts<br />
   <sub>[#171385](https://github.com/flutter/flutter/pull/171385) opened on on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171385) 33 additions and 11 deletions in 2 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Android gradle use lowercase instead of toLowerCase in preparation for removal in v9<br />
+  <sub>[#171397](https://github.com/flutter/flutter/pull/171397) opened on on June 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171397) 2 additions and 6 deletions in 1 file</sub><br />
 
