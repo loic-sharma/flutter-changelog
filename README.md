@@ -733,9 +733,18 @@
 
 ## flutter/website
 
+### June 28, 2025 to July 4, 2025
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix IDs of headers on books page<br />
+  <sub>[#12163](https://github.com/flutter/website/pull/12163) merged on June 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12163) over 6 hours, 4 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 ### June 21, 2025 to June 27, 2025
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE pt 2 - Working with data<br />
   <sub>[#12150](https://github.com/flutter/website/pull/12150) merged on June 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/12150) over 2 days, 853 additions and 0 deletions in 4 files</sub><br />
@@ -780,6 +789,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add `/go/go-router-v15-2-0-breaking-changes` redirect<br />
   <sub>[#12149](https://github.com/flutter/website/pull/12149) merged on June 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12149) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### June 14, 2025 to June 20, 2025
 
