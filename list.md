@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-9 commits.
+10 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -29,6 +29,10 @@
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Activate microtask profiling in `dart:async` when `Switch::ProfileMicrotasks` is set
   <sub>[#171035](https://github.com/flutter/flutter/pull/171035) merged on June 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171035) over 6 days, 98 additions and 7 deletions in 6 files</sub>
   <sub>Reviewed by: [dcq01](https://github.com/dcq01), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove --enable-impeller-3d gn flag
+  <sub>[#171405](https://github.com/flutter/flutter/pull/171405) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171405) over 57 minutes, 0 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in BUILD.gn
   <sub>[#170965](https://github.com/flutter/flutter/pull/170965) merged on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170965) over 1 week, 0 additions and 17 deletions in 1 file</sub>
