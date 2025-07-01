@@ -120,7 +120,7 @@
   <sub>[#171385](https://github.com/flutter/flutter/pull/171385) opened on on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171385) 33 additions and 11 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android gradle use lowercase instead of toLowerCase in preparation for removal in v9<br />
-  <sub>[#171397](https://github.com/flutter/flutter/pull/171397) opened on on June 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171397) 2 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#171397](https://github.com/flutter/flutter/pull/171397) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171397) 2 additions and 6 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
   <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171399) 17 additions and 18 deletions in 4 files</sub><br />
