@@ -134,6 +134,3 @@
 * **[Zuckjet](https://github.com/Zuckjet)** &mdash; fix: adjust scrollable size assertion with tolerance<br />
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets<br />
-  <sub>[#171437](https://github.com/flutter/flutter/pull/171437) opened on on July 1, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/171437) 313 additions and 113 deletions in 3 files</sub><br />
-
