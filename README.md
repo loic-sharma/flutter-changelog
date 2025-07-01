@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-21 commits.
+22 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`<br />
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub><br />
@@ -45,6 +45,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: add "stamp" to et and create build-time engine_stamp.json<br />
   <sub>[#171310](https://github.com/flutter/flutter/pull/171310) merged on June 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/171310) over 2 days, 298 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[matasb-google](https://github.com/matasb-google)** &mdash; Fix crash when editableText is not mounted<br />
+  <sub>[#171159](https://github.com/flutter/flutter/pull/171159) merged on July 1, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/171159) over 6 days, 45 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Focused search field hides prefix in higher accessibility text scale modes<br />
   <sub>[#171406](https://github.com/flutter/flutter/pull/171406) merged on July 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171406) over 20 hours, 96 additions and 6 deletions in 2 files</sub><br />
