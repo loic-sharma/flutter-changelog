@@ -645,11 +645,15 @@
 
 ### June 28, 2025 to July 4, 2025
 
-2 commits.
+3 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Remove legacy renderer tests<br />
   <sub>[#9517](https://github.com/flutter/packages/pull/9517) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9517) over 2 days, 40 additions and 123 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] bump breaking change release to v16<br />
+  <sub>[#9480](https://github.com/flutter/packages/pull/9480) merged on July 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9480) over 1 week, 12 additions and 21 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Use CADisplayLink on macOS 14.0+<br />
   <sub>[#9533](https://github.com/flutter/packages/pull/9533) merged on July 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9533) over 5 hours, 97 additions and 85 deletions in 11 files</sub><br />
