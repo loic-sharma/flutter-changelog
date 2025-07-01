@@ -63,7 +63,7 @@
   <sub>Reviewed by: [dcq01](https://github.com/dcq01), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Focused search field hides prefix in higher accessibility text scale modes<br />
-  <sub>[#171406](https://github.com/flutter/flutter/pull/171406) merged on July 1, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171406) over 20 hours, 96 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#171406](https://github.com/flutter/flutter/pull/171406) merged on July 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171406) over 20 hours, 96 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove impeller-cmake build rules<br />
