@@ -7,7 +7,7 @@
 12 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
-  <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
+  <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add `CupertinoPicker` ticking sound
