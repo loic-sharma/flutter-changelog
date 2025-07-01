@@ -801,7 +801,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-4 commits.
+5 commits.
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Removing a deprecated cookbook recipe
   <sub>[#12168](https://github.com/flutter/website/pull/12168) merged on June 30, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/website/pull/12168) over 3 hours, 5 additions and 516 deletions in 4 files</sub>
@@ -810,6 +810,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix IDs of headers on books page
   <sub>[#12163](https://github.com/flutter/website/pull/12163) merged on June 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12163) over 6 hours, 4 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Oops, updating banner
+  <sub>[#12171](https://github.com/flutter/website/pull/12171) merged on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12171) over 4 hours, 1 addition and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update firebase.json
   <sub>[#12167](https://github.com/flutter/website/pull/12167) merged on June 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12167) over 43 minutes, 1 addition and 1 deletion in 1 file</sub>
