@@ -661,7 +661,11 @@
 
 ### June 28, 2025 to July 4, 2025
 
-3 commits.
+4 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds wrappers for native IMA settings 
+  <sub>[#9481](https://github.com/flutter/packages/pull/9481) merged on July 1, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9481) over 1 week, 1939 additions and 25 deletions in 16 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Remove legacy renderer tests
   <sub>[#9517](https://github.com/flutter/packages/pull/9517) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9517) over 2 days, 40 additions and 123 deletions in 6 files</sub>

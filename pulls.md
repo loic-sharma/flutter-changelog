@@ -120,10 +120,10 @@
   <sub>[#171385](https://github.com/flutter/flutter/pull/171385) opened on on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171385) 33 additions and 11 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
-  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171399) 17 additions and 18 deletions in 4 files</sub><br />
+  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171399) 17 additions and 18 deletions in 4 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view GL rendering not working since software rendering was added<br />
-  <sub>[#171409](https://github.com/flutter/flutter/pull/171409) opened on on June 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171409) 12 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#171409](https://github.com/flutter/flutter/pull/171409) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171409) 12 additions and 7 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor compositor classes<br />
   <sub>[#171414](https://github.com/flutter/flutter/pull/171414) opened on on July 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/171414) 391 additions and 560 deletions in 17 files</sub><br />
@@ -133,7 +133,4 @@
 
 * **[Halil](https://github.com/hig-dev)** &mdash; Add build option to force inclusion of dev_dependencies<br />
   <sub>[#171445](https://github.com/flutter/flutter/pull/171445) opened on on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171445) 153 additions and 21 deletions in 18 files</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Set width and height when creating <img> platform view for NetworkImage<br />
-  <sub>[#171474](https://github.com/flutter/flutter/pull/171474) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171474) 28 additions and 13 deletions in 2 files</sub><br />
 
