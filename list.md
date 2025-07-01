@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-14 commits.
+17 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -33,6 +33,18 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android gradle use lowercase instead of toLowerCase in preparation for removal in v9
   <sub>[#171397](https://github.com/flutter/flutter/pull/171397) merged on July 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171397) over 20 hours, 2 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add feature flags to `flutter doctor -v`
+  <sub>[#171307](https://github.com/flutter/flutter/pull/171307) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171307) over 3 days, 176 additions and 2 deletions in 6 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Report feature flags enabled if the flutter tool crashes on a bot.
+  <sub>[#171304](https://github.com/flutter/flutter/pull/171304) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171304) over 3 days, 74 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove a doctor event from the `package:usage`-era.
+  <sub>[#171305](https://github.com/flutter/flutter/pull/171305) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171305) over 3 days, 0 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Re-pin package:intl
   <sub>[#171438](https://github.com/flutter/flutter/pull/171438) merged on July 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171438) over 1 hour, 4 additions and 4 deletions in 2 files</sub>
