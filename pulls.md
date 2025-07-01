@@ -134,6 +134,3 @@
 * **[Zuckjet](https://github.com/Zuckjet)** &mdash; fix: adjust scrollable size assertion with tolerance<br />
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add tests for some local InputDecorationTheme properties<br />
-  <sub>[#171435](https://github.com/flutter/flutter/pull/171435) opened on on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171435) 89 additions and 29 deletions in 1 file</sub><br />
-
