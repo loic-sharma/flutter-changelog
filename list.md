@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-20 commits.
+21 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -29,6 +29,10 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add WidgetStatesController to ListTile
   <sub>[#168878](https://github.com/flutter/flutter/pull/168878) merged on June 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168878) over 1 month, 91 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add --enable-flutter-gpu flag to flutter_tool & FLTEnableFlutterGPU to the macOS embedder
+  <sub>[#171404](https://github.com/flutter/flutter/pull/171404) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171404) over 21 hours, 121 additions and 3 deletions in 18 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `-v` to `flutter doctor` for crash reporting
   <sub>[#171308](https://github.com/flutter/flutter/pull/171308) merged on July 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171308) over 3 days, 8 additions and 2 deletions in 4 files</sub>
