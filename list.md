@@ -46,6 +46,10 @@
   <sub>[#171310](https://github.com/flutter/flutter/pull/171310) merged on June 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/171310) over 2 days, 298 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Focused search field hides prefix in higher accessibility text scale modes
+  <sub>[#171406](https://github.com/flutter/flutter/pull/171406) merged on July 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171406) over 20 hours, 96 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android gradle use lowercase instead of toLowerCase in preparation for removal in v9
   <sub>[#171397](https://github.com/flutter/flutter/pull/171397) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171397) over 20 hours, 2 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
@@ -65,10 +69,6 @@
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Activate microtask profiling in `dart:async` when `Switch::ProfileMicrotasks` is set
   <sub>[#171035](https://github.com/flutter/flutter/pull/171035) merged on June 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171035) over 6 days, 98 additions and 7 deletions in 6 files</sub>
   <sub>Reviewed by: [dcq01](https://github.com/dcq01), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Focused search field hides prefix in higher accessibility text scale modes
-  <sub>[#171406](https://github.com/flutter/flutter/pull/171406) merged on July 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171406) over 20 hours, 96 additions and 6 deletions in 2 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove impeller-cmake build rules
   <sub>[#171407](https://github.com/flutter/flutter/pull/171407) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171407) over 1 hour, 0 additions and 205 deletions in 3 files</sub>
@@ -661,7 +661,11 @@
 
 ### June 28, 2025 to July 4, 2025
 
-4 commits.
+5 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add `GoogleSignInExceptionCode` export
+  <sub>[#9545](https://github.com/flutter/packages/pull/9545) merged on July 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9545) over 26 minutes, 20 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds wrappers for native IMA settings 
   <sub>[#9481](https://github.com/flutter/packages/pull/9481) merged on July 1, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9481) over 1 week, 1939 additions and 25 deletions in 16 files</sub>
