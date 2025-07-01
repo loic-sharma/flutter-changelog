@@ -107,9 +107,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run stateless_stateful_hot_reload_web_test.dart on Mac/Windows<br />
   <sub>[#171283](https://github.com/flutter/flutter/pull/171283) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171283) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `radioSide` to `RadioListTile`<br />
-  <sub>[#171318](https://github.com/flutter/flutter/pull/171318) opened on on June 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171318) 25 additions and 0 deletions in 2 files</sub><br />
-
 * **[Kouki Badr](https://github.com/koukibadr)** &mdash; feat(cupertino): Add weekType parameter to CupertinoDatePicker for selectable day control #171332<br />
   <sub>[#171334](https://github.com/flutter/flutter/pull/171334) opened on on June 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171334) 221 additions and 4 deletions in 2 files</sub><br />
 
@@ -128,6 +125,9 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
   <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171399) 17 additions and 18 deletions in 4 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix mult-view not working since software rendering was added<br />
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view not working since software rendering was added<br />
   <sub>[#171409](https://github.com/flutter/flutter/pull/171409) opened on on June 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171409) 12 additions and 7 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor compositor classes<br />
+  <sub>[#171414](https://github.com/flutter/flutter/pull/171414) opened on on July 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/171414) 391 additions and 560 deletions in 17 files</sub><br />
 
