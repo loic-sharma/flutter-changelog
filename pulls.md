@@ -125,8 +125,8 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
   <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171399) 17 additions and 18 deletions in 4 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view not working since software rendering was added<br />
-  <sub>[#171409](https://github.com/flutter/flutter/pull/171409) opened on on June 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171409) 12 additions and 7 deletions in 1 file</sub><br />
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view GL rendering not working since software rendering was added<br />
+  <sub>[#171409](https://github.com/flutter/flutter/pull/171409) opened on on June 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171409) 12 additions and 7 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor compositor classes<br />
   <sub>[#171414](https://github.com/flutter/flutter/pull/171414) opened on on July 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/171414) 391 additions and 560 deletions in 17 files</sub><br />
