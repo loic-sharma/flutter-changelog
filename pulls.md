@@ -135,5 +135,5 @@
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Halil](https://github.com/hig-dev)** &mdash; Add build option to force inclusion of dev_dependencies<br />
-  <sub>[#171445](https://github.com/flutter/flutter/pull/171445) opened on on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171445) 148 additions and 19 deletions in 17 files</sub><br />
+  <sub>[#171445](https://github.com/flutter/flutter/pull/171445) opened on on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171445) 153 additions and 21 deletions in 18 files</sub><br />
 
