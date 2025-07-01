@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-18 commits.
+19 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -29,6 +29,10 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add WidgetStatesController to ListTile
   <sub>[#168878](https://github.com/flutter/flutter/pull/168878) merged on June 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168878) over 1 month, 91 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `-v` to `flutter doctor` for crash reporting
+  <sub>[#171308](https://github.com/flutter/flutter/pull/171308) merged on July 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171308) over 3 days, 8 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: add "stamp" to et and create build-time engine_stamp.json
   <sub>[#171310](https://github.com/flutter/flutter/pull/171310) merged on June 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/171310) over 2 days, 298 additions and 0 deletions in 5 files</sub>
