@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-11 commits.
+12 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`<br />
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add `CupertinoPicker` ticking sound<br />
   <sub>[#170641](https://github.com/flutter/flutter/pull/170641) merged on June 30, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/170641) over 2 weeks, 57 additions and 7 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Victor Sanni](https://github.com/victorsanni), [dcq01](https://github.com/dcq01), [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct position for an open CupertinoContextMenu<br />
+  <sub>[#170943](https://github.com/flutter/flutter/pull/170943) merged on July 1, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/170943) over 1 week, 425 additions and 92 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; feat(web): Add navigation focus handler for assistive technology focus restoration<br />
   <sub>[#170046](https://github.com/flutter/flutter/pull/170046) merged on June 30, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/170046) over 3 weeks, 474 additions and 26 deletions in 7 files</sub><br />
