@@ -126,7 +126,7 @@
   <sub>[#171414](https://github.com/flutter/flutter/pull/171414) opened on on July 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/171414) 391 additions and 560 deletions in 17 files</sub><br />
 
 * **[Zuckjet](https://github.com/Zuckjet)** &mdash; fix: adjust scrollable size assertion with tolerance<br />
-  <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 59 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 62 additions and 3 deletions in 2 files</sub><br />
 
 * **[Halil](https://github.com/hig-dev)** &mdash; Add build option to force inclusion of dev_dependencies<br />
   <sub>[#171445](https://github.com/flutter/flutter/pull/171445) opened on on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171445) 153 additions and 21 deletions in 18 files</sub><br />
