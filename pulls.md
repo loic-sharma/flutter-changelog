@@ -110,3 +110,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for Pub Workspaces<br />
   <sub>[#171538](https://github.com/flutter/flutter/pull/171538) opened on on July 2, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/171538) 660 additions and 233 deletions in 21 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update translation from console<br />
+  <sub>[#171556](https://github.com/flutter/flutter/pull/171556) opened on on July 2, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/171556) 630 additions and 631 deletions in 12 files</sub><br />
+
