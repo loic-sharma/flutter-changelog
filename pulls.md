@@ -108,5 +108,5 @@
   <sub>[#171489](https://github.com/flutter/flutter/pull/171489) opened on on July 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171489) 963 additions and 79 deletions in 17 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for Pub Workspaces<br />
-  <sub>[#171538](https://github.com/flutter/flutter/pull/171538) opened on on July 2, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/171538) 660 additions and 233 deletions in 21 files</sub><br />
+  <sub>[#171538](https://github.com/flutter/flutter/pull/171538) opened on on July 2, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/171538) 660 additions and 233 deletions in 21 files</sub><br />
 
