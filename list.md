@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-24 commits.
+25 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -77,6 +77,10 @@
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Activate microtask profiling in `dart:async` when `Switch::ProfileMicrotasks` is set
   <sub>[#171035](https://github.com/flutter/flutter/pull/171035) merged on June 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171035) over 6 days, 98 additions and 7 deletions in 6 files</sub>
   <sub>Reviewed by: [dcq01](https://github.com/dcq01), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add tests for some local InputDecorationTheme properties
+  <sub>[#171435](https://github.com/flutter/flutter/pull/171435) merged on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171435) over 11 hours, 89 additions and 29 deletions in 1 file</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Update `CupertinoPicker` docs
   <sub>[#170960](https://github.com/flutter/flutter/pull/170960) merged on July 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170960) over 1 week, 3 additions and 7 deletions in 1 file</sub>
@@ -872,7 +876,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Updates component theme normalization breaking changes (AppBarTheme)
-  <sub>[#12174](https://github.com/flutter/website/pull/12174) merged on July 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12174) over 5 hours, 19 additions and 4 deletions in 1 file</sub>
+  <sub>[#12174](https://github.com/flutter/website/pull/12174) merged on July 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12174) over 5 hours, 19 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix IDs of headers on books page
