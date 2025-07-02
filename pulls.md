@@ -90,7 +90,7 @@
   <sub>[#171283](https://github.com/flutter/flutter/pull/171283) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171283) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
-  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171399) 46 additions and 228 deletions in 10 files</sub><br />
+  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/171399) 46 additions and 231 deletions in 10 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view GL rendering not working since software rendering was added<br />
   <sub>[#171409](https://github.com/flutter/flutter/pull/171409) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171409) 12 additions and 7 deletions in 1 file</sub><br />
@@ -111,5 +111,5 @@
   <sub>[#171489](https://github.com/flutter/flutter/pull/171489) opened on on July 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171489) 963 additions and 79 deletions in 17 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for Pub Workspaces<br />
-  <sub>[#171538](https://github.com/flutter/flutter/pull/171538) opened on on July 2, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/171538) 659 additions and 232 deletions in 21 files</sub><br />
+  <sub>[#171538](https://github.com/flutter/flutter/pull/171538) opened on on July 2, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/171538) 660 additions and 233 deletions in 21 files</sub><br />
 
