@@ -701,7 +701,11 @@
 
 ### June 28, 2025 to July 4, 2025
 
-5 commits.
+6 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Convert iOS/macOS to Swift
+  <sub>[#9459](https://github.com/flutter/packages/pull/9459) merged on July 2, 2025 &mdash; **Extra large:** [93 comments](https://github.com/flutter/packages/pull/9459) over 1 week, 1313 additions and 1326 deletions in 14 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add `GoogleSignInExceptionCode` export
   <sub>[#9545](https://github.com/flutter/packages/pull/9545) merged on July 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9545) over 26 minutes, 20 additions and 5 deletions in 4 files</sub>
