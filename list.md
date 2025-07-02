@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-38 commits.
+39 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -52,21 +52,29 @@
   <sub>[#168878](https://github.com/flutter/flutter/pull/168878) merged on June 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168878) over 1 month, 91 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp 701
-  <sub>[#171487](https://github.com/flutter/flutter/pull/171487) merged on July 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171487) over 19 hours, 6948 additions and 2831 deletions in 16 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Set width and height when creating <img> platform view for NetworkImage
-  <sub>[#171474](https://github.com/flutter/flutter/pull/171474) merged on July 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171474) over 1 day, 28 additions and 13 deletions in 2 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics locale support for web
+  <sub>[#171196](https://github.com/flutter/flutter/pull/171196) merged on July 2, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/171196) over 6 days, 691 additions and 307 deletions in 19 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Increase per-step timeout for `build_android_host_app_with_module_source` targets
   <sub>[#171241](https://github.com/flutter/flutter/pull/171241) merged on July 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171241) over 5 days, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Set width and height when creating <img> platform view for NetworkImage
+  <sub>[#171474](https://github.com/flutter/flutter/pull/171474) merged on July 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171474) over 1 day, 28 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp 701
+  <sub>[#171487](https://github.com/flutter/flutter/pull/171487) merged on July 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171487) over 19 hours, 6948 additions and 2831 deletions in 16 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Deprecate: Mark AppBarTheme & AppBarThemeData color parameter as deprecated in favor of backgroundColor
   <sub>[#170624](https://github.com/flutter/flutter/pull/170624) merged on July 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170624) over 2 weeks, 72 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1
+  <sub>[#170882](https://github.com/flutter/flutter/pull/170882) merged on July 2, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/170882) over 1 week, 118 additions and 210 deletions in 26 files</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Update validator of NO_PROXY to explicitly match detected hosts
   <sub>[#171385](https://github.com/flutter/flutter/pull/171385) merged on July 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171385) over 1 day, 33 additions and 11 deletions in 2 files</sub>
@@ -75,10 +83,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` unused codepaths
   <sub>[#170191](https://github.com/flutter/flutter/pull/170191) merged on July 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/170191) over 3 weeks, 2 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1
-  <sub>[#170882](https://github.com/flutter/flutter/pull/170882) merged on July 2, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/170882) over 1 week, 118 additions and 210 deletions in 26 files</sub>
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `-v` to `flutter doctor` for crash reporting
   <sub>[#171308](https://github.com/flutter/flutter/pull/171308) merged on July 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171308) over 3 days, 8 additions and 2 deletions in 4 files</sub>
@@ -100,6 +104,10 @@
   <sub>[#171159](https://github.com/flutter/flutter/pull/171159) merged on July 1, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/171159) over 6 days, 45 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove --enable-impeller-3d gn flag
+  <sub>[#171405](https://github.com/flutter/flutter/pull/171405) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171405) over 57 minutes, 0 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Focused search field hides prefix in higher accessibility text scale modes
   <sub>[#171406](https://github.com/flutter/flutter/pull/171406) merged on July 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171406) over 20 hours, 96 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
@@ -111,10 +119,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android gradle use lowercase instead of toLowerCase in preparation for removal in v9
   <sub>[#171397](https://github.com/flutter/flutter/pull/171397) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171397) over 20 hours, 2 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove --enable-impeller-3d gn flag
-  <sub>[#171405](https://github.com/flutter/flutter/pull/171405) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171405) over 57 minutes, 0 additions and 9 deletions in 2 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove a doctor event from the `package:usage`-era.
   <sub>[#171305](https://github.com/flutter/flutter/pull/171305) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171305) over 3 days, 0 additions and 4 deletions in 1 file</sub>
