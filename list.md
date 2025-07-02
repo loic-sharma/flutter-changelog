@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-34 commits.
+36 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -38,6 +38,11 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add --enable-flutter-gpu flag to flutter_tool & FLTEnableFlutterGPU to the macOS embedder
   <sub>[#171404](https://github.com/flutter/flutter/pull/171404) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171404) over 21 hours, 121 additions and 3 deletions in 18 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `innerRadius` to `Radio`
+  <sub>[#171331](https://github.com/flutter/flutter/pull/171331) merged on July 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171331) over 4 days, 212 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub><details><summary>1 image...</summary><img width="274" alt="Screenshot 2025-06-28 at 6 23 11 PM" src="https://github.com/user-attachments/assets/45a0525d-ff94-4fb3-85d3-0d2353b39e98" /></details></sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix DropdownMenu does not apply opacity to the selected value when disabled
   <sub>[#170336](https://github.com/flutter/flutter/pull/170336) merged on July 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170336) over 3 weeks, 103 additions and 4 deletions in 4 files</sub>
@@ -91,13 +96,13 @@
   <sub>[#171406](https://github.com/flutter/flutter/pull/171406) merged on July 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171406) over 20 hours, 96 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Android gradle use lowercase instead of toLowerCase in preparation for removal in v9
-  <sub>[#171397](https://github.com/flutter/flutter/pull/171397) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171397) over 20 hours, 2 additions and 6 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove --enable-impeller-3d gn flag
   <sub>[#171405](https://github.com/flutter/flutter/pull/171405) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171405) over 57 minutes, 0 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Android gradle use lowercase instead of toLowerCase in preparation for removal in v9
+  <sub>[#171397](https://github.com/flutter/flutter/pull/171397) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171397) over 20 hours, 2 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove impeller-cmake build rules
   <sub>[#171407](https://github.com/flutter/flutter/pull/171407) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171407) over 1 hour, 0 additions and 205 deletions in 3 files</sub>
@@ -122,6 +127,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Address some comments from #38632 (2019) if they still apply
   <sub>[#171461](https://github.com/flutter/flutter/pull/171461) merged on July 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171461) over 9 hours, 19 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `backgroundColor` to `RadioThemeData`
+  <sub>[#171326](https://github.com/flutter/flutter/pull/171326) merged on July 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171326) over 4 days, 92 additions and 26 deletions in 4 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add tests for some local InputDecorationTheme properties
   <sub>[#171435](https://github.com/flutter/flutter/pull/171435) merged on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171435) over 11 hours, 89 additions and 29 deletions in 1 file</sub>
