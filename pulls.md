@@ -104,9 +104,6 @@
 * **[Kouki Badr](https://github.com/koukibadr)** &mdash; feat(cupertino): Add weekType parameter to CupertinoDatePicker for selectable day control #171332<br />
   <sub>[#171334](https://github.com/flutter/flutter/pull/171334) opened on on June 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171334) 221 additions and 4 deletions in 2 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add top gap for cupertino sheet<br />
-  <sub>[#171348](https://github.com/flutter/flutter/pull/171348) opened on on June 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171348) 53 additions and 9 deletions in 1 file</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
   <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171399) 46 additions and 228 deletions in 10 files</sub><br />
 
