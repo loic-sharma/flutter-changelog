@@ -30,6 +30,10 @@
   <sub>[#170336](https://github.com/flutter/flutter/pull/170336) merged on July 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170336) over 3 weeks, 103 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add --enable-flutter-gpu flag to flutter_tool & FLTEnableFlutterGPU to the macOS embedder<br />
+  <sub>[#171404](https://github.com/flutter/flutter/pull/171404) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171404) over 21 hours, 121 additions and 3 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add WidgetStatesController to ListTile<br />
   <sub>[#168878](https://github.com/flutter/flutter/pull/168878) merged on June 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168878) over 1 month, 91 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
@@ -37,10 +41,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Increase per-step timeout for `build_android_host_app_with_module_source` targets<br />
   <sub>[#171241](https://github.com/flutter/flutter/pull/171241) merged on July 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171241) over 5 days, 3 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add --enable-flutter-gpu flag to flutter_tool & FLTEnableFlutterGPU to the macOS embedder<br />
-  <sub>[#171404](https://github.com/flutter/flutter/pull/171404) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171404) over 21 hours, 121 additions and 3 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1<br />
   <sub>[#170882](https://github.com/flutter/flutter/pull/170882) merged on July 2, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/170882) over 1 week, 118 additions and 210 deletions in 26 files</sub><br />
@@ -82,6 +82,14 @@
   <sub>[#171397](https://github.com/flutter/flutter/pull/171397) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171397) over 20 hours, 2 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove impeller-cmake build rules<br />
+  <sub>[#171407](https://github.com/flutter/flutter/pull/171407) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171407) over 1 hour, 0 additions and 205 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove --enable-impeller-3d gn flag<br />
+  <sub>[#171405](https://github.com/flutter/flutter/pull/171405) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171405) over 57 minutes, 0 additions and 9 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Address some comments from #38632 (2019) if they still apply<br />
   <sub>[#171461](https://github.com/flutter/flutter/pull/171461) merged on July 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171461) over 9 hours, 19 additions and 16 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -109,14 +117,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Update `CupertinoPicker` docs<br />
   <sub>[#170960](https://github.com/flutter/flutter/pull/170960) merged on July 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170960) over 1 week, 3 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove impeller-cmake build rules<br />
-  <sub>[#171407](https://github.com/flutter/flutter/pull/171407) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171407) over 1 hour, 0 additions and 205 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove --enable-impeller-3d gn flag<br />
-  <sub>[#171405](https://github.com/flutter/flutter/pull/171405) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171405) over 57 minutes, 0 additions and 9 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in BUILD.gn<br />
   <sub>[#170965](https://github.com/flutter/flutter/pull/170965) merged on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170965) over 1 week, 0 additions and 17 deletions in 1 file</sub><br />
