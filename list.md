@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-31 commits.
+32 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -17,6 +17,11 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct position for an open CupertinoContextMenu
   <sub>[#170943](https://github.com/flutter/flutter/pull/170943) merged on July 1, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/170943) over 1 week, 425 additions and 92 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Pranav](https://github.com/pranavo72bex)** &mdash; fix: time selector separator in timepicker is not centered vertically
+  <sub>[#168441](https://github.com/flutter/flutter/pull/168441) merged on July 2, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/168441) over 1 month, 59 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+  <sub><details><summary>1 image...</summary>![image-20241023-041530](https://github.com/user-attachments/assets/8401264a-a751-47b4-b634-5742ba4fabcd) ![Screenshot 2024-10-23 at 12 33 05](https://github.com/user-attachments/assets/ab95abd9-8de8-4f7d-9114-d96073d8f887)</details></sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; feat(web): Add navigation focus handler for assistive technology focus restoration
   <sub>[#170046](https://github.com/flutter/flutter/pull/170046) merged on June 30, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/170046) over 3 weeks, 474 additions and 26 deletions in 7 files</sub>
