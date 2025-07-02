@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-33 commits.
+34 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`<br />
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub><br />
@@ -35,13 +35,13 @@
   <sub>[#168437](https://github.com/flutter/flutter/pull/168437) merged on July 2, 2025 &mdash; **Small:** [69 comments](https://github.com/flutter/flutter/pull/168437) over 1 month, 297 additions and 1 deletion in 13 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Justin McCandless](https://github.com/justinmc), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Huy](https://github.com/huycozy)** &mdash; Fix DropdownMenu does not apply opacity to the selected value when disabled<br />
-  <sub>[#170336](https://github.com/flutter/flutter/pull/170336) merged on July 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170336) over 3 weeks, 103 additions and 4 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add --enable-flutter-gpu flag to flutter_tool & FLTEnableFlutterGPU to the macOS embedder<br />
   <sub>[#171404](https://github.com/flutter/flutter/pull/171404) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171404) over 21 hours, 121 additions and 3 deletions in 18 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix DropdownMenu does not apply opacity to the selected value when disabled<br />
+  <sub>[#170336](https://github.com/flutter/flutter/pull/170336) merged on July 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170336) over 3 weeks, 103 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add WidgetStatesController to ListTile<br />
   <sub>[#168878](https://github.com/flutter/flutter/pull/168878) merged on June 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168878) over 1 month, 91 additions and 0 deletions in 2 files</sub><br />
@@ -62,6 +62,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` unused codepaths<br />
   <sub>[#170191](https://github.com/flutter/flutter/pull/170191) merged on July 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/170191) over 3 weeks, 2 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Deprecate: Mark AppBarTheme & AppBarThemeData color parameter as deprecated in favor of backgroundColor<br />
+  <sub>[#170624](https://github.com/flutter/flutter/pull/170624) merged on July 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170624) over 2 weeks, 72 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `-v` to `flutter doctor` for crash reporting<br />
   <sub>[#171308](https://github.com/flutter/flutter/pull/171308) merged on July 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171308) over 3 days, 8 additions and 2 deletions in 4 files</sub><br />
@@ -91,17 +95,13 @@
   <sub>[#171397](https://github.com/flutter/flutter/pull/171397) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171397) over 20 hours, 2 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove impeller-cmake build rules<br />
-  <sub>[#171407](https://github.com/flutter/flutter/pull/171407) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171407) over 1 hour, 0 additions and 205 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove --enable-impeller-3d gn flag<br />
   <sub>[#171405](https://github.com/flutter/flutter/pull/171405) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171405) over 57 minutes, 0 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Address some comments from #38632 (2019) if they still apply<br />
-  <sub>[#171461](https://github.com/flutter/flutter/pull/171461) merged on July 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171461) over 9 hours, 19 additions and 16 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove impeller-cmake build rules<br />
+  <sub>[#171407](https://github.com/flutter/flutter/pull/171407) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171407) over 1 hour, 0 additions and 205 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add feature flags to `flutter doctor -v`<br />
   <sub>[#171307](https://github.com/flutter/flutter/pull/171307) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171307) over 3 days, 176 additions and 2 deletions in 6 files</sub><br />
@@ -118,6 +118,10 @@
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Activate microtask profiling in `dart:async` when `Switch::ProfileMicrotasks` is set<br />
   <sub>[#171035](https://github.com/flutter/flutter/pull/171035) merged on June 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171035) over 6 days, 98 additions and 7 deletions in 6 files</sub><br />
   <sub>Reviewed by: [dcq01](https://github.com/dcq01), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Address some comments from #38632 (2019) if they still apply<br />
+  <sub>[#171461](https://github.com/flutter/flutter/pull/171461) merged on July 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171461) over 9 hours, 19 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add tests for some local InputDecorationTheme properties<br />
   <sub>[#171435](https://github.com/flutter/flutter/pull/171435) merged on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171435) over 11 hours, 89 additions and 29 deletions in 1 file</sub><br />
