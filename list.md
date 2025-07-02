@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-28 commits.
+29 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -57,6 +57,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: add "stamp" to et and create build-time engine_stamp.json
   <sub>[#171310](https://github.com/flutter/flutter/pull/171310) merged on June 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/171310) over 2 days, 298 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Change name of test classes that don't extend `Mock` from `Mock*` to `Fake*`
+  <sub>[#171380](https://github.com/flutter/flutter/pull/171380) merged on July 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171380) over 1 day, 135 additions and 135 deletions in 8 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[matasb-google](https://github.com/matasb-google)** &mdash; Fix crash when editableText is not mounted
   <sub>[#171159](https://github.com/flutter/flutter/pull/171159) merged on July 1, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/171159) over 6 days, 45 additions and 2 deletions in 2 files</sub>
