@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-32 commits.
+33 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`<br />
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Klemen Tusar](https://github.com/techouse)** &mdash; Fix infinite loop in CupertinoSliverNavigationBar collapse animation by adding bounds check for target scroll position<br />
   <sub>[#170210](https://github.com/flutter/flutter/pull/170210) merged on July 1, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/170210) over 3 weeks, 70 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add feature flags to the framework<br />
+  <sub>[#168437](https://github.com/flutter/flutter/pull/168437) merged on July 2, 2025 &mdash; **Small:** [69 comments](https://github.com/flutter/flutter/pull/168437) over 1 month, 297 additions and 1 deletion in 13 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Justin McCandless](https://github.com/justinmc), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix DropdownMenu does not apply opacity to the selected value when disabled<br />
   <sub>[#170336](https://github.com/flutter/flutter/pull/170336) merged on July 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170336) over 3 weeks, 103 additions and 4 deletions in 4 files</sub><br />
