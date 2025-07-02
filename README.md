@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-30 commits.
+31 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`<br />
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub><br />
@@ -38,6 +38,14 @@
   <sub>[#171241](https://github.com/flutter/flutter/pull/171241) merged on July 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171241) over 5 days, 3 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add --enable-flutter-gpu flag to flutter_tool & FLTEnableFlutterGPU to the macOS embedder<br />
+  <sub>[#171404](https://github.com/flutter/flutter/pull/171404) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171404) over 21 hours, 121 additions and 3 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1<br />
+  <sub>[#170882](https://github.com/flutter/flutter/pull/170882) merged on July 2, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/170882) over 1 week, 118 additions and 210 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Update validator of NO_PROXY to explicitly match detected hosts<br />
   <sub>[#171385](https://github.com/flutter/flutter/pull/171385) merged on July 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171385) over 1 day, 33 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -45,10 +53,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` unused codepaths<br />
   <sub>[#170191](https://github.com/flutter/flutter/pull/170191) merged on July 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/170191) over 3 weeks, 2 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add --enable-flutter-gpu flag to flutter_tool & FLTEnableFlutterGPU to the macOS embedder<br />
-  <sub>[#171404](https://github.com/flutter/flutter/pull/171404) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171404) over 21 hours, 121 additions and 3 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `-v` to `flutter doctor` for crash reporting<br />
   <sub>[#171308](https://github.com/flutter/flutter/pull/171308) merged on July 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171308) over 3 days, 8 additions and 2 deletions in 4 files</sub><br />
