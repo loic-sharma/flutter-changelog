@@ -110,11 +110,8 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add top gap for cupertino sheet<br />
   <sub>[#171348](https://github.com/flutter/flutter/pull/171348) opened on on June 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171348) 53 additions and 9 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Update validator of NO_PROXY to explicitly match detected hosts<br />
-  <sub>[#171385](https://github.com/flutter/flutter/pull/171385) opened on on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171385) 33 additions and 11 deletions in 2 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
-  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171399) 17 additions and 18 deletions in 4 files</sub><br />
+  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171399) 41 additions and 236 deletions in 11 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view GL rendering not working since software rendering was added<br />
   <sub>[#171409](https://github.com/flutter/flutter/pull/171409) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171409) 12 additions and 7 deletions in 1 file</sub><br />
