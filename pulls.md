@@ -39,7 +39,7 @@
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoDatePicker` and `CupertinoTimerPicker` new onChanged behavior<br />
-  <sub>[#170793](https://github.com/flutter/flutter/pull/170793) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170793) 105 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#170793](https://github.com/flutter/flutter/pull/170793) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170793) 109 additions and 0 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1<br />
   <sub>[#170882](https://github.com/flutter/flutter/pull/170882) opened on on June 19, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/170882) 118 additions and 210 deletions in 26 files</sub><br />
