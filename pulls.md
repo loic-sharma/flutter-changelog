@@ -134,3 +134,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp 701<br />
   <sub>[#171487](https://github.com/flutter/flutter/pull/171487) opened on on July 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171487) 6948 additions and 2831 deletions in 16 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add RSuperellipse support to Web (global cache)<br />
+  <sub>[#171489](https://github.com/flutter/flutter/pull/171489) opened on on July 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171489) 963 additions and 79 deletions in 17 files</sub><br />
+
