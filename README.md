@@ -32,7 +32,7 @@
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add feature flags to the framework<br />
-  <sub>[#168437](https://github.com/flutter/flutter/pull/168437) merged on July 2, 2025 &mdash; **Small:** [69 comments](https://github.com/flutter/flutter/pull/168437) over 1 month, 297 additions and 1 deletion in 13 files</sub><br />
+  <sub>[#168437](https://github.com/flutter/flutter/pull/168437) merged on July 2, 2025 &mdash; **Small:** [70 comments](https://github.com/flutter/flutter/pull/168437) over 1 month, 297 additions and 1 deletion in 13 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Justin McCandless](https://github.com/justinmc), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add --enable-flutter-gpu flag to flutter_tool & FLTEnableFlutterGPU to the macOS embedder<br />
