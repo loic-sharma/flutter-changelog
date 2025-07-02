@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-26 commits.
+27 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`<br />
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub><br />
@@ -65,6 +65,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android gradle use lowercase instead of toLowerCase in preparation for removal in v9<br />
   <sub>[#171397](https://github.com/flutter/flutter/pull/171397) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171397) over 20 hours, 2 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Address some comments from #38632 (2019) if they still apply<br />
+  <sub>[#171461](https://github.com/flutter/flutter/pull/171461) merged on July 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171461) over 9 hours, 19 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add feature flags to `flutter doctor -v`<br />
   <sub>[#171307](https://github.com/flutter/flutter/pull/171307) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171307) over 3 days, 176 additions and 2 deletions in 6 files</sub><br />
