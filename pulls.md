@@ -114,7 +114,7 @@
   <sub>[#171409](https://github.com/flutter/flutter/pull/171409) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171409) 12 additions and 7 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor compositor classes<br />
-  <sub>[#171414](https://github.com/flutter/flutter/pull/171414) opened on on July 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/171414) 391 additions and 560 deletions in 17 files</sub><br />
+  <sub>[#171414](https://github.com/flutter/flutter/pull/171414) opened on on July 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/171414) 391 additions and 560 deletions in 17 files</sub><br />
 
 * **[Zuckjet](https://github.com/Zuckjet)** &mdash; fix: adjust scrollable size assertion with tolerance<br />
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 62 additions and 3 deletions in 2 files</sub><br />
