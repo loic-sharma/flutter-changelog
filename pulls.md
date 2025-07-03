@@ -107,9 +107,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add RSuperellipse support to Web (global cache)<br />
   <sub>[#171489](https://github.com/flutter/flutter/pull/171489) opened on on July 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171489) 963 additions and 79 deletions in 17 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for Pub Workspaces<br />
-  <sub>[#171538](https://github.com/flutter/flutter/pull/171538) opened on on July 2, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/171538) 696 additions and 254 deletions in 23 files</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update translation from console<br />
   <sub>[#171556](https://github.com/flutter/flutter/pull/171556) opened on on July 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171556) 17 additions and 17 deletions in 10 files</sub><br />
 
@@ -121,4 +118,7 @@
 
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow Closing showMenu popup programmatically #165561<br />
   <sub>[#171593](https://github.com/flutter/flutter/pull/171593) opened on on July 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171593) 162 additions and 0 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add a "Restart Widget Previewer" button to the widget preview scaffold<br />
+  <sub>[#171602](https://github.com/flutter/flutter/pull/171602) opened on on July 3, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/171602) 347 additions and 79 deletions in 13 files</sub><br />
 
