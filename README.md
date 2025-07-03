@@ -189,14 +189,14 @@
   <sub>[#171240](https://github.com/flutter/flutter/pull/171240) merged on June 27, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/171240) over 1 day, 44 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Don't strip symbols from `libapp.so` on android by default<br />
+  <sub>[#162464](https://github.com/flutter/flutter/pull/162464) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162464) over 4 months, 39 additions and 22 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Slava Egorov](https://github.com/mraleph), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Fix text selection toolbar alignment for RTL languages<br />
   <sub>[#169854](https://github.com/flutter/flutter/pull/169854) merged on June 25, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/169854) over 3 weeks, 258 additions and 51 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>2 images...</summary>![before_ltr_non_expanded jpg](https://github.com/user-attachments/assets/bccf719e-c95a-46b1-b924-d2fb229e4ada) | ![before_ltr_expanded jpg](https://github.com/user-attachments/assets/a947690a-62fb-4f41-863c-d3822294bb66) | ![before_rtl_non_expanded](https://github.com/user-attachments/assets/1e3440ee-d80c-4554-aeda-7632f2b166ca) | ![before_rtl_expanded](https://github.com/user-attachments/assets/364a3b2b-d068-4488-afbd-61224e74c30a)![after_ltr_non_expanded](https://github.com/user-attachments/assets/b63bf625-0d37-4304-9ba5-af017c197b15) | ![after_ltr_expanded](https://github.com/user-attachments/assets/6a95c9b7-e343-4e7e-93ae-f18de6d38a2e) | ![after_rtl_not_expanded](https://github.com/user-attachments/assets/8a93b08b-fcf2-45a9-8f5a-390133c0aec4) | ![after_rtl_expanded](https://github.com/user-attachments/assets/5cbdffd4-3943-44cc-98d9-fa470e11b942)</details></sub>
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Don't strip symbols from `libapp.so` on android by default<br />
-  <sub>[#162464](https://github.com/flutter/flutter/pull/162464) merged on June 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162464) over 4 months, 39 additions and 22 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Slava Egorov](https://github.com/mraleph), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Clean up Devfs_Web into separate files<br />
   <sub>[#170769](https://github.com/flutter/flutter/pull/170769) merged on June 24, 2025 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/170769) over 6 days, 1027 additions and 937 deletions in 10 files</sub><br />
