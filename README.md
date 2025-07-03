@@ -618,6 +618,10 @@
   <sub>[#169899](https://github.com/flutter/flutter/pull/169899) merged on June 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/169899) over 2 weeks, 215 additions and 14 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
+  <sub>[#170343](https://github.com/flutter/flutter/pull/170343) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170343) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Removal of MSAA for intermediate render targets used in filtering.<br />
   <sub>[#169692](https://github.com/flutter/flutter/pull/169692) merged on June 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169692) over 2 weeks, 53 additions and 25 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -625,10 +629,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add DropdownButtonFormField value param test<br />
   <sub>[#170518](https://github.com/flutter/flutter/pull/170518) merged on June 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170518) over 4 days, 49 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Engine builders no longer require `is_fusion`<br />
-  <sub>[#170849](https://github.com/flutter/flutter/pull/170849) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170849) over 36 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `Engine-artifacts.md` to reflect flutter/cocoon/4785<br />
   <sub>[#170751](https://github.com/flutter/flutter/pull/170751) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170751) over 1 day, 5 additions and 8 deletions in 1 file</sub><br />
@@ -638,37 +638,33 @@
   <sub>[#170690](https://github.com/flutter/flutter/pull/170690) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170690) over 1 day, 56 additions and 3 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Escape the forbidden strings in the regex used to check test command output<br />
-  <sub>[#170702](https://github.com/flutter/flutter/pull/170702) merged on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170702) over 1 day, 2 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Engine builders no longer require `is_fusion`<br />
+  <sub>[#170849](https://github.com/flutter/flutter/pull/170849) merged on June 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170849) over 36 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp jun13<br />
   <sub>[#170620](https://github.com/flutter/flutter/pull/170620) merged on June 16, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/170620) over 2 days, 298 additions and 110 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Work around newer compilers requiring the satisfaction of three-way comparison of EncodableValue.<br />
-  <sub>[#170822](https://github.com/flutter/flutter/pull/170822) merged on June 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170822) over 2 hours, 48 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jim Graham](https://github.com/flar)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Escape the forbidden strings in the regex used to check test command output<br />
+  <sub>[#170702](https://github.com/flutter/flutter/pull/170702) merged on June 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170702) over 1 day, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline `license_header.txt`<br />
   <sub>[#170475](https://github.com/flutter/flutter/pull/170475) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170475) over 5 days, 6 additions and 23 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix file path conflict introduced in https://github.com/flutter/flutter/pull/169949<br />
-  <sub>[#170606](https://github.com/flutter/flutter/pull/170606) merged on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170606) over 3 days, 6 additions and 10 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use a shared vertex buffer for rendering layers.<br />
-  <sub>[#170717](https://github.com/flutter/flutter/pull/170717) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170717) over 1 day, 56 additions and 36 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update Linux embedder to new semantics flags API<br />
-  <sub>[#170497](https://github.com/flutter/flutter/pull/170497) merged on June 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170497) over 5 days, 153 additions and 113 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Work around newer compilers requiring the satisfaction of three-way comparison of EncodableValue.<br />
+  <sub>[#170822](https://github.com/flutter/flutter/pull/170822) merged on June 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170822) over 2 hours, 48 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] npot display_list allocation.<br />
   <sub>[#170447](https://github.com/flutter/flutter/pull/170447) merged on June 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170447) over 6 days, 52 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update Linux embedder to new semantics flags API<br />
+  <sub>[#170497](https://github.com/flutter/flutter/pull/170497) merged on June 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170497) over 5 days, 153 additions and 113 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Prefer .of over .from<br />
   <sub>[#170750](https://github.com/flutter/flutter/pull/170750) merged on June 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170750) over 1 hour, 33 additions and 35 deletions in 13 files</sub><br />
@@ -678,21 +674,21 @@
   <sub>[#170840](https://github.com/flutter/flutter/pull/170840) merged on June 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170840) over 4 days, 34 additions and 80 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
-* **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for filterIdentifier<br />
-  <sub>[#170343](https://github.com/flutter/flutter/pull/170343) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170343) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Set the background in the Linux template<br />
   <sub>[#170841](https://github.com/flutter/flutter/pull/170841) merged on June 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170841) over 1 day, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[gourabkumarsi](https://github.com/gourabkumarsi)** &mdash; Drop support for 21/22 Lollipop<br />
+  <sub>[#170748](https://github.com/flutter/flutter/pull/170748) merged on June 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170748) over 1 day, 0 additions and 46 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use a shared vertex buffer for rendering layers.<br />
+  <sub>[#170717](https://github.com/flutter/flutter/pull/170717) merged on June 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170717) over 1 day, 56 additions and 36 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Prevent --web-experimental-hot-reload on web-server<br />
   <sub>[#170610](https://github.com/flutter/flutter/pull/170610) merged on June 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170610) over 2 days, 28 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
-* **[gourabkumarsi](https://github.com/gourabkumarsi)** &mdash; Drop support for 21/22 Lollipop<br />
-  <sub>[#170748](https://github.com/flutter/flutter/pull/170748) merged on June 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170748) over 1 day, 0 additions and 46 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [release] Sync stable changelog to master<br />
   <sub>[#170691](https://github.com/flutter/flutter/pull/170691) merged on June 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170691) over 21 hours, 58 additions and 0 deletions in 1 file</sub><br />
@@ -701,6 +697,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Remove support for synthetic package:flutter_gen<br />
   <sub>[#170602](https://github.com/flutter/flutter/pull/170602) merged on June 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170602) over 3 days, 0 additions and 70 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix file path conflict introduced in https://github.com/flutter/flutter/pull/169949<br />
+  <sub>[#170606](https://github.com/flutter/flutter/pull/170606) merged on June 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170606) over 3 days, 6 additions and 10 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro dynamic_path_stroke_tessellation_perf__timeline_summary to be flaky<br />
   <sub>[#170785](https://github.com/flutter/flutter/pull/170785) merged on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170785) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
