@@ -116,3 +116,6 @@
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; Remove redundant ThemeData(useMaterial3: true) from tests<br />
   <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Apply normalization to TimePickerThemeData.inputDecorationTheme<br />
+  <sub>[#171584](https://github.com/flutter/flutter/pull/171584) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171584) 49 additions and 13 deletions in 3 files</sub><br />
+
