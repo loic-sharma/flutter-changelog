@@ -122,3 +122,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add frame number support.<br />
   <sub>[#171592](https://github.com/flutter/flutter/pull/171592) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171592) 182 additions and 26 deletions in 8 files</sub><br />
 
+* **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow Closing showMenu popup programmatically #165561<br />
+  <sub>[#171593](https://github.com/flutter/flutter/pull/171593) opened on on July 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171593) 162 additions and 0 deletions in 2 files</sub><br />
+
