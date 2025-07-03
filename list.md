@@ -23,6 +23,10 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
   <sub><details><summary>1 image...</summary>![image-20241023-041530](https://github.com/user-attachments/assets/8401264a-a751-47b4-b634-5742ba4fabcd) ![Screenshot 2024-10-23 at 12 33 05](https://github.com/user-attachments/assets/ab95abd9-8de8-4f7d-9114-d96073d8f887)</details></sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add feature flags to the framework
+  <sub>[#168437](https://github.com/flutter/flutter/pull/168437) merged on July 2, 2025 &mdash; **Small:** [70 comments](https://github.com/flutter/flutter/pull/168437) over 1 month, 297 additions and 1 deletion in 13 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Justin McCandless](https://github.com/justinmc), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; feat(web): Add navigation focus handler for assistive technology focus restoration
   <sub>[#170046](https://github.com/flutter/flutter/pull/170046) merged on June 30, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/170046) over 3 weeks, 474 additions and 26 deletions in 7 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
@@ -30,10 +34,6 @@
 * **[Klemen Tusar](https://github.com/techouse)** &mdash; Fix infinite loop in CupertinoSliverNavigationBar collapse animation by adding bounds check for target scroll position
   <sub>[#170210](https://github.com/flutter/flutter/pull/170210) merged on July 1, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/170210) over 3 weeks, 70 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add feature flags to the framework
-  <sub>[#168437](https://github.com/flutter/flutter/pull/168437) merged on July 2, 2025 &mdash; **Small:** [70 comments](https://github.com/flutter/flutter/pull/168437) over 1 month, 297 additions and 1 deletion in 13 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Justin McCandless](https://github.com/justinmc), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix DropdownMenu does not apply opacity to the selected value when disabled
   <sub>[#170336](https://github.com/flutter/flutter/pull/170336) merged on July 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170336) over 3 weeks, 103 additions and 4 deletions in 4 files</sub>
