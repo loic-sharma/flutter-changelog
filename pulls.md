@@ -119,3 +119,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Apply normalization to TimePickerThemeData.inputDecorationTheme<br />
   <sub>[#171584](https://github.com/flutter/flutter/pull/171584) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171584) 49 additions and 13 deletions in 3 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add frame number support.<br />
+  <sub>[#171592](https://github.com/flutter/flutter/pull/171592) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171592) 182 additions and 26 deletions in 8 files</sub><br />
+
