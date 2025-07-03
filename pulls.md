@@ -116,6 +116,3 @@
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; Remove redundant ThemeData(useMaterial3: true) from tests<br />
   <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorationThemeData.activeIndicatorBorder is not applied<br />
-  <sub>[#171575](https://github.com/flutter/flutter/pull/171575) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171575) 34 additions and 1 deletion in 2 files</sub><br />
-
