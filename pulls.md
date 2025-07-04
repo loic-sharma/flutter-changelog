@@ -119,9 +119,6 @@
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow Closing showMenu popup programmatically #165561<br />
   <sub>[#171593](https://github.com/flutter/flutter/pull/171593) opened on on July 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171593) 162 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add a "Restart Widget Previewer" button to the widget preview scaffold<br />
-  <sub>[#171602](https://github.com/flutter/flutter/pull/171602) opened on on July 3, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171602) 347 additions and 79 deletions in 13 files</sub><br />
-
 * **[Greg Price](https://github.com/gnprice)** &mdash; Add static for AppBar.preferredSize, to enable extending by composition<br />
   <sub>[#171604](https://github.com/flutter/flutter/pull/171604) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171604) 40 additions and 1 deletion in 2 files</sub><br />
 
@@ -130,4 +127,10 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add analytics for `flutter widget-preview start`<br />
   <sub>[#171641](https://github.com/flutter/flutter/pull/171641) opened on on July 4, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/171641) 289 additions and 56 deletions in 9 files</sub><br />
+
+* **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
+  <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171646) 60 additions and 7 deletions in 2 files</sub><br />
+
+* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true<br />
+  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171648) 11 additions and 1 deletion in 1 file</sub><br />
 

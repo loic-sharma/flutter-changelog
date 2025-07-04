@@ -4,7 +4,7 @@
 
 ### June 28, 2025 to July 4, 2025
 
-44 commits.
+45 commits.
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -22,6 +22,11 @@
   <sub>[#168441](https://github.com/flutter/flutter/pull/168441) merged on July 2, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/168441) over 1 month, 59 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
   <sub><details><summary>1 image...</summary>![image-20241023-041530](https://github.com/user-attachments/assets/8401264a-a751-47b4-b634-5742ba4fabcd) ![Screenshot 2024-10-23 at 12 33 05](https://github.com/user-attachments/assets/ab95abd9-8de8-4f7d-9114-d96073d8f887)</details></sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add a "Restart Widget Previewer" button to the widget preview scaffold
+  <sub>[#171602](https://github.com/flutter/flutter/pull/171602) merged on July 4, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171602) over 23 hours, 347 additions and 79 deletions in 13 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/477ce947-76a5-4e78-9769-0ee7f23f2ba6)</details></sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add semantics role for form
   <sub>[#170709](https://github.com/flutter/flutter/pull/170709) merged on July 4, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/170709) over 2 weeks, 128 additions and 7 deletions in 9 files</sub>
@@ -60,25 +65,25 @@
   <sub>[#168878](https://github.com/flutter/flutter/pull/168878) merged on June 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/168878) over 1 month, 91 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics locale support for web
-  <sub>[#171196](https://github.com/flutter/flutter/pull/171196) merged on July 2, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/171196) over 6 days, 691 additions and 307 deletions in 19 files</sub>
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Hannah Jin](https://github.com/hannah-hyj)</sub>
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Deprecate: Mark AppBarTheme & AppBarThemeData color parameter as deprecated in favor of backgroundColor
   <sub>[#170624](https://github.com/flutter/flutter/pull/170624) merged on July 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170624) over 2 weeks, 72 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics locale support for web
+  <sub>[#171196](https://github.com/flutter/flutter/pull/171196) merged on July 2, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/171196) over 6 days, 691 additions and 307 deletions in 19 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Set width and height when creating <img> platform view for NetworkImage
   <sub>[#171474](https://github.com/flutter/flutter/pull/171474) merged on July 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171474) over 1 day, 28 additions and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp 701
-  <sub>[#171487](https://github.com/flutter/flutter/pull/171487) merged on July 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171487) over 19 hours, 6948 additions and 2831 deletions in 16 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Increase per-step timeout for `build_android_host_app_with_module_source` targets
   <sub>[#171241](https://github.com/flutter/flutter/pull/171241) merged on July 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171241) over 5 days, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp 701
+  <sub>[#171487](https://github.com/flutter/flutter/pull/171487) merged on July 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171487) over 19 hours, 6948 additions and 2831 deletions in 16 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1
   <sub>[#170882](https://github.com/flutter/flutter/pull/170882) merged on July 2, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/170882) over 1 week, 118 additions and 210 deletions in 26 files</sub>
@@ -116,21 +121,17 @@
   <sub>[#171407](https://github.com/flutter/flutter/pull/171407) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171407) over 1 hour, 0 additions and 205 deletions in 3 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Android gradle use lowercase instead of toLowerCase in preparation for removal in v9
-  <sub>[#171397](https://github.com/flutter/flutter/pull/171397) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171397) over 20 hours, 2 additions and 6 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
-
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Focused search field hides prefix in higher accessibility text scale modes
   <sub>[#171406](https://github.com/flutter/flutter/pull/171406) merged on July 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171406) over 20 hours, 96 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Android gradle use lowercase instead of toLowerCase in preparation for removal in v9
+  <sub>[#171397](https://github.com/flutter/flutter/pull/171397) merged on July 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171397) over 20 hours, 2 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove --enable-impeller-3d gn flag
   <sub>[#171405](https://github.com/flutter/flutter/pull/171405) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171405) over 57 minutes, 0 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Tool] Add all enabled features property
-  <sub>[#171547](https://github.com/flutter/flutter/pull/171547) merged on July 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171547) over 1 hour, 29 additions and 8 deletions in 3 files</sub>
-  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Address some comments from #38632 (2019) if they still apply
   <sub>[#171461](https://github.com/flutter/flutter/pull/171461) merged on July 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171461) over 9 hours, 19 additions and 16 deletions in 1 file</sub>
@@ -148,13 +149,17 @@
   <sub>[#171305](https://github.com/flutter/flutter/pull/171305) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171305) over 3 days, 0 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Derek Xu](https://github.com/derekxu16)** &mdash; Add `--profile-microtasks` flag to `flutter run`
+  <sub>[#170877](https://github.com/flutter/flutter/pull/170877) merged on July 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170877) over 2 weeks, 48 additions and 9 deletions in 12 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Activate microtask profiling in `dart:async` when `Switch::ProfileMicrotasks` is set
   <sub>[#171035](https://github.com/flutter/flutter/pull/171035) merged on June 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171035) over 6 days, 98 additions and 7 deletions in 6 files</sub>
   <sub>Reviewed by: [dcq01](https://github.com/dcq01), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Derek Xu](https://github.com/derekxu16)** &mdash; Add `--profile-microtasks` flag to `flutter run`
-  <sub>[#170877](https://github.com/flutter/flutter/pull/170877) merged on July 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170877) over 2 weeks, 48 additions and 9 deletions in 12 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Tool] Add all enabled features property
+  <sub>[#171547](https://github.com/flutter/flutter/pull/171547) merged on July 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171547) over 1 hour, 29 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Fix the algorithm for building paths for RSuperellipses with sharp corners
   <sub>[#171351](https://github.com/flutter/flutter/pull/171351) merged on July 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171351) over 3 days, 130 additions and 2 deletions in 3 files</sub>
