@@ -120,7 +120,7 @@
   <sub>[#171593](https://github.com/flutter/flutter/pull/171593) opened on on July 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171593) 162 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add a "Restart Widget Previewer" button to the widget preview scaffold<br />
-  <sub>[#171602](https://github.com/flutter/flutter/pull/171602) opened on on July 3, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/171602) 347 additions and 79 deletions in 13 files</sub><br />
+  <sub>[#171602](https://github.com/flutter/flutter/pull/171602) opened on on July 3, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171602) 347 additions and 79 deletions in 13 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Add static for AppBar.preferredSize, to enable extending by composition<br />
   <sub>[#171604](https://github.com/flutter/flutter/pull/171604) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171604) 40 additions and 1 deletion in 2 files</sub><br />
