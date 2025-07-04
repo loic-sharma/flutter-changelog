@@ -135,7 +135,7 @@
   <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171648) 213 additions and 1 deletion in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Prepare for enabling `omit_obvious_*_types` and `specify_nonobvious_*_types`<br />
-  <sub>[#171651](https://github.com/flutter/flutter/pull/171651) opened on on July 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171651) 20 additions and 20 deletions in 6 files</sub><br />
+  <sub>[#171651](https://github.com/flutter/flutter/pull/171651) opened on on July 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171651) 22 additions and 22 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1835 deletions in 24 files</sub><br />
