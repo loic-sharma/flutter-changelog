@@ -126,11 +126,11 @@
   <sub>[#171616](https://github.com/flutter/flutter/pull/171616) opened on on July 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171616) 9 additions and 8 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add analytics for `flutter widget-preview start`<br />
-  <sub>[#171641](https://github.com/flutter/flutter/pull/171641) opened on on July 4, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/171641) 289 additions and 56 deletions in 9 files</sub><br />
+  <sub>[#171641](https://github.com/flutter/flutter/pull/171641) opened on on July 4, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/171641) 289 additions and 56 deletions in 9 files</sub><br />
 
 * **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
   <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171646) 60 additions and 7 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true<br />
-  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171648) 11 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171648) 201 additions and 1 deletion in 3 files</sub><br />
 
