@@ -128,6 +128,3 @@
 * **[agra](https://github.com/agrapine)** &mdash; fixes DrivenScrollActivity LateInitializationError _controller<br />
   <sub>[#171616](https://github.com/flutter/flutter/pull/171616) opened on on July 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171616) 9 additions and 8 deletions in 1 file</sub><br />
 
-* **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web<br />
-  <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171638) 103 additions and 0 deletions in 5 files</sub><br />
-
