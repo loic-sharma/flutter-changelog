@@ -128,3 +128,6 @@
 * **[agra](https://github.com/agrapine)** &mdash; fixes DrivenScrollActivity LateInitializationError _controller<br />
   <sub>[#171616](https://github.com/flutter/flutter/pull/171616) opened on on July 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171616) 9 additions and 8 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add analytics for `flutter widget-preview start`<br />
+  <sub>[#171641](https://github.com/flutter/flutter/pull/171641) opened on on July 4, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171641) 289 additions and 56 deletions in 9 files</sub><br />
+
