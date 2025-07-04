@@ -125,3 +125,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Add static for AppBar.preferredSize, to enable extending by composition<br />
   <sub>[#171604](https://github.com/flutter/flutter/pull/171604) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171604) 40 additions and 1 deletion in 2 files</sub><br />
 
+* **[agra](https://github.com/agrapine)** &mdash; fixes DrivenScrollActivity LateInitializationError _controller<br />
+  <sub>[#171616](https://github.com/flutter/flutter/pull/171616) opened on on July 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171616) 9 additions and 9 deletions in 1 file</sub><br />
+
