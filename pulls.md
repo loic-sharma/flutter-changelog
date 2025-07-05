@@ -137,3 +137,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1835 deletions in 24 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use dwds 24.4.0<br />
+  <sub>[#171669](https://github.com/flutter/flutter/pull/171669) opened on on July 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171669) 10 additions and 4 deletions in 2 files</sub><br />
+
