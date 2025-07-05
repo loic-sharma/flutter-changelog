@@ -86,8 +86,8 @@
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add analytics for `flutter widget-preview start`<br />
-  <sub>[#171641](https://github.com/flutter/flutter/pull/171641) merged on July 4, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/171641) over 3 hours, 289 additions and 56 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Ander Dobo](https://github.com/anderdobo), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+  <sub>[#171641](https://github.com/flutter/flutter/pull/171641) merged on July 4, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/171641) over 3 hours, 289 additions and 56 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Ander Dobo](https://github.com/anderdobo), [Bempong-Sylvester-Obese](https://github.com/Bempong-Sylvester-Obese), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Android min sdk 24 part 1<br />
   <sub>[#170882](https://github.com/flutter/flutter/pull/170882) merged on July 2, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/170882) over 1 week, 118 additions and 210 deletions in 26 files</sub><br />
