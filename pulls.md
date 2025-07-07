@@ -90,7 +90,7 @@
   <sub>[#171283](https://github.com/flutter/flutter/pull/171283) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171283) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
-  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/171399) 41 additions and 220 deletions in 9 files</sub><br />
+  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/171399) 41 additions and 220 deletions in 9 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view GL rendering not working since software rendering was added<br />
   <sub>[#171409](https://github.com/flutter/flutter/pull/171409) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171409) 12 additions and 7 deletions in 1 file</sub><br />
@@ -142,4 +142,7 @@
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use dwds 24.4.0<br />
   <sub>[#171669](https://github.com/flutter/flutter/pull/171669) opened on on July 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171669) 10 additions and 4 deletions in 2 files</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: TabBar fontFamily inheritance with custom label styles<br />
+  <sub>[#171699](https://github.com/flutter/flutter/pull/171699) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171699) 101 additions and 10 deletions in 2 files</sub><br />
 
