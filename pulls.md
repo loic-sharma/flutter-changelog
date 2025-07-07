@@ -129,7 +129,7 @@
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 750 deletions in 22 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: TabBar fontFamily inheritance with custom label styles<br />
-  <sub>[#171699](https://github.com/flutter/flutter/pull/171699) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171699) 101 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#171699](https://github.com/flutter/flutter/pull/171699) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171699) 101 additions and 11 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove long-deprecated `make-host-app-editable`<br />
   <sub>[#171715](https://github.com/flutter/flutter/pull/171715) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171715) 4 additions and 77 deletions in 8 files</sub><br />

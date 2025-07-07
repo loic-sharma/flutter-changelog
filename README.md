@@ -10,6 +10,10 @@
   <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
+  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) merged on July 7, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/171399) over 1 week, 41 additions and 220 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Mikhail Novoseltsev](https://github.com/Sameri11), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash when SIGQUIT is sent to enable the VM service for `flutter analyze --watch`<br />
   <sub>[#171713](https://github.com/flutter/flutter/pull/171713) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171713) over 4 hours, 65 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -21,10 +25,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] release background image readers on <= Android 14<br />
   <sub>[#171193](https://github.com/flutter/flutter/pull/171193) merged on July 7, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/171193) over 1 week, 132 additions and 84 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
-  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) merged on July 7, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/171399) over 1 week, 41 additions and 220 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Mikhail Novoseltsev](https://github.com/Sameri11), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup<br />
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub><br />
