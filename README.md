@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-7 commits.
+8 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump Dart to 3.8 and reformat<br />
   <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Wasm minification default matches JS minification default<br />
   <sub>[#171710](https://github.com/flutter/flutter/pull/171710) merged on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171710) over 3 hours, 71 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Nate Biggs](https://github.com/biggs0125)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] release background image readers on <= Android 14<br />
+  <sub>[#171193](https://github.com/flutter/flutter/pull/171193) merged on July 7, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/171193) over 1 week, 132 additions and 84 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup<br />
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub><br />
@@ -571,11 +575,15 @@
 
 ### July 5, 2025 to July 11, 2025
 
-2 commits.
+3 commits.
 
 * **[Pataridze Givi](https://github.com/givip)** &mdash; [in_app_purchase_storekit] isIntroductoryOfferEligible implementation<br />
   <sub>[#9499](https://github.com/flutter/packages/pull/9499) merged on July 7, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/9499) over 1 week, 323 additions and 2 deletions in 11 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; roll 28a4e852bc90479015e6bc96a15d11fe4aa34f3a<br />
+  <sub>[#9578](https://github.com/flutter/packages/pull/9578) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9578) over 48 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Remove Android x86 compilation<br />
   <sub>[#9572](https://github.com/flutter/packages/pull/9572) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9572) over 3 hours, 2 additions and 3 deletions in 3 files</sub><br />
