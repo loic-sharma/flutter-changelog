@@ -150,8 +150,8 @@
   <sub>[#171710](https://github.com/flutter/flutter/pull/171710) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171710) 71 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash when SIGQUIT is sent to enable the VM service for `flutter analyze --watch`<br />
-  <sub>[#171713](https://github.com/flutter/flutter/pull/171713) opened on on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171713) 65 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#171713](https://github.com/flutter/flutter/pull/171713) opened on on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171713) 65 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove long-deprecated `make-host-app-editable`<br />
-  <sub>[#171715](https://github.com/flutter/flutter/pull/171715) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171715) 2 additions and 44 deletions in 4 files</sub><br />
+  <sub>[#171715](https://github.com/flutter/flutter/pull/171715) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171715) 2 additions and 45 deletions in 4 files</sub><br />
 
