@@ -107,6 +107,9 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add RSuperellipse support to Web (global cache)<br />
   <sub>[#171489](https://github.com/flutter/flutter/pull/171489) opened on on July 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171489) 963 additions and 79 deletions in 17 files</sub><br />
 
+* **[ash2moon](https://github.com/ash2moon)** &mdash; add content description to tooltip-only nodes for android<br />
+  <sub>[#171541](https://github.com/flutter/flutter/pull/171541) opened on on July 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171541) 52 additions and 2 deletions in 2 files</sub><br />
+
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update translation from console<br />
   <sub>[#171556](https://github.com/flutter/flutter/pull/171556) opened on on July 2, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/171556) 627 additions and 628 deletions in 11 files</sub><br />
 
