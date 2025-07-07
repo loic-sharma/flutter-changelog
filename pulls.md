@@ -156,5 +156,5 @@
   <sub>[#171715](https://github.com/flutter/flutter/pull/171715) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171715) 2 additions and 45 deletions in 4 files</sub><br />
 
 * **[Albin PK](https://github.com/albinpk)** &mdash; fix: selected date decorator renders outside PageView in `DatePickerDialog` dialog<br />
-  <sub>[#171718](https://github.com/flutter/flutter/pull/171718) opened on on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171718) 13 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#171718](https://github.com/flutter/flutter/pull/171718) opened on on July 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171718) 13 additions and 7 deletions in 1 file</sub><br />
 
