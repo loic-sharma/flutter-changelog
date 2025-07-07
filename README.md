@@ -578,7 +578,7 @@
 3 commits.
 
 * **[Pataridze Givi](https://github.com/givip)** &mdash; [in_app_purchase_storekit] isIntroductoryOfferEligible implementation<br />
-  <sub>[#9499](https://github.com/flutter/packages/pull/9499) merged on July 7, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/9499) over 1 week, 323 additions and 2 deletions in 11 files</sub><br />
+  <sub>[#9499](https://github.com/flutter/packages/pull/9499) merged on July 7, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/9499) over 1 week, 323 additions and 2 deletions in 11 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; roll 28a4e852bc90479015e6bc96a15d11fe4aa34f3a<br />

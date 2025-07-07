@@ -80,9 +80,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run stateless_stateful_hot_reload_web_test.dart on Mac/Windows<br />
   <sub>[#171283](https://github.com/flutter/flutter/pull/171283) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171283) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
-  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) opened on on June 30, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/171399) 41 additions and 220 deletions in 9 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view GL rendering not working since software rendering was added<br />
   <sub>[#171409](https://github.com/flutter/flutter/pull/171409) opened on on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171409) 12 additions and 7 deletions in 1 file</sub><br />
 
