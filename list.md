@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### July 5, 2025 to July 11, 2025
+
+1 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump Dart to 3.8 and reformat
+  <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 ### June 28, 2025 to July 4, 2025
 
-46 commits.
+<details>
+<summary>46 commits...</summary>
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Unpin `package:intl`
   <sub>[#169286](https://github.com/flutter/flutter/pull/169286) merged on June 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169286) over 1 month, 4 additions and 4 deletions in 2 files</sub>
@@ -192,6 +201,8 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run expression_evaluation_web_ddc_library_bundle_test.dart on Mac/Windows
   <sub>[#171278](https://github.com/flutter/flutter/pull/171278) merged on June 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171278) over 2 days, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+</details>
 
 ### June 21, 2025 to June 27, 2025
 
@@ -536,11 +547,15 @@
 
 ### July 5, 2025 to July 11, 2025
 
-1 commits.
+2 commits.
 
 * **[Pataridze Givi](https://github.com/givip)** &mdash; [in_app_purchase_storekit] isIntroductoryOfferEligible implementation
   <sub>[#9499](https://github.com/flutter/packages/pull/9499) merged on July 7, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/9499) over 1 week, 323 additions and 2 deletions in 11 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Remove Android x86 compilation
+  <sub>[#9572](https://github.com/flutter/packages/pull/9572) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9572) over 3 hours, 2 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 ### June 28, 2025 to July 4, 2025
 
