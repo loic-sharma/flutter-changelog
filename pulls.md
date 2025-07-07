@@ -66,7 +66,7 @@
   <sub>[#171157](https://github.com/flutter/flutter/pull/171157) opened on on June 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171157) 81 additions and 1 deletion in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] release background image readers on <= Android 14<br />
-  <sub>[#171193](https://github.com/flutter/flutter/pull/171193) opened on on June 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171193) 131 additions and 84 deletions in 2 files</sub><br />
+  <sub>[#171193](https://github.com/flutter/flutter/pull/171193) opened on on June 25, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/171193) 132 additions and 84 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
   <sub>[#171198](https://github.com/flutter/flutter/pull/171198) opened on on June 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171198) 557 additions and 72 deletions in 35 files</sub><br />
