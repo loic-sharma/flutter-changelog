@@ -534,9 +534,18 @@
 
 ## flutter/packages
 
+### July 5, 2025 to July 11, 2025
+
+1 commits.
+
+* **[Pataridze Givi](https://github.com/givip)** &mdash; [in_app_purchase_storekit] isIntroductoryOfferEligible implementation<br />
+  <sub>[#9499](https://github.com/flutter/packages/pull/9499) merged on July 7, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/9499) over 1 week, 323 additions and 2 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
 ### June 28, 2025 to July 4, 2025
 
-7 commits.
+<details>
+<summary>7 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Convert iOS/macOS to Swift<br />
   <sub>[#9459](https://github.com/flutter/packages/pull/9459) merged on July 2, 2025 &mdash; **Extra large:** [93 comments](https://github.com/flutter/packages/pull/9459) over 1 week, 1313 additions and 1326 deletions in 14 files</sub><br />
@@ -565,6 +574,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Use CADisplayLink on macOS 14.0+<br />
   <sub>[#9533](https://github.com/flutter/packages/pull/9533) merged on July 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9533) over 5 hours, 97 additions and 85 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+</details>
 
 ### June 21, 2025 to June 27, 2025
 
