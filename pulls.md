@@ -65,6 +65,9 @@
 * **[emakar](https://github.com/emakar)** &mdash; don't break sheet's snap from physics<br />
   <sub>[#171157](https://github.com/flutter/flutter/pull/171157) opened on on June 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171157) 81 additions and 1 deletion in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] release background image readers on <= Android 14<br />
+  <sub>[#171193](https://github.com/flutter/flutter/pull/171193) opened on on June 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171193) 131 additions and 84 deletions in 2 files</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
   <sub>[#171198](https://github.com/flutter/flutter/pull/171198) opened on on June 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171198) 557 additions and 72 deletions in 35 files</sub><br />
 
@@ -141,7 +144,7 @@
   <sub>[#171651](https://github.com/flutter/flutter/pull/171651) opened on on July 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171651) 22 additions and 22 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
-  <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1835 deletions in 24 files</sub><br />
+  <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 750 deletions in 22 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use dwds 24.4.0<br />
   <sub>[#171669](https://github.com/flutter/flutter/pull/171669) opened on on July 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171669) 10 additions and 4 deletions in 2 files</sub><br />
@@ -156,7 +159,7 @@
   <sub>[#171713](https://github.com/flutter/flutter/pull/171713) opened on on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171713) 65 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove long-deprecated `make-host-app-editable`<br />
-  <sub>[#171715](https://github.com/flutter/flutter/pull/171715) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171715) 2 additions and 45 deletions in 4 files</sub><br />
+  <sub>[#171715](https://github.com/flutter/flutter/pull/171715) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171715) 4 additions and 77 deletions in 8 files</sub><br />
 
 * **[Albin PK](https://github.com/albinpk)** &mdash; fix: selected date decorator renders outside PageView in `DatePickerDialog` dialog<br />
   <sub>[#171718](https://github.com/flutter/flutter/pull/171718) opened on on July 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171718) 13 additions and 7 deletions in 1 file</sub><br />
