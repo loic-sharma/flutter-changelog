@@ -668,10 +668,14 @@
 
 ### July 5, 2025 to July 11, 2025
 
-1 commits.
+2 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in physics animation docs<br />
   <sub>[#12180](https://github.com/flutter/website/pull/12180) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12180) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[刘冲](https://github.com/liuchong)** &mdash; Fix broke link for dynamic_theme in quickstarts_flutter.yml<br />
+  <sub>[#12185](https://github.com/flutter/website/pull/12185) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12185) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 ### June 28, 2025 to July 4, 2025
