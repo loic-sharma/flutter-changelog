@@ -65,9 +65,6 @@
 * **[emakar](https://github.com/emakar)** &mdash; don't break sheet's snap from physics<br />
   <sub>[#171157](https://github.com/flutter/flutter/pull/171157) opened on on June 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171157) 81 additions and 1 deletion in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] release background image readers on <= Android 14<br />
-  <sub>[#171193](https://github.com/flutter/flutter/pull/171193) opened on on June 25, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/171193) 132 additions and 84 deletions in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
   <sub>[#171198](https://github.com/flutter/flutter/pull/171198) opened on on June 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171198) 557 additions and 72 deletions in 35 files</sub><br />
 
@@ -114,7 +111,7 @@
   <sub>[#171541](https://github.com/flutter/flutter/pull/171541) opened on on July 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171541) 52 additions and 2 deletions in 2 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update translation from console<br />
-  <sub>[#171556](https://github.com/flutter/flutter/pull/171556) opened on on July 2, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171556) 218 additions and 218 deletions in 11 files</sub><br />
+  <sub>[#171556](https://github.com/flutter/flutter/pull/171556) opened on on July 2, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/171556) 402 additions and 403 deletions in 11 files</sub><br />
 
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; Remove redundant ThemeData(useMaterial3: true) from tests<br />
   <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
@@ -139,9 +136,6 @@
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true and added simple test case<br />
   <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171648) 213 additions and 1 deletion in 3 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Prepare for enabling `omit_obvious_*_types` and `specify_nonobvious_*_types`<br />
-  <sub>[#171651](https://github.com/flutter/flutter/pull/171651) opened on on July 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171651) 22 additions and 22 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 750 deletions in 22 files</sub><br />

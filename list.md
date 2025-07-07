@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-4 commits.
+5 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump Dart to 3.8 and reformat
   <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub>
@@ -16,6 +16,10 @@
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Prepare for enabling `omit_obvious_*_types` and `specify_nonobvious_*_types`
+  <sub>[#171651](https://github.com/flutter/flutter/pull/171651) merged on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171651) over 2 days, 22 additions and 22 deletions in 6 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use dwds 24.4.0
