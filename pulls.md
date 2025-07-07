@@ -56,9 +56,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 14 or 15<br />
   <sub>[#171076](https://github.com/flutter/flutter/pull/171076) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) 90 additions and 90 deletions in 11 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Make _layoutBoundary a boolean 2<br />
-  <sub>[#171106](https://github.com/flutter/flutter/pull/171106) opened on on June 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171106) 125 additions and 120 deletions in 2 files</sub><br />
-
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Added intrinsic box widget<br />
   <sub>[#171111](https://github.com/flutter/flutter/pull/171111) opened on on June 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171111) 160 additions and 0 deletions in 3 files</sub><br />
 
@@ -67,9 +64,6 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
   <sub>[#171198](https://github.com/flutter/flutter/pull/171198) opened on on June 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171198) 557 additions and 72 deletions in 35 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Impeller] Make ContextVK hash values globally unique<br />
-  <sub>[#171239](https://github.com/flutter/flutter/pull/171239) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171239) 18 additions and 4 deletions in 2 files</sub><br />
 
 * **[Lewin Pauli](https://github.com/lewinpauli)** &mdash; Added computeDryBaseline implementation in RenderShiftedBox<br />
   <sub>[#171250](https://github.com/flutter/flutter/pull/171250) opened on on June 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171250) 29 additions and 5 deletions in 1 file</sub><br />
@@ -108,7 +102,7 @@
   <sub>[#171541](https://github.com/flutter/flutter/pull/171541) opened on on July 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171541) 52 additions and 2 deletions in 2 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update translation from console<br />
-  <sub>[#171556](https://github.com/flutter/flutter/pull/171556) opened on on July 2, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/171556) 401 additions and 402 deletions in 11 files</sub><br />
+  <sub>[#171556](https://github.com/flutter/flutter/pull/171556) opened on on July 2, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/171556) 403 additions and 404 deletions in 12 files</sub><br />
 
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; Remove redundant ThemeData(useMaterial3: true) from tests<br />
   <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
