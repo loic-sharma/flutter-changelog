@@ -655,9 +655,18 @@
 
 ## flutter/website
 
+### July 5, 2025 to July 11, 2025
+
+1 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in physics animation docs
+  <sub>[#12180](https://github.com/flutter/website/pull/12180) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12180) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### June 28, 2025 to July 4, 2025
 
-7 commits.
+<details>
+<summary>7 commits...</summary>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Removing a deprecated cookbook recipe
   <sub>[#12168](https://github.com/flutter/website/pull/12168) merged on June 30, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/website/pull/12168) over 3 hours, 5 additions and 516 deletions in 4 files</sub>
@@ -686,6 +695,8 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate `value`parameter of `DropdownButtonFormField`
   <sub>[#12164](https://github.com/flutter/website/pull/12164) merged on June 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12164) over 5 hours, 77 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### June 21, 2025 to June 27, 2025
 
