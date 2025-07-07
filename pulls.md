@@ -152,9 +152,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: TabBar fontFamily inheritance with custom label styles<br />
   <sub>[#171699](https://github.com/flutter/flutter/pull/171699) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171699) 101 additions and 10 deletions in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Wasm minification default matches JS minification default<br />
-  <sub>[#171710](https://github.com/flutter/flutter/pull/171710) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171710) 71 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash when SIGQUIT is sent to enable the VM service for `flutter analyze --watch`<br />
   <sub>[#171713](https://github.com/flutter/flutter/pull/171713) opened on on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171713) 65 additions and 0 deletions in 2 files</sub><br />
 
