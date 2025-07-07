@@ -23,7 +23,7 @@
   <sub>Reviewed by: [Nate Biggs](https://github.com/biggs0125)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] release background image readers on <= Android 14
-  <sub>[#171193](https://github.com/flutter/flutter/pull/171193) merged on July 7, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/171193) over 1 week, 132 additions and 84 deletions in 2 files</sub>
+  <sub>[#171193](https://github.com/flutter/flutter/pull/171193) merged on July 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/171193) over 1 week, 132 additions and 84 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup
@@ -719,7 +719,15 @@
 
 ### July 5, 2025 to July 11, 2025
 
-2 commits.
+4 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add multi-window experimental APIs design doc link
+  <sub>[#12187](https://github.com/flutter/website/pull/12187) merged on July 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12187) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add release notes for DevTools 2.48.0
+  <sub>[#12188](https://github.com/flutter/website/pull/12188) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12188) over 2 hours, 37 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in physics animation docs
   <sub>[#12180](https://github.com/flutter/website/pull/12180) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12180) over 1 day, 1 addition and 1 deletion in 1 file</sub>
