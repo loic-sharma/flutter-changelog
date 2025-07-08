@@ -102,7 +102,7 @@
   <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Apply normalization to TimePickerThemeData.inputDecorationTheme<br />
-  <sub>[#171584](https://github.com/flutter/flutter/pull/171584) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171584) 150 additions and 119 deletions in 3 files</sub><br />
+  <sub>[#171584](https://github.com/flutter/flutter/pull/171584) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171584) 49 additions and 13 deletions in 3 files</sub><br />
 
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow Closing showMenu popup programmatically #165561<br />
   <sub>[#171593](https://github.com/flutter/flutter/pull/171593) opened on on July 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171593) 162 additions and 0 deletions in 2 files</sub><br />
