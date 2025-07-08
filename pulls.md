@@ -92,9 +92,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add RSuperellipse support to Web (global cache)<br />
   <sub>[#171489](https://github.com/flutter/flutter/pull/171489) opened on on July 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171489) 963 additions and 79 deletions in 17 files</sub><br />
 
-* **[ash2moon](https://github.com/ash2moon)** &mdash; add content description to tooltip-only nodes for android<br />
-  <sub>[#171541](https://github.com/flutter/flutter/pull/171541) opened on on July 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171541) 52 additions and 2 deletions in 2 files</sub><br />
-
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; Remove redundant ThemeData(useMaterial3: true) from tests<br />
   <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
 
@@ -126,7 +123,7 @@
   <sub>[#171718](https://github.com/flutter/flutter/pull/171718) opened on on July 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171718) 13 additions and 7 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine<br />
-  <sub>[#171738](https://github.com/flutter/flutter/pull/171738) opened on on July 7, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/171738) 476 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#171738](https://github.com/flutter/flutter/pull/171738) opened on on July 7, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/171738) 476 additions and 0 deletions in 7 files</sub><br />
 
 * **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Remove duplicate object initialization<br />
   <sub>[#171767](https://github.com/flutter/flutter/pull/171767) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171767) 0 additions and 1 deletion in 1 file</sub><br />
@@ -136,4 +133,7 @@
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; windows: allow pwsh.bat wrapper<br />
   <sub>[#171778](https://github.com/flutter/flutter/pull/171778) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171778) 6 additions and 6 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support upgrading to a new Flutter version pointing to the same revision as a previous version<br />
+  <sub>[#171783](https://github.com/flutter/flutter/pull/171783) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171783) 172 additions and 19 deletions in 4 files</sub><br />
 

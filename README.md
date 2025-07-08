@@ -4,11 +4,15 @@
 
 ### July 5, 2025 to July 11, 2025
 
-12 commits.
+13 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump Dart to 3.8 and reformat<br />
   <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SliverSemantics<br />
+  <sub>[#167300](https://github.com/flutter/flutter/pull/167300) merged on July 8, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/167300) over 2 months, 4029 additions and 787 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: Use engine_stamp.json in flutter tool<br />
   <sub>[#171454](https://github.com/flutter/flutter/pull/171454) merged on July 8, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/171454) over 6 days, 305 additions and 13 deletions in 12 files</sub><br />
