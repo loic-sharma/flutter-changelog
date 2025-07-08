@@ -799,7 +799,11 @@
 
 ### July 5, 2025 to July 11, 2025
 
-5 commits.
+6 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add go/web-renderer-unification doc to firebase.json
+  <sub>[#12192](https://github.com/flutter/website/pull/12192) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12192) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add multi-window experimental APIs design doc link
   <sub>[#12187](https://github.com/flutter/website/pull/12187) merged on July 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12187) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
