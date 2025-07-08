@@ -134,3 +134,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support upgrading to a new Flutter version pointing to the same revision as a previous version<br />
   <sub>[#171783](https://github.com/flutter/flutter/pull/171783) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171783) 172 additions and 19 deletions in 4 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch<br />
+  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) opened on on July 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171785) 5 additions and 1 deletion in 1 file</sub><br />
+
