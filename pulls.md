@@ -131,6 +131,3 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix a semantics crash <br />
   <sub>[#171794](https://github.com/flutter/flutter/pull/171794) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171794) 4 additions and 2 deletions in 2 files</sub><br />
 
-* **[Daniil Lipatkin](https://github.com/nt4f04uNd)** &mdash; Add detailed error message for BorderRadiusDirectional<br />
-  <sub>[#171805](https://github.com/flutter/flutter/pull/171805) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171805) 85 additions and 2 deletions in 4 files</sub><br />
-

@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-22 commits.
+23 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)<br />
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub><br />
@@ -69,6 +69,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup<br />
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update usage of removed gn flag<br />
+  <sub>[#171800](https://github.com/flutter/flutter/pull/171800) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171800) over 56 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `radioSide` to `RadioListTile`<br />
   <sub>[#171318](https://github.com/flutter/flutter/pull/171318) merged on July 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171318) over 1 week, 30 additions and 0 deletions in 2 files</sub><br />
