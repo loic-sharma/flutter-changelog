@@ -134,3 +134,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine<br />
   <sub>[#171738](https://github.com/flutter/flutter/pull/171738) opened on on July 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171738) 476 additions and 0 deletions in 7 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorationThemeData.activeIndicatorBorder is not applied<br />
+  <sub>[#171764](https://github.com/flutter/flutter/pull/171764) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171764) 34 additions and 1 deletion in 2 files</sub><br />
+
