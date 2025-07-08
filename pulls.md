@@ -81,7 +81,7 @@
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 62 additions and 3 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add RSuperellipse support to Web (global cache)<br />
-  <sub>[#171489](https://github.com/flutter/flutter/pull/171489) opened on on July 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171489) 963 additions and 79 deletions in 17 files</sub><br />
+  <sub>[#171489](https://github.com/flutter/flutter/pull/171489) opened on on July 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171489) 951 additions and 60 deletions in 17 files</sub><br />
 
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; Remove redundant ThemeData(useMaterial3: true) from tests<br />
   <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
