@@ -101,9 +101,6 @@
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; Remove redundant ThemeData(useMaterial3: true) from tests<br />
   <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Apply normalization to TimePickerThemeData.inputDecorationTheme<br />
-  <sub>[#171584](https://github.com/flutter/flutter/pull/171584) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171584) 51 additions and 15 deletions in 4 files</sub><br />
-
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow Closing showMenu popup programmatically #165561<br />
   <sub>[#171593](https://github.com/flutter/flutter/pull/171593) opened on on July 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171593) 162 additions and 0 deletions in 2 files</sub><br />
 
@@ -133,9 +130,6 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine<br />
   <sub>[#171738](https://github.com/flutter/flutter/pull/171738) opened on on July 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171738) 476 additions and 0 deletions in 7 files</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorationThemeData.activeIndicatorBorder is not applied<br />
-  <sub>[#171764](https://github.com/flutter/flutter/pull/171764) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171764) 34 additions and 1 deletion in 2 files</sub><br />
 
 * **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Remove duplicate object initialization<br />
   <sub>[#171767](https://github.com/flutter/flutter/pull/171767) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171767) 0 additions and 1 deletion in 1 file</sub><br />
