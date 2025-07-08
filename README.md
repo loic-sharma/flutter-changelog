@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-11 commits.
+12 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump Dart to 3.8 and reformat<br />
   <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub><br />
@@ -37,6 +37,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup<br />
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_restart_web_amd_test.dart on Mac/Windows<br />
+  <sub>[#171281](https://github.com/flutter/flutter/pull/171281) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171281) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_reload_web_test.dart on Mac/Windows<br />
   <sub>[#171279](https://github.com/flutter/flutter/pull/171279) merged on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171279) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />

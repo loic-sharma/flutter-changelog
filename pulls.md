@@ -71,9 +71,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_reload_with_asset_web_test.dart on Mac/Windows<br />
   <sub>[#171280](https://github.com/flutter/flutter/pull/171280) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171280) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_restart_web_amd_test.dart on Mac/Windows<br />
-  <sub>[#171281](https://github.com/flutter/flutter/pull/171281) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171281) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_restart_web_ddc_library_bundle_test.dart on Mac/Windows<br />
   <sub>[#171282](https://github.com/flutter/flutter/pull/171282) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171282) 0 additions and 1 deletion in 1 file</sub><br />
 
