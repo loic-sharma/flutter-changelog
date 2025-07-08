@@ -134,3 +134,9 @@
 * **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Remove duplicate object initialization<br />
   <sub>[#171767](https://github.com/flutter/flutter/pull/171767) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171767) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
+  <sub>[#171776](https://github.com/flutter/flutter/pull/171776) opened on on July 8, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171776) 1018 additions and 1137 deletions in 105 files</sub><br />
+
+* **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; windows: allow pwsh.bat wrapper<br />
+  <sub>[#171778](https://github.com/flutter/flutter/pull/171778) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171778) 6 additions and 6 deletions in 3 files</sub><br />
+

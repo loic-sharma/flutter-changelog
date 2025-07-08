@@ -587,11 +587,15 @@
 
 ### July 5, 2025 to July 11, 2025
 
-3 commits.
+4 commits.
 
 * **[Pataridze Givi](https://github.com/givip)** &mdash; [in_app_purchase_storekit] isIntroductoryOfferEligible implementation
   <sub>[#9499](https://github.com/flutter/packages/pull/9499) merged on July 7, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/9499) over 1 week, 323 additions and 2 deletions in 11 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Don't crash a misconfigured iOS app
+  <sub>[#9486](https://github.com/flutter/packages/pull/9486) merged on July 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9486) over 1 week, 20 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; roll 28a4e852bc90479015e6bc96a15d11fe4aa34f3a
   <sub>[#9578](https://github.com/flutter/packages/pull/9578) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9578) over 48 minutes, 1 addition and 1 deletion in 1 file</sub>
