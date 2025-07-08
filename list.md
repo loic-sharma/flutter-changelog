@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-24 commits.
+25 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub>
@@ -73,6 +73,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add support for running dart2wasm in dry run mode on js compilations
+  <sub>[#171682](https://github.com/flutter/flutter/pull/171682) merged on July 8, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171682) over 1 day, 116 additions and 33 deletions in 6 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update usage of removed gn flag
   <sub>[#171800](https://github.com/flutter/flutter/pull/171800) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171800) over 56 minutes, 1 addition and 1 deletion in 1 file</sub>
