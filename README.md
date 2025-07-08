@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-23 commits.
+24 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)<br />
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub><br />
@@ -49,6 +49,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash when SIGQUIT is sent to enable the VM service for `flutter analyze --watch`<br />
   <sub>[#171713](https://github.com/flutter/flutter/pull/171713) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171713) over 4 hours, 65 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove now duplicate un-forward ports for Android<br />
+  <sub>[#171473](https://github.com/flutter/flutter/pull/171473) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171473) over 1 week, 75 additions and 40 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] release background image readers on <= Android 14<br />
   <sub>[#171193](https://github.com/flutter/flutter/pull/171193) merged on July 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/171193) over 1 week, 132 additions and 84 deletions in 2 files</sub><br />
