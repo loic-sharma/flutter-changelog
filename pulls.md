@@ -98,9 +98,6 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add content description to tooltip-only nodes for android<br />
   <sub>[#171541](https://github.com/flutter/flutter/pull/171541) opened on on July 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171541) 52 additions and 2 deletions in 2 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update translation from console<br />
-  <sub>[#171556](https://github.com/flutter/flutter/pull/171556) opened on on July 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171556) 17 additions and 17 deletions in 10 files</sub><br />
-
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; Remove redundant ThemeData(useMaterial3: true) from tests<br />
   <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
 
