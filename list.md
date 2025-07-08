@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-19 commits.
+20 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub>
@@ -49,6 +49,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove long-deprecated `make-host-app-editable`
   <sub>[#171715](https://github.com/flutter/flutter/pull/171715) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171715) over 7 hours, 4 additions and 77 deletions in 8 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Phantom-101](https://github.com/Phantom-101)** &mdash; Removed string keys
+  <sub>[#171293](https://github.com/flutter/flutter/pull/171293) merged on July 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171293) over 1 week, 10 additions and 14 deletions in 4 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add/use `addMachineOutputFlag`/`outputsMachineFormat` instead of strings
   <sub>[#171459](https://github.com/flutter/flutter/pull/171459) merged on July 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171459) over 1 week, 30 additions and 57 deletions in 8 files</sub>
@@ -619,7 +623,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move iOS/macOS to per-player-instance Pigeon APIs
   <sub>[#9529](https://github.com/flutter/packages/pull/9529) merged on July 8, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/packages/pull/9529) over 1 week, 958 additions and 1160 deletions in 18 files</sub>
@@ -628,6 +632,10 @@
 * **[Pataridze Givi](https://github.com/givip)** &mdash; [in_app_purchase_storekit] isIntroductoryOfferEligible implementation
   <sub>[#9499](https://github.com/flutter/packages/pull/9499) merged on July 7, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/9499) over 1 week, 323 additions and 2 deletions in 11 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; [camera] fix `CameraLensType` export
+  <sub>[#9536](https://github.com/flutter/packages/pull/9536) merged on July 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/9536) over 1 week, 33 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Don't crash a misconfigured iOS app
   <sub>[#9486](https://github.com/flutter/packages/pull/9486) merged on July 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9486) over 1 week, 20 additions and 16 deletions in 4 files</sub>
