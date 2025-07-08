@@ -4,7 +4,11 @@
 
 ### July 5, 2025 to July 11, 2025
 
-13 commits.
+15 commits.
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)
+  <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub>
+  <sub>Reviewed by: [Michał Sawicz](https://github.com/Saviq), [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt), [Kishan Rathore](https://github.com/rkishan516), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump Dart to 3.8 and reformat
   <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub>
@@ -17,6 +21,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: Use engine_stamp.json in flutter tool
   <sub>[#171454](https://github.com/flutter/flutter/pull/171454) merged on July 8, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/171454) over 6 days, 305 additions and 13 deletions in 12 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Primaël Quémerais](https://github.com/PrimaelQuemerais)** &mdash; Fixes an issue where TapRegion would consume taps regardless of navigation state
+  <sub>[#169067](https://github.com/flutter/flutter/pull/169067) merged on July 8, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169067) over 1 month, 67 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Wasm minification default matches JS minification default
   <sub>[#171710](https://github.com/flutter/flutter/pull/171710) merged on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171710) over 3 hours, 71 additions and 1 deletion in 2 files</sub>
