@@ -137,3 +137,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorationThemeData.activeIndicatorBorder is not applied<br />
   <sub>[#171764](https://github.com/flutter/flutter/pull/171764) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171764) 34 additions and 1 deletion in 2 files</sub><br />
 
+* **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Remove duplicate object initialization<br />
+  <sub>[#171767](https://github.com/flutter/flutter/pull/171767) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171767) 0 additions and 1 deletion in 1 file</sub><br />
+
