@@ -86,9 +86,6 @@
 * **[Zuckjet](https://github.com/Zuckjet)** &mdash; fix: adjust scrollable size assertion with tolerance<br />
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 62 additions and 3 deletions in 2 files</sub><br />
 
-* **[Halil](https://github.com/hig-dev)** &mdash; Add build option to force inclusion of dev_dependencies<br />
-  <sub>[#171445](https://github.com/flutter/flutter/pull/171445) opened on on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171445) 153 additions and 21 deletions in 18 files</sub><br />
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add RSuperellipse support to Web (global cache)<br />
   <sub>[#171489](https://github.com/flutter/flutter/pull/171489) opened on on July 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171489) 963 additions and 79 deletions in 17 files</sub><br />
 
@@ -139,4 +136,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG` for 3.32.6 stable hotfix<br />
   <sub>[#171793](https://github.com/flutter/flutter/pull/171793) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171793) 6 additions and 0 deletions in 1 file</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; test<br />
+  <sub>[#171794](https://github.com/flutter/flutter/pull/171794) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171794) 4 additions and 2 deletions in 2 files</sub><br />
 

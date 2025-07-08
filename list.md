@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-16 commits.
+17 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub>
@@ -53,6 +53,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update translation from console
+  <sub>[#171556](https://github.com/flutter/flutter/pull/171556) merged on July 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171556) over 5 days, 17 additions and 17 deletions in 10 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_restart_web_amd_test.dart on Mac/Windows
   <sub>[#171281](https://github.com/flutter/flutter/pull/171281) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171281) over 1 week, 0 additions and 1 deletion in 1 file</sub>
