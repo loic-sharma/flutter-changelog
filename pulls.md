@@ -137,6 +137,9 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG` for 3.32.6 stable hotfix<br />
   <sub>[#171793](https://github.com/flutter/flutter/pull/171793) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171793) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; test<br />
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix a semantics crash <br />
   <sub>[#171794](https://github.com/flutter/flutter/pull/171794) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171794) 4 additions and 2 deletions in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable auto-formatting for the stack_trace.dart test file<br />
+  <sub>[#171801](https://github.com/flutter/flutter/pull/171801) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171801) 7 additions and 7 deletions in 3 files</sub><br />
 
