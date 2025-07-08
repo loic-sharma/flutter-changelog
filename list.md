@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-9 commits.
+10 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump Dart to 3.8 and reformat
   <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub>
@@ -25,6 +25,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] release background image readers on <= Android 14
   <sub>[#171193](https://github.com/flutter/flutter/pull/171193) merged on July 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/171193) over 1 week, 132 additions and 84 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove long-deprecated `make-host-app-editable`
+  <sub>[#171715](https://github.com/flutter/flutter/pull/171715) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171715) over 7 hours, 4 additions and 77 deletions in 8 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub>
@@ -719,7 +723,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-4 commits.
+5 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add multi-window experimental APIs design doc link
   <sub>[#12187](https://github.com/flutter/website/pull/12187) merged on July 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12187) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -732,6 +736,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in physics animation docs
   <sub>[#12180](https://github.com/flutter/website/pull/12180) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12180) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Elia Tolin](https://github.com/EliaTolin)** &mdash; docs: add remote_caching to database packages list
+  <sub>[#12179](https://github.com/flutter/website/pull/12179) merged on July 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12179) over 3 days, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[刘冲](https://github.com/liuchong)** &mdash; Fix broke link for dynamic_theme in quickstarts_flutter.yml
   <sub>[#12185](https://github.com/flutter/website/pull/12185) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12185) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
