@@ -128,6 +128,3 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix a semantics crash <br />
   <sub>[#171794](https://github.com/flutter/flutter/pull/171794) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171794) 4 additions and 2 deletions in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Documentation] When updating kgp minimum document additional changes that are required<br />
-  <sub>[#171819](https://github.com/flutter/flutter/pull/171819) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171819) 6 additions and 0 deletions in 2 files</sub><br />
-
