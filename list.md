@@ -627,7 +627,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-6 commits.
+7 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move iOS/macOS to per-player-instance Pigeon APIs
   <sub>[#9529](https://github.com/flutter/packages/pull/9529) merged on July 8, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/packages/pull/9529) over 1 week, 958 additions and 1160 deletions in 18 files</sub>
@@ -643,6 +643,10 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Don't crash a misconfigured iOS app
   <sub>[#9486](https://github.com/flutter/packages/pull/9486) merged on July 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9486) over 1 week, 20 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Adds platform view support on macOS
+  <sub>[#9576](https://github.com/flutter/packages/pull/9576) merged on July 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9576) over 1 day, 55 additions and 84 deletions in 12 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; roll 28a4e852bc90479015e6bc96a15d11fe4aa34f3a

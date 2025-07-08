@@ -128,12 +128,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch<br />
   <sub>[#171785](https://github.com/flutter/flutter/pull/171785) opened on on July 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171785) 5 additions and 1 deletion in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `engine.version` for 3.32.6 stable hotfix release<br />
-  <sub>[#171791](https://github.com/flutter/flutter/pull/171791) opened on on July 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171791) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG` for 3.32.6 stable hotfix<br />
-  <sub>[#171793](https://github.com/flutter/flutter/pull/171793) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171793) 6 additions and 0 deletions in 1 file</sub><br />
-
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix a semantics crash <br />
   <sub>[#171794](https://github.com/flutter/flutter/pull/171794) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171794) 4 additions and 2 deletions in 2 files</sub><br />
 
