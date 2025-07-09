@@ -105,7 +105,7 @@
   <sub>[#171718](https://github.com/flutter/flutter/pull/171718) opened on on July 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171718) 13 additions and 7 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine<br />
-  <sub>[#171738](https://github.com/flutter/flutter/pull/171738) opened on on July 7, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/171738) 366 additions and 0 deletions in 12 files</sub><br />
+  <sub>[#171738](https://github.com/flutter/flutter/pull/171738) opened on on July 7, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/171738) 368 additions and 0 deletions in 12 files</sub><br />
 
 * **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Remove duplicate object initialization<br />
   <sub>[#171767](https://github.com/flutter/flutter/pull/171767) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171767) 0 additions and 1 deletion in 1 file</sub><br />
