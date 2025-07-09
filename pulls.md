@@ -54,7 +54,7 @@
   <sub>[#171076](https://github.com/flutter/flutter/pull/171076) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) 90 additions and 90 deletions in 11 files</sub><br />
 
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Added intrinsic box widget<br />
-  <sub>[#171111](https://github.com/flutter/flutter/pull/171111) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171111) 160 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#171111](https://github.com/flutter/flutter/pull/171111) opened on on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171111) 160 additions and 0 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
   <sub>[#171198](https://github.com/flutter/flutter/pull/171198) opened on on June 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171198) 557 additions and 72 deletions in 35 files</sub><br />
