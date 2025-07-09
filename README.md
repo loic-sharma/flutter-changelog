@@ -39,10 +39,6 @@
   <sub>[#171801](https://github.com/flutter/flutter/pull/171801) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171801) over 43 minutes, 7 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
-  <sub>[#171776](https://github.com/flutter/flutter/pull/171776) merged on July 8, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171776) over 3 hours, 1041 additions and 1127 deletions in 105 files</sub><br />
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support upgrading to a new Flutter version pointing to the same revision as a previous version<br />
   <sub>[#171783](https://github.com/flutter/flutter/pull/171783) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171783) over 48 minutes, 172 additions and 19 deletions in 4 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
@@ -122,6 +118,10 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use dwds 24.4.0<br />
   <sub>[#171669](https://github.com/flutter/flutter/pull/171669) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171669) over 2 days, 10 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; reland:Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
+  <sub>[#171776](https://github.com/flutter/flutter/pull/171776) merged on July 8, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171776) over 3 hours, 1041 additions and 1127 deletions in 105 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 ### June 28, 2025 to July 4, 2025
 

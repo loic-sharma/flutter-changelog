@@ -131,3 +131,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Mark web_long_running_tests_2_5 as bringup"<br />
   <sub>[#171872](https://github.com/flutter/flutter/pull/171872) opened on on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171872) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[ash2moon](https://github.com/ash2moon)** &mdash; feat/aab to apk 2<br />
+  <sub>[#171877](https://github.com/flutter/flutter/pull/171877) opened on on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171877) 173 additions and 56 deletions in 4 files</sub><br />
+
