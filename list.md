@@ -683,6 +683,10 @@
   <sub>[#9529](https://github.com/flutter/packages/pull/9529) merged on July 8, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/packages/pull/9529) over 1 week, 958 additions and 1160 deletions in 18 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Don't crash a misconfigured iOS app
+  <sub>[#9486](https://github.com/flutter/packages/pull/9486) merged on July 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9486) over 1 week, 20 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[Pataridze Givi](https://github.com/givip)** &mdash; [in_app_purchase_storekit] isIntroductoryOfferEligible implementation
   <sub>[#9499](https://github.com/flutter/packages/pull/9499) merged on July 7, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/9499) over 1 week, 323 additions and 2 deletions in 11 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub>
@@ -690,10 +694,6 @@
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; [camera] fix `CameraLensType` export
   <sub>[#9536](https://github.com/flutter/packages/pull/9536) merged on July 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/9536) over 1 week, 33 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Don't crash a misconfigured iOS app
-  <sub>[#9486](https://github.com/flutter/packages/pull/9486) merged on July 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9486) over 1 week, 20 additions and 16 deletions in 4 files</sub>
-  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Adds platform view support on macOS
   <sub>[#9576](https://github.com/flutter/packages/pull/9576) merged on July 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9576) over 1 day, 55 additions and 84 deletions in 12 files</sub>
