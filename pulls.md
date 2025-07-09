@@ -122,3 +122,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Optimize scale translate rectangle transforms<br />
   <sub>[#171841](https://github.com/flutter/flutter/pull/171841) opened on on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171841) 161 additions and 2 deletions in 4 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG` for 3.32.5, 3.32.6 stable hotfix releases<br />
+  <sub>[#171891](https://github.com/flutter/flutter/pull/171891) opened on on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171891) 13 additions and 0 deletions in 1 file</sub><br />
+
