@@ -126,5 +126,8 @@
   <sub>[#171891](https://github.com/flutter/flutter/pull/171891) opened on on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171891) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Simplify the template for infrastructure requests<br />
-  <sub>[#171905](https://github.com/flutter/flutter/pull/171905) opened on on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171905) 14 additions and 55 deletions in 1 file</sub><br />
+  <sub>[#171905](https://github.com/flutter/flutter/pull/171905) opened on on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171905) 19 additions and 55 deletions in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `labels` field an array<br />
+  <sub>[#171906](https://github.com/flutter/flutter/pull/171906) opened on on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171906) 1 addition and 1 deletion in 1 file</sub><br />
 
