@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-28 commits.
+29 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)<br />
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub><br />
@@ -66,6 +66,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove long-deprecated `make-host-app-editable`<br />
   <sub>[#171715](https://github.com/flutter/flutter/pull/171715) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171715) over 7 hours, 4 additions and 77 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Apply normalization to TimePickerThemeData.inputDecorationTheme<br />
+  <sub>[#171584](https://github.com/flutter/flutter/pull/171584) merged on July 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171584) over 5 days, 51 additions and 15 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Removed string keys<br />
   <sub>[#171293](https://github.com/flutter/flutter/pull/171293) merged on July 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171293) over 1 week, 10 additions and 14 deletions in 4 files</sub><br />
