@@ -125,3 +125,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG` for 3.32.5, 3.32.6 stable hotfix releases<br />
   <sub>[#171891](https://github.com/flutter/flutter/pull/171891) opened on on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171891) 13 additions and 0 deletions in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Simplify the template for infrastructure requests<br />
+  <sub>[#171905](https://github.com/flutter/flutter/pull/171905) opened on on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171905) 14 additions and 55 deletions in 1 file</sub><br />
+
