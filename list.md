@@ -673,7 +673,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-8 commits.
+9 commits.
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [video_player] Add html 5 video poster support (thumbnail) as a VideoPlayerWebOptions
   <sub>[#8940](https://github.com/flutter/packages/pull/8940) merged on July 9, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8940) over 3 months, 81 additions and 3 deletions in 4 files</sub>
@@ -706,6 +706,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Remove Android x86 compilation
   <sub>[#9572](https://github.com/flutter/packages/pull/9572) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9572) over 3 hours, 2 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from fcf2c11572af to 077b4a4ce10a (5 revisions)
+  <sub>[#9585](https://github.com/flutter/packages/pull/9585) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9585) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### June 28, 2025 to July 4, 2025
 
