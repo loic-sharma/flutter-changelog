@@ -122,6 +122,3 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Optimize scale translate rectangle transforms<br />
   <sub>[#171841](https://github.com/flutter/flutter/pull/171841) opened on on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171841) 161 additions and 2 deletions in 4 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Simplify the template for infrastructure requests<br />
-  <sub>[#171905](https://github.com/flutter/flutter/pull/171905) opened on on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171905) 19 additions and 55 deletions in 1 file</sub><br />
-

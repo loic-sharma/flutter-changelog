@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-32 commits.
+37 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub>
@@ -31,17 +31,21 @@
   <sub>[#171454](https://github.com/flutter/flutter/pull/171454) merged on July 8, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/171454) over 6 days, 305 additions and 13 deletions in 12 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Primaël Quémerais](https://github.com/PrimaelQuemerais)** &mdash; Fixes an issue where TapRegion would consume taps regardless of navigation state
-  <sub>[#169067](https://github.com/flutter/flutter/pull/169067) merged on July 8, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169067) over 1 month, 67 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Wasm minification default matches JS minification default
   <sub>[#171710](https://github.com/flutter/flutter/pull/171710) merged on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171710) over 3 hours, 71 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Nate Biggs](https://github.com/biggs0125)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable auto-formatting for the stack_trace.dart test file
-  <sub>[#171801](https://github.com/flutter/flutter/pull/171801) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171801) over 43 minutes, 7 additions and 7 deletions in 3 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Primaël Quémerais](https://github.com/PrimaelQuemerais)** &mdash; Fixes an issue where TapRegion would consume taps regardless of navigation state
+  <sub>[#169067](https://github.com/flutter/flutter/pull/169067) merged on July 8, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169067) over 1 month, 67 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Simplify the template for infrastructure requests
+  <sub>[#171905](https://github.com/flutter/flutter/pull/171905) merged on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171905) over 2 hours, 19 additions and 55 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash when SIGQUIT is sent to enable the VM service for `flutter analyze --watch`
+  <sub>[#171713](https://github.com/flutter/flutter/pull/171713) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171713) over 4 hours, 65 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support upgrading to a new Flutter version pointing to the same revision as a previous version
   <sub>[#171783](https://github.com/flutter/flutter/pull/171783) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171783) over 48 minutes, 172 additions and 19 deletions in 4 files</sub>
@@ -51,17 +55,25 @@
   <sub>[#171399](https://github.com/flutter/flutter/pull/171399) merged on July 7, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/171399) over 1 week, 41 additions and 220 deletions in 9 files</sub>
   <sub>Reviewed by: [Mikhail Novoseltsev](https://github.com/Sameri11), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash when SIGQUIT is sent to enable the VM service for `flutter analyze --watch`
-  <sub>[#171713](https://github.com/flutter/flutter/pull/171713) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171713) over 4 hours, 65 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable auto-formatting for the stack_trace.dart test file
+  <sub>[#171801](https://github.com/flutter/flutter/pull/171801) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171801) over 43 minutes, 7 additions and 7 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove now duplicate un-forward ports for Android
-  <sub>[#171473](https://github.com/flutter/flutter/pull/171473) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171473) over 1 week, 75 additions and 40 deletions in 2 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Daniil Lipatkin](https://github.com/nt4f04uNd)** &mdash; Add detailed error message for BorderRadiusDirectional
+  <sub>[#171805](https://github.com/flutter/flutter/pull/171805) merged on July 9, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/171805) over 1 day, 83 additions and 2 deletions in 5 files</sub>
+  <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] release background image readers on <= Android 14
   <sub>[#171193](https://github.com/flutter/flutter/pull/171193) merged on July 7, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/171193) over 1 week, 132 additions and 84 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add total execution time to the flutter upgrade command
+  <sub>[#171475](https://github.com/flutter/flutter/pull/171475) merged on July 9, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/171475) over 1 week, 282 additions and 46 deletions in 4 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove now duplicate un-forward ports for Android
+  <sub>[#171473](https://github.com/flutter/flutter/pull/171473) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171473) over 1 week, 75 additions and 40 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove long-deprecated `make-host-app-editable`
   <sub>[#171715](https://github.com/flutter/flutter/pull/171715) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171715) over 7 hours, 4 additions and 77 deletions in 8 files</sub>
@@ -75,6 +87,14 @@
   <sub>[#171293](https://github.com/flutter/flutter/pull/171293) merged on July 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171293) over 1 week, 10 additions and 14 deletions in 4 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add public postmortem of the 3.32.3 release.
+  <sub>[#171904](https://github.com/flutter/flutter/pull/171904) merged on July 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171904) over 3 hours, 61 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `labels` field an array
+  <sub>[#171906](https://github.com/flutter/flutter/pull/171906) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171906) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add/use `addMachineOutputFlag`/`outputsMachineFormat` instead of strings
   <sub>[#171459](https://github.com/flutter/flutter/pull/171459) merged on July 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171459) over 1 week, 30 additions and 57 deletions in 8 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -83,22 +103,9 @@
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Fix flag fiddling for Fuchsia, FreeType, & friends
-  <sub>[#171874](https://github.com/flutter/flutter/pull/171874) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171874) over 1 hour, 7 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Mark web_long_running_tests_2_5 as bringup"
-  <sub>[#171872](https://github.com/flutter/flutter/pull/171872) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171872) over 46 minutes, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-  <sub><details><summary>1 image...</summary><img width="275" alt="image" src="https://github.com/user-attachments/assets/f2fc18e6-7dcd-4017-a5c5-ade6988b0692" /></details></sub>
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view GL rendering not working since software rendering was added
-  <sub>[#171409](https://github.com/flutter/flutter/pull/171409) merged on July 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171409) over 1 week, 12 additions and 7 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Documentation] When updating kgp minimum document additional changes that are required
-  <sub>[#171819](https://github.com/flutter/flutter/pull/171819) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171819) over 48 minutes, 6 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use dwds 24.4.0
+  <sub>[#171669](https://github.com/flutter/flutter/pull/171669) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171669) over 2 days, 10 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add support for running dart2wasm in dry run mode on js compilations
   <sub>[#171682](https://github.com/flutter/flutter/pull/171682) merged on July 8, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171682) over 1 day, 116 additions and 33 deletions in 6 files</sub>
@@ -128,9 +135,22 @@
   <sub>[#171651](https://github.com/flutter/flutter/pull/171651) merged on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171651) over 2 days, 22 additions and 22 deletions in 6 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use dwds 24.4.0
-  <sub>[#171669](https://github.com/flutter/flutter/pull/171669) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171669) over 2 days, 10 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Fix flag fiddling for Fuchsia, FreeType, & friends
+  <sub>[#171874](https://github.com/flutter/flutter/pull/171874) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171874) over 1 hour, 7 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Mark web_long_running_tests_2_5 as bringup"
+  <sub>[#171872](https://github.com/flutter/flutter/pull/171872) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171872) over 46 minutes, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+  <sub><details><summary>1 image...</summary><img width="275" alt="image" src="https://github.com/user-attachments/assets/f2fc18e6-7dcd-4017-a5c5-ade6988b0692" /></details></sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view GL rendering not working since software rendering was added
+  <sub>[#171409](https://github.com/flutter/flutter/pull/171409) merged on July 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171409) over 1 week, 12 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Documentation] When updating kgp minimum document additional changes that are required
+  <sub>[#171819](https://github.com/flutter/flutter/pull/171819) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171819) over 48 minutes, 6 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; reland:Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9
   <sub>[#171776](https://github.com/flutter/flutter/pull/171776) merged on July 8, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171776) over 3 hours, 1041 additions and 1127 deletions in 105 files</sub>
@@ -673,7 +693,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-9 commits.
+10 commits.
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [video_player] Add html 5 video poster support (thumbnail) as a VideoPlayerWebOptions
   <sub>[#8940](https://github.com/flutter/packages/pull/8940) merged on July 9, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8940) over 3 months, 81 additions and 3 deletions in 4 files</sub>
@@ -693,6 +713,10 @@
 
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; [camera] fix `CameraLensType` export
   <sub>[#9536](https://github.com/flutter/packages/pull/9536) merged on July 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/9536) over 1 week, 33 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [rfw] Remove the RFW WASM example
+  <sub>[#9551](https://github.com/flutter/packages/pull/9551) merged on July 9, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9551) over 6 days, 52 additions and 3175 deletions in 68 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Adds platform view support on macOS
