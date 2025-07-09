@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-27 commits.
+28 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub>
@@ -17,6 +17,11 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SliverSemantics
   <sub>[#167300](https://github.com/flutter/flutter/pull/167300) merged on July 8, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/167300) over 2 months, 4029 additions and 787 deletions in 6 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorationThemeData.activeIndicatorBorder is not applied
+  <sub>[#171764](https://github.com/flutter/flutter/pull/171764) merged on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171764) over 22 hours, 34 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+  <sub><details><summary>1 image...</summary>![Image](https://github.com/user-attachments/assets/7108d760-fe7a-48c4-8ef5-df5709a3573a) | ![Image](https://github.com/user-attachments/assets/7c07c702-ed81-4ae9-ba07-b471330d5e09)</details></sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: Use engine_stamp.json in flutter tool
   <sub>[#171454](https://github.com/flutter/flutter/pull/171454) merged on July 8, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/171454) over 6 days, 305 additions and 13 deletions in 12 files</sub>
