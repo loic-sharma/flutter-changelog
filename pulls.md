@@ -99,7 +99,7 @@
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: TabBar fontFamily inheritance with custom label styles<br />
-  <sub>[#171699](https://github.com/flutter/flutter/pull/171699) opened on on July 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171699) 101 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#171699](https://github.com/flutter/flutter/pull/171699) opened on on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171699) 101 additions and 11 deletions in 2 files</sub><br />
 
 * **[Albin PK](https://github.com/albinpk)** &mdash; fix: selected date decorator renders outside PageView in `DatePickerDialog` dialog<br />
   <sub>[#171718](https://github.com/flutter/flutter/pull/171718) opened on on July 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171718) 13 additions and 7 deletions in 1 file</sub><br />
