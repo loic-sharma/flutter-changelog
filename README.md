@@ -829,7 +829,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-6 commits.
+7 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add go/web-renderer-unification doc to firebase.json<br />
   <sub>[#12192](https://github.com/flutter/website/pull/12192) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12192) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
@@ -846,6 +846,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in physics animation docs<br />
   <sub>[#12180](https://github.com/flutter/website/pull/12180) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12180) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update theme normalization breaking change (InputDecorationTheme)<br />
+  <sub>[#12194](https://github.com/flutter/website/pull/12194) merged on July 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12194) over 54 minutes, 40 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Elia Tolin](https://github.com/EliaTolin)** &mdash; docs: add remote_caching to database packages list<br />
   <sub>[#12179](https://github.com/flutter/website/pull/12179) merged on July 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12179) over 3 days, 3 additions and 0 deletions in 1 file</sub><br />
