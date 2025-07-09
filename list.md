@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-29 commits.
+30 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub>
@@ -78,6 +78,11 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Mark web_long_running_tests_2_5 as bringup"
+  <sub>[#171872](https://github.com/flutter/flutter/pull/171872) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171872) over 46 minutes, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+  <sub><details><summary>1 image...</summary><img width="275" alt="image" src="https://github.com/user-attachments/assets/f2fc18e6-7dcd-4017-a5c5-ade6988b0692" /></details></sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view GL rendering not working since software rendering was added
   <sub>[#171409](https://github.com/flutter/flutter/pull/171409) merged on July 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171409) over 1 week, 12 additions and 7 deletions in 1 file</sub>
@@ -660,7 +665,11 @@
 
 ### July 5, 2025 to July 11, 2025
 
-7 commits.
+8 commits.
+
+* **[Ortes](https://github.com/Ortes)** &mdash; [video_player] Add html 5 video poster support (thumbnail) as a VideoPlayerWebOptions
+  <sub>[#8940](https://github.com/flutter/packages/pull/8940) merged on July 9, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8940) over 3 months, 81 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move iOS/macOS to per-player-instance Pigeon APIs
   <sub>[#9529](https://github.com/flutter/packages/pull/9529) merged on July 8, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/packages/pull/9529) over 1 week, 958 additions and 1160 deletions in 18 files</sub>
