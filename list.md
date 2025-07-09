@@ -837,7 +837,11 @@
 
 ### July 5, 2025 to July 11, 2025
 
-7 commits.
+8 commits.
+
+* **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Added --config-only to iOS Cloud build and deploy setup
+  <sub>[#12190](https://github.com/flutter/website/pull/12190) merged on July 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12190) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add go/web-renderer-unification doc to firebase.json
   <sub>[#12192](https://github.com/flutter/website/pull/12192) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12192) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
