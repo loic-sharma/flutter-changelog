@@ -72,7 +72,7 @@
   <sub>[#171283](https://github.com/flutter/flutter/pull/171283) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171283) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor compositor classes<br />
-  <sub>[#171414](https://github.com/flutter/flutter/pull/171414) opened on on July 1, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/171414) 391 additions and 560 deletions in 17 files</sub><br />
+  <sub>[#171414](https://github.com/flutter/flutter/pull/171414) opened on on July 1, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/171414) 380 additions and 554 deletions in 17 files</sub><br />
 
 * **[Zuckjet](https://github.com/Zuckjet)** &mdash; fix: adjust scrollable size assertion with tolerance<br />
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 62 additions and 3 deletions in 2 files</sub><br />
@@ -105,7 +105,7 @@
   <sub>[#171718](https://github.com/flutter/flutter/pull/171718) opened on on July 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171718) 13 additions and 7 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine<br />
-  <sub>[#171738](https://github.com/flutter/flutter/pull/171738) opened on on July 7, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/171738) 476 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#171738](https://github.com/flutter/flutter/pull/171738) opened on on July 7, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/171738) 364 additions and 1 deletion in 10 files</sub><br />
 
 * **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Remove duplicate object initialization<br />
   <sub>[#171767](https://github.com/flutter/flutter/pull/171767) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171767) 0 additions and 1 deletion in 1 file</sub><br />
