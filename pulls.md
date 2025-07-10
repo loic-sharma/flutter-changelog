@@ -119,3 +119,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [WIP] Fix previous text input connection interrupts enter/space<br />
   <sub>[#171973](https://github.com/flutter/flutter/pull/171973) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171973) 86 additions and 0 deletions in 3 files</sub><br />
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: documentation around led launch broken<br />
+  <sub>[#171983](https://github.com/flutter/flutter/pull/171983) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171983) 1 addition and 1 deletion in 1 file</sub><br />
+
