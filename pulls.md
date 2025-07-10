@@ -119,6 +119,3 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix PopupMenuButton crashes when being hidden immediately<br />
   <sub>[#171970](https://github.com/flutter/flutter/pull/171970) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171970) 110 additions and 10 deletions in 2 files</sub><br />
 
-* **[Andrii Pyvovarov](https://github.com/Andro999b)** &mdash; fix: focus traversal into nested scrollable<br />
-  <sub>[#171976](https://github.com/flutter/flutter/pull/171976) opened on on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171976) 0 additions and 17 deletions in 1 file</sub><br />
-
