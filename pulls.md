@@ -77,9 +77,6 @@
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow Closing showMenu popup programmatically #165561<br />
   <sub>[#171593](https://github.com/flutter/flutter/pull/171593) opened on on July 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171593) 162 additions and 0 deletions in 2 files</sub><br />
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Add static for AppBar.preferredSize, to enable extending by composition<br />
-  <sub>[#171604](https://github.com/flutter/flutter/pull/171604) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171604) 40 additions and 1 deletion in 2 files</sub><br />
-
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web<br />
   <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171638) 171 additions and 0 deletions in 8 files</sub><br />
 
