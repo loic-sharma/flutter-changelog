@@ -251,6 +251,10 @@
   <sub>[#168437](https://github.com/flutter/flutter/pull/168437) merged on July 2, 2025 &mdash; **Small:** [70 comments](https://github.com/flutter/flutter/pull/168437) over 1 month, 297 additions and 1 deletion in 13 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Justin McCandless](https://github.com/justinmc), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix DropdownMenu does not apply opacity to the selected value when disabled
+  <sub>[#170336](https://github.com/flutter/flutter/pull/170336) merged on July 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170336) over 3 weeks, 103 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; feat(web): Add navigation focus handler for assistive technology focus restoration
   <sub>[#170046](https://github.com/flutter/flutter/pull/170046) merged on June 30, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/170046) over 3 weeks, 474 additions and 26 deletions in 7 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
@@ -258,10 +262,6 @@
 * **[Klemen Tusar](https://github.com/techouse)** &mdash; Fix infinite loop in CupertinoSliverNavigationBar collapse animation by adding bounds check for target scroll position
   <sub>[#170210](https://github.com/flutter/flutter/pull/170210) merged on July 1, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/170210) over 3 weeks, 70 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Huy](https://github.com/huycozy)** &mdash; Fix DropdownMenu does not apply opacity to the selected value when disabled
-  <sub>[#170336](https://github.com/flutter/flutter/pull/170336) merged on July 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170336) over 3 weeks, 103 additions and 4 deletions in 4 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add --enable-flutter-gpu flag to flutter_tool & FLTEnableFlutterGPU to the macOS embedder
   <sub>[#171404](https://github.com/flutter/flutter/pull/171404) merged on July 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171404) over 21 hours, 121 additions and 3 deletions in 18 files</sub>
