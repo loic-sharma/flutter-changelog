@@ -68,9 +68,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_restart_web_ddc_library_bundle_test.dart on Mac/Windows<br />
   <sub>[#171282](https://github.com/flutter/flutter/pull/171282) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171282) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run stateless_stateful_hot_reload_web_test.dart on Mac/Windows<br />
-  <sub>[#171283](https://github.com/flutter/flutter/pull/171283) opened on on June 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171283) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Zuckjet](https://github.com/Zuckjet)** &mdash; fix: adjust scrollable size assertion with tolerance<br />
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 62 additions and 3 deletions in 2 files</sub><br />
 
@@ -111,7 +108,7 @@
   <sub>[#171778](https://github.com/flutter/flutter/pull/171778) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171778) 6 additions and 6 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch<br />
-  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) opened on on July 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171785) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) opened on on July 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171785) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix a semantics crash <br />
   <sub>[#171794](https://github.com/flutter/flutter/pull/171794) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171794) 4 additions and 2 deletions in 2 files</sub><br />
