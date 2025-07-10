@@ -36,7 +36,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device
-  <sub>[#170635](https://github.com/flutter/flutter/pull/170635) merged on July 9, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/170635) over 3 weeks, 64 additions and 6 deletions in 3 files</sub>
+  <sub>[#170635](https://github.com/flutter/flutter/pull/170635) merged on July 9, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170635) over 3 weeks, 64 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: Use engine_stamp.json in flutter tool
