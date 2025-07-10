@@ -35,9 +35,6 @@
 * **[Roc Boronat](https://github.com/rocboronat)** &mdash; Fix styling typos in commit links for latest versions<br />
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoDatePicker` and `CupertinoTimerPicker` new onChanged behavior<br />
-  <sub>[#170793](https://github.com/flutter/flutter/pull/170793) opened on on June 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170793) 109 additions and 0 deletions in 2 files</sub><br />
-
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Change RawScrollbar padding from EdgeInsets to EdgeInsetsGeometry<br />
   <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170927) 98 additions and 3 deletions in 2 files</sub><br />
 
@@ -118,4 +115,7 @@
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix PopupMenuButton crashes when being hidden immediately<br />
   <sub>[#171970](https://github.com/flutter/flutter/pull/171970) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171970) 110 additions and 10 deletions in 2 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [WIP] Fix previous text input connection interrupts enter/space<br />
+  <sub>[#171973](https://github.com/flutter/flutter/pull/171973) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171973) 86 additions and 0 deletions in 3 files</sub><br />
 
