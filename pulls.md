@@ -119,3 +119,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix PopupMenuButton crashes when being hidden immediately<br />
   <sub>[#171970](https://github.com/flutter/flutter/pull/171970) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171970) 110 additions and 10 deletions in 2 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update 3.32.6 `CHANGELOG` based on edits in `master`<br />
+  <sub>[#171975](https://github.com/flutter/flutter/pull/171975) opened on on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171975) 3 additions and 3 deletions in 1 file</sub><br />
+
