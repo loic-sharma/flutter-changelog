@@ -69,7 +69,7 @@
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 62 additions and 3 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License_cpp 7/02<br />
-  <sub>[#171558](https://github.com/flutter/flutter/pull/171558) opened on on July 2, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171558) 11434 additions and 5343 deletions in 23 files</sub><br />
+  <sub>[#171558](https://github.com/flutter/flutter/pull/171558) opened on on July 2, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171558) 11434 additions and 5343 deletions in 23 files</sub><br />
 
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; Remove redundant ThemeData(useMaterial3: true) from tests<br />
   <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
