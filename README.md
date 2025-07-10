@@ -769,7 +769,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-12 commits.
+13 commits.
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [video_player] Add html 5 video poster support (thumbnail) as a VideoPlayerWebOptions<br />
   <sub>[#8940](https://github.com/flutter/packages/pull/8940) merged on July 9, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8940) over 3 months, 81 additions and 3 deletions in 4 files</sub><br />
@@ -794,6 +794,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [rfw] Remove the RFW WASM example<br />
   <sub>[#9551](https://github.com/flutter/packages/pull/9551) merged on July 9, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9551) over 6 days, 52 additions and 3175 deletions in 68 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; [url_launcher] Fixes new unnecessary boolean operations warnings<br />
+  <sub>[#9409](https://github.com/flutter/packages/pull/9409) merged on July 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9409) over 1 month, 21 additions and 8 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add troubleshooting to Android README<br />
   <sub>[#9581](https://github.com/flutter/packages/pull/9581) merged on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9581) over 2 days, 28 additions and 4 deletions in 3 files</sub><br />
@@ -945,10 +949,14 @@
 
 ### July 5, 2025 to July 11, 2025
 
-8 commits.
+9 commits.
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Added --config-only to iOS Cloud build and deploy setup<br />
   <sub>[#12190](https://github.com/flutter/website/pull/12190) merged on July 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12190) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; Remove references to Hive and Isar<br />
+  <sub>[#12196](https://github.com/flutter/website/pull/12196) merged on July 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12196) over 4 hours, 2 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add go/web-renderer-unification doc to firebase.json<br />
