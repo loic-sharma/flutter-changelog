@@ -71,12 +71,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; License_cpp 7/02<br />
   <sub>[#171558](https://github.com/flutter/flutter/pull/171558) opened on on July 2, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171558) 11434 additions and 5343 deletions in 23 files</sub><br />
 
-* **[Pranav](https://github.com/pranavo72bex)** &mdash; Remove redundant ThemeData(useMaterial3: true) from tests<br />
-  <sub>[#171569](https://github.com/flutter/flutter/pull/171569) opened on on July 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171569) 0 additions and 11 deletions in 4 files</sub><br />
-
-* **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow Closing showMenu popup programmatically #165561<br />
-  <sub>[#171593](https://github.com/flutter/flutter/pull/171593) opened on on July 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171593) 162 additions and 0 deletions in 2 files</sub><br />
-
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web<br />
   <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171638) 171 additions and 0 deletions in 8 files</sub><br />
 
