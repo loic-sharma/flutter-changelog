@@ -116,3 +116,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Optimize scale translate rectangle transforms<br />
   <sub>[#171841](https://github.com/flutter/flutter/pull/171841) opened on on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171841) 161 additions and 2 deletions in 4 files</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix PopupMenuButton crashes when being hidden immediately<br />
+  <sub>[#171970](https://github.com/flutter/flutter/pull/171970) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171970) 110 additions and 10 deletions in 2 files</sub><br />
+
