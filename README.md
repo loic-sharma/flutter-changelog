@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-51 commits.
+52 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)<br />
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub><br />
@@ -63,32 +63,40 @@
   <sub>[#171905](https://github.com/flutter/flutter/pull/171905) merged on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171905) over 2 hours, 19 additions and 55 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash when SIGQUIT is sent to enable the VM service for `flutter analyze --watch`<br />
-  <sub>[#171713](https://github.com/flutter/flutter/pull/171713) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171713) over 4 hours, 65 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
-  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) merged on July 7, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/171399) over 1 week, 41 additions and 220 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Mikhail Novoseltsev](https://github.com/Sameri11), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor compositor classes<br />
-  <sub>[#171414](https://github.com/flutter/flutter/pull/171414) merged on July 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/171414) over 1 week, 389 additions and 554 deletions in 17 files</sub><br />
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Support `NO_COLOR` to opt-out of `flutter` tool ANSI colors<br />
+  <sub>[#171892](https://github.com/flutter/flutter/pull/171892) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171892) over 4 hours, 20 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support upgrading to a new Flutter version pointing to the same revision as a previous version<br />
   <sub>[#171783](https://github.com/flutter/flutter/pull/171783) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171783) over 48 minutes, 172 additions and 19 deletions in 4 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Support `NO_COLOR` to opt-out of `flutter` tool ANSI colors<br />
-  <sub>[#171892](https://github.com/flutter/flutter/pull/171892) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171892) over 4 hours, 20 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[yim](https://github.com/yiiim)** &mdash; Fix the hitTest issue of reversed SliverMainAxisGroup.<br />
+  <sub>[#171073](https://github.com/flutter/flutter/pull/171073) merged on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171073) over 2 weeks, 39 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9<br />
+  <sub>[#171399](https://github.com/flutter/flutter/pull/171399) merged on July 7, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/171399) over 1 week, 41 additions and 220 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Mikhail Novoseltsev](https://github.com/Sameri11), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash when SIGQUIT is sent to enable the VM service for `flutter analyze --watch`<br />
+  <sub>[#171713](https://github.com/flutter/flutter/pull/171713) merged on July 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171713) over 4 hours, 65 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor compositor classes<br />
+  <sub>[#171414](https://github.com/flutter/flutter/pull/171414) merged on July 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/171414) over 1 week, 389 additions and 554 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable auto-formatting for the stack_trace.dart test file<br />
   <sub>[#171801](https://github.com/flutter/flutter/pull/171801) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171801) over 43 minutes, 7 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Hide the rarely direct used `--sample` argument by default<br />
-  <sub>[#171898](https://github.com/flutter/flutter/pull/171898) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171898) over 3 hours, 20 additions and 0 deletions in 2 files</sub><br />
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue with `SliverMainAxisGroups` growing in the reverse direction during layout.<br />
+  <sub>[#171005](https://github.com/flutter/flutter/pull/171005) merged on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171005) over 2 weeks, 50 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add total execution time to the flutter upgrade command<br />
+  <sub>[#171475](https://github.com/flutter/flutter/pull/171475) merged on July 9, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/171475) over 1 week, 282 additions and 46 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Daniil Lipatkin](https://github.com/nt4f04uNd)** &mdash; Add detailed error message for BorderRadiusDirectional<br />
@@ -99,12 +107,8 @@
   <sub>[#171473](https://github.com/flutter/flutter/pull/171473) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171473) over 1 week, 75 additions and 40 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix the issue with `SliverMainAxisGroups` growing in the reverse direction during layout.<br />
-  <sub>[#171005](https://github.com/flutter/flutter/pull/171005) merged on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171005) over 2 weeks, 50 additions and 5 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add total execution time to the flutter upgrade command<br />
-  <sub>[#171475](https://github.com/flutter/flutter/pull/171475) merged on July 9, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/171475) over 1 week, 282 additions and 46 deletions in 4 files</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Hide the rarely direct used `--sample` argument by default<br />
+  <sub>[#171898](https://github.com/flutter/flutter/pull/171898) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171898) over 3 hours, 20 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] release background image readers on <= Android 14<br />
@@ -131,6 +135,14 @@
   <sub>[#171903](https://github.com/flutter/flutter/pull/171903) merged on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171903) over 3 hours, 85 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `labels` field an array<br />
+  <sub>[#171906](https://github.com/flutter/flutter/pull/171906) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171906) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add public postmortem of the 3.32.3 release.<br />
+  <sub>[#171904](https://github.com/flutter/flutter/pull/171904) merged on July 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171904) over 3 hours, 61 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add/use `addMachineOutputFlag`/`outputsMachineFormat` instead of strings<br />
   <sub>[#171459](https://github.com/flutter/flutter/pull/171459) merged on July 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171459) over 1 week, 30 additions and 57 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -142,14 +154,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup<br />
   <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add public postmortem of the 3.32.3 release.<br />
-  <sub>[#171904](https://github.com/flutter/flutter/pull/171904) merged on July 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171904) over 3 hours, 61 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `labels` field an array<br />
-  <sub>[#171906](https://github.com/flutter/flutter/pull/171906) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171906) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "Mark web_long_running_tests_2_5 as bringup"<br />
   <sub>[#171872](https://github.com/flutter/flutter/pull/171872) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171872) over 46 minutes, 0 additions and 1 deletion in 1 file</sub><br />
