@@ -105,7 +105,7 @@
   <sub>[#171778](https://github.com/flutter/flutter/pull/171778) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171778) 6 additions and 6 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch<br />
-  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) opened on on July 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171785) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) opened on on July 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171785) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix a semantics crash <br />
   <sub>[#171794](https://github.com/flutter/flutter/pull/171794) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171794) 4 additions and 2 deletions in 2 files</sub><br />
@@ -115,9 +115,6 @@
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix PopupMenuButton crashes when being hidden immediately<br />
   <sub>[#171970](https://github.com/flutter/flutter/pull/171970) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171970) 110 additions and 10 deletions in 2 files</sub><br />
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [WIP] Fix previous text input connection interrupts enter/space<br />
-  <sub>[#171973](https://github.com/flutter/flutter/pull/171973) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171973) 86 additions and 0 deletions in 3 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: documentation around led launch broken<br />
   <sub>[#171983](https://github.com/flutter/flutter/pull/171983) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171983) 1 addition and 1 deletion in 1 file</sub><br />
