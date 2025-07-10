@@ -4,7 +4,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-58 commits.
+59 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)<br />
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub><br />
@@ -39,6 +39,10 @@
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) merged on July 10, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/170898) over 2 weeks, 122 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[Pedro Massango](https://github.com/pedromassango)** &mdash; feat: Expose FocusNode of FocusTraversalGroup<br />
+  <sub>[#171979](https://github.com/flutter/flutter/pull/171979) merged on July 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171979) over 1 hour, 82 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
   <sub>[#170635](https://github.com/flutter/flutter/pull/170635) merged on July 9, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170635) over 3 weeks, 64 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -71,17 +75,17 @@
   <sub>[#171905](https://github.com/flutter/flutter/pull/171905) merged on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171905) over 2 hours, 19 additions and 55 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix the hitTest issue of reversed SliverMainAxisGroup.<br />
-  <sub>[#171073](https://github.com/flutter/flutter/pull/171073) merged on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171073) over 2 weeks, 39 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support upgrading to a new Flutter version pointing to the same revision as a previous version<br />
+  <sub>[#171783](https://github.com/flutter/flutter/pull/171783) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171783) over 48 minutes, 172 additions and 19 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable auto-formatting for the stack_trace.dart test file<br />
   <sub>[#171801](https://github.com/flutter/flutter/pull/171801) merged on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171801) over 43 minutes, 7 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support upgrading to a new Flutter version pointing to the same revision as a previous version<br />
-  <sub>[#171783](https://github.com/flutter/flutter/pull/171783) merged on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171783) over 48 minutes, 172 additions and 19 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+* **[yim](https://github.com/yiiim)** &mdash; Fix the hitTest issue of reversed SliverMainAxisGroup.<br />
+  <sub>[#171073](https://github.com/flutter/flutter/pull/171073) merged on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171073) over 2 weeks, 39 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; `CupertinoDatePicker` and `CupertinoTimerPicker` new onChanged behavior<br />
   <sub>[#170793](https://github.com/flutter/flutter/pull/170793) merged on July 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/170793) over 3 weeks, 109 additions and 0 deletions in 2 files</sub><br />
@@ -143,37 +147,37 @@
   <sub>[#171969](https://github.com/flutter/flutter/pull/171969) merged on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171969) over 1 hour, 25 additions and 17 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Siva](https://github.com/a-siva)</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add frame number support.<br />
-  <sub>[#171592](https://github.com/flutter/flutter/pull/171592) merged on July 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171592) over 6 days, 182 additions and 26 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `labels` field an array<br />
   <sub>[#171906](https://github.com/flutter/flutter/pull/171906) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171906) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Give an actionable error to `flutter_test.*tap` of a `RenderSliver`<br />
-  <sub>[#171930](https://github.com/flutter/flutter/pull/171930) merged on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171930) over 1 hour, 95 additions and 3 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add frame number support.<br />
+  <sub>[#171592](https://github.com/flutter/flutter/pull/171592) merged on July 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171592) over 6 days, 182 additions and 26 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: new builders for size experiment<br />
   <sub>[#171886](https://github.com/flutter/flutter/pull/171886) merged on July 9, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/171886) over 4 hours, 152 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup<br />
+  <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Give an actionable error to `flutter_test.*tap` of a `RenderSliver`<br />
+  <sub>[#171930](https://github.com/flutter/flutter/pull/171930) merged on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171930) over 1 hour, 95 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add/use `addMachineOutputFlag`/`outputsMachineFormat` instead of strings<br />
   <sub>[#171459](https://github.com/flutter/flutter/pull/171459) merged on July 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171459) over 1 week, 30 additions and 57 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter config --enable-omit-legacy-version-file`<br />
-  <sub>[#171903](https://github.com/flutter/flutter/pull/171903) merged on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171903) over 3 hours, 85 additions and 1 deletion in 5 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add public postmortem of the 3.32.3 release.<br />
   <sub>[#171904](https://github.com/flutter/flutter/pull/171904) merged on July 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171904) over 3 hours, 61 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark web_long_running_tests_2_5 as bringup<br />
-  <sub>[#171726](https://github.com/flutter/flutter/pull/171726) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171726) over 4 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter config --enable-omit-legacy-version-file`<br />
+  <sub>[#171903](https://github.com/flutter/flutter/pull/171903) merged on July 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171903) over 3 hours, 85 additions and 1 deletion in 5 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix multi-view GL rendering not working since software rendering was added<br />
   <sub>[#171409](https://github.com/flutter/flutter/pull/171409) merged on July 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171409) over 1 week, 12 additions and 7 deletions in 1 file</sub><br />
