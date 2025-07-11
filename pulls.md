@@ -101,3 +101,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Fix Size.isEmpty description<br />
   <sub>[#172021](https://github.com/flutter/flutter/pull/172021) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172021) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Initial work to support reacting to IDE events<br />
+  <sub>[#172040](https://github.com/flutter/flutter/pull/172040) opened on on July 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172040) 673 additions and 43 deletions in 13 files</sub><br />
+
