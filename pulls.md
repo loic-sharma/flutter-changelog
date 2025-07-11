@@ -69,7 +69,7 @@
   <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171638) 171 additions and 0 deletions in 8 files</sub><br />
 
 * **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
-  <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171646) 60 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171646) 60 additions and 7 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true and added simple test case<br />
   <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171648) 213 additions and 1 deletion in 3 files</sub><br />
@@ -100,9 +100,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Web][Engine] Update MediaQuery in response to semanticsEnabled<br />
   <sub>[#172007](https://github.com/flutter/flutter/pull/172007) opened on on July 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172007) 29 additions and 4 deletions in 5 files</sub><br />
-
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Web a11y]Update table cell to use LabelRepresentation.sizedSpan <br />
-  <sub>[#172013](https://github.com/flutter/flutter/pull/172013) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172013) 67 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add GEMINI.md to .gitignore<br />
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
