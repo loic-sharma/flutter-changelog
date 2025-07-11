@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine
-  <sub>[#171738](https://github.com/flutter/flutter/pull/171738) merged on July 9, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/171738) over 2 days, 360 additions and 0 deletions in 11 files</sub>
+  <sub>[#171738](https://github.com/flutter/flutter/pull/171738) merged on July 9, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/171738) over 2 days, 360 additions and 0 deletions in 11 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch
