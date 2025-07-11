@@ -27,7 +27,7 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jing Shao](https://github.com/jingshao-code)** &mdash; [iOS] Add Live Text option to system context menu<br />
-  <sub>[#170969](https://github.com/flutter/flutter/pull/170969) merged on July 10, 2025 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/170969) over 2 weeks, 92 additions and 0 deletions in 6 files</sub><br />
+  <sub>[#170969](https://github.com/flutter/flutter/pull/170969) merged on July 10, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/170969) over 2 weeks, 92 additions and 0 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorationThemeData.activeIndicatorBorder is not applied<br />
