@@ -104,3 +104,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add GEMINI.md to .gitignore<br />
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Enable `omit_obvious_*_types` and `specify_nonobvious_*_types` lints<br />
+  <sub>[#172018](https://github.com/flutter/flutter/pull/172018) opened on on July 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172018) 12083 additions and 12078 deletions in 734 files</sub><br />
+

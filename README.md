@@ -19,7 +19,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch<br />
-  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) merged on July 11, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171785) over 2 days, 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) merged on July 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171785) over 2 days, 5 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SliverSemantics<br />
