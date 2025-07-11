@@ -829,7 +829,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-15 commits.
+16 commits.
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [video_player] Add html 5 video poster support (thumbnail) as a VideoPlayerWebOptions<br />
   <sub>[#8940](https://github.com/flutter/packages/pull/8940) merged on July 9, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8940) over 3 months, 81 additions and 3 deletions in 4 files</sub><br />
@@ -874,6 +874,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [rfw] Update test to not depend on toString()<br />
   <sub>[#9590](https://github.com/flutter/packages/pull/9590) merged on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9590) over 18 hours, 14 additions and 13 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Replace popularity badges<br />
+  <sub>[#9594](https://github.com/flutter/packages/pull/9594) merged on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9594) over 7 hours, 44 additions and 44 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 6<br />
   <sub>[#9588](https://github.com/flutter/packages/pull/9588) merged on July 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9588) over 1 day, 82 additions and 89 deletions in 9 files</sub><br />
