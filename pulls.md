@@ -110,3 +110,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 7 additions and 1 deletion in 1 file</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Platform views shouldn't receive pointer events when not laid out<br />
+  <sub>[#172043](https://github.com/flutter/flutter/pull/172043) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172043) 7 additions and 0 deletions in 1 file</sub><br />
+
