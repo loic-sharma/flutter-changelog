@@ -90,7 +90,7 @@
   <sub>[#171778](https://github.com/flutter/flutter/pull/171778) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171778) 6 additions and 6 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch<br />
-  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) opened on on July 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/171785) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) opened on on July 8, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171785) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix a semantics crash <br />
   <sub>[#171794](https://github.com/flutter/flutter/pull/171794) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171794) 4 additions and 2 deletions in 2 files</sub><br />
