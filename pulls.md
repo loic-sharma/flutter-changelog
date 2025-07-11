@@ -102,7 +102,7 @@
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Enable `omit_obvious_*_types` and `specify_nonobvious_*_types` lints<br />
-  <sub>[#172018](https://github.com/flutter/flutter/pull/172018) opened on on July 11, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/172018) 12941 additions and 14531 deletions in 735 files</sub><br />
+  <sub>[#172018](https://github.com/flutter/flutter/pull/172018) opened on on July 11, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/172018) 12941 additions and 14531 deletions in 735 files</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Development Proxy & Web Configuration File<br />
   <sub>[#172020](https://github.com/flutter/flutter/pull/172020) opened on on July 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172020) 1274 additions and 405 deletions in 18 files</sub><br />
