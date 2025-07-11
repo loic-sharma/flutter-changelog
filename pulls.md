@@ -101,6 +101,3 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: documentation around led launch broken<br />
   <sub>[#171983](https://github.com/flutter/flutter/pull/171983) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171983) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[srikanthvm](https://github.com/srikanthvm)** &mdash; Leaderz<br />
-  <sub>[#171998](https://github.com/flutter/flutter/pull/171998) opened on on July 11, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171998) 1326 additions and 674 deletions in 65 files</sub><br />
-
