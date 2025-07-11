@@ -102,11 +102,14 @@
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Enable `omit_obvious_*_types` and `specify_nonobvious_*_types` lints<br />
-  <sub>[#172018](https://github.com/flutter/flutter/pull/172018) opened on on July 11, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/172018) 12940 additions and 14530 deletions in 734 files</sub><br />
+  <sub>[#172018](https://github.com/flutter/flutter/pull/172018) opened on on July 11, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/172018) 12941 additions and 14531 deletions in 735 files</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Development Proxy & Web Configuration File<br />
   <sub>[#172020](https://github.com/flutter/flutter/pull/172020) opened on on July 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172020) 1274 additions and 405 deletions in 18 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Fix Size.isEmpty description<br />
   <sub>[#172021](https://github.com/flutter/flutter/pull/172021) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172021) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds gemini.md to `engine` and `licenses_cpp`<br />
+  <sub>[#172022](https://github.com/flutter/flutter/pull/172022) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172022) 60 additions and 0 deletions in 2 files</sub><br />
 
