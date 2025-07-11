@@ -47,9 +47,6 @@
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 14 or 15<br />
-  <sub>[#171076](https://github.com/flutter/flutter/pull/171076) opened on on June 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) 90 additions and 90 deletions in 11 files</sub><br />
-
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Added intrinsic box widget<br />
   <sub>[#171111](https://github.com/flutter/flutter/pull/171111) opened on on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171111) 160 additions and 0 deletions in 3 files</sub><br />
 
