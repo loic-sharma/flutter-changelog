@@ -14,6 +14,10 @@
   <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine
+  <sub>[#171738](https://github.com/flutter/flutter/pull/171738) merged on July 9, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/171738) over 2 days, 360 additions and 0 deletions in 11 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SliverSemantics
   <sub>[#167300](https://github.com/flutter/flutter/pull/167300) merged on July 8, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/167300) over 2 months, 4029 additions and 787 deletions in 6 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
@@ -34,10 +38,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Replace [FinderBase] with [Finder] in the documentation of Matchers
   <sub>[#168279](https://github.com/flutter/flutter/pull/168279) merged on July 9, 2025 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/168279) over 2 months, 6 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine
-  <sub>[#171738](https://github.com/flutter/flutter/pull/171738) merged on July 9, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/171738) over 2 days, 360 additions and 0 deletions in 11 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add foreground color for cupertino button
   <sub>[#170898](https://github.com/flutter/flutter/pull/170898) merged on July 10, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/170898) over 2 weeks, 122 additions and 7 deletions in 2 files</sub>
