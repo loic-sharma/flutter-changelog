@@ -793,7 +793,7 @@
 
 ### July 5, 2025 to July 11, 2025
 
-13 commits.
+14 commits.
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [video_player] Add html 5 video poster support (thumbnail) as a VideoPlayerWebOptions<br />
   <sub>[#8940](https://github.com/flutter/packages/pull/8940) merged on July 9, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8940) over 3 months, 81 additions and 3 deletions in 4 files</sub><br />
@@ -834,6 +834,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Adds platform view support on macOS<br />
   <sub>[#9576](https://github.com/flutter/packages/pull/9576) merged on July 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9576) over 1 day, 55 additions and 84 deletions in 12 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 6<br />
+  <sub>[#9588](https://github.com/flutter/packages/pull/9588) merged on July 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9588) over 1 day, 82 additions and 89 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; roll 28a4e852bc90479015e6bc96a15d11fe4aa34f3a<br />
   <sub>[#9578](https://github.com/flutter/packages/pull/9578) merged on July 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9578) over 48 minutes, 1 addition and 1 deletion in 1 file</sub><br />
