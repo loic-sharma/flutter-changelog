@@ -105,5 +105,5 @@
   <sub>[#172021](https://github.com/flutter/flutter/pull/172021) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172021) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds gemini.md to `engine` and `licenses_cpp`<br />
-  <sub>[#172022](https://github.com/flutter/flutter/pull/172022) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172022) 60 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#172022](https://github.com/flutter/flutter/pull/172022) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172022) 61 additions and 0 deletions in 3 files</sub><br />
 
