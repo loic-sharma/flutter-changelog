@@ -83,9 +83,6 @@
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; windows: allow pwsh.bat wrapper<br />
   <sub>[#171778](https://github.com/flutter/flutter/pull/171778) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171778) 6 additions and 6 deletions in 3 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch<br />
-  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) opened on on July 8, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171785) 5 additions and 1 deletion in 1 file</sub><br />
-
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix a semantics crash <br />
   <sub>[#171794](https://github.com/flutter/flutter/pull/171794) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171794) 4 additions and 2 deletions in 2 files</sub><br />
 
@@ -95,9 +92,18 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: documentation around led launch broken<br />
   <sub>[#171983](https://github.com/flutter/flutter/pull/171983) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171983) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; License cpp 710<br />
+  <sub>[#171989](https://github.com/flutter/flutter/pull/171989) opened on on July 10, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/171989) 12348 additions and 7659 deletions in 16 files</sub><br />
+
 * **[Keyur Maru](https://github.com/keyur2maru)** &mdash; Fix automatic JavaScript fallback for flutter run when WASM is not available<br />
   <sub>[#172002](https://github.com/flutter/flutter/pull/172002) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172002) 92 additions and 19 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Web][Engine] Update MediaQuery in response to semanticsEnabled<br />
   <sub>[#172007](https://github.com/flutter/flutter/pull/172007) opened on on July 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172007) 29 additions and 4 deletions in 5 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Web a11y]Update table cell to use LabelRepresentation.sizedSpan <br />
+  <sub>[#172013](https://github.com/flutter/flutter/pull/172013) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172013) 67 additions and 1 deletion in 2 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Add GEMINI.md to .gitignore<br />
+  <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
