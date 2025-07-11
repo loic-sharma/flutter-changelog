@@ -102,5 +102,8 @@
   <sub>[#172021](https://github.com/flutter/flutter/pull/172021) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172021) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Initial work to support reacting to IDE events<br />
-  <sub>[#172040](https://github.com/flutter/flutter/pull/172040) opened on on July 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172040) 673 additions and 43 deletions in 13 files</sub><br />
+  <sub>[#172040](https://github.com/flutter/flutter/pull/172040) opened on on July 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172040) 651 additions and 17 deletions in 12 files</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
+  <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 7 additions and 1 deletion in 1 file</sub><br />
 
