@@ -113,3 +113,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-330.0.dev<br />
   <sub>[#172049](https://github.com/flutter/flutter/pull/172049) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172049) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-331.0.dev<br />
+  <sub>[#172051](https://github.com/flutter/flutter/pull/172051) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172051) 16 additions and 16 deletions in 1 file</sub><br />
+
