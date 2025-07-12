@@ -59,6 +59,10 @@
   <sub>[#170635](https://github.com/flutter/flutter/pull/170635) merged on July 9, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170635) over 3 weeks, 64 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Enable `omit_obvious_*_types` and `specify_nonobvious_*_types` lints
+  <sub>[#172018](https://github.com/flutter/flutter/pull/172018) merged on July 11, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/172018) over 2 hours, 12941 additions and 14531 deletions in 735 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: Use engine_stamp.json in flutter tool
   <sub>[#171454](https://github.com/flutter/flutter/pull/171454) merged on July 8, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/171454) over 6 days, 305 additions and 13 deletions in 12 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -74,10 +78,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Added Docs to Warn Users that SystemChrome.setPreferredOrientations will Not Work
   <sub>[#171089](https://github.com/flutter/flutter/pull/171089) merged on July 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/171089) over 2 weeks, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Enable `omit_obvious_*_types` and `specify_nonobvious_*_types` lints
-  <sub>[#172018](https://github.com/flutter/flutter/pull/172018) merged on July 11, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/172018) over 2 hours, 12941 additions and 14531 deletions in 735 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add SemanticsLabelBuilder for Accessible Label Concatenation
   <sub>[#171683](https://github.com/flutter/flutter/pull/171683) merged on July 11, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/171683) over 4 days, 341 additions and 0 deletions in 2 files</sub>
