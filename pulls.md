@@ -128,3 +128,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update FlutterPlugin.kt to use `filePermissions` instead of `filemode`<br />
   <sub>[#172061](https://github.com/flutter/flutter/pull/172061) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172061) 6 additions and 4 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function<br />
+  <sub>[#172063](https://github.com/flutter/flutter/pull/172063) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172063) 2 additions and 2 deletions in 1 file</sub><br />
+
