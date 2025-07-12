@@ -96,7 +96,7 @@
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Development Proxy & Web Configuration File<br />
-  <sub>[#172020](https://github.com/flutter/flutter/pull/172020) opened on on July 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172020) 1274 additions and 405 deletions in 18 files</sub><br />
+  <sub>[#172020](https://github.com/flutter/flutter/pull/172020) opened on on July 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172020) 1284 additions and 405 deletions in 18 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Fix Size.isEmpty description<br />
   <sub>[#172021](https://github.com/flutter/flutter/pull/172021) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172021) 1 addition and 1 deletion in 1 file</sub><br />
@@ -108,8 +108,5 @@
   <sub>[#172040](https://github.com/flutter/flutter/pull/172040) opened on on July 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172040) 651 additions and 17 deletions in 12 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
-  <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 7 additions and 1 deletion in 1 file</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Platform views shouldn't receive pointer events when not laid out<br />
-  <sub>[#172043](https://github.com/flutter/flutter/pull/172043) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172043) 7 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 14 additions and 1 deletion in 1 file</sub><br />
 
