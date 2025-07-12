@@ -119,3 +119,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart sdk to 3.9.0-333.0.dev<br />
   <sub>[#172052](https://github.com/flutter/flutter/pull/172052) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172052) 16 additions and 16 deletions in 1 file</sub><br />
 
+* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry<br />
+  <sub>[#172056](https://github.com/flutter/flutter/pull/172056) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172056) 85 additions and 18 deletions in 2 files</sub><br />
+
