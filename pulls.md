@@ -44,6 +44,9 @@
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix NaN/Infinity crash in RenderSliverFixedExtentBoxAdaptor<br />
   <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` from README.md<br />
+  <sub>[#170961](https://github.com/flutter/flutter/pull/170961) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170961) 0 additions and 1 deletion in 1 file</sub><br />
+
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
 
@@ -130,4 +133,7 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function<br />
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172063) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Badge doesn't crash in 0x0 environment<br />
+  <sub>[#172065](https://github.com/flutter/flutter/pull/172065) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172065) 12 additions and 0 deletions in 1 file</sub><br />
 
