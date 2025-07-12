@@ -43,6 +43,10 @@
   <sub>[#171398](https://github.com/flutter/flutter/pull/171398) merged on July 9, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/171398) over 1 week, 425 additions and 35 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Enable `omit_obvious_*_types` and `specify_nonobvious_*_types` lints<br />
+  <sub>[#172018](https://github.com/flutter/flutter/pull/172018) merged on July 11, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/172018) over 2 hours, 12941 additions and 14531 deletions in 735 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add RSuperellipse support to Web (global cache)<br />
   <sub>[#171489](https://github.com/flutter/flutter/pull/171489) merged on July 12, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/171489) over 1 week, 974 additions and 71 deletions in 20 files</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
@@ -58,10 +62,6 @@
 * **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
   <sub>[#170635](https://github.com/flutter/flutter/pull/170635) merged on July 9, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/170635) over 3 weeks, 64 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Enable `omit_obvious_*_types` and `specify_nonobvious_*_types` lints<br />
-  <sub>[#172018](https://github.com/flutter/flutter/pull/172018) merged on July 11, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/172018) over 2 hours, 12941 additions and 14531 deletions in 735 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: Use engine_stamp.json in flutter tool<br />
   <sub>[#171454](https://github.com/flutter/flutter/pull/171454) merged on July 8, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/171454) over 6 days, 305 additions and 13 deletions in 12 files</sub><br />
