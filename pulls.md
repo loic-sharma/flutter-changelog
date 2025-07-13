@@ -128,3 +128,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Badge doesn't crash in 0x0 environment<br />
   <sub>[#172065](https://github.com/flutter/flutter/pull/172065) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172065) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MaterialBanner doesn't crash in 0x0 environment<br />
+  <sub>[#172074](https://github.com/flutter/flutter/pull/172074) opened on on July 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172074) 14 additions and 0 deletions in 1 file</sub><br />
+
