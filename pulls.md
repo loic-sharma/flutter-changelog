@@ -117,7 +117,7 @@
   <sub>[#172056](https://github.com/flutter/flutter/pull/172056) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172056) 85 additions and 18 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update FlutterPlugin.kt to use `filePermissions` instead of `filemode`<br />
-  <sub>[#172061](https://github.com/flutter/flutter/pull/172061) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172061) 6 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#172061](https://github.com/flutter/flutter/pull/172061) opened on on July 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172061) 6 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Badge doesn't crash in 0x0 environment<br />
   <sub>[#172065](https://github.com/flutter/flutter/pull/172065) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172065) 12 additions and 0 deletions in 1 file</sub><br />
@@ -129,7 +129,7 @@
   <sub>[#172085](https://github.com/flutter/flutter/pull/172085) opened on on July 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172085) 188 additions and 5 deletions in 3 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-334.0.dev<br />
-  <sub>[#172087](https://github.com/flutter/flutter/pull/172087) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172087) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#172087](https://github.com/flutter/flutter/pull/172087) opened on on July 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172087) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Perform OpenGL compositing in the Flutter thread and write to a framebuffer.<br />
   <sub>[#172090](https://github.com/flutter/flutter/pull/172090) opened on on July 14, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172090) 275 additions and 294 deletions in 11 files</sub><br />
