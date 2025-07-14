@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-11 commits.
+12 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub>
@@ -18,6 +18,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Initial work to support reacting to IDE events
   <sub>[#172040](https://github.com/flutter/flutter/pull/172040) merged on July 14, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/172040) over 2 days, 653 additions and 17 deletions in 12 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use granular skparagraph targets
+  <sub>[#161676](https://github.com/flutter/flutter/pull/161676) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161676) over 6 months, 19 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in CI  builder linux_android_emulator
   <sub>[#170964](https://github.com/flutter/flutter/pull/170964) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170964) over 3 weeks, 0 additions and 63 deletions in 1 file</sub>
@@ -65,7 +69,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch
-  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) merged on July 11, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/171785) over 2 days, 5 additions and 1 deletion in 1 file</sub>
+  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) merged on July 11, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171785) over 2 days, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine
@@ -607,9 +611,18 @@
 
 ## flutter/packages
 
+### July 12, 2025 to July 18, 2025
+
+1 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [quick_actions] Restore the appShortcutLaunchActivityAfterStarting test in quick_actions_android
+  <sub>[#9508](https://github.com/flutter/packages/pull/9508) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9508) over 2 weeks, 0 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 ### July 5, 2025 to July 11, 2025
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [video_player] Add html 5 video poster support (thumbnail) as a VideoPlayerWebOptions
   <sub>[#8940](https://github.com/flutter/packages/pull/8940) merged on July 9, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8940) over 3 months, 81 additions and 3 deletions in 4 files</sub>
@@ -674,6 +687,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from fcf2c11572af to 077b4a4ce10a (5 revisions)
   <sub>[#9585](https://github.com/flutter/packages/pull/9585) merged on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9585) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### June 28, 2025 to July 4, 2025
 
