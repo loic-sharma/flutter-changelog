@@ -138,5 +138,5 @@
   <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172124) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Migrate to arm based firebase test devices for api 26 to 27<br />
-  <sub>[#172128](https://github.com/flutter/flutter/pull/172128) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172128) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#172128](https://github.com/flutter/flutter/pull/172128) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172128) 3 additions and 5 deletions in 1 file</sub><br />
 
