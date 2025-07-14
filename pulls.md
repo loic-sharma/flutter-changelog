@@ -45,7 +45,7 @@
   <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` from README.md<br />
-  <sub>[#170961](https://github.com/flutter/flutter/pull/170961) opened on on June 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170961) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#170961](https://github.com/flutter/flutter/pull/170961) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170961) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
@@ -74,17 +74,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
 
-* **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Remove duplicate object initialization<br />
-  <sub>[#171767](https://github.com/flutter/flutter/pull/171767) opened on on July 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171767) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; windows: allow pwsh.bat wrapper<br />
   <sub>[#171778](https://github.com/flutter/flutter/pull/171778) opened on on July 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171778) 6 additions and 6 deletions in 3 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Optimize scale translate rectangle transforms<br />
-  <sub>[#171841](https://github.com/flutter/flutter/pull/171841) opened on on July 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171841) 161 additions and 2 deletions in 4 files</sub><br />
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: documentation around led launch broken<br />
-  <sub>[#171983](https://github.com/flutter/flutter/pull/171983) opened on on July 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171983) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#171983](https://github.com/flutter/flutter/pull/171983) opened on on July 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171983) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Keyur Maru](https://github.com/keyur2maru)** &mdash; Fix automatic JavaScript fallback for flutter run when WASM is not available<br />
   <sub>[#172002](https://github.com/flutter/flutter/pull/172002) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172002) 92 additions and 19 deletions in 3 files</sub><br />
@@ -97,9 +91,6 @@
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Development Proxy & Web Configuration File<br />
   <sub>[#172020](https://github.com/flutter/flutter/pull/172020) opened on on July 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172020) 1284 additions and 405 deletions in 18 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Fix Size.isEmpty description<br />
-  <sub>[#172021](https://github.com/flutter/flutter/pull/172021) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172021) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; chore: unskip tests cases<br />
   <sub>[#172031](https://github.com/flutter/flutter/pull/172031) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172031) 2 additions and 2 deletions in 1 file</sub><br />
@@ -148,7 +139,4 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Started querying the app state for the gpu disabled sync switch<br />
   <sub>[#172121](https://github.com/flutter/flutter/pull/172121) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172121) 5 additions and 1 deletion in 1 file</sub><br />
-
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Add missing param to makeRasterImage calls<br />
-  <sub>[#172122](https://github.com/flutter/flutter/pull/172122) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172122) 20 additions and 16 deletions in 14 files</sub><br />
 
