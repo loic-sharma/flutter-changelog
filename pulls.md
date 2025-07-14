@@ -143,3 +143,6 @@
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `AlignmentDirectional.resolve`<br />
   <sub>[#172096](https://github.com/flutter/flutter/pull/172096) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172096) 21 additions and 2 deletions in 2 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BottomAppBar doesn't crash in 0x0 environment<br />
+  <sub>[#172097](https://github.com/flutter/flutter/pull/172097) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172097) 12 additions and 0 deletions in 1 file</sub><br />
+
