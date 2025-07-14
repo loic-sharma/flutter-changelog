@@ -140,3 +140,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Perform OpenGL compositing in the Flutter thread and write to a framebuffer.<br />
   <sub>[#172090](https://github.com/flutter/flutter/pull/172090) opened on on July 14, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172090) 275 additions and 294 deletions in 11 files</sub><br />
 
+* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `AlignmentDirectional.resolve`<br />
+  <sub>[#172096](https://github.com/flutter/flutter/pull/172096) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172096) 21 additions and 2 deletions in 2 files</sub><br />
+
