@@ -144,13 +144,13 @@
   <sub>[#172090](https://github.com/flutter/flutter/pull/172090) opened on on July 14, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172090) 275 additions and 294 deletions in 11 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `AlignmentDirectional.resolve`<br />
-  <sub>[#172096](https://github.com/flutter/flutter/pull/172096) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172096) 21 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#172096](https://github.com/flutter/flutter/pull/172096) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172096) 37 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BottomAppBar doesn't crash in 0x0 environment<br />
   <sub>[#172097](https://github.com/flutter/flutter/pull/172097) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172097) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `EdgeInsetsDirectional.resolve`<br />
-  <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172099) 19 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172099) 46 additions and 2 deletions in 2 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `_MixedBorderRadius.resolve()`<br />
   <sub>[#172100](https://github.com/flutter/flutter/pull/172100) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172100) 37 additions and 1 deletion in 2 files</sub><br />
