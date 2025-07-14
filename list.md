@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-7 commits.
+8 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub>
@@ -34,6 +34,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.
   <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Downgrade and pin DDS to 5.0.3
+  <sub>[#172120](https://github.com/flutter/flutter/pull/172120) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172120) over 45 minutes, 4 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 ### July 5, 2025 to July 11, 2025
 
