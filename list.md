@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-5 commits.
+7 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub>
@@ -26,6 +26,14 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_restart_web_ddc_library_bundle_test.dart on Mac/Windows
   <sub>[#171282](https://github.com/flutter/flutter/pull/171282) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171282) over 2 weeks, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Apply superellipse clipping to iOS platform views using an approximated round rect
+  <sub>[#172033](https://github.com/flutter/flutter/pull/172033) merged on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172033) over 2 days, 81 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.
+  <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 ### July 5, 2025 to July 11, 2025
 

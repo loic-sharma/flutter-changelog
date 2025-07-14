@@ -90,7 +90,7 @@
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Development Proxy & Web Configuration File<br />
-  <sub>[#172020](https://github.com/flutter/flutter/pull/172020) opened on on July 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172020) 1173 additions and 298 deletions in 23 files</sub><br />
+  <sub>[#172020](https://github.com/flutter/flutter/pull/172020) opened on on July 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172020) 1182 additions and 299 deletions in 23 files</sub><br />
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; chore: unskip tests cases<br />
   <sub>[#172031](https://github.com/flutter/flutter/pull/172031) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172031) 2 additions and 2 deletions in 1 file</sub><br />
