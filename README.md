@@ -122,7 +122,7 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; feat: Expose FocusNode of FocusTraversalGroup<br />
-  <sub>[#171979](https://github.com/flutter/flutter/pull/171979) merged on July 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171979) over 1 hour, 82 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#171979](https://github.com/flutter/flutter/pull/171979) merged on July 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171979) over 1 hour, 82 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Danny Valente](https://github.com/dannyvalentesonos)** &mdash; Allow flutter attach to discover flutter engine running on Custom Device<br />
