@@ -14,13 +14,13 @@
   <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch<br />
+  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) merged on July 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/171785) over 2 days, 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine<br />
   <sub>[#171738](https://github.com/flutter/flutter/pull/171738) merged on July 9, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/171738) over 2 days, 360 additions and 0 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch<br />
-  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) merged on July 11, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/171785) over 2 days, 5 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SliverSemantics<br />
   <sub>[#167300](https://github.com/flutter/flutter/pull/167300) merged on July 8, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/167300) over 2 months, 4029 additions and 787 deletions in 6 files</sub><br />
