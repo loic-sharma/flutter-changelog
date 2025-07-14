@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-14 commits.
+15 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub>
@@ -22,6 +22,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Initial work to support reacting to IDE events
   <sub>[#172040](https://github.com/flutter/flutter/pull/172040) merged on July 14, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/172040) over 2 days, 653 additions and 17 deletions in 12 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Correctly release mappings created using the C++ API wrapper.
+  <sub>[#172136](https://github.com/flutter/flutter/pull/172136) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172136) over 1 hour, 33 additions and 18 deletions in 2 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use granular skparagraph targets
   <sub>[#161676](https://github.com/flutter/flutter/pull/161676) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161676) over 6 months, 19 additions and 7 deletions in 2 files</sub>
