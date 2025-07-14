@@ -4,7 +4,11 @@
 
 ### July 12, 2025 to July 18, 2025
 
-1 commits.
+2 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Delete unused files in the engine
+  <sub>[#172035](https://github.com/flutter/flutter/pull/172035) merged on July 14, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172035) over 2 days, 0 additions and 344 deletions in 4 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_restart_web_ddc_library_bundle_test.dart on Mac/Windows
   <sub>[#171282](https://github.com/flutter/flutter/pull/171282) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171282) over 2 weeks, 0 additions and 1 deletion in 1 file</sub>

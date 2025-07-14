@@ -140,9 +140,6 @@
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `_MixedBorderRadius.resolve()`<br />
   <sub>[#172100](https://github.com/flutter/flutter/pull/172100) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172100) 37 additions and 1 deletion in 2 files</sub><br />
 
-* **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
-  <sub>[#172101](https://github.com/flutter/flutter/pull/172101) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172101) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[dt_emmy](https://github.com/DeTuksa)** &mdash; #171817<br />
   <sub>[#172109](https://github.com/flutter/flutter/pull/172109) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172109) 50 additions and 6 deletions in 5 files</sub><br />
 
