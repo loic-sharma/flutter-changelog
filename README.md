@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-12 commits.
+13 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function<br />
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
@@ -46,6 +46,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.<br />
   <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup unnecessary dart defines and renderer in web tests<br />
+  <sub>[#172130](https://github.com/flutter/flutter/pull/172130) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172130) over 57 minutes, 54 additions and 105 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Set GN flags explicitly for fuchsia build<br />
   <sub>[#172104](https://github.com/flutter/flutter/pull/172104) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172104) over 6 hours, 6 additions and 0 deletions in 1 file</sub><br />
