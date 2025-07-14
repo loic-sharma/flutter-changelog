@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### July 12, 2025 to July 18, 2025
+
+1 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_restart_web_ddc_library_bundle_test.dart on Mac/Windows
+  <sub>[#171282](https://github.com/flutter/flutter/pull/171282) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171282) over 2 weeks, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
+
 ### July 5, 2025 to July 11, 2025
 
-83 commits.
+<details>
+<summary>83 commits...</summary>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Multi-window support (engine)
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub>
@@ -339,6 +348,8 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; reland:Bump warn and error versions of agp, kotlin and gradle versions in preparation for gradle 9
   <sub>[#171776](https://github.com/flutter/flutter/pull/171776) merged on July 8, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171776) over 3 hours, 1041 additions and 1127 deletions in 105 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+</details>
 
 ### June 28, 2025 to July 4, 2025
 
