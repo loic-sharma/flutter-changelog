@@ -613,11 +613,15 @@
 
 ### July 12, 2025 to July 18, 2025
 
-1 commits.
+2 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [quick_actions] Restore the appShortcutLaunchActivityAfterStarting test in quick_actions_android<br />
   <sub>[#9508](https://github.com/flutter/packages/pull/9508) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9508) over 2 weeks, 0 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[kwikwag](https://github.com/kwikwag)** &mdash; [camera_android] Use WeakReference to prevent startImageStream OOM error when main thread hangs (flutter#166533)<br />
+  <sub>[#9571](https://github.com/flutter/packages/pull/9571) merged on July 14, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/9571) over 1 week, 210 additions and 135 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### July 5, 2025 to July 11, 2025
 
