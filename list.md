@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-3 commits.
+5 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub>
@@ -14,6 +14,14 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Delete unused files in the engine
   <sub>[#172035](https://github.com/flutter/flutter/pull/172035) merged on July 14, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172035) over 2 days, 0 additions and 344 deletions in 4 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in CI  builder linux_android_emulator
+  <sub>[#170964](https://github.com/flutter/flutter/pull/170964) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170964) over 3 weeks, 0 additions and 63 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in flutter_gdb
+  <sub>[#170966](https://github.com/flutter/flutter/pull/170966) merged on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170966) over 3 weeks, 1 addition and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Run hot_restart_web_ddc_library_bundle_test.dart on Mac/Windows
   <sub>[#171282](https://github.com/flutter/flutter/pull/171282) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171282) over 2 weeks, 0 additions and 1 deletion in 1 file</sub>
