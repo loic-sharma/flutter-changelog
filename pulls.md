@@ -90,7 +90,7 @@
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Development Proxy & Web Configuration File<br />
-  <sub>[#172020](https://github.com/flutter/flutter/pull/172020) opened on on July 11, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172020) 1284 additions and 405 deletions in 18 files</sub><br />
+  <sub>[#172020](https://github.com/flutter/flutter/pull/172020) opened on on July 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172020) 1173 additions and 298 deletions in 23 files</sub><br />
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; chore: unskip tests cases<br />
   <sub>[#172031](https://github.com/flutter/flutter/pull/172031) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172031) 2 additions and 2 deletions in 1 file</sub><br />
@@ -99,7 +99,7 @@
   <sub>[#172034](https://github.com/flutter/flutter/pull/172034) opened on on July 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172034) 50 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Initial work to support reacting to IDE events<br />
-  <sub>[#172040](https://github.com/flutter/flutter/pull/172040) opened on on July 11, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/172040) 653 additions and 17 deletions in 12 files</sub><br />
+  <sub>[#172040](https://github.com/flutter/flutter/pull/172040) opened on on July 11, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/172040) 653 additions and 17 deletions in 12 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
@@ -135,8 +135,11 @@
   <sub>[#172109](https://github.com/flutter/flutter/pull/172109) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172109) 50 additions and 6 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Downgrade and pin DDS to 5.0.3<br />
-  <sub>[#172120](https://github.com/flutter/flutter/pull/172120) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172120) 4 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#172120](https://github.com/flutter/flutter/pull/172120) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172120) 4 additions and 2 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Started querying the app state for the gpu disabled sync switch<br />
   <sub>[#172121](https://github.com/flutter/flutter/pull/172121) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172121) 5 additions and 1 deletion in 1 file</sub><br />
+
+* **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files (on master)<br />
+  <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172124) 2 additions and 2 deletions in 1 file</sub><br />
 
