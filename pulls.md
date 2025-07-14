@@ -146,3 +146,12 @@
 * **[dt_emmy](https://github.com/DeTuksa)** &mdash; #171817<br />
   <sub>[#172109](https://github.com/flutter/flutter/pull/172109) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172109) 50 additions and 6 deletions in 5 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Downgrade and pin DDS to 5.0.3<br />
+  <sub>[#172120](https://github.com/flutter/flutter/pull/172120) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172120) 4 additions and 2 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Started querying the app state for the gpu disabled sync switch<br />
+  <sub>[#172121](https://github.com/flutter/flutter/pull/172121) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172121) 5 additions and 1 deletion in 1 file</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Add missing param to makeRasterImage calls<br />
+  <sub>[#172122](https://github.com/flutter/flutter/pull/172122) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172122) 20 additions and 16 deletions in 14 files</sub><br />
+
