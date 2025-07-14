@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-10 commits.
+11 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function<br />
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
@@ -14,6 +14,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Delete unused files in the engine<br />
   <sub>[#172035](https://github.com/flutter/flutter/pull/172035) merged on July 14, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172035) over 2 days, 0 additions and 344 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Initial work to support reacting to IDE events<br />
+  <sub>[#172040](https://github.com/flutter/flutter/pull/172040) merged on July 14, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/172040) over 2 days, 653 additions and 17 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` in CI  builder linux_android_emulator<br />
   <sub>[#170964](https://github.com/flutter/flutter/pull/170964) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170964) over 3 weeks, 0 additions and 63 deletions in 1 file</sub><br />

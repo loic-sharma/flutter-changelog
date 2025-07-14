@@ -95,9 +95,6 @@
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; Fix: Ensure Text widget locale is included in semantics language tag<br />
   <sub>[#172034](https://github.com/flutter/flutter/pull/172034) opened on on July 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172034) 50 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Initial work to support reacting to IDE events<br />
-  <sub>[#172040](https://github.com/flutter/flutter/pull/172040) opened on on July 11, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/172040) 653 additions and 17 deletions in 12 files</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
 
@@ -136,7 +133,4 @@
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files (on master)<br />
   <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172124) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Migrate to arm based firebase test devices for api 26 to 27<br />
-  <sub>[#172128](https://github.com/flutter/flutter/pull/172128) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172128) 3 additions and 5 deletions in 1 file</sub><br />
 
