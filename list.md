@@ -649,7 +649,11 @@
 
 ### July 12, 2025 to July 18, 2025
 
-3 commits.
+4 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add setMixedContentMode for Android
+  <sub>[#9586](https://github.com/flutter/packages/pull/9586) merged on July 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9586) over 5 days, 271 additions and 1 deletion in 12 files</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add exception info to migration guide
   <sub>[#9574](https://github.com/flutter/packages/pull/9574) merged on July 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9574) over 1 week, 19 additions and 4 deletions in 4 files</sub>
