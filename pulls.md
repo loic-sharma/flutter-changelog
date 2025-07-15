@@ -96,7 +96,7 @@
   <sub>[#172044](https://github.com/flutter/flutter/pull/172044) opened on on July 12, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172044) 14922 additions and 9233 deletions in 14 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry<br />
-  <sub>[#172056](https://github.com/flutter/flutter/pull/172056) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172056) 85 additions and 18 deletions in 2 files</sub><br />
+  <sub>[#172056](https://github.com/flutter/flutter/pull/172056) opened on on July 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172056) 85 additions and 18 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Badge doesn't crash in 0x0 environment<br />
   <sub>[#172065](https://github.com/flutter/flutter/pull/172065) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172065) 12 additions and 0 deletions in 1 file</sub><br />
@@ -132,11 +132,11 @@
   <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Web dev proxy<br />
-  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) opened on on July 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172175) 1177 additions and 309 deletions in 23 files</sub><br />
+  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) opened on on July 15, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172175) 1184 additions and 320 deletions in 23 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Decrease reliance on finalizers/GC<br />
   <sub>[#172187](https://github.com/flutter/flutter/pull/172187) opened on on July 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/172187) 197 additions and 196 deletions in 4 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.35] Create `release-candidate-branch.version`<br />
-  <sub>[#172191](https://github.com/flutter/flutter/pull/172191) opened on on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172191) 1 addition and 0 deletions in 1 file</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.32] Update `engine.version`/`CHANGELOG.md`<br />
+  <sub>[#172192](https://github.com/flutter/flutter/pull/172192) opened on on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172192) 5 additions and 1 deletion in 2 files</sub><br />
 
