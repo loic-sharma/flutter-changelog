@@ -134,3 +134,6 @@
 * **[Muragijimana](https://github.com/richard457)** &mdash; Skip HardwareKeyboard asserts until keyboard state is initialized<br />
   <sub>[#172154](https://github.com/flutter/flutter/pull/172154) opened on on July 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172154) 55 additions and 3 deletions in 3 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update few links in docs<br />
+  <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
+

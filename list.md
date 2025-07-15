@@ -258,7 +258,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on either macOS 14 or 15
-  <sub>[#171076](https://github.com/flutter/flutter/pull/171076) merged on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171076) over 2 weeks, 90 additions and 90 deletions in 11 files</sub>
+  <sub>[#171076](https://github.com/flutter/flutter/pull/171076) merged on July 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171076) over 2 weeks, 90 additions and 90 deletions in 11 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Updated linux_android_emu to a 36 AVD in framework CI
