@@ -90,7 +90,7 @@
   <sub>[#172020](https://github.com/flutter/flutter/pull/172020) opened on on July 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172020) 1150 additions and 298 deletions in 23 files</sub><br />
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; Fix: Ensure Text widget locale is included in semantics language tag<br />
-  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) opened on on July 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172034) 50 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) opened on on July 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172034) 50 additions and 0 deletions in 2 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
@@ -138,5 +138,5 @@
   <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Web dev proxy<br />
-  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) opened on on July 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172175) 1162 additions and 302 deletions in 23 files</sub><br />
+  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) opened on on July 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172175) 1164 additions and 302 deletions in 23 files</sub><br />
 
