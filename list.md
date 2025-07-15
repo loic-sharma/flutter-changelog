@@ -31,6 +31,10 @@
   <sub>[#172136](https://github.com/flutter/flutter/pull/172136) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172136) over 1 hour, 33 additions and 18 deletions in 2 files</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter upgrade` stating that an upgrade is available on `main` when up to date
+  <sub>[#172141](https://github.com/flutter/flutter/pull/172141) merged on July 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172141) over 1 hour, 34 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use granular skparagraph targets
   <sub>[#161676](https://github.com/flutter/flutter/pull/161676) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161676) over 6 months, 19 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -62,10 +66,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.
   <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter upgrade` stating that an upgrade is available on `main` when up to date
-  <sub>[#172141](https://github.com/flutter/flutter/pull/172141) merged on July 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172141) over 1 hour, 34 additions and 10 deletions in 3 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup unnecessary dart defines and renderer in web tests
   <sub>[#172130](https://github.com/flutter/flutter/pull/172130) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172130) over 57 minutes, 54 additions and 105 deletions in 1 file</sub>
