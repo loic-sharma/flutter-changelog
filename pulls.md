@@ -143,6 +143,3 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow a release without engine cherrypicks (adds fallback logic)<br />
   <sub>[#172184](https://github.com/flutter/flutter/pull/172184) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172184) 128 additions and 6 deletions in 3 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add dartpad example to `RoundedSuperellipseBorder`<br />
-  <sub>[#172185](https://github.com/flutter/flutter/pull/172185) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172185) 191 additions and 0 deletions in 3 files</sub><br />
-
