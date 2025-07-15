@@ -92,7 +92,7 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses cpp notices<br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses_cpp: Parses NOTICES and DEPS<br />
   <sub>[#172044](https://github.com/flutter/flutter/pull/172044) opened on on July 12, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172044) 14916 additions and 9232 deletions in 13 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry<br />
@@ -142,4 +142,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow a release without engine cherrypicks (adds fallback logic)<br />
   <sub>[#172184](https://github.com/flutter/flutter/pull/172184) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172184) 128 additions and 6 deletions in 3 files</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add dartpad example to `RoundedSuperellipseBorder`<br />
+  <sub>[#172185](https://github.com/flutter/flutter/pull/172185) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172185) 191 additions and 0 deletions in 3 files</sub><br />
 
