@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-17 commits.
+18 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function<br />
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
@@ -74,6 +74,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Downgrade and pin DDS to 5.0.3<br />
   <sub>[#172120](https://github.com/flutter/flutter/pull/172120) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172120) over 45 minutes, 4 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reland "Add feature flags to the framework"<br />
+  <sub>[#171545](https://github.com/flutter/flutter/pull/171545) merged on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171545) over 1 week, 297 additions and 1 deletion in 13 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 ### July 5, 2025 to July 11, 2025
 
