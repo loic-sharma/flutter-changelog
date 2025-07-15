@@ -92,6 +92,9 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses cpp notices<br />
+  <sub>[#172044](https://github.com/flutter/flutter/pull/172044) opened on on July 12, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172044) 14916 additions and 9232 deletions in 13 files</sub><br />
+
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry<br />
   <sub>[#172056](https://github.com/flutter/flutter/pull/172056) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172056) 85 additions and 18 deletions in 2 files</sub><br />
 
@@ -136,4 +139,7 @@
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Web dev proxy<br />
   <sub>[#172175](https://github.com/flutter/flutter/pull/172175) opened on on July 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172175) 1165 additions and 302 deletions in 23 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow a release without engine cherrypicks (adds fallback logic)<br />
+  <sub>[#172184](https://github.com/flutter/flutter/pull/172184) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172184) 128 additions and 6 deletions in 3 files</sub><br />
 
