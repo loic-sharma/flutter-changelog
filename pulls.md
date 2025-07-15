@@ -137,6 +137,3 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Decrease reliance on finalizers/GC<br />
   <sub>[#172187](https://github.com/flutter/flutter/pull/172187) opened on on July 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/172187) 197 additions and 196 deletions in 4 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.32] Update `engine.version`/`CHANGELOG.md`<br />
-  <sub>[#172192](https://github.com/flutter/flutter/pull/172192) opened on on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172192) 5 additions and 1 deletion in 2 files</sub><br />
-
