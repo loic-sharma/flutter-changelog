@@ -93,7 +93,7 @@
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses_cpp: Parses NOTICES and DEPS<br />
-  <sub>[#172044](https://github.com/flutter/flutter/pull/172044) opened on on July 12, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172044) 14916 additions and 9232 deletions in 13 files</sub><br />
+  <sub>[#172044](https://github.com/flutter/flutter/pull/172044) opened on on July 12, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/172044) 14916 additions and 9232 deletions in 13 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry<br />
   <sub>[#172056](https://github.com/flutter/flutter/pull/172056) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172056) 85 additions and 18 deletions in 2 files</sub><br />
