@@ -137,6 +137,3 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update few links in docs<br />
   <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.9.0-333.2.beta<br />
-  <sub>[#172167](https://github.com/flutter/flutter/pull/172167) opened on on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172167) 2 additions and 2 deletions in 1 file</sub><br />
-
