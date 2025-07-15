@@ -132,5 +132,5 @@
   <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172124) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Muragijimana](https://github.com/richard457)** &mdash; Skip HardwareKeyboard asserts until keyboard state is initialized<br />
-  <sub>[#172154](https://github.com/flutter/flutter/pull/172154) opened on on July 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172154) 55 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#172154](https://github.com/flutter/flutter/pull/172154) opened on on July 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172154) 55 additions and 3 deletions in 3 files</sub><br />
 
