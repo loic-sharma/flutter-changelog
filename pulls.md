@@ -108,7 +108,7 @@
   <sub>[#172087](https://github.com/flutter/flutter/pull/172087) opened on on July 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172087) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Perform OpenGL compositing in the Flutter thread and write to a framebuffer.<br />
-  <sub>[#172090](https://github.com/flutter/flutter/pull/172090) opened on on July 14, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172090) 275 additions and 294 deletions in 11 files</sub><br />
+  <sub>[#172090](https://github.com/flutter/flutter/pull/172090) opened on on July 14, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/172090) 275 additions and 294 deletions in 11 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `AlignmentDirectional.resolve`<br />
   <sub>[#172096](https://github.com/flutter/flutter/pull/172096) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172096) 37 additions and 2 deletions in 2 files</sub><br />
@@ -124,9 +124,6 @@
 
 * **[dt_emmy](https://github.com/DeTuksa)** &mdash; #171817<br />
   <sub>[#172109](https://github.com/flutter/flutter/pull/172109) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172109) 50 additions and 6 deletions in 5 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Started querying the app state for the gpu disabled sync switch<br />
-  <sub>[#172121](https://github.com/flutter/flutter/pull/172121) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172121) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files (on master)<br />
   <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172124) 2 additions and 2 deletions in 1 file</sub><br />

@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-22 commits.
+23 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function<br />
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
@@ -78,6 +78,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.<br />
   <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Add missing param to makeRasterImage calls<br />
+  <sub>[#172122](https://github.com/flutter/flutter/pull/172122) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172122) over 1 day, 20 additions and 16 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup unnecessary dart defines and renderer in web tests<br />
   <sub>[#172130](https://github.com/flutter/flutter/pull/172130) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172130) over 57 minutes, 54 additions and 105 deletions in 1 file</sub><br />
@@ -653,7 +657,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add setMixedContentMode for Android<br />
   <sub>[#9586](https://github.com/flutter/packages/pull/9586) merged on July 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9586) over 5 days, 271 additions and 1 deletion in 12 files</sub><br />
@@ -665,6 +669,10 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [quick_actions] Restore the appShortcutLaunchActivityAfterStarting test in quick_actions_android<br />
   <sub>[#9508](https://github.com/flutter/packages/pull/9508) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9508) over 2 weeks, 0 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Replace Flutter method failure assertion with nslog<br />
+  <sub>[#9587](https://github.com/flutter/packages/pull/9587) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9587) over 5 days, 32 additions and 6 deletions in 5 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[kwikwag](https://github.com/kwikwag)** &mdash; [camera_android] Use WeakReference to prevent startImageStream OOM error when main thread hangs (flutter#166533)<br />
