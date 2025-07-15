@@ -134,9 +134,6 @@
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Web dev proxy<br />
   <sub>[#172175](https://github.com/flutter/flutter/pull/172175) opened on on July 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172175) 1165 additions and 302 deletions in 23 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow a release without engine cherrypicks (adds fallback logic)<br />
-  <sub>[#172184](https://github.com/flutter/flutter/pull/172184) opened on on July 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172184) 128 additions and 6 deletions in 3 files</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Decrease reliance on finalizers/GC<br />
   <sub>[#172187](https://github.com/flutter/flutter/pull/172187) opened on on July 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/172187) 197 additions and 196 deletions in 4 files</sub><br />
 
