@@ -641,7 +641,11 @@
 
 ### July 12, 2025 to July 18, 2025
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add exception info to migration guide<br />
+  <sub>[#9574](https://github.com/flutter/packages/pull/9574) merged on July 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9574) over 1 week, 19 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [quick_actions] Restore the appShortcutLaunchActivityAfterStarting test in quick_actions_android<br />
   <sub>[#9508](https://github.com/flutter/packages/pull/9508) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9508) over 2 weeks, 0 additions and 3 deletions in 1 file</sub><br />
