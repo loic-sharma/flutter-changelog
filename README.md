@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-19 commits.
+20 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function<br />
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
@@ -18,6 +18,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Delete unused files in the engine<br />
   <sub>[#172035](https://github.com/flutter/flutter/pull/172035) merged on July 14, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172035) over 2 days, 0 additions and 344 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: Tag Fuchsia artifacts by content hash<br />
+  <sub>[#172132](https://github.com/flutter/flutter/pull/172132) merged on July 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172132) over 20 hours, 88 additions and 16 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Migrate to arm based firebase test devices for api 26 and 27<br />
   <sub>[#172128](https://github.com/flutter/flutter/pull/172128) merged on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172128) over 1 hour, 3 additions and 5 deletions in 1 file</sub><br />
