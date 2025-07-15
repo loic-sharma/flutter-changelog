@@ -135,5 +135,5 @@
   <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Web dev proxy<br />
-  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) opened on on July 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172175) 1164 additions and 302 deletions in 23 files</sub><br />
+  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) opened on on July 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172175) 1165 additions and 302 deletions in 23 files</sub><br />
 
