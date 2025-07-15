@@ -137,3 +137,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Decrease reliance on finalizers/GC<br />
   <sub>[#172187](https://github.com/flutter/flutter/pull/172187) opened on on July 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/172187) 197 additions and 196 deletions in 4 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.35] Create `release-candidate-branch.version`<br />
+  <sub>[#172191](https://github.com/flutter/flutter/pull/172191) opened on on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172191) 1 addition and 0 deletions in 1 file</sub><br />
+
