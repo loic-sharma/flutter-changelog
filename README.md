@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-21 commits.
+22 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function<br />
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
@@ -22,6 +22,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: Tag Fuchsia artifacts by content hash<br />
   <sub>[#172132](https://github.com/flutter/flutter/pull/172132) merged on July 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172132) over 20 hours, 88 additions and 16 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] remove obsolete gradle api in FGP<br />
+  <sub>[#172085](https://github.com/flutter/flutter/pull/172085) merged on July 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172085) over 2 days, 188 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.9.0-333.2.beta<br />
   <sub>[#172167](https://github.com/flutter/flutter/pull/172167) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172167) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
