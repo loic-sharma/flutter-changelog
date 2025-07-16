@@ -128,3 +128,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Remove emoji from ci.yaml, because we still live with CP1252 for some silly reason<br />
   <sub>[#172256](https://github.com/flutter/flutter/pull/172256) opened on on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172256) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses cpp 716<br />
+  <sub>[#172261](https://github.com/flutter/flutter/pull/172261) opened on on July 16, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172261) 26474 additions and 10840 deletions in 27 files</sub><br />
+
