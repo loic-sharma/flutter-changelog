@@ -123,5 +123,5 @@
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 170 additions and 0 deletions in 6 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix use of `Join-Path` in `last_engine_commit.ps1`(poweshell)<br />
-  <sub>[#172242](https://github.com/flutter/flutter/pull/172242) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172242) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#172242](https://github.com/flutter/flutter/pull/172242) opened on on July 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172242) 3 additions and 1 deletion in 1 file</sub><br />
 
