@@ -137,3 +137,6 @@
 * **[Musaddiq Ahmed Khan](https://github.com/Musaddiq625)** &mdash; Add optional splashColor property to ExpansionTile<br />
   <sub>[#172224](https://github.com/flutter/flutter/pull/172224) opened on on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172224) 22 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BottomSheet doesn't crash in 0x0 environment<br />
+  <sub>[#172229](https://github.com/flutter/flutter/pull/172229) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172229) 17 additions and 0 deletions in 1 file</sub><br />
+
