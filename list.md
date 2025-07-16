@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-28 commits.
+29 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Remove all usages of js_util.
   <sub>[#171871](https://github.com/flutter/flutter/pull/171871) merged on July 16, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/171871) over 1 week, 287 additions and 244 deletions in 26 files</sub>
@@ -62,6 +62,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter upgrade` stating that an upgrade is available on `main` when up to date
   <sub>[#172141](https://github.com/flutter/flutter/pull/172141) merged on July 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172141) over 1 hour, 34 additions and 10 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Decrease reliance on finalizers/GC
+  <sub>[#172187](https://github.com/flutter/flutter/pull/172187) merged on July 16, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172187) over 19 hours, 197 additions and 196 deletions in 4 files</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use granular skparagraph targets
   <sub>[#161676](https://github.com/flutter/flutter/pull/161676) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161676) over 6 months, 19 additions and 7 deletions in 2 files</sub>

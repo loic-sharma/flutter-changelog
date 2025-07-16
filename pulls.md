@@ -53,9 +53,6 @@
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Added intrinsic box widget<br />
   <sub>[#171111](https://github.com/flutter/flutter/pull/171111) opened on on June 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171111) 160 additions and 0 deletions in 3 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
-  <sub>[#171198](https://github.com/flutter/flutter/pull/171198) opened on on June 25, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/171198) 557 additions and 72 deletions in 35 files</sub><br />
-
 * **[Lewin Pauli](https://github.com/lewinpauli)** &mdash; Added computeDryBaseline implementation in RenderShiftedBox<br />
   <sub>[#171250](https://github.com/flutter/flutter/pull/171250) opened on on June 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171250) 29 additions and 5 deletions in 1 file</sub><br />
 
@@ -95,12 +92,6 @@
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry<br />
   <sub>[#172056](https://github.com/flutter/flutter/pull/172056) opened on on July 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172056) 85 additions and 18 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Badge doesn't crash in 0x0 environment<br />
-  <sub>[#172065](https://github.com/flutter/flutter/pull/172065) opened on on July 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172065) 12 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MaterialBanner doesn't crash in 0x0 environment<br />
-  <sub>[#172074](https://github.com/flutter/flutter/pull/172074) opened on on July 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172074) 14 additions and 0 deletions in 1 file</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-334.0.dev<br />
   <sub>[#172087](https://github.com/flutter/flutter/pull/172087) opened on on July 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172087) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -109,9 +100,6 @@
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `AlignmentDirectional.resolve`<br />
   <sub>[#172096](https://github.com/flutter/flutter/pull/172096) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172096) 35 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BottomAppBar doesn't crash in 0x0 environment<br />
-  <sub>[#172097](https://github.com/flutter/flutter/pull/172097) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172097) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `EdgeInsetsDirectional.resolve`<br />
   <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172099) 46 additions and 2 deletions in 2 files</sub><br />
@@ -125,20 +113,11 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update few links in docs<br />
   <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Web dev proxy<br />
-  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) opened on on July 15, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172175) 1184 additions and 320 deletions in 23 files</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Decrease reliance on finalizers/GC<br />
-  <sub>[#172187](https://github.com/flutter/flutter/pull/172187) opened on on July 15, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172187) 197 additions and 196 deletions in 4 files</sub><br />
-
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 1<br />
   <sub>[#172198](https://github.com/flutter/flutter/pull/172198) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172198) 55 additions and 63 deletions in 2 files</sub><br />
 
 * **[Musaddiq Ahmed Khan](https://github.com/Musaddiq625)** &mdash; Add optional splashColor property to ExpansionTile<br />
   <sub>[#172224](https://github.com/flutter/flutter/pull/172224) opened on on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172224) 22 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BottomSheet doesn't crash in 0x0 environment<br />
-  <sub>[#172229](https://github.com/flutter/flutter/pull/172229) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172229) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 170 additions and 0 deletions in 6 files</sub><br />
