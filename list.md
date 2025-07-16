@@ -669,11 +669,16 @@
 
 ### July 12, 2025 to July 18, 2025
 
-6 commits.
+7 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add setMixedContentMode for Android
   <sub>[#9586](https://github.com/flutter/packages/pull/9586) merged on July 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9586) over 5 days, 271 additions and 1 deletion in 12 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[aniq](https://github.com/syedaniq)** &mdash; [image_picker] redesign example app
+  <sub>[#9625](https://github.com/flutter/packages/pull/9625) merged on July 16, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9625) over 1 day, 116 additions and 75 deletions in 5 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Victoria Ashworth](https://github.com/vashworth)</sub>
+  <sub><details><summary>2 images...</summary><img width="1320" height="2868" alt="image" src="https://github.com/user-attachments/assets/87a9bce0-3e43-4ac5-b9c7-1567218b566c" /><img width="1320" height="2868" alt="image" src="https://github.com/user-attachments/assets/d470d991-8264-4016-a06c-b10dd191a3f3" /></details></sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add exception info to migration guide
   <sub>[#9574](https://github.com/flutter/packages/pull/9574) merged on July 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9574) over 1 week, 19 additions and 4 deletions in 4 files</sub>
