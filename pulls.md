@@ -143,6 +143,3 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `release-*.version` to simplify `last_engine_commit.sh` (no branch operations)<br />
   <sub>[#172236](https://github.com/flutter/flutter/pull/172236) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172236) 37 additions and 58 deletions in 3 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.35] Update `engine.version` (+CPs Use `release-*.version`)<br />
-  <sub>[#172237](https://github.com/flutter/flutter/pull/172237) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172237) 39 additions and 58 deletions in 5 files</sub><br />
-
