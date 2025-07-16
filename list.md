@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-24 commits.
+25 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix android studio lint about lambda function
   <sub>[#172063](https://github.com/flutter/flutter/pull/172063) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172063) over 2 days, 2 additions and 2 deletions in 1 file</sub>
@@ -18,6 +18,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Delete unused files in the engine
   <sub>[#172035](https://github.com/flutter/flutter/pull/172035) merged on July 14, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172035) over 2 days, 0 additions and 344 deletions in 4 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses_cpp: Parses NOTICES and DEPS
+  <sub>[#172044](https://github.com/flutter/flutter/pull/172044) merged on July 15, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172044) over 3 days, 14922 additions and 9233 deletions in 14 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow a release without engine cherrypicks (adds fallback logic)
   <sub>[#172184](https://github.com/flutter/flutter/pull/172184) merged on July 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172184) over 1 hour, 128 additions and 6 deletions in 3 files</sub>
