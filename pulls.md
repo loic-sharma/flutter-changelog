@@ -126,5 +126,5 @@
   <sub>[#172253](https://github.com/flutter/flutter/pull/172253) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172253) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add radius clamping to web `RSuperellipse`<br />
-  <sub>[#172254](https://github.com/flutter/flutter/pull/172254) opened on on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172254) 89 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#172254](https://github.com/flutter/flutter/pull/172254) opened on on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172254) 110 additions and 2 deletions in 2 files</sub><br />
 
