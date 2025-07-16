@@ -681,7 +681,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add setMixedContentMode for Android<br />
   <sub>[#9586](https://github.com/flutter/packages/pull/9586) merged on July 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9586) over 5 days, 271 additions and 1 deletion in 12 files</sub><br />
@@ -703,6 +703,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Replace Flutter method failure assertion with nslog<br />
   <sub>[#9587](https://github.com/flutter/packages/pull/9587) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9587) over 5 days, 32 additions and 6 deletions in 5 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Add Gemini Code Assist review config<br />
+  <sub>[#9632](https://github.com/flutter/packages/pull/9632) merged on July 16, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9632) over 4 hours, 63 additions and 15 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 7<br />
   <sub>[#9595](https://github.com/flutter/packages/pull/9595) merged on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9595) over 4 days, 98 additions and 73 deletions in 5 files</sub><br />
