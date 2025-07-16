@@ -140,6 +140,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BottomSheet doesn't crash in 0x0 environment<br />
   <sub>[#172229](https://github.com/flutter/flutter/pull/172229) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172229) 17 additions and 0 deletions in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `release-*.version` to simplify `last_engine_commit.sh` (no branch operations)<br />
-  <sub>[#172236](https://github.com/flutter/flutter/pull/172236) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172236) 37 additions and 58 deletions in 3 files</sub><br />
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
+  <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 170 additions and 0 deletions in 6 files</sub><br />
 
