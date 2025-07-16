@@ -129,7 +129,7 @@
   <sub>[#172175](https://github.com/flutter/flutter/pull/172175) opened on on July 15, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172175) 1184 additions and 320 deletions in 23 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Decrease reliance on finalizers/GC<br />
-  <sub>[#172187](https://github.com/flutter/flutter/pull/172187) opened on on July 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/172187) 197 additions and 196 deletions in 4 files</sub><br />
+  <sub>[#172187](https://github.com/flutter/flutter/pull/172187) opened on on July 15, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172187) 197 additions and 196 deletions in 4 files</sub><br />
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 1<br />
   <sub>[#172198](https://github.com/flutter/flutter/pull/172198) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172198) 55 additions and 63 deletions in 2 files</sub><br />
@@ -141,5 +141,8 @@
   <sub>[#172229](https://github.com/flutter/flutter/pull/172229) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172229) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `release-*.version` to simplify `last_engine_commit.sh` (no branch operations)<br />
-  <sub>[#172236](https://github.com/flutter/flutter/pull/172236) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172236) 37 additions and 58 deletions in 3 files</sub><br />
+  <sub>[#172236](https://github.com/flutter/flutter/pull/172236) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172236) 37 additions and 58 deletions in 3 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.35] Update `engine.version` (+CPs Use `release-*.version`)<br />
+  <sub>[#172237](https://github.com/flutter/flutter/pull/172237) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172237) 39 additions and 58 deletions in 5 files</sub><br />
 
