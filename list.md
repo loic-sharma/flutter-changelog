@@ -19,6 +19,10 @@
   <sub>[#172035](https://github.com/flutter/flutter/pull/172035) merged on July 14, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172035) over 2 days, 0 additions and 344 deletions in 4 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add dartpad example to `RoundedSuperellipseBorder`
+  <sub>[#172185](https://github.com/flutter/flutter/pull/172185) merged on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172185) over 6 hours, 188 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses_cpp: Parses NOTICES and DEPS
   <sub>[#172044](https://github.com/flutter/flutter/pull/172044) merged on July 15, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172044) over 3 days, 14922 additions and 9233 deletions in 14 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -30,10 +34,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: Tag Fuchsia artifacts by content hash
   <sub>[#172132](https://github.com/flutter/flutter/pull/172132) merged on July 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172132) over 20 hours, 88 additions and 16 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add dartpad example to `RoundedSuperellipseBorder`
-  <sub>[#172185](https://github.com/flutter/flutter/pull/172185) merged on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172185) over 6 hours, 188 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] remove obsolete gradle api in FGP
   <sub>[#172085](https://github.com/flutter/flutter/pull/172085) merged on July 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172085) over 2 days, 188 additions and 5 deletions in 3 files</sub>
