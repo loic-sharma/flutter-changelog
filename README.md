@@ -55,6 +55,10 @@
   <sub>[#172141](https://github.com/flutter/flutter/pull/172141) merged on July 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172141) over 1 hour, 34 additions and 10 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add dartpad example to `RoundedSuperellipseBorder`<br />
+  <sub>[#172185](https://github.com/flutter/flutter/pull/172185) merged on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172185) over 6 hours, 188 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use granular skparagraph targets<br />
   <sub>[#161676](https://github.com/flutter/flutter/pull/161676) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161676) over 6 months, 19 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -86,10 +90,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.<br />
   <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add dartpad example to `RoundedSuperellipseBorder`<br />
-  <sub>[#172185](https://github.com/flutter/flutter/pull/172185) merged on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172185) over 6 hours, 188 additions and 0 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Add missing param to makeRasterImage calls<br />
   <sub>[#172122](https://github.com/flutter/flutter/pull/172122) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172122) over 1 day, 20 additions and 16 deletions in 14 files</sub><br />
