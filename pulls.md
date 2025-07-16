@@ -84,7 +84,7 @@
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; Fix: Ensure Text widget locale is included in semantics language tag<br />
-  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) opened on on July 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172034) 50 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) opened on on July 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172034) 50 additions and 0 deletions in 2 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
@@ -117,11 +117,8 @@
   <sub>[#172198](https://github.com/flutter/flutter/pull/172198) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172198) 55 additions and 63 deletions in 2 files</sub><br />
 
 * **[Musaddiq Ahmed Khan](https://github.com/Musaddiq625)** &mdash; Add optional splashColor property to ExpansionTile<br />
-  <sub>[#172224](https://github.com/flutter/flutter/pull/172224) opened on on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172224) 22 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#172224](https://github.com/flutter/flutter/pull/172224) opened on on July 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172224) 22 additions and 0 deletions in 1 file</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 170 additions and 0 deletions in 6 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix use of `Join-Path` in `last_engine_commit.ps1`(poweshell)<br />
-  <sub>[#172242](https://github.com/flutter/flutter/pull/172242) opened on on July 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172242) 3 additions and 1 deletion in 1 file</sub><br />
 
