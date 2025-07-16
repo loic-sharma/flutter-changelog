@@ -832,7 +832,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-2 commits.
+3 commits.
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Add migration guide for moving the gradle files
   <sub>[#12203](https://github.com/flutter/website/pull/12203) merged on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12203) over 5 hours, 73 additions and 0 deletions in 1 file</sub>
@@ -841,6 +841,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add breaking changes doc for form role changes
   <sub>[#12200](https://github.com/flutter/website/pull/12200) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12200) over 2 days, 79 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[aCrispyCookie](https://github.com/Cookiecodess)** &mdash; Fix broken link in app-architecture/case-study
+  <sub>[#12207](https://github.com/flutter/website/pull/12207) merged on July 16, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12207) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 ### July 5, 2025 to July 11, 2025
 
