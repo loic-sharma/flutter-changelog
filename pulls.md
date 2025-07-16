@@ -131,3 +131,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Decrease reliance on finalizers/GC<br />
   <sub>[#172187](https://github.com/flutter/flutter/pull/172187) opened on on July 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/172187) 197 additions and 196 deletions in 4 files</sub><br />
 
+* **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 1<br />
+  <sub>[#172198](https://github.com/flutter/flutter/pull/172198) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172198) 55 additions and 63 deletions in 2 files</sub><br />
+
