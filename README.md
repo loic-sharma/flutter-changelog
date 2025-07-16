@@ -857,7 +857,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-4 commits.
+5 commits.
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Add migration guide for moving the gradle files<br />
   <sub>[#12203](https://github.com/flutter/website/pull/12203) merged on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12203) over 5 hours, 73 additions and 0 deletions in 1 file</sub><br />
@@ -865,6 +865,10 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add breaking changes doc for form role changes<br />
   <sub>[#12200](https://github.com/flutter/website/pull/12200) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12200) over 2 days, 79 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[James Williams](https://github.com/jwill)** &mdash; Document homescreen widget options for iOS and Android<br />
+  <sub>[#12210](https://github.com/flutter/website/pull/12210) merged on July 16, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12210) over 1 day, 26 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Fixes some typos<br />
