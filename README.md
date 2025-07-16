@@ -709,7 +709,7 @@
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Add Gemini Code Assist review config<br />
-  <sub>[#9632](https://github.com/flutter/packages/pull/9632) merged on July 16, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9632) over 4 hours, 63 additions and 15 deletions in 5 files</sub><br />
+  <sub>[#9632](https://github.com/flutter/packages/pull/9632) merged on July 16, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9632) over 4 hours, 63 additions and 15 deletions in 5 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 7<br />
