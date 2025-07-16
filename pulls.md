@@ -134,3 +134,6 @@
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 1<br />
   <sub>[#172198](https://github.com/flutter/flutter/pull/172198) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172198) 55 additions and 63 deletions in 2 files</sub><br />
 
+* **[Musaddiq Ahmed Khan](https://github.com/Musaddiq625)** &mdash; Add optional splashColor property to ExpansionTile<br />
+  <sub>[#172224](https://github.com/flutter/flutter/pull/172224) opened on on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172224) 22 additions and 0 deletions in 1 file</sub><br />
+
