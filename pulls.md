@@ -131,9 +131,6 @@
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 3<br />
   <sub>[#172307](https://github.com/flutter/flutter/pull/172307) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172307) 9 additions and 25 deletions in 9 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use UTC timezone for `stamp_command_test` to avoid local TZ flakes<br />
-  <sub>[#172319](https://github.com/flutter/flutter/pull/172319) opened on on July 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172319) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 4<br />
   <sub>[#172322](https://github.com/flutter/flutter/pull/172322) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172322) 13 additions and 16 deletions in 4 files</sub><br />
 
@@ -142,4 +139,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Render Flutter in its own EGL context<br />
   <sub>[#172330](https://github.com/flutter/flutter/pull/172330) opened on on July 17, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172330) 141 additions and 327 deletions in 15 files</sub><br />
+
+* **[Elie Koudzo VIKOUM](https://github.com/elievik)** &mdash; Influenceur_App<br />
+  <sub>[#172331](https://github.com/flutter/flutter/pull/172331) opened on on July 17, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172331) 3939 additions and 1386 deletions in 151 files</sub><br />
 
