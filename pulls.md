@@ -140,3 +140,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend using Flutter feature flags over platform-specific configs<br />
   <sub>[#172324](https://github.com/flutter/flutter/pull/172324) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172324) 37 additions and 4 deletions in 1 file</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Render Flutter in its own EGL context<br />
+  <sub>[#172330](https://github.com/flutter/flutter/pull/172330) opened on on July 17, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172330) 141 additions and 327 deletions in 15 files</sub><br />
+
