@@ -137,3 +137,6 @@
 * **[Andrii Pyvovarov](https://github.com/Andro999b)** &mdash; fix: focus traversal into nested scrollable <br />
   <sub>[#172283](https://github.com/flutter/flutter/pull/172283) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172283) 160 additions and 3 deletions in 2 files</sub><br />
 
+* **[Harkirat Singh [SSW]](https://github.com/0xharkirat)** &mdash; Adopt Null-Aware Elements in `packages/flutter/lib/src/material`<br />
+  <sub>[#172285](https://github.com/flutter/flutter/pull/172285) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172285) 3 additions and 3 deletions in 1 file</sub><br />
+
