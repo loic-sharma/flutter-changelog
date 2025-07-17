@@ -74,9 +74,6 @@
 * **[Keyur Maru](https://github.com/keyur2maru)** &mdash; Fix automatic JavaScript fallback for flutter run when WASM is not available<br />
   <sub>[#172002](https://github.com/flutter/flutter/pull/172002) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172002) 92 additions and 19 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Web][Engine] Update MediaQuery in response to semanticsEnabled<br />
-  <sub>[#172007](https://github.com/flutter/flutter/pull/172007) opened on on July 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172007) 29 additions and 4 deletions in 5 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add GEMINI.md to .gitignore<br />
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
@@ -132,7 +129,7 @@
   <sub>[#172306](https://github.com/flutter/flutter/pull/172306) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172306) 20 additions and 20 deletions in 3 files</sub><br />
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 3<br />
-  <sub>[#172307](https://github.com/flutter/flutter/pull/172307) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172307) 9 additions and 20 deletions in 9 files</sub><br />
+  <sub>[#172307](https://github.com/flutter/flutter/pull/172307) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172307) 9 additions and 25 deletions in 9 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use UTC timezone for `stamp_command_test` to avoid local TZ flakes<br />
   <sub>[#172319](https://github.com/flutter/flutter/pull/172319) opened on on July 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172319) 3 additions and 3 deletions in 1 file</sub><br />
