@@ -135,5 +135,5 @@
   <sub>[#172282](https://github.com/flutter/flutter/pull/172282) opened on on July 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172282) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Andrii Pyvovarov](https://github.com/Andro999b)** &mdash; fix: focus traversal into nested scrollable <br />
-  <sub>[#172283](https://github.com/flutter/flutter/pull/172283) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172283) 74 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#172283](https://github.com/flutter/flutter/pull/172283) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172283) 152 additions and 3 deletions in 2 files</sub><br />
 
