@@ -128,3 +128,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use baseUri always when doing a hot reload or hot restart<br />
   <sub>[#172271](https://github.com/flutter/flutter/pull/172271) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172271) 7 additions and 15 deletions in 2 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor handling of frame waiting.<br />
+  <sub>[#172277](https://github.com/flutter/flutter/pull/172277) opened on on July 17, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/172277) 80 additions and 226 deletions in 11 files</sub><br />
+
