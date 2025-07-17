@@ -78,19 +78,16 @@
   <sub>[#172002](https://github.com/flutter/flutter/pull/172002) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172002) 92 additions and 19 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Web][Engine] Update MediaQuery in response to semanticsEnabled<br />
-  <sub>[#172007](https://github.com/flutter/flutter/pull/172007) opened on on July 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172007) 29 additions and 4 deletions in 5 files</sub><br />
+  <sub>[#172007](https://github.com/flutter/flutter/pull/172007) opened on on July 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172007) 29 additions and 4 deletions in 5 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add GEMINI.md to .gitignore<br />
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; Fix: Ensure Text widget locale is included in semantics language tag<br />
-  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) opened on on July 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172034) 50 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) opened on on July 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172034) 50 additions and 0 deletions in 2 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Platform views shouldn't receive pointer events when not laid out<br />
-  <sub>[#172043](https://github.com/flutter/flutter/pull/172043) opened on on July 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172043) 197 additions and 0 deletions in 2 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry<br />
   <sub>[#172056](https://github.com/flutter/flutter/pull/172056) opened on on July 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172056) 85 additions and 18 deletions in 2 files</sub><br />
