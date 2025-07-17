@@ -129,5 +129,5 @@
   <sub>[#172261](https://github.com/flutter/flutter/pull/172261) opened on on July 16, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172261) 26474 additions and 10840 deletions in 27 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove emoji from ci.yaml, because we still live with CP1252 for some silly reason<br />
-  <sub>[#172263](https://github.com/flutter/flutter/pull/172263) opened on on July 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172263) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#172263](https://github.com/flutter/flutter/pull/172263) opened on on July 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172263) 2 additions and 2 deletions in 1 file</sub><br />
 
