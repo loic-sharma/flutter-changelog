@@ -742,7 +742,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-12 commits.
+13 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add setMixedContentMode for Android
   <sub>[#9586](https://github.com/flutter/packages/pull/9586) merged on July 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9586) over 5 days, 271 additions and 1 deletion in 12 files</sub>
@@ -752,6 +752,10 @@
   <sub>[#9625](https://github.com/flutter/packages/pull/9625) merged on July 16, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9625) over 1 day, 116 additions and 75 deletions in 5 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Victoria Ashworth](https://github.com/vashworth)</sub>
   <sub><details><summary>2 images...</summary><img width="1320" height="2868" alt="image" src="https://github.com/user-attachments/assets/87a9bce0-3e43-4ac5-b9c7-1567218b566c" /><img width="1320" height="2868" alt="image" src="https://github.com/user-attachments/assets/d470d991-8264-4016-a06c-b10dd191a3f3" /></details></sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix missing leading cache extent for TableView
+  <sub>[#9636](https://github.com/flutter/packages/pull/9636) merged on July 17, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/9636) over 1 day, 163 additions and 75 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds overrides for constructors and static members of ProxyApis
   <sub>[#9515](https://github.com/flutter/packages/pull/9515) merged on July 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9515) over 2 weeks, 1523 additions and 222 deletions in 9 files</sub>
