@@ -138,5 +138,5 @@
   <sub>[#172283](https://github.com/flutter/flutter/pull/172283) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172283) 160 additions and 3 deletions in 2 files</sub><br />
 
 * **[Harkirat Singh [SSW]](https://github.com/0xharkirat)** &mdash; Adopt Null-Aware Elements in `packages/flutter/lib/src/material`<br />
-  <sub>[#172285](https://github.com/flutter/flutter/pull/172285) opened on on July 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172285) 21 additions and 21 deletions in 5 files</sub><br />
+  <sub>[#172285](https://github.com/flutter/flutter/pull/172285) opened on on July 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172285) 16 additions and 25 deletions in 5 files</sub><br />
 
