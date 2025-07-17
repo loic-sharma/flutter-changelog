@@ -35,9 +35,6 @@
 * **[Roc Boronat](https://github.com/rocboronat)** &mdash; Fix styling typos in commit links for latest versions<br />
   <sub>[#170339](https://github.com/flutter/flutter/pull/170339) opened on on June 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/170339) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Change RawScrollbar padding from EdgeInsets to EdgeInsetsGeometry<br />
-  <sub>[#170927](https://github.com/flutter/flutter/pull/170927) opened on on June 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/170927) 98 additions and 3 deletions in 2 files</sub><br />
-
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix TreeSliver null check assertion on rapid toggling<br />
   <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
 
@@ -84,7 +81,7 @@
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; Fix: Ensure Text widget locale is included in semantics language tag<br />
-  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) opened on on July 11, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172034) 52 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) opened on on July 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/172034) 52 additions and 0 deletions in 2 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
@@ -136,4 +133,7 @@
 
 * **[Harkirat Singh [SSW]](https://github.com/0xharkirat)** &mdash; Adopt Null-Aware Elements in `packages/flutter/lib/src/material`<br />
   <sub>[#172285](https://github.com/flutter/flutter/pull/172285) opened on on July 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172285) 16 additions and 25 deletions in 5 files</sub><br />
+
+* **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 2<br />
+  <sub>[#172306](https://github.com/flutter/flutter/pull/172306) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172306) 20 additions and 20 deletions in 3 files</sub><br />
 
