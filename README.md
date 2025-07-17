@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-44 commits.
+45 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Remove all usages of js_util.<br />
   <sub>[#171871](https://github.com/flutter/flutter/pull/171871) merged on July 16, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/171871) over 1 week, 287 additions and 244 deletions in 26 files</sub><br />
@@ -60,17 +60,17 @@
   <sub>[#172132](https://github.com/flutter/flutter/pull/172132) merged on July 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172132) over 20 hours, 88 additions and 16 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Muhammad Mohiuddin](https://github.com/MohiuddinM)** &mdash; Add a getter to get the recorder used by painting context<br />
-  <sub>[#170223](https://github.com/flutter/flutter/pull/170223) merged on July 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170223) over 1 month, 18 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] remove obsolete gradle api in FGP<br />
+  <sub>[#172085](https://github.com/flutter/flutter/pull/172085) merged on July 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172085) over 2 days, 188 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Torikul Islam Topu](https://github.com/iamtoricool)** &mdash; feat: Add `maxCount` parameter to `Badge.count` constructor.<br />
   <sub>[#171054](https://github.com/flutter/flutter/pull/171054) merged on July 17, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/171054) over 3 weeks, 80 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Pranav](https://github.com/pranavo72bex), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] remove obsolete gradle api in FGP<br />
-  <sub>[#172085](https://github.com/flutter/flutter/pull/172085) merged on July 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172085) over 2 days, 188 additions and 5 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+* **[Muhammad Mohiuddin](https://github.com/MohiuddinM)** &mdash; Add a getter to get the recorder used by painting context<br />
+  <sub>[#170223](https://github.com/flutter/flutter/pull/170223) merged on July 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170223) over 1 month, 18 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.9.0-333.2.beta<br />
   <sub>[#172167](https://github.com/flutter/flutter/pull/172167) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172167) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
@@ -91,6 +91,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Perform OpenGL compositing in the Flutter thread and write to a framebuffer.<br />
   <sub>[#172090](https://github.com/flutter/flutter/pull/172090) merged on July 17, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/172090) over 2 days, 335 additions and 294 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Platform views shouldn't receive pointer events when not laid out<br />
+  <sub>[#172043](https://github.com/flutter/flutter/pull/172043) merged on July 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172043) over 5 days, 197 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add missing SetPipeline call for the vertices uber pipeline in AtlasContents<br />
   <sub>[#172273](https://github.com/flutter/flutter/pull/172273) merged on July 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172273) over 16 hours, 17 additions and 2 deletions in 2 files</sub><br />
@@ -132,20 +136,20 @@
   <sub>[#172025](https://github.com/flutter/flutter/pull/172025) merged on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172025) over 5 days, 9 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Remove emoji from ci.yaml, because we still live with CP1252 for some silly reason<br />
-  <sub>[#172256](https://github.com/flutter/flutter/pull/172256) merged on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172256) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: documentation around led launch broken<br />
   <sub>[#171983](https://github.com/flutter/flutter/pull/171983) merged on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171983) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Remove emoji from ci.yaml, because we still live with CP1252 for some silly reason<br />
+  <sub>[#172256](https://github.com/flutter/flutter/pull/172256) merged on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172256) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Apply superellipse clipping to iOS platform views using an approximated round rect<br />
+  <sub>[#172033](https://github.com/flutter/flutter/pull/172033) merged on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172033) over 2 days, 81 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Sync `CHANGELOG.md` (3.32.7) to `master` branch<br />
   <sub>[#172253](https://github.com/flutter/flutter/pull/172253) merged on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172253) over 17 minutes, 4 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.<br />
-  <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove dead link in the doc index.<br />
@@ -156,13 +160,13 @@
   <sub>[#172242](https://github.com/flutter/flutter/pull/172242) merged on July 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172242) over 29 minutes, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.<br />
+  <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `release-*.version` to simplify `last_engine_commit.sh` (no branch operations)<br />
   <sub>[#172236](https://github.com/flutter/flutter/pull/172236) merged on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172236) over 10 minutes, 37 additions and 58 deletions in 3 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Apply superellipse clipping to iOS platform views using an approximated round rect<br />
-  <sub>[#172033](https://github.com/flutter/flutter/pull/172033) merged on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172033) over 2 days, 81 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Downgrade and pin DDS to 5.0.3<br />
   <sub>[#172120](https://github.com/flutter/flutter/pull/172120) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172120) over 45 minutes, 4 additions and 2 deletions in 2 files</sub><br />
