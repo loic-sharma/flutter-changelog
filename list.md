@@ -709,7 +709,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-8 commits.
+11 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add setMixedContentMode for Android
   <sub>[#9586](https://github.com/flutter/packages/pull/9586) merged on July 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9586) over 5 days, 271 additions and 1 deletion in 12 files</sub>
@@ -732,6 +732,14 @@
   <sub>[#9587](https://github.com/flutter/packages/pull/9587) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9587) over 5 days, 32 additions and 6 deletions in 5 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Update androidx.webkit to 1.14.0
+  <sub>[#9638](https://github.com/flutter/packages/pull/9638) merged on July 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9638) over 3 hours, 6 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Fix Gemini note wrapping
+  <sub>[#9639](https://github.com/flutter/packages/pull/9639) merged on July 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9639) over 3 hours, 1 addition and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Add Gemini Code Assist review config
   <sub>[#9632](https://github.com/flutter/packages/pull/9632) merged on July 16, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9632) over 4 hours, 63 additions and 15 deletions in 5 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -743,6 +751,10 @@
 * **[kwikwag](https://github.com/kwikwag)** &mdash; [camera_android] Use WeakReference to prevent startImageStream OOM error when main thread hangs (flutter#166533)
   <sub>[#9571](https://github.com/flutter/packages/pull/9571) merged on July 14, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/9571) over 1 week, 210 additions and 135 deletions in 6 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 077b4a4ce10a to d7b523b356d1 (3 revisions)
+  <sub>[#9640](https://github.com/flutter/packages/pull/9640) merged on July 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9640) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### July 5, 2025 to July 11, 2025
 
