@@ -138,5 +138,5 @@
   <sub>[#172307](https://github.com/flutter/flutter/pull/172307) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172307) 9 additions and 20 deletions in 9 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use UTC timezone for `stamp_command_test` to avoid local TZ flakes<br />
-  <sub>[#172319](https://github.com/flutter/flutter/pull/172319) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172319) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#172319](https://github.com/flutter/flutter/pull/172319) opened on on July 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172319) 3 additions and 3 deletions in 1 file</sub><br />
 
