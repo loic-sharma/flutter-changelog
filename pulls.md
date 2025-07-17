@@ -134,3 +134,6 @@
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 2<br />
   <sub>[#172306](https://github.com/flutter/flutter/pull/172306) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172306) 20 additions and 20 deletions in 3 files</sub><br />
 
+* **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 3<br />
+  <sub>[#172307](https://github.com/flutter/flutter/pull/172307) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172307) 9 additions and 20 deletions in 9 files</sub><br />
+
