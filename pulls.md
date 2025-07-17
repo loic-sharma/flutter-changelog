@@ -114,7 +114,7 @@
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 170 additions and 0 deletions in 6 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add radius clamping to web `RSuperellipse`<br />
-  <sub>[#172254](https://github.com/flutter/flutter/pull/172254) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172254) 113 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#172254](https://github.com/flutter/flutter/pull/172254) opened on on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172254) 119 additions and 5 deletions in 3 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use baseUri always when doing a hot reload or hot restart<br />
   <sub>[#172271](https://github.com/flutter/flutter/pull/172271) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172271) 7 additions and 15 deletions in 2 files</sub><br />
@@ -128,9 +128,6 @@
 * **[Andrii Pyvovarov](https://github.com/Andro999b)** &mdash; fix: focus traversal into nested scrollable <br />
   <sub>[#172283](https://github.com/flutter/flutter/pull/172283) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172283) 164 additions and 3 deletions in 2 files</sub><br />
 
-* **[Harkirat Singh [SSW]](https://github.com/0xharkirat)** &mdash; Adopt Null-Aware Elements in `packages/flutter/lib/src/material`<br />
-  <sub>[#172285](https://github.com/flutter/flutter/pull/172285) opened on on July 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172285) 16 additions and 25 deletions in 5 files</sub><br />
-
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 2<br />
   <sub>[#172306](https://github.com/flutter/flutter/pull/172306) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172306) 20 additions and 20 deletions in 3 files</sub><br />
 
@@ -139,4 +136,10 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use UTC timezone for `stamp_command_test` to avoid local TZ flakes<br />
   <sub>[#172319](https://github.com/flutter/flutter/pull/172319) opened on on July 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172319) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 4<br />
+  <sub>[#172322](https://github.com/flutter/flutter/pull/172322) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172322) 13 additions and 16 deletions in 4 files</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend using Flutter feature flags over platform-specific configs<br />
+  <sub>[#172324](https://github.com/flutter/flutter/pull/172324) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172324) 37 additions and 4 deletions in 1 file</sub><br />
 
