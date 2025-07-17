@@ -129,7 +129,7 @@
   <sub>[#172283](https://github.com/flutter/flutter/pull/172283) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172283) 164 additions and 3 deletions in 2 files</sub><br />
 
 * **[Harkirat Singh [SSW]](https://github.com/0xharkirat)** &mdash; Adopt Null-Aware Elements in `packages/flutter/lib/src/material`<br />
-  <sub>[#172285](https://github.com/flutter/flutter/pull/172285) opened on on July 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172285) 16 additions and 25 deletions in 5 files</sub><br />
+  <sub>[#172285](https://github.com/flutter/flutter/pull/172285) opened on on July 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172285) 16 additions and 25 deletions in 5 files</sub><br />
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 2<br />
   <sub>[#172306](https://github.com/flutter/flutter/pull/172306) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172306) 20 additions and 20 deletions in 3 files</sub><br />
