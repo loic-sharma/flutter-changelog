@@ -95,9 +95,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-334.0.dev<br />
   <sub>[#172087](https://github.com/flutter/flutter/pull/172087) opened on on July 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172087) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Perform OpenGL compositing in the Flutter thread and write to a framebuffer.<br />
-  <sub>[#172090](https://github.com/flutter/flutter/pull/172090) opened on on July 14, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/172090) 335 additions and 294 deletions in 13 files</sub><br />
-
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `AlignmentDirectional.resolve`<br />
   <sub>[#172096](https://github.com/flutter/flutter/pull/172096) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172096) 35 additions and 2 deletions in 2 files</sub><br />
 
@@ -124,9 +121,6 @@
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add radius clamping to web `RSuperellipse`<br />
   <sub>[#172254](https://github.com/flutter/flutter/pull/172254) opened on on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172254) 113 additions and 2 deletions in 2 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses cpp 716<br />
-  <sub>[#172261](https://github.com/flutter/flutter/pull/172261) opened on on July 16, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172261) 26474 additions and 10840 deletions in 27 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove emoji from ci.yaml, because we still live with CP1252 for some silly reason<br />
   <sub>[#172263](https://github.com/flutter/flutter/pull/172263) opened on on July 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172263) 2 additions and 2 deletions in 1 file</sub><br />
