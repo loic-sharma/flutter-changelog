@@ -75,7 +75,7 @@
   <sub>[#172002](https://github.com/flutter/flutter/pull/172002) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172002) 92 additions and 19 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Web][Engine] Update MediaQuery in response to semanticsEnabled<br />
-  <sub>[#172007](https://github.com/flutter/flutter/pull/172007) opened on on July 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172007) 29 additions and 4 deletions in 5 files</sub><br />
+  <sub>[#172007](https://github.com/flutter/flutter/pull/172007) opened on on July 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172007) 29 additions and 4 deletions in 5 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add GEMINI.md to .gitignore<br />
   <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
