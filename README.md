@@ -762,7 +762,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-13 commits.
+14 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add setMixedContentMode for Android<br />
   <sub>[#9586](https://github.com/flutter/packages/pull/9586) merged on July 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9586) over 5 days, 271 additions and 1 deletion in 12 files</sub><br />
@@ -788,6 +788,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [quick_actions] Restore the appShortcutLaunchActivityAfterStarting test in quick_actions_android<br />
   <sub>[#9508](https://github.com/flutter/packages/pull/9508) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9508) over 2 weeks, 0 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 8<br />
+  <sub>[#9635](https://github.com/flutter/packages/pull/9635) merged on July 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9635) over 1 day, 180 additions and 119 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Replace Flutter method failure assertion with nslog<br />
   <sub>[#9587](https://github.com/flutter/packages/pull/9587) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9587) over 5 days, 32 additions and 6 deletions in 5 files</sub><br />
