@@ -116,7 +116,7 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use baseUri always when doing a hot reload or hot restart<br />
   <sub>[#172271](https://github.com/flutter/flutter/pull/172271) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172271) 9 additions and 17 deletions in 3 files</sub><br />
 
-* **[p1318k](https://github.com/p1318k)** &mdash; Fix macOS Mojave Crash on Flutter Desktop Startup<br />
+* **[p1318k](https://github.com/p1318k)** &mdash; fix: macOS Mojave Crash on Flutter Desktop Startup<br />
   <sub>[#172282](https://github.com/flutter/flutter/pull/172282) opened on on July 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172282) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Andrii Pyvovarov](https://github.com/Andro999b)** &mdash; fix: focus traversal into nested scrollable <br />
