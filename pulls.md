@@ -135,7 +135,7 @@
   <sub>[#172324](https://github.com/flutter/flutter/pull/172324) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172324) 37 additions and 4 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Render Flutter in its own EGL context<br />
-  <sub>[#172330](https://github.com/flutter/flutter/pull/172330) opened on on July 17, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172330) 141 additions and 327 deletions in 15 files</sub><br />
+  <sub>[#172330](https://github.com/flutter/flutter/pull/172330) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172330) 61 additions and 101 deletions in 5 files</sub><br />
 
 * **[Elie Koudzo VIKOUM](https://github.com/elievik)** &mdash; Influenceur_App<br />
   <sub>[#172331](https://github.com/flutter/flutter/pull/172331) opened on on July 17, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172331) 3939 additions and 1386 deletions in 151 files</sub><br />
