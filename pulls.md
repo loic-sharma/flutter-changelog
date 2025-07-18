@@ -140,3 +140,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove GtkGLArea and render directly into GtkDrawingArea<br />
   <sub>[#172343](https://github.com/flutter/flutter/pull/172343) opened on on July 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/172343) 229 additions and 294 deletions in 12 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update BUILD.gn to mention that min supported API level is 24<br />
+  <sub>[#172359](https://github.com/flutter/flutter/pull/172359) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172359) 1 addition and 1 deletion in 1 file</sub><br />
+
