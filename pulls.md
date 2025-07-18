@@ -141,5 +141,5 @@
   <sub>[#172380](https://github.com/flutter/flutter/pull/172380) opened on on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172380) 4 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Take Mac_* tool_tests_commands out of bringup<br />
-  <sub>[#172398](https://github.com/flutter/flutter/pull/172398) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172398) 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#172398](https://github.com/flutter/flutter/pull/172398) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172398) 9 additions and 4 deletions in 2 files</sub><br />
 
