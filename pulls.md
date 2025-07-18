@@ -147,5 +147,5 @@
   <sub>[#172373](https://github.com/flutter/flutter/pull/172373) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172373) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix ReorderableList proxy animation when returning to original position<br />
-  <sub>[#172380](https://github.com/flutter/flutter/pull/172380) opened on on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172380) 4 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#172380](https://github.com/flutter/flutter/pull/172380) opened on on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172380) 85 additions and 3 deletions in 2 files</sub><br />
 
