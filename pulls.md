@@ -110,9 +110,6 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 170 additions and 0 deletions in 6 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add radius clamping to web `RSuperellipse`<br />
-  <sub>[#172254](https://github.com/flutter/flutter/pull/172254) opened on on July 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172254) 119 additions and 5 deletions in 3 files</sub><br />
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use baseUri always when doing a hot reload or hot restart<br />
   <sub>[#172271](https://github.com/flutter/flutter/pull/172271) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172271) 9 additions and 17 deletions in 3 files</sub><br />
 
