@@ -141,5 +141,5 @@
   <sub>[#172331](https://github.com/flutter/flutter/pull/172331) opened on on July 17, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172331) 3939 additions and 1386 deletions in 151 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove GtkGLArea and render directly into GtkDrawingArea<br />
-  <sub>[#172343](https://github.com/flutter/flutter/pull/172343) opened on on July 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/172343) 258 additions and 469 deletions in 15 files</sub><br />
+  <sub>[#172343](https://github.com/flutter/flutter/pull/172343) opened on on July 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/172343) 229 additions and 294 deletions in 12 files</sub><br />
 
