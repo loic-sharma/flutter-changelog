@@ -125,9 +125,6 @@
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 4<br />
   <sub>[#172322](https://github.com/flutter/flutter/pull/172322) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172322) 13 additions and 16 deletions in 4 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend using Flutter feature flags over platform-specific configs<br />
-  <sub>[#172324](https://github.com/flutter/flutter/pull/172324) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172324) 37 additions and 4 deletions in 1 file</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Render Flutter in its own EGL context<br />
   <sub>[#172330](https://github.com/flutter/flutter/pull/172330) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172330) 61 additions and 101 deletions in 5 files</sub><br />
 
