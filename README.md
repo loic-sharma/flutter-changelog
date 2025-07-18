@@ -4,7 +4,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-50 commits.
+51 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Remove all usages of js_util.<br />
   <sub>[#171871](https://github.com/flutter/flutter/pull/171871) merged on July 16, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/171871) over 1 week, 287 additions and 244 deletions in 26 files</sub><br />
@@ -72,13 +72,13 @@
   <sub>[#171923](https://github.com/flutter/flutter/pull/171923) merged on July 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171923) over 1 week, 108 additions and 65 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Fix Size.isEmpty description<br />
-  <sub>[#172021](https://github.com/flutter/flutter/pull/172021) merged on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172021) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Perform OpenGL compositing in the Flutter thread and write to a framebuffer.<br />
   <sub>[#172090](https://github.com/flutter/flutter/pull/172090) merged on July 17, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/172090) over 2 days, 335 additions and 294 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Torikul Islam Topu](https://github.com/iamtoricool)** &mdash; feat: Add `maxCount` parameter to `Badge.count` constructor.<br />
+  <sub>[#171054](https://github.com/flutter/flutter/pull/171054) merged on July 17, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/171054) over 3 weeks, 80 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Pranav](https://github.com/pranavo72bex), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [Android] remove obsolete gradle api in FGP<br />
   <sub>[#172085](https://github.com/flutter/flutter/pull/172085) merged on July 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172085) over 2 days, 188 additions and 5 deletions in 3 files</sub><br />
@@ -100,9 +100,9 @@
   <sub>[#170223](https://github.com/flutter/flutter/pull/170223) merged on July 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/170223) over 1 month, 18 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Torikul Islam Topu](https://github.com/iamtoricool)** &mdash; feat: Add `maxCount` parameter to `Badge.count` constructor.<br />
-  <sub>[#171054](https://github.com/flutter/flutter/pull/171054) merged on July 17, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/171054) over 3 weeks, 80 additions and 5 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Pranav](https://github.com/pranavo72bex), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Fix Size.isEmpty description<br />
+  <sub>[#172021](https://github.com/flutter/flutter/pull/172021) merged on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172021) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Platform views shouldn't receive pointer events when not laid out<br />
   <sub>[#172043](https://github.com/flutter/flutter/pull/172043) merged on July 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172043) over 5 days, 197 additions and 0 deletions in 2 files</sub><br />
@@ -140,16 +140,12 @@
   <sub>[#171282](https://github.com/flutter/flutter/pull/171282) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171282) over 2 weeks, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove dead link in the doc index.<br />
-  <sub>[#172240](https://github.com/flutter/flutter/pull/172240) merged on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172240) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `release-*.version` to simplify `last_engine_commit.sh` (no branch operations)<br />
+  <sub>[#172236](https://github.com/flutter/flutter/pull/172236) merged on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172236) over 10 minutes, 37 additions and 58 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix use of `Join-Path` in `last_engine_commit.ps1`(poweshell)<br />
   <sub>[#172242](https://github.com/flutter/flutter/pull/172242) merged on July 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172242) over 29 minutes, 3 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `release-*.version` to simplify `last_engine_commit.sh` (no branch operations)<br />
-  <sub>[#172236](https://github.com/flutter/flutter/pull/172236) merged on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172236) over 10 minutes, 37 additions and 58 deletions in 3 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: documentation around led launch broken<br />
@@ -160,9 +156,9 @@
   <sub>[#172031](https://github.com/flutter/flutter/pull/172031) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172031) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.<br />
-  <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Apply superellipse clipping to iOS platform views using an approximated round rect<br />
+  <sub>[#172033](https://github.com/flutter/flutter/pull/172033) merged on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172033) over 2 days, 81 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix a race in FlutterEngineTest.CanLogToStdout<br />
   <sub>[#172025](https://github.com/flutter/flutter/pull/172025) merged on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172025) over 5 days, 9 additions and 1 deletion in 2 files</sub><br />
@@ -176,17 +172,25 @@
   <sub>[#172253](https://github.com/flutter/flutter/pull/172253) merged on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172253) over 17 minutes, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Apply superellipse clipping to iOS platform views using an approximated round rect<br />
-  <sub>[#172033](https://github.com/flutter/flutter/pull/172033) merged on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172033) over 2 days, 81 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.<br />
+  <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor handling of frame waiting.<br />
-  <sub>[#172277](https://github.com/flutter/flutter/pull/172277) merged on July 18, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172277) over 20 hours, 80 additions and 226 deletions in 11 files</sub><br />
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove dead link in the doc index.<br />
+  <sub>[#172240](https://github.com/flutter/flutter/pull/172240) merged on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172240) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Add missing param to makeRasterImage calls<br />
   <sub>[#172122](https://github.com/flutter/flutter/pull/172122) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172122) over 1 day, 20 additions and 16 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Mark Mac_* tool_tests_commands as bringup to unblock tree<br />
+  <sub>[#172388](https://github.com/flutter/flutter/pull/172388) merged on July 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172388) over 5 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add OS version support section to plugin docs<br />
+  <sub>[#172316](https://github.com/flutter/flutter/pull/172316) merged on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172316) over 15 hours, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup unnecessary dart defines and renderer in web tests<br />
   <sub>[#172130](https://github.com/flutter/flutter/pull/172130) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172130) over 57 minutes, 54 additions and 105 deletions in 1 file</sub><br />
@@ -196,13 +200,13 @@
   <sub>[#172104](https://github.com/flutter/flutter/pull/172104) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172104) over 6 hours, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor handling of frame waiting.<br />
+  <sub>[#172277](https://github.com/flutter/flutter/pull/172277) merged on July 18, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172277) over 20 hours, 80 additions and 226 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Downgrade and pin DDS to 5.0.3<br />
   <sub>[#172120](https://github.com/flutter/flutter/pull/172120) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172120) over 45 minutes, 4 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add OS version support section to plugin docs<br />
-  <sub>[#172316](https://github.com/flutter/flutter/pull/172316) merged on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172316) over 15 hours, 11 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reland "Add feature flags to the framework"<br />
   <sub>[#171545](https://github.com/flutter/flutter/pull/171545) merged on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171545) over 1 week, 297 additions and 1 deletion in 13 files</sub><br />
