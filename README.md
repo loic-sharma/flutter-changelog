@@ -968,6 +968,10 @@
   <sub>[#12203](https://github.com/flutter/website/pull/12203) merged on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12203) over 5 hours, 73 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Add compass-25 go/ link to firebase.json<br />
+  <sub>[#12215](https://github.com/flutter/website/pull/12215) merged on July 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12215) over 42 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add breaking changes doc for form role changes<br />
   <sub>[#12200](https://github.com/flutter/website/pull/12200) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12200) over 2 days, 79 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
@@ -975,10 +979,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add overlay window design doc<br />
   <sub>[#12213](https://github.com/flutter/website/pull/12213) merged on July 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12213) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
-* **[John Ryan](https://github.com/johnpryan)** &mdash; Add compass-25 go/ link to firebase.json<br />
-  <sub>[#12215](https://github.com/flutter/website/pull/12215) merged on July 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12215) over 42 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[James Williams](https://github.com/jwill)** &mdash; Document homescreen widget options for iOS and Android<br />
   <sub>[#12210](https://github.com/flutter/website/pull/12210) merged on July 16, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12210) over 1 day, 26 additions and 0 deletions in 2 files</sub><br />
