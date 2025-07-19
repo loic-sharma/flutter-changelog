@@ -156,5 +156,5 @@
   <sub>[#172412](https://github.com/flutter/flutter/pull/172412) opened on on July 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172412) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Migrate to null aware elements - Part 5<br />
-  <sub>[#172418](https://github.com/flutter/flutter/pull/172418) opened on on July 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172418) 54 additions and 90 deletions in 34 files</sub><br />
+  <sub>[#172418](https://github.com/flutter/flutter/pull/172418) opened on on July 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172418) 52 additions and 95 deletions in 34 files</sub><br />
 
