@@ -982,7 +982,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-9 commits.
+10 commits.
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Add migration guide for moving the gradle files
   <sub>[#12203](https://github.com/flutter/website/pull/12203) merged on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12203) over 5 hours, 73 additions and 0 deletions in 1 file</sub>
@@ -1002,6 +1002,10 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add breaking changes doc for form role changes
   <sub>[#12200](https://github.com/flutter/website/pull/12200) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12200) over 2 days, 79 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[René Kilczan](https://github.com/rekire)** &mdash; Fix path to build directory in migration guide
+  <sub>[#12223](https://github.com/flutter/website/pull/12223) merged on July 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12223) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add overlay window design doc
