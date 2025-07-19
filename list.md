@@ -125,7 +125,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Harkirat Singh [SSW]](https://github.com/0xharkirat)** &mdash; Adopt Null-Aware Elements in `packages/flutter/lib/src/material`
-  <sub>[#172285](https://github.com/flutter/flutter/pull/172285) merged on July 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172285) over 1 day, 16 additions and 25 deletions in 5 files</sub>
+  <sub>[#172285](https://github.com/flutter/flutter/pull/172285) merged on July 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/172285) over 1 day, 16 additions and 25 deletions in 5 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tirth Patel](https://github.com/tirth-patel-nc)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Decrease reliance on finalizers/GC
