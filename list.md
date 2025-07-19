@@ -982,7 +982,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-7 commits.
+9 commits.
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Add migration guide for moving the gradle files
   <sub>[#12203](https://github.com/flutter/website/pull/12203) merged on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12203) over 5 hours, 73 additions and 0 deletions in 1 file</sub>
@@ -991,6 +991,14 @@
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add compass-25 go/ link to firebase.json
   <sub>[#12215](https://github.com/flutter/website/pull/12215) merged on July 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12215) over 42 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add SliverFillRemaining to the widget catalog
+  <sub>[#12218](https://github.com/flutter/website/pull/12218) merged on July 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12218) over 19 hours, 8 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Craig Labenz](https://github.com/craiglabenz), [Kate Lovett](https://github.com/Piinks), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add Sliver widgets to the Scrolling widget catalog
+  <sub>[#12219](https://github.com/flutter/website/pull/12219) merged on July 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12219) over 19 hours, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add breaking changes doc for form role changes
   <sub>[#12200](https://github.com/flutter/website/pull/12200) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12200) over 2 days, 79 additions and 0 deletions in 2 files</sub>
