@@ -162,5 +162,5 @@
   <sub>[#172421](https://github.com/flutter/flutter/pull/172421) opened on on July 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172421) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Dilan Ghareeb](https://github.com/DilanGhareeb)** &mdash; Add Central Kurdish (ckb) localization<br />
-  <sub>[#172423](https://github.com/flutter/flutter/pull/172423) opened on on July 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172423) 229 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#172423](https://github.com/flutter/flutter/pull/172423) opened on on July 20, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/172423) 960 additions and 0 deletions in 7 files</sub><br />
 
