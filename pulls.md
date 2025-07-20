@@ -141,7 +141,7 @@
   <sub>[#172373](https://github.com/flutter/flutter/pull/172373) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172373) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix ReorderableList proxy animation when returning to original position<br />
-  <sub>[#172380](https://github.com/flutter/flutter/pull/172380) opened on on July 18, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172380) 335 additions and 3 deletions in 7 files</sub><br />
+  <sub>[#172380](https://github.com/flutter/flutter/pull/172380) opened on on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172380) 255 additions and 3 deletions in 7 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Take Mac_* tool_tests_commands out of bringup<br />
   <sub>[#172398](https://github.com/flutter/flutter/pull/172398) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172398) 15 additions and 10 deletions in 7 files</sub><br />
