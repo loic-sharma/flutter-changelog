@@ -161,3 +161,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AboutListTile doesn't crash in 0x0 environment<br />
   <sub>[#172421](https://github.com/flutter/flutter/pull/172421) opened on on July 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172421) 14 additions and 0 deletions in 1 file</sub><br />
 
+* **[Dilan Ghareeb](https://github.com/DilanGhareeb)** &mdash; Add Central Kurdish (ckb) localization<br />
+  <sub>[#172423](https://github.com/flutter/flutter/pull/172423) opened on on July 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172423) 229 additions and 0 deletions in 3 files</sub><br />
+
