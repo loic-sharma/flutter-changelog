@@ -790,7 +790,7 @@
 
 ### July 12, 2025 to July 18, 2025
 
-14 commits.
+15 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add setMixedContentMode for Android<br />
   <sub>[#9586](https://github.com/flutter/packages/pull/9586) merged on July 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9586) over 5 days, 271 additions and 1 deletion in 12 files</sub><br />
@@ -824,6 +824,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Replace Flutter method failure assertion with nslog<br />
   <sub>[#9587](https://github.com/flutter/packages/pull/9587) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9587) over 5 days, 32 additions and 6 deletions in 5 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Have Gemini ignore Flutter version pin<br />
+  <sub>[#9647](https://github.com/flutter/packages/pull/9647) merged on July 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9647) over 1 day, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Update androidx.webkit to 1.14.0<br />
   <sub>[#9638](https://github.com/flutter/packages/pull/9638) merged on July 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9638) over 3 hours, 6 additions and 2 deletions in 3 files</sub><br />
