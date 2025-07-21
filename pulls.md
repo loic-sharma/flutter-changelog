@@ -143,6 +143,9 @@
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix ReorderableList proxy animation when returning to original position<br />
   <sub>[#172380](https://github.com/flutter/flutter/pull/172380) opened on on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172380) 255 additions and 3 deletions in 7 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add a way to request new `Surface`s from `SurfaceProducer` …<br />
+  <sub>[#172384](https://github.com/flutter/flutter/pull/172384) opened on on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172384) 87 additions and 0 deletions in 6 files</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Take Mac_* tool_tests_commands out of bringup<br />
   <sub>[#172398](https://github.com/flutter/flutter/pull/172398) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172398) 15 additions and 10 deletions in 7 files</sub><br />
 
