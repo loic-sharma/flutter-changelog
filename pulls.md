@@ -146,3 +146,9 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Hide `flutter assemble` unless `--verbose`<br />
   <sub>[#172508](https://github.com/flutter/flutter/pull/172508) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172508) 52 additions and 1 deletion in 3 files</sub><br />
 
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; [Test PR do not review] Test<br />
+  <sub>[#172509](https://github.com/flutter/flutter/pull/172509) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172509) 5 additions and 1 deletion in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Prefix generated Dart plugin imports for `registerWith`<br />
+  <sub>[#172511](https://github.com/flutter/flutter/pull/172511) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172511) 10 additions and 10 deletions in 2 files</sub><br />
+
