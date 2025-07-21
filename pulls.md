@@ -150,5 +150,5 @@
   <sub>[#172444](https://github.com/flutter/flutter/pull/172444) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172444) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Revert #160653 Fix view removal process for AutofillContextAction.cancel<br />
-  <sub>[#172490](https://github.com/flutter/flutter/pull/172490) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172490) 2 additions and 26 deletions in 2 files</sub><br />
+  <sub>[#172490](https://github.com/flutter/flutter/pull/172490) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172490) 2 additions and 26 deletions in 2 files</sub><br />
 
