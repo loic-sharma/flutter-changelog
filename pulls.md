@@ -161,3 +161,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][canvaskit] Manually trigger `input` event in text editing tests for Safari<br />
   <sub>[#172462](https://github.com/flutter/flutter/pull/172462) opened on on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172462) 13 additions and 5 deletions in 3 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP stable] Run tests on either macOS 14 or 15 (#171076)<br />
+  <sub>[#172480](https://github.com/flutter/flutter/pull/172480) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172480) 87 additions and 87 deletions in 10 files</sub><br />
+

@@ -4,11 +4,31 @@
 
 ### July 19, 2025 to July 25, 2025
 
-2 commits.
+7 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
+  <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jaime Wren](https://github.com/jwren), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; WebParagraph initial commit<br />
   <sub>[#167559](https://github.com/flutter/flutter/pull/167559) merged on July 21, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/167559) over 3 months, 2161 additions and 86 deletions in 22 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip [tool] crash reporting on `--local-engine`<br />
+  <sub>[#172326](https://github.com/flutter/flutter/pull/172326) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172326) over 3 days, 85 additions and 19 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `$dartSdkVersion` when creating "dummy" pubspec for `create_api_docs`<br />
+  <sub>[#172327](https://github.com/flutter/flutter/pull/172327) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172327) over 3 days, 11 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Adds `(defaults to ___)` when using `flutter config --help`<br />
+  <sub>[#172329](https://github.com/flutter/flutter/pull/172329) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172329) over 3 days, 13 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning on usage of `dartPluginClass: 'none'`.<br />
+  <sub>[#172315](https://github.com/flutter/flutter/pull/172315) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172315) over 3 days, 121 additions and 6 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update call to SkImage::makeSubset<br />
   <sub>[#172456](https://github.com/flutter/flutter/pull/172456) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172456) over 1 hour, 3 additions and 2 deletions in 1 file</sub><br />
