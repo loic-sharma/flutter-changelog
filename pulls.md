@@ -143,3 +143,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 11 additions and 8 deletions in 3 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Adjust CupertinoCheckbox padding from 44px to 18px<br />
+  <sub>[#172502](https://github.com/flutter/flutter/pull/172502) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172502) 4 additions and 3 deletions in 2 files</sub><br />
+
