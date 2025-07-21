@@ -117,7 +117,7 @@
   <sub>[#172322](https://github.com/flutter/flutter/pull/172322) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172322) 13 additions and 16 deletions in 4 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Render Flutter in its own EGL context<br />
-  <sub>[#172330](https://github.com/flutter/flutter/pull/172330) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172330) 61 additions and 101 deletions in 5 files</sub><br />
+  <sub>[#172330](https://github.com/flutter/flutter/pull/172330) opened on on July 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172330) 61 additions and 101 deletions in 5 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove GtkGLArea and render directly into GtkDrawingArea<br />
   <sub>[#172343](https://github.com/flutter/flutter/pull/172343) opened on on July 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/172343) 242 additions and 294 deletions in 12 files</sub><br />
@@ -151,13 +151,4 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AboutDialog doesn't crash in 0x0 environment<br />
   <sub>[#172444](https://github.com/flutter/flutter/pull/172444) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172444) 14 additions and 0 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP stable] Don't throw on error for mDNS when searching for Dart VML url on core devices<br />
-  <sub>[#172461](https://github.com/flutter/flutter/pull/172461) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172461) 90 additions and 18 deletions in 4 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][canvaskit] Manually trigger `input` event in text editing tests for Safari<br />
-  <sub>[#172462](https://github.com/flutter/flutter/pull/172462) opened on on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172462) 13 additions and 5 deletions in 3 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP stable] Run tests on either macOS 14 or 15 (#171076)<br />
-  <sub>[#172480](https://github.com/flutter/flutter/pull/172480) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172480) 87 additions and 87 deletions in 10 files</sub><br />
 
