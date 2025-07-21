@@ -170,3 +170,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AboutDialog doesn't crash in 0x0 environment<br />
   <sub>[#172444](https://github.com/flutter/flutter/pull/172444) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172444) 14 additions and 0 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP stable] Don't throw on error for mDNS when searching for Dart VML url on core devices<br />
+  <sub>[#172461](https://github.com/flutter/flutter/pull/172461) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172461) 90 additions and 18 deletions in 4 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][canvaskit] Manually trigger `input` event in text editing tests for Safari<br />
+  <sub>[#172462](https://github.com/flutter/flutter/pull/172462) opened on on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172462) 13 additions and 5 deletions in 3 files</sub><br />
+
