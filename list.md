@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-16 commits.
+17 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub>
@@ -49,6 +49,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning on usage of `dartPluginClass: 'none'`.
   <sub>[#172315](https://github.com/flutter/flutter/pull/172315) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172315) over 3 days, 121 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Render Flutter in its own EGL context
+  <sub>[#172330](https://github.com/flutter/flutter/pull/172330) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172330) over 3 days, 61 additions and 101 deletions in 5 files</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[p1318k](https://github.com/p1318k)** &mdash; fix: macOS Mojave Crash on Flutter Desktop Startup
   <sub>[#172282](https://github.com/flutter/flutter/pull/172282) merged on July 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172282) over 4 days, 4 additions and 2 deletions in 1 file</sub>
@@ -795,9 +799,18 @@
 
 ## flutter/website
 
+### July 19, 2025 to July 25, 2025
+
+1 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document the existence of a `licenses: ...` field (`pubspec.yaml`)
+  <sub>[#12227](https://github.com/flutter/website/pull/12227) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12227) over 5 hours, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### July 12, 2025 to July 18, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Add migration guide for moving the gradle files
   <sub>[#12203](https://github.com/flutter/website/pull/12203) merged on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12203) over 5 hours, 73 additions and 0 deletions in 1 file</sub>
@@ -838,6 +851,8 @@
 * **[aCrispyCookie](https://github.com/Cookiecodess)** &mdash; Fix broken link in app-architecture/case-study
   <sub>[#12207](https://github.com/flutter/website/pull/12207) merged on July 16, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12207) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### July 5, 2025 to July 11, 2025
 

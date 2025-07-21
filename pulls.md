@@ -104,9 +104,6 @@
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 4<br />
   <sub>[#172322](https://github.com/flutter/flutter/pull/172322) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172322) 13 additions and 16 deletions in 4 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Render Flutter in its own EGL context<br />
-  <sub>[#172330](https://github.com/flutter/flutter/pull/172330) opened on on July 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172330) 61 additions and 101 deletions in 5 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove GtkGLArea and render directly into GtkDrawingArea<br />
   <sub>[#172343](https://github.com/flutter/flutter/pull/172343) opened on on July 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/172343) 242 additions and 294 deletions in 12 files</sub><br />
 
