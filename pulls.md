@@ -167,3 +167,6 @@
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix #160622: Restore watchOS Companion App Build Compatibility<br />
   <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172436) 6 additions and 5 deletions in 1 file</sub><br />
 
+* **[ParkJuneWoo](https://github.com/korca0220)** &mdash; Add non uniform TableBorder<br />
+  <sub>[#172441](https://github.com/flutter/flutter/pull/172441) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172441) 188 additions and 31 deletions in 2 files</sub><br />
+
