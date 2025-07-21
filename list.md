@@ -4,7 +4,11 @@
 
 ### July 19, 2025 to July 25, 2025
 
-1 commits.
+2 commits.
+
+* **[Rusino](https://github.com/Rusino)** &mdash; WebParagraph initial commit
+  <sub>[#167559](https://github.com/flutter/flutter/pull/167559) merged on July 21, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/167559) over 3 months, 2161 additions and 86 deletions in 22 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update call to SkImage::makeSubset
   <sub>[#172456](https://github.com/flutter/flutter/pull/172456) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172456) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
@@ -586,9 +590,18 @@
 
 ## flutter/packages
 
+### July 19, 2025 to July 25, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Update to GoogleSignIn-iOS 9
+  <sub>[#9655](https://github.com/flutter/packages/pull/9655) merged on July 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9655) over 1 hour, 55 additions and 9 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub>
+
 ### July 12, 2025 to July 18, 2025
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add setMixedContentMode for Android
   <sub>[#9586](https://github.com/flutter/packages/pull/9586) merged on July 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9586) over 5 days, 271 additions and 1 deletion in 12 files</sub>
@@ -650,6 +663,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 077b4a4ce10a to d7b523b356d1 (3 revisions)
   <sub>[#9640](https://github.com/flutter/packages/pull/9640) merged on July 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9640) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### July 5, 2025 to July 11, 2025
 

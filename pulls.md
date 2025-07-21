@@ -111,7 +111,7 @@
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 168 additions and 0 deletions in 6 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use baseUri always when doing a hot reload or hot restart<br />
-  <sub>[#172271](https://github.com/flutter/flutter/pull/172271) opened on on July 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172271) 9 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#172271](https://github.com/flutter/flutter/pull/172271) opened on on July 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172271) 9 additions and 9 deletions in 3 files</sub><br />
 
 * **[p1318k](https://github.com/p1318k)** &mdash; fix: macOS Mojave Crash on Flutter Desktop Startup<br />
   <sub>[#172282](https://github.com/flutter/flutter/pull/172282) opened on on July 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172282) 4 additions and 2 deletions in 1 file</sub><br />
@@ -142,9 +142,6 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add a way to request new `Surface`s from `SurfaceProducer` …<br />
   <sub>[#172384](https://github.com/flutter/flutter/pull/172384) opened on on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172384) 87 additions and 0 deletions in 6 files</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Take Mac_* tool_tests_commands out of bringup<br />
-  <sub>[#172398](https://github.com/flutter/flutter/pull/172398) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172398) 15 additions and 10 deletions in 7 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 bottom navigation bar<br />
   <sub>[#172404](https://github.com/flutter/flutter/pull/172404) opened on on July 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172404) 23 additions and 0 deletions in 1 file</sub><br />
