@@ -31,7 +31,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts<br />
-  <sub>[#171927](https://github.com/flutter/flutter/pull/171927) merged on July 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/171927) over 1 week, 77 additions and 47 deletions in 5 files</sub><br />
+  <sub>[#171927](https://github.com/flutter/flutter/pull/171927) merged on July 21, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171927) over 1 week, 77 additions and 47 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add support for `/?` to alias to `--help`<br />
