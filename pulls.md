@@ -143,9 +143,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix empty first frame in multiview mode<br />
   <sub>[#172493](https://github.com/flutter/flutter/pull/172493) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172493) 5 additions and 1 deletion in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Wraps all `git` executions in a `Git(...).*`, use `*=noglob` on Windows<br />
-  <sub>[#172495](https://github.com/flutter/flutter/pull/172495) opened on on July 21, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172495) 443 additions and 189 deletions in 13 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 11 additions and 8 deletions in 3 files</sub><br />
 
