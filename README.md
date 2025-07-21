@@ -4,11 +4,15 @@
 
 ### July 19, 2025 to July 25, 2025
 
-14 commits.
+15 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jaime Wren](https://github.com/jwren), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Wrap `ShutdownHook` calls to avoid crashing the tool<br />
+  <sub>[#171917](https://github.com/flutter/flutter/pull/171917) merged on July 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171917) over 1 week, 56 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; WebParagraph initial commit<br />
   <sub>[#167559](https://github.com/flutter/flutter/pull/167559) merged on July 21, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/167559) over 3 months, 2161 additions and 86 deletions in 22 files</sub><br />
