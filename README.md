@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-7 commits.
+9 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
@@ -14,9 +14,17 @@
   <sub>[#167559](https://github.com/flutter/flutter/pull/167559) merged on July 21, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/167559) over 3 months, 2161 additions and 86 deletions in 22 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Upgrade flutter_lints in project template pubspec.yaml files<br />
+  <sub>[#172400](https://github.com/flutter/flutter/pull/172400) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172400) over 2 days, 6 additions and 8 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip [tool] crash reporting on `--local-engine`<br />
   <sub>[#172326](https://github.com/flutter/flutter/pull/172326) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172326) over 3 days, 85 additions and 19 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add support for `/?` to alias to `--help`<br />
+  <sub>[#172328](https://github.com/flutter/flutter/pull/172328) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172328) over 3 days, 18 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `$dartSdkVersion` when creating "dummy" pubspec for `create_api_docs`<br />
   <sub>[#172327](https://github.com/flutter/flutter/pull/172327) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172327) over 3 days, 11 additions and 10 deletions in 2 files</sub><br />

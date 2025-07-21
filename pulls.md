@@ -80,9 +80,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
 
-* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry<br />
-  <sub>[#172056](https://github.com/flutter/flutter/pull/172056) opened on on July 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172056) 85 additions and 18 deletions in 2 files</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-334.0.dev<br />
   <sub>[#172087](https://github.com/flutter/flutter/pull/172087) opened on on July 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172087) 1 addition and 1 deletion in 1 file</sub><br />
 
