@@ -12,7 +12,7 @@
   <sub>[#166312](https://github.com/flutter/flutter/pull/166312) opened on on April 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166312) 16 additions and 19 deletions in 8 files</sub><br />
 
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
-  <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
+  <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
@@ -40,9 +40,6 @@
 
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix NaN/Infinity crash in RenderSliverFixedExtentBoxAdaptor<br />
   <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove `x86` from README.md<br />
-  <sub>[#170961](https://github.com/flutter/flutter/pull/170961) opened on on June 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170961) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
@@ -113,9 +110,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use baseUri always when doing a hot reload or hot restart<br />
   <sub>[#172271](https://github.com/flutter/flutter/pull/172271) opened on on July 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172271) 9 additions and 9 deletions in 3 files</sub><br />
 
-* **[p1318k](https://github.com/p1318k)** &mdash; fix: macOS Mojave Crash on Flutter Desktop Startup<br />
-  <sub>[#172282](https://github.com/flutter/flutter/pull/172282) opened on on July 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172282) 4 additions and 2 deletions in 1 file</sub><br />
-
 * **[Andrii Pyvovarov](https://github.com/Andro999b)** &mdash; fix: focus traversal into nested scrollable <br />
   <sub>[#172283](https://github.com/flutter/flutter/pull/172283) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172283) 154 additions and 3 deletions in 2 files</sub><br />
 
@@ -130,9 +124,6 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove GtkGLArea and render directly into GtkDrawingArea<br />
   <sub>[#172343](https://github.com/flutter/flutter/pull/172343) opened on on July 18, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/172343) 242 additions and 294 deletions in 12 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update BUILD.gn to mention that min supported API level is 24<br />
-  <sub>[#172359](https://github.com/flutter/flutter/pull/172359) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172359) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Card doesn't crash in 0x0 environment<br />
   <sub>[#172373](https://github.com/flutter/flutter/pull/172373) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172373) 14 additions and 0 deletions in 1 file</sub><br />
