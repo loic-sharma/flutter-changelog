@@ -42,7 +42,7 @@
   <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
 
 * **[Lewin Pauli](https://github.com/lewinpauli)** &mdash; Added computeDryBaseline implementation in RenderShiftedBox<br />
   <sub>[#171250](https://github.com/flutter/flutter/pull/171250) opened on on June 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171250) 29 additions and 5 deletions in 1 file</sub><br />
@@ -54,7 +54,7 @@
   <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171638) 175 additions and 0 deletions in 8 files</sub><br />
 
 * **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
-  <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171646) 60 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171646) 60 additions and 7 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true and added simple test case<br />
   <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171648) 213 additions and 1 deletion in 3 files</sub><br />
@@ -81,7 +81,7 @@
   <sub>[#172087](https://github.com/flutter/flutter/pull/172087) opened on on July 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172087) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `AlignmentDirectional.resolve`<br />
-  <sub>[#172096](https://github.com/flutter/flutter/pull/172096) opened on on July 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172096) 35 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#172096](https://github.com/flutter/flutter/pull/172096) opened on on July 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172096) 35 additions and 2 deletions in 2 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `EdgeInsetsDirectional.resolve`<br />
   <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172099) 46 additions and 2 deletions in 2 files</sub><br />
@@ -100,9 +100,6 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 168 additions and 0 deletions in 6 files</sub><br />
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use baseUri always when doing a hot reload or hot restart<br />
-  <sub>[#172271](https://github.com/flutter/flutter/pull/172271) opened on on July 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172271) 9 additions and 9 deletions in 3 files</sub><br />
 
 * **[Andrii Pyvovarov](https://github.com/Andro999b)** &mdash; fix: focus traversal into nested scrollable <br />
   <sub>[#172283](https://github.com/flutter/flutter/pull/172283) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172283) 154 additions and 3 deletions in 2 files</sub><br />
@@ -151,4 +148,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Revert #160653 Fix view removal process for AutofillContextAction.cancel<br />
   <sub>[#172490](https://github.com/flutter/flutter/pull/172490) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172490) 2 additions and 26 deletions in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix empty first frame in multiview mode<br />
+  <sub>[#172493](https://github.com/flutter/flutter/pull/172493) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172493) 5 additions and 1 deletion in 2 files</sub><br />
 

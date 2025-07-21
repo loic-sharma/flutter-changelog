@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-9 commits.
+13 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub>
@@ -22,6 +22,10 @@
   <sub>[#172326](https://github.com/flutter/flutter/pull/172326) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172326) over 3 days, 85 additions and 19 deletions in 2 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts
+  <sub>[#171927](https://github.com/flutter/flutter/pull/171927) merged on July 21, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/171927) over 1 week, 77 additions and 47 deletions in 5 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add support for `/?` to alias to `--help`
   <sub>[#172328](https://github.com/flutter/flutter/pull/172328) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172328) over 3 days, 18 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -37,6 +41,18 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning on usage of `dartPluginClass: 'none'`.
   <sub>[#172315](https://github.com/flutter/flutter/pull/172315) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172315) over 3 days, 121 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add CLA note to tree hygiene
+  <sub>[#172475](https://github.com/flutter/flutter/pull/172475) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172475) over 36 minutes, 6 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `radioInnerRadius` to `RadioListTile`
+  <sub>[#171851](https://github.com/flutter/flutter/pull/171851) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171851) over 1 week, 30 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use baseUri always when doing a hot reload or hot restart
+  <sub>[#172271](https://github.com/flutter/flutter/pull/172271) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172271) over 4 days, 9 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update call to SkImage::makeSubset
   <sub>[#172456](https://github.com/flutter/flutter/pull/172456) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172456) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
