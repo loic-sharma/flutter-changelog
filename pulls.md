@@ -38,9 +38,6 @@
 * **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix TreeSliver null check assertion on rapid toggling<br />
   <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
 
-* **[Samuel Ssekizinvu](https://github.com/samuelkchris)** &mdash; Fix NaN/Infinity crash in RenderSliverFixedExtentBoxAdaptor<br />
-  <sub>[#170931](https://github.com/flutter/flutter/pull/170931) opened on on June 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/170931) 80 additions and 2 deletions in 2 files</sub><br />
-
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
 
@@ -147,7 +144,7 @@
   <sub>[#172493](https://github.com/flutter/flutter/pull/172493) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172493) 5 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Wraps all `git` executions in a `Git(...).*`, use `*=noglob` on Windows<br />
-  <sub>[#172495](https://github.com/flutter/flutter/pull/172495) opened on on July 21, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172495) 444 additions and 189 deletions in 13 files</sub><br />
+  <sub>[#172495](https://github.com/flutter/flutter/pull/172495) opened on on July 21, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172495) 443 additions and 189 deletions in 13 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 11 additions and 8 deletions in 3 files</sub><br />
