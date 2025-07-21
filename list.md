@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-13 commits.
+14 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub>
@@ -41,6 +41,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning on usage of `dartPluginClass: 'none'`.
   <sub>[#172315](https://github.com/flutter/flutter/pull/172315) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172315) over 3 days, 121 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[p1318k](https://github.com/p1318k)** &mdash; fix: macOS Mojave Crash on Flutter Desktop Startup
+  <sub>[#172282](https://github.com/flutter/flutter/pull/172282) merged on July 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172282) over 4 days, 4 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add CLA note to tree hygiene
   <sub>[#172475](https://github.com/flutter/flutter/pull/172475) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172475) over 36 minutes, 6 additions and 0 deletions in 1 file</sub>
