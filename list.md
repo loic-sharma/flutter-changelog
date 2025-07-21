@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### July 19, 2025 to July 25, 2025
+
+1 commits.
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update call to SkImage::makeSubset
+  <sub>[#172456](https://github.com/flutter/flutter/pull/172456) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172456) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 ### July 12, 2025 to July 18, 2025
 
-56 commits.
+<details>
+<summary>56 commits...</summary>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Remove all usages of js_util.
   <sub>[#171871](https://github.com/flutter/flutter/pull/171871) merged on July 16, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/171871) over 1 week, 287 additions and 244 deletions in 26 files</sub>
@@ -231,6 +240,8 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reland "Add feature flags to the framework"
   <sub>[#171545](https://github.com/flutter/flutter/pull/171545) merged on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171545) over 1 week, 297 additions and 1 deletion in 13 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+</details>
 
 ### July 5, 2025 to July 11, 2025
 
