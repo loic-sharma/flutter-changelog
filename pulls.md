@@ -143,9 +143,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 11 additions and 8 deletions in 3 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Hide `flutter assemble` unless `--verbose`<br />
-  <sub>[#172508](https://github.com/flutter/flutter/pull/172508) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172508) 52 additions and 1 deletion in 3 files</sub><br />
-
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; [Test PR do not review] Test<br />
   <sub>[#172509](https://github.com/flutter/flutter/pull/172509) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172509) 5 additions and 1 deletion in 1 file</sub><br />
 
