@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-25 commits.
+26 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
@@ -73,6 +73,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add CLA note to tree hygiene<br />
   <sub>[#172475](https://github.com/flutter/flutter/pull/172475) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172475) over 36 minutes, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts<br />
+  <sub>[#172552](https://github.com/flutter/flutter/pull/172552) merged on July 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172552) over 2 hours, 122 additions and 60 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Hide `flutter assemble` unless `--verbose`<br />
   <sub>[#172508](https://github.com/flutter/flutter/pull/172508) merged on July 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172508) over 6 hours, 52 additions and 1 deletion in 3 files</sub><br />
@@ -833,10 +837,14 @@
 
 ### July 19, 2025 to July 25, 2025
 
-1 commits.
+2 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document the existence of a `licenses: ...` field (`pubspec.yaml`)<br />
   <sub>[#12227](https://github.com/flutter/website/pull/12227) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12227) over 5 hours, 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pnpm and various npm deps<br />
+  <sub>[#12229](https://github.com/flutter/website/pull/12229) merged on July 22, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12229) over 8 hours, 218 additions and 208 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### July 12, 2025 to July 18, 2025
