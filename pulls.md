@@ -144,11 +144,11 @@
   <sub>[#172511](https://github.com/flutter/flutter/pull/172511) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172511) 10 additions and 10 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses cpp ignore whitespace<br />
-  <sub>[#172512](https://github.com/flutter/flutter/pull/172512) opened on on July 21, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172512) 1677 additions and 132 deletions in 5 files</sub><br />
+  <sub>[#172512](https://github.com/flutter/flutter/pull/172512) opened on on July 21, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172512) 1677 additions and 132 deletions in 5 files</sub><br />
 
 * **[Ashwin Sajeev](https://github.com/a5xwin)** &mdash; fixed issue #159933<br />
   <sub>[#172546](https://github.com/flutter/flutter/pull/172546) opened on on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172546) 40 additions and 31 deletions in 3 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts<br />
-  <sub>[#172552](https://github.com/flutter/flutter/pull/172552) opened on on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172552) 122 additions and 60 deletions in 10 files</sub><br />
+  <sub>[#172552](https://github.com/flutter/flutter/pull/172552) opened on on July 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172552) 122 additions and 60 deletions in 10 files</sub><br />
 
