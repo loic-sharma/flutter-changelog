@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-24 commits.
+25 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
@@ -61,6 +61,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Adds `(defaults to ___)` when using `flutter config --help`<br />
   <sub>[#172329](https://github.com/flutter/flutter/pull/172329) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172329) over 3 days, 13 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[nakanoh](https://github.com/nakanoh)** &mdash; fix: correct typo in analysis_options.yaml comment (disabeling -> disabling)<br />
+  <sub>[#170206](https://github.com/flutter/flutter/pull/170206) merged on July 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170206) over 1 month, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add hitTestChildren to baseline-aligned stack<br />
   <sub>[#172485](https://github.com/flutter/flutter/pull/172485) merged on July 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172485) over 8 hours, 29 additions and 0 deletions in 2 files</sub><br />
