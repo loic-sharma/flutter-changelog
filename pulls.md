@@ -138,11 +138,14 @@
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 12 additions and 9 deletions in 3 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Prefix generated Dart plugin imports for `registerWith`<br />
-  <sub>[#172511](https://github.com/flutter/flutter/pull/172511) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172511) 10 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#172511](https://github.com/flutter/flutter/pull/172511) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172511) 10 additions and 10 deletions in 2 files</sub><br />
 
 * **[Ashwin Sajeev](https://github.com/a5xwin)** &mdash; fixed issue #159933<br />
   <sub>[#172546](https://github.com/flutter/flutter/pull/172546) opened on on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172546) 40 additions and 31 deletions in 3 files</sub><br />
 
 * **[Sheniah_SH](https://github.com/sheinah)** &mdash; Master<br />
   <sub>[#172564](https://github.com/flutter/flutter/pull/172564) opened on on July 22, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172564) 944662 additions and 949 deletions in 1141 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; revert:  Replaces legacy licenses check with licenses_cpp<br />
+  <sub>[#172568](https://github.com/flutter/flutter/pull/172568) opened on on July 22, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172568) 67749 additions and 35365 deletions in 4 files</sub><br />
 
