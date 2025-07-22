@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-21 commits.
+23 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
@@ -38,6 +38,10 @@
   <sub>[#172326](https://github.com/flutter/flutter/pull/172326) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172326) over 3 days, 85 additions and 19 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix PopupMenuButton crashes when being hidden immediately<br />
+  <sub>[#171970](https://github.com/flutter/flutter/pull/171970) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171970) over 1 week, 110 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit `w` (widget tree), `t` (render tree) from `flutter run --profile` `h`<br />
   <sub>[#172506](https://github.com/flutter/flutter/pull/172506) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172506) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
@@ -65,6 +69,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning on usage of `dartPluginClass: 'none'`.<br />
   <sub>[#172315](https://github.com/flutter/flutter/pull/172315) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172315) over 3 days, 121 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add hitTestChildren to baseline-aligned stack<br />
+  <sub>[#172485](https://github.com/flutter/flutter/pull/172485) merged on July 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172485) over 8 hours, 29 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Render Flutter in its own EGL context<br />
   <sub>[#172330](https://github.com/flutter/flutter/pull/172330) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172330) over 3 days, 61 additions and 101 deletions in 5 files</sub><br />
