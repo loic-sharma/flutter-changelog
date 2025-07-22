@@ -141,7 +141,7 @@
   <sub>[#172493](https://github.com/flutter/flutter/pull/172493) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172493) 5 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
-  <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 11 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 12 additions and 9 deletions in 3 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; [Test PR do not review] Test<br />
   <sub>[#172509](https://github.com/flutter/flutter/pull/172509) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172509) 5 additions and 1 deletion in 1 file</sub><br />
