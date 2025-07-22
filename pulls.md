@@ -143,9 +143,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 12 additions and 9 deletions in 3 files</sub><br />
 
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; [Test PR do not review] Test<br />
-  <sub>[#172509](https://github.com/flutter/flutter/pull/172509) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172509) 7 additions and 1 deletion in 2 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Prefix generated Dart plugin imports for `registerWith`<br />
   <sub>[#172511](https://github.com/flutter/flutter/pull/172511) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172511) 10 additions and 10 deletions in 2 files</sub><br />
 
