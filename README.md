@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-17 commits.
+18 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add momentary varient of CupertinoSlidingSegmentedControl<br />
   <sub>[#164262](https://github.com/flutter/flutter/pull/164262) merged on July 21, 2025 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/164262) over 4 months, 162 additions and 13 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; feat(IconButton): add property to specify a states controller<br />
+  <sub>[#169821](https://github.com/flutter/flutter/pull/169821) merged on July 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169821) over 1 month, 142 additions and 13 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Wrap `ShutdownHook` calls to avoid crashing the tool<br />
   <sub>[#171917](https://github.com/flutter/flutter/pull/171917) merged on July 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171917) over 1 week, 56 additions and 5 deletions in 2 files</sub><br />
