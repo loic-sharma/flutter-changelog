@@ -147,5 +147,5 @@
   <sub>[#172546](https://github.com/flutter/flutter/pull/172546) opened on on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172546) 40 additions and 31 deletions in 3 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts<br />
-  <sub>[#172552](https://github.com/flutter/flutter/pull/172552) opened on on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172552) 122 additions and 60 deletions in 10 files</sub><br />
+  <sub>[#172552](https://github.com/flutter/flutter/pull/172552) opened on on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172552) 122 additions and 60 deletions in 10 files</sub><br />
 
