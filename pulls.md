@@ -146,3 +146,6 @@
 * **[Ashwin Sajeev](https://github.com/a5xwin)** &mdash; fixed issue #159933<br />
   <sub>[#172546](https://github.com/flutter/flutter/pull/172546) opened on on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172546) 40 additions and 31 deletions in 3 files</sub><br />
 
+* **[Sheniah_SH](https://github.com/sheinah)** &mdash; Master<br />
+  <sub>[#172564](https://github.com/flutter/flutter/pull/172564) opened on on July 22, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172564) 944662 additions and 949 deletions in 1141 files</sub><br />
+
