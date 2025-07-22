@@ -134,9 +134,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AboutDialog doesn't crash in 0x0 environment<br />
   <sub>[#172444](https://github.com/flutter/flutter/pull/172444) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172444) 14 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix empty first frame in multiview mode<br />
-  <sub>[#172493](https://github.com/flutter/flutter/pull/172493) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172493) 5 additions and 1 deletion in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 12 additions and 9 deletions in 3 files</sub><br />
 
@@ -144,11 +141,11 @@
   <sub>[#172511](https://github.com/flutter/flutter/pull/172511) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172511) 10 additions and 10 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses cpp ignore whitespace<br />
-  <sub>[#172512](https://github.com/flutter/flutter/pull/172512) opened on on July 21, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172512) 1677 additions and 132 deletions in 5 files</sub><br />
+  <sub>[#172512](https://github.com/flutter/flutter/pull/172512) opened on on July 21, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/172512) 1677 additions and 132 deletions in 5 files</sub><br />
 
 * **[Ashwin Sajeev](https://github.com/a5xwin)** &mdash; fixed issue #159933<br />
   <sub>[#172546](https://github.com/flutter/flutter/pull/172546) opened on on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172546) 40 additions and 31 deletions in 3 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts<br />
-  <sub>[#172552](https://github.com/flutter/flutter/pull/172552) opened on on July 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172552) 122 additions and 60 deletions in 10 files</sub><br />
+  <sub>[#172552](https://github.com/flutter/flutter/pull/172552) opened on on July 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172552) 122 additions and 60 deletions in 10 files</sub><br />
 
