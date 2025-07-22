@@ -30,6 +30,10 @@
   <sub>[#167559](https://github.com/flutter/flutter/pull/167559) merged on July 21, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/167559) over 3 months, 2161 additions and 86 deletions in 22 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix PopupMenuButton crashes when being hidden immediately<br />
+  <sub>[#171970](https://github.com/flutter/flutter/pull/171970) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171970) over 1 week, 110 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add support for `/?` to alias to `--help`<br />
   <sub>[#172328](https://github.com/flutter/flutter/pull/172328) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172328) over 3 days, 18 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -41,10 +45,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip [tool] crash reporting on `--local-engine`<br />
   <sub>[#172326](https://github.com/flutter/flutter/pull/172326) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172326) over 3 days, 85 additions and 19 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Huy](https://github.com/huycozy)** &mdash; Fix PopupMenuButton crashes when being hidden immediately<br />
-  <sub>[#171970](https://github.com/flutter/flutter/pull/171970) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171970) over 1 week, 110 additions and 10 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit `w` (widget tree), `t` (render tree) from `flutter run --profile` `h`<br />
   <sub>[#172506](https://github.com/flutter/flutter/pull/172506) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172506) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
