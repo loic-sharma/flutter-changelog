@@ -137,3 +137,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) opened on on July 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172588) 156 additions and 85 deletions in 30 files</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Adapt xcresult parser for Xcode 16 changes<br />
+  <sub>[#172596](https://github.com/flutter/flutter/pull/172596) opened on on July 22, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/172596) 324 additions and 135 deletions in 3 files</sub><br />
+
