@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-31 commits.
+32 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
@@ -101,6 +101,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning on usage of `dartPluginClass: 'none'`.<br />
   <sub>[#172315](https://github.com/flutter/flutter/pull/172315) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172315) over 3 days, 121 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `AlignmentDirectional.resolve`<br />
+  <sub>[#172096](https://github.com/flutter/flutter/pull/172096) merged on July 22, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172096) over 1 week, 35 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Daniil Lipatkin](https://github.com/nt4f04uNd), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update warnGradleVersion to `8.7.0`<br />
   <sub>[#172576](https://github.com/flutter/flutter/pull/172576) merged on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172576) over 48 minutes, 1 addition and 1 deletion in 1 file</sub><br />
