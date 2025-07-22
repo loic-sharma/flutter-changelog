@@ -62,6 +62,10 @@
   <sub>[#172329](https://github.com/flutter/flutter/pull/172329) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172329) over 3 days, 13 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add CLA note to tree hygiene<br />
+  <sub>[#172475](https://github.com/flutter/flutter/pull/172475) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172475) over 36 minutes, 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor checks for `--machine`<br />
   <sub>[#172504](https://github.com/flutter/flutter/pull/172504) merged on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172504) over 1 hour, 7 additions and 16 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
@@ -81,10 +85,6 @@
 * **[p1318k](https://github.com/p1318k)** &mdash; fix: macOS Mojave Crash on Flutter Desktop Startup<br />
   <sub>[#172282](https://github.com/flutter/flutter/pull/172282) merged on July 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172282) over 4 days, 4 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add CLA note to tree hygiene<br />
-  <sub>[#172475](https://github.com/flutter/flutter/pull/172475) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172475) over 36 minutes, 6 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `radioInnerRadius` to `RadioListTile`<br />
   <sub>[#171851](https://github.com/flutter/flutter/pull/171851) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171851) over 1 week, 30 additions and 1 deletion in 2 files</sub><br />
