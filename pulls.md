@@ -147,5 +147,5 @@
   <sub>[#172568](https://github.com/flutter/flutter/pull/172568) opened on on July 22, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172568) 69282 additions and 36856 deletions in 4 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove support for `pluginClass: none` (on `master`; `> 3.35.0`)<br />
-  <sub>[#172579](https://github.com/flutter/flutter/pull/172579) opened on on July 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172579) 3 additions and 101 deletions in 3 files</sub><br />
+  <sub>[#172579](https://github.com/flutter/flutter/pull/172579) opened on on July 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172579) 3 additions and 123 deletions in 3 files</sub><br />
 
