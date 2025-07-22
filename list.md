@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-30 commits.
+31 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub>
@@ -101,6 +101,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning on usage of `dartPluginClass: 'none'`.
   <sub>[#172315](https://github.com/flutter/flutter/pull/172315) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172315) over 3 days, 121 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update warnGradleVersion to `8.7.0`
+  <sub>[#172576](https://github.com/flutter/flutter/pull/172576) merged on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172576) over 48 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Revert #160653 Fix view removal process for AutofillContextAction.cancel
   <sub>[#172490](https://github.com/flutter/flutter/pull/172490) merged on July 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172490) over 21 hours, 2 additions and 26 deletions in 2 files</sub>
