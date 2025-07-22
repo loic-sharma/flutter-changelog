@@ -146,6 +146,3 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; revert:  Replaces legacy licenses check with licenses_cpp<br />
   <sub>[#172568](https://github.com/flutter/flutter/pull/172568) opened on on July 22, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172568) 67831 additions and 36856 deletions in 4 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update warnGradleVersion to `8.7.0`<br />
-  <sub>[#172576](https://github.com/flutter/flutter/pull/172576) opened on on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172576) 1 addition and 1 deletion in 1 file</sub><br />
-
