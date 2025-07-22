@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-23 commits.
+24 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub>
@@ -65,6 +65,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add CLA note to tree hygiene
   <sub>[#172475](https://github.com/flutter/flutter/pull/172475) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172475) over 36 minutes, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Hide `flutter assemble` unless `--verbose`
+  <sub>[#172508](https://github.com/flutter/flutter/pull/172508) merged on July 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172508) over 6 hours, 52 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor checks for `--machine`
   <sub>[#172504](https://github.com/flutter/flutter/pull/172504) merged on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172504) over 1 hour, 7 additions and 16 deletions in 1 file</sub>
@@ -225,6 +229,10 @@
   <sub>[#172285](https://github.com/flutter/flutter/pull/172285) merged on July 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/172285) over 1 day, 16 additions and 25 deletions in 5 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tirth Patel](https://github.com/tirth-patel-nc)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add OS version support section to plugin docs
+  <sub>[#172316](https://github.com/flutter/flutter/pull/172316) merged on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172316) over 15 hours, 11 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Decrease reliance on finalizers/GC
   <sub>[#172187](https://github.com/flutter/flutter/pull/172187) merged on July 16, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172187) over 19 hours, 197 additions and 196 deletions in 4 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
@@ -245,65 +253,61 @@
   <sub>[#171282](https://github.com/flutter/flutter/pull/171282) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171282) over 2 weeks, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend using Flutter feature flags over platform-specific configs
-  <sub>[#172324](https://github.com/flutter/flutter/pull/172324) merged on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172324) over 21 hours, 37 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: documentation around led launch broken
   <sub>[#171983](https://github.com/flutter/flutter/pull/171983) merged on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171983) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; TestTextInput should reset its key handler between tests
-  <sub>[#172323](https://github.com/flutter/flutter/pull/172323) merged on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172323) over 21 hours, 151 additions and 63 deletions in 2 files</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix a race in FlutterEngineTest.CanLogToStdout
-  <sub>[#172025](https://github.com/flutter/flutter/pull/172025) merged on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172025) over 5 days, 9 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Sync `CHANGELOG.md` (3.32.7) to `master` branch
-  <sub>[#172253](https://github.com/flutter/flutter/pull/172253) merged on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172253) over 17 minutes, 4 additions and 0 deletions in 1 file</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix use of `Join-Path` in `last_engine_commit.ps1`(poweshell)
+  <sub>[#172242](https://github.com/flutter/flutter/pull/172242) merged on July 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172242) over 29 minutes, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Remove emoji from ci.yaml, because we still live with CP1252 for some silly reason
-  <sub>[#172256](https://github.com/flutter/flutter/pull/172256) merged on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172256) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `release-*.version` to simplify `last_engine_commit.sh` (no branch operations)
   <sub>[#172236](https://github.com/flutter/flutter/pull/172236) merged on July 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172236) over 10 minutes, 37 additions and 58 deletions in 3 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend using Flutter feature flags over platform-specific configs
+  <sub>[#172324](https://github.com/flutter/flutter/pull/172324) merged on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172324) over 21 hours, 37 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix a race in FlutterEngineTest.CanLogToStdout
+  <sub>[#172025](https://github.com/flutter/flutter/pull/172025) merged on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172025) over 5 days, 9 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; TestTextInput should reset its key handler between tests
+  <sub>[#172323](https://github.com/flutter/flutter/pull/172323) merged on July 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172323) over 21 hours, 151 additions and 63 deletions in 2 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Remove emoji from ci.yaml, because we still live with CP1252 for some silly reason
+  <sub>[#172256](https://github.com/flutter/flutter/pull/172256) merged on July 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172256) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken image links in documentation.
   <sub>[#171465](https://github.com/flutter/flutter/pull/171465) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171465) over 1 week, 7 additions and 7 deletions in 1 file</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove dead link in the doc index.
-  <sub>[#172240](https://github.com/flutter/flutter/pull/172240) merged on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172240) over 2 hours, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix use of `Join-Path` in `last_engine_commit.ps1`(poweshell)
-  <sub>[#172242](https://github.com/flutter/flutter/pull/172242) merged on July 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172242) over 29 minutes, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; chore: unskip tests cases
   <sub>[#172031](https://github.com/flutter/flutter/pull/172031) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172031) over 3 days, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Sync `CHANGELOG.md` (3.32.7) to `master` branch
+  <sub>[#172253](https://github.com/flutter/flutter/pull/172253) merged on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172253) over 17 minutes, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove dead link in the doc index.
+  <sub>[#172240](https://github.com/flutter/flutter/pull/172240) merged on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172240) over 2 hours, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Apply superellipse clipping to iOS platform views using an approximated round rect
   <sub>[#172033](https://github.com/flutter/flutter/pull/172033) merged on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172033) over 2 days, 81 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Downgrade and pin DDS to 5.0.3
-  <sub>[#172120](https://github.com/flutter/flutter/pull/172120) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172120) over 45 minutes, 4 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Musaddiq Ahmed Khan](https://github.com/Musaddiq625)** &mdash; Add optional splashColor property to ExpansionTile
+  <sub>[#172224](https://github.com/flutter/flutter/pull/172224) merged on July 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172224) over 3 days, 25 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Mark Mac_* tool_tests_commands as bringup to unblock tree
   <sub>[#172388](https://github.com/flutter/flutter/pull/172388) merged on July 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172388) over 5 minutes, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add OS version support section to plugin docs
-  <sub>[#172316](https://github.com/flutter/flutter/pull/172316) merged on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172316) over 15 hours, 11 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup unnecessary dart defines and renderer in web tests
   <sub>[#172130](https://github.com/flutter/flutter/pull/172130) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172130) over 57 minutes, 54 additions and 105 deletions in 1 file</sub>
@@ -313,17 +317,17 @@
   <sub>[#172277](https://github.com/flutter/flutter/pull/172277) merged on July 18, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172277) over 20 hours, 80 additions and 226 deletions in 11 files</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Add missing param to makeRasterImage calls
-  <sub>[#172122](https://github.com/flutter/flutter/pull/172122) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172122) over 1 day, 20 additions and 16 deletions in 14 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Set GN flags explicitly for fuchsia build
   <sub>[#172104](https://github.com/flutter/flutter/pull/172104) merged on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172104) over 6 hours, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Musaddiq Ahmed Khan](https://github.com/Musaddiq625)** &mdash; Add optional splashColor property to ExpansionTile
-  <sub>[#172224](https://github.com/flutter/flutter/pull/172224) merged on July 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172224) over 3 days, 25 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Add missing param to makeRasterImage calls
+  <sub>[#172122](https://github.com/flutter/flutter/pull/172122) merged on July 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172122) over 1 day, 20 additions and 16 deletions in 14 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Downgrade and pin DDS to 5.0.3
+  <sub>[#172120](https://github.com/flutter/flutter/pull/172120) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172120) over 45 minutes, 4 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reland "Add feature flags to the framework"
   <sub>[#171545](https://github.com/flutter/flutter/pull/171545) merged on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/171545) over 1 week, 297 additions and 1 deletion in 13 files</sub>
