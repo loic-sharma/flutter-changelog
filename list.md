@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-29 commits.
+30 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub>
@@ -33,6 +33,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix PopupMenuButton crashes when being hidden immediately
   <sub>[#171970](https://github.com/flutter/flutter/pull/171970) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171970) over 1 week, 110 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use a fake representation of `cache/artifacts/gradle_wrapper`
+  <sub>[#172503](https://github.com/flutter/flutter/pull/172503) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172503) over 22 hours, 23 additions and 20 deletions in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses cpp ignore whitespace
   <sub>[#172512](https://github.com/flutter/flutter/pull/172512) merged on July 22, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/172512) over 17 hours, 1677 additions and 132 deletions in 5 files</sub>
