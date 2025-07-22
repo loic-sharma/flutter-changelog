@@ -4,7 +4,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-18 commits.
+21 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add momentary varient of CupertinoSlidingSegmentedControl<br />
   <sub>[#164262](https://github.com/flutter/flutter/pull/164262) merged on July 21, 2025 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/164262) over 4 months, 162 additions and 13 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Replaces legacy licenses check with licenses_cpp<br />
+  <sub>[#172486](https://github.com/flutter/flutter/pull/172486) merged on July 22, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/172486) over 4 hours, 32741 additions and 65114 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; feat(IconButton): add property to specify a states controller<br />
   <sub>[#169821](https://github.com/flutter/flutter/pull/169821) merged on July 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169821) over 1 month, 142 additions and 13 deletions in 2 files</sub><br />
@@ -34,6 +38,10 @@
   <sub>[#172326](https://github.com/flutter/flutter/pull/172326) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172326) over 3 days, 85 additions and 19 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit `w` (widget tree), `t` (render tree) from `flutter run --profile` `h`<br />
+  <sub>[#172506](https://github.com/flutter/flutter/pull/172506) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172506) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts<br />
   <sub>[#171927](https://github.com/flutter/flutter/pull/171927) merged on July 21, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171927) over 1 week, 77 additions and 47 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
@@ -50,6 +58,10 @@
   <sub>[#172329](https://github.com/flutter/flutter/pull/172329) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172329) over 3 days, 13 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor checks for `--machine`<br />
+  <sub>[#172504](https://github.com/flutter/flutter/pull/172504) merged on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172504) over 1 hour, 7 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning on usage of `dartPluginClass: 'none'`.<br />
   <sub>[#172315](https://github.com/flutter/flutter/pull/172315) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172315) over 3 days, 121 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
@@ -59,7 +71,7 @@
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[p1318k](https://github.com/p1318k)** &mdash; fix: macOS Mojave Crash on Flutter Desktop Startup<br />
-  <sub>[#172282](https://github.com/flutter/flutter/pull/172282) merged on July 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172282) over 4 days, 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#172282](https://github.com/flutter/flutter/pull/172282) merged on July 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172282) over 4 days, 4 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add CLA note to tree hygiene<br />
