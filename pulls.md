@@ -114,7 +114,7 @@
   <sub>[#172421](https://github.com/flutter/flutter/pull/172421) opened on on July 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172421) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix #160622: Restore watchOS Companion App Build Compatibility<br />
-  <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172436) 6 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172436) 6 additions and 5 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AboutDialog doesn't crash in 0x0 environment<br />
   <sub>[#172444](https://github.com/flutter/flutter/pull/172444) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172444) 14 additions and 0 deletions in 1 file</sub><br />
