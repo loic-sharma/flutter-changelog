@@ -110,3 +110,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: implements extracting regions from matched text<br />
   <sub>[#172655](https://github.com/flutter/flutter/pull/172655) opened on on July 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172655) 123 additions and 56 deletions in 7 files</sub><br />
 
+* **[ash2moon](https://github.com/ash2moon)** &mdash; add bundletool to FGP<br />
+  <sub>[#172674](https://github.com/flutter/flutter/pull/172674) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172674) 67 additions and 0 deletions in 3 files</sub><br />
+
