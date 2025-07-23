@@ -81,7 +81,7 @@
   <sub>[#172100](https://github.com/flutter/flutter/pull/172100) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172100) 37 additions and 1 deletion in 2 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
-  <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172124) 128 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172124) 127 additions and 8 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update few links in docs<br />
   <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
