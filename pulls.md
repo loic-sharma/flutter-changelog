@@ -134,3 +134,9 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove support for `pluginClass: none` (on `master`; `> 3.35.0`)<br />
   <sub>[#172579](https://github.com/flutter/flutter/pull/172579) opened on on July 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172579) 3 additions and 123 deletions in 3 files</sub><br />
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
+  <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172599) 121 additions and 28 deletions in 36 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `dev/bots/post_process_docs.dart` to use `flutter.version.json`<br />
+  <sub>[#172601](https://github.com/flutter/flutter/pull/172601) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172601) 6 additions and 2 deletions in 1 file</sub><br />
+
