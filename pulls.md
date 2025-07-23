@@ -125,9 +125,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 15 additions and 9 deletions in 3 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Prefix generated Dart plugin imports for `registerWith`<br />
-  <sub>[#172511](https://github.com/flutter/flutter/pull/172511) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172511) 22 additions and 22 deletions in 3 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; revert:  Replaces legacy licenses check with licenses_cpp<br />
   <sub>[#172568](https://github.com/flutter/flutter/pull/172568) opened on on July 22, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172568) 69282 additions and 36856 deletions in 4 files</sub><br />
 
