@@ -65,9 +65,6 @@
 * **[Keyur Maru](https://github.com/keyur2maru)** &mdash; Fix automatic JavaScript fallback for flutter run when WASM is not available<br />
   <sub>[#172002](https://github.com/flutter/flutter/pull/172002) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172002) 92 additions and 19 deletions in 3 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Add GEMINI.md to .gitignore<br />
-  <sub>[#172016](https://github.com/flutter/flutter/pull/172016) opened on on July 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172016) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
 
@@ -108,13 +105,13 @@
   <sub>[#172579](https://github.com/flutter/flutter/pull/172579) opened on on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172579) 3 additions and 123 deletions in 3 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
-  <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
+  <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
 
 * **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ResizeImage<br />
   <sub>[#172643](https://github.com/flutter/flutter/pull/172643) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172643) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: implements extracting regions from matched text<br />
-  <sub>[#172655](https://github.com/flutter/flutter/pull/172655) opened on on July 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172655) 46853 additions and 28 deletions in 7 files</sub><br />
+  <sub>[#172655](https://github.com/flutter/flutter/pull/172655) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172655) 114 additions and 58 deletions in 7 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Web][a11y] Update selected chips semantics <br />
   <sub>[#172660](https://github.com/flutter/flutter/pull/172660) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172660) 7 additions and 2 deletions in 1 file</sub><br />
