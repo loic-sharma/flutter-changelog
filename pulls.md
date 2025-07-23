@@ -87,7 +87,7 @@
   <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 1<br />
-  <sub>[#172198](https://github.com/flutter/flutter/pull/172198) opened on on July 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172198) 55 additions and 63 deletions in 2 files</sub><br />
+  <sub>[#172198](https://github.com/flutter/flutter/pull/172198) opened on on July 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172198) 55 additions and 63 deletions in 2 files</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 168 additions and 0 deletions in 6 files</sub><br />
