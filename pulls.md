@@ -105,7 +105,7 @@
   <sub>[#172404](https://github.com/flutter/flutter/pull/172404) opened on on July 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172404) 23 additions and 0 deletions in 1 file</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve `SweepGradient` angle and `TileMode` documentation<br />
-  <sub>[#172406](https://github.com/flutter/flutter/pull/172406) opened on on July 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172406) 78 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#172406](https://github.com/flutter/flutter/pull/172406) opened on on July 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172406) 78 additions and 12 deletions in 2 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Migrate to null aware elements - Part 5<br />
   <sub>[#172418](https://github.com/flutter/flutter/pull/172418) opened on on July 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172418) 52 additions and 95 deletions in 34 files</sub><br />
