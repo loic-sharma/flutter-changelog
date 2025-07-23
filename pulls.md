@@ -81,7 +81,7 @@
   <sub>[#172100](https://github.com/flutter/flutter/pull/172100) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172100) 37 additions and 1 deletion in 2 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
-  <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172124) 127 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/172124) 127 additions and 8 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update few links in docs<br />
   <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
@@ -123,13 +123,13 @@
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 15 additions and 9 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; revert:  Replaces legacy licenses check with licenses_cpp<br />
-  <sub>[#172568](https://github.com/flutter/flutter/pull/172568) opened on on July 22, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/172568) 69282 additions and 36856 deletions in 4 files</sub><br />
+  <sub>[#172568](https://github.com/flutter/flutter/pull/172568) opened on on July 22, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/172568) 69282 additions and 36856 deletions in 4 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove support for `pluginClass: none` (on `master`; `> 3.35.0`)<br />
   <sub>[#172579](https://github.com/flutter/flutter/pull/172579) opened on on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172579) 3 additions and 123 deletions in 3 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
-  <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172599) 121 additions and 28 deletions in 36 files</sub><br />
+  <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `dev/bots/post_process_docs.dart` to use `flutter.version.json`<br />
   <sub>[#172601](https://github.com/flutter/flutter/pull/172601) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172601) 6 additions and 2 deletions in 1 file</sub><br />

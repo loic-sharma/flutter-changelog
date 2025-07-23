@@ -885,7 +885,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-3 commits.
+4 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document the existence of a `licenses: ...` field (`pubspec.yaml`)<br />
   <sub>[#12227](https://github.com/flutter/website/pull/12227) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12227) over 5 hours, 18 additions and 0 deletions in 1 file</sub><br />
@@ -893,6 +893,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pnpm and various npm deps<br />
   <sub>[#12229](https://github.com/flutter/website/pull/12229) merged on July 22, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12229) over 8 hours, 218 additions and 208 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add iOS UIScene Design Doc<br />
+  <sub>[#12237](https://github.com/flutter/website/pull/12237) merged on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12237) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Add go/intrinsic-box to firebase.json<br />
