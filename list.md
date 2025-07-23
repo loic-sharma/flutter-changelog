@@ -4,11 +4,15 @@
 
 ### July 19, 2025 to July 25, 2025
 
-41 commits.
+44 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jaime Wren](https://github.com/jwren), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; revert:  Replaces legacy licenses check with licenses_cpp
+  <sub>[#172568](https://github.com/flutter/flutter/pull/172568) merged on July 23, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172568) over 21 hours, 69282 additions and 36856 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] implement shadow bounds without relying on Skia utilities
   <sub>[#172572](https://github.com/flutter/flutter/pull/172572) merged on July 23, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/172572) over 19 hours, 548 additions and 9 deletions in 9 files</sub>
@@ -42,40 +46,36 @@
   <sub>[#171970](https://github.com/flutter/flutter/pull/171970) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171970) over 1 week, 110 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove stale references to `.packages` in tool tests
-  <sub>[#172582](https://github.com/flutter/flutter/pull/172582) merged on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172582) over 2 hours, 14 additions and 26 deletions in 11 files</sub>
-  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses cpp ignore whitespace
-  <sub>[#172512](https://github.com/flutter/flutter/pull/172512) merged on July 22, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/172512) over 17 hours, 1677 additions and 132 deletions in 5 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Upgrade flutter_lints in project template pubspec.yaml files
-  <sub>[#172400](https://github.com/flutter/flutter/pull/172400) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172400) over 2 days, 6 additions and 8 deletions in 6 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add support for `/?` to alias to `--help`
   <sub>[#172328](https://github.com/flutter/flutter/pull/172328) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172328) over 3 days, 18 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip [tool] crash reporting on `--local-engine`
-  <sub>[#172326](https://github.com/flutter/flutter/pull/172326) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172326) over 3 days, 85 additions and 19 deletions in 2 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Prefix generated Dart plugin imports for `registerWith`
-  <sub>[#172511](https://github.com/flutter/flutter/pull/172511) merged on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172511) over 1 day, 22 additions and 22 deletions in 3 files</sub>
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use a fake representation of `cache/artifacts/gradle_wrapper`
   <sub>[#172503](https://github.com/flutter/flutter/pull/172503) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172503) over 22 hours, 23 additions and 20 deletions in 1 file</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit instruction to `cd .` after `flutter create`
-  <sub>[#172513](https://github.com/flutter/flutter/pull/172513) merged on July 22, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172513) over 22 hours, 187 additions and 223 deletions in 2 files</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Licenses cpp ignore whitespace
+  <sub>[#172512](https://github.com/flutter/flutter/pull/172512) merged on July 22, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/172512) over 17 hours, 1677 additions and 132 deletions in 5 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip [tool] crash reporting on `--local-engine`
+  <sub>[#172326](https://github.com/flutter/flutter/pull/172326) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172326) over 3 days, 85 additions and 19 deletions in 2 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Justin McCandless](https://github.com/justinmc), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Upgrade flutter_lints in project template pubspec.yaml files
+  <sub>[#172400](https://github.com/flutter/flutter/pull/172400) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172400) over 2 days, 6 additions and 8 deletions in 6 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Prefix generated Dart plugin imports for `registerWith`
+  <sub>[#172511](https://github.com/flutter/flutter/pull/172511) merged on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172511) over 1 day, 22 additions and 22 deletions in 3 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove stale references to `.packages` in tool tests
+  <sub>[#172582](https://github.com/flutter/flutter/pull/172582) merged on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172582) over 2 hours, 14 additions and 26 deletions in 11 files</sub>
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit `w` (widget tree), `t` (render tree) from `flutter run --profile` `h`
-  <sub>[#172506](https://github.com/flutter/flutter/pull/172506) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172506) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit instruction to `cd .` after `flutter create`
+  <sub>[#172513](https://github.com/flutter/flutter/pull/172513) merged on July 22, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/172513) over 22 hours, 187 additions and 223 deletions in 2 files</sub>
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts
@@ -90,6 +90,10 @@
   <sub>[#172329](https://github.com/flutter/flutter/pull/172329) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172329) over 3 days, 13 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit `w` (widget tree), `t` (render tree) from `flutter run --profile` `h`
+  <sub>[#172506](https://github.com/flutter/flutter/pull/172506) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172506) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
+
 * **[nakanoh](https://github.com/nakanoh)** &mdash; fix: correct typo in analysis_options.yaml comment (disabeling -> disabling)
   <sub>[#170206](https://github.com/flutter/flutter/pull/170206) merged on July 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170206) over 1 month, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -102,6 +106,10 @@
   <sub>[#172475](https://github.com/flutter/flutter/pull/172475) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172475) over 36 minutes, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [FGP] Small restructuring of Android Studio native flutter dependency support
+  <sub>[#172651](https://github.com/flutter/flutter/pull/172651) merged on July 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172651) over 47 minutes, 18 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: size-exp naming
   <sub>[#172647](https://github.com/flutter/flutter/pull/172647) merged on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172647) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -109,6 +117,14 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `dev/bots/post_process_docs.dart` to use `flutter.version.json`
   <sub>[#172601](https://github.com/flutter/flutter/pull/172601) merged on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172601) over 14 hours, 6 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor checks for `--machine`
+  <sub>[#172504](https://github.com/flutter/flutter/pull/172504) merged on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172504) over 1 hour, 7 additions and 16 deletions in 1 file</sub>
+  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts
+  <sub>[#172552](https://github.com/flutter/flutter/pull/172552) merged on July 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172552) over 2 hours, 122 additions and 60 deletions in 10 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Emit a warning on `--[no-]disable-dds`, preferring `--no-dds`
   <sub>[#172595](https://github.com/flutter/flutter/pull/172595) merged on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172595) over 15 hours, 17 additions and 14 deletions in 2 files</sub>
@@ -118,25 +134,17 @@
   <sub>[#172508](https://github.com/flutter/flutter/pull/172508) merged on July 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172508) over 6 hours, 52 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor checks for `--machine`
-  <sub>[#172504](https://github.com/flutter/flutter/pull/172504) merged on July 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172504) over 1 hour, 7 additions and 16 deletions in 1 file</sub>
-  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump meta to 0.17.0
+  <sub>[#172541](https://github.com/flutter/flutter/pull/172541) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172541) over 6 hours, 10 additions and 10 deletions in 5 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning on usage of `dartPluginClass: 'none'`.
   <sub>[#172315](https://github.com/flutter/flutter/pull/172315) merged on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172315) over 3 days, 121 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump meta to 0.17.0
-  <sub>[#172541](https://github.com/flutter/flutter/pull/172541) merged on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172541) over 6 hours, 10 additions and 10 deletions in 5 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts
-  <sub>[#172552](https://github.com/flutter/flutter/pull/172552) merged on July 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172552) over 2 hours, 122 additions and 60 deletions in 10 files</sub>
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jenn Magder](https://github.com/jmagman)</sub>
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use baseUri always when doing a hot reload or hot restart
-  <sub>[#172271](https://github.com/flutter/flutter/pull/172271) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172271) over 4 days, 9 additions and 9 deletions in 3 files</sub>
-  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
+* **[Siva](https://github.com/a-siva)** &mdash; Manual Roll of Dart SDK from da9e0299c120 to a31774a3d049
+  <sub>[#172616](https://github.com/flutter/flutter/pull/172616) merged on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172616) over 11 hours, 9 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove GtkGLArea and render directly into GtkDrawingArea
   <sub>[#172343](https://github.com/flutter/flutter/pull/172343) merged on July 23, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/172343) over 4 days, 188 additions and 200 deletions in 9 files</sub>
@@ -165,6 +173,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `radioInnerRadius` to `RadioListTile`
   <sub>[#171851](https://github.com/flutter/flutter/pull/171851) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171851) over 1 week, 30 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use baseUri always when doing a hot reload or hot restart
+  <sub>[#172271](https://github.com/flutter/flutter/pull/172271) merged on July 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172271) over 4 days, 9 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update call to SkImage::makeSubset
   <sub>[#172456](https://github.com/flutter/flutter/pull/172456) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172456) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
