@@ -93,7 +93,7 @@
   <sub>[#172322](https://github.com/flutter/flutter/pull/172322) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172322) 13 additions and 16 deletions in 4 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve `SweepGradient` angle and `TileMode` documentation<br />
-  <sub>[#172406](https://github.com/flutter/flutter/pull/172406) opened on on July 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172406) 78 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#172406](https://github.com/flutter/flutter/pull/172406) opened on on July 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/172406) 78 additions and 12 deletions in 2 files</sub><br />
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix #160622: Restore watchOS Companion App Build Compatibility<br />
   <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172436) 6 additions and 5 deletions in 1 file</sub><br />
