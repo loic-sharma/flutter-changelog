@@ -732,11 +732,15 @@
 
 ### July 19, 2025 to July 25, 2025
 
-1 commits.
+2 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Update to GoogleSignIn-iOS 9
   <sub>[#9655](https://github.com/flutter/packages/pull/9655) merged on July 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9655) over 1 hour, 55 additions and 9 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 9
+  <sub>[#9645](https://github.com/flutter/packages/pull/9645) merged on July 23, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/packages/pull/9645) over 5 days, 161 additions and 149 deletions in 5 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 ### July 12, 2025 to July 18, 2025
 
