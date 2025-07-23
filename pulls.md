@@ -92,32 +92,14 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 168 additions and 0 deletions in 6 files</sub><br />
 
-* **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 2<br />
-  <sub>[#172306](https://github.com/flutter/flutter/pull/172306) opened on on July 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172306) 20 additions and 20 deletions in 3 files</sub><br />
-
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 4<br />
   <sub>[#172322](https://github.com/flutter/flutter/pull/172322) opened on on July 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172322) 13 additions and 16 deletions in 4 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Card doesn't crash in 0x0 environment<br />
-  <sub>[#172373](https://github.com/flutter/flutter/pull/172373) opened on on July 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172373) 14 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 bottom navigation bar<br />
-  <sub>[#172404](https://github.com/flutter/flutter/pull/172404) opened on on July 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172404) 23 additions and 0 deletions in 1 file</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve `SweepGradient` angle and `TileMode` documentation<br />
   <sub>[#172406](https://github.com/flutter/flutter/pull/172406) opened on on July 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172406) 78 additions and 12 deletions in 2 files</sub><br />
 
-* **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Migrate to null aware elements - Part 5<br />
-  <sub>[#172418](https://github.com/flutter/flutter/pull/172418) opened on on July 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172418) 52 additions and 95 deletions in 34 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AboutListTile doesn't crash in 0x0 environment<br />
-  <sub>[#172421](https://github.com/flutter/flutter/pull/172421) opened on on July 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172421) 14 additions and 0 deletions in 1 file</sub><br />
-
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix #160622: Restore watchOS Companion App Build Compatibility<br />
   <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172436) 6 additions and 5 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AboutDialog doesn't crash in 0x0 environment<br />
-  <sub>[#172444](https://github.com/flutter/flutter/pull/172444) opened on on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172444) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 15 additions and 9 deletions in 3 files</sub><br />
@@ -130,9 +112,6 @@
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
   <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LicensePage doesn't crash in 0x0 environment<br />
-  <sub>[#172610](https://github.com/flutter/flutter/pull/172610) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172610) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ResizeImage<br />
   <sub>[#172643](https://github.com/flutter/flutter/pull/172643) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172643) 15 additions and 0 deletions in 1 file</sub><br />
