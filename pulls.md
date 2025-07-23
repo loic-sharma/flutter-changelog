@@ -134,9 +134,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `dev/bots/post_process_docs.dart` to use `flutter.version.json`<br />
   <sub>[#172601](https://github.com/flutter/flutter/pull/172601) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172601) 6 additions and 2 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: macOS Mojave Crash on Flutter Desktop Startup<br />
-  <sub>[#172602](https://github.com/flutter/flutter/pull/172602) opened on on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172602) 4 additions and 2 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LicensePage doesn't crash in 0x0 environment<br />
   <sub>[#172610](https://github.com/flutter/flutter/pull/172610) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172610) 14 additions and 0 deletions in 1 file</sub><br />
 
