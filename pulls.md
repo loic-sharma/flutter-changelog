@@ -78,7 +78,7 @@
   <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172099) 46 additions and 2 deletions in 2 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `_MixedBorderRadius.resolve()`<br />
-  <sub>[#172100](https://github.com/flutter/flutter/pull/172100) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172100) 37 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#172100](https://github.com/flutter/flutter/pull/172100) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172100) 37 additions and 1 deletion in 2 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
   <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172124) 128 additions and 8 deletions in 3 files</sub><br />
@@ -108,7 +108,7 @@
   <sub>[#172404](https://github.com/flutter/flutter/pull/172404) opened on on July 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172404) 23 additions and 0 deletions in 1 file</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve `SweepGradient` angle and `TileMode` documentation<br />
-  <sub>[#172406](https://github.com/flutter/flutter/pull/172406) opened on on July 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172406) 78 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#172406](https://github.com/flutter/flutter/pull/172406) opened on on July 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172406) 78 additions and 12 deletions in 2 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Migrate to null aware elements - Part 5<br />
   <sub>[#172418](https://github.com/flutter/flutter/pull/172418) opened on on July 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172418) 52 additions and 95 deletions in 34 files</sub><br />
@@ -139,4 +139,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `dev/bots/post_process_docs.dart` to use `flutter.version.json`<br />
   <sub>[#172601](https://github.com/flutter/flutter/pull/172601) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172601) 6 additions and 2 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: macOS Mojave Crash on Flutter Desktop Startup<br />
+  <sub>[#172602](https://github.com/flutter/flutter/pull/172602) opened on on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172602) 4 additions and 2 deletions in 1 file</sub><br />
 
