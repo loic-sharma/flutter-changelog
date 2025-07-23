@@ -760,7 +760,11 @@
 
 ### July 19, 2025 to July 25, 2025
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add more serverClientId info to README<br />
+  <sub>[#9629](https://github.com/flutter/packages/pull/9629) merged on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9629) over 1 week, 19 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Alex Medinsh](https://github.com/alex-medinsh), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Update to GoogleSignIn-iOS 9<br />
   <sub>[#9655](https://github.com/flutter/packages/pull/9655) merged on July 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9655) over 1 hour, 55 additions and 9 deletions in 6 files</sub><br />
@@ -913,7 +917,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-4 commits.
+5 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document the existence of a `licenses: ...` field (`pubspec.yaml`)<br />
   <sub>[#12227](https://github.com/flutter/website/pull/12227) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12227) over 5 hours, 18 additions and 0 deletions in 1 file</sub><br />
@@ -921,6 +925,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pnpm and various npm deps<br />
   <sub>[#12229](https://github.com/flutter/website/pull/12229) merged on July 22, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12229) over 8 hours, 218 additions and 208 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add breaking changes doc for CupertinoDynamicColor wide gamut changes.<br />
+  <sub>[#12236](https://github.com/flutter/website/pull/12236) merged on July 23, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12236) over 7 hours, 122 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add iOS UIScene Design Doc<br />
