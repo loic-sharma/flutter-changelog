@@ -113,6 +113,3 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: implements extracting regions from matched text<br />
   <sub>[#172655](https://github.com/flutter/flutter/pull/172655) opened on on July 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172655) 123 additions and 56 deletions in 7 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Web][a11y] Update selected chips semantics <br />
-  <sub>[#172660](https://github.com/flutter/flutter/pull/172660) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172660) 7 additions and 2 deletions in 1 file</sub><br />
-

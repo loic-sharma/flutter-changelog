@@ -424,13 +424,13 @@
   <sub>[#168728](https://github.com/flutter/flutter/pull/168728) merged on July 8, 2025 &mdash; **Extra large:** [141 comments](https://github.com/flutter/flutter/pull/168728) over 1 month, 2174 additions and 25 deletions in 31 files</sub>
   <sub>Reviewed by: [Michał Sawicz](https://github.com/Saviq), [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt), [Kishan Rathore](https://github.com/rkishan516), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch
-  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) merged on July 11, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171785) over 2 days, 5 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump Dart to 3.8 and reformat
   <sub>[#171703](https://github.com/flutter/flutter/pull/171703) merged on July 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/171703) over 3 hours, 42934 additions and 39182 deletions in 1912 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started querying the app state for the gpu disabled sync switch
+  <sub>[#171785](https://github.com/flutter/flutter/pull/171785) merged on July 11, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171785) over 2 days, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds a MCP server for working with the engine
   <sub>[#171738](https://github.com/flutter/flutter/pull/171738) merged on July 9, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/171738) over 2 days, 360 additions and 0 deletions in 11 files</sub>
