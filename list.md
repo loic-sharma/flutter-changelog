@@ -19,7 +19,7 @@
   <sub>Reviewed by: [Abdullah Harits](https://github.com/Harits19), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; Fix: Ensure Text widget locale is included in semantics language tag
-  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) merged on July 23, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/172034) over 1 week, 52 additions and 0 deletions in 2 files</sub>
+  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) merged on July 23, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/172034) over 1 week, 52 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; revert:  Replaces legacy licenses check with licenses_cpp

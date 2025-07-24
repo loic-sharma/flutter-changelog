@@ -92,7 +92,7 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 151 additions and 100 deletions in 46 files</sub><br />
 
-* **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; 169108 ci debug<br />
+* **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; Add `docs_action` to `.ci.yaml` doc-related tasks<br />
   <sub>[#172589](https://github.com/flutter/flutter/pull/172589) opened on on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172589) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
@@ -114,7 +114,7 @@
   <sub>[#172711](https://github.com/flutter/flutter/pull/172711) opened on on July 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172711) 52 additions and 0 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] range slider should have 2 focus node<br />
-  <sub>[#172729](https://github.com/flutter/flutter/pull/172729) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172729) 26 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#172729](https://github.com/flutter/flutter/pull/172729) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172729) 63 additions and 8 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Autocomplete doesn't crash in 0x0 environment<br />
   <sub>[#172732](https://github.com/flutter/flutter/pull/172732) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172732) 19 additions and 0 deletions in 1 file</sub><br />
