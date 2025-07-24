@@ -804,11 +804,15 @@
 
 ### July 19, 2025 to July 25, 2025
 
-3 commits.
+4 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add more serverClientId info to README<br />
   <sub>[#9629](https://github.com/flutter/packages/pull/9629) merged on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9629) over 1 week, 19 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Alex Medinsh](https://github.com/alex-medinsh), [ash2moon](https://github.com/ash2moon)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Re-enable wasm and Windows ARM64 tests<br />
+  <sub>[#9667](https://github.com/flutter/packages/pull/9667) merged on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9667) over 1 day, 0 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Update to GoogleSignIn-iOS 9<br />
   <sub>[#9655](https://github.com/flutter/packages/pull/9655) merged on July 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9655) over 1 hour, 55 additions and 9 deletions in 6 files</sub><br />
