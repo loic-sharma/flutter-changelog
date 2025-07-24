@@ -93,7 +93,7 @@
   <sub>[#172406](https://github.com/flutter/flutter/pull/172406) opened on on July 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/172406) 78 additions and 12 deletions in 2 files</sub><br />
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix #160622: Restore watchOS Companion App Build Compatibility<br />
-  <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172436) 6 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172436) 6 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 15 additions and 9 deletions in 3 files</sub><br />
