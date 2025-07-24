@@ -81,7 +81,7 @@
   <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/172124) 127 additions and 8 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update few links in docs<br />
-  <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#172166](https://github.com/flutter/flutter/pull/172166) opened on on July 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172166) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 168 additions and 0 deletions in 6 files</sub><br />
@@ -133,4 +133,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Bringup `linux_web_engine_tests`; failing 4+ times in a row<br />
   <sub>[#172714](https://github.com/flutter/flutter/pull/172714) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172714) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete (unused) `dev/checks_tool` directory<br />
+  <sub>[#172715](https://github.com/flutter/flutter/pull/172715) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172715) 0 additions and 39 deletions in 5 files</sub><br />
 
