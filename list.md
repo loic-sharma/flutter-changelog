@@ -18,6 +18,10 @@
   <sub>[#171699](https://github.com/flutter/flutter/pull/171699) merged on July 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171699) over 2 weeks, 93 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [Abdullah Harits](https://github.com/Harits19), [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
+* **[Pedro Massango](https://github.com/pedromassango)** &mdash; Fix: Ensure Text widget locale is included in semantics language tag
+  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) merged on July 23, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/172034) over 1 week, 52 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; revert:  Replaces legacy licenses check with licenses_cpp
   <sub>[#172568](https://github.com/flutter/flutter/pull/172568) merged on July 23, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172568) over 21 hours, 69282 additions and 36856 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -41,10 +45,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Replaces legacy licenses check with licenses_cpp
   <sub>[#172486](https://github.com/flutter/flutter/pull/172486) merged on July 22, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/172486) over 4 hours, 32741 additions and 65114 deletions in 6 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Pedro Massango](https://github.com/pedromassango)** &mdash; Fix: Ensure Text widget locale is included in semantics language tag
-  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) merged on July 23, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/172034) over 1 week, 52 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Wraps all `git` executions in a `Git(...).*`, use `*=noglob` on Windows
   <sub>[#172495](https://github.com/flutter/flutter/pull/172495) merged on July 23, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/172495) over 1 day, 579 additions and 333 deletions in 14 files</sub>
