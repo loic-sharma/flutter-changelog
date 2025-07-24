@@ -72,7 +72,7 @@
   <sub>[#172087](https://github.com/flutter/flutter/pull/172087) opened on on July 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172087) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `EdgeInsetsDirectional.resolve`<br />
-  <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172099) 46 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172099) 46 additions and 2 deletions in 2 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `_MixedBorderRadius.resolve()`<br />
   <sub>[#172100](https://github.com/flutter/flutter/pull/172100) opened on on July 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172100) 37 additions and 1 deletion in 2 files</sub><br />
@@ -113,15 +113,9 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Menu anchor reduce padding on web and desktop<br />
   <sub>[#172691](https://github.com/flutter/flutter/pull/172691) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172691) 116 additions and 19 deletions in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Add missing ci configuration for `Linux android_java17_tool_integration_tests`<br />
-  <sub>[#172702](https://github.com/flutter/flutter/pull/172702) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172702) 44 additions and 8 deletions in 3 files</sub><br />
-
 * **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
   <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172704) 146 additions and 2 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix: Ensure Text widget locale is included in semantics language tag<br />
   <sub>[#172711](https://github.com/flutter/flutter/pull/172711) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172711) 52 additions and 0 deletions in 2 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete (unused) `dev/checks_tool` directory<br />
-  <sub>[#172715](https://github.com/flutter/flutter/pull/172715) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172715) 0 additions and 39 deletions in 5 files</sub><br />
 
