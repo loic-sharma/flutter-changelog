@@ -125,3 +125,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Flutter-Cherrypick-Process.md - Spell cherry-pick consistently<br />
   <sub>[#172697](https://github.com/flutter/flutter/pull/172697) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172697) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switched to `lexically_relative` for 2x speed boost.<br />
+  <sub>[#172701](https://github.com/flutter/flutter/pull/172701) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172701) 1 addition and 1 deletion in 1 file</sub><br />
+
