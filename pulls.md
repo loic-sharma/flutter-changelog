@@ -107,9 +107,6 @@
 * **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ResizeImage<br />
   <sub>[#172643](https://github.com/flutter/flutter/pull/172643) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172643) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: implements extracting regions from matched text<br />
-  <sub>[#172655](https://github.com/flutter/flutter/pull/172655) opened on on July 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172655) 123 additions and 56 deletions in 7 files</sub><br />
-
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add bundletool to FGP<br />
   <sub>[#172674](https://github.com/flutter/flutter/pull/172674) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172674) 64 additions and 0 deletions in 2 files</sub><br />
 
