@@ -113,3 +113,9 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add bundletool to FGP<br />
   <sub>[#172674](https://github.com/flutter/flutter/pull/172674) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172674) 64 additions and 0 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Revert #160653 Fix view removal process for AutofillContextAction.cancel<br />
+  <sub>[#172675](https://github.com/flutter/flutter/pull/172675) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172675) 2 additions and 26 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Revert #160653 Fix view removal process for AutofillContextAction.cancel<br />
+  <sub>[#172676](https://github.com/flutter/flutter/pull/172676) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172676) 2 additions and 26 deletions in 2 files</sub><br />
+
