@@ -113,9 +113,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Revert #160653 Fix view removal process for AutofillContextAction.cancel<br />
   <sub>[#172675](https://github.com/flutter/flutter/pull/172675) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172675) 2 additions and 26 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Revert #160653 Fix view removal process for AutofillContextAction.cancel<br />
-  <sub>[#172676](https://github.com/flutter/flutter/pull/172676) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172676) 2 additions and 26 deletions in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ActionChip doesn't crash in 0x0 environment<br />
   <sub>[#172684](https://github.com/flutter/flutter/pull/172684) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172684) 14 additions and 0 deletions in 1 file</sub><br />
 
