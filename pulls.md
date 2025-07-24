@@ -126,7 +126,7 @@
   <sub>[#172702](https://github.com/flutter/flutter/pull/172702) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172702) 44 additions and 8 deletions in 3 files</sub><br />
 
 * **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
-  <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172704) 190 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172704) 146 additions and 2 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix: Ensure Text widget locale is included in semantics language tag<br />
   <sub>[#172711](https://github.com/flutter/flutter/pull/172711) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172711) 52 additions and 0 deletions in 2 files</sub><br />
