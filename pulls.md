@@ -92,6 +92,9 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 151 additions and 100 deletions in 46 files</sub><br />
 
+* **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; 169108 ci debug<br />
+  <sub>[#172589](https://github.com/flutter/flutter/pull/172589) opened on on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172589) 6 additions and 0 deletions in 1 file</sub><br />
+
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
   <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
 
@@ -108,7 +111,7 @@
   <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172704) 146 additions and 2 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix: Ensure Text widget locale is included in semantics language tag<br />
-  <sub>[#172711](https://github.com/flutter/flutter/pull/172711) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172711) 52 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#172711](https://github.com/flutter/flutter/pull/172711) opened on on July 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172711) 52 additions and 0 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] range slider should have 2 focus node<br />
   <sub>[#172729](https://github.com/flutter/flutter/pull/172729) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172729) 26 additions and 8 deletions in 1 file</sub><br />

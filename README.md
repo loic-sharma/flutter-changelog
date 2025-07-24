@@ -107,7 +107,7 @@
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: start using the content aware hash for downloading artifacts<br />
-  <sub>[#171927](https://github.com/flutter/flutter/pull/171927) merged on July 21, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/171927) over 1 week, 77 additions and 47 deletions in 5 files</sub><br />
+  <sub>[#171927](https://github.com/flutter/flutter/pull/171927) merged on July 21, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/171927) over 1 week, 77 additions and 47 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit `w` (widget tree), `t` (render tree) from `flutter run --profile` `h`<br />
