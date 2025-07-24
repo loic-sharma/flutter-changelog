@@ -113,6 +113,3 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] range slider should have 2 focus node<br />
   <sub>[#172729](https://github.com/flutter/flutter/pull/172729) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172729) 26 additions and 8 deletions in 1 file</sub><br />
 
-* **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 26dece893751 to 5ede85aff798<br />
-  <sub>[#172731](https://github.com/flutter/flutter/pull/172731) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172731) 3 additions and 3 deletions in 2 files</sub><br />
-
