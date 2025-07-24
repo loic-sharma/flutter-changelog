@@ -113,3 +113,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix: Ensure Text widget locale is included in semantics language tag<br />
   <sub>[#172711](https://github.com/flutter/flutter/pull/172711) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172711) 52 additions and 0 deletions in 2 files</sub><br />
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] range slider should have 2 focus node<br />
+  <sub>[#172729](https://github.com/flutter/flutter/pull/172729) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172729) 26 additions and 8 deletions in 1 file</sub><br />
+
