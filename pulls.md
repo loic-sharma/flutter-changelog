@@ -51,7 +51,7 @@
   <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171638) 175 additions and 0 deletions in 8 files</sub><br />
 
 * **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
-  <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171646) 59 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/171646) 203 additions and 257 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true and added simple test case<br />
   <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171648) 213 additions and 1 deletion in 3 files</sub><br />
