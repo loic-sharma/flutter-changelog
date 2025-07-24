@@ -131,3 +131,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix: Ensure Text widget locale is included in semantics language tag<br />
   <sub>[#172711](https://github.com/flutter/flutter/pull/172711) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172711) 52 additions and 0 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Bringup `linux_web_engine_tests`; failing 4+ times in a row<br />
+  <sub>[#172714](https://github.com/flutter/flutter/pull/172714) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172714) 1 addition and 0 deletions in 1 file</sub><br />
+
