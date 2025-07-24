@@ -48,7 +48,7 @@
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 62 additions and 3 deletions in 2 files</sub><br />
 
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web<br />
-  <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171638) 175 additions and 0 deletions in 8 files</sub><br />
+  <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171638) 175 additions and 0 deletions in 8 files</sub><br />
 
 * **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
   <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171646) 59 additions and 7 deletions in 2 files</sub><br />
@@ -129,5 +129,5 @@
   <sub>[#172701](https://github.com/flutter/flutter/pull/172701) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172701) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Add missing ci configuration for `Linux android_java17_tool_integration_tests`<br />
-  <sub>[#172702](https://github.com/flutter/flutter/pull/172702) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172702) 45 additions and 9 deletions in 4 files</sub><br />
+  <sub>[#172702](https://github.com/flutter/flutter/pull/172702) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172702) 44 additions and 8 deletions in 3 files</sub><br />
 
