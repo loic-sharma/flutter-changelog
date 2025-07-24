@@ -122,3 +122,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Menu anchor reduce padding on web and desktop<br />
   <sub>[#172691](https://github.com/flutter/flutter/pull/172691) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172691) 116 additions and 19 deletions in 2 files</sub><br />
 
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Flutter-Cherrypick-Process.md - Spell cherry-pick consistently<br />
+  <sub>[#172697](https://github.com/flutter/flutter/pull/172697) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172697) 4 additions and 4 deletions in 1 file</sub><br />
+
