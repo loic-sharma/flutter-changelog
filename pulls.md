@@ -95,9 +95,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172496) 151 additions and 100 deletions in 46 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove support for `pluginClass: none` (on `master`; `> 3.35.0`)<br />
-  <sub>[#172579](https://github.com/flutter/flutter/pull/172579) opened on on July 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172579) 3 additions and 123 deletions in 3 files</sub><br />
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
   <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
 
