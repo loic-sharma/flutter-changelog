@@ -48,7 +48,7 @@
   <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 62 additions and 3 deletions in 2 files</sub><br />
 
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web<br />
-  <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171638) 175 additions and 0 deletions in 8 files</sub><br />
+  <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171638) 174 additions and 0 deletions in 8 files</sub><br />
 
 * **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
   <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/171646) 203 additions and 257 deletions in 2 files</sub><br />
@@ -118,4 +118,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Slider dragged mouse cursor visibility.<br />
   <sub>[#172759](https://github.com/flutter/flutter/pull/172759) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172759) 110 additions and 75 deletions in 3 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Text editing test accepts both behaviors in Firefox<br />
+  <sub>[#172767](https://github.com/flutter/flutter/pull/172767) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172767) 9 additions and 3 deletions in 2 files</sub><br />
 
