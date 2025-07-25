@@ -864,7 +864,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move Android to per-player-instance Pigeon APIs<br />
   <sub>[#9511](https://github.com/flutter/packages/pull/9511) merged on July 25, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/9511) over 3 weeks, 800 additions and 937 deletions in 12 files</sub><br />
@@ -881,6 +881,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Update to GoogleSignIn-iOS 9<br />
   <sub>[#9655](https://github.com/flutter/packages/pull/9655) merged on July 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9655) over 1 hour, 55 additions and 9 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Resolve `android_build_all_packages` Warnings<br />
+  <sub>[#9643](https://github.com/flutter/packages/pull/9643) merged on July 25, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/9643) over 1 week, 9 additions and 6 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 9<br />
   <sub>[#9645](https://github.com/flutter/packages/pull/9645) merged on July 23, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/packages/pull/9645) over 5 days, 161 additions and 149 deletions in 5 files</sub><br />
