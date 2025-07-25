@@ -864,7 +864,11 @@
 
 ### July 19, 2025 to July 25, 2025
 
-4 commits.
+5 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move Android to per-player-instance Pigeon APIs
+  <sub>[#9511](https://github.com/flutter/packages/pull/9511) merged on July 25, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/9511) over 3 weeks, 800 additions and 937 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add more serverClientId info to README
   <sub>[#9629](https://github.com/flutter/packages/pull/9629) merged on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9629) over 1 week, 19 additions and 3 deletions in 3 files</sub>
