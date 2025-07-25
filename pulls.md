@@ -126,13 +126,7 @@
   <sub>[#172783](https://github.com/flutter/flutter/pull/172783) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172783) 14 additions and 9 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide<br />
-  <sub>[#172785](https://github.com/flutter/flutter/pull/172785) opened on on July 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172785) 83 additions and 0 deletions in 3 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; `last_engine_commit.ps1`: Use `$flutterRoot` instead of `$gitTopLevel`<br />
-  <sub>[#172786](https://github.com/flutter/flutter/pull/172786) opened on on July 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172786) 3 additions and 4 deletions in 1 file</sub><br />
-
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches<br />
-  <sub>[#172792](https://github.com/flutter/flutter/pull/172792) opened on on July 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172792) 42 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#172785](https://github.com/flutter/flutter/pull/172785) opened on on July 25, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172785) 83 additions and 0 deletions in 3 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `main`/`master` repoExceptions analysis set<br />
   <sub>[#172796](https://github.com/flutter/flutter/pull/172796) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172796) 5 additions and 8 deletions in 3 files</sub><br />
