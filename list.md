@@ -881,7 +881,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-6 commits.
+7 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move Android to per-player-instance Pigeon APIs
   <sub>[#9511](https://github.com/flutter/packages/pull/9511) merged on July 25, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/9511) over 3 weeks, 800 additions and 937 deletions in 12 files</sub>
@@ -906,6 +906,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 9
   <sub>[#9645](https://github.com/flutter/packages/pull/9645) merged on July 23, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/packages/pull/9645) over 5 days, 161 additions and 149 deletions in 5 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from d7b523b356d1 to edada7c56edf (7 revisions)
+  <sub>[#9677](https://github.com/flutter/packages/pull/9677) merged on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9677) over 56 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### July 12, 2025 to July 18, 2025
 
