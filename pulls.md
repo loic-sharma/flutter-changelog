@@ -101,9 +101,6 @@
 * **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
   <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172704) 156 additions and 2 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix: Ensure Text widget locale is included in semantics language tag<br />
-  <sub>[#172711](https://github.com/flutter/flutter/pull/172711) opened on on July 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172711) 52 additions and 0 deletions in 2 files</sub><br />
-
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] range slider should have 2 focus node<br />
   <sub>[#172729](https://github.com/flutter/flutter/pull/172729) opened on on July 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172729) 63 additions and 8 deletions in 1 file</sub><br />
 
@@ -130,4 +127,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update CHANGELOG.md for 3.32.8<br />
   <sub>[#172779](https://github.com/flutter/flutter/pull/172779) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172779) 7 additions and 0 deletions in 1 file</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 5ede85aff798 to a58517fea52f<br />
+  <sub>[#172783](https://github.com/flutter/flutter/pull/172783) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172783) 14 additions and 9 deletions in 2 files</sub><br />
 

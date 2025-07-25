@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Respect user-data-dir flag from web-browser-flag
-  <sub>[#169445](https://github.com/flutter/flutter/pull/169445) merged on July 25, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/169445) over 2 months, 51 additions and 3 deletions in 2 files</sub>
+  <sub>[#169445](https://github.com/flutter/flutter/pull/169445) merged on July 25, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/169445) over 2 months, 51 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
   <sub><details><summary>2 images...</summary>![before](https://github.com/user-attachments/assets/b3f33419-fbf1-446e-a471-745df2e8c4f6) | ![after](https://github.com/user-attachments/assets/ea74a203-c269-4ce1-8a9b-f97e9a4cdc78)![before_files](https://github.com/user-attachments/assets/8522e60b-d0eb-4b66-a4b6-c2d6ed34c15b) | ![after_files](https://github.com/user-attachments/assets/ff94b498-b319-474c-89e5-c55f6e1c4383)</details></sub>
 
