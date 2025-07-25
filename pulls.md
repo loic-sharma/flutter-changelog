@@ -134,6 +134,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update warnGradleVersion to `8.7.0`<br />
   <sub>[#172787](https://github.com/flutter/flutter/pull/172787) opened on on July 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172787) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta] Emit a warning on `--[no-]disable-dds`, preferring `--no-dds`<br />
-  <sub>[#172790](https://github.com/flutter/flutter/pull/172790) opened on on July 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172790) 17 additions and 14 deletions in 2 files</sub><br />
-
