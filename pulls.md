@@ -131,3 +131,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches<br />
   <sub>[#172792](https://github.com/flutter/flutter/pull/172792) opened on on July 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172792) 42 additions and 2 deletions in 3 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `main`/`master` repoExceptions analysis set<br />
+  <sub>[#172796](https://github.com/flutter/flutter/pull/172796) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172796) 5 additions and 8 deletions in 3 files</sub><br />
+
