@@ -116,3 +116,12 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Autocomplete doesn't crash in 0x0 environment<br />
   <sub>[#172732](https://github.com/flutter/flutter/pull/172732) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172732) 19 additions and 0 deletions in 1 file</sub><br />
 
+* **[Luke Memet](https://github.com/lukemmtt)** &mdash; Add real-time reorder feedback with onReorderUpdate callback<br />
+  <sub>[#172738](https://github.com/flutter/flutter/pull/172738) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172738) 28 additions and 0 deletions in 2 files</sub><br />
+
+* **[Luke Memet](https://github.com/lukemmtt)** &mdash; Add programmatic reordering API to ReorderableListView<br />
+  <sub>[#172739](https://github.com/flutter/flutter/pull/172739) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172739) 24 additions and 0 deletions in 1 file</sub><br />
+
+* **[Luke Memet](https://github.com/lukemmtt)** &mdash; Add spread-to-add gesture for inserting items in ReorderableListView<br />
+  <sub>[#172740](https://github.com/flutter/flutter/pull/172740) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172740) 95 additions and 0 deletions in 3 files</sub><br />
+
