@@ -120,5 +120,5 @@
   <sub>[#172756](https://github.com/flutter/flutter/pull/172756) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172756) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Slider dragged mouse cursor visibility.<br />
-  <sub>[#172759](https://github.com/flutter/flutter/pull/172759) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172759) 110 additions and 75 deletions in 3 files</sub><br />
+  <sub>[#172759](https://github.com/flutter/flutter/pull/172759) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172759) 110 additions and 75 deletions in 3 files</sub><br />
 
