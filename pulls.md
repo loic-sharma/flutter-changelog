@@ -128,6 +128,3 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide<br />
   <sub>[#172785](https://github.com/flutter/flutter/pull/172785) opened on on July 25, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172785) 82 additions and 0 deletions in 3 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `main`/`master` repoExceptions analysis set<br />
-  <sub>[#172796](https://github.com/flutter/flutter/pull/172796) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172796) 5 additions and 8 deletions in 3 files</sub><br />
-
