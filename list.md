@@ -1110,7 +1110,7 @@
 
 ### July 19, 2025 to July 25, 2025
 
-7 commits.
+8 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document the existence of a `licenses: ...` field (`pubspec.yaml`)
   <sub>[#12227](https://github.com/flutter/website/pull/12227) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12227) over 5 hours, 18 additions and 0 deletions in 1 file</sub>
@@ -1118,6 +1118,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pnpm and various npm deps
   <sub>[#12229](https://github.com/flutter/website/pull/12229) merged on July 22, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12229) over 8 hours, 218 additions and 208 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Remove iOS & Android video from index
+  <sub>[#12243](https://github.com/flutter/website/pull/12243) merged on July 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12243) over 1 hour, 3 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; feat: Add introductory video to main docs page
