@@ -102,7 +102,7 @@
   <sub>[#172674](https://github.com/flutter/flutter/pull/172674) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172674) 61 additions and 0 deletions in 2 files</sub><br />
 
 * **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
-  <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172704) 145 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172704) 150 additions and 2 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix: Ensure Text widget locale is included in semantics language tag<br />
   <sub>[#172711](https://github.com/flutter/flutter/pull/172711) opened on on July 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172711) 52 additions and 0 deletions in 2 files</sub><br />
@@ -115,4 +115,7 @@
 
 * **[ShantanuBorkar](https://github.com/AlsoShantanuBorkar)** &mdash; feat: Added Focus Toggle for DropdownMenu TrailingIcon Button<br />
   <sub>[#172753](https://github.com/flutter/flutter/pull/172753) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172753) 52 additions and 1 deletion in 2 files</sub><br />
+
+* **[Kaushik Gupta](https://github.com/KaushikGupta007)** &mdash; Fix: Prevent broken text selection after app resume on Web/Desktop<br />
+  <sub>[#172756](https://github.com/flutter/flutter/pull/172756) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172756) 4 additions and 4 deletions in 1 file</sub><br />
 
