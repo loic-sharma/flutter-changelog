@@ -101,9 +101,6 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add bundletool to FGP<br />
   <sub>[#172674](https://github.com/flutter/flutter/pull/172674) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172674) 61 additions and 0 deletions in 2 files</sub><br />
 
-* **[Huy](https://github.com/huycozy)** &mdash; Fix Menu anchor reduce padding on web and desktop<br />
-  <sub>[#172691](https://github.com/flutter/flutter/pull/172691) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172691) 118 additions and 21 deletions in 3 files</sub><br />
-
 * **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
   <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172704) 146 additions and 2 deletions in 2 files</sub><br />
 
