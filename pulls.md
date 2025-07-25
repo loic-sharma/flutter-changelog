@@ -84,7 +84,7 @@
   <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172436) 6 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
-  <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/172496) 451 additions and 389 deletions in 121 files</sub><br />
+  <sub>[#172496](https://github.com/flutter/flutter/pull/172496) opened on on July 21, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/172496) 453 additions and 392 deletions in 122 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
   <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
@@ -124,6 +124,9 @@
 
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 5ede85aff798 to a58517fea52f<br />
   <sub>[#172783](https://github.com/flutter/flutter/pull/172783) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172783) 14 additions and 9 deletions in 2 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide<br />
+  <sub>[#172785](https://github.com/flutter/flutter/pull/172785) opened on on July 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172785) 83 additions and 0 deletions in 3 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; `last_engine_commit.ps1`: Use `$flutterRoot` instead of `$gitTopLevel`<br />
   <sub>[#172786](https://github.com/flutter/flutter/pull/172786) opened on on July 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172786) 3 additions and 4 deletions in 1 file</sub><br />
