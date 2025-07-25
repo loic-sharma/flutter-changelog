@@ -125,9 +125,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable Firefox auto-updates<br />
   <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 1 addition and 1 deletion in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update CHANGELOG.md for 3.32.8<br />
-  <sub>[#172779](https://github.com/flutter/flutter/pull/172779) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172779) 7 additions and 0 deletions in 1 file</sub><br />
-
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 5ede85aff798 to a58517fea52f<br />
   <sub>[#172783](https://github.com/flutter/flutter/pull/172783) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172783) 14 additions and 9 deletions in 2 files</sub><br />
 
