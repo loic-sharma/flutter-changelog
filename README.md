@@ -19,6 +19,10 @@
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
   <sub><details><summary>2 images...</summary>![before](https://github.com/user-attachments/assets/b3f33419-fbf1-446e-a471-745df2e8c4f6) | ![after](https://github.com/user-attachments/assets/ea74a203-c269-4ce1-8a9b-f97e9a4cdc78)![before_files](https://github.com/user-attachments/assets/8522e60b-d0eb-4b66-a4b6-c2d6ed34c15b) | ![after_files](https://github.com/user-attachments/assets/ff94b498-b319-474c-89e5-c55f6e1c4383)</details></sub>
 
+* **[Pedro Massango](https://github.com/pedromassango)** &mdash; Fix: Ensure Text widget locale is included in semantics language tag<br />
+  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) merged on July 23, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/172034) over 1 week, 52 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix previous text input connection interrupts enter/space<br />
   <sub>[#171973](https://github.com/flutter/flutter/pull/171973) merged on July 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/171973) over 2 weeks, 158 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Camille Simon](https://github.com/camsim99)</sub><br />
@@ -34,10 +38,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; revert:  Replaces legacy licenses check with licenses_cpp<br />
   <sub>[#172568](https://github.com/flutter/flutter/pull/172568) merged on July 23, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172568) over 21 hours, 69282 additions and 36856 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Pedro Massango](https://github.com/pedromassango)** &mdash; Fix: Ensure Text widget locale is included in semantics language tag<br />
-  <sub>[#172034](https://github.com/flutter/flutter/pull/172034) merged on July 23, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/172034) over 1 week, 52 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add momentary varient of CupertinoSlidingSegmentedControl<br />
   <sub>[#164262](https://github.com/flutter/flutter/pull/164262) merged on July 21, 2025 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/164262) over 4 months, 162 additions and 13 deletions in 4 files</sub><br />
