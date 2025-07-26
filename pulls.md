@@ -126,7 +126,7 @@
   <sub>[#172783](https://github.com/flutter/flutter/pull/172783) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172783) 14 additions and 9 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide<br />
-  <sub>[#172785](https://github.com/flutter/flutter/pull/172785) opened on on July 25, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172785) 82 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#172785](https://github.com/flutter/flutter/pull/172785) opened on on July 25, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) 82 additions and 0 deletions in 3 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate Embedder code to impeller/DL geometry classes<br />
   <sub>[#172804](https://github.com/flutter/flutter/pull/172804) opened on on July 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172804) 442 additions and 509 deletions in 43 files</sub><br />
