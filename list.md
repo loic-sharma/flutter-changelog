@@ -116,7 +116,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches
-  <sub>[#172792](https://github.com/flutter/flutter/pull/172792) merged on July 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/172792) over 3 hours, 111 additions and 9 deletions in 4 files</sub>
+  <sub>[#172792](https://github.com/flutter/flutter/pull/172792) merged on July 26, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/172792) over 3 hours, 111 additions and 9 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Adds `(defaults to ___)` when using `flutter config --help`
