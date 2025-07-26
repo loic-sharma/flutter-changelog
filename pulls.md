@@ -131,3 +131,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RawAutocomplete doesn't crash in 0x0 environment<br />
   <sub>[#172812](https://github.com/flutter/flutter/pull/172812) opened on on July 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172812) 32 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jemish Vasoya](https://github.com/jemishavasoya)** &mdash; [iOS] Improve error message for code signing failures<br />
+  <sub>[#172814](https://github.com/flutter/flutter/pull/172814) opened on on July 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172814) 14 additions and 9 deletions in 2 files</sub><br />
+
