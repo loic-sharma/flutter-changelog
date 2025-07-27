@@ -141,5 +141,5 @@
   <sub>[#172823](https://github.com/flutter/flutter/pull/172823) opened on on July 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172823) 166 additions and 104 deletions in 1 file</sub><br />
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
-  <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172829) 46 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172829) 64 additions and 6 deletions in 3 files</sub><br />
 
