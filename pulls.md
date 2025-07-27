@@ -129,7 +129,7 @@
   <sub>[#172785](https://github.com/flutter/flutter/pull/172785) opened on on July 25, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) 82 additions and 0 deletions in 3 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate Embedder code to impeller/DL geometry classes<br />
-  <sub>[#172804](https://github.com/flutter/flutter/pull/172804) opened on on July 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172804) 458 additions and 525 deletions in 46 files</sub><br />
+  <sub>[#172804](https://github.com/flutter/flutter/pull/172804) opened on on July 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172804) 460 additions and 526 deletions in 46 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RawAutocomplete doesn't crash in 0x0 environment<br />
   <sub>[#172812](https://github.com/flutter/flutter/pull/172812) opened on on July 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172812) 32 additions and 0 deletions in 1 file</sub><br />
