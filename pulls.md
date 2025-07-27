@@ -119,8 +119,8 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable Firefox auto-updates<br />
   <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 1 addition and 1 deletion in 2 files</sub><br />
 
-* **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 5ede85aff798 to a58517fea52f<br />
-  <sub>[#172783](https://github.com/flutter/flutter/pull/172783) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172783) 14 additions and 9 deletions in 2 files</sub><br />
+* **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 5ede85aff798 to 14ea8d342149<br />
+  <sub>[#172783](https://github.com/flutter/flutter/pull/172783) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172783) 15 additions and 10 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide<br />
   <sub>[#172785](https://github.com/flutter/flutter/pull/172785) opened on on July 25, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) 82 additions and 0 deletions in 3 files</sub><br />
