@@ -7,7 +7,7 @@
 6 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
-  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
@@ -771,35 +771,35 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document the existence of a `licenses: ...` field (`pubspec.yaml`)<br />
   <sub>[#12227](https://github.com/flutter/website/pull/12227) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12227) over 5 hours, 18 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pnpm and various npm deps<br />
   <sub>[#12229](https://github.com/flutter/website/pull/12229) merged on July 22, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12229) over 8 hours, 218 additions and 208 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Remove iOS & Android video from index<br />
   <sub>[#12243](https://github.com/flutter/website/pull/12243) merged on July 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12243) over 1 hour, 3 additions and 9 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; feat: Add introductory video to main docs page<br />
   <sub>[#12240](https://github.com/flutter/website/pull/12240) merged on July 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12240) over 1 day, 7 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; removing older videos from home page<br />
   <sub>[#12241](https://github.com/flutter/website/pull/12241) merged on July 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12241) over 21 hours, 54 additions and 27 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add breaking changes doc for CupertinoDynamicColor wide gamut changes.<br />
   <sub>[#12236](https://github.com/flutter/website/pull/12236) merged on July 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12236) over 7 hours, 122 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add iOS UIScene Design Doc<br />
   <sub>[#12237](https://github.com/flutter/website/pull/12237) merged on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12237) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Add go/intrinsic-box to firebase.json<br />
   <sub>[#12231](https://github.com/flutter/website/pull/12231) merged on July 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12231) over 32 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 ### July 12, 2025 to July 18, 2025
 
@@ -808,43 +808,43 @@
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Add migration guide for moving the gradle files<br />
   <sub>[#12203](https://github.com/flutter/website/pull/12203) merged on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12203) over 5 hours, 73 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add compass-25 go/ link to firebase.json<br />
   <sub>[#12215](https://github.com/flutter/website/pull/12215) merged on July 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12215) over 42 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add SliverFillRemaining to the widget catalog<br />
   <sub>[#12218](https://github.com/flutter/website/pull/12218) merged on July 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12218) over 19 hours, 8 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Craig Labenz](https://github.com/craiglabenz), [Kate Lovett](https://github.com/Piinks), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Craig Labenz](https://github.com/craiglabenz), [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add Sliver widgets to the Scrolling widget catalog<br />
   <sub>[#12219](https://github.com/flutter/website/pull/12219) merged on July 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12219) over 19 hours, 5 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add breaking changes doc for form role changes<br />
   <sub>[#12200](https://github.com/flutter/website/pull/12200) merged on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12200) over 2 days, 79 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix path to build directory in migration guide<br />
   <sub>[#12223](https://github.com/flutter/website/pull/12223) merged on July 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12223) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add overlay window design doc<br />
   <sub>[#12213](https://github.com/flutter/website/pull/12213) merged on July 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12213) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[James Williams](https://github.com/jwill)** &mdash; Document homescreen widget options for iOS and Android<br />
   <sub>[#12210](https://github.com/flutter/website/pull/12210) merged on July 16, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12210) over 1 day, 26 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
-* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Fixes some typos<br />
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fixes some typos<br />
   <sub>[#12209](https://github.com/flutter/website/pull/12209) merged on July 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12209) over 1 day, 13 additions and 13 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[aCrispyCookie](https://github.com/Cookiecodess)** &mdash; Fix broken link in app-architecture/case-study<br />
   <sub>[#12207](https://github.com/flutter/website/pull/12207) merged on July 16, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12207) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 </details>
 
