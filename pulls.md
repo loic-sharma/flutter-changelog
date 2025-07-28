@@ -114,7 +114,7 @@
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172829) 64 additions and 6 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Disable smooth resizing when UI and platform threads are merged.<br />
-  <sub>[#172835](https://github.com/flutter/flutter/pull/172835) opened on on July 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172835) 44 additions and 11 deletions in 7 files</sub><br />
+  <sub>[#172835](https://github.com/flutter/flutter/pull/172835) opened on on July 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172835) 44 additions and 11 deletions in 7 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view builder<br />
   <sub>[#172837](https://github.com/flutter/flutter/pull/172837) opened on on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172837) 190 additions and 11 deletions in 2 files</sub><br />
@@ -127,4 +127,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer<br />
   <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix gemini config yaml<br />
+  <sub>[#172887](https://github.com/flutter/flutter/pull/172887) opened on on July 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172887) 1 addition and 1 deletion in 1 file</sub><br />
 
