@@ -141,5 +141,5 @@
   <sub>[#172847](https://github.com/flutter/flutter/pull/172847) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172847) 125 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jagadeesh S](https://github.com/jagadeesh8682)** &mdash; Add markdown formatter using mdformat<br />
-  <sub>[#172861](https://github.com/flutter/flutter/pull/172861) opened on on July 28, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/172861) 27035 additions and 13992 deletions in 340 files</sub><br />
+  <sub>[#172861](https://github.com/flutter/flutter/pull/172861) opened on on July 28, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172861) 27035 additions and 13992 deletions in 340 files</sub><br />
 
