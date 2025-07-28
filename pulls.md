@@ -8,9 +8,6 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add flag to disable automatic device reboot for DeviceLab tests<br />
   <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
-* **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
-  <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart to 3.9.0-100.dev<br />
   <sub>[#168560](https://github.com/flutter/flutter/pull/168560) opened on on May 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/168560) 12 additions and 12 deletions in 2 files</sub><br />
 
@@ -65,9 +62,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
   <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/172124) 127 additions and 8 deletions in 3 files</sub><br />
 
-* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve `SweepGradient` angle and `TileMode` documentation<br />
-  <sub>[#172406](https://github.com/flutter/flutter/pull/172406) opened on on July 19, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/172406) 89 additions and 23 deletions in 2 files</sub><br />
-
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix #160622: Restore watchOS Companion App Build Compatibility<br />
   <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172436) 6 additions and 5 deletions in 1 file</sub><br />
 
@@ -116,9 +110,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide<br />
   <sub>[#172785](https://github.com/flutter/flutter/pull/172785) opened on on July 25, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) 82 additions and 0 deletions in 3 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Migrate Embedder code to impeller/DL geometry classes<br />
-  <sub>[#172804](https://github.com/flutter/flutter/pull/172804) opened on on July 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/172804) 463 additions and 529 deletions in 49 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RawAutocomplete doesn't crash in 0x0 environment<br />
   <sub>[#172812](https://github.com/flutter/flutter/pull/172812) opened on on July 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172812) 32 additions and 0 deletions in 1 file</sub><br />
 
@@ -139,7 +130,4 @@
 
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow empty initial time when using text input mode in showTimePicker dialog<br />
   <sub>[#172847](https://github.com/flutter/flutter/pull/172847) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172847) 125 additions and 2 deletions in 2 files</sub><br />
-
-* **[Jagadeesh S](https://github.com/jagadeesh8682)** &mdash; Add markdown formatter using mdformat<br />
-  <sub>[#172861](https://github.com/flutter/flutter/pull/172861) opened on on July 28, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/172861) 27035 additions and 13992 deletions in 340 files</sub><br />
 
