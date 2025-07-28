@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-6 commits.
+7 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub>
@@ -29,6 +29,10 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Remove shortner
   <sub>[#172844](https://github.com/flutter/flutter/pull/172844) merged on July 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172844) over 5 hours, 9 additions and 9 deletions in 9 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland licenses cpp switch
+  <sub>[#172671](https://github.com/flutter/flutter/pull/172671) merged on July 28, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/172671) over 4 days, 34166 additions and 19742 deletions in 6 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 ### July 19, 2025 to July 25, 2025
 
