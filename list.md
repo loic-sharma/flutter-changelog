@@ -4,7 +4,11 @@
 
 ### July 26, 2025 to August 1, 2025
 
-2 commits.
+3 commits.
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update provisioning profile for 2025-2026 cert for chromium bots
+  <sub>[#171021](https://github.com/flutter/flutter/pull/171021) merged on July 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171021) over 1 month, 7 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter pub get` to use `flutter.version.json` (instead of `version`)
   <sub>[#172798](https://github.com/flutter/flutter/pull/172798) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172798) over 2 days, 148 additions and 93 deletions in 2 files</sub>
@@ -636,9 +640,18 @@
 
 ## flutter/packages
 
+### July 26, 2025 to August 1, 2025
+
+1 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to set general SDK settings
+  <sub>[#9648](https://github.com/flutter/packages/pull/9648) merged on July 28, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/9648) over 1 week, 2785 additions and 88 deletions in 34 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 ### July 19, 2025 to July 25, 2025
 
-7 commits.
+<details>
+<summary>7 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move Android to per-player-instance Pigeon APIs
   <sub>[#9511](https://github.com/flutter/packages/pull/9511) merged on July 25, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/9511) over 3 weeks, 800 additions and 937 deletions in 12 files</sub>
@@ -667,6 +680,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from d7b523b356d1 to edada7c56edf (7 revisions)
   <sub>[#9677](https://github.com/flutter/packages/pull/9677) merged on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9677) over 56 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### July 12, 2025 to July 18, 2025
 
