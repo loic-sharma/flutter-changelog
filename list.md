@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### July 26, 2025 to August 1, 2025
+
+1 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter pub get` to use `flutter.version.json` (instead of `version`)
+  <sub>[#172798](https://github.com/flutter/flutter/pull/172798) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172798) over 2 days, 148 additions and 93 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
 ### July 19, 2025 to July 25, 2025
 
-90 commits.
+<details>
+<summary>90 commits...</summary>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`
   <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub>
@@ -366,6 +375,8 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update call to SkImage::makeSubset
   <sub>[#172456](https://github.com/flutter/flutter/pull/172456) merged on July 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172456) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+</details>
 
 ### July 12, 2025 to July 18, 2025
 
