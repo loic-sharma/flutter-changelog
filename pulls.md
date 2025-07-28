@@ -8,9 +8,6 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add flag to disable automatic device reboot for DeviceLab tests<br />
   <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Convert Gradle buildscripts of Android plugin templates from Groovy to Kotlin<br />
-  <sub>[#166312](https://github.com/flutter/flutter/pull/166312) opened on on April 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/166312) 16 additions and 19 deletions in 8 files</sub><br />
-
 * **[Hellomik2002](https://github.com/Hellomik2002)** &mdash; [Impeller] add run time shaders<br />
   <sub>[#168294](https://github.com/flutter/flutter/pull/168294) opened on on May 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/168294) 95 additions and 14 deletions in 6 files</sub><br />
 
@@ -24,7 +21,7 @@
   <sub>[#168912](https://github.com/flutter/flutter/pull/168912) opened on on May 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168912) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
-  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
 
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Layout Widgets for Dynamic UI Support<br />
   <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
@@ -58,9 +55,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
-
-* **[Keyur Maru](https://github.com/keyur2maru)** &mdash; Fix automatic JavaScript fallback for flutter run when WASM is not available<br />
-  <sub>[#172002](https://github.com/flutter/flutter/pull/172002) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172002) 92 additions and 19 deletions in 3 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
