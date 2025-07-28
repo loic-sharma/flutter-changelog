@@ -128,7 +128,7 @@
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove 2023 deprecated `'platforms'` key from daemon output<br />
-  <sub>[#172593](https://github.com/flutter/flutter/pull/172593) merged on July 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172593) over 2 days, 1 addition and 7 deletions in 2 files</sub><br />
+  <sub>[#172593](https://github.com/flutter/flutter/pull/172593) merged on July 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172593) over 2 days, 1 addition and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove deprecated `--[no-]-disable-dds`<br />

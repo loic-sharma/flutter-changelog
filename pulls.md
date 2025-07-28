@@ -149,3 +149,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view builder<br />
   <sub>[#172837](https://github.com/flutter/flutter/pull/172837) opened on on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172837) 190 additions and 11 deletions in 2 files</sub><br />
 
+* **[René Kilczan](https://github.com/rekire)** &mdash; Remove shortner<br />
+  <sub>[#172844](https://github.com/flutter/flutter/pull/172844) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172844) 9 additions and 9 deletions in 9 files</sub><br />
+
