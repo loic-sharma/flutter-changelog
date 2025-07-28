@@ -80,8 +80,8 @@
 * **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
   <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172704) 156 additions and 2 deletions in 2 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] range slider should have 2 focus node<br />
-  <sub>[#172729](https://github.com/flutter/flutter/pull/172729) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172729) 76 additions and 14 deletions in 2 files</sub><br />
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] RangeSlider should have 2 focus node<br />
+  <sub>[#172729](https://github.com/flutter/flutter/pull/172729) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172729) 253 additions and 14 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Autocomplete doesn't crash in 0x0 environment<br />
   <sub>[#172732](https://github.com/flutter/flutter/pull/172732) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172732) 19 additions and 0 deletions in 1 file</sub><br />
