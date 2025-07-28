@@ -146,3 +146,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Disable smooth resizing when UI and platform threads are merged.<br />
   <sub>[#172835](https://github.com/flutter/flutter/pull/172835) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172835) 44 additions and 11 deletions in 7 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view builder<br />
+  <sub>[#172837](https://github.com/flutter/flutter/pull/172837) opened on on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172837) 190 additions and 11 deletions in 2 files</sub><br />
+
