@@ -138,7 +138,7 @@
   <sub>[#172817](https://github.com/flutter/flutter/pull/172817) opened on on July 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172817) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Advay ](https://github.com/advyy100i)** &mdash; Fix RichText widget to use empty list instead of null for children<br />
-  <sub>[#172823](https://github.com/flutter/flutter/pull/172823) opened on on July 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172823) 166 additions and 104 deletions in 1 file</sub><br />
+  <sub>[#172823](https://github.com/flutter/flutter/pull/172823) opened on on July 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172823) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172829) 64 additions and 6 deletions in 3 files</sub><br />
