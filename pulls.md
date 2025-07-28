@@ -134,3 +134,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer<br />
   <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
 
+* **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix `ReorderableList` return-to-origin animation (refactoring approach)<br />
+  <sub>[#172882](https://github.com/flutter/flutter/pull/172882) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172882) 55 additions and 24 deletions in 1 file</sub><br />
+
