@@ -140,3 +140,6 @@
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow empty initial time when using text input mode in showTimePicker dialog<br />
   <sub>[#172847](https://github.com/flutter/flutter/pull/172847) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172847) 125 additions and 2 deletions in 2 files</sub><br />
 
+* **[Jagadeesh S](https://github.com/jagadeesh8682)** &mdash; Add markdown formatter using mdformat<br />
+  <sub>[#172861](https://github.com/flutter/flutter/pull/172861) opened on on July 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172861) 121 additions and 0 deletions in 3 files</sub><br />
+
