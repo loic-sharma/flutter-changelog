@@ -4,7 +4,11 @@
 
 ### July 26, 2025 to August 1, 2025
 
-7 commits.
+8 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
+  <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub><br />

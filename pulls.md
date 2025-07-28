@@ -35,9 +35,6 @@
 * **[Lewin Pauli](https://github.com/lewinpauli)** &mdash; Added computeDryBaseline implementation in RenderShiftedBox<br />
   <sub>[#171250](https://github.com/flutter/flutter/pull/171250) opened on on June 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/171250) 29 additions and 5 deletions in 1 file</sub><br />
 
-* **[Zuckjet](https://github.com/Zuckjet)** &mdash; fix: adjust scrollable size assertion with tolerance<br />
-  <sub>[#171426](https://github.com/flutter/flutter/pull/171426) opened on on July 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/171426) 62 additions and 3 deletions in 2 files</sub><br />
-
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web<br />
   <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171638) 174 additions and 0 deletions in 8 files</sub><br />
 
