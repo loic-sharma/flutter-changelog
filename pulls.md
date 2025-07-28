@@ -143,3 +143,6 @@
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172829) 64 additions and 6 deletions in 3 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Disable smooth resizing when UI and platform threads are merged.<br />
+  <sub>[#172835](https://github.com/flutter/flutter/pull/172835) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172835) 44 additions and 11 deletions in 7 files</sub><br />
+
