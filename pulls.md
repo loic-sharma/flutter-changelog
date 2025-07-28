@@ -129,7 +129,7 @@
   <sub>[#172823](https://github.com/flutter/flutter/pull/172823) opened on on July 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172823) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
-  <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172829) 64 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172829) 64 additions and 6 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Disable smooth resizing when UI and platform threads are merged.<br />
   <sub>[#172835](https://github.com/flutter/flutter/pull/172835) opened on on July 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172835) 44 additions and 11 deletions in 7 files</sub><br />
@@ -141,5 +141,5 @@
   <sub>[#172847](https://github.com/flutter/flutter/pull/172847) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172847) 125 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jagadeesh S](https://github.com/jagadeesh8682)** &mdash; Add markdown formatter using mdformat<br />
-  <sub>[#172861](https://github.com/flutter/flutter/pull/172861) opened on on July 28, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172861) 27035 additions and 13992 deletions in 340 files</sub><br />
+  <sub>[#172861](https://github.com/flutter/flutter/pull/172861) opened on on July 28, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/172861) 27035 additions and 13992 deletions in 340 files</sub><br />
 
