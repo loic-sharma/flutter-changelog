@@ -108,7 +108,7 @@
   <sub>[#172732](https://github.com/flutter/flutter/pull/172732) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172732) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[ShantanuBorkar](https://github.com/AlsoShantanuBorkar)** &mdash; feat: Added Focus Toggle for DropdownMenu TrailingIcon Button<br />
-  <sub>[#172753](https://github.com/flutter/flutter/pull/172753) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172753) 70 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#172753](https://github.com/flutter/flutter/pull/172753) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172753) 71 additions and 7 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Slider dragged mouse cursor visibility.<br />
   <sub>[#172759](https://github.com/flutter/flutter/pull/172759) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172759) 110 additions and 75 deletions in 3 files</sub><br />
