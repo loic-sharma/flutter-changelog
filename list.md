@@ -4,10 +4,22 @@
 
 ### July 26, 2025 to August 1, 2025
 
-3 commits.
+6 commits.
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build
+  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows
+  <sub>[#172239](https://github.com/flutter/flutter/pull/172239) merged on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) over 1 week, 168 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide
+  <sub>[#172785](https://github.com/flutter/flutter/pull/172785) merged on July 28, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) over 2 days, 82 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update provisioning profile for 2025-2026 cert for chromium bots
-  <sub>[#171021](https://github.com/flutter/flutter/pull/171021) merged on July 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/171021) over 1 month, 7 additions and 7 deletions in 1 file</sub>
+  <sub>[#171021](https://github.com/flutter/flutter/pull/171021) merged on July 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171021) over 1 month, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter pub get` to use `flutter.version.json` (instead of `version`)
@@ -722,7 +734,7 @@
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Have Gemini ignore Flutter version pin
-  <sub>[#9647](https://github.com/flutter/packages/pull/9647) merged on July 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9647) over 1 day, 3 additions and 0 deletions in 1 file</sub>
+  <sub>[#9647](https://github.com/flutter/packages/pull/9647) merged on July 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9647) over 1 day, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Update androidx.webkit to 1.14.0
