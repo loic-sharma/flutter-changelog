@@ -21,7 +21,7 @@
   <sub>[#168912](https://github.com/flutter/flutter/pull/168912) opened on on May 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/168912) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
-  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) opened on on May 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/169034) 67 additions and 0 deletions in 3 files</sub><br />
 
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Layout Widgets for Dynamic UI Support<br />
   <sub>[#169513](https://github.com/flutter/flutter/pull/169513) opened on on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169513) 98 additions and 45 deletions in 2 files</sub><br />
@@ -67,9 +67,6 @@
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
   <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/172124) 127 additions and 8 deletions in 3 files</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
-  <sub>[#172239](https://github.com/flutter/flutter/pull/172239) opened on on July 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) 168 additions and 0 deletions in 6 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve `SweepGradient` angle and `TileMode` documentation<br />
   <sub>[#172406](https://github.com/flutter/flutter/pull/172406) opened on on July 19, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/172406) 89 additions and 23 deletions in 2 files</sub><br />
