@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-9 commits.
+11 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
@@ -34,6 +34,10 @@
   <sub>[#172798](https://github.com/flutter/flutter/pull/172798) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172798) over 2 days, 148 additions and 93 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 5ede85aff798 to 14ea8d342149<br />
+  <sub>[#172783](https://github.com/flutter/flutter/pull/172783) merged on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172783) over 3 days, 15 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[René Kilczan](https://github.com/rekire)** &mdash; Remove shortner<br />
   <sub>[#172844](https://github.com/flutter/flutter/pull/172844) merged on July 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172844) over 5 hours, 9 additions and 9 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -41,6 +45,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland licenses cpp switch<br />
   <sub>[#172671](https://github.com/flutter/flutter/pull/172671) merged on July 28, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/172671) over 4 days, 34166 additions and 19742 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Revert "Remove 2023 deprecated `'platforms'` key from daemon output (#172593)"<br />
+  <sub>[#172883](https://github.com/flutter/flutter/pull/172883) merged on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172883) over 3 hours, 7 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup)</sub><br />
 
 ### July 19, 2025 to July 25, 2025
 
@@ -666,10 +674,14 @@
 
 ### July 26, 2025 to August 1, 2025
 
-2 commits.
+3 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to set general SDK settings<br />
   <sub>[#9648](https://github.com/flutter/packages/pull/9648) merged on July 28, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/9648) over 1 week, 2785 additions and 88 deletions in 34 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds remaining methods for internal wrapper of the native `AdsRequest`<br />
+  <sub>[#9663](https://github.com/flutter/packages/pull/9663) merged on July 29, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/9663) over 6 days, 2042 additions and 6 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Delete unused file<br />
