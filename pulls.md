@@ -89,14 +89,8 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable Firefox auto-updates<br />
   <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 22 additions and 2 deletions in 3 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RawAutocomplete doesn't crash in 0x0 environment<br />
-  <sub>[#172812](https://github.com/flutter/flutter/pull/172812) opened on on July 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172812) 32 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BackButton doesn't crash in 0x0 environment<br />
   <sub>[#172817](https://github.com/flutter/flutter/pull/172817) opened on on July 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172817) 12 additions and 0 deletions in 1 file</sub><br />
-
-* **[Advay ](https://github.com/advyy100i)** &mdash; Fix RichText widget to use empty list instead of null for children<br />
-  <sub>[#172823](https://github.com/flutter/flutter/pull/172823) opened on on July 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172823) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172829) 64 additions and 6 deletions in 3 files</sub><br />
@@ -106,9 +100,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for `MultiPreview`s<br />
   <sub>[#172852](https://github.com/flutter/flutter/pull/172852) opened on on July 28, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172852) 941 additions and 692 deletions in 15 files</sub><br />
-
-* **[romain.gyh](https://github.com/romaingyh)** &mdash; Fix directional focus in nested scrollables with different axis<br />
-  <sub>[#172875](https://github.com/flutter/flutter/pull/172875) opened on on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172875) 271 additions and 9 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer<br />
   <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
