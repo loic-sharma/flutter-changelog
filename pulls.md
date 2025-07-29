@@ -123,7 +123,7 @@
   <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix Gemini Code Assist for GitHub config yaml<br />
-  <sub>[#172887](https://github.com/flutter/flutter/pull/172887) opened on on July 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172887) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#172887](https://github.com/flutter/flutter/pull/172887) opened on on July 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/172887) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix lock up when window resized with merged UI and platform threads.<br />
   <sub>[#172893](https://github.com/flutter/flutter/pull/172893) opened on on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172893) 46 additions and 88 deletions in 7 files</sub><br />
