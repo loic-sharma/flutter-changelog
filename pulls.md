@@ -134,3 +134,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Avoid negatives in the styleguide.md<br />
   <sub>[#172917](https://github.com/flutter/flutter/pull/172917) opened on on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172917) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [a11y] add RangeSlider to a11y test app as additional use-case<br />
+  <sub>[#172922](https://github.com/flutter/flutter/pull/172922) opened on on July 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172922) 172 additions and 2 deletions in 28 files</sub><br />
+
