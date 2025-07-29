@@ -96,7 +96,7 @@
   <sub>[#172768](https://github.com/flutter/flutter/pull/172768) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172768) 13 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable Firefox auto-updates<br />
-  <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 21 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 22 additions and 2 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RawAutocomplete doesn't crash in 0x0 environment<br />
   <sub>[#172812](https://github.com/flutter/flutter/pull/172812) opened on on July 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172812) 32 additions and 0 deletions in 1 file</sub><br />
