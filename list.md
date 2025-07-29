@@ -674,7 +674,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-3 commits.
+4 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to set general SDK settings
   <sub>[#9648](https://github.com/flutter/packages/pull/9648) merged on July 28, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/9648) over 1 week, 2785 additions and 88 deletions in 34 files</sub>
@@ -683,6 +683,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds remaining methods for internal wrapper of the native `AdsRequest`
   <sub>[#9663](https://github.com/flutter/packages/pull/9663) merged on July 29, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/9663) over 6 days, 2042 additions and 6 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 10
+  <sub>[#9664](https://github.com/flutter/packages/pull/9664) merged on July 29, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/9664) over 5 days, 118 additions and 131 deletions in 10 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Delete unused file
   <sub>[#9634](https://github.com/flutter/packages/pull/9634) merged on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9634) over 1 week, 0 additions and 117 deletions in 1 file</sub>
