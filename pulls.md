@@ -36,7 +36,7 @@
   <sub>[#171250](https://github.com/flutter/flutter/pull/171250) opened on on June 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/171250) 29 additions and 5 deletions in 1 file</sub><br />
 
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web<br />
-  <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171638) 174 additions and 0 deletions in 8 files</sub><br />
+  <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/171638) 174 additions and 0 deletions in 8 files</sub><br />
 
 * **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
   <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/171646) 203 additions and 257 deletions in 2 files</sub><br />
