@@ -117,7 +117,7 @@
   <sub>[#172847](https://github.com/flutter/flutter/pull/172847) opened on on July 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172847) 125 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for `MultiPreview`s<br />
-  <sub>[#172852](https://github.com/flutter/flutter/pull/172852) opened on on July 28, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172852) 940 additions and 692 deletions in 15 files</sub><br />
+  <sub>[#172852](https://github.com/flutter/flutter/pull/172852) opened on on July 28, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172852) 941 additions and 692 deletions in 15 files</sub><br />
 
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; Fix directional focus in nested scrollables with different axis<br />
   <sub>[#172875](https://github.com/flutter/flutter/pull/172875) opened on on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172875) 271 additions and 9 deletions in 2 files</sub><br />
