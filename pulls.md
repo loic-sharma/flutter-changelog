@@ -122,12 +122,12 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer<br />
   <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix Gemini Code Assist for GitHub config yaml<br />
-  <sub>[#172887](https://github.com/flutter/flutter/pull/172887) opened on on July 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172887) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix lock up when window resized with merged UI and platform threads.<br />
   <sub>[#172893](https://github.com/flutter/flutter/pull/172893) opened on on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172893) 46 additions and 88 deletions in 7 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CloseButton doesn't crash in 0x0 environment<br />
   <sub>[#172902](https://github.com/flutter/flutter/pull/172902) opened on on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172902) 12 additions and 0 deletions in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Roll Skia from 409e1c7ba09b to a42898e5d622 (29 revisions)<br />
+  <sub>[#172906](https://github.com/flutter/flutter/pull/172906) opened on on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172906) 8 additions and 4 deletions in 3 files</sub><br />
 

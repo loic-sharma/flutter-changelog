@@ -4,11 +4,16 @@
 
 ### July 26, 2025 to August 1, 2025
 
-11 commits.
+12 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix Gemini Code Assist for GitHub config yaml<br />
+  <sub>[#172887](https://github.com/flutter/flutter/pull/172887) merged on July 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172887) over 16 hours, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="814" height="111" alt="Screenshot 2025-07-28 at 4 45 41 PM" src="https://github.com/user-attachments/assets/6763a74b-3b14-4ef0-8234-4eaa70a72358" /></details></sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub><br />
