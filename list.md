@@ -48,7 +48,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland licenses cpp switch
-  <sub>[#172671](https://github.com/flutter/flutter/pull/172671) merged on July 28, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/172671) over 4 days, 34166 additions and 19742 deletions in 6 files</sub>
+  <sub>[#172671](https://github.com/flutter/flutter/pull/172671) merged on July 28, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/172671) over 4 days, 34166 additions and 19742 deletions in 6 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Revert "Remove 2023 deprecated `'platforms'` key from daemon output (#172593)"
