@@ -56,9 +56,6 @@
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `EdgeInsetsDirectional.resolve`<br />
   <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172099) 46 additions and 2 deletions in 2 files</sub><br />
 
-* **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
-  <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/172124) 127 additions and 8 deletions in 3 files</sub><br />
-
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix #160622: Restore watchOS Companion App Build Compatibility<br />
   <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172436) 5 additions and 5 deletions in 1 file</sub><br />
 
