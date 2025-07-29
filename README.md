@@ -691,11 +691,15 @@
 
 ### July 26, 2025 to August 1, 2025
 
-6 commits.
+7 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to set general SDK settings<br />
   <sub>[#9648](https://github.com/flutter/packages/pull/9648) merged on July 28, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/9648) over 1 week, 2785 additions and 88 deletions in 34 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move more Obj-C logic to Dart<br />
+  <sub>[#9685](https://github.com/flutter/packages/pull/9685) merged on July 29, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/9685) over 1 day, 261 additions and 324 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move more Java logic to Dart<br />
   <sub>[#9672](https://github.com/flutter/packages/pull/9672) merged on July 29, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/9672) over 4 days, 363 additions and 252 deletions in 15 files</sub><br />
