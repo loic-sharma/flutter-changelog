@@ -722,7 +722,7 @@
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update CODEOWNERS
-  <sub>[#9692](https://github.com/flutter/packages/pull/9692) merged on July 29, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9692) over 5 hours, 60 additions and 60 deletions in 1 file</sub>
+  <sub>[#9692](https://github.com/flutter/packages/pull/9692) merged on July 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9692) over 5 hours, 60 additions and 60 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Delete unused file
