@@ -4,11 +4,19 @@
 
 ### July 26, 2025 to August 1, 2025
 
-15 commits.
+17 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Refactor Android platform view code in advance of enabling HCPP on existing PV widgets (behind a flag)
+  <sub>[#170553](https://github.com/flutter/flutter/pull/170553) merged on July 29, 2025 &mdash; **Large:** [77 comments](https://github.com/flutter/flutter/pull/170553) over 1 month, 583 additions and 352 deletions in 19 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry
+  <sub>[#172056](https://github.com/flutter/flutter/pull/172056) merged on July 29, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/172056) over 2 weeks, 98 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix Gemini Code Assist for GitHub config yaml
   <sub>[#172887](https://github.com/flutter/flutter/pull/172887) merged on July 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172887) over 16 hours, 3 additions and 3 deletions in 1 file</sub>
