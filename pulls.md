@@ -129,8 +129,8 @@
   <sub>[#172902](https://github.com/flutter/flutter/pull/172902) opened on on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172902) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Roll Skia from 409e1c7ba09b to a42898e5d622 (29 revisions)<br />
-  <sub>[#172906](https://github.com/flutter/flutter/pull/172906) opened on on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172906) 8 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#172906](https://github.com/flutter/flutter/pull/172906) opened on on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172906) 8 additions and 4 deletions in 3 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix ScaffoldGeometry null scale with noAnimation FAB<br />
-  <sub>[#172914](https://github.com/flutter/flutter/pull/172914) opened on on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172914) 28 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#172914](https://github.com/flutter/flutter/pull/172914) opened on on July 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172914) 27 additions and 1 deletion in 2 files</sub><br />
 
