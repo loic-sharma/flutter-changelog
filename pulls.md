@@ -65,9 +65,6 @@
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; feat: Add `cursorHeight` to `DropdownMenu`<br />
   <sub>[#172615](https://github.com/flutter/flutter/pull/172615) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172615) 22 additions and 0 deletions in 2 files</sub><br />
 
-* **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ResizeImage<br />
-  <sub>[#172643](https://github.com/flutter/flutter/pull/172643) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172643) 15 additions and 0 deletions in 1 file</sub><br />
-
 * **[ash2moon](https://github.com/ash2moon)** &mdash; add bundletool to FGP<br />
   <sub>[#172674](https://github.com/flutter/flutter/pull/172674) opened on on July 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172674) 61 additions and 0 deletions in 2 files</sub><br />
 
