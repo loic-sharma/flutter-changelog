@@ -113,9 +113,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view builder<br />
   <sub>[#172837](https://github.com/flutter/flutter/pull/172837) opened on on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172837) 190 additions and 11 deletions in 2 files</sub><br />
 
-* **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow empty initial time when using text input mode in showTimePicker dialog<br />
-  <sub>[#172847](https://github.com/flutter/flutter/pull/172847) opened on on July 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172847) 125 additions and 2 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for `MultiPreview`s<br />
   <sub>[#172852](https://github.com/flutter/flutter/pull/172852) opened on on July 28, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172852) 941 additions and 692 deletions in 15 files</sub><br />
 
