@@ -84,7 +84,7 @@
   <sub>[#172732](https://github.com/flutter/flutter/pull/172732) opened on on July 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172732) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[ShantanuBorkar](https://github.com/AlsoShantanuBorkar)** &mdash; feat: Added Focus Toggle for DropdownMenu TrailingIcon Button<br />
-  <sub>[#172753](https://github.com/flutter/flutter/pull/172753) opened on on July 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172753) 81 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#172753](https://github.com/flutter/flutter/pull/172753) opened on on July 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172753) 81 additions and 24 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Slider dragged mouse cursor visibility.<br />
   <sub>[#172759](https://github.com/flutter/flutter/pull/172759) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172759) 110 additions and 75 deletions in 3 files</sub><br />
@@ -123,7 +123,7 @@
   <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix lock up when window resized with merged UI and platform threads.<br />
-  <sub>[#172893](https://github.com/flutter/flutter/pull/172893) opened on on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172893) 46 additions and 88 deletions in 7 files</sub><br />
+  <sub>[#172893](https://github.com/flutter/flutter/pull/172893) opened on on July 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172893) 46 additions and 88 deletions in 7 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CloseButton doesn't crash in 0x0 environment<br />
   <sub>[#172902](https://github.com/flutter/flutter/pull/172902) opened on on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172902) 12 additions and 0 deletions in 1 file</sub><br />

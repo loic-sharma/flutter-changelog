@@ -679,11 +679,15 @@
 
 ### July 26, 2025 to August 1, 2025
 
-4 commits.
+5 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to set general SDK settings<br />
   <sub>[#9648](https://github.com/flutter/packages/pull/9648) merged on July 28, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/9648) over 1 week, 2785 additions and 88 deletions in 34 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move more Java logic to Dart<br />
+  <sub>[#9672](https://github.com/flutter/packages/pull/9672) merged on July 29, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/9672) over 4 days, 363 additions and 252 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds remaining methods for internal wrapper of the native `AdsRequest`<br />
   <sub>[#9663](https://github.com/flutter/packages/pull/9663) merged on July 29, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/9663) over 6 days, 2042 additions and 6 deletions in 13 files</sub><br />
