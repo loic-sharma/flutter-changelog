@@ -810,9 +810,22 @@
 
 ## flutter/website
 
+### July 26, 2025 to August 1, 2025
+
+2 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update various example dependencies and related code<br />
+  <sub>[#12246](https://github.com/flutter/website/pull/12246) merged on July 29, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12246) over 11 hours, 452 additions and 31 deletions in 27 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to new major version releases of Firebase packages<br />
+  <sub>[#12247](https://github.com/flutter/website/pull/12247) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12247) over 11 hours, 5 additions and 5 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### July 19, 2025 to July 25, 2025
 
-8 commits.
+<details>
+<summary>8 commits...</summary>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document the existence of a `licenses: ...` field (`pubspec.yaml`)<br />
   <sub>[#12227](https://github.com/flutter/website/pull/12227) merged on July 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12227) over 5 hours, 18 additions and 0 deletions in 1 file</sub><br />
@@ -845,6 +858,8 @@
 * **[Phantom-101](https://github.com/Phantom-101)** &mdash; Add go/intrinsic-box to firebase.json<br />
   <sub>[#12231](https://github.com/flutter/website/pull/12231) merged on July 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12231) over 32 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### July 12, 2025 to July 18, 2025
 
