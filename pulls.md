@@ -101,3 +101,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ClickDebouncer workaround for iOS Safari click behavior<br />
   <sub>[#172995](https://github.com/flutter/flutter/pull/172995) opened on on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172995) 70 additions and 24 deletions in 2 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate to Sliver list and builder convenience constructors<br />
+  <sub>[#173011](https://github.com/flutter/flutter/pull/173011) opened on on July 30, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/173011) 505 additions and 611 deletions in 65 files</sub><br />
+
