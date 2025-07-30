@@ -98,9 +98,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; When launching iOS app through Xcode, always use temporary project<br />
   <sub>[#172907](https://github.com/flutter/flutter/pull/172907) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172907) 60 additions and 479 deletions in 6 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix ScaffoldGeometry null scale with noAnimation FAB<br />
-  <sub>[#172914](https://github.com/flutter/flutter/pull/172914) opened on on July 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172914) 27 additions and 1 deletion in 2 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Avoid negatives in the styleguide.md<br />
   <sub>[#172917](https://github.com/flutter/flutter/pull/172917) opened on on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172917) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -130,4 +127,10 @@
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Add skia_ports_fontmgr_android_parser_sources<br />
   <sub>[#172979](https://github.com/flutter/flutter/pull/172979) opened on on July 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172979) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add a SliverList code sample<br />
+  <sub>[#172986](https://github.com/flutter/flutter/pull/172986) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172986) 89 additions and 2 deletions in 4 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update engine version for 3.35-0.2.pre<br />
+  <sub>[#172987](https://github.com/flutter/flutter/pull/172987) opened on on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172987) 1 addition and 1 deletion in 1 file</sub><br />
 
