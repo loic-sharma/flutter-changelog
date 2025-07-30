@@ -90,7 +90,7 @@
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172927) 524 additions and 93 deletions in 19 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improve robustness of comment detection when using flutter analyze --suggestions<br />
-  <sub>[#172977](https://github.com/flutter/flutter/pull/172977) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172977) 52 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#172977](https://github.com/flutter/flutter/pull/172977) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172977) 57 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--web-server` support<br />
   <sub>[#172978](https://github.com/flutter/flutter/pull/172978) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172978) 47 additions and 10 deletions in 2 files</sub><br />
