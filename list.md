@@ -14,14 +14,14 @@
   <sub>[#170553](https://github.com/flutter/flutter/pull/170553) merged on July 29, 2025 &mdash; **Large:** [77 comments](https://github.com/flutter/flutter/pull/170553) over 1 month, 583 additions and 352 deletions in 19 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix Gemini Code Assist for GitHub config yaml
+  <sub>[#172887](https://github.com/flutter/flutter/pull/172887) merged on July 29, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/172887) over 16 hours, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Parker Lougheed](https://github.com/parlough)</sub>
+  <sub><details><summary>1 image...</summary><img width="814" height="111" alt="Screenshot 2025-07-28 at 4 45 41 PM" src="https://github.com/user-attachments/assets/6763a74b-3b14-4ef0-8234-4eaa70a72358" /></details></sub>
+
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry
   <sub>[#172056](https://github.com/flutter/flutter/pull/172056) merged on July 29, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/172056) over 2 weeks, 98 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix Gemini Code Assist for GitHub config yaml
-  <sub>[#172887](https://github.com/flutter/flutter/pull/172887) merged on July 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172887) over 16 hours, 3 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Parker Lougheed](https://github.com/parlough)</sub>
-  <sub><details><summary>1 image...</summary><img width="814" height="111" alt="Screenshot 2025-07-28 at 4 45 41 PM" src="https://github.com/user-attachments/assets/6763a74b-3b14-4ef0-8234-4eaa70a72358" /></details></sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub>
