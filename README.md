@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-26 commits.
+28 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
@@ -27,6 +27,10 @@
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Dara Adedeji](https://github.com/SunkenInTime)** &mdash; docs: Clarify Transform.rotate origin interaction with alignment<br />
+  <sub>[#163934](https://github.com/flutter/flutter/pull/163934) merged on July 30, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/163934) over 5 months, 37 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Tirth Patel](https://github.com/tirth-patel-nc), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate Embedder code to impeller/DL geometry classes<br />
   <sub>[#172804](https://github.com/flutter/flutter/pull/172804) merged on July 29, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/172804) over 2 days, 519 additions and 586 deletions in 51 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -42,6 +46,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide<br />
   <sub>[#172785](https://github.com/flutter/flutter/pull/172785) merged on July 28, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) over 2 days, 82 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't use .NET APIs in `update_engine_version.ps1`<br />
+  <sub>[#172974](https://github.com/flutter/flutter/pull/172974) merged on July 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/172974) over 2 hours, 4 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update provisioning profile for 2025-2026 cert for chromium bots<br />
   <sub>[#171021](https://github.com/flutter/flutter/pull/171021) merged on July 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171021) over 1 month, 7 additions and 7 deletions in 1 file</sub><br />
