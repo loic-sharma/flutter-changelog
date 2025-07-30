@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-28 commits.
+29 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub>
@@ -46,6 +46,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide
   <sub>[#172785](https://github.com/flutter/flutter/pull/172785) merged on July 28, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) over 2 days, 82 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Migrate to null aware elements - Part 5
+  <sub>[#172418](https://github.com/flutter/flutter/pull/172418) merged on July 30, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/172418) over 1 week, 51 additions and 95 deletions in 33 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Jamil Saadeh](https://github.com/jamilsaadeh97), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't use .NET APIs in `update_engine_version.ps1`
   <sub>[#172974](https://github.com/flutter/flutter/pull/172974) merged on July 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/172974) over 2 hours, 4 additions and 5 deletions in 1 file</sub>
