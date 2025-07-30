@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-18 commits.
+19 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate Embedder code to impeller/DL geometry classes<br />
   <sub>[#172804](https://github.com/flutter/flutter/pull/172804) merged on July 29, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/172804) over 2 days, 519 additions and 586 deletions in 51 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix SegmentedButton border doesn't reflect states<br />
+  <sub>[#172754](https://github.com/flutter/flutter/pull/172754) merged on July 29, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/172754) over 4 days, 284 additions and 75 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
   <sub>[#172239](https://github.com/flutter/flutter/pull/172239) merged on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) over 1 week, 168 additions and 0 deletions in 6 files</sub><br />
