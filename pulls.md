@@ -75,7 +75,7 @@
   <sub>[#172852](https://github.com/flutter/flutter/pull/172852) opened on on July 28, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172852) 944 additions and 698 deletions in 15 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer<br />
-  <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix lock up when window resized with merged UI and platform threads.<br />
   <sub>[#172893](https://github.com/flutter/flutter/pull/172893) opened on on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172893) 46 additions and 88 deletions in 7 files</sub><br />
