@@ -98,11 +98,8 @@
 * **[bungeman](https://github.com/bungeman)** &mdash; Add skia_ports_fontmgr_android_parser_sources<br />
   <sub>[#172979](https://github.com/flutter/flutter/pull/172979) opened on on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172979) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add a SliverList code sample<br />
-  <sub>[#172986](https://github.com/flutter/flutter/pull/172986) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172986) 89 additions and 2 deletions in 4 files</sub><br />
-
 * **[RohitSaily](https://github.com/RohitSaily)** &mdash; Make `InheritedElement` Dependents Accessible for Protected Use<br />
-  <sub>[#172994](https://github.com/flutter/flutter/pull/172994) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172994) 30 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#172994](https://github.com/flutter/flutter/pull/172994) opened on on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172994) 30 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ClickDebouncer workaround for iOS Safari click behavior<br />
   <sub>[#172995](https://github.com/flutter/flutter/pull/172995) opened on on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172995) 70 additions and 24 deletions in 2 files</sub><br />
