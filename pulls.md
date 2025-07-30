@@ -131,3 +131,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't use .NET APIs in `update_engine_version.ps1`<br />
   <sub>[#172974](https://github.com/flutter/flutter/pull/172974) opened on on July 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172974) 3 additions and 4 deletions in 1 file</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reformat text.dart's code snippets<br />
+  <sub>[#172976](https://github.com/flutter/flutter/pull/172976) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172976) 9 additions and 4 deletions in 1 file</sub><br />
+
