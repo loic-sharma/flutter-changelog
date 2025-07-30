@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-17 commits.
+18 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
@@ -54,6 +54,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter pub get` to use `flutter.version.json` (instead of `version`)<br />
   <sub>[#172798](https://github.com/flutter/flutter/pull/172798) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172798) over 2 days, 148 additions and 93 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix documentation for FlutterEngineRunTask<br />
+  <sub>[#172889](https://github.com/flutter/flutter/pull/172889) merged on July 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172889) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add package PR triage note<br />
   <sub>[#172898](https://github.com/flutter/flutter/pull/172898) merged on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172898) over 5 hours, 1 addition and 0 deletions in 1 file</sub><br />
