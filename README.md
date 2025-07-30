@@ -460,14 +460,14 @@
 <details>
 <summary>56 commits...</summary>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Remove all usages of js_util.<br />
-  <sub>[#171871](https://github.com/flutter/flutter/pull/171871) merged on July 16, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/171871) over 1 week, 287 additions and 244 deletions in 26 files</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; add `debugPaintTextLayoutBoxes` for debugging text layout<br />
   <sub>[#168876](https://github.com/flutter/flutter/pull/168876) merged on July 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/168876) over 2 months, 87 additions and 5 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
   <sub><details><summary>1 image...</summary><img width="410" alt="image" src="https://github.com/user-attachments/assets/788b8089-373f-4af0-9144-306b3e755614" /></details></sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Remove all usages of js_util.<br />
+  <sub>[#171871](https://github.com/flutter/flutter/pull/171871) merged on July 16, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/171871) over 1 week, 287 additions and 244 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; No SystemContextMenu when readOnly is true<br />
   <sub>[#171242](https://github.com/flutter/flutter/pull/171242) merged on July 17, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/171242) over 2 weeks, 607 additions and 8 deletions in 12 files</sub><br />
