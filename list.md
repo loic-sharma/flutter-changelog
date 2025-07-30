@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-19 commits.
+20 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub>
@@ -46,6 +46,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update provisioning profile for 2025-2026 cert for chromium bots
   <sub>[#171021](https://github.com/flutter/flutter/pull/171021) merged on July 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171021) over 1 month, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [a11y] add RangeSlider to a11y test app as additional use-case
+  <sub>[#172922](https://github.com/flutter/flutter/pull/172922) merged on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172922) over 6 hours, 172 additions and 2 deletions in 28 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Roll Skia from 409e1c7ba09b to a42898e5d622 (29 revisions)
   <sub>[#172906](https://github.com/flutter/flutter/pull/172906) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172906) over 3 hours, 8 additions and 4 deletions in 3 files</sub>
