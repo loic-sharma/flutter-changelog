@@ -132,7 +132,7 @@
   <sub>[#172977](https://github.com/flutter/flutter/pull/172977) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172977) 52 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--web-server` support<br />
-  <sub>[#172978](https://github.com/flutter/flutter/pull/172978) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172978) 42 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#172978](https://github.com/flutter/flutter/pull/172978) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172978) 47 additions and 10 deletions in 2 files</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Add skia_ports_fontmgr_android_parser_sources<br />
   <sub>[#172979](https://github.com/flutter/flutter/pull/172979) opened on on July 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172979) 1 addition and 0 deletions in 1 file</sub><br />
