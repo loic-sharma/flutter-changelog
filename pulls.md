@@ -93,7 +93,7 @@
   <sub>[#172837](https://github.com/flutter/flutter/pull/172837) opened on on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172837) 190 additions and 11 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for `MultiPreview`s<br />
-  <sub>[#172852](https://github.com/flutter/flutter/pull/172852) opened on on July 28, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/172852) 941 additions and 692 deletions in 15 files</sub><br />
+  <sub>[#172852](https://github.com/flutter/flutter/pull/172852) opened on on July 28, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/172852) 941 additions and 692 deletions in 15 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer<br />
   <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
@@ -132,8 +132,14 @@
   <sub>[#172974](https://github.com/flutter/flutter/pull/172974) opened on on July 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172974) 3 additions and 4 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reformat text.dart's code snippets<br />
-  <sub>[#172976](https://github.com/flutter/flutter/pull/172976) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172976) 9 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#172976](https://github.com/flutter/flutter/pull/172976) opened on on July 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172976) 11 additions and 6 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improve robustness of comment detection when using flutter analyze --suggestions<br />
   <sub>[#172977](https://github.com/flutter/flutter/pull/172977) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172977) 52 additions and 5 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--web-server` support<br />
+  <sub>[#172978](https://github.com/flutter/flutter/pull/172978) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172978) 42 additions and 10 deletions in 2 files</sub><br />
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Add skia_ports_fontmgr_android_parser_sources<br />
+  <sub>[#172979](https://github.com/flutter/flutter/pull/172979) opened on on July 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172979) 1 addition and 0 deletions in 1 file</sub><br />
 
