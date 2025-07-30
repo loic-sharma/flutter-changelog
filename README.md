@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-24 commits.
+25 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
@@ -98,6 +98,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland licenses cpp switch<br />
   <sub>[#172671](https://github.com/flutter/flutter/pull/172671) merged on July 28, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/172671) over 4 days, 34166 additions and 19742 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Reland - Manual roll of Dart from 5ede85aff798 to 14ea8d342149<br />
+  <sub>[#172947](https://github.com/flutter/flutter/pull/172947) merged on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172947) over 12 hours, 17 additions and 12 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Revert "Remove 2023 deprecated `'platforms'` key from daemon output (#172593)"<br />
   <sub>[#172883](https://github.com/flutter/flutter/pull/172883) merged on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172883) over 3 hours, 7 additions and 1 deletion in 2 files</sub><br />
