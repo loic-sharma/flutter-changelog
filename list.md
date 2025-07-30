@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-29 commits.
+30 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub>
@@ -30,6 +30,10 @@
 * **[Dara Adedeji](https://github.com/SunkenInTime)** &mdash; docs: Clarify Transform.rotate origin interaction with alignment
   <sub>[#163934](https://github.com/flutter/flutter/pull/163934) merged on July 30, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/163934) over 5 months, 37 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Tirth Patel](https://github.com/tirth-patel-nc), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made licenses_cpp simpatico with google licenses
+  <sub>[#172991](https://github.com/flutter/flutter/pull/172991) merged on July 30, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/172991) over 1 hour, 251 additions and 791 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate Embedder code to impeller/DL geometry classes
   <sub>[#172804](https://github.com/flutter/flutter/pull/172804) merged on July 29, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/172804) over 2 days, 519 additions and 586 deletions in 51 files</sub>
