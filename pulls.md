@@ -129,5 +129,5 @@
   <sub>[#172973](https://github.com/flutter/flutter/pull/172973) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172973) 7 additions and 7 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't use .NET APIs in `update_engine_version.ps1`<br />
-  <sub>[#172974](https://github.com/flutter/flutter/pull/172974) opened on on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172974) 3 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#172974](https://github.com/flutter/flutter/pull/172974) opened on on July 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172974) 3 additions and 4 deletions in 1 file</sub><br />
 
