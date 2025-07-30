@@ -71,9 +71,6 @@
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker hour label<br />
   <sub>[#172850](https://github.com/flutter/flutter/pull/172850) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172850) 176 additions and 16 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for `MultiPreview`s<br />
-  <sub>[#172852](https://github.com/flutter/flutter/pull/172852) opened on on July 28, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172852) 944 additions and 698 deletions in 15 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer<br />
   <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
 
@@ -90,7 +87,7 @@
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172927) 524 additions and 93 deletions in 19 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improve robustness of comment detection when using flutter analyze --suggestions<br />
-  <sub>[#172977](https://github.com/flutter/flutter/pull/172977) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172977) 57 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#172977](https://github.com/flutter/flutter/pull/172977) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172977) 57 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--web-server` support<br />
   <sub>[#172978](https://github.com/flutter/flutter/pull/172978) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172978) 47 additions and 10 deletions in 2 files</sub><br />

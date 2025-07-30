@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-30 commits.
+31 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub>
@@ -18,6 +18,10 @@
   <sub>[#172887](https://github.com/flutter/flutter/pull/172887) merged on July 29, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/172887) over 16 hours, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Parker Lougheed](https://github.com/parlough)</sub>
   <sub><details><summary>1 image...</summary><img width="814" height="111" alt="Screenshot 2025-07-28 at 4 45 41 PM" src="https://github.com/user-attachments/assets/6763a74b-3b14-4ef0-8234-4eaa70a72358" /></details></sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for `MultiPreview`s
+  <sub>[#172852](https://github.com/flutter/flutter/pull/172852) merged on July 30, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172852) over 2 days, 944 additions and 698 deletions in 15 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; fix(scrollbar): Update padding type to EdgeInsetsGeometry
   <sub>[#172056](https://github.com/flutter/flutter/pull/172056) merged on July 29, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/172056) over 2 weeks, 98 additions and 16 deletions in 2 files</sub>
