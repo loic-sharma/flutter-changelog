@@ -105,7 +105,7 @@
   <sub>[#172902](https://github.com/flutter/flutter/pull/172902) opened on on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172902) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; When launching iOS app through Xcode, always use temporary project<br />
-  <sub>[#172907](https://github.com/flutter/flutter/pull/172907) opened on on July 29, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/172907) 60 additions and 479 deletions in 6 files</sub><br />
+  <sub>[#172907](https://github.com/flutter/flutter/pull/172907) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172907) 60 additions and 479 deletions in 6 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix ScaffoldGeometry null scale with noAnimation FAB<br />
   <sub>[#172914](https://github.com/flutter/flutter/pull/172914) opened on on July 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172914) 27 additions and 1 deletion in 2 files</sub><br />
@@ -115,9 +115,6 @@
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Flutter driver deserialization<br />
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172927) 524 additions and 93 deletions in 19 files</sub><br />
-
-* **[Siva](https://github.com/a-siva)** &mdash; Reland - Manual roll of Dart from 5ede85aff798 to 14ea8d342149<br />
-  <sub>[#172947](https://github.com/flutter/flutter/pull/172947) opened on on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172947) 17 additions and 12 deletions in 4 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DrawerButton doesn't crash in 0x0 environment<br />
   <sub>[#172948](https://github.com/flutter/flutter/pull/172948) opened on on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172948) 12 additions and 0 deletions in 1 file</sub><br />
