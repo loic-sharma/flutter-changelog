@@ -718,7 +718,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move more Obj-C logic to Dart
-  <sub>[#9685](https://github.com/flutter/packages/pull/9685) merged on July 29, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/9685) over 1 day, 261 additions and 324 deletions in 17 files</sub>
+  <sub>[#9685](https://github.com/flutter/packages/pull/9685) merged on July 29, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/9685) over 1 day, 261 additions and 324 deletions in 17 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move more Java logic to Dart
