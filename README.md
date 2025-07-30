@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-25 commits.
+26 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
@@ -78,6 +78,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter pub get` to use `flutter.version.json` (instead of `version`)<br />
   <sub>[#172798](https://github.com/flutter/flutter/pull/172798) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172798) over 2 days, 148 additions and 93 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 2<br />
+  <sub>[#172306](https://github.com/flutter/flutter/pull/172306) merged on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172306) over 1 week, 20 additions and 20 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix documentation for FlutterEngineRunTask<br />
   <sub>[#172889](https://github.com/flutter/flutter/pull/172889) merged on July 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172889) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
