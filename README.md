@@ -713,13 +713,13 @@
 
 7 commits.
 
-* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to set general SDK settings<br />
-  <sub>[#9648](https://github.com/flutter/packages/pull/9648) merged on July 28, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/9648) over 1 week, 2785 additions and 88 deletions in 34 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
-
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move more Obj-C logic to Dart<br />
   <sub>[#9685](https://github.com/flutter/packages/pull/9685) merged on July 29, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/9685) over 1 day, 261 additions and 324 deletions in 17 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to set general SDK settings<br />
+  <sub>[#9648](https://github.com/flutter/packages/pull/9648) merged on July 28, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/9648) over 1 week, 2785 additions and 88 deletions in 34 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move more Java logic to Dart<br />
   <sub>[#9672](https://github.com/flutter/packages/pull/9672) merged on July 29, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/9672) over 4 days, 363 additions and 252 deletions in 15 files</sub><br />
@@ -850,13 +850,13 @@
 
 4 commits.
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Build out a more comprehensive platform integration index<br />
-  <sub>[#12249](https://github.com/flutter/website/pull/12249) merged on July 30, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/website/pull/12249) over 23 hours, 382 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add doc on decoupling design<br />
   <sub>[#12253](https://github.com/flutter/website/pull/12253) merged on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12253) over 9 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Build out a more comprehensive platform integration index<br />
+  <sub>[#12249](https://github.com/flutter/website/pull/12249) merged on July 30, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/website/pull/12249) over 23 hours, 382 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update various example dependencies and related code<br />
   <sub>[#12246](https://github.com/flutter/website/pull/12246) merged on July 29, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12246) over 11 hours, 452 additions and 31 deletions in 27 files</sub><br />

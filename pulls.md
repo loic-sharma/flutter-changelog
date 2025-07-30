@@ -26,7 +26,7 @@
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
 
-* **[Lewin Pauli](https://github.com/lewinpauli)** &mdash; Added computeDryBaseline implementation in RenderShiftedBox<br />
+* **[Lewin Pauli](https://github.com/lewinpauli)** &mdash; Added computeDryBaseline implementation in RenderAligningShiftedBox<br />
   <sub>[#171250](https://github.com/flutter/flutter/pull/171250) opened on on June 26, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/171250) 838 additions and 0 deletions in 16 files</sub><br />
 
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web<br />
