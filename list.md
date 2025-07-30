@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-32 commits.
+33 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub>
@@ -66,6 +66,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update provisioning profile for 2025-2026 cert for chromium bots
   <sub>[#171021](https://github.com/flutter/flutter/pull/171021) merged on July 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171021) over 1 month, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Bump customer tests for zulip fix 2
+  <sub>[#173003](https://github.com/flutter/flutter/pull/173003) merged on July 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173003) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Price](https://github.com/gnprice)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Impeller gemini md
   <sub>[#172724](https://github.com/flutter/flutter/pull/172724) merged on July 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172724) over 5 days, 73 additions and 0 deletions in 3 files</sub>
