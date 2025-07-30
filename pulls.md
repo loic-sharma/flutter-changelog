@@ -104,6 +104,3 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add a SliverList code sample<br />
   <sub>[#172986](https://github.com/flutter/flutter/pull/172986) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172986) 89 additions and 2 deletions in 4 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update engine version for 3.35-0.2.pre<br />
-  <sub>[#172987](https://github.com/flutter/flutter/pull/172987) opened on on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172987) 1 addition and 1 deletion in 1 file</sub><br />
-
