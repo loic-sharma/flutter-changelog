@@ -122,3 +122,9 @@
 * **[Patt O'Brien](https://github.com/pattobrien)** &mdash; ButtonStyleButton `isEnabled` parameter<br />
   <sub>[#172958](https://github.com/flutter/flutter/pull/172958) opened on on July 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172958) 61 additions and 3 deletions in 6 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios]update provisioning profile for 2025-2026 cert for chromium bots<br />
+  <sub>[#172972](https://github.com/flutter/flutter/pull/172972) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172972) 7 additions and 7 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ios]update provisioning profile for 2025-2026 cert for chromium bots<br />
+  <sub>[#172973](https://github.com/flutter/flutter/pull/172973) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172973) 7 additions and 7 deletions in 1 file</sub><br />
+
