@@ -104,6 +104,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CloseButton doesn't crash in 0x0 environment<br />
   <sub>[#172902](https://github.com/flutter/flutter/pull/172902) opened on on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172902) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; When launching iOS app through Xcode, always use temporary project<br />
+  <sub>[#172907](https://github.com/flutter/flutter/pull/172907) opened on on July 29, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/172907) 60 additions and 479 deletions in 6 files</sub><br />
+
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix ScaffoldGeometry null scale with noAnimation FAB<br />
   <sub>[#172914](https://github.com/flutter/flutter/pull/172914) opened on on July 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172914) 27 additions and 1 deletion in 2 files</sub><br />
 
