@@ -854,13 +854,13 @@
   <sub>[#12249](https://github.com/flutter/website/pull/12249) merged on July 30, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/website/pull/12249) over 23 hours, 382 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update various example dependencies and related code<br />
-  <sub>[#12246](https://github.com/flutter/website/pull/12246) merged on July 29, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12246) over 11 hours, 452 additions and 31 deletions in 27 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add doc on decoupling design<br />
   <sub>[#12253](https://github.com/flutter/website/pull/12253) merged on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12253) over 9 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update various example dependencies and related code<br />
+  <sub>[#12246](https://github.com/flutter/website/pull/12246) merged on July 29, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12246) over 11 hours, 452 additions and 31 deletions in 27 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to new major version releases of Firebase packages<br />
   <sub>[#12247](https://github.com/flutter/website/pull/12247) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12247) over 11 hours, 5 additions and 5 deletions in 4 files</sub><br />
