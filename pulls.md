@@ -89,12 +89,12 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 end drawer button<br />
   <sub>[#173026](https://github.com/flutter/flutter/pull/173026) opened on on July 31, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/173026) 317 additions and 299 deletions in 1 file</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Upload the linux arm64 embedder to cloud buckets.<br />
-  <sub>[#173068](https://github.com/flutter/flutter/pull/173068) opened on on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173068) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] ClickDebouncer workaround for iOS Safari click behavior<br />
   <sub>[#173072](https://github.com/flutter/flutter/pull/173072) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173072) 92 additions and 28 deletions in 2 files</sub><br />
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Null aware elements clean-ups<br />
   <sub>[#173074](https://github.com/flutter/flutter/pull/173074) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173074) 84 additions and 100 deletions in 35 files</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart SDK from 6832e04cf2f9 to d86207992f6d<br />
+  <sub>[#173083](https://github.com/flutter/flutter/pull/173083) opened on on July 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173083) 2 additions and 2 deletions in 1 file</sub><br />
 
