@@ -819,11 +819,15 @@
 
 ### July 26, 2025 to August 1, 2025
 
-10 commits.
+11 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fixed Camera Switching Bug
   <sub>[#9671](https://github.com/flutter/packages/pull/9671) merged on July 30, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/packages/pull/9671) over 5 days, 446 additions and 9 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Avni Prajapati](https://github.com/avni-prajapati)** &mdash; [in_app_purchase_storekit] Updated comment 
+  <sub>[#9445](https://github.com/flutter/packages/pull/9445) merged on July 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9445) over 1 month, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Separate event stream from player on iOS
   <sub>[#9700](https://github.com/flutter/packages/pull/9700) merged on July 31, 2025 &mdash; **Large:** [16 comments](https://github.com/flutter/packages/pull/9700) over 1 day, 338 additions and 164 deletions in 11 files</sub>
