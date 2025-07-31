@@ -101,3 +101,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 end drawer button<br />
   <sub>[#173026](https://github.com/flutter/flutter/pull/173026) opened on on July 31, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/173026) 317 additions and 299 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switched to lexically_relative for 2x speed boost.<br />
+  <sub>[#173048](https://github.com/flutter/flutter/pull/173048) opened on on July 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173048) 8 additions and 5 deletions in 1 file</sub><br />
+

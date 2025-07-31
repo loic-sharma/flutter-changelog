@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-40 commits.
+41 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
@@ -107,25 +107,21 @@
   <sub>[#172879](https://github.com/flutter/flutter/pull/172879) merged on July 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172879) over 1 day, 55 additions and 4 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made `android_gradle_print_build_variants_test.dart` more robust<br />
+  <sub>[#172910](https://github.com/flutter/flutter/pull/172910) merged on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172910) over 2 hours, 3 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter pub get` to use `flutter.version.json` (instead of `version`)<br />
   <sub>[#172798](https://github.com/flutter/flutter/pull/172798) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172798) over 2 days, 148 additions and 93 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Roll Skia from 409e1c7ba09b to a42898e5d622 (29 revisions)<br />
-  <sub>[#172906](https://github.com/flutter/flutter/pull/172906) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172906) over 3 hours, 8 additions and 4 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [a11y] add RangeSlider to a11y test app as additional use-case<br />
   <sub>[#172922](https://github.com/flutter/flutter/pull/172922) merged on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172922) over 6 hours, 172 additions and 2 deletions in 28 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made `android_gradle_print_build_variants_test.dart` more robust<br />
-  <sub>[#172910](https://github.com/flutter/flutter/pull/172910) merged on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172910) over 2 hours, 3 additions and 7 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add package PR triage note<br />
-  <sub>[#172898](https://github.com/flutter/flutter/pull/172898) merged on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172898) over 5 hours, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Roll Skia from 409e1c7ba09b to a42898e5d622 (29 revisions)<br />
+  <sub>[#172906](https://github.com/flutter/flutter/pull/172906) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172906) over 3 hours, 8 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 5ede85aff798 to 14ea8d342149<br />
   <sub>[#172783](https://github.com/flutter/flutter/pull/172783) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172783) over 3 days, 15 additions and 10 deletions in 2 files</sub><br />
@@ -147,17 +143,25 @@
   <sub>[#172306](https://github.com/flutter/flutter/pull/172306) merged on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172306) over 1 week, 20 additions and 20 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[René Kilczan](https://github.com/rekire)** &mdash; Remove shortner<br />
-  <sub>[#172844](https://github.com/flutter/flutter/pull/172844) merged on July 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172844) over 5 hours, 9 additions and 9 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix documentation for FlutterEngineRunTask<br />
   <sub>[#172889](https://github.com/flutter/flutter/pull/172889) merged on July 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172889) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
+* **[René Kilczan](https://github.com/rekire)** &mdash; Remove shortner<br />
+  <sub>[#172844](https://github.com/flutter/flutter/pull/172844) merged on July 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172844) over 5 hours, 9 additions and 9 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add package PR triage note<br />
+  <sub>[#172898](https://github.com/flutter/flutter/pull/172898) merged on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172898) over 5 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland licenses cpp switch<br />
   <sub>[#172671](https://github.com/flutter/flutter/pull/172671) merged on July 28, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/172671) over 4 days, 34166 additions and 19742 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland licenses cpp switch 2<br />
+  <sub>[#172996](https://github.com/flutter/flutter/pull/172996) merged on July 31, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/172996) over 20 hours, 33123 additions and 65435 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Siva](https://github.com/a-siva)** &mdash; Reland - Manual roll of Dart from 5ede85aff798 to 14ea8d342149<br />
   <sub>[#172947](https://github.com/flutter/flutter/pull/172947) merged on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172947) over 12 hours, 17 additions and 12 deletions in 4 files</sub><br />
