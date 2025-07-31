@@ -108,7 +108,7 @@
   <sub>[#173072](https://github.com/flutter/flutter/pull/173072) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173072) 92 additions and 28 deletions in 2 files</sub><br />
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Null aware elements clean-ups<br />
-  <sub>[#173074](https://github.com/flutter/flutter/pull/173074) opened on on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173074) 84 additions and 100 deletions in 35 files</sub><br />
+  <sub>[#173074](https://github.com/flutter/flutter/pull/173074) opened on on July 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173074) 84 additions and 100 deletions in 35 files</sub><br />
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; [engine]: Null aware elements clean-ups<br />
   <sub>[#173075](https://github.com/flutter/flutter/pull/173075) opened on on July 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173075) 18 additions and 22 deletions in 8 files</sub><br />
