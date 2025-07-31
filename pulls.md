@@ -68,9 +68,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix lock up when window resized with merged UI and platform threads.<br />
   <sub>[#172893](https://github.com/flutter/flutter/pull/172893) opened on on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172893) 46 additions and 88 deletions in 7 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Avoid negatives in the styleguide.md<br />
-  <sub>[#172917](https://github.com/flutter/flutter/pull/172917) opened on on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172917) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Flutter driver deserialization<br />
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172927) 524 additions and 93 deletions in 19 files</sub><br />
 
@@ -100,7 +97,4 @@
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Null aware elements clean-ups<br />
   <sub>[#173074](https://github.com/flutter/flutter/pull/173074) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173074) 84 additions and 100 deletions in 35 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Mark IOOverrides subclasses as `final`<br />
-  <sub>[#173078](https://github.com/flutter/flutter/pull/173078) opened on on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173078) 2 additions and 2 deletions in 2 files</sub><br />
 
