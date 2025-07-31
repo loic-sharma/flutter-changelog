@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-33 commits.
+34 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
@@ -18,6 +18,10 @@
   <sub>[#172887](https://github.com/flutter/flutter/pull/172887) merged on July 29, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/172887) over 16 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Parker Lougheed](https://github.com/parlough)</sub><br />
   <sub><details><summary>1 image...</summary><img width="814" height="111" alt="Screenshot 2025-07-28 at 4 45 41 PM" src="https://github.com/user-attachments/assets/6763a74b-3b14-4ef0-8234-4eaa70a72358" /></details></sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
+  <sub>[#172239](https://github.com/flutter/flutter/pull/172239) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172239) over 1 week, 168 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for `MultiPreview`s<br />
   <sub>[#172852](https://github.com/flutter/flutter/pull/172852) merged on July 30, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/172852) over 2 days, 944 additions and 698 deletions in 15 files</sub><br />
@@ -47,9 +51,9 @@
   <sub>[#172754](https://github.com/flutter/flutter/pull/172754) merged on July 29, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/172754) over 4 days, 284 additions and 75 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add `--config-only` build option for Linux and Windows<br />
-  <sub>[#172239](https://github.com/flutter/flutter/pull/172239) merged on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172239) over 1 week, 168 additions and 0 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--web-server` support<br />
+  <sub>[#172978](https://github.com/flutter/flutter/pull/172978) merged on July 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172978) over 7 hours, 47 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide<br />
   <sub>[#172785](https://github.com/flutter/flutter/pull/172785) merged on July 28, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) over 2 days, 82 additions and 0 deletions in 3 files</sub><br />
@@ -87,9 +91,9 @@
   <sub>[#172879](https://github.com/flutter/flutter/pull/172879) merged on July 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172879) over 1 day, 55 additions and 4 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [a11y] add RangeSlider to a11y test app as additional use-case<br />
-  <sub>[#172922](https://github.com/flutter/flutter/pull/172922) merged on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172922) over 6 hours, 172 additions and 2 deletions in 28 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter pub get` to use `flutter.version.json` (instead of `version`)<br />
+  <sub>[#172798](https://github.com/flutter/flutter/pull/172798) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172798) over 2 days, 148 additions and 93 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Roll Skia from 409e1c7ba09b to a42898e5d622 (29 revisions)<br />
   <sub>[#172906](https://github.com/flutter/flutter/pull/172906) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172906) over 3 hours, 8 additions and 4 deletions in 3 files</sub><br />
@@ -99,13 +103,9 @@
   <sub>[#172910](https://github.com/flutter/flutter/pull/172910) merged on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172910) over 2 hours, 3 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter pub get` to use `flutter.version.json` (instead of `version`)<br />
-  <sub>[#172798](https://github.com/flutter/flutter/pull/172798) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172798) over 2 days, 148 additions and 93 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 4<br />
-  <sub>[#172322](https://github.com/flutter/flutter/pull/172322) merged on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172322) over 1 week, 13 additions and 19 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[Yegor](https://github.com/yjbanov)** &mdash; [a11y] add RangeSlider to a11y test app as additional use-case<br />
+  <sub>[#172922](https://github.com/flutter/flutter/pull/172922) merged on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172922) over 6 hours, 172 additions and 2 deletions in 28 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 2<br />
   <sub>[#172306](https://github.com/flutter/flutter/pull/172306) merged on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172306) over 1 week, 20 additions and 20 deletions in 3 files</sub><br />
@@ -126,6 +126,10 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Remove shortner<br />
   <sub>[#172844](https://github.com/flutter/flutter/pull/172844) merged on July 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172844) over 5 hours, 9 additions and 9 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 4<br />
+  <sub>[#172322](https://github.com/flutter/flutter/pull/172322) merged on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172322) over 1 week, 13 additions and 19 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland licenses cpp switch<br />
   <sub>[#172671](https://github.com/flutter/flutter/pull/172671) merged on July 28, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/172671) over 4 days, 34166 additions and 19742 deletions in 6 files</sub><br />

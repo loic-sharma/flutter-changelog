@@ -89,9 +89,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improve robustness of comment detection when using flutter analyze --suggestions<br />
   <sub>[#172977](https://github.com/flutter/flutter/pull/172977) opened on on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172977) 57 additions and 5 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--web-server` support<br />
-  <sub>[#172978](https://github.com/flutter/flutter/pull/172978) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172978) 47 additions and 10 deletions in 2 files</sub><br />
-
 * **[bungeman](https://github.com/bungeman)** &mdash; Add skia_ports_fontmgr_android_parser_sources<br />
   <sub>[#172979](https://github.com/flutter/flutter/pull/172979) opened on on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172979) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -102,5 +99,5 @@
   <sub>[#172995](https://github.com/flutter/flutter/pull/172995) opened on on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172995) 70 additions and 24 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate to Sliver list and builder convenience constructors<br />
-  <sub>[#173011](https://github.com/flutter/flutter/pull/173011) opened on on July 30, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173011) 505 additions and 611 deletions in 65 files</sub><br />
+  <sub>[#173011](https://github.com/flutter/flutter/pull/173011) opened on on July 30, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173011) 502 additions and 608 deletions in 65 files</sub><br />
 
