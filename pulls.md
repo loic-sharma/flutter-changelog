@@ -45,7 +45,7 @@
   <sub>[#172087](https://github.com/flutter/flutter/pull/172087) opened on on July 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172087) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `EdgeInsetsDirectional.resolve`<br />
-  <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172099) 46 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172099) 46 additions and 2 deletions in 2 files</sub><br />
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix #160622: Restore watchOS Companion App Build Compatibility<br />
   <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172436) 5 additions and 5 deletions in 1 file</sub><br />
@@ -109,4 +109,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] ClickDebouncer workaround for iOS Safari click behavior<br />
   <sub>[#173072](https://github.com/flutter/flutter/pull/173072) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173072) 92 additions and 28 deletions in 2 files</sub><br />
+
+* **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Null aware elements clean-ups<br />
+  <sub>[#173074](https://github.com/flutter/flutter/pull/173074) opened on on July 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/173074) 84 additions and 100 deletions in 35 files</sub><br />
 
