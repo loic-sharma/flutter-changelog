@@ -92,7 +92,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: Shrink `Command` 40 bytes
-  <sub>[#173004](https://github.com/flutter/flutter/pull/173004) merged on July 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173004) over 17 hours, 63 additions and 62 deletions in 20 files</sub>
+  <sub>[#173004](https://github.com/flutter/flutter/pull/173004) merged on July 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173004) over 17 hours, 63 additions and 62 deletions in 20 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Impeller gemini md
