@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-44 commits.
+47 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.<br />
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub><br />
@@ -35,6 +35,10 @@
   <sub>[#172056](https://github.com/flutter/flutter/pull/172056) merged on July 29, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/172056) over 2 weeks, 98 additions and 16 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue where calling showOnScreen on a sliver after a pinned child in SliverMainAxisGroup does not reveal it.<br />
+  <sub>[#171339](https://github.com/flutter/flutter/pull/171339) merged on July 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/171339) over 1 month, 57 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build<br />
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -63,21 +67,21 @@
   <sub>[#172767](https://github.com/flutter/flutter/pull/172767) merged on July 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172767) over 6 days, 9 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add a SliverList code sample<br />
-  <sub>[#172986](https://github.com/flutter/flutter/pull/172986) merged on July 31, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/172986) over 22 hours, 89 additions and 2 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Bump customer tests for zulip fix 2<br />
   <sub>[#173003](https://github.com/flutter/flutter/pull/173003) merged on July 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173003) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Price](https://github.com/gnprice)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add a SliverList code sample<br />
+  <sub>[#172986](https://github.com/flutter/flutter/pull/172986) merged on July 31, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/172986) over 22 hours, 89 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide<br />
   <sub>[#172785](https://github.com/flutter/flutter/pull/172785) merged on July 28, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) over 2 days, 82 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; feat: Add `cursorHeight` to `DropdownMenu`<br />
-  <sub>[#172615](https://github.com/flutter/flutter/pull/172615) merged on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172615) over 1 week, 22 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `EdgeInsetsDirectional.resolve`<br />
+  <sub>[#172099](https://github.com/flutter/flutter/pull/172099) merged on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172099) over 2 weeks, 46 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Daniil Lipatkin](https://github.com/nt4f04uNd), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Migrate to null aware elements - Part 5<br />
   <sub>[#172418](https://github.com/flutter/flutter/pull/172418) merged on July 30, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/172418) over 1 week, 51 additions and 95 deletions in 33 files</sub><br />
@@ -87,9 +91,17 @@
   <sub>[#172974](https://github.com/flutter/flutter/pull/172974) merged on July 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/172974) over 2 hours, 4 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
+* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; feat: Add `cursorHeight` to `DropdownMenu`<br />
+  <sub>[#172615](https://github.com/flutter/flutter/pull/172615) merged on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172615) over 1 week, 22 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update provisioning profile for 2025-2026 cert for chromium bots<br />
   <sub>[#171021](https://github.com/flutter/flutter/pull/171021) merged on July 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171021) over 1 month, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: Switched to lexically_relative for 2x speed boost.<br />
+  <sub>[#173048](https://github.com/flutter/flutter/pull/173048) merged on July 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173048) over 2 hours, 9 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: Shrink `Command` 40 bytes<br />
   <sub>[#173004](https://github.com/flutter/flutter/pull/173004) merged on July 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173004) over 17 hours, 63 additions and 62 deletions in 20 files</sub><br />
@@ -107,29 +119,41 @@
   <sub>[#172871](https://github.com/flutter/flutter/pull/172871) merged on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172871) over 1 day, 36 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Roll Skia from 409e1c7ba09b to a42898e5d622 (29 revisions)<br />
+  <sub>[#172906](https://github.com/flutter/flutter/pull/172906) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172906) over 3 hours, 8 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Add `--profile-startup` switch<br />
   <sub>[#172879](https://github.com/flutter/flutter/pull/172879) merged on July 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172879) over 1 day, 55 additions and 4 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; [a11y] add RangeSlider to a11y test app as additional use-case<br />
-  <sub>[#172922](https://github.com/flutter/flutter/pull/172922) merged on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172922) over 6 hours, 172 additions and 2 deletions in 28 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made `android_gradle_print_build_variants_test.dart` more robust<br />
-  <sub>[#172910](https://github.com/flutter/flutter/pull/172910) merged on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172910) over 2 hours, 3 additions and 7 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter pub get` to use `flutter.version.json` (instead of `version`)<br />
   <sub>[#172798](https://github.com/flutter/flutter/pull/172798) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172798) over 2 days, 148 additions and 93 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Roll Skia from 409e1c7ba09b to a42898e5d622 (29 revisions)<br />
-  <sub>[#172906](https://github.com/flutter/flutter/pull/172906) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172906) over 3 hours, 8 additions and 4 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made `android_gradle_print_build_variants_test.dart` more robust<br />
+  <sub>[#172910](https://github.com/flutter/flutter/pull/172910) merged on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172910) over 2 hours, 3 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [a11y] add RangeSlider to a11y test app as additional use-case<br />
+  <sub>[#172922](https://github.com/flutter/flutter/pull/172922) merged on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172922) over 6 hours, 172 additions and 2 deletions in 28 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ClickDebouncer workaround for iOS Safari click behavior<br />
   <sub>[#172995](https://github.com/flutter/flutter/pull/172995) merged on July 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172995) over 22 hours, 92 additions and 28 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Add dartvm to the dart_sdk_entitlement_config list.<br />
+  <sub>[#173044](https://github.com/flutter/flutter/pull/173044) merged on July 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173044) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer<br />
+  <sub>[#172877](https://github.com/flutter/flutter/pull/172877) merged on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172877) over 2 days, 0 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 14ea8d342149 to 6832e04cf2f9<br />
+  <sub>[#173015](https://github.com/flutter/flutter/pull/173015) merged on July 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173015) over 5 hours, 9 additions and 9 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 4<br />
   <sub>[#172322](https://github.com/flutter/flutter/pull/172322) merged on July 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172322) over 1 week, 13 additions and 19 deletions in 4 files</sub><br />
@@ -150,18 +174,6 @@
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 5ede85aff798 to 14ea8d342149<br />
   <sub>[#172783](https://github.com/flutter/flutter/pull/172783) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172783) over 3 days, 15 additions and 10 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Siva](https://github.com/a-siva)** &mdash; Add dartvm to the dart_sdk_entitlement_config list.<br />
-  <sub>[#173044](https://github.com/flutter/flutter/pull/173044) merged on July 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173044) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer<br />
-  <sub>[#172877](https://github.com/flutter/flutter/pull/172877) merged on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172877) over 2 days, 0 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
-
-* **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 14ea8d342149 to 6832e04cf2f9<br />
-  <sub>[#173015](https://github.com/flutter/flutter/pull/173015) merged on July 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173015) over 5 hours, 9 additions and 9 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Remove shortner<br />
   <sub>[#172844](https://github.com/flutter/flutter/pull/172844) merged on July 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172844) over 5 hours, 9 additions and 9 deletions in 9 files</sub><br />
