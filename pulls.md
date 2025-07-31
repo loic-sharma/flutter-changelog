@@ -63,7 +63,7 @@
   <sub>[#172767](https://github.com/flutter/flutter/pull/172767) opened on on July 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172767) 9 additions and 3 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable Firefox auto-updates<br />
-  <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 22 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 18 additions and 1 deletion in 2 files</sub><br />
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172829) 64 additions and 6 deletions in 3 files</sub><br />
