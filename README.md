@@ -156,13 +156,13 @@
 <details>
 <summary>90 commits...</summary>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
-  <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jaime Wren](https://github.com/jwren), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Arindam Karmakar](https://github.com/k-arindam)** &mdash; Add `automaticallyImplyActions` property to AppBar<br />
   <sub>[#171113](https://github.com/flutter/flutter/pull/171113) merged on July 24, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/171113) over 4 weeks, 141 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove IDE validation from `flutter doctor`<br />
+  <sub>[#171924](https://github.com/flutter/flutter/pull/171924) merged on July 21, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/171924) over 1 week, 13 additions and 1830 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jaime Wren](https://github.com/jwren), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Respect user-data-dir flag from web-browser-flag<br />
   <sub>[#169445](https://github.com/flutter/flutter/pull/169445) merged on July 25, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/169445) over 2 months, 51 additions and 3 deletions in 2 files</sub><br />
