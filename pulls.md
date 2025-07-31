@@ -107,3 +107,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Upload the linux arm64 embedder to cloud buckets.<br />
   <sub>[#173068](https://github.com/flutter/flutter/pull/173068) opened on on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173068) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] ClickDebouncer workaround for iOS Safari click behavior<br />
+  <sub>[#173072](https://github.com/flutter/flutter/pull/173072) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173072) 92 additions and 28 deletions in 2 files</sub><br />
+
