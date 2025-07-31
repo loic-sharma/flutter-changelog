@@ -98,6 +98,9 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ClickDebouncer workaround for iOS Safari click behavior<br />
   <sub>[#172995](https://github.com/flutter/flutter/pull/172995) opened on on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172995) 70 additions and 24 deletions in 2 files</sub><br />
 
+* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; feat: add `OptionsViewOpenDirection.auto` to `RawAutocomplete`<br />
+  <sub>[#172997](https://github.com/flutter/flutter/pull/172997) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172997) 194 additions and 13 deletions in 4 files</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate to list and builder Sliver convenience constructors<br />
   <sub>[#173011](https://github.com/flutter/flutter/pull/173011) opened on on July 30, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173011) 511 additions and 619 deletions in 66 files</sub><br />
 
