@@ -164,7 +164,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland licenses cpp switch 2
-  <sub>[#172996](https://github.com/flutter/flutter/pull/172996) merged on July 31, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/172996) over 20 hours, 33123 additions and 65435 deletions in 6 files</sub>
+  <sub>[#172996](https://github.com/flutter/flutter/pull/172996) merged on July 31, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/172996) over 20 hours, 33123 additions and 65435 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Reland - Manual roll of Dart from 5ede85aff798 to 14ea8d342149
