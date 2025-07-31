@@ -4,7 +4,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-36 commits.
+37 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub>
@@ -99,6 +99,10 @@
   <sub>[#172922](https://github.com/flutter/flutter/pull/172922) merged on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172922) over 6 hours, 172 additions and 2 deletions in 28 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made `android_gradle_print_build_variants_test.dart` more robust
+  <sub>[#172910](https://github.com/flutter/flutter/pull/172910) merged on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172910) over 2 hours, 3 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter pub get` to use `flutter.version.json` (instead of `version`)
   <sub>[#172798](https://github.com/flutter/flutter/pull/172798) merged on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172798) over 2 days, 148 additions and 93 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -106,10 +110,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Roll Skia from 409e1c7ba09b to a42898e5d622 (29 revisions)
   <sub>[#172906](https://github.com/flutter/flutter/pull/172906) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172906) over 3 hours, 8 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made `android_gradle_print_build_variants_test.dart` more robust
-  <sub>[#172910](https://github.com/flutter/flutter/pull/172910) merged on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172910) over 2 hours, 3 additions and 7 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Migrate to null aware elements - Part 2
   <sub>[#172306](https://github.com/flutter/flutter/pull/172306) merged on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172306) over 1 week, 20 additions and 20 deletions in 3 files</sub>
@@ -126,6 +126,10 @@
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 5ede85aff798 to 14ea8d342149
   <sub>[#172783](https://github.com/flutter/flutter/pull/172783) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172783) over 3 days, 15 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer
+  <sub>[#172877](https://github.com/flutter/flutter/pull/172877) merged on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172877) over 2 days, 0 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart from 14ea8d342149 to 6832e04cf2f9
   <sub>[#173015](https://github.com/flutter/flutter/pull/173015) merged on July 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173015) over 5 hours, 9 additions and 9 deletions in 2 files</sub>

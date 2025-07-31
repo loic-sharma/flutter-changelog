@@ -48,7 +48,7 @@
   <sub>[#172099](https://github.com/flutter/flutter/pull/172099) opened on on July 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172099) 46 additions and 2 deletions in 2 files</sub><br />
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix #160622: Restore watchOS Companion App Build Compatibility<br />
-  <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172436) 5 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172436) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
   <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
@@ -70,9 +70,6 @@
 
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker hour label<br />
   <sub>[#172850](https://github.com/flutter/flutter/pull/172850) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172850) 176 additions and 16 deletions in 2 files</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove outdated comment about HTML renderer<br />
-  <sub>[#172877](https://github.com/flutter/flutter/pull/172877) opened on on July 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172877) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix lock up when window resized with merged UI and platform threads.<br />
   <sub>[#172893](https://github.com/flutter/flutter/pull/172893) opened on on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172893) 46 additions and 88 deletions in 7 files</sub><br />
@@ -96,7 +93,7 @@
   <sub>[#172994](https://github.com/flutter/flutter/pull/172994) opened on on July 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172994) 33 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ClickDebouncer workaround for iOS Safari click behavior<br />
-  <sub>[#172995](https://github.com/flutter/flutter/pull/172995) opened on on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172995) 70 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#172995](https://github.com/flutter/flutter/pull/172995) opened on on July 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172995) 92 additions and 28 deletions in 2 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; feat: add `OptionsViewOpenDirection.auto` to `RawAutocomplete`<br />
   <sub>[#172997](https://github.com/flutter/flutter/pull/172997) opened on on July 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172997) 194 additions and 13 deletions in 4 files</sub><br />
