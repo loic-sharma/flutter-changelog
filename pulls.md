@@ -101,3 +101,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate to list and builder Sliver convenience constructors<br />
   <sub>[#173011](https://github.com/flutter/flutter/pull/173011) opened on on July 30, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173011) 511 additions and 619 deletions in 66 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 end drawer button<br />
+  <sub>[#173026](https://github.com/flutter/flutter/pull/173026) opened on on July 31, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/173026) 317 additions and 299 deletions in 1 file</sub><br />
+
