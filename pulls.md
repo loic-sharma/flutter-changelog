@@ -90,7 +90,7 @@
   <sub>[#172994](https://github.com/flutter/flutter/pull/172994) opened on on July 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172994) 33 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ClickDebouncer workaround for iOS Safari click behavior<br />
-  <sub>[#172995](https://github.com/flutter/flutter/pull/172995) opened on on July 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172995) 92 additions and 28 deletions in 2 files</sub><br />
+  <sub>[#172995](https://github.com/flutter/flutter/pull/172995) opened on on July 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172995) 92 additions and 28 deletions in 2 files</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; feat: add `OptionsViewOpenDirection.auto` to `RawAutocomplete`<br />
   <sub>[#172997](https://github.com/flutter/flutter/pull/172997) opened on on July 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172997) 194 additions and 13 deletions in 4 files</sub><br />
@@ -103,4 +103,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: Switched to lexically_relative for 2x speed boost.<br />
   <sub>[#173048](https://github.com/flutter/flutter/pull/173048) opened on on July 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173048) 9 additions and 5 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] Text editing test accepts both behaviors in Firefox<br />
+  <sub>[#173053](https://github.com/flutter/flutter/pull/173053) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173053) 9 additions and 2 deletions in 1 file</sub><br />
 
