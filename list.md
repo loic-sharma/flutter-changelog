@@ -799,11 +799,15 @@
 
 ### July 26, 2025 to August 1, 2025
 
-9 commits.
+10 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fixed Camera Switching Bug
   <sub>[#9671](https://github.com/flutter/packages/pull/9671) merged on July 30, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/packages/pull/9671) over 5 days, 446 additions and 9 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Separate event stream from player on iOS
+  <sub>[#9700](https://github.com/flutter/packages/pull/9700) merged on July 31, 2025 &mdash; **Large:** [16 comments](https://github.com/flutter/packages/pull/9700) over 1 day, 338 additions and 164 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move more Obj-C logic to Dart
   <sub>[#9685](https://github.com/flutter/packages/pull/9685) merged on July 29, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/9685) over 1 day, 261 additions and 324 deletions in 17 files</sub>

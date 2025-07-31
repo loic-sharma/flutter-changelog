@@ -107,3 +107,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] Text editing test accepts both behaviors in Firefox<br />
   <sub>[#173053](https://github.com/flutter/flutter/pull/173053) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173053) 9 additions and 2 deletions in 1 file</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Upload the linux arm64 embedder to cloud buckets.<br />
+  <sub>[#173068](https://github.com/flutter/flutter/pull/173068) opened on on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173068) 3 additions and 1 deletion in 1 file</sub><br />
+
