@@ -100,7 +100,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: Switched to lexically_relative for 2x speed boost.<br />
-  <sub>[#173048](https://github.com/flutter/flutter/pull/173048) merged on July 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173048) over 2 hours, 9 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#173048](https://github.com/flutter/flutter/pull/173048) merged on July 31, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173048) over 2 hours, 9 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: Shrink `Command` 40 bytes<br />
