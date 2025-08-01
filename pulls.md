@@ -33,7 +33,7 @@
   <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/171646) 203 additions and 257 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true and added simple test case<br />
-  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171648) 210 additions and 5 deletions in 4 files</sub><br />
+  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171648) 216 additions and 7 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
@@ -102,7 +102,7 @@
   <sub>[#173108](https://github.com/flutter/flutter/pull/173108) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173108) 67 additions and 8 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Experiment with Xcode 26 beta 4<br />
-  <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
+  <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; experiment with docs properties<br />
   <sub>[#173124](https://github.com/flutter/flutter/pull/173124) opened on on August 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173124) 6 additions and 6 deletions in 1 file</sub><br />
@@ -112,7 +112,4 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Improve xcresult comment and naming<br />
   <sub>[#173129](https://github.com/flutter/flutter/pull/173129) opened on on August 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173129) 10 additions and 10 deletions in 1 file</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Upload the Android standalone embedder API dylibs.<br />
-  <sub>[#173131](https://github.com/flutter/flutter/pull/173131) opened on on August 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173131) 16 additions and 2 deletions in 3 files</sub><br />
 
