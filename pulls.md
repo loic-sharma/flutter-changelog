@@ -104,3 +104,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Use route navigator for CupertinoSheetRoute pop<br />
   <sub>[#173103](https://github.com/flutter/flutter/pull/173103) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173103) 64 additions and 2 deletions in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LinearProgressIndicator track painting outside of bounds.<br />
+  <sub>[#173108](https://github.com/flutter/flutter/pull/173108) opened on on August 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173108) 67 additions and 8 deletions in 2 files</sub><br />
+
