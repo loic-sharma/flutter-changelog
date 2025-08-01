@@ -44,7 +44,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches<br />
-  <sub>[#173114](https://github.com/flutter/flutter/pull/173114) merged on August 1, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/173114) over 4 hours, 313 additions and 19 deletions in 5 files</sub><br />
+  <sub>[#173114](https://github.com/flutter/flutter/pull/173114) merged on August 1, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/173114) over 4 hours, 313 additions and 19 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add a SliverList code sample<br />
