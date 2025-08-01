@@ -102,5 +102,5 @@
   <sub>[#173090](https://github.com/flutter/flutter/pull/173090) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173090) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Danilo Zhang](https://github.com/danilozhang)** &mdash; Command flutter build aar should use version from pubspec.yaml (#98108)<br />
-  <sub>[#173095](https://github.com/flutter/flutter/pull/173095) opened on on August 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173095) 5 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#173095](https://github.com/flutter/flutter/pull/173095) opened on on August 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173095) 5 additions and 2 deletions in 3 files</sub><br />
 
