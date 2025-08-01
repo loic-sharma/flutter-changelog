@@ -92,9 +92,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MaterialApp doesn't crash in 0x0 environment<br />
   <sub>[#173090](https://github.com/flutter/flutter/pull/173090) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173090) 10 additions and 0 deletions in 1 file</sub><br />
 
-* **[Danilo Zhang](https://github.com/danilozhang)** &mdash; Command flutter build aar should use version from pubspec.yaml (#98108)<br />
-  <sub>[#173102](https://github.com/flutter/flutter/pull/173102) opened on on August 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173102) 5 additions and 2 deletions in 3 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Use route navigator for CupertinoSheetRoute pop<br />
   <sub>[#173103](https://github.com/flutter/flutter/pull/173103) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173103) 64 additions and 2 deletions in 2 files</sub><br />
 
