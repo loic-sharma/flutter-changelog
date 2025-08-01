@@ -107,3 +107,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Experiment with Xcode 26 beta 4<br />
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Snackbar timeout<br />
+  <sub>[#173127](https://github.com/flutter/flutter/pull/173127) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173127) 86 additions and 72 deletions in 4 files</sub><br />
+
