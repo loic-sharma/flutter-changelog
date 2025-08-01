@@ -216,7 +216,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland licenses cpp switch 3<br />
-  <sub>[#173063](https://github.com/flutter/flutter/pull/173063) merged on July 31, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173063) over 3 hours, 33125 additions and 65435 deletions in 6 files</sub><br />
+  <sub>[#173063](https://github.com/flutter/flutter/pull/173063) merged on July 31, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/173063) over 3 hours, 33125 additions and 65435 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland licenses cpp switch 2<br />
@@ -855,7 +855,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-13 commits.
+14 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fixed Camera Switching Bug<br />
   <sub>[#9671](https://github.com/flutter/packages/pull/9671) merged on July 30, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/packages/pull/9671) over 5 days, 446 additions and 9 deletions in 12 files</sub><br />
@@ -888,6 +888,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 10<br />
   <sub>[#9664](https://github.com/flutter/packages/pull/9664) merged on July 29, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/9664) over 5 days, 118 additions and 131 deletions in 10 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Oleksandr Havrylko](https://github.com/agavrilko)** &mdash; [webview_flutter_platform_interface] Provide flexible API for loading local HTML files<br />
+  <sub>[#9697](https://github.com/flutter/packages/pull/9697) merged on August 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9697) over 2 days, 85 additions and 1 deletion in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Extending Timeout on `Linux_android android_build_all_packages *`<br />
   <sub>[#9717](https://github.com/flutter/packages/pull/9717) merged on August 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9717) over 18 hours, 2 additions and 2 deletions in 1 file</sub><br />
