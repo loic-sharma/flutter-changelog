@@ -855,7 +855,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-11 commits.
+12 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fixed Camera Switching Bug
   <sub>[#9671](https://github.com/flutter/packages/pull/9671) merged on July 30, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/packages/pull/9671) over 5 days, 446 additions and 9 deletions in 12 files</sub>
@@ -888,6 +888,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 10
   <sub>[#9664](https://github.com/flutter/packages/pull/9664) merged on July 29, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/9664) over 5 days, 118 additions and 131 deletions in 10 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Mark `FlutterIOOverrides` as `final`
+  <sub>[#9719](https://github.com/flutter/packages/pull/9719) merged on August 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9719) over 12 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [tool] Remove web drive hot reload workaround
   <sub>[#9704](https://github.com/flutter/packages/pull/9704) merged on July 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9704) over 19 hours, 8 additions and 13 deletions in 10 files</sub>
