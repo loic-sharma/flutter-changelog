@@ -101,3 +101,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MaterialApp doesn't crash in 0x0 environment<br />
   <sub>[#173090](https://github.com/flutter/flutter/pull/173090) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173090) 10 additions and 0 deletions in 1 file</sub><br />
 
+* **[Danilo Zhang](https://github.com/danilozhang)** &mdash; Command flutter build aar should use version from pubspec.yaml (#98108)<br />
+  <sub>[#173093](https://github.com/flutter/flutter/pull/173093) opened on on August 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173093) 7 additions and 3 deletions in 3 files</sub><br />
+
