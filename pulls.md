@@ -98,3 +98,6 @@
 * **[Siva](https://github.com/a-siva)** &mdash; Roll Dart SDK from 6832e04cf2f9 to d86207992f6d<br />
   <sub>[#173083](https://github.com/flutter/flutter/pull/173083) opened on on July 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173083) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; Migrate surface frame shell code to DisplayList/Impeller geometry classes<br />
+  <sub>[#173086](https://github.com/flutter/flutter/pull/173086) opened on on August 1, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/173086) 435 additions and 447 deletions in 92 files</sub><br />
+
