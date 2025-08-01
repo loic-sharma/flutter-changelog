@@ -87,7 +87,7 @@
   <sub>[#173074](https://github.com/flutter/flutter/pull/173074) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173074) 84 additions and 100 deletions in 35 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate surface frame shell code to DisplayList/Impeller geometry classes<br />
-  <sub>[#173086](https://github.com/flutter/flutter/pull/173086) opened on on August 1, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/173086) 435 additions and 447 deletions in 92 files</sub><br />
+  <sub>[#173086](https://github.com/flutter/flutter/pull/173086) opened on on August 1, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/173086) 466 additions and 505 deletions in 111 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MaterialApp doesn't crash in 0x0 environment<br />
   <sub>[#173090](https://github.com/flutter/flutter/pull/173090) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173090) 10 additions and 0 deletions in 1 file</sub><br />
