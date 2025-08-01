@@ -71,9 +71,6 @@
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Flutter driver deserialization<br />
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172927) 524 additions and 93 deletions in 19 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Improve robustness of comment detection when using flutter analyze --suggestions<br />
-  <sub>[#172977](https://github.com/flutter/flutter/pull/172977) opened on on July 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172977) 57 additions and 5 deletions in 2 files</sub><br />
-
 * **[bungeman](https://github.com/bungeman)** &mdash; Add skia_ports_fontmgr_android_parser_sources<br />
   <sub>[#172979](https://github.com/flutter/flutter/pull/172979) opened on on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172979) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -102,5 +99,5 @@
   <sub>[#173090](https://github.com/flutter/flutter/pull/173090) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173090) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Danilo Zhang](https://github.com/danilozhang)** &mdash; Command flutter build aar should use version from pubspec.yaml (#98108)<br />
-  <sub>[#173095](https://github.com/flutter/flutter/pull/173095) opened on on August 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173095) 5 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#173095](https://github.com/flutter/flutter/pull/173095) opened on on August 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173095) 5 additions and 2 deletions in 3 files</sub><br />
 
