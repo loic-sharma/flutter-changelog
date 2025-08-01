@@ -105,11 +105,14 @@
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; experiment with docs properties<br />
-  <sub>[#173124](https://github.com/flutter/flutter/pull/173124) opened on on August 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173124) 12 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#173124](https://github.com/flutter/flutter/pull/173124) opened on on August 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173124) 6 additions and 6 deletions in 1 file</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Snackbar timeout<br />
   <sub>[#173127](https://github.com/flutter/flutter/pull/173127) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173127) 82 additions and 68 deletions in 4 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Improve xcresult comment and naming<br />
   <sub>[#173129](https://github.com/flutter/flutter/pull/173129) opened on on August 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173129) 10 additions and 10 deletions in 1 file</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Upload the Android standalone embedder API dylibs.<br />
+  <sub>[#173131](https://github.com/flutter/flutter/pull/173131) opened on on August 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173131) 16 additions and 2 deletions in 3 files</sub><br />
 
