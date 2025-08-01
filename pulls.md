@@ -113,6 +113,3 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In "flutter create", use the project directory in the suggested "cd" command instead of the main source file path<br />
   <sub>[#173132](https://github.com/flutter/flutter/pull/173132) opened on on August 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173132) 3 additions and 2 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: reland switch 4<br />
-  <sub>[#173139](https://github.com/flutter/flutter/pull/173139) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173139) 33155 additions and 65448 deletions in 12 files</sub><br />
-
