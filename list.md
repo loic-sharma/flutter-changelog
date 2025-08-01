@@ -855,7 +855,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-12 commits.
+13 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fixed Camera Switching Bug
   <sub>[#9671](https://github.com/flutter/packages/pull/9671) merged on July 30, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/packages/pull/9671) over 5 days, 446 additions and 9 deletions in 12 files</sub>
@@ -888,6 +888,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 10
   <sub>[#9664](https://github.com/flutter/packages/pull/9664) merged on July 29, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/9664) over 5 days, 118 additions and 131 deletions in 10 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Extending Timeout on `Linux_android android_build_all_packages *`
+  <sub>[#9717](https://github.com/flutter/packages/pull/9717) merged on August 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9717) over 18 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Mark `FlutterIOOverrides` as `final`
   <sub>[#9719](https://github.com/flutter/packages/pull/9719) merged on August 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9719) over 12 hours, 1 addition and 1 deletion in 1 file</sub>
