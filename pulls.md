@@ -33,7 +33,7 @@
   <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/171646) 203 additions and 257 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true and added simple test case<br />
-  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171648) 214 additions and 5 deletions in 4 files</sub><br />
+  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171648) 215 additions and 6 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
@@ -112,4 +112,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In "flutter create", use the project directory in the suggested "cd" command instead of the main source file path<br />
   <sub>[#173132](https://github.com/flutter/flutter/pull/173132) opened on on August 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173132) 3 additions and 2 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: reland switch 4<br />
+  <sub>[#173139](https://github.com/flutter/flutter/pull/173139) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173139) 33155 additions and 65448 deletions in 12 files</sub><br />
 
