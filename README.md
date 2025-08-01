@@ -92,7 +92,7 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Jamil Saadeh](https://github.com/jamilsaadeh97), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't use .NET APIs in `update_engine_version.ps1`<br />
-  <sub>[#172974](https://github.com/flutter/flutter/pull/172974) merged on July 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/172974) over 2 hours, 4 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#172974](https://github.com/flutter/flutter/pull/172974) merged on July 30, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172974) over 2 hours, 4 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `EdgeInsetsDirectional.resolve`<br />
