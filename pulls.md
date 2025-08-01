@@ -107,6 +107,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LinearProgressIndicator track painting outside of bounds.<br />
   <sub>[#173108](https://github.com/flutter/flutter/pull/173108) opened on on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173108) 67 additions and 8 deletions in 2 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches<br />
-  <sub>[#173114](https://github.com/flutter/flutter/pull/173114) opened on on August 1, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/173114) 296 additions and 20 deletions in 5 files</sub><br />
-
