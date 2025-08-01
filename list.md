@@ -43,6 +43,10 @@
   <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add a SliverList code sample
+  <sub>[#172986](https://github.com/flutter/flutter/pull/172986) merged on July 31, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/172986) over 22 hours, 89 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
 * **[Dara Adedeji](https://github.com/SunkenInTime)** &mdash; docs: Clarify Transform.rotate origin interaction with alignment
   <sub>[#163934](https://github.com/flutter/flutter/pull/163934) merged on July 30, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/163934) over 5 months, 37 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Tirth Patel](https://github.com/tirth-patel-nc), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -71,10 +75,6 @@
   <sub>[#173003](https://github.com/flutter/flutter/pull/173003) merged on July 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173003) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Price](https://github.com/gnprice)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add a SliverList code sample
-  <sub>[#172986](https://github.com/flutter/flutter/pull/172986) merged on July 31, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/172986) over 22 hours, 89 additions and 2 deletions in 4 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide
   <sub>[#172785](https://github.com/flutter/flutter/pull/172785) merged on July 28, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) over 2 days, 82 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -92,7 +92,7 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Jamil Saadeh](https://github.com/jamilsaadeh97), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't use .NET APIs in `update_engine_version.ps1`
-  <sub>[#172974](https://github.com/flutter/flutter/pull/172974) merged on July 30, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172974) over 2 hours, 4 additions and 5 deletions in 1 file</sub>
+  <sub>[#172974](https://github.com/flutter/flutter/pull/172974) merged on July 30, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172974) over 2 hours, 4 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `EdgeInsetsDirectional.resolve`
