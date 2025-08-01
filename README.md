@@ -1008,7 +1008,7 @@
 
 ### July 26, 2025 to August 1, 2025
 
-4 commits.
+5 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add doc on decoupling design<br />
   <sub>[#12253](https://github.com/flutter/website/pull/12253) merged on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12253) over 9 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -1025,6 +1025,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to new major version releases of Firebase packages<br />
   <sub>[#12247](https://github.com/flutter/website/pull/12247) merged on July 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12247) over 11 hours, 5 additions and 5 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New design doc: iOS-Style Blur Support<br />
+  <sub>[#12256](https://github.com/flutter/website/pull/12256) merged on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12256) over 8 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 ### July 19, 2025 to July 25, 2025
 
