@@ -111,7 +111,7 @@
   <sub>[#173132](https://github.com/flutter/flutter/pull/173132) opened on on August 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173132) 3 additions and 2 deletions in 2 files</sub><br />
 
 * **[Danilo Zhang](https://github.com/danilozhang)** &mdash; Command flutter build aar should use version from pubspec.yaml (#98108)<br />
-  <sub>[#173147](https://github.com/flutter/flutter/pull/173147) opened on on August 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173147) 5 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#173147](https://github.com/flutter/flutter/pull/173147) opened on on August 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173147) 5 additions and 2 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add error handling for `Element` lifecycle user callbacks<br />
   <sub>[#173148](https://github.com/flutter/flutter/pull/173148) opened on on August 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173148) 87 additions and 15 deletions in 3 files</sub><br />
@@ -126,5 +126,5 @@
   <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Assertion failure in RawScrollbarState with dynamic controller assignment<br />
-  <sub>[#173156](https://github.com/flutter/flutter/pull/173156) opened on on August 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173156) 80 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#173156](https://github.com/flutter/flutter/pull/173156) opened on on August 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173156) 84 additions and 4 deletions in 2 files</sub><br />
 
