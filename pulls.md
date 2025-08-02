@@ -128,3 +128,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Assertion failure in RawScrollbarState with dynamic controller assignment<br />
   <sub>[#173156](https://github.com/flutter/flutter/pull/173156) opened on on August 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173156) 84 additions and 4 deletions in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Make CupertinoSheetRouteTransitionMixin a public API<br />
+  <sub>[#173159](https://github.com/flutter/flutter/pull/173159) opened on on August 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173159) 3 additions and 3 deletions in 1 file</sub><br />
+
