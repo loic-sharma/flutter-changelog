@@ -131,6 +131,3 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Make CupertinoSheetRouteTransitionMixin a public API<br />
   <sub>[#173159](https://github.com/flutter/flutter/pull/173159) opened on on August 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173159) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix `ChipThemeData` lerp for `BorderSide`<br />
-  <sub>[#173160](https://github.com/flutter/flutter/pull/173160) opened on on August 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173160) 33 additions and 58 deletions in 7 files</sub><br />
-
