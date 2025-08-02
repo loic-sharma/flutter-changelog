@@ -79,25 +79,41 @@
   <sub>[#172978](https://github.com/flutter/flutter/pull/172978) merged on July 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172978) over 7 hours, 47 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide
-  <sub>[#172785](https://github.com/flutter/flutter/pull/172785) merged on July 28, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) over 2 days, 82 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Bump customer tests for zulip fix 2
   <sub>[#173003](https://github.com/flutter/flutter/pull/173003) merged on July 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173003) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Price](https://github.com/gnprice)</sub>
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move android_obfuscate_test from devicelab into tools integration.shard
-  <sub>[#169798](https://github.com/flutter/flutter/pull/169798) merged on August 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169798) over 2 months, 118 additions and 124 deletions in 4 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] RangeSlider should have 2 focus node
   <sub>[#172729](https://github.com/flutter/flutter/pull/172729) merged on August 1, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/172729) over 1 week, 242 additions and 14 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Yegor](https://github.com/yjbanov)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update GCA instructions
+  <sub>[#173001](https://github.com/flutter/flutter/pull/173001) merged on August 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173001) over 1 day, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reformat text.dart's code snippets
+  <sub>[#172976](https://github.com/flutter/flutter/pull/172976) merged on August 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172976) over 2 days, 11 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move android_obfuscate_test from devicelab into tools integration.shard
+  <sub>[#169798](https://github.com/flutter/flutter/pull/169798) merged on August 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169798) over 2 months, 118 additions and 124 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Gemini Code Assist review config and style guide
+  <sub>[#172785](https://github.com/flutter/flutter/pull/172785) merged on July 28, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172785) over 2 days, 82 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] ClickDebouncer workaround for iOS Safari click behavior
   <sub>[#172995](https://github.com/flutter/flutter/pull/172995) merged on July 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172995) over 22 hours, 92 additions and 28 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; feat: Add `cursorHeight` to `DropdownMenu`
+  <sub>[#172615](https://github.com/flutter/flutter/pull/172615) merged on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172615) over 1 week, 22 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Remove duplicate object initialization
+  <sub>[#171767](https://github.com/flutter/flutter/pull/171767) merged on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171767) over 3 weeks, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Migrate to null aware elements - Part 5
   <sub>[#172418](https://github.com/flutter/flutter/pull/172418) merged on July 30, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/172418) over 1 week, 51 additions and 95 deletions in 33 files</sub>
@@ -107,14 +123,6 @@
   <sub>[#172974](https://github.com/flutter/flutter/pull/172974) merged on July 30, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172974) over 2 hours, 4 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Remove duplicate object initialization
-  <sub>[#171767](https://github.com/flutter/flutter/pull/171767) merged on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/171767) over 3 weeks, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; feat: Add `cursorHeight` to `DropdownMenu`
-  <sub>[#172615](https://github.com/flutter/flutter/pull/172615) merged on July 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172615) over 1 week, 22 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
 * **[Alex Talebi](https://github.com/SalehTZ)** &mdash; Improve assertion message in `EdgeInsetsDirectional.resolve`
   <sub>[#172099](https://github.com/flutter/flutter/pull/172099) merged on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172099) over 2 weeks, 46 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Daniil Lipatkin](https://github.com/nt4f04uNd), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
@@ -123,17 +131,9 @@
   <sub>[#171021](https://github.com/flutter/flutter/pull/171021) merged on July 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/171021) over 1 month, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reformat text.dart's code snippets
-  <sub>[#172976](https://github.com/flutter/flutter/pull/172976) merged on August 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172976) over 2 days, 11 additions and 6 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
-
 * **[Derek Xu](https://github.com/derekxu16)** &mdash; Add `--profile-startup` flag to `flutter run`
   <sub>[#172990](https://github.com/flutter/flutter/pull/172990) merged on August 1, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172990) over 1 day, 58 additions and 19 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update GCA instructions
-  <sub>[#173001](https://github.com/flutter/flutter/pull/173001) merged on August 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173001) over 1 day, 3 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update embedder API CODEOWNERS
   <sub>[#173081](https://github.com/flutter/flutter/pull/173081) merged on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173081) over 8 hours, 2 additions and 2 deletions in 1 file</sub>
