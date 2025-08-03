@@ -129,5 +129,5 @@
   <sub>[#173178](https://github.com/flutter/flutter/pull/173178) opened on on August 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173178) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; [time_picker] refactor: Distinguish widgets for dial mode only<br />
-  <sub>[#173188](https://github.com/flutter/flutter/pull/173188) opened on on August 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173188) 30 additions and 38 deletions in 2 files</sub><br />
+  <sub>[#173188](https://github.com/flutter/flutter/pull/173188) opened on on August 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173188) 64 additions and 72 deletions in 3 files</sub><br />
 
