@@ -128,3 +128,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Make CupertinoSheetRouteTransitionMixin a public API<br />
   <sub>[#173159](https://github.com/flutter/flutter/pull/173159) opened on on August 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173159) 11 additions and 5 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Checkbox doesn't crash in 0x0 environment<br />
+  <sub>[#173178](https://github.com/flutter/flutter/pull/173178) opened on on August 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173178) 11 additions and 0 deletions in 1 file</sub><br />
+
