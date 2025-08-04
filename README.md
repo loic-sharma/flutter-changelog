@@ -4,11 +4,15 @@
 
 ### August 2, 2025 to August 8, 2025
 
-12 commits.
+13 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws<br />
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michał Sawicz](https://github.com/Saviq), [Robert Ancell](https://github.com/robert-ancell), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate to list and builder Sliver convenience constructors<br />
+  <sub>[#173011](https://github.com/flutter/flutter/pull/173011) merged on August 4, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/173011) over 4 days, 512 additions and 620 deletions in 67 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches (third attempt) <br />
   <sub>[#173169](https://github.com/flutter/flutter/pull/173169) merged on August 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173169) over 1 day, 333 additions and 19 deletions in 5 files</sub><br />
