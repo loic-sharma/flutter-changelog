@@ -789,7 +789,11 @@
 
 ### August 2, 2025 to August 8, 2025
 
-1 commits.
+2 commits.
+
+* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; feat: update widget of the week videos<br />
+  <sub>[#12259](https://github.com/flutter/website/pull/12259) merged on August 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12259) over 2 days, 6 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Abitofevrything](https://github.com/abitofevrything)** &mdash; Correct text in setting up VM acceleration<br />
   <sub>[#12262](https://github.com/flutter/website/pull/12262) merged on August 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12262) over 17 hours, 2 additions and 2 deletions in 2 files</sub><br />
