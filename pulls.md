@@ -89,9 +89,6 @@
 * **[Danilo Zhang](https://github.com/danilozhang)** &mdash; Command flutter build aar should use version from pubspec.yaml (#98108)<br />
   <sub>[#173147](https://github.com/flutter/flutter/pull/173147) opened on on August 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173147) 5 additions and 2 deletions in 3 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add error handling for `Element` lifecycle user callbacks<br />
-  <sub>[#173148](https://github.com/flutter/flutter/pull/173148) opened on on August 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173148) 97 additions and 18 deletions in 5 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CheckboxListTile doesn't crash in 0x0 environment<br />
   <sub>[#173151](https://github.com/flutter/flutter/pull/173151) opened on on August 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173151) 18 additions and 0 deletions in 1 file</sub><br />
 
