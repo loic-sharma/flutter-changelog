@@ -41,9 +41,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; See how removing trailing slashes can be done<br />
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
 
-* **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix #160622: Restore watchOS Companion App Build Compatibility<br />
-  <sub>[#172436](https://github.com/flutter/flutter/pull/172436) opened on on July 20, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172436) 5 additions and 5 deletions in 1 file</sub><br />
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
   <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
 
