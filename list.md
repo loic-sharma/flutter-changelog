@@ -721,11 +721,19 @@
 
 ### August 2, 2025 to August 8, 2025
 
-2 commits.
+4 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_maps_flutter_ios] Fix kCGImageAlphaPremultipliedLast implicit conversion from enumeration type
+  <sub>[#9720](https://github.com/flutter/packages/pull/9720) merged on August 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9720) over 3 days, 10 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads]: Adds additional methods to configure ad requests
   <sub>[#9696](https://github.com/flutter/packages/pull/9696) merged on August 4, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/9696) over 6 days, 630 additions and 40 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update CODEOWNERS
+  <sub>[#9721](https://github.com/flutter/packages/pull/9721) merged on August 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9721) over 3 days, 7 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes setting adsresponse on Android
   <sub>[#9744](https://github.com/flutter/packages/pull/9744) merged on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9744) over 31 minutes, 74 additions and 4 deletions in 6 files</sub>
