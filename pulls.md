@@ -128,3 +128,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; [time_picker] refactor: Distinguish widgets for dial mode only<br />
   <sub>[#173188](https://github.com/flutter/flutter/pull/173188) opened on on August 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173188) 64 additions and 72 deletions in 3 files</sub><br />
 
+* **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; feat: add onLongPressUp callback to InkWell widget<br />
+  <sub>[#173221](https://github.com/flutter/flutter/pull/173221) opened on on August 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/173221) 49 additions and 1 deletion in 2 files</sub><br />
+
