@@ -721,7 +721,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-4 commits.
+5 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_maps_flutter_ios] Fix kCGImageAlphaPremultipliedLast implicit conversion from enumeration type<br />
   <sub>[#9720](https://github.com/flutter/packages/pull/9720) merged on August 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9720) over 3 days, 10 additions and 4 deletions in 4 files</sub><br />
@@ -730,6 +730,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads]: Adds additional methods to configure ad requests<br />
   <sub>[#9696](https://github.com/flutter/packages/pull/9696) merged on August 4, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/9696) over 6 days, 630 additions and 40 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router] add initial json support #110781<br />
+  <sub>[#9404](https://github.com/flutter/packages/pull/9404) merged on August 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9404) over 1 month, 67 additions and 2 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update CODEOWNERS<br />
   <sub>[#9721](https://github.com/flutter/packages/pull/9721) merged on August 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9721) over 3 days, 7 additions and 7 deletions in 1 file</sub><br />

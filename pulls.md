@@ -90,7 +90,7 @@
   <sub>[#173147](https://github.com/flutter/flutter/pull/173147) opened on on August 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173147) 5 additions and 2 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add error handling for `Element` lifecycle user callbacks<br />
-  <sub>[#173148](https://github.com/flutter/flutter/pull/173148) opened on on August 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173148) 95 additions and 17 deletions in 5 files</sub><br />
+  <sub>[#173148](https://github.com/flutter/flutter/pull/173148) opened on on August 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173148) 96 additions and 17 deletions in 5 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CheckboxListTile doesn't crash in 0x0 environment<br />
   <sub>[#173151](https://github.com/flutter/flutter/pull/173151) opened on on August 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173151) 18 additions and 0 deletions in 1 file</sub><br />
@@ -100,9 +100,6 @@
 
 * **[Jagadeesh S](https://github.com/jagadeesh8682)** &mdash; Step 1: Add markdown formatter tool selection and configuration<br />
   <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Assertion failure in RawScrollbarState with dynamic controller assignment<br />
-  <sub>[#173156](https://github.com/flutter/flutter/pull/173156) opened on on August 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173156) 84 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Make CupertinoSheetRouteTransitionMixin a public API<br />
   <sub>[#173159](https://github.com/flutter/flutter/pull/173159) opened on on August 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173159) 11 additions and 5 deletions in 1 file</sub><br />
@@ -118,4 +115,7 @@
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix `ReorderableList` items jumping when drag direction reverses mid-animation<br />
   <sub>[#173241](https://github.com/flutter/flutter/pull/173241) opened on on August 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173241) 59 additions and 1 deletion in 2 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Chip doesn't crash in 0x0 environment<br />
+  <sub>[#173245](https://github.com/flutter/flutter/pull/173245) opened on on August 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173245) 14 additions and 0 deletions in 1 file</sub><br />
 
