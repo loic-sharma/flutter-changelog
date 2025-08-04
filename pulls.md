@@ -68,9 +68,6 @@
 * **[RohitSaily](https://github.com/RohitSaily)** &mdash; Make `InheritedElement` Dependents Accessible for Protected Use<br />
   <sub>[#172994](https://github.com/flutter/flutter/pull/172994) opened on on July 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172994) 33 additions and 0 deletions in 2 files</sub><br />
 
-* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; feat: add `OptionsViewOpenDirection.auto` to `RawAutocomplete`<br />
-  <sub>[#172997](https://github.com/flutter/flutter/pull/172997) opened on on July 30, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172997) 206 additions and 9 deletions in 4 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 end drawer button<br />
   <sub>[#173026](https://github.com/flutter/flutter/pull/173026) opened on on July 31, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/173026) 317 additions and 299 deletions in 1 file</sub><br />
 

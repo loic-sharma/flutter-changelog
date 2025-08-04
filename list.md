@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-6 commits.
+8 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub>
@@ -21,6 +21,14 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add Intl.Locale to parse browser languages.
   <sub>[#172964](https://github.com/flutter/flutter/pull/172964) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172964) over 5 days, 157 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Improvements to the Vulkan pipeline cache data writer
+  <sub>[#173014](https://github.com/flutter/flutter/pull/173014) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173014) over 4 days, 57 additions and 10 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown
+  <sub>[#173085](https://github.com/flutter/flutter/pull/173085) merged on August 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173085) over 3 days, 15 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LicensePage doesn't crash in 0x0 environment
   <sub>[#172610](https://github.com/flutter/flutter/pull/172610) merged on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172610) over 1 week, 14 additions and 0 deletions in 1 file</sub>
