@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-4 commits.
+5 commits.
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches (third attempt) 
   <sub>[#173169](https://github.com/flutter/flutter/pull/173169) merged on August 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173169) over 1 day, 333 additions and 19 deletions in 5 files</sub>
@@ -21,6 +21,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LicensePage doesn't crash in 0x0 environment
   <sub>[#172610](https://github.com/flutter/flutter/pull/172610) merged on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172610) over 1 week, 14 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: reland switch 4
+  <sub>[#173139](https://github.com/flutter/flutter/pull/173139) merged on August 4, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/173139) over 2 days, 33155 additions and 65448 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 ### July 26, 2025 to August 1, 2025
 
