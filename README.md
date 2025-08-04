@@ -4,7 +4,11 @@
 
 ### August 2, 2025 to August 8, 2025
 
-5 commits.
+6 commits.
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws<br />
+  <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michał Sawicz](https://github.com/Saviq), [Robert Ancell](https://github.com/robert-ancell), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches (third attempt) <br />
   <sub>[#173169](https://github.com/flutter/flutter/pull/173169) merged on August 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173169) over 1 day, 333 additions and 19 deletions in 5 files</sub><br />
@@ -691,9 +695,18 @@
 
 ## flutter/packages
 
+### August 2, 2025 to August 8, 2025
+
+1 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads]: Adds additional methods to configure ad requests<br />
+  <sub>[#9696](https://github.com/flutter/packages/pull/9696) merged on August 4, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/9696) over 6 days, 630 additions and 40 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
 ### July 26, 2025 to August 1, 2025
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fixed Camera Switching Bug<br />
   <sub>[#9671](https://github.com/flutter/packages/pull/9671) merged on July 30, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/packages/pull/9671) over 5 days, 446 additions and 9 deletions in 12 files</sub><br />
@@ -754,6 +767,8 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Delete unused file<br />
   <sub>[#9634](https://github.com/flutter/packages/pull/9634) merged on July 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/9634) over 1 week, 0 additions and 117 deletions in 1 file</sub><br />
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub><br />
+
+</details>
 
 ### July 19, 2025 to July 25, 2025
 

@@ -74,9 +74,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 end drawer button<br />
   <sub>[#173026](https://github.com/flutter/flutter/pull/173026) opened on on July 31, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/173026) 317 additions and 299 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] ClickDebouncer workaround for iOS Safari click behavior<br />
-  <sub>[#173072](https://github.com/flutter/flutter/pull/173072) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173072) 92 additions and 28 deletions in 2 files</sub><br />
-
 * **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Null aware elements clean-ups<br />
   <sub>[#173074](https://github.com/flutter/flutter/pull/173074) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173074) 84 additions and 100 deletions in 35 files</sub><br />
 
@@ -99,7 +96,7 @@
   <sub>[#173147](https://github.com/flutter/flutter/pull/173147) opened on on August 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173147) 5 additions and 2 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add error handling for `Element` lifecycle user callbacks<br />
-  <sub>[#173148](https://github.com/flutter/flutter/pull/173148) opened on on August 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173148) 91 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#173148](https://github.com/flutter/flutter/pull/173148) opened on on August 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173148) 95 additions and 17 deletions in 5 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CheckboxListTile doesn't crash in 0x0 environment<br />
   <sub>[#173151](https://github.com/flutter/flutter/pull/173151) opened on on August 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173151) 18 additions and 0 deletions in 1 file</sub><br />
