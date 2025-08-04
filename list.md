@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 2, 2025 to August 8, 2025
+
+1 commits.
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches (third attempt) 
+  <sub>[#173169](https://github.com/flutter/flutter/pull/173169) merged on August 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173169) over 1 day, 333 additions and 19 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 ### July 26, 2025 to August 1, 2025
 
-68 commits.
+<details>
+<summary>68 commits...</summary>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix Android/GLES crashers.
   <sub>[#172588](https://github.com/flutter/flutter/pull/172588) merged on July 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172588) over 5 days, 190 additions and 85 deletions in 30 files</sub>
@@ -278,6 +287,8 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Revert "Remove 2023 deprecated `'platforms'` key from daemon output (#172593)"
   <sub>[#172883](https://github.com/flutter/flutter/pull/172883) merged on July 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172883) over 3 hours, 7 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup)</sub>
+
+</details>
 
 ### July 19, 2025 to July 25, 2025
 
