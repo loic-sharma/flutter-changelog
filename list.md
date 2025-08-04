@@ -787,9 +787,18 @@
 
 ## flutter/website
 
+### August 2, 2025 to August 8, 2025
+
+1 commits.
+
+* **[Abitofevrything](https://github.com/abitofevrything)** &mdash; Correct text in setting up VM acceleration
+  <sub>[#12262](https://github.com/flutter/website/pull/12262) merged on August 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12262) over 17 hours, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### July 26, 2025 to August 1, 2025
 
-6 commits.
+<details>
+<summary>6 commits...</summary>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add doc on decoupling design
   <sub>[#12253](https://github.com/flutter/website/pull/12253) merged on July 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12253) over 9 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -814,6 +823,8 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New design doc: iOS-Style Blur Support
   <sub>[#12256](https://github.com/flutter/website/pull/12256) merged on August 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12256) over 8 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### July 19, 2025 to July 25, 2025
 
