@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-8 commits.
+9 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws<br />
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improve robustness of comment detection when using flutter analyze --suggestions<br />
   <sub>[#172977](https://github.com/flutter/flutter/pull/172977) merged on August 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172977) over 5 days, 109 additions and 19 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Lasse R.H. Nielsen](https://github.com/lrhn), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Upload the Android standalone embedder API dylibs.<br />
+  <sub>[#173131](https://github.com/flutter/flutter/pull/173131) merged on August 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173131) over 2 days, 16 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add Intl.Locale to parse browser languages.<br />
   <sub>[#172964](https://github.com/flutter/flutter/pull/172964) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172964) over 5 days, 157 additions and 7 deletions in 4 files</sub><br />
@@ -705,10 +709,14 @@
 
 ### August 2, 2025 to August 8, 2025
 
-1 commits.
+2 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads]: Adds additional methods to configure ad requests<br />
   <sub>[#9696](https://github.com/flutter/packages/pull/9696) merged on August 4, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/9696) over 6 days, 630 additions and 40 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes setting adsresponse on Android<br />
+  <sub>[#9744](https://github.com/flutter/packages/pull/9744) merged on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9744) over 31 minutes, 74 additions and 4 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 ### July 26, 2025 to August 1, 2025
