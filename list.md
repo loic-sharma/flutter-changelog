@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-10 commits.
+11 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub>
@@ -25,6 +25,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Add Intl.Locale to parse browser languages.
   <sub>[#172964](https://github.com/flutter/flutter/pull/172964) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172964) over 5 days, 157 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In "flutter create", use the project directory in the suggested "cd" command instead of the main source file path
+  <sub>[#173132](https://github.com/flutter/flutter/pull/173132) merged on August 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173132) over 2 days, 3 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Improvements to the Vulkan pipeline cache data writer
   <sub>[#173014](https://github.com/flutter/flutter/pull/173014) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173014) over 4 days, 57 additions and 10 deletions in 5 files</sub>
