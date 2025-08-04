@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-11 commits.
+12 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub>
@@ -13,6 +13,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches (third attempt) 
   <sub>[#173169](https://github.com/flutter/flutter/pull/173169) merged on August 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173169) over 1 day, 333 additions and 19 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Migrate surface frame shell code to DisplayList/Impeller geometry classes
+  <sub>[#173086](https://github.com/flutter/flutter/pull/173086) merged on August 4, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/173086) over 3 days, 881 additions and 830 deletions in 159 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improve robustness of comment detection when using flutter analyze --suggestions
   <sub>[#172977](https://github.com/flutter/flutter/pull/172977) merged on August 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172977) over 5 days, 109 additions and 19 deletions in 2 files</sub>
