@@ -87,7 +87,7 @@
   <sub>[#173129](https://github.com/flutter/flutter/pull/173129) opened on on August 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173129) 10 additions and 10 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In "flutter create", use the project directory in the suggested "cd" command instead of the main source file path<br />
-  <sub>[#173132](https://github.com/flutter/flutter/pull/173132) opened on on August 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173132) 3 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#173132](https://github.com/flutter/flutter/pull/173132) opened on on August 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173132) 3 additions and 2 deletions in 2 files</sub><br />
 
 * **[Danilo Zhang](https://github.com/danilozhang)** &mdash; Command flutter build aar should use version from pubspec.yaml (#98108)<br />
   <sub>[#173147](https://github.com/flutter/flutter/pull/173147) opened on on August 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173147) 5 additions and 2 deletions in 3 files</sub><br />

@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-9 commits.
+10 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws<br />
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown<br />
   <sub>[#173085](https://github.com/flutter/flutter/pull/173085) merged on August 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173085) over 3 days, 15 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Using a shared message-only HWND for clip board data on win32 instead of the implicit view<br />
+  <sub>[#173076](https://github.com/flutter/flutter/pull/173076) merged on August 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173076) over 3 days, 78 additions and 100 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LicensePage doesn't crash in 0x0 environment<br />
   <sub>[#172610](https://github.com/flutter/flutter/pull/172610) merged on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172610) over 1 week, 14 additions and 0 deletions in 1 file</sub><br />
