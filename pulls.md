@@ -57,7 +57,7 @@
   <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 26 additions and 1 deletion in 3 files</sub><br />
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
-  <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172829) 64 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172829) 64 additions and 6 deletions in 3 files</sub><br />
 
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker hour label<br />
   <sub>[#172850](https://github.com/flutter/flutter/pull/172850) opened on on July 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172850) 176 additions and 16 deletions in 2 files</sub><br />
