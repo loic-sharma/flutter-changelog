@@ -117,7 +117,7 @@
   <sub>[#173245](https://github.com/flutter/flutter/pull/173245) opened on on August 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173245) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress deprecated iOS windows API in integration_test<br />
-  <sub>[#173251](https://github.com/flutter/flutter/pull/173251) opened on on August 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173251) 5 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#173251](https://github.com/flutter/flutter/pull/173251) opened on on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173251) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Drawer barrier non dismissible with the escape key<br />
   <sub>[#173263](https://github.com/flutter/flutter/pull/173263) opened on on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173263) 217 additions and 3 deletions in 3 files</sub><br />
@@ -127,4 +127,7 @@
 
 * **[thejquest](https://github.com/thejquest)** &mdash; Add option to customise DataTable sorting icon (#91801)<br />
   <sub>[#173267](https://github.com/flutter/flutter/pull/173267) opened on on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173267) 180 additions and 2 deletions in 2 files</sub><br />
+
+* **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
+  <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
