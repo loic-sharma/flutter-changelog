@@ -128,3 +128,6 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [VPAT][A11y] AutoComplete dropdown option is missing button role<br />
   <sub>[#173297](https://github.com/flutter/flutter/pull/173297) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173297) 48 additions and 13 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Suppress deprecated iOS windows API in integration_test<br />
+  <sub>[#173304](https://github.com/flutter/flutter/pull/173304) opened on on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173304) 5 additions and 0 deletions in 1 file</sub><br />
+
