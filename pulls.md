@@ -111,7 +111,7 @@
   <sub>[#173245](https://github.com/flutter/flutter/pull/173245) opened on on August 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173245) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Drawer barrier non dismissible with the escape key<br />
-  <sub>[#173263](https://github.com/flutter/flutter/pull/173263) opened on on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173263) 70 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#173263](https://github.com/flutter/flutter/pull/173263) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173263) 72 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RawChip doesn't crash in 0x0 environment<br />
   <sub>[#173265](https://github.com/flutter/flutter/pull/173265) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173265) 14 additions and 0 deletions in 1 file</sub><br />
@@ -125,9 +125,9 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix drawerScrimColor transition.<br />
   <sub>[#173280](https://github.com/flutter/flutter/pull/173280) opened on on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173280) 19 additions and 23 deletions in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark `Linux android_java17_tool_integration_tests` as bringup<br />
-  <sub>[#173284](https://github.com/flutter/flutter/pull/173284) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173284) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Cleanup for experimental release<br />
   <sub>[#173289](https://github.com/flutter/flutter/pull/173289) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173289) 13 additions and 18 deletions in 5 files</sub><br />
+
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [VPAT][A11y] AutoComplete dropdown option is missing button role<br />
+  <sub>[#173297](https://github.com/flutter/flutter/pull/173297) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173297) 48 additions and 13 deletions in 2 files</sub><br />
 

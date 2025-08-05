@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-16 commits.
+18 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws<br />
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub><br />
@@ -13,6 +13,11 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate to list and builder Sliver convenience constructors<br />
   <sub>[#173011](https://github.com/flutter/flutter/pull/173011) merged on August 4, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/173011) over 4 days, 512 additions and 620 deletions in 67 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark `Linux android_java17_tool_integration_tests` as bringup<br />
+  <sub>[#173284](https://github.com/flutter/flutter/pull/173284) merged on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173284) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="1242" height="257" alt="Screenshot 2025-08-05 at 9 13 55 AM" src="https://github.com/user-attachments/assets/248de580-27ca-4704-9754-a109e961fb6f" /></details></sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches (third attempt) <br />
   <sub>[#173169](https://github.com/flutter/flutter/pull/173169) merged on August 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173169) over 1 day, 333 additions and 19 deletions in 5 files</sub><br />
@@ -41,6 +46,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AboutListTile doesn't crash in 0x0 environment<br />
   <sub>[#172421](https://github.com/flutter/flutter/pull/172421) merged on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172421) over 2 weeks, 14 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [dync_modules] enable iOS ddm build in the merge queue<br />
+  <sub>[#173094](https://github.com/flutter/flutter/pull/173094) merged on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173094) over 4 days, 1 addition and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [sigmundch](https://github.com/sigmundch)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress deprecated iOS windows API in integration_test<br />
   <sub>[#173251](https://github.com/flutter/flutter/pull/173251) merged on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173251) over 18 hours, 5 additions and 0 deletions in 1 file</sub><br />
