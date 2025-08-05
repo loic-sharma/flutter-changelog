@@ -132,5 +132,5 @@
   <sub>[#173284](https://github.com/flutter/flutter/pull/173284) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173284) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Cleanup for experimental release<br />
-  <sub>[#173289](https://github.com/flutter/flutter/pull/173289) opened on on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173289) 13 additions and 18 deletions in 5 files</sub><br />
+  <sub>[#173289](https://github.com/flutter/flutter/pull/173289) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173289) 13 additions and 18 deletions in 5 files</sub><br />
 
