@@ -129,5 +129,5 @@
   <sub>[#173304](https://github.com/flutter/flutter/pull/173304) opened on on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173304) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Set semantics container to true for suffix icon and prefix icon <br />
-  <sub>[#173305](https://github.com/flutter/flutter/pull/173305) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173305) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#173305](https://github.com/flutter/flutter/pull/173305) opened on on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173305) 2 additions and 2 deletions in 1 file</sub><br />
 

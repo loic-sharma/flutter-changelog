@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-20 commits.
+21 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws<br />
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improve robustness of comment detection when using flutter analyze --suggestions<br />
   <sub>[#172977](https://github.com/flutter/flutter/pull/172977) merged on August 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172977) over 5 days, 109 additions and 19 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Lasse R.H. Nielsen](https://github.com/lrhn), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: content_aware_hash tag for fuchsia merge / upload<br />
+  <sub>[#173253](https://github.com/flutter/flutter/pull/173253) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173253) over 21 hours, 32 additions and 12 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Upload the Android standalone embedder API dylibs.<br />
   <sub>[#173131](https://github.com/flutter/flutter/pull/173131) merged on August 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173131) over 2 days, 16 additions and 2 deletions in 3 files</sub><br />
