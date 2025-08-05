@@ -125,3 +125,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RawChip doesn't crash in 0x0 environment<br />
   <sub>[#173265](https://github.com/flutter/flutter/pull/173265) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173265) 14 additions and 0 deletions in 1 file</sub><br />
 
+* **[thejquest](https://github.com/thejquest)** &mdash; Add option to customise DataTable sorting icon (#91801)<br />
+  <sub>[#173267](https://github.com/flutter/flutter/pull/173267) opened on on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173267) 180 additions and 2 deletions in 2 files</sub><br />
+
