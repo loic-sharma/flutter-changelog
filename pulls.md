@@ -44,9 +44,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
   <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
 
-* **[ash2moon](https://github.com/ash2moon)** &mdash; add bundletool to FGP<br />
-  <sub>[#172674](https://github.com/flutter/flutter/pull/172674) opened on on July 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172674) 61 additions and 0 deletions in 2 files</sub><br />
-
 * **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
   <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172704) 156 additions and 2 deletions in 2 files</sub><br />
 
