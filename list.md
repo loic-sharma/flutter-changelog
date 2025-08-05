@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-22 commits.
+23 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub>
@@ -54,6 +54,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AboutListTile doesn't crash in 0x0 environment
   <sub>[#172421](https://github.com/flutter/flutter/pull/172421) merged on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172421) over 2 weeks, 14 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: moved is_minimal_linux to pkgconfig usage
+  <sub>[#173248](https://github.com/flutter/flutter/pull/173248) merged on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173248) over 1 day, 38 additions and 30 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [dync_modules] enable iOS ddm build in the merge queue
   <sub>[#173094](https://github.com/flutter/flutter/pull/173094) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173094) over 4 days, 1 addition and 2 deletions in 1 file</sub>
