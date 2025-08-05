@@ -131,3 +131,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix drawerScrimColor transition.<br />
   <sub>[#173280](https://github.com/flutter/flutter/pull/173280) opened on on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173280) 19 additions and 23 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark `Linux android_java17_tool_integration_tests` as bringup<br />
+  <sub>[#173284](https://github.com/flutter/flutter/pull/173284) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173284) 0 additions and 1 deletion in 1 file</sub><br />
+
