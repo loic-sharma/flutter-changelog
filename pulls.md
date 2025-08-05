@@ -119,3 +119,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress deprecated iOS windows API in integration_test<br />
   <sub>[#173251](https://github.com/flutter/flutter/pull/173251) opened on on August 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173251) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Drawer barrier non dismissible with the escape key<br />
+  <sub>[#173263](https://github.com/flutter/flutter/pull/173263) opened on on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173263) 217 additions and 3 deletions in 3 files</sub><br />
+
