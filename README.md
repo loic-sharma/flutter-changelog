@@ -872,7 +872,11 @@
 
 ### August 2, 2025 to August 8, 2025
 
-2 commits.
+3 commits.
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; New design doc: Basic color set in the core framework<br />
+  <sub>[#12270](https://github.com/flutter/website/pull/12270) merged on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12270) over 11 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; feat: update widget of the week videos<br />
   <sub>[#12259](https://github.com/flutter/website/pull/12259) merged on August 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12259) over 2 days, 6 additions and 6 deletions in 1 file</sub><br />
