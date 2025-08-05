@@ -111,7 +111,7 @@
   <sub>[#173245](https://github.com/flutter/flutter/pull/173245) opened on on August 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173245) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Drawer barrier non dismissible with the escape key<br />
-  <sub>[#173263](https://github.com/flutter/flutter/pull/173263) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173263) 72 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#173263](https://github.com/flutter/flutter/pull/173263) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173263) 67 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RawChip doesn't crash in 0x0 environment<br />
   <sub>[#173265](https://github.com/flutter/flutter/pull/173265) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173265) 14 additions and 0 deletions in 1 file</sub><br />
