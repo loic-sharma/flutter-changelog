@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-18 commits.
+19 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub>
@@ -66,6 +66,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown
   <sub>[#173085](https://github.com/flutter/flutter/pull/173085) merged on August 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173085) over 3 days, 15 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Cleanup for experimental release
+  <sub>[#173289](https://github.com/flutter/flutter/pull/173289) merged on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173289) over 1 hour, 13 additions and 18 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Using a shared message-only HWND for clip board data on win32 instead of the implicit view
   <sub>[#173076](https://github.com/flutter/flutter/pull/173076) merged on August 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173076) over 3 days, 78 additions and 100 deletions in 3 files</sub>
