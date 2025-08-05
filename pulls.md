@@ -62,9 +62,6 @@
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Flutter driver deserialization<br />
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172927) 524 additions and 93 deletions in 19 files</sub><br />
 
-* **[RohitSaily](https://github.com/RohitSaily)** &mdash; Make `InheritedElement` Dependents Accessible for Protected Use<br />
-  <sub>[#172994](https://github.com/flutter/flutter/pull/172994) opened on on July 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172994) 33 additions and 0 deletions in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 end drawer button<br />
   <sub>[#173026](https://github.com/flutter/flutter/pull/173026) opened on on July 31, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/173026) 317 additions and 299 deletions in 1 file</sub><br />
 
@@ -124,6 +121,9 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix drawerScrimColor transition.<br />
   <sub>[#173280](https://github.com/flutter/flutter/pull/173280) opened on on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173280) 19 additions and 23 deletions in 2 files</sub><br />
+
+* **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; Remove properties from `.ci.yaml` no longer used by (docs) recipes<br />
+  <sub>[#173296](https://github.com/flutter/flutter/pull/173296) opened on on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173296) 0 additions and 14 deletions in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [VPAT][A11y] AutoComplete dropdown option is missing button role<br />
   <sub>[#173297](https://github.com/flutter/flutter/pull/173297) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173297) 48 additions and 13 deletions in 2 files</sub><br />
