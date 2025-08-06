@@ -23,6 +23,9 @@
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/170980) 29 additions and 24 deletions in 2 files</sub><br />
 
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot.<br />
+  <sub>[#171626](https://github.com/flutter/flutter/pull/171626) opened on on July 4, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171626) 85 additions and 310 deletions in 4 files</sub><br />
+
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web<br />
   <sub>[#171638](https://github.com/flutter/flutter/pull/171638) opened on on July 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/171638) 174 additions and 0 deletions in 8 files</sub><br />
 
