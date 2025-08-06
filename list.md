@@ -771,7 +771,11 @@
 
 ### August 2, 2025 to August 8, 2025
 
-9 commits.
+10 commits.
+
+* **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Add ability to perform Google Maps SDK warmup
+  <sub>[#9674](https://github.com/flutter/packages/pull/9674) merged on August 6, 2025 &mdash; **Medium:** [43 comments](https://github.com/flutter/packages/pull/9674) over 1 week, 383 additions and 88 deletions in 11 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Oleksandr Havrylko](https://github.com/agavrilko)** &mdash; [webview_flutter_wkwebview] Extended Web View API on iOS to add flexibility when working with local HTML content
   <sub>[#8787](https://github.com/flutter/packages/pull/8787) merged on August 6, 2025 &mdash; **Medium:** [70 comments](https://github.com/flutter/packages/pull/8787) over 5 months, 354 additions and 55 deletions in 10 files</sub>

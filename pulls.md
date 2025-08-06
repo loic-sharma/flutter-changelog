@@ -101,3 +101,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash from possible DDS startup race<br />
   <sub>[#173362](https://github.com/flutter/flutter/pull/173362) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173362) 97 additions and 69 deletions in 14 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up Android API to set section locale<br />
+  <sub>[#173364](https://github.com/flutter/flutter/pull/173364) opened on on August 6, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173364) 320 additions and 195 deletions in 8 files</sub><br />
+
