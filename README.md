@@ -771,7 +771,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-10 commits.
+11 commits.
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Add ability to perform Google Maps SDK warmup<br />
   <sub>[#9674](https://github.com/flutter/packages/pull/9674) merged on August 6, 2025 &mdash; **Medium:** [43 comments](https://github.com/flutter/packages/pull/9674) over 1 week, 383 additions and 88 deletions in 11 files</sub><br />
@@ -781,6 +781,10 @@
   <sub>[#8787](https://github.com/flutter/packages/pull/8787) merged on August 6, 2025 &mdash; **Medium:** [70 comments](https://github.com/flutter/packages/pull/8787) over 5 months, 354 additions and 55 deletions in 10 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
   <sub><details><summary>1 image...</summary>![Screenshot at Mar 04 14-49-46](https://github.com/user-attachments/assets/be9ce41f-4a8c-4e91-b73c-041e22f59d29)</details></sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Re-land "Force new Surface for each SurfaceRequest"<br />
+  <sub>[#9760](https://github.com/flutter/packages/pull/9760) merged on August 6, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/9760) over 6 hours, 2542 additions and 2392 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [local_auth] Differentiate iOS authentication errors<br />
   <sub>[#9705](https://github.com/flutter/packages/pull/9705) merged on August 6, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/9705) over 6 days, 214 additions and 4 deletions in 9 files</sub><br />
