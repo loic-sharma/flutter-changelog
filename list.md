@@ -771,7 +771,11 @@
 
 ### August 2, 2025 to August 8, 2025
 
-7 commits.
+8 commits.
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [local_auth] Differentiate iOS authentication errors
+  <sub>[#9705](https://github.com/flutter/packages/pull/9705) merged on August 6, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/9705) over 6 days, 214 additions and 4 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_maps_flutter_ios] Fix kCGImageAlphaPremultipliedLast implicit conversion from enumeration type
   <sub>[#9720](https://github.com/flutter/packages/pull/9720) merged on August 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9720) over 3 days, 10 additions and 4 deletions in 4 files</sub>

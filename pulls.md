@@ -131,3 +131,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Slider value indicator shape is broken if label is multiple-line text in Material 3<br />
   <sub>[#173324](https://github.com/flutter/flutter/pull/173324) opened on on August 6, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/173324) 1200 additions and 47 deletions in 5 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix the over-scrolling issue of the last item in SliverMainAxisGroup with PinnedHeaderSliver<br />
+  <sub>[#173349](https://github.com/flutter/flutter/pull/173349) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173349) 54 additions and 1 deletion in 2 files</sub><br />
+
