@@ -122,3 +122,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Suppress deprecated iOS windows API in integration_test<br />
   <sub>[#173304](https://github.com/flutter/flutter/pull/173304) opened on on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173304) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ChoiceChip doesn't crash in 0x0 environment<br />
+  <sub>[#173322](https://github.com/flutter/flutter/pull/173322) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173322) 14 additions and 0 deletions in 1 file</sub><br />
+
