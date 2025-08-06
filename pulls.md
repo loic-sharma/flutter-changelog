@@ -134,3 +134,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue of over-scrolling in SliverMainAxisGroup with a PinnedHeaderSliver.<br />
   <sub>[#173349](https://github.com/flutter/flutter/pull/173349) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173349) 54 additions and 1 deletion in 2 files</sub><br />
 
+* **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Improve Stack widget error message for bounded constraints<br />
+  <sub>[#173352](https://github.com/flutter/flutter/pull/173352) opened on on August 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173352) 8 additions and 2 deletions in 1 file</sub><br />
+
