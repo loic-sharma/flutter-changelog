@@ -42,7 +42,7 @@
   <sub>[#172041](https://github.com/flutter/flutter/pull/172041) opened on on July 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172041) 16 additions and 1 deletion in 1 file</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
-  <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
+  <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
 
 * **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
   <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172704) 156 additions and 2 deletions in 2 files</sub><br />
@@ -102,5 +102,5 @@
   <sub>[#173364](https://github.com/flutter/flutter/pull/173364) opened on on August 6, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173364) 416 additions and 195 deletions in 10 files</sub><br />
 
 * **[lauraywu](https://github.com/lauraywu)** &mdash; Add onHover callback support for TableRowInkWell<br />
-  <sub>[#173373](https://github.com/flutter/flutter/pull/173373) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173373) 26 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#173373](https://github.com/flutter/flutter/pull/173373) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173373) 27 additions and 2 deletions in 2 files</sub><br />
 
