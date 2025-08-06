@@ -771,7 +771,12 @@
 
 ### August 2, 2025 to August 8, 2025
 
-8 commits.
+9 commits.
+
+* **[Oleksandr Havrylko](https://github.com/agavrilko)** &mdash; [webview_flutter_wkwebview] Extended Web View API on iOS to add flexibility when working with local HTML content
+  <sub>[#8787](https://github.com/flutter/packages/pull/8787) merged on August 6, 2025 &mdash; **Medium:** [70 comments](https://github.com/flutter/packages/pull/8787) over 5 months, 354 additions and 55 deletions in 10 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+  <sub><details><summary>1 image...</summary>![Screenshot at Mar 04 14-49-46](https://github.com/user-attachments/assets/be9ce41f-4a8c-4e91-b73c-041e22f59d29)</details></sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [local_auth] Differentiate iOS authentication errors
   <sub>[#9705](https://github.com/flutter/packages/pull/9705) merged on August 6, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/9705) over 6 days, 214 additions and 4 deletions in 9 files</sub>
