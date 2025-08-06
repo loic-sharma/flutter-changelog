@@ -102,5 +102,5 @@
   <sub>[#173364](https://github.com/flutter/flutter/pull/173364) opened on on August 6, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173364) 416 additions and 195 deletions in 10 files</sub><br />
 
 * **[lauraywu](https://github.com/lauraywu)** &mdash; Add onHover callback support for TableRowInkWell<br />
-  <sub>[#173373](https://github.com/flutter/flutter/pull/173373) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173373) 13 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#173373](https://github.com/flutter/flutter/pull/173373) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173373) 26 additions and 1 deletion in 2 files</sub><br />
 
