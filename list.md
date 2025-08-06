@@ -811,7 +811,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; manual roll to 59fc766c6fdfd03d0983fc95ce8b76793a300dd5
-  <sub>[#9758](https://github.com/flutter/packages/pull/9758) merged on August 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9758) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>[#9758](https://github.com/flutter/packages/pull/9758) merged on August 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9758) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes setting adsresponse on Android
