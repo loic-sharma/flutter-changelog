@@ -128,6 +128,3 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Slider value indicator shape is broken if label is multiple-line text in Material 3<br />
   <sub>[#173324](https://github.com/flutter/flutter/pull/173324) opened on on August 6, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/173324) 1200 additions and 47 deletions in 5 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label padding<br />
-  <sub>[#173344](https://github.com/flutter/flutter/pull/173344) opened on on August 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173344) 71 additions and 7 deletions in 3 files</sub><br />
-
