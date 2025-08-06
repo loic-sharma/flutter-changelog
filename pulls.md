@@ -21,7 +21,7 @@
   <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/170980) 54 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot.<br />
   <sub>[#171626](https://github.com/flutter/flutter/pull/171626) opened on on July 4, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171626) 85 additions and 310 deletions in 4 files</sub><br />
@@ -71,17 +71,8 @@
 * **[Jagadeesh S](https://github.com/jagadeesh8682)** &mdash; Step 1: Add markdown formatter tool selection and configuration<br />
   <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
 
-* **[August](https://github.com/Gustl22)** &mdash; [time_picker] refactor: Distinguish widgets for dial mode only<br />
-  <sub>[#173188](https://github.com/flutter/flutter/pull/173188) opened on on August 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173188) 64 additions and 72 deletions in 3 files</sub><br />
-
-* **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; feat: add onLongPressUp callback to InkWell widget<br />
-  <sub>[#173221](https://github.com/flutter/flutter/pull/173221) opened on on August 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173221) 61 additions and 1 deletion in 2 files</sub><br />
-
 * **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Drawer barrier non dismissible with the escape key<br />
   <sub>[#173263](https://github.com/flutter/flutter/pull/173263) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173263) 67 additions and 5 deletions in 2 files</sub><br />
-
-* **[thejquest](https://github.com/thejquest)** &mdash; Add option to customise DataTable sorting icon (#91801)<br />
-  <sub>[#173267](https://github.com/flutter/flutter/pull/173267) opened on on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173267) 180 additions and 2 deletions in 2 files</sub><br />
 
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
