@@ -771,7 +771,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-6 commits.
+7 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_maps_flutter_ios] Fix kCGImageAlphaPremultipliedLast implicit conversion from enumeration type
   <sub>[#9720](https://github.com/flutter/packages/pull/9720) merged on August 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9720) over 3 days, 10 additions and 4 deletions in 4 files</sub>
@@ -792,6 +792,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update CODEOWNERS
   <sub>[#9721](https://github.com/flutter/packages/pull/9721) merged on August 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9721) over 3 days, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; manual roll to 59fc766c6fdfd03d0983fc95ce8b76793a300dd5
+  <sub>[#9758](https://github.com/flutter/packages/pull/9758) merged on August 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9758) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes setting adsresponse on Android
   <sub>[#9744](https://github.com/flutter/packages/pull/9744) merged on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9744) over 31 minutes, 74 additions and 4 deletions in 6 files</sub>
