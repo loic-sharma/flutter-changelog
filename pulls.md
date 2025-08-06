@@ -21,7 +21,7 @@
   <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot.<br />
   <sub>[#171626](https://github.com/flutter/flutter/pull/171626) opened on on July 4, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/171626) 85 additions and 310 deletions in 4 files</sub><br />
@@ -100,4 +100,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up Android API to set section locale<br />
   <sub>[#173364](https://github.com/flutter/flutter/pull/173364) opened on on August 6, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173364) 416 additions and 195 deletions in 10 files</sub><br />
+
+* **[lauraywu](https://github.com/lauraywu)** &mdash; Add onHover callback support for TableRowInkWell<br />
+  <sub>[#173373](https://github.com/flutter/flutter/pull/173373) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173373) 13 additions and 0 deletions in 2 files</sub><br />
 
