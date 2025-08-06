@@ -83,9 +83,6 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [VPAT][A11y] AutoComplete dropdown option is missing button role<br />
   <sub>[#173297](https://github.com/flutter/flutter/pull/173297) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173297) 48 additions and 13 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Suppress deprecated iOS windows API in integration_test<br />
-  <sub>[#173304](https://github.com/flutter/flutter/pull/173304) opened on on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173304) 5 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ChoiceChip doesn't crash in 0x0 environment<br />
   <sub>[#173322](https://github.com/flutter/flutter/pull/173322) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173322) 14 additions and 0 deletions in 1 file</sub><br />
 
@@ -96,7 +93,7 @@
   <sub>[#173349](https://github.com/flutter/flutter/pull/173349) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173349) 54 additions and 1 deletion in 2 files</sub><br />
 
 * **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Improve Stack widget error message for bounded constraints<br />
-  <sub>[#173352](https://github.com/flutter/flutter/pull/173352) opened on on August 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173352) 9 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#173352](https://github.com/flutter/flutter/pull/173352) opened on on August 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173352) 9 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash from possible DDS startup race<br />
   <sub>[#173362](https://github.com/flutter/flutter/pull/173362) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173362) 97 additions and 70 deletions in 14 files</sub><br />
