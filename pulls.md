@@ -105,5 +105,5 @@
   <sub>[#173373](https://github.com/flutter/flutter/pull/173373) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173373) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds deprecation for impeller opt out on android<br />
-  <sub>[#173375](https://github.com/flutter/flutter/pull/173375) opened on on August 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/173375) 13 additions and 7 deletions in 3 files</sub><br />
+  <sub>[#173375](https://github.com/flutter/flutter/pull/173375) opened on on August 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173375) 13 additions and 7 deletions in 3 files</sub><br />
 
