@@ -99,7 +99,7 @@
   <sub>[#173408](https://github.com/flutter/flutter/pull/173408) opened on on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173408) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[apascom49](https://github.com/apascom49)** &mdash; App<br />
-  <sub>[#173411](https://github.com/flutter/flutter/pull/173411) opened on on August 7, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/173411) 5540 additions and 296 deletions in 117 files</sub><br />
+  <sub>[#173411](https://github.com/flutter/flutter/pull/173411) opened on on August 7, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173411) 5540 additions and 296 deletions in 117 files</sub><br />
 
 * **[Julio Jimenez](https://github.com/JulioJ11)** &mdash; Fix #173302: Announce selected state for AM/PM buttons on iOS<br />
   <sub>[#173418](https://github.com/flutter/flutter/pull/173418) opened on on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173418) 46 additions and 1 deletion in 2 files</sub><br />

@@ -4,7 +4,12 @@
 
 ### August 2, 2025 to August 8, 2025
 
-31 commits.
+32 commits.
+
+* **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix `ReorderableList` proxy animation for partial drag-back<br />
+  <sub>[#172380](https://github.com/flutter/flutter/pull/172380) merged on August 7, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/172380) over 2 weeks, 79 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>6 images...</summary><img src="https://github.com/user-attachments/assets/d0931dff-5600-441c-8536-2c61789767d0" alt="demo2" width="250"><img src="https://github.com/user-attachments/assets/a53e8920-ebca-4326-abe9-3b43b34419e5" alt="fixed" width="250"><img src="https://github.com/user-attachments/assets/b0ddc745-6e9e-4f12-97da-454e2e76b06d" alt="Before" width="200"><img src="https://github.com/user-attachments/assets/03e181fa-f43b-4405-b0c0-16d3465ad990" alt="After" width="200"><img src="https://github.com/user-attachments/assets/9b4bb591-aa2f-4cf0-88b8-a3ec32b0f0ac" alt="Before" width="200"><img src="https://github.com/user-attachments/assets/31646e9c-78f4-4252-921f-53583193868f" alt="After" width="200"></details></sub>
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Provide monitor list, display size, refresh rate, and more for Windows<br />
   <sub>[#164460](https://github.com/flutter/flutter/pull/164460) merged on August 7, 2025 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/164460) over 5 months, 481 additions and 26 deletions in 15 files</sub><br />
@@ -799,7 +804,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-12 commits.
+13 commits.
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Add ability to perform Google Maps SDK warmup<br />
   <sub>[#9674](https://github.com/flutter/packages/pull/9674) merged on August 6, 2025 &mdash; **Medium:** [43 comments](https://github.com/flutter/packages/pull/9674) over 1 week, 383 additions and 88 deletions in 11 files</sub><br />
@@ -829,6 +834,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads]: Adds additional methods to configure ad requests<br />
   <sub>[#9696](https://github.com/flutter/packages/pull/9696) merged on August 4, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/9696) over 6 days, 630 additions and 40 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Improve KVO handling on iOS<br />
+  <sub>[#9718](https://github.com/flutter/packages/pull/9718) merged on August 7, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/9718) over 6 days, 109 additions and 74 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router] add initial json support #110781<br />
   <sub>[#9404](https://github.com/flutter/packages/pull/9404) merged on August 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9404) over 1 month, 67 additions and 2 deletions in 5 files</sub><br />
