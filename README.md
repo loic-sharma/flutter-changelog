@@ -102,7 +102,7 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] TextField prefix icon and suffix icon create a sibling node'<br />
-  <sub>[#173312](https://github.com/flutter/flutter/pull/173312) merged on August 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173312) over 1 day, 74 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#173312](https://github.com/flutter/flutter/pull/173312) merged on August 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173312) over 1 day, 74 additions and 16 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.1.beta<br />

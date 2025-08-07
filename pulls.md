@@ -56,9 +56,6 @@
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Flutter driver deserialization<br />
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172927) 524 additions and 93 deletions in 19 files</sub><br />
 
-* **[Jamil Saadeh](https://github.com/jamilsaadeh97)** &mdash; Null aware elements clean-ups<br />
-  <sub>[#173074](https://github.com/flutter/flutter/pull/173074) opened on on July 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173074) 84 additions and 100 deletions in 35 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Experiment with Xcode 26 beta 4<br />
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
 
@@ -109,7 +106,4 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#173429](https://github.com/flutter/flutter/pull/173429) opened on on August 7, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173429) 453 additions and 392 deletions in 122 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Prepare for iOS debugging with lldb and devicectl<br />
-  <sub>[#173439](https://github.com/flutter/flutter/pull/173439) opened on on August 7, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173439) 3104 additions and 135 deletions in 14 files</sub><br />
 
