@@ -54,7 +54,7 @@
   <sub>[#172893](https://github.com/flutter/flutter/pull/172893) opened on on July 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/172893) 46 additions and 88 deletions in 7 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [web] Listen to text spacing overrides through `TypographySettings`<br />
-  <sub>[#172915](https://github.com/flutter/flutter/pull/172915) opened on on July 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/172915) 490 additions and 56 deletions in 14 files</sub><br />
+  <sub>[#172915](https://github.com/flutter/flutter/pull/172915) opened on on July 29, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/172915) 490 additions and 56 deletions in 14 files</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Flutter driver deserialization<br />
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172927) 524 additions and 93 deletions in 19 files</sub><br />
