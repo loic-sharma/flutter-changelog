@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-28 commits.
+29 commits.
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Provide monitor list, display size, refresh rate, and more for Windows<br />
   <sub>[#164460](https://github.com/flutter/flutter/pull/164460) merged on August 7, 2025 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/164460) over 5 months, 481 additions and 26 deletions in 15 files</sub><br />
@@ -26,6 +26,10 @@
   <sub>[#172254](https://github.com/flutter/flutter/pull/172254) merged on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172254) over 2 weeks, 119 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
   <sub><details><summary>2 images...</summary><img width="664" height="509" alt="image" src="https://github.com/user-attachments/assets/eb526338-84d9-4eca-975b-d44bee0c11ac" /><img width="611" height="471" alt="image" src="https://github.com/user-attachments/assets/08ca2499-d5f7-47e1-9ecf-29f60c968016" /></details></sub>
+
+* **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web<br />
+  <sub>[#171638](https://github.com/flutter/flutter/pull/171638) merged on August 7, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/171638) over 1 month, 174 additions and 0 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark `Linux android_java17_tool_integration_tests` as bringup<br />
   <sub>[#173284](https://github.com/flutter/flutter/pull/173284) merged on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173284) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
