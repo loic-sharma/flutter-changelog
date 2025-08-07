@@ -113,3 +113,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Android templates] Remove jetifier usage<br />
   <sub>[#173431](https://github.com/flutter/flutter/pull/173431) opened on on August 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173431) 0 additions and 2 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios26]Do not report error for Info.plist key not found<br />
+  <sub>[#173438](https://github.com/flutter/flutter/pull/173438) opened on on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173438) 136 additions and 11 deletions in 3 files</sub><br />
+

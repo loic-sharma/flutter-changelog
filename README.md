@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-32 commits.
+33 commits.
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix `ReorderableList` proxy animation for partial drag-back<br />
   <sub>[#172380](https://github.com/flutter/flutter/pull/172380) merged on August 7, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/172380) over 2 weeks, 79 additions and 1 deletion in 2 files</sub><br />
@@ -72,6 +72,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Slider dragged mouse cursor visibility.<br />
   <sub>[#172759](https://github.com/flutter/flutter/pull/172759) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172759) over 1 week, 110 additions and 75 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prepare for iOS debugging with lldb and devicectl<br />
+  <sub>[#173417](https://github.com/flutter/flutter/pull/173417) merged on August 7, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/173417) over 4 hours, 3104 additions and 135 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [android][tool] Consolidate minimum versions for android projects. <br />
   <sub>[#171965](https://github.com/flutter/flutter/pull/171965) merged on August 7, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171965) over 3 weeks, 57 additions and 58 deletions in 7 files</sub><br />
