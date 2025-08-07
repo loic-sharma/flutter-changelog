@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-27 commits.
+28 commits.
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Provide monitor list, display size, refresh rate, and more for Windows
   <sub>[#164460](https://github.com/flutter/flutter/pull/164460) merged on August 7, 2025 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/164460) over 5 months, 481 additions and 26 deletions in 15 files</sub>
@@ -35,6 +35,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches (third attempt) 
   <sub>[#173169](https://github.com/flutter/flutter/pull/173169) merged on August 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173169) over 1 day, 333 additions and 19 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds deprecation for impeller opt out on android
+  <sub>[#173375](https://github.com/flutter/flutter/pull/173375) merged on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173375) over 18 hours, 15 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate surface frame shell code to DisplayList/Impeller geometry classes
   <sub>[#173086](https://github.com/flutter/flutter/pull/173086) merged on August 4, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/173086) over 3 days, 881 additions and 830 deletions in 159 files</sub>
