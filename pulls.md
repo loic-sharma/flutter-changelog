@@ -30,7 +30,7 @@
   <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/171646) 203 additions and 257 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true and added simple test case<br />
-  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/171648) 210 additions and 5 deletions in 5 files</sub><br />
+  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/171648) 209 additions and 4 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
@@ -105,7 +105,7 @@
   <sub>[#173418](https://github.com/flutter/flutter/pull/173418) opened on on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173418) 46 additions and 1 deletion in 2 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [WIP] [web] Unify Renderer frontend code<br />
-  <sub>[#173426](https://github.com/flutter/flutter/pull/173426) opened on on August 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/173426) 1492 additions and 4734 deletions in 104 files</sub><br />
+  <sub>[#173426](https://github.com/flutter/flutter/pull/173426) opened on on August 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/173426) 1490 additions and 4739 deletions in 104 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#173429](https://github.com/flutter/flutter/pull/173429) opened on on August 7, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/173429) 450 additions and 388 deletions in 120 files</sub><br />
