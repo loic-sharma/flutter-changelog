@@ -104,3 +104,6 @@
 * **[Florin Malita](https://github.com/fmalita)** &mdash; Remove a couple of asserts from display_list_unittest<br />
   <sub>[#173381](https://github.com/flutter/flutter/pull/173381) opened on on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173381) 0 additions and 2 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CalendarDatePicker doesn't crash in 0x0 environment<br />
+  <sub>[#173408](https://github.com/flutter/flutter/pull/173408) opened on on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173408) 17 additions and 0 deletions in 1 file</sub><br />
+
