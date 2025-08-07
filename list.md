@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-25 commits.
+26 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub>
@@ -51,6 +51,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Slider dragged mouse cursor visibility.
   <sub>[#172759](https://github.com/flutter/flutter/pull/172759) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172759) over 1 week, 110 additions and 75 deletions in 3 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [android][tool] Consolidate minimum versions for android projects. 
+  <sub>[#171965](https://github.com/flutter/flutter/pull/171965) merged on August 7, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/171965) over 3 weeks, 57 additions and 58 deletions in 7 files</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; Remove properties from `.ci.yaml` no longer used by (docs) recipes
   <sub>[#173296](https://github.com/flutter/flutter/pull/173296) merged on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173296) over 2 hours, 0 additions and 14 deletions in 1 file</sub>
