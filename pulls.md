@@ -107,3 +107,6 @@
 * **[Julio Jimenez](https://github.com/JulioJ11)** &mdash; Fix #173302: Announce selected state for AM/PM buttons on iOS<br />
   <sub>[#173418](https://github.com/flutter/flutter/pull/173418) opened on on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173418) 46 additions and 1 deletion in 2 files</sub><br />
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.0.dev<br />
+  <sub>[#173423](https://github.com/flutter/flutter/pull/173423) opened on on August 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173423) 1 addition and 1 deletion in 1 file</sub><br />
+
