@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-37 commits.
+38 commits.
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix `ReorderableList` proxy animation for partial drag-back
   <sub>[#172380](https://github.com/flutter/flutter/pull/172380) merged on August 7, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/172380) over 2 weeks, 79 additions and 1 deletion in 2 files</sub>
@@ -22,6 +22,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate to list and builder Sliver convenience constructors
   <sub>[#173011](https://github.com/flutter/flutter/pull/173011) merged on August 4, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/173011) over 4 days, 512 additions and 620 deletions in 67 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Web dev proxy
+  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) merged on August 7, 2025 &mdash; **Large:** [168 comments](https://github.com/flutter/flutter/pull/172175) over 3 weeks, 1174 additions and 266 deletions in 18 files</sub>
+  <sub>Reviewed by: [Sydney Bao](https://github.com/SydneyBao), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix drawerScrimColor transition.
   <sub>[#173280](https://github.com/flutter/flutter/pull/173280) merged on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173280) over 1 day, 24 additions and 44 deletions in 2 files</sub>
@@ -61,13 +65,13 @@
   <sub>[#172977](https://github.com/flutter/flutter/pull/172977) merged on August 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172977) over 5 days, 109 additions and 19 deletions in 2 files</sub>
   <sub>Reviewed by: [Lasse R.H. Nielsen](https://github.com/lrhn), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: content_aware_hash tag for fuchsia merge / upload
-  <sub>[#173253](https://github.com/flutter/flutter/pull/173253) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173253) over 21 hours, 32 additions and 12 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Upload the Android standalone embedder API dylibs.
   <sub>[#173131](https://github.com/flutter/flutter/pull/173131) merged on August 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173131) over 2 days, 16 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: content_aware_hash tag for fuchsia merge / upload
+  <sub>[#173253](https://github.com/flutter/flutter/pull/173253) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173253) over 21 hours, 32 additions and 12 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Slider dragged mouse cursor visibility.
   <sub>[#172759](https://github.com/flutter/flutter/pull/172759) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172759) over 1 week, 110 additions and 75 deletions in 3 files</sub>
@@ -101,13 +105,13 @@
   <sub>[#172421](https://github.com/flutter/flutter/pull/172421) merged on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172421) over 2 weeks, 14 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] TextField prefix icon and suffix icon create a sibling node'
-  <sub>[#173312](https://github.com/flutter/flutter/pull/173312) merged on August 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173312) over 1 day, 74 additions and 16 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown
+  <sub>[#173085](https://github.com/flutter/flutter/pull/173085) merged on August 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173085) over 3 days, 15 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.1.beta
-  <sub>[#173423](https://github.com/flutter/flutter/pull/173423) merged on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173423) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress deprecated iOS windows API in integration_test
+  <sub>[#173251](https://github.com/flutter/flutter/pull/173251) merged on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173251) over 18 hours, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In "flutter create", use the project directory in the suggested "cd" command instead of the main source file path
   <sub>[#173132](https://github.com/flutter/flutter/pull/173132) merged on August 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173132) over 2 days, 3 additions and 2 deletions in 2 files</sub>
@@ -117,9 +121,9 @@
   <sub>[#173014](https://github.com/flutter/flutter/pull/173014) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173014) over 4 days, 57 additions and 10 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown
-  <sub>[#173085](https://github.com/flutter/flutter/pull/173085) merged on August 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173085) over 3 days, 15 additions and 6 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] TextField prefix icon and suffix icon create a sibling node'
+  <sub>[#173312](https://github.com/flutter/flutter/pull/173312) merged on August 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173312) over 1 day, 74 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: moved is_minimal_linux to pkgconfig usage
   <sub>[#173248](https://github.com/flutter/flutter/pull/173248) merged on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173248) over 1 day, 38 additions and 30 deletions in 4 files</sub>
@@ -129,9 +133,9 @@
   <sub>[#173094](https://github.com/flutter/flutter/pull/173094) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173094) over 4 days, 1 addition and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [sigmundch](https://github.com/sigmundch)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress deprecated iOS windows API in integration_test
-  <sub>[#173251](https://github.com/flutter/flutter/pull/173251) merged on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173251) over 18 hours, 5 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.1.beta
+  <sub>[#173423](https://github.com/flutter/flutter/pull/173423) merged on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173423) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Using a shared message-only HWND for clip board data on win32 instead of the implicit view
   <sub>[#173076](https://github.com/flutter/flutter/pull/173076) merged on August 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173076) over 3 days, 78 additions and 100 deletions in 3 files</sub>
