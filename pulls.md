@@ -107,3 +107,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.1.beta<br />
   <sub>[#173423](https://github.com/flutter/flutter/pull/173423) opened on on August 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173423) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [WIP] [web] Unify Renderer frontend code<br />
+  <sub>[#173426](https://github.com/flutter/flutter/pull/173426) opened on on August 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/173426) 1492 additions and 4734 deletions in 104 files</sub><br />
+
