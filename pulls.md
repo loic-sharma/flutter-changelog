@@ -107,3 +107,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [WIP] [web] Unify Renderer frontend code<br />
   <sub>[#173426](https://github.com/flutter/flutter/pull/173426) opened on on August 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/173426) 1492 additions and 4734 deletions in 104 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
+  <sub>[#173429](https://github.com/flutter/flutter/pull/173429) opened on on August 7, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/173429) 450 additions and 388 deletions in 120 files</sub><br />
+
