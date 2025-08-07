@@ -80,9 +80,6 @@
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix drawerScrimColor transition.<br />
-  <sub>[#173280](https://github.com/flutter/flutter/pull/173280) opened on on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173280) 24 additions and 44 deletions in 2 files</sub><br />
-
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [VPAT][A11y] AutoComplete dropdown option is missing button role<br />
   <sub>[#173297](https://github.com/flutter/flutter/pull/173297) opened on on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173297) 48 additions and 13 deletions in 2 files</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-24 commits.
+25 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws<br />
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub><br />
@@ -18,6 +18,10 @@
   <sub>[#172254](https://github.com/flutter/flutter/pull/172254) merged on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172254) over 2 weeks, 119 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
   <sub><details><summary>2 images...</summary><img width="664" height="509" alt="image" src="https://github.com/user-attachments/assets/eb526338-84d9-4eca-975b-d44bee0c11ac" /><img width="611" height="471" alt="image" src="https://github.com/user-attachments/assets/08ca2499-d5f7-47e1-9ecf-29f60c968016" /></details></sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix drawerScrimColor transition.<br />
+  <sub>[#173280](https://github.com/flutter/flutter/pull/173280) merged on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173280) over 1 day, 24 additions and 44 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark `Linux android_java17_tool_integration_tests` as bringup<br />
   <sub>[#173284](https://github.com/flutter/flutter/pull/173284) merged on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173284) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
