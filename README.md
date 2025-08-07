@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-29 commits.
+30 commits.
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Provide monitor list, display size, refresh rate, and more for Windows<br />
   <sub>[#164460](https://github.com/flutter/flutter/pull/164460) merged on August 7, 2025 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/164460) over 5 months, 481 additions and 26 deletions in 15 files</sub><br />
@@ -83,6 +83,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AboutListTile doesn't crash in 0x0 environment<br />
   <sub>[#172421](https://github.com/flutter/flutter/pull/172421) merged on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172421) over 2 weeks, 14 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.1.beta<br />
+  <sub>[#173423](https://github.com/flutter/flutter/pull/173423) merged on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173423) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: moved is_minimal_linux to pkgconfig usage<br />
   <sub>[#173248](https://github.com/flutter/flutter/pull/173248) merged on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173248) over 1 day, 38 additions and 30 deletions in 4 files</sub><br />
