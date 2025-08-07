@@ -90,7 +90,7 @@
   <sub>[#173362](https://github.com/flutter/flutter/pull/173362) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173362) 97 additions and 70 deletions in 14 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up Android API to set section locale<br />
-  <sub>[#173364](https://github.com/flutter/flutter/pull/173364) opened on on August 6, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/173364) 416 additions and 195 deletions in 10 files</sub><br />
+  <sub>[#173364](https://github.com/flutter/flutter/pull/173364) opened on on August 6, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/173364) 423 additions and 195 deletions in 10 files</sub><br />
 
 * **[lauraywu](https://github.com/lauraywu)** &mdash; Add onHover callback support for TableRowInkWell<br />
   <sub>[#173373](https://github.com/flutter/flutter/pull/173373) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173373) 27 additions and 2 deletions in 2 files</sub><br />
@@ -108,7 +108,7 @@
   <sub>[#173426](https://github.com/flutter/flutter/pull/173426) opened on on August 7, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/173426) 1490 additions and 4739 deletions in 104 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
-  <sub>[#173429](https://github.com/flutter/flutter/pull/173429) opened on on August 7, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/173429) 450 additions and 388 deletions in 120 files</sub><br />
+  <sub>[#173429](https://github.com/flutter/flutter/pull/173429) opened on on August 7, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/173429) 450 additions and 388 deletions in 120 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Android templates] Remove jetifier usage<br />
   <sub>[#173431](https://github.com/flutter/flutter/pull/173431) opened on on August 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173431) 0 additions and 2 deletions in 2 files</sub><br />
