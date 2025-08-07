@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-30 commits.
+31 commits.
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Provide monitor list, display size, refresh rate, and more for Windows<br />
   <sub>[#164460](https://github.com/flutter/flutter/pull/164460) merged on August 7, 2025 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/164460) over 5 months, 481 additions and 26 deletions in 15 files</sub><br />
@@ -39,6 +39,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches (third attempt) <br />
   <sub>[#173169](https://github.com/flutter/flutter/pull/173169) merged on August 4, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173169) over 1 day, 333 additions and 19 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios26]Do not report error for Info.plist key not found<br />
+  <sub>[#172913](https://github.com/flutter/flutter/pull/172913) merged on August 7, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/172913) over 1 week, 136 additions and 11 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds deprecation for impeller opt out on android<br />
   <sub>[#173375](https://github.com/flutter/flutter/pull/173375) merged on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173375) over 18 hours, 15 additions and 9 deletions in 3 files</sub><br />
