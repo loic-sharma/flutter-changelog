@@ -101,3 +101,6 @@
 * **[lauraywu](https://github.com/lauraywu)** &mdash; Add onHover callback support for TableRowInkWell<br />
   <sub>[#173373](https://github.com/flutter/flutter/pull/173373) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173373) 27 additions and 2 deletions in 2 files</sub><br />
 
+* **[Florin Malita](https://github.com/fmalita)** &mdash; Remove a couple of asserts from display_list_unittest<br />
+  <sub>[#173381](https://github.com/flutter/flutter/pull/173381) opened on on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173381) 0 additions and 2 deletions in 1 file</sub><br />
+
