@@ -110,9 +110,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#173429](https://github.com/flutter/flutter/pull/173429) opened on on August 7, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173429) 453 additions and 392 deletions in 122 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Android templates] Remove jetifier usage<br />
-  <sub>[#173431](https://github.com/flutter/flutter/pull/173431) opened on on August 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173431) 0 additions and 2 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Prepare for iOS debugging with lldb and devicectl<br />
   <sub>[#173439](https://github.com/flutter/flutter/pull/173439) opened on on August 7, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173439) 3104 additions and 135 deletions in 14 files</sub><br />
 
