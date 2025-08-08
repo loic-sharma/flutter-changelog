@@ -83,9 +83,6 @@
 * **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Improve Stack widget error message for bounded constraints<br />
   <sub>[#173352](https://github.com/flutter/flutter/pull/173352) opened on on August 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173352) 9 additions and 1 deletion in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash from possible DDS startup race<br />
-  <sub>[#173362](https://github.com/flutter/flutter/pull/173362) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173362) 97 additions and 70 deletions in 14 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up Android API to set section locale<br />
   <sub>[#173364](https://github.com/flutter/flutter/pull/173364) opened on on August 6, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/173364) 423 additions and 195 deletions in 10 files</sub><br />
 
