@@ -53,6 +53,10 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
   <sub><details><summary>1 image...</summary><img width="1242" height="257" alt="Screenshot 2025-08-05 at 9 13 55 AM" src="https://github.com/user-attachments/assets/248de580-27ca-4704-9754-a109e961fb6f" /></details></sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix tooltip crash when route has secondary animation
+  <sub>[#172678](https://github.com/flutter/flutter/pull/172678) merged on August 8, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/172678) over 2 weeks, 72 additions and 19 deletions in 2 files</sub>
+  <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios26]Do not report error for Info.plist key not found
   <sub>[#172913](https://github.com/flutter/flutter/pull/172913) merged on August 7, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/172913) over 1 week, 136 additions and 11 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
@@ -65,17 +69,13 @@
   <sub>[#173086](https://github.com/flutter/flutter/pull/173086) merged on August 4, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/173086) over 3 days, 881 additions and 830 deletions in 159 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix tooltip crash when route has secondary animation
-  <sub>[#172678](https://github.com/flutter/flutter/pull/172678) merged on August 8, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/172678) over 2 weeks, 72 additions and 19 deletions in 2 files</sub>
-  <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+* **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL
+  <sub>[#164720](https://github.com/flutter/flutter/pull/164720) merged on August 8, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/164720) over 5 months, 53 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improve robustness of comment detection when using flutter analyze --suggestions
   <sub>[#172977](https://github.com/flutter/flutter/pull/172977) merged on August 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172977) over 5 days, 109 additions and 19 deletions in 2 files</sub>
   <sub>Reviewed by: [Lasse R.H. Nielsen](https://github.com/lrhn), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL
-  <sub>[#164720](https://github.com/flutter/flutter/pull/164720) merged on August 8, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/164720) over 5 months, 53 additions and 9 deletions in 2 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: content_aware_hash tag for fuchsia merge / upload
   <sub>[#173253](https://github.com/flutter/flutter/pull/173253) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173253) over 21 hours, 32 additions and 12 deletions in 1 file</sub>
