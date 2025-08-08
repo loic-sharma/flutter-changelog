@@ -15,6 +15,10 @@
   <sub>[#164460](https://github.com/flutter/flutter/pull/164460) merged on August 7, 2025 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/164460) over 5 months, 481 additions and 26 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
+* **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Web dev proxy<br />
+  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) merged on August 7, 2025 &mdash; **Large:** [168 comments](https://github.com/flutter/flutter/pull/172175) over 3 weeks, 1174 additions and 266 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Sydney Bao](https://github.com/SydneyBao), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add the 'windowing' feature flag and use to wrap an implementation for regular windows that always throws<br />
   <sub>[#172478](https://github.com/flutter/flutter/pull/172478) merged on August 4, 2025 &mdash; **Large:** [255 comments](https://github.com/flutter/flutter/pull/172478) over 1 week, 1383 additions and 16 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Michał Sawicz](https://github.com/Saviq), [Robert Ancell](https://github.com/robert-ancell), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
@@ -22,10 +26,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate to list and builder Sliver convenience constructors<br />
   <sub>[#173011](https://github.com/flutter/flutter/pull/173011) merged on August 4, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/173011) over 4 days, 512 additions and 620 deletions in 67 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Web dev proxy<br />
-  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) merged on August 7, 2025 &mdash; **Large:** [168 comments](https://github.com/flutter/flutter/pull/172175) over 3 weeks, 1174 additions and 266 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [Sydney Bao](https://github.com/SydneyBao), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix drawerScrimColor transition.<br />
   <sub>[#173280](https://github.com/flutter/flutter/pull/173280) merged on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173280) over 1 day, 24 additions and 44 deletions in 2 files</sub><br />
