@@ -102,7 +102,7 @@
   <sub>[#173429](https://github.com/flutter/flutter/pull/173429) opened on on August 7, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173429) 453 additions and 392 deletions in 122 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; add `--variance host_debug_unopt_arm64` for apple chip simulator<br />
-  <sub>[#173475](https://github.com/flutter/flutter/pull/173475) opened on on August 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173475) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#173475](https://github.com/flutter/flutter/pull/173475) opened on on August 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173475) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] Fix a property name on newer Chrome versions<br />
   <sub>[#173477](https://github.com/flutter/flutter/pull/173477) opened on on August 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173477) 14 additions and 17 deletions in 3 files</sub><br />
