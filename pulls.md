@@ -30,7 +30,7 @@
   <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/171646) 203 additions and 257 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true and added simple test case<br />
-  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/171648) 209 additions and 4 deletions in 4 files</sub><br />
+  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) opened on on July 4, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/171648) 285 additions and 76 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
@@ -106,7 +106,4 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] Fix a property name on newer Chrome versions<br />
   <sub>[#173477](https://github.com/flutter/flutter/pull/173477) opened on on August 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173477) 14 additions and 17 deletions in 3 files</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Announce Autocomplete search results status<br />
-  <sub>[#173480](https://github.com/flutter/flutter/pull/173480) opened on on August 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173480) 98 additions and 0 deletions in 3 files</sub><br />
 
