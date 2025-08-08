@@ -107,3 +107,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] Fix a property name on newer Chrome versions<br />
   <sub>[#173477](https://github.com/flutter/flutter/pull/173477) opened on on August 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173477) 14 additions and 17 deletions in 3 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Announce Autocomplete search results status<br />
+  <sub>[#173480](https://github.com/flutter/flutter/pull/173480) opened on on August 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173480) 98 additions and 0 deletions in 3 files</sub><br />
+
