@@ -92,8 +92,8 @@
 * **[lauraywu](https://github.com/lauraywu)** &mdash; Add onHover callback support for TableRowInkWell<br />
   <sub>[#173373](https://github.com/flutter/flutter/pull/173373) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173373) 27 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CalendarDatePicker doesn't crash in 0x0 environment<br />
-  <sub>[#173408](https://github.com/flutter/flutter/pull/173408) opened on on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173408) 17 additions and 0 deletions in 1 file</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that CalendarDatePicker & YearPicker don't crash in 0x0 environment<br />
+  <sub>[#173408](https://github.com/flutter/flutter/pull/173408) opened on on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173408) 55 additions and 3 deletions in 2 files</sub><br />
 
 * **[apascom49](https://github.com/apascom49)** &mdash; App<br />
   <sub>[#173411](https://github.com/flutter/flutter/pull/173411) opened on on August 7, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173411) 5540 additions and 296 deletions in 117 files</sub><br />
