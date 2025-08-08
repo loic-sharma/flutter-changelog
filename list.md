@@ -7,7 +7,7 @@
 40 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use LLDB as the default debugging method for iOS 17+ and Xcode 26+
-  <sub>[#173443](https://github.com/flutter/flutter/pull/173443) merged on August 8, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/173443) over 18 hours, 857 additions and 606 deletions in 20 files</sub>
+  <sub>[#173443](https://github.com/flutter/flutter/pull/173443) merged on August 8, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173443) over 18 hours, 857 additions and 606 deletions in 20 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix `ReorderableList` proxy animation for partial drag-back
