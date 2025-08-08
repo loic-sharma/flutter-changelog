@@ -4,7 +4,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-40 commits.
+41 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use LLDB as the default debugging method for iOS 17+ and Xcode 26+
   <sub>[#173443](https://github.com/flutter/flutter/pull/173443) merged on August 8, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173443) over 18 hours, 857 additions and 606 deletions in 20 files</sub>
@@ -57,29 +57,29 @@
   <sub>[#172913](https://github.com/flutter/flutter/pull/172913) merged on August 7, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/172913) over 1 week, 136 additions and 11 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Migrate surface frame shell code to DisplayList/Impeller geometry classes
-  <sub>[#173086](https://github.com/flutter/flutter/pull/173086) merged on August 4, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/173086) over 3 days, 881 additions and 830 deletions in 159 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds deprecation for impeller opt out on android
   <sub>[#173375](https://github.com/flutter/flutter/pull/173375) merged on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173375) over 18 hours, 15 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL
-  <sub>[#164720](https://github.com/flutter/flutter/pull/164720) merged on August 8, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/164720) over 5 months, 53 additions and 9 deletions in 2 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; Migrate surface frame shell code to DisplayList/Impeller geometry classes
+  <sub>[#173086](https://github.com/flutter/flutter/pull/173086) merged on August 4, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/173086) over 3 days, 881 additions and 830 deletions in 159 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Improve robustness of comment detection when using flutter analyze --suggestions
   <sub>[#172977](https://github.com/flutter/flutter/pull/172977) merged on August 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/172977) over 5 days, 109 additions and 19 deletions in 2 files</sub>
   <sub>Reviewed by: [Lasse R.H. Nielsen](https://github.com/lrhn), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Upload the Android standalone embedder API dylibs.
-  <sub>[#173131](https://github.com/flutter/flutter/pull/173131) merged on August 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173131) over 2 days, 16 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL
+  <sub>[#164720](https://github.com/flutter/flutter/pull/164720) merged on August 8, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/164720) over 5 months, 53 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: content_aware_hash tag for fuchsia merge / upload
   <sub>[#173253](https://github.com/flutter/flutter/pull/173253) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173253) over 21 hours, 32 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Upload the Android standalone embedder API dylibs.
+  <sub>[#173131](https://github.com/flutter/flutter/pull/173131) merged on August 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173131) over 2 days, 16 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Slider dragged mouse cursor visibility.
   <sub>[#172759](https://github.com/flutter/flutter/pull/172759) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172759) over 1 week, 110 additions and 75 deletions in 3 files</sub>
@@ -113,6 +113,10 @@
   <sub>[#172421](https://github.com/flutter/flutter/pull/172421) merged on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/172421) over 2 weeks, 14 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown
+  <sub>[#173085](https://github.com/flutter/flutter/pull/173085) merged on August 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173085) over 3 days, 15 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress deprecated iOS windows API in integration_test
   <sub>[#173251](https://github.com/flutter/flutter/pull/173251) merged on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173251) over 18 hours, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
@@ -125,13 +129,17 @@
   <sub>[#173014](https://github.com/flutter/flutter/pull/173014) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173014) over 4 days, 57 additions and 10 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown
-  <sub>[#173085](https://github.com/flutter/flutter/pull/173085) merged on August 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173085) over 3 days, 15 additions and 6 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Textfield has flag `isFocusable` set to true 
+  <sub>[#173235](https://github.com/flutter/flutter/pull/173235) merged on August 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173235) over 4 days, 119 additions and 10 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.1.beta
   <sub>[#173423](https://github.com/flutter/flutter/pull/173423) merged on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173423) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: moved is_minimal_linux to pkgconfig usage
+  <sub>[#173248](https://github.com/flutter/flutter/pull/173248) merged on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173248) over 1 day, 38 additions and 30 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] TextField prefix icon and suffix icon create a sibling node'
   <sub>[#173312](https://github.com/flutter/flutter/pull/173312) merged on August 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173312) over 1 day, 74 additions and 16 deletions in 2 files</sub>
@@ -141,29 +149,25 @@
   <sub>[#173094](https://github.com/flutter/flutter/pull/173094) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173094) over 4 days, 1 addition and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [sigmundch](https://github.com/sigmundch)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: moved is_minimal_linux to pkgconfig usage
-  <sub>[#173248](https://github.com/flutter/flutter/pull/173248) merged on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173248) over 1 day, 38 additions and 30 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Android templates] Remove jetifier usage
-  <sub>[#173431](https://github.com/flutter/flutter/pull/173431) merged on August 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173431) over 2 hours, 0 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
-
 * **[Florin Malita](https://github.com/fmalita)** &mdash; Remove a couple of asserts from display_list_unittest
   <sub>[#173381](https://github.com/flutter/flutter/pull/173381) merged on August 7, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173381) over 17 hours, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LicensePage doesn't crash in 0x0 environment
-  <sub>[#172610](https://github.com/flutter/flutter/pull/172610) merged on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172610) over 1 week, 14 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Cleanup for experimental release
   <sub>[#173289](https://github.com/flutter/flutter/pull/173289) merged on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173289) over 1 hour, 13 additions and 18 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LicensePage doesn't crash in 0x0 environment
+  <sub>[#172610](https://github.com/flutter/flutter/pull/172610) merged on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172610) over 1 week, 14 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Using a shared message-only HWND for clip board data on win32 instead of the implicit view
   <sub>[#173076](https://github.com/flutter/flutter/pull/173076) merged on August 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173076) over 3 days, 78 additions and 100 deletions in 3 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Android templates] Remove jetifier usage
+  <sub>[#173431](https://github.com/flutter/flutter/pull/173431) merged on August 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173431) over 2 hours, 0 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: reland switch 4
   <sub>[#173139](https://github.com/flutter/flutter/pull/173139) merged on August 4, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/173139) over 2 days, 33155 additions and 65448 deletions in 12 files</sub>
