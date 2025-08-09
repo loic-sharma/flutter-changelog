@@ -39,7 +39,7 @@
   <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
 
 * **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
-  <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172704) 156 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172704) 156 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable Firefox auto-updates<br />
   <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 26 additions and 1 deletion in 3 files</sub><br />
