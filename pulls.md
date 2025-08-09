@@ -96,5 +96,5 @@
   <sub>[#173426](https://github.com/flutter/flutter/pull/173426) opened on on August 7, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/173426) 1517 additions and 4732 deletions in 107 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
-  <sub>[#173429](https://github.com/flutter/flutter/pull/173429) opened on on August 7, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173429) 453 additions and 392 deletions in 122 files</sub><br />
+  <sub>[#173429](https://github.com/flutter/flutter/pull/173429) opened on on August 7, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173429) 460 additions and 400 deletions in 123 files</sub><br />
 
