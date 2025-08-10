@@ -1048,7 +1048,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-4 commits.
+5 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; New design doc: Basic color set in the core framework<br />
   <sub>[#12270](https://github.com/flutter/website/pull/12270) merged on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12270) over 11 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -1056,6 +1056,10 @@
 
 * **[Nabeel Parkar](https://github.com/exaby73)** &mdash; fix: Typo in arb file name in internationalization docs<br />
   <sub>[#12284](https://github.com/flutter/website/pull/12284) merged on August 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12284) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add `/to/widget-previews`<br />
+  <sub>[#12271](https://github.com/flutter/website/pull/12271) merged on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12271) over 4 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; feat: update widget of the week videos<br />
