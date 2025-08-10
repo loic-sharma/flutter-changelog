@@ -111,5 +111,5 @@
   <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
 
 * **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; Fixes #173514 : Add highContrastThemeMode parameter to MaterialApp<br />
-  <sub>[#173520](https://github.com/flutter/flutter/pull/173520) opened on on August 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173520) 238 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#173520](https://github.com/flutter/flutter/pull/173520) opened on on August 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173520) 238 additions and 3 deletions in 2 files</sub><br />
 
