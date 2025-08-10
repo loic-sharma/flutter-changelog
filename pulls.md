@@ -108,5 +108,5 @@
   <sub>[#173515](https://github.com/flutter/flutter/pull/173515) opened on on August 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173515) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; web_ui: avoid crash for showPerformanceOverlay; log 'not supported' once<br />
-  <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
 

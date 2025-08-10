@@ -872,7 +872,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-14 commits.
+15 commits.
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Add ability to perform Google Maps SDK warmup
   <sub>[#9674](https://github.com/flutter/packages/pull/9674) merged on August 6, 2025 &mdash; **Medium:** [43 comments](https://github.com/flutter/packages/pull/9674) over 1 week, 383 additions and 88 deletions in 11 files</sub>
@@ -890,6 +890,10 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [local_auth] Differentiate iOS authentication errors
   <sub>[#9705](https://github.com/flutter/packages/pull/9705) merged on August 6, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/9705) over 6 days, 214 additions and 4 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 11
+  <sub>[#9690](https://github.com/flutter/packages/pull/9690) merged on August 10, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9690) over 1 week, 146 additions and 154 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_maps_flutter_ios] Fix kCGImageAlphaPremultipliedLast implicit conversion from enumeration type
   <sub>[#9720](https://github.com/flutter/packages/pull/9720) merged on August 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9720) over 3 days, 10 additions and 4 deletions in 4 files</sub>
