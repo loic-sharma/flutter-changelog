@@ -1048,7 +1048,11 @@
 
 ### August 2, 2025 to August 8, 2025
 
-5 commits.
+6 commits.
+
+* **[yukidaruma](https://github.com/yukidaruma)** &mdash; Remove "Component theme normalization updates" from 3.32 changes
+  <sub>[#12266](https://github.com/flutter/website/pull/12266) merged on August 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12266) over 6 days, 0 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; New design doc: Basic color set in the core framework
   <sub>[#12270](https://github.com/flutter/website/pull/12270) merged on August 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12270) over 11 hours, 1 addition and 0 deletions in 1 file</sub>
