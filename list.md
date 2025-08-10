@@ -872,7 +872,7 @@
 
 ### August 2, 2025 to August 8, 2025
 
-13 commits.
+14 commits.
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Add ability to perform Google Maps SDK warmup
   <sub>[#9674](https://github.com/flutter/packages/pull/9674) merged on August 6, 2025 &mdash; **Medium:** [43 comments](https://github.com/flutter/packages/pull/9674) over 1 week, 383 additions and 88 deletions in 11 files</sub>
@@ -918,6 +918,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update CODEOWNERS
   <sub>[#9721](https://github.com/flutter/packages/pull/9721) merged on August 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9721) over 3 days, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Fix crash when streaming while recording
+  <sub>[#9691](https://github.com/flutter/packages/pull/9691) merged on August 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9691) over 1 week, 113 additions and 72 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; manual roll to 59fc766c6fdfd03d0983fc95ce8b76793a300dd5
   <sub>[#9758](https://github.com/flutter/packages/pull/9758) merged on August 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9758) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
