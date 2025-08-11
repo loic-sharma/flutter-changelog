@@ -16,7 +16,7 @@
   <sub><details><summary>6 images...</summary><img src="https://github.com/user-attachments/assets/d0931dff-5600-441c-8536-2c61789767d0" alt="demo2" width="250"><img src="https://github.com/user-attachments/assets/a53e8920-ebca-4326-abe9-3b43b34419e5" alt="fixed" width="250"><img src="https://github.com/user-attachments/assets/b0ddc745-6e9e-4f12-97da-454e2e76b06d" alt="Before" width="200"><img src="https://github.com/user-attachments/assets/03e181fa-f43b-4405-b0c0-16d3465ad990" alt="After" width="200"><img src="https://github.com/user-attachments/assets/9b4bb591-aa2f-4cf0-88b8-a3ec32b0f0ac" alt="Before" width="200"><img src="https://github.com/user-attachments/assets/31646e9c-78f4-4252-921f-53583193868f" alt="After" width="200"></details></sub>
 
 * **[Salem Iranloye](https://github.com/salemiranloye)** &mdash; Web dev proxy
-  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) merged on August 7, 2025 &mdash; **Large:** [168 comments](https://github.com/flutter/flutter/pull/172175) over 3 weeks, 1174 additions and 266 deletions in 18 files</sub>
+  <sub>[#172175](https://github.com/flutter/flutter/pull/172175) merged on August 7, 2025 &mdash; **Large:** [169 comments](https://github.com/flutter/flutter/pull/172175) over 3 weeks, 1174 additions and 266 deletions in 18 files</sub>
   <sub>Reviewed by: [Sydney Bao](https://github.com/SydneyBao), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Provide monitor list, display size, refresh rate, and more for Windows
