@@ -4,12 +4,16 @@
 
 ### August 9, 2025 to August 15, 2025
 
-1 commits.
+2 commits.
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …
   <sub>[#173551](https://github.com/flutter/flutter/pull/173551) merged on August 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173551) over 4 minutes, 92 additions and 308 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
   <sub><details><summary>1 image...</summary><img width="624" height="347" alt="image" src="https://github.com/user-attachments/assets/affc7820-bd1a-408a-822c-3bc0df5f985d" /></details></sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; add format cmd to tools instruction
+  <sub>[#173428](https://github.com/flutter/flutter/pull/173428) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173428) over 3 days, 7 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 ### August 2, 2025 to August 8, 2025
 
