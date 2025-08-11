@@ -125,3 +125,6 @@
 * **[Florin Malita](https://github.com/fmalita)** &mdash; Update CanRenderTiledTexture unit tests<br />
   <sub>[#173553](https://github.com/flutter/flutter/pull/173553) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173553) 10 additions and 13 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enables vulkan for PowerVR B-Series<br />
+  <sub>[#173561](https://github.com/flutter/flutter/pull/173561) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173561) 32 additions and 6 deletions in 1 file</sub><br />
+
