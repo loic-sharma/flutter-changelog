@@ -128,3 +128,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision for 3.35 stable release<br />
   <sub>[#173582](https://github.com/flutter/flutter/pull/173582) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173582) 3 additions and 3 deletions in 2 files</sub><br />
 
+* **[Sydney Bao](https://github.com/SydneyBao)** &mdash; Add glob syntax to proxy<br />
+  <sub>[#173591](https://github.com/flutter/flutter/pull/173591) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173591) 276 additions and 2 deletions in 2 files</sub><br />
+
