@@ -117,7 +117,7 @@
   <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][tools]do not log "bonjour not found" at all<br />
-  <sub>[#173569](https://github.com/flutter/flutter/pull/173569) opened on on August 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173569) 114 additions and 105 deletions in 3 files</sub><br />
+  <sub>[#173569](https://github.com/flutter/flutter/pull/173569) opened on on August 11, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173569) 276 additions and 94 deletions in 3 files</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
   <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173570) 200 additions and 52 deletions in 4 files</sub><br />
@@ -126,8 +126,5 @@
   <sub>[#173576](https://github.com/flutter/flutter/pull/173576) opened on on August 11, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/173576) 1 addition and 415 deletions in 26 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision for 3.35 stable release<br />
-  <sub>[#173582](https://github.com/flutter/flutter/pull/173582) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173582) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [3.36] Create `release-candidate-branch.version`<br />
-  <sub>[#173583](https://github.com/flutter/flutter/pull/173583) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173583) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#173582](https://github.com/flutter/flutter/pull/173582) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173582) 3 additions and 3 deletions in 2 files</sub><br />
 
