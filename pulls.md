@@ -120,7 +120,7 @@
   <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "Make device debuggable if useDwdsWebSocketConnection is true … (#173551)"<br />
-  <sub>[#173568](https://github.com/flutter/flutter/pull/173568) opened on on August 11, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/173568) 572 additions and 277 deletions in 12 files</sub><br />
+  <sub>[#173568](https://github.com/flutter/flutter/pull/173568) opened on on August 11, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173568) 572 additions and 277 deletions in 12 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][tools]do not log "bonjour not found" at all<br />
   <sub>[#173569](https://github.com/flutter/flutter/pull/173569) opened on on August 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173569) 114 additions and 105 deletions in 3 files</sub><br />
