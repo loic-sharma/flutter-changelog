@@ -113,6 +113,10 @@
   <sub>[#172964](https://github.com/flutter/flutter/pull/172964) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172964) over 5 days, 157 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.1.beta
+  <sub>[#173423](https://github.com/flutter/flutter/pull/173423) merged on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173423) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] Fix a property name on newer Chrome versions
   <sub>[#173477](https://github.com/flutter/flutter/pull/173477) merged on August 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173477) over 3 hours, 14 additions and 17 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub>
@@ -127,10 +131,6 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Textfield has flag `isFocusable` set to true 
   <sub>[#173235](https://github.com/flutter/flutter/pull/173235) merged on August 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173235) over 4 days, 119 additions and 10 deletions in 11 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] TextField prefix icon and suffix icon create a sibling node'
-  <sub>[#173312](https://github.com/flutter/flutter/pull/173312) merged on August 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173312) over 1 day, 74 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Improvements to the Vulkan pipeline cache data writer
@@ -153,9 +153,9 @@
   <sub>[#173132](https://github.com/flutter/flutter/pull/173132) merged on August 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173132) over 2 days, 3 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.1.beta
-  <sub>[#173423](https://github.com/flutter/flutter/pull/173423) merged on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173423) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] TextField prefix icon and suffix icon create a sibling node'
+  <sub>[#173312](https://github.com/flutter/flutter/pull/173312) merged on August 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173312) over 1 day, 74 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: moved is_minimal_linux to pkgconfig usage
   <sub>[#173248](https://github.com/flutter/flutter/pull/173248) merged on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173248) over 1 day, 38 additions and 30 deletions in 4 files</sub>
