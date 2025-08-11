@@ -122,9 +122,12 @@
 * **[klaus-jakobsen-se](https://github.com/klaus-jakobsen-se)** &mdash; [Webview][iOS][Webgl] Gesture issue <br />
   <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update CI iOS tests<br />
-  <sub>[#173563](https://github.com/flutter/flutter/pull/173563) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173563) 5 additions and 37 deletions in 3 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "Make device debuggable if useDwdsWebSocketConnection is true … (#173551)"<br />
-  <sub>[#173568](https://github.com/flutter/flutter/pull/173568) opened on on August 11, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/173568) 542 additions and 271 deletions in 11 files</sub><br />
+  <sub>[#173568](https://github.com/flutter/flutter/pull/173568) opened on on August 11, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/173568) 542 additions and 271 deletions in 11 files</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][tools]do not log "bonjour not found" at all<br />
+  <sub>[#173569](https://github.com/flutter/flutter/pull/173569) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173569) 114 additions and 105 deletions in 3 files</sub><br />
+
+* **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
+  <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173570) 200 additions and 52 deletions in 4 files</sub><br />
 
