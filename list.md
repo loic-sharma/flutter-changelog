@@ -658,7 +658,11 @@
 
 ### August 9, 2025 to August 15, 2025
 
-1 commits.
+2 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update breaking changes index and release versions for 3.35
+  <sub>[#12286](https://github.com/flutter/website/pull/12286) merged on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12286) over 1 day, 83 additions and 66 deletions in 9 files</sub>
+  <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[GOLD](https://github.com/kumgold)** &mdash; fix - navigation & routing Index.md typo
   <sub>[#12290](https://github.com/flutter/website/pull/12290) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12290) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
