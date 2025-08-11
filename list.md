@@ -2,9 +2,19 @@
 
 ## flutter/flutter
 
+### August 9, 2025 to August 15, 2025
+
+1 commits.
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …
+  <sub>[#173551](https://github.com/flutter/flutter/pull/173551) merged on August 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173551) over 4 minutes, 92 additions and 308 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+  <sub><details><summary>1 image...</summary><img width="624" height="347" alt="image" src="https://github.com/user-attachments/assets/affc7820-bd1a-408a-822c-3bc0df5f985d" /></details></sub>
+
 ### August 2, 2025 to August 8, 2025
 
-49 commits.
+<details>
+<summary>49 commits...</summary>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use LLDB as the default debugging method for iOS 17+ and Xcode 26+
   <sub>[#173443](https://github.com/flutter/flutter/pull/173443) merged on August 8, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173443) over 18 hours, 857 additions and 606 deletions in 20 files</sub>
@@ -204,6 +214,8 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: reland switch 4
   <sub>[#173139](https://github.com/flutter/flutter/pull/173139) merged on August 4, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/173139) over 2 days, 33155 additions and 65448 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+</details>
 
 ### July 26, 2025 to August 1, 2025
 
