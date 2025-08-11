@@ -86,9 +86,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that CalendarDatePicker & YearPicker don't crash in 0x0 environment<br />
   <sub>[#173408](https://github.com/flutter/flutter/pull/173408) opened on on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173408) 55 additions and 3 deletions in 2 files</sub><br />
 
-* **[apascom49](https://github.com/apascom49)** &mdash; App<br />
-  <sub>[#173411](https://github.com/flutter/flutter/pull/173411) opened on on August 7, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173411) 5540 additions and 296 deletions in 117 files</sub><br />
-
 * **[Julio Jimenez](https://github.com/JulioJ11)** &mdash; Fix #173302: Announce selected state for AM/PM buttons on iOS<br />
   <sub>[#173418](https://github.com/flutter/flutter/pull/173418) opened on on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173418) 46 additions and 1 deletion in 2 files</sub><br />
 
@@ -121,4 +118,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix SegmentedButton segment loses focus when unselected<br />
   <sub>[#173546](https://github.com/flutter/flutter/pull/173546) opened on on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173546) 121 additions and 69 deletions in 4 files</sub><br />
+
+* **[klaus-jakobsen-se](https://github.com/klaus-jakobsen-se)** &mdash; [Webview][iOS][Webgl] Gesture issue <br />
+  <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
 

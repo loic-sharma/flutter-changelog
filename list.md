@@ -636,9 +636,18 @@
 
 ## flutter/website
 
+### August 9, 2025 to August 15, 2025
+
+1 commits.
+
+* **[GOLD](https://github.com/kumgold)** &mdash; fix - navigation & routing Index.md typo
+  <sub>[#12290](https://github.com/flutter/website/pull/12290) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12290) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### August 2, 2025 to August 8, 2025
 
-6 commits.
+<details>
+<summary>6 commits...</summary>
 
 * **[yukidaruma](https://github.com/yukidaruma)** &mdash; Remove "Component theme normalization updates" from 3.32 changes
   <sub>[#12266](https://github.com/flutter/website/pull/12266) merged on August 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12266) over 6 days, 0 additions and 3 deletions in 1 file</sub>
@@ -663,6 +672,8 @@
 * **[Abitofevrything](https://github.com/abitofevrything)** &mdash; Correct text in setting up VM acceleration
   <sub>[#12262](https://github.com/flutter/website/pull/12262) merged on August 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12262) over 17 hours, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### July 26, 2025 to August 1, 2025
 
