@@ -532,7 +532,11 @@
 
 ### August 9, 2025 to August 15, 2025
 
-1 commits.
+2 commits.
+
+* **[nikunjrCybage](https://github.com/nikunjrCybage)** &mdash; [in_app_purchase_storekit] Add support for quantity in consumable product purchases (#171570)<br />
+  <sub>[#9698](https://github.com/flutter/packages/pull/9698) merged on August 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9698) over 1 week, 44 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Improves documentation of `ProxyApi` and moves helper functions to a separate file<br />
   <sub>[#9756](https://github.com/flutter/packages/pull/9756) merged on August 11, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/9756) over 6 days, 967 additions and 947 deletions in 12 files</sub><br />
