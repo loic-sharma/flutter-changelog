@@ -131,3 +131,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision for 3.35 stable release<br />
   <sub>[#173582](https://github.com/flutter/flutter/pull/173582) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173582) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [3.36] Create `release-candidate-branch.version`<br />
+  <sub>[#173583](https://github.com/flutter/flutter/pull/173583) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173583) 1 addition and 0 deletions in 1 file</sub><br />
+
