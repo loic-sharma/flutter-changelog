@@ -4,12 +4,16 @@
 
 ### August 9, 2025 to August 15, 2025
 
-2 commits.
+3 commits.
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …
   <sub>[#173551](https://github.com/flutter/flutter/pull/173551) merged on August 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173551) over 4 minutes, 92 additions and 308 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
   <sub><details><summary>1 image...</summary><img width="624" height="347" alt="image" src="https://github.com/user-attachments/assets/affc7820-bd1a-408a-822c-3bc0df5f985d" /></details></sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Update `ExpansibleController` in `ExpansionTile` `didUpdateWidget`
+  <sub>[#173175](https://github.com/flutter/flutter/pull/173175) merged on August 11, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/173175) over 1 week, 234 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; add format cmd to tools instruction
   <sub>[#173428](https://github.com/flutter/flutter/pull/173428) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173428) over 3 days, 7 additions and 0 deletions in 1 file</sub>
@@ -99,6 +103,10 @@
   <sub>[#173131](https://github.com/flutter/flutter/pull/173131) merged on August 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173131) over 2 days, 16 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown
+  <sub>[#173085](https://github.com/flutter/flutter/pull/173085) merged on August 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173085) over 3 days, 15 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: content_aware_hash tag for fuchsia merge / upload
   <sub>[#173253](https://github.com/flutter/flutter/pull/173253) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173253) over 21 hours, 32 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Lau Ching Jun](https://github.com/chingjun), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -149,10 +157,6 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Improvements to the Vulkan pipeline cache data writer
   <sub>[#173014](https://github.com/flutter/flutter/pull/173014) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173014) over 4 days, 57 additions and 10 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown
-  <sub>[#173085](https://github.com/flutter/flutter/pull/173085) merged on August 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173085) over 3 days, 15 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [dync_modules] enable iOS ddm build in the merge queue
