@@ -104,12 +104,12 @@
 * **[6879756e](https://github.com/6879756e)** &mdash; 168625 make handle alignment for material design pixel perfect<br />
   <sub>[#173511](https://github.com/flutter/flutter/pull/173511) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173511) 89 additions and 16 deletions in 8 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DataTable doesn't crash in 0x0 environment<br />
-  <sub>[#173515](https://github.com/flutter/flutter/pull/173515) opened on on August 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173515) 13 additions and 0 deletions in 1 file</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that DataTable, DataColumn, DataRow, and DataCell don't crash in 0x0 environment<br />
+  <sub>[#173515](https://github.com/flutter/flutter/pull/173515) opened on on August 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173515) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; web_ui: avoid crash for showPerformanceOverlay; log 'not supported' once<br />
   <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
 
 * **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; Fixes #173514 : Add highContrastThemeMode parameter to MaterialApp<br />
-  <sub>[#173520](https://github.com/flutter/flutter/pull/173520) opened on on August 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173520) 238 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#173520](https://github.com/flutter/flutter/pull/173520) opened on on August 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173520) 239 additions and 3 deletions in 3 files</sub><br />
 
