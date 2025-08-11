@@ -658,11 +658,19 @@
 
 ### August 9, 2025 to August 15, 2025
 
-2 commits.
+4 commits.
+
+* **[Emir Bolat](https://github.com/speeedev)** &mdash; Fix: Add missing `windowOptOutEdgeToEdgeEnforcement` to all relevant styles for SDK 35 compatibility
+  <sub>[#12280](https://github.com/flutter/website/pull/12280) merged on August 11, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12280) over 3 days, 14 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update breaking changes index and release versions for 3.35
   <sub>[#12286](https://github.com/flutter/website/pull/12286) merged on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12286) over 1 day, 83 additions and 66 deletions in 9 files</sub>
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Refer to TextEditingController.text as property, not method
+  <sub>[#12276](https://github.com/flutter/website/pull/12276) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12276) over 4 days, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[GOLD](https://github.com/kumgold)** &mdash; fix - navigation & routing Index.md typo
   <sub>[#12290](https://github.com/flutter/website/pull/12290) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12290) over 2 hours, 1 addition and 1 deletion in 1 file</sub>

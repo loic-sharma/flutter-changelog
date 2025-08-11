@@ -126,5 +126,8 @@
   <sub>[#173553](https://github.com/flutter/flutter/pull/173553) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173553) 10 additions and 13 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enables vulkan for PowerVR B-Series<br />
-  <sub>[#173561](https://github.com/flutter/flutter/pull/173561) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173561) 32 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#173561](https://github.com/flutter/flutter/pull/173561) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173561) 52 additions and 6 deletions in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update CI iOS tests<br />
+  <sub>[#173563](https://github.com/flutter/flutter/pull/173563) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173563) 5 additions and 37 deletions in 3 files</sub><br />
 
