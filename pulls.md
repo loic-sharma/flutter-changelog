@@ -114,13 +114,10 @@
   <sub>[#173528](https://github.com/flutter/flutter/pull/173528) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173528) 22 additions and 8 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix SegmentedButton segment loses focus when unselected<br />
-  <sub>[#173546](https://github.com/flutter/flutter/pull/173546) opened on on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173546) 122 additions and 70 deletions in 5 files</sub><br />
+  <sub>[#173546](https://github.com/flutter/flutter/pull/173546) opened on on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173546) 123 additions and 71 deletions in 5 files</sub><br />
 
 * **[klaus-jakobsen-se](https://github.com/klaus-jakobsen-se)** &mdash; [Webview][iOS][Webgl] Gesture issue <br />
   <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "Make device debuggable if useDwdsWebSocketConnection is true … (#173551)"<br />
-  <sub>[#173568](https://github.com/flutter/flutter/pull/173568) opened on on August 11, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173568) 572 additions and 277 deletions in 12 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][tools]do not log "bonjour not found" at all<br />
   <sub>[#173569](https://github.com/flutter/flutter/pull/173569) opened on on August 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173569) 114 additions and 105 deletions in 3 files</sub><br />
@@ -130,4 +127,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature<br />
   <sub>[#173576](https://github.com/flutter/flutter/pull/173576) opened on on August 11, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/173576) 1 addition and 415 deletions in 26 files</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update Dart revision for 3.35 stable release<br />
+  <sub>[#173582](https://github.com/flutter/flutter/pull/173582) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173582) 1 addition and 1 deletion in 1 file</sub><br />
 
