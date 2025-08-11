@@ -41,7 +41,7 @@
   <sub><details><summary>2 images...</summary><img width="664" height="509" alt="image" src="https://github.com/user-attachments/assets/eb526338-84d9-4eca-975b-d44bee0c11ac" /><img width="611" height="471" alt="image" src="https://github.com/user-attachments/assets/08ca2499-d5f7-47e1-9ecf-29f60c968016" /></details></sub>
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Make device debuggable if useDwdsWebSocketConnection is true and added simple test case
-  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) merged on August 9, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/171648) over 1 month, 308 additions and 92 deletions in 5 files</sub>
+  <sub>[#171648](https://github.com/flutter/flutter/pull/171648) merged on August 9, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/171648) over 1 month, 308 additions and 92 deletions in 5 files</sub>
   <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan), [Ben Konyi](https://github.com/bkonyi), [Nate Biggs](https://github.com/biggs0125), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web

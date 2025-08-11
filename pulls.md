@@ -66,7 +66,7 @@
   <sub>[#173263](https://github.com/flutter/flutter/pull/173263) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173263) 67 additions and 5 deletions in 2 files</sub><br />
 
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
-  <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [VPAT][A11y] AutoComplete dropdown option is missing button role<br />
   <sub>[#173297](https://github.com/flutter/flutter/pull/173297) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173297) 48 additions and 13 deletions in 2 files</sub><br />
@@ -120,5 +120,8 @@
   <sub>[#173546](https://github.com/flutter/flutter/pull/173546) opened on on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173546) 121 additions and 69 deletions in 4 files</sub><br />
 
 * **[klaus-jakobsen-se](https://github.com/klaus-jakobsen-se)** &mdash; [Webview][iOS][Webgl] Gesture issue <br />
-  <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
+  <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
+
+* **[Florin Malita](https://github.com/fmalita)** &mdash; Update CanRenderTiledTexture unit tests<br />
+  <sub>[#173553](https://github.com/flutter/flutter/pull/173553) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173553) 10 additions and 13 deletions in 1 file</sub><br />
 
