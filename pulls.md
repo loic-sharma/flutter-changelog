@@ -53,6 +53,9 @@
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Flutter driver deserialization<br />
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/172927) 524 additions and 93 deletions in 19 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LinearProgressIndicator track painting outside of bounds.<br />
+  <sub>[#173108](https://github.com/flutter/flutter/pull/173108) opened on on August 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173108) 219 additions and 65 deletions in 2 files</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Experiment with Xcode 26 beta 4<br />
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
 
@@ -118,4 +121,7 @@
 
 * **[NencyFlutter ](https://github.com/nancyflutter)** &mdash; fix: Announce Snackbar message for accessibility compliance.<br />
   <sub>[#173528](https://github.com/flutter/flutter/pull/173528) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173528) 22 additions and 8 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix SegmentedButton segment loses focus when unselected<br />
+  <sub>[#173546](https://github.com/flutter/flutter/pull/173546) opened on on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173546) 121 additions and 69 deletions in 4 files</sub><br />
 
