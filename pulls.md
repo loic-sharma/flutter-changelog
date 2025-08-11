@@ -111,10 +111,10 @@
   <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
 
 * **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; Fixes #173514 : Add highContrastThemeMode parameter to MaterialApp<br />
-  <sub>[#173520](https://github.com/flutter/flutter/pull/173520) opened on on August 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173520) 245 additions and 4 deletions in 4 files</sub><br />
+  <sub>[#173520](https://github.com/flutter/flutter/pull/173520) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173520) 238 additions and 3 deletions in 2 files</sub><br />
 
 * **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; flutter_tools: Fix Android settings.gradle.kts template Properties import<br />
-  <sub>[#173527](https://github.com/flutter/flutter/pull/173527) opened on on August 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173527) 28 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#173527](https://github.com/flutter/flutter/pull/173527) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173527) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[NencyFlutter ](https://github.com/nancyflutter)** &mdash; fix: Announce Snackbar message for accessibility compliance.<br />
   <sub>[#173528](https://github.com/flutter/flutter/pull/173528) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173528) 22 additions and 8 deletions in 1 file</sub><br />
