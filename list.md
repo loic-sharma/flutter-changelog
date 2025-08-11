@@ -113,6 +113,10 @@
   <sub>[#172964](https://github.com/flutter/flutter/pull/172964) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172964) over 5 days, 157 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] Fix a property name on newer Chrome versions
+  <sub>[#173477](https://github.com/flutter/flutter/pull/173477) merged on August 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173477) over 3 hours, 14 additions and 17 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix potential race condition in ClickDebouncer
   <sub>[#173294](https://github.com/flutter/flutter/pull/173294) merged on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173294) over 3 hours, 44 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
@@ -129,10 +133,6 @@
   <sub>[#173312](https://github.com/flutter/flutter/pull/173312) merged on August 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173312) over 1 day, 74 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: moved is_minimal_linux to pkgconfig usage
-  <sub>[#173248](https://github.com/flutter/flutter/pull/173248) merged on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173248) over 1 day, 38 additions and 30 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Improvements to the Vulkan pipeline cache data writer
   <sub>[#173014](https://github.com/flutter/flutter/pull/173014) merged on August 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173014) over 4 days, 57 additions and 10 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -141,37 +141,33 @@
   <sub>[#173085](https://github.com/flutter/flutter/pull/173085) merged on August 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173085) over 3 days, 15 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In "flutter create", use the project directory in the suggested "cd" command instead of the main source file path
-  <sub>[#173132](https://github.com/flutter/flutter/pull/173132) merged on August 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173132) over 2 days, 3 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [dync_modules] enable iOS ddm build in the merge queue
   <sub>[#173094](https://github.com/flutter/flutter/pull/173094) merged on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173094) over 4 days, 1 addition and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [sigmundch](https://github.com/sigmundch)</sub>
-
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.1.beta
-  <sub>[#173423](https://github.com/flutter/flutter/pull/173423) merged on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173423) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress deprecated iOS windows API in integration_test
   <sub>[#173251](https://github.com/flutter/flutter/pull/173251) merged on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173251) over 18 hours, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix null value reference in `flutter logs` path
-  <sub>[#173437](https://github.com/flutter/flutter/pull/173437) merged on August 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173437) over 22 hours, 64 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi), [Gray Mackall](https://github.com/gmackall)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In "flutter create", use the project directory in the suggested "cd" command instead of the main source file path
+  <sub>[#173132](https://github.com/flutter/flutter/pull/173132) merged on August 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173132) over 2 days, 3 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove jetifier usages from framework and engine
-  <sub>[#173459](https://github.com/flutter/flutter/pull/173459) merged on August 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173459) over 6 hours, 0 additions and 12 deletions in 9 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll to 3.10.0-75.1.beta
+  <sub>[#173423](https://github.com/flutter/flutter/pull/173423) merged on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173423) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Using a shared message-only HWND for clip board data on win32 instead of the implicit view
-  <sub>[#173076](https://github.com/flutter/flutter/pull/173076) merged on August 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173076) over 3 days, 78 additions and 100 deletions in 3 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: moved is_minimal_linux to pkgconfig usage
+  <sub>[#173248](https://github.com/flutter/flutter/pull/173248) merged on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173248) over 1 day, 38 additions and 30 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Android templates] Remove jetifier usage
   <sub>[#173431](https://github.com/flutter/flutter/pull/173431) merged on August 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173431) over 2 hours, 0 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Using a shared message-only HWND for clip board data on win32 instead of the implicit view
+  <sub>[#173076](https://github.com/flutter/flutter/pull/173076) merged on August 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173076) over 3 days, 78 additions and 100 deletions in 3 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Florin Malita](https://github.com/fmalita)** &mdash; Remove a couple of asserts from display_list_unittest
   <sub>[#173381](https://github.com/flutter/flutter/pull/173381) merged on August 7, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173381) over 17 hours, 0 additions and 2 deletions in 1 file</sub>
@@ -185,14 +181,6 @@
   <sub>[#173475](https://github.com/flutter/flutter/pull/173475) merged on August 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173475) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] Fix a property name on newer Chrome versions
-  <sub>[#173477](https://github.com/flutter/flutter/pull/173477) merged on August 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173477) over 3 hours, 14 additions and 17 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LicensePage doesn't crash in 0x0 environment
-  <sub>[#172610](https://github.com/flutter/flutter/pull/172610) merged on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172610) over 1 week, 14 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Checkbox doesn't crash in 0x0 environment
   <sub>[#173178](https://github.com/flutter/flutter/pull/173178) merged on August 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173178) over 5 days, 11 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -200,6 +188,18 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RawChip doesn't crash in 0x0 environment
   <sub>[#173265](https://github.com/flutter/flutter/pull/173265) merged on August 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173265) over 3 days, 14 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LicensePage doesn't crash in 0x0 environment
+  <sub>[#172610](https://github.com/flutter/flutter/pull/172610) merged on August 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172610) over 1 week, 14 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix null value reference in `flutter logs` path
+  <sub>[#173437](https://github.com/flutter/flutter/pull/173437) merged on August 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173437) over 22 hours, 64 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove jetifier usages from framework and engine
+  <sub>[#173459](https://github.com/flutter/flutter/pull/173459) merged on August 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173459) over 6 hours, 0 additions and 12 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: reland switch 4
   <sub>[#173139](https://github.com/flutter/flutter/pull/173139) merged on August 4, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/173139) over 2 days, 33155 additions and 65448 deletions in 12 files</sub>
