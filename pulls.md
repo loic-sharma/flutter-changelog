@@ -114,7 +114,7 @@
   <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][tools]do not log "bonjour not found" at all (unless verbose)<br />
-  <sub>[#173569](https://github.com/flutter/flutter/pull/173569) opened on on August 11, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173569) 284 additions and 95 deletions in 3 files</sub><br />
+  <sub>[#173569](https://github.com/flutter/flutter/pull/173569) opened on on August 11, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/173569) 284 additions and 95 deletions in 3 files</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
   <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173570) 200 additions and 52 deletions in 4 files</sub><br />
