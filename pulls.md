@@ -78,7 +78,7 @@
   <sub>[#173418](https://github.com/flutter/flutter/pull/173418) opened on on August 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173418) 46 additions and 1 deletion in 2 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [WIP] [web] Unify Renderer frontend code<br />
-  <sub>[#173426](https://github.com/flutter/flutter/pull/173426) opened on on August 7, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/173426) 1517 additions and 4732 deletions in 107 files</sub><br />
+  <sub>[#173426](https://github.com/flutter/flutter/pull/173426) opened on on August 7, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/173426) 1634 additions and 4911 deletions in 105 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CircleAvatar doesn't crash in 0x0 environment<br />
   <sub>[#173498](https://github.com/flutter/flutter/pull/173498) opened on on August 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173498) 8 additions and 0 deletions in 1 file</sub><br />
