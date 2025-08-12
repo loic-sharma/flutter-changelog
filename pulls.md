@@ -119,18 +119,21 @@
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
   <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173570) 200 additions and 52 deletions in 4 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature<br />
-  <sub>[#173576](https://github.com/flutter/flutter/pull/173576) opened on on August 11, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/173576) 1 addition and 415 deletions in 26 files</sub><br />
-
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; Add glob syntax to proxy<br />
   <sub>[#173591](https://github.com/flutter/flutter/pull/173591) opened on on August 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173591) 254 additions and 2 deletions in 2 files</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix autofill context cleanup and view lifecycle management<br />
+  <sub>[#173598](https://github.com/flutter/flutter/pull/173598) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173598) 139 additions and 23 deletions in 2 files</sub><br />
 
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
 
-* **[Sydney Bao](https://github.com/SydneyBao)** &mdash; service worker removal<br />
-  <sub>[#173609](https://github.com/flutter/flutter/pull/173609) opened on on August 12, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/173609) 217 additions and 1094 deletions in 4 files</sub><br />
-
 * **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; Add borderRadius parameter to Image widget for rounded corners<br />
   <sub>[#173613](https://github.com/flutter/flutter/pull/173613) opened on on August 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173613) 89 additions and 0 deletions in 2 files</sub><br />
+
+* **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Include Share in iOS SystemContextMenu defaults<br />
+  <sub>[#173626](https://github.com/flutter/flutter/pull/173626) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173626) 54 additions and 0 deletions in 2 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TableRowInkWell doesn't crash in 0x0 environment<br />
+  <sub>[#173627](https://github.com/flutter/flutter/pull/173627) opened on on August 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/173627) 16 additions and 0 deletions in 1 file</sub><br />
 
