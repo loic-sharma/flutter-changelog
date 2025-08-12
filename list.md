@@ -23,6 +23,10 @@
   <sub>[#173429](https://github.com/flutter/flutter/pull/173429) merged on August 12, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/173429) over 4 days, 460 additions and 400 deletions in 123 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fallback to CanvasKit when WebGL is not available
+  <sub>[#173629](https://github.com/flutter/flutter/pull/173629) merged on August 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173629) over 1 hour, 21 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "Make device debuggable if useDwdsWebSocketConnection is true … (#173551)"
   <sub>[#173628](https://github.com/flutter/flutter/pull/173628) merged on August 12, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/173628) over 1 hour, 582 additions and 276 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
@@ -38,10 +42,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue of over-scrolling in SliverMainAxisGroup with a PinnedHeaderSliver.
   <sub>[#173349](https://github.com/flutter/flutter/pull/173349) merged on August 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173349) over 5 days, 54 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fallback to CanvasKit when WebGL is not available
-  <sub>[#173629](https://github.com/flutter/flutter/pull/173629) merged on August 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173629) over 1 hour, 21 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Update iOS code signing CIPD instruction command
   <sub>[#171173](https://github.com/flutter/flutter/pull/171173) merged on August 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171173) over 1 month, 5 additions and 4 deletions in 1 file</sub>
@@ -717,7 +717,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-8 commits.
+9 commits.
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [3.35] Add 3.35 Release Notes
   <sub>[#12277](https://github.com/flutter/website/pull/12277) merged on August 12, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12277) over 5 days, 1146 additions and 0 deletions in 2 files</sub>
@@ -733,6 +733,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update breaking changes index and release versions for 3.35
   <sub>[#12286](https://github.com/flutter/website/pull/12286) merged on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12286) over 1 day, 83 additions and 66 deletions in 9 files</sub>
+  <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; [flutter 3.35] Add "Working with AI" page
+  <sub>[#12275](https://github.com/flutter/website/pull/12275) merged on August 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12275) over 6 days, 117 additions and 18 deletions in 2 files</sub>
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Small edits to the Widget Previewer docs
