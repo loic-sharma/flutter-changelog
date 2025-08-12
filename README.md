@@ -36,7 +36,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix GTK redraw call being called from non-GTK thread.<br />
-  <sub>[#173602](https://github.com/flutter/flutter/pull/173602) merged on August 12, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173602) over 18 hours, 10 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#173602](https://github.com/flutter/flutter/pull/173602) merged on August 12, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173602) over 18 hours, 10 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; Fix directional focus in nested scrollables with different axis<br />
