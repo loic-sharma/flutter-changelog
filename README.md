@@ -4,12 +4,16 @@
 
 ### August 9, 2025 to August 15, 2025
 
-16 commits.
+17 commits.
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …<br />
   <sub>[#173551](https://github.com/flutter/flutter/pull/173551) merged on August 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173551) over 4 minutes, 92 additions and 308 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
   <sub><details><summary>1 image...</summary><img width="624" height="347" alt="image" src="https://github.com/user-attachments/assets/affc7820-bd1a-408a-822c-3bc0df5f985d" /></details></sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][tools]do not log "bonjour not found" at all (unless verbose)<br />
+  <sub>[#173569](https://github.com/flutter/flutter/pull/173569) merged on August 12, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/173569) over 1 day, 284 additions and 95 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "Make device debuggable if useDwdsWebSocketConnection is true … (#173551)"<br />
   <sub>[#173568](https://github.com/flutter/flutter/pull/173568) merged on August 11, 2025 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/173568) over 1 hour, 572 additions and 277 deletions in 12 files</sub><br />
