@@ -83,9 +83,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [WIP] [web] Unify Renderer frontend code<br />
   <sub>[#173426](https://github.com/flutter/flutter/pull/173426) opened on on August 7, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/173426) 1517 additions and 4732 deletions in 107 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
-  <sub>[#173429](https://github.com/flutter/flutter/pull/173429) opened on on August 7, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/173429) 460 additions and 400 deletions in 123 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CircleAvatar doesn't crash in 0x0 environment<br />
   <sub>[#173498](https://github.com/flutter/flutter/pull/173498) opened on on August 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173498) 8 additions and 0 deletions in 1 file</sub><br />
 
@@ -107,14 +104,8 @@
 * **[NencyFlutter ](https://github.com/nancyflutter)** &mdash; fix: Announce Snackbar message for accessibility compliance.<br />
   <sub>[#173528](https://github.com/flutter/flutter/pull/173528) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173528) 29 additions and 18 deletions in 4 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix SegmentedButton segment loses focus when unselected<br />
-  <sub>[#173546](https://github.com/flutter/flutter/pull/173546) opened on on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173546) 123 additions and 71 deletions in 5 files</sub><br />
-
 * **[klaus-jakobsen-se](https://github.com/klaus-jakobsen-se)** &mdash; [Webview][iOS][Webgl] Gesture issue <br />
   <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
-
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][tools]do not log "bonjour not found" at all (unless verbose)<br />
-  <sub>[#173569](https://github.com/flutter/flutter/pull/173569) opened on on August 11, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/173569) 284 additions and 95 deletions in 3 files</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
   <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173570) 200 additions and 52 deletions in 4 files</sub><br />
