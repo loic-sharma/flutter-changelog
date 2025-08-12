@@ -117,7 +117,7 @@
   <sub>[#173598](https://github.com/flutter/flutter/pull/173598) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173598) 139 additions and 23 deletions in 2 files</sub><br />
 
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
-  <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
 
 * **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; Add borderRadius parameter to Image widget for rounded corners<br />
   <sub>[#173613](https://github.com/flutter/flutter/pull/173613) opened on on August 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173613) 89 additions and 0 deletions in 2 files</sub><br />
@@ -128,6 +128,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TableRowInkWell doesn't crash in 0x0 environment<br />
   <sub>[#173627](https://github.com/flutter/flutter/pull/173627) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173627) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "Make device debuggable if useDwdsWebSocketConnection is true … (#173551)"<br />
-  <sub>[#173628](https://github.com/flutter/flutter/pull/173628) opened on on August 12, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/173628) 582 additions and 276 deletions in 13 files</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Apply Y coordinate scaling when sampling from the destination texture in framebuffer advanced blends<br />
+  <sub>[#173639](https://github.com/flutter/flutter/pull/173639) opened on on August 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173639) 2 additions and 1 deletion in 1 file</sub><br />
 

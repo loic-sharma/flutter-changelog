@@ -4,7 +4,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-12 commits.
+13 commits.
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …<br />
   <sub>[#173551](https://github.com/flutter/flutter/pull/173551) merged on August 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173551) over 4 minutes, 92 additions and 308 deletions in 5 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#173429](https://github.com/flutter/flutter/pull/173429) merged on August 12, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/173429) over 4 days, 460 additions and 400 deletions in 123 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "Make device debuggable if useDwdsWebSocketConnection is true … (#173551)"<br />
+  <sub>[#173628](https://github.com/flutter/flutter/pull/173628) merged on August 12, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/173628) over 1 hour, 582 additions and 276 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix crash from possible DDS startup race<br />
   <sub>[#173362](https://github.com/flutter/flutter/pull/173362) merged on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173362) over 5 days, 159 additions and 94 deletions in 15 files</sub><br />
@@ -709,7 +713,11 @@
 
 ### August 9, 2025 to August 15, 2025
 
-4 commits.
+6 commits.
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; [3.3.5 or earlier] Flutter Widget Previewer user guide<br />
+  <sub>[#12294](https://github.com/flutter/website/pull/12294) merged on August 12, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/website/pull/12294) over 18 hours, 163 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Ander Dobo](https://github.com/anderdobo), [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Emir Bolat](https://github.com/speeedev)** &mdash; Fix: Add missing `windowOptOutEdgeToEdgeEnforcement` to all relevant styles for SDK 35 compatibility<br />
   <sub>[#12280](https://github.com/flutter/website/pull/12280) merged on August 11, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12280) over 3 days, 14 additions and 3 deletions in 1 file</sub><br />
@@ -718,6 +726,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update breaking changes index and release versions for 3.35<br />
   <sub>[#12286](https://github.com/flutter/website/pull/12286) merged on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12286) over 1 day, 83 additions and 66 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Update `/to/widget-previews` to point to documentation<br />
+  <sub>[#12296](https://github.com/flutter/website/pull/12296) merged on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12296) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Refer to TextEditingController.text as property, not method<br />
   <sub>[#12276](https://github.com/flutter/website/pull/12276) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12276) over 4 days, 3 additions and 3 deletions in 1 file</sub><br />
