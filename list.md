@@ -713,11 +713,15 @@
 
 ### August 9, 2025 to August 15, 2025
 
-6 commits.
+7 commits.
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [3.35] Add 3.35 Release Notes
+  <sub>[#12277](https://github.com/flutter/website/pull/12277) merged on August 12, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12277) over 5 days, 1146 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; [3.3.5 or earlier] Flutter Widget Previewer user guide
-  <sub>[#12294](https://github.com/flutter/website/pull/12294) merged on August 12, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/website/pull/12294) over 18 hours, 163 additions and 2 deletions in 4 files</sub>
-  <sub>Reviewed by: [Ander Dobo](https://github.com/anderdobo), [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi)</sub>
+  <sub>[#12294](https://github.com/flutter/website/pull/12294) merged on August 12, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/website/pull/12294) over 18 hours, 163 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Ander Dobo](https://github.com/anderdobo), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Emir Bolat](https://github.com/speeedev)** &mdash; Fix: Add missing `windowOptOutEdgeToEdgeEnforcement` to all relevant styles for SDK 35 compatibility
   <sub>[#12280](https://github.com/flutter/website/pull/12280) merged on August 11, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12280) over 3 days, 14 additions and 3 deletions in 1 file</sub>
