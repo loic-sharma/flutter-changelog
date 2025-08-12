@@ -134,3 +134,6 @@
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; service worker removal<br />
   <sub>[#173609](https://github.com/flutter/flutter/pull/173609) opened on on August 12, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/173609) 217 additions and 1094 deletions in 4 files</sub><br />
 
+* **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; Add borderRadius parameter to Image widget for rounded corners<br />
+  <sub>[#173613](https://github.com/flutter/flutter/pull/173613) opened on on August 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173613) 89 additions and 0 deletions in 2 files</sub><br />
+
