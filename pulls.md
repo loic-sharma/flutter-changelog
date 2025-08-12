@@ -128,12 +128,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TableRowInkWell doesn't crash in 0x0 environment<br />
   <sub>[#173627](https://github.com/flutter/flutter/pull/173627) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173627) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix run_linux_chrome_dev_mode<br />
-  <sub>[#173647](https://github.com/flutter/flutter/pull/173647) opened on on August 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173647) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--machine` mode<br />
   <sub>[#173654](https://github.com/flutter/flutter/pull/173654) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173654) 257 additions and 7 deletions in 3 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP beta] Use LLDB as the default debugging method for iOS 17+ and Xcode 26+ (#173443)<br />
-  <sub>[#173659](https://github.com/flutter/flutter/pull/173659) opened on on August 12, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/173659) 857 additions and 606 deletions in 20 files</sub><br />
 
