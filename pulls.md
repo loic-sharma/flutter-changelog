@@ -114,10 +114,10 @@
   <sub>[#173598](https://github.com/flutter/flutter/pull/173598) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173598) 139 additions and 23 deletions in 2 files</sub><br />
 
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
-  <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
 
 * **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; Add borderRadius parameter to Image widget for rounded corners<br />
-  <sub>[#173613](https://github.com/flutter/flutter/pull/173613) opened on on August 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173613) 89 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#173613](https://github.com/flutter/flutter/pull/173613) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173613) 89 additions and 0 deletions in 2 files</sub><br />
 
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Include Share in iOS SystemContextMenu defaults<br />
   <sub>[#173626](https://github.com/flutter/flutter/pull/173626) opened on on August 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173626) 54 additions and 0 deletions in 2 files</sub><br />

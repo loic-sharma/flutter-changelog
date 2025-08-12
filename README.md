@@ -4,7 +4,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-17 commits.
+18 commits.
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …<br />
   <sub>[#173551](https://github.com/flutter/flutter/pull/173551) merged on August 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173551) over 4 minutes, 92 additions and 308 deletions in 5 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fallback to CanvasKit when WebGL is not available<br />
   <sub>[#173629](https://github.com/flutter/flutter/pull/173629) merged on August 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173629) over 1 hour, 21 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[romain.gyh](https://github.com/romaingyh)** &mdash; Fix directional focus in nested scrollables with different axis<br />
+  <sub>[#172875](https://github.com/flutter/flutter/pull/172875) merged on August 12, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/172875) over 2 weeks, 273 additions and 9 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reapply "Make device debuggable if useDwdsWebSocketConnection is true … (#173551)"<br />
   <sub>[#173628](https://github.com/flutter/flutter/pull/173628) merged on August 12, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/173628) over 1 hour, 582 additions and 276 deletions in 13 files</sub><br />
