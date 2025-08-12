@@ -134,3 +134,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--machine` mode<br />
   <sub>[#173654](https://github.com/flutter/flutter/pull/173654) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173654) 257 additions and 7 deletions in 3 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP beta] Use LLDB as the default debugging method for iOS 17+ and Xcode 26+ (#173443)<br />
+  <sub>[#173659](https://github.com/flutter/flutter/pull/173659) opened on on August 12, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/173659) 857 additions and 606 deletions in 20 files</sub><br />
+
