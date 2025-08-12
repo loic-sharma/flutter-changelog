@@ -720,7 +720,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; [3.3.5 or earlier] Flutter Widget Previewer user guide
-  <sub>[#12294](https://github.com/flutter/website/pull/12294) merged on August 12, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/website/pull/12294) over 18 hours, 163 additions and 2 deletions in 4 files</sub>
+  <sub>[#12294](https://github.com/flutter/website/pull/12294) merged on August 12, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/12294) over 18 hours, 163 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Ander Dobo](https://github.com/anderdobo), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Emir Bolat](https://github.com/speeedev)** &mdash; Fix: Add missing `windowOptOutEdgeToEdgeEnforcement` to all relevant styles for SDK 35 compatibility
