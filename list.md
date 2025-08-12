@@ -4,7 +4,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-13 commits.
+14 commits.
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …
   <sub>[#173551](https://github.com/flutter/flutter/pull/173551) merged on August 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173551) over 4 minutes, 92 additions and 308 deletions in 5 files</sub>
@@ -42,6 +42,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fallback to CanvasKit when WebGL is not available
   <sub>[#173629](https://github.com/flutter/flutter/pull/173629) merged on August 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173629) over 1 hour, 21 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Update iOS code signing CIPD instruction command
+  <sub>[#171173](https://github.com/flutter/flutter/pull/171173) merged on August 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171173) over 1 month, 5 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enables vulkan for PowerVR B-Series
   <sub>[#173561](https://github.com/flutter/flutter/pull/173561) merged on August 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173561) over 5 hours, 35 additions and 7 deletions in 2 files</sub>
@@ -713,7 +717,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-7 commits.
+8 commits.
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [3.35] Add 3.35 Release Notes
   <sub>[#12277](https://github.com/flutter/website/pull/12277) merged on August 12, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12277) over 5 days, 1146 additions and 0 deletions in 2 files</sub>
@@ -730,6 +734,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update breaking changes index and release versions for 3.35
   <sub>[#12286](https://github.com/flutter/website/pull/12286) merged on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12286) over 1 day, 83 additions and 66 deletions in 9 files</sub>
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Small edits to the Widget Previewer docs
+  <sub>[#12298](https://github.com/flutter/website/pull/12298) merged on August 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12298) over 54 minutes, 28 additions and 18 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Update `/to/widget-previews` to point to documentation
   <sub>[#12296](https://github.com/flutter/website/pull/12296) merged on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12296) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
