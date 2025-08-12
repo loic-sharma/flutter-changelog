@@ -131,3 +131,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix run_linux_chrome_dev_mode<br />
   <sub>[#173647](https://github.com/flutter/flutter/pull/173647) opened on on August 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173647) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--machine` mode<br />
+  <sub>[#173654](https://github.com/flutter/flutter/pull/173654) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173654) 257 additions and 7 deletions in 3 files</sub><br />
+
