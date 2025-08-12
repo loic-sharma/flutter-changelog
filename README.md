@@ -725,7 +725,11 @@
 
 ### August 9, 2025 to August 15, 2025
 
-9 commits.
+10 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Add page on the Android sensitive content feature<br />
+  <sub>[#12220](https://github.com/flutter/website/pull/12220) merged on August 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12220) over 3 weeks, 64 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [3.35] Add 3.35 Release Notes<br />
   <sub>[#12277](https://github.com/flutter/website/pull/12277) merged on August 12, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12277) over 5 days, 1146 additions and 0 deletions in 2 files</sub><br />
