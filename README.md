@@ -4,7 +4,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-6 commits.
+8 commits.
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …<br />
   <sub>[#173551](https://github.com/flutter/flutter/pull/173551) merged on August 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173551) over 4 minutes, 92 additions and 308 deletions in 5 files</sub><br />
@@ -26,6 +26,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enables vulkan for PowerVR B-Series<br />
   <sub>[#173561](https://github.com/flutter/flutter/pull/173561) merged on August 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173561) over 5 hours, 35 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Florin Malita](https://github.com/fmalita)** &mdash; Update CanRenderTiledTexture unit tests<br />
+  <sub>[#173553](https://github.com/flutter/flutter/pull/173553) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173553) over 9 hours, 10 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update integration test for iOS deployment workflows<br />
+  <sub>[#173566](https://github.com/flutter/flutter/pull/173566) merged on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173566) over 5 hours, 164 additions and 48 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; add format cmd to tools instruction<br />
   <sub>[#173428](https://github.com/flutter/flutter/pull/173428) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173428) over 3 days, 7 additions and 0 deletions in 1 file</sub><br />
