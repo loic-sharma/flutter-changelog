@@ -4,7 +4,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-18 commits.
+19 commits.
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …<br />
   <sub>[#173551](https://github.com/flutter/flutter/pull/173551) merged on August 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173551) over 4 minutes, 92 additions and 308 deletions in 5 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Update `ExpansibleController` in `ExpansionTile` `didUpdateWidget`<br />
   <sub>[#173175](https://github.com/flutter/flutter/pull/173175) merged on August 11, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/173175) over 1 week, 234 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Apply Y coordinate scaling when sampling from the destination texture in framebuffer advanced blends<br />
+  <sub>[#173639](https://github.com/flutter/flutter/pull/173639) merged on August 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173639) over 4 hours, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#173429](https://github.com/flutter/flutter/pull/173429) merged on August 12, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/173429) over 4 days, 460 additions and 400 deletions in 123 files</sub><br />

@@ -119,9 +119,6 @@
 * **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; Add borderRadius parameter to Image widget for rounded corners<br />
   <sub>[#173613](https://github.com/flutter/flutter/pull/173613) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173613) 89 additions and 0 deletions in 2 files</sub><br />
 
-* **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Include Share in iOS SystemContextMenu defaults<br />
-  <sub>[#173626](https://github.com/flutter/flutter/pull/173626) opened on on August 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173626) 54 additions and 0 deletions in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TableRowInkWell doesn't crash in 0x0 environment<br />
   <sub>[#173627](https://github.com/flutter/flutter/pull/173627) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173627) 16 additions and 0 deletions in 1 file</sub><br />
 
