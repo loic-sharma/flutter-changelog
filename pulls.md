@@ -105,7 +105,7 @@
   <sub>[#173527](https://github.com/flutter/flutter/pull/173527) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173527) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[NencyFlutter ](https://github.com/nancyflutter)** &mdash; fix: Announce Snackbar message for accessibility compliance.<br />
-  <sub>[#173528](https://github.com/flutter/flutter/pull/173528) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173528) 22 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#173528](https://github.com/flutter/flutter/pull/173528) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173528) 29 additions and 18 deletions in 4 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix SegmentedButton segment loses focus when unselected<br />
   <sub>[#173546](https://github.com/flutter/flutter/pull/173546) opened on on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173546) 123 additions and 71 deletions in 5 files</sub><br />
