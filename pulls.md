@@ -132,5 +132,5 @@
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; service worker removal<br />
-  <sub>[#173609](https://github.com/flutter/flutter/pull/173609) opened on on August 12, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/173609) 214 additions and 1094 deletions in 4 files</sub><br />
+  <sub>[#173609](https://github.com/flutter/flutter/pull/173609) opened on on August 12, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/173609) 217 additions and 1094 deletions in 4 files</sub><br />
 
