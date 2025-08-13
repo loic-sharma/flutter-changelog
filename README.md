@@ -4,7 +4,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-23 commits.
+24 commits.
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …<br />
   <sub>[#173551](https://github.com/flutter/flutter/pull/173551) merged on August 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173551) over 4 minutes, 92 additions and 308 deletions in 5 files</sub><br />
@@ -70,6 +70,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enables vulkan for PowerVR B-Series<br />
   <sub>[#173561](https://github.com/flutter/flutter/pull/173561) merged on August 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173561) over 5 hours, 35 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Mark Linux_pixel_7pro linux_chrome_dev_mode as bringup<br />
+  <sub>[#173646](https://github.com/flutter/flutter/pull/173646) merged on August 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173646) over 21 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Move `--dtd-url` from a global flag to a `widget-preview start` option<br />
   <sub>[#173712](https://github.com/flutter/flutter/pull/173712) merged on August 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173712) over 1 hour, 9 additions and 11 deletions in 3 files</sub><br />

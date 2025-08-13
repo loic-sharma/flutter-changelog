@@ -86,9 +86,6 @@
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Mark Linux_pixel_7pro linux_chrome_dev_mode as bringup<br />
-  <sub>[#173646](https://github.com/flutter/flutter/pull/173646) opened on on August 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173646) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--machine` mode<br />
   <sub>[#173654](https://github.com/flutter/flutter/pull/173654) opened on on August 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173654) 276 additions and 7 deletions in 3 files</sub><br />
 
