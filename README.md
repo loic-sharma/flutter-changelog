@@ -761,7 +761,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-12 commits.
+13 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [3.35] Rename `entryPointBaseUrl` to `entrypointBaseUrl`<br />
   <sub>[#12134](https://github.com/flutter/website/pull/12134) merged on August 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12134) over 1 month, 1 addition and 1 deletion in 1 file</sub><br />
@@ -782,6 +782,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update supported platforms<br />
   <sub>[#12230](https://github.com/flutter/website/pull/12230) merged on August 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12230) over 3 weeks, 26 additions and 27 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [3.35] Update docs for hot reload on the web<br />
+  <sub>[#12216](https://github.com/flutter/website/pull/12216) merged on August 13, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12216) over 3 weeks, 59 additions and 44 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Nate Biggs](https://github.com/biggs0125), [Parker Lougheed](https://github.com/parlough), [Amanda Fitch](https://github.com/antfitch), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Emir Bolat](https://github.com/speeedev)** &mdash; Fix: Add missing `windowOptOutEdgeToEdgeEnforcement` to all relevant styles for SDK 35 compatibility<br />
   <sub>[#12280](https://github.com/flutter/website/pull/12280) merged on August 11, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12280) over 3 days, 14 additions and 3 deletions in 1 file</sub><br />
