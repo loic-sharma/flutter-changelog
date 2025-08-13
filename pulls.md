@@ -21,7 +21,7 @@
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
 
 * **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
-  <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/171646) 203 additions and 257 deletions in 2 files</sub><br />
+  <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/171646) 203 additions and 257 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
@@ -53,35 +53,14 @@
 * **[Jagadeesh S](https://github.com/jagadeesh8682)** &mdash; Step 1: Add markdown formatter tool selection and configuration<br />
   <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
 
-* **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Drawer barrier non dismissible with the escape key<br />
-  <sub>[#173263](https://github.com/flutter/flutter/pull/173263) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173263) 67 additions and 5 deletions in 2 files</sub><br />
-
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [VPAT][A11y] AutoComplete dropdown option is missing button role<br />
   <sub>[#173297](https://github.com/flutter/flutter/pull/173297) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173297) 48 additions and 13 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ChoiceChip doesn't crash in 0x0 environment<br />
-  <sub>[#173322](https://github.com/flutter/flutter/pull/173322) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173322) 14 additions and 0 deletions in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up Android API to set section locale<br />
   <sub>[#173364](https://github.com/flutter/flutter/pull/173364) opened on on August 6, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/173364) 423 additions and 195 deletions in 10 files</sub><br />
-
-* **[lauraywu](https://github.com/lauraywu)** &mdash; Add onHover callback support for TableRowInkWell<br />
-  <sub>[#173373](https://github.com/flutter/flutter/pull/173373) opened on on August 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173373) 27 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that CalendarDatePicker & YearPicker don't crash in 0x0 environment<br />
-  <sub>[#173408](https://github.com/flutter/flutter/pull/173408) opened on on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173408) 55 additions and 3 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CircleAvatar doesn't crash in 0x0 environment<br />
-  <sub>[#173498](https://github.com/flutter/flutter/pull/173498) opened on on August 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173498) 8 additions and 0 deletions in 1 file</sub><br />
-
-* **[6879756e](https://github.com/6879756e)** &mdash; 168625 make handle alignment for material design pixel perfect<br />
-  <sub>[#173511](https://github.com/flutter/flutter/pull/173511) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173511) 89 additions and 16 deletions in 8 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that DataTable, DataColumn, DataRow, and DataCell don't crash in 0x0 environment<br />
-  <sub>[#173515](https://github.com/flutter/flutter/pull/173515) opened on on August 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173515) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; web_ui: avoid crash for showPerformanceOverlay; log 'not supported' once<br />
   <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
@@ -107,9 +86,6 @@
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TableRowInkWell doesn't crash in 0x0 environment<br />
-  <sub>[#173627](https://github.com/flutter/flutter/pull/173627) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173627) 16 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Mark Linux_pixel_7pro linux_chrome_dev_mode as bringup<br />
   <sub>[#173646](https://github.com/flutter/flutter/pull/173646) opened on on August 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173646) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -122,15 +98,9 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Engine build setup for Android RISCV64.<br />
   <sub>[#173672](https://github.com/flutter/flutter/pull/173672) opened on on August 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173672) 211 additions and 5 deletions in 13 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DatePickerDialog doesn't crash in 0x0 environment<br />
-  <sub>[#173677](https://github.com/flutter/flutter/pull/173677) opened on on August 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173677) 10 additions and 0 deletions in 1 file</sub><br />
-
-* **[Jaineel Mamtora](https://github.com/Jaineel-Mamtora)** &mdash; fix: inconsistent horizontal spacing between hours and mins in time picker for non-english language<br />
-  <sub>[#173706](https://github.com/flutter/flutter/pull/173706) opened on on August 13, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173706) 35 additions and 2 deletions in 2 files</sub><br />
-
-* **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; Fix TimePicker: center separator vertically between times<br />
-  <sub>[#173714](https://github.com/flutter/flutter/pull/173714) opened on on August 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173714) 28 additions and 28 deletions in 2 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
   <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1558 additions and 105 deletions in 10 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Range slider] Tap on active range,  the thumb closest to the mouse cursor should move to the cursor position.<br />
+  <sub>[#173725](https://github.com/flutter/flutter/pull/173725) opened on on August 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/173725) 27 additions and 20 deletions in 2 files</sub><br />
 
