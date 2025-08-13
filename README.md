@@ -741,7 +741,11 @@
 
 ### August 9, 2025 to August 15, 2025
 
-10 commits.
+11 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [3.35] Rename `entryPointBaseUrl` to `entrypointBaseUrl`<br />
+  <sub>[#12134](https://github.com/flutter/website/pull/12134) merged on August 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12134) over 1 month, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add page on the Android sensitive content feature<br />
   <sub>[#12220](https://github.com/flutter/website/pull/12220) merged on August 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12220) over 3 weeks, 64 additions and 0 deletions in 2 files</sub><br />
