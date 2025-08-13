@@ -134,3 +134,6 @@
 * **[NencyFlutter ](https://github.com/nancyflutter)** &mdash; Snackbar a11y fix<br />
   <sub>[#173686](https://github.com/flutter/flutter/pull/173686) opened on on August 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173686) 33 additions and 12 deletions in 2 files</sub><br />
 
+* **[NencyFlutter ](https://github.com/nancyflutter)** &mdash; Cleanup embedder vulkan unittests & Enable Vulkan unit tests on macOS<br />
+  <sub>[#173688](https://github.com/flutter/flutter/pull/173688) opened on on August 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173688) 5 additions and 8 deletions in 3 files</sub><br />
+
