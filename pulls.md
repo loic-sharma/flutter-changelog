@@ -93,5 +93,5 @@
   <sub>[#173672](https://github.com/flutter/flutter/pull/173672) opened on on August 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173672) 213 additions and 6 deletions in 14 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
-  <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1558 additions and 105 deletions in 10 files</sub><br />
+  <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1534 additions and 105 deletions in 10 files</sub><br />
 
