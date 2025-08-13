@@ -137,3 +137,6 @@
 * **[NencyFlutter ](https://github.com/nancyflutter)** &mdash; Cleanup embedder vulkan unittests & Enable Vulkan unit tests on macOS<br />
   <sub>[#173688](https://github.com/flutter/flutter/pull/173688) opened on on August 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173688) 5 additions and 8 deletions in 3 files</sub><br />
 
+* **[Jaineel Mamtora](https://github.com/Jaineel-Mamtora)** &mdash; fix: inconsistent horizontal spacing between hours and mins in time picker for non-english language<br />
+  <sub>[#173706](https://github.com/flutter/flutter/pull/173706) opened on on August 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173706) 2 additions and 2 deletions in 1 file</sub><br />
+
