@@ -119,9 +119,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--machine` mode<br />
   <sub>[#173654](https://github.com/flutter/flutter/pull/173654) opened on on August 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173654) 276 additions and 7 deletions in 3 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [beta] Cherry pick fix GTK redraw call being called from non-GTK thread<br />
-  <sub>[#173669](https://github.com/flutter/flutter/pull/173669) opened on on August 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173669) 10 additions and 11 deletions in 1 file</sub><br />
-
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Update Chromium sysroot to pick up RISC-V support.<br />
   <sub>[#173671](https://github.com/flutter/flutter/pull/173671) opened on on August 13, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) 185 additions and 160 deletions in 4 files</sub><br />
 
