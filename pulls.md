@@ -131,3 +131,6 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Engine build setup for Android RISCV64.<br />
   <sub>[#173672](https://github.com/flutter/flutter/pull/173672) opened on on August 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173672) 211 additions and 5 deletions in 13 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DatePickerDialog doesn't crash in 0x0 environment<br />
+  <sub>[#173677](https://github.com/flutter/flutter/pull/173677) opened on on August 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173677) 10 additions and 0 deletions in 1 file</sub><br />
+
