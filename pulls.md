@@ -86,9 +86,6 @@
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--machine` mode<br />
-  <sub>[#173654](https://github.com/flutter/flutter/pull/173654) opened on on August 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173654) 276 additions and 7 deletions in 3 files</sub><br />
-
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Update Chromium sysroot to pick up RISC-V support.<br />
   <sub>[#173671](https://github.com/flutter/flutter/pull/173671) opened on on August 13, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) 185 additions and 160 deletions in 4 files</sub><br />
 
