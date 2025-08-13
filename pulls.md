@@ -95,3 +95,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
   <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1534 additions and 105 deletions in 10 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Thread sub-builders for every engine-uploading builder<br />
+  <sub>[#173742](https://github.com/flutter/flutter/pull/173742) opened on on August 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173742) 15 additions and 1 deletion in 7 files</sub><br />
+

@@ -640,11 +640,15 @@
 
 ### August 9, 2025 to August 15, 2025
 
-3 commits.
+4 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Migrate to Element2 API and update dependencies
   <sub>[#9649](https://github.com/flutter/packages/pull/9649) merged on August 13, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9649) over 3 weeks, 283 additions and 225 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Support extension types
+  <sub>[#9458](https://github.com/flutter/packages/pull/9458) merged on August 13, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/9458) over 1 month, 1722 additions and 2 deletions in 9 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[nikunjrCybage](https://github.com/nikunjrCybage)** &mdash; [in_app_purchase_storekit] Add support for quantity in consumable product purchases (#171570)
   <sub>[#9698](https://github.com/flutter/packages/pull/9698) merged on August 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9698) over 1 week, 44 additions and 1 deletion in 4 files</sub>
