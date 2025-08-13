@@ -116,6 +116,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TableRowInkWell doesn't crash in 0x0 environment<br />
   <sub>[#173627](https://github.com/flutter/flutter/pull/173627) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173627) 16 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Mark Linux_pixel_7pro linux_chrome_dev_mode as bringup<br />
+  <sub>[#173646](https://github.com/flutter/flutter/pull/173646) opened on on August 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173646) 1 addition and 0 deletions in 1 file</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--machine` mode<br />
   <sub>[#173654](https://github.com/flutter/flutter/pull/173654) opened on on August 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173654) 276 additions and 7 deletions in 3 files</sub><br />
 
