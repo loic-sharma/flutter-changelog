@@ -140,3 +140,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Move `--dtd-url` from a global flag to a `widget-preview start` option<br />
   <sub>[#173712](https://github.com/flutter/flutter/pull/173712) opened on on August 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173712) 9 additions and 11 deletions in 3 files</sub><br />
 
+* **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; Fix TimePicker: center separator vertically between times<br />
+  <sub>[#173714](https://github.com/flutter/flutter/pull/173714) opened on on August 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173714) 0 additions and 1 deletion in 1 file</sub><br />
+
