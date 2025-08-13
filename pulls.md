@@ -135,5 +135,5 @@
   <sub>[#173714](https://github.com/flutter/flutter/pull/173714) opened on on August 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173714) 28 additions and 28 deletions in 2 files</sub><br />
 
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; Considers large title height in CupertinoNavigationBar's preferred size<br />
-  <sub>[#173722](https://github.com/flutter/flutter/pull/173722) opened on on August 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173722) 121 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#173722](https://github.com/flutter/flutter/pull/173722) opened on on August 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173722) 121 additions and 1 deletion in 2 files</sub><br />
 
