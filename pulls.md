@@ -95,3 +95,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
   <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1558 additions and 105 deletions in 10 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Do not include `:unittests` unless `enable_unittests`<br />
+  <sub>[#173734](https://github.com/flutter/flutter/pull/173734) opened on on August 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173734) 3 additions and 1 deletion in 1 file</sub><br />
+
