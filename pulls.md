@@ -74,9 +74,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that CalendarDatePicker & YearPicker don't crash in 0x0 environment<br />
   <sub>[#173408](https://github.com/flutter/flutter/pull/173408) opened on on August 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173408) 55 additions and 3 deletions in 2 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [WIP] [web] Unify Renderer frontend code<br />
-  <sub>[#173426](https://github.com/flutter/flutter/pull/173426) opened on on August 7, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/173426) 1634 additions and 4911 deletions in 105 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CircleAvatar doesn't crash in 0x0 environment<br />
   <sub>[#173498](https://github.com/flutter/flutter/pull/173498) opened on on August 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173498) 8 additions and 0 deletions in 1 file</sub><br />
 
@@ -133,9 +130,6 @@
 
 * **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; Fix TimePicker: center separator vertically between times<br />
   <sub>[#173714](https://github.com/flutter/flutter/pull/173714) opened on on August 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173714) 28 additions and 28 deletions in 2 files</sub><br />
-
-* **[romain.gyh](https://github.com/romaingyh)** &mdash; Considers large title height in CupertinoNavigationBar's preferred size<br />
-  <sub>[#173722](https://github.com/flutter/flutter/pull/173722) opened on on August 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173722) 122 additions and 2 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
   <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1558 additions and 105 deletions in 10 files</sub><br />
