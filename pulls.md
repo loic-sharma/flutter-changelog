@@ -132,7 +132,7 @@
   <sub>[#173686](https://github.com/flutter/flutter/pull/173686) opened on on August 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173686) 33 additions and 12 deletions in 2 files</sub><br />
 
 * **[Jaineel Mamtora](https://github.com/Jaineel-Mamtora)** &mdash; fix: inconsistent horizontal spacing between hours and mins in time picker for non-english language<br />
-  <sub>[#173706](https://github.com/flutter/flutter/pull/173706) opened on on August 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173706) 35 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#173706](https://github.com/flutter/flutter/pull/173706) opened on on August 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173706) 35 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Move `--dtd-url` from a global flag to a `widget-preview start` option<br />
   <sub>[#173712](https://github.com/flutter/flutter/pull/173712) opened on on August 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173712) 9 additions and 11 deletions in 3 files</sub><br />
