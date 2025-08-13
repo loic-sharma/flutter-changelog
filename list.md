@@ -332,7 +332,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [flutter_tools] Add --no-codesign support for macOS build
-  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub>
+  <sub>[#169034](https://github.com/flutter/flutter/pull/169034) merged on July 28, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/169034) over 2 months, 67 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: get content hash for master on local engine branches
