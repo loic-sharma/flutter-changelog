@@ -131,3 +131,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DatePickerDialog doesn't crash in 0x0 environment<br />
   <sub>[#173677](https://github.com/flutter/flutter/pull/173677) opened on on August 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173677) 10 additions and 0 deletions in 1 file</sub><br />
 
+* **[NencyFlutter ](https://github.com/nancyflutter)** &mdash; Snackbar a11y fix<br />
+  <sub>[#173686](https://github.com/flutter/flutter/pull/173686) opened on on August 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173686) 33 additions and 12 deletions in 2 files</sub><br />
+
