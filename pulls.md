@@ -101,6 +101,3 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
   <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1558 additions and 105 deletions in 10 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Range slider] Tap on active range,  the thumb closest to the mouse cursor should move to the cursor position.<br />
-  <sub>[#173725](https://github.com/flutter/flutter/pull/173725) opened on on August 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/173725) 27 additions and 20 deletions in 2 files</sub><br />
-
