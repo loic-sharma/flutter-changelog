@@ -98,9 +98,6 @@
 * **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; flutter_tools: Fix Android settings.gradle.kts template Properties import<br />
   <sub>[#173527](https://github.com/flutter/flutter/pull/173527) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173527) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[NencyFlutter ](https://github.com/nancyflutter)** &mdash; fix: Announce Snackbar message for accessibility compliance.<br />
-  <sub>[#173528](https://github.com/flutter/flutter/pull/173528) opened on on August 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173528) 29 additions and 18 deletions in 4 files</sub><br />
-
 * **[klaus-jakobsen-se](https://github.com/klaus-jakobsen-se)** &mdash; [Webview][iOS][Webgl] Gesture issue <br />
   <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
 
