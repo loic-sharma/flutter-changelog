@@ -137,3 +137,6 @@
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; Considers large title height in CupertinoNavigationBar's preferred size<br />
   <sub>[#173722](https://github.com/flutter/flutter/pull/173722) opened on on August 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173722) 121 additions and 1 deletion in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
+  <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1558 additions and 105 deletions in 10 files</sub><br />
+
