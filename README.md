@@ -809,7 +809,11 @@
 
 ### August 9, 2025 to August 15, 2025
 
-14 commits.
+15 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Add a quick version of getting started<br />
+  <sub>[#12052](https://github.com/flutter/website/pull/12052) merged on August 14, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/website/pull/12052) over 2 months, 503 additions and 5 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Ander Dobo](https://github.com/anderdobo), [Amanda Fitch](https://github.com/antfitch)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [3.35] Rename `entryPointBaseUrl` to `entrypointBaseUrl`<br />
   <sub>[#12134](https://github.com/flutter/website/pull/12134) merged on August 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12134) over 1 month, 1 addition and 1 deletion in 1 file</sub><br />
