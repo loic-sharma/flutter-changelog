@@ -190,6 +190,10 @@
   <sub>[#171648](https://github.com/flutter/flutter/pull/171648) merged on August 9, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/171648) over 1 month, 308 additions and 92 deletions in 5 files</sub>
   <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan), [Ben Konyi](https://github.com/bkonyi), [Nate Biggs](https://github.com/biggs0125), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix tooltip crash when route has secondary animation
+  <sub>[#172678](https://github.com/flutter/flutter/pull/172678) merged on August 8, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/172678) over 2 weeks, 72 additions and 19 deletions in 2 files</sub>
+  <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[Micael Cid](https://github.com/micaelcid)** &mdash; [web] add --static-assets-url argument to build web
   <sub>[#171638](https://github.com/flutter/flutter/pull/171638) merged on August 7, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/171638) over 1 month, 174 additions and 0 deletions in 8 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
@@ -202,10 +206,6 @@
   <sub>[#173284](https://github.com/flutter/flutter/pull/173284) merged on August 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173284) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
   <sub><details><summary>1 image...</summary><img width="1242" height="257" alt="Screenshot 2025-08-05 at 9 13 55 AM" src="https://github.com/user-attachments/assets/248de580-27ca-4704-9754-a109e961fb6f" /></details></sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix tooltip crash when route has secondary animation
-  <sub>[#172678](https://github.com/flutter/flutter/pull/172678) merged on August 8, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/172678) over 2 weeks, 72 additions and 19 deletions in 2 files</sub>
-  <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios26]Do not report error for Info.plist key not found
   <sub>[#172913](https://github.com/flutter/flutter/pull/172913) merged on August 7, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/172913) over 1 week, 136 additions and 11 deletions in 3 files</sub>
