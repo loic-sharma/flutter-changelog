@@ -15,13 +15,13 @@
   <sub>[#168547](https://github.com/flutter/flutter/pull/168547) merged on August 13, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/168547) over 3 months, 179 additions and 58 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
-* **[Albin PK](https://github.com/albinpk)** &mdash; fix: selected date decorator renders outside PageView in `DatePickerDialog` dialog<br />
-  <sub>[#171718](https://github.com/flutter/flutter/pull/171718) merged on August 13, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/171718) over 1 month, 36 additions and 7 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Huy](https://github.com/huycozy)</sub><br />
-
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix visual overlap of transparent routes barrier when using FadeForwardsPageTransitionsBuilder<br />
   <sub>[#167032](https://github.com/flutter/flutter/pull/167032) merged on August 13, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/167032) over 4 months, 103 additions and 22 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Albin PK](https://github.com/albinpk)** &mdash; fix: selected date decorator renders outside PageView in `DatePickerDialog` dialog<br />
+  <sub>[#171718](https://github.com/flutter/flutter/pull/171718) merged on August 13, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/171718) over 1 month, 36 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Huy](https://github.com/huycozy)</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Regular windows win32 engine<br />
   <sub>[#173424](https://github.com/flutter/flutter/pull/173424) merged on August 13, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173424) over 5 days, 626 additions and 79 deletions in 7 files</sub><br />
