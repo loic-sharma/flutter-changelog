@@ -107,3 +107,6 @@
 * **[Gagan Yadav](https://github.com/gaganyadav80)** &mdash; [Part 1] feat: updates text field maxLines to double<br />
   <sub>[#173761](https://github.com/flutter/flutter/pull/173761) opened on on August 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173761) 77 additions and 77 deletions in 12 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Use DWDS 25.0.0<br />
+  <sub>[#173777](https://github.com/flutter/flutter/pull/173777) opened on on August 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173777) 27 additions and 46 deletions in 4 files</sub><br />
+
