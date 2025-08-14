@@ -102,5 +102,5 @@
   <sub>[#173754](https://github.com/flutter/flutter/pull/173754) opened on on August 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173754) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Return result of setting OpenGL contexts back to Flutter<br />
-  <sub>[#173757](https://github.com/flutter/flutter/pull/173757) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173757) 33 additions and 19 deletions in 4 files</sub><br />
+  <sub>[#173757](https://github.com/flutter/flutter/pull/173757) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173757) 39 additions and 21 deletions in 4 files</sub><br />
 
