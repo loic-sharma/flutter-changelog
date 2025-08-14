@@ -817,7 +817,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-15 commits.
+16 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Add a quick version of getting started
   <sub>[#12052](https://github.com/flutter/website/pull/12052) merged on August 14, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/website/pull/12052) over 2 months, 503 additions and 5 deletions in 5 files</sub>
@@ -850,6 +850,10 @@
 * **[Emir Bolat](https://github.com/speeedev)** &mdash; Fix: Add missing `windowOptOutEdgeToEdgeEnforcement` to all relevant styles for SDK 35 compatibility
   <sub>[#12280](https://github.com/flutter/website/pull/12280) merged on August 11, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12280) over 3 days, 14 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update SDK constraints, deps, and samples for 3.9 and 3.35
+  <sub>[#12287](https://github.com/flutter/website/pull/12287) merged on August 14, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/12287) over 4 days, 205 additions and 205 deletions in 154 files</sub>
+  <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update breaking changes index and release versions for 3.35
   <sub>[#12286](https://github.com/flutter/website/pull/12286) merged on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12286) over 1 day, 83 additions and 66 deletions in 9 files</sub>

@@ -47,9 +47,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Experiment with Xcode 26 beta 4<br />
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Improve xcresult comment and naming<br />
-  <sub>[#173129](https://github.com/flutter/flutter/pull/173129) opened on on August 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173129) 10 additions and 10 deletions in 1 file</sub><br />
-
 * **[Jagadeesh S](https://github.com/jagadeesh8682)** &mdash; Step 1: Add markdown formatter tool selection and configuration<br />
   <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
 
@@ -58,9 +55,6 @@
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [VPAT][A11y] AutoComplete dropdown option is missing button role<br />
   <sub>[#173297](https://github.com/flutter/flutter/pull/173297) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173297) 48 additions and 13 deletions in 2 files</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up Android API to set section locale<br />
-  <sub>[#173364](https://github.com/flutter/flutter/pull/173364) opened on on August 6, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/173364) 423 additions and 195 deletions in 10 files</sub><br />
 
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; web_ui: avoid crash for showPerformanceOverlay; log 'not supported' once<br />
   <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
@@ -71,17 +65,11 @@
 * **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; flutter_tools: Fix Android settings.gradle.kts template Properties import<br />
   <sub>[#173527](https://github.com/flutter/flutter/pull/173527) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173527) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[klaus-jakobsen-se](https://github.com/klaus-jakobsen-se)** &mdash; [Webview][iOS][Webgl] Gesture issue <br />
-  <sub>[#173549](https://github.com/flutter/flutter/pull/173549) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173549) 0 additions and 296 deletions in 4 files</sub><br />
-
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
   <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173570) 200 additions and 52 deletions in 4 files</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; Add glob syntax to proxy<br />
   <sub>[#173591](https://github.com/flutter/flutter/pull/173591) opened on on August 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173591) 254 additions and 2 deletions in 2 files</sub><br />
-
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix autofill context cleanup and view lifecycle management<br />
-  <sub>[#173598](https://github.com/flutter/flutter/pull/173598) opened on on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173598) 139 additions and 23 deletions in 2 files</sub><br />
 
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
@@ -105,5 +93,5 @@
   <sub>[#173761](https://github.com/flutter/flutter/pull/173761) opened on on August 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173761) 77 additions and 77 deletions in 12 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Use DWDS 25.0.0<br />
-  <sub>[#173777](https://github.com/flutter/flutter/pull/173777) opened on on August 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173777) 54 additions and 73 deletions in 4 files</sub><br />
+  <sub>[#173777](https://github.com/flutter/flutter/pull/173777) opened on on August 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173777) 54 additions and 73 deletions in 4 files</sub><br />
 
