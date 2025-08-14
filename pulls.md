@@ -29,9 +29,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
   <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
 
-* **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
-  <sub>[#172704](https://github.com/flutter/flutter/pull/172704) opened on on July 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172704) 156 additions and 2 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable Firefox auto-updates<br />
   <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 26 additions and 1 deletion in 3 files</sub><br />
 
@@ -77,9 +74,6 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Update Chromium sysroot to pick up RISC-V support.<br />
   <sub>[#173671](https://github.com/flutter/flutter/pull/173671) opened on on August 13, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) 185 additions and 160 deletions in 4 files</sub><br />
 
-* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Engine build setup for Android RISCV64.<br />
-  <sub>[#173672](https://github.com/flutter/flutter/pull/173672) opened on on August 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173672) 213 additions and 6 deletions in 14 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
   <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1534 additions and 105 deletions in 10 files</sub><br />
 
@@ -87,7 +81,7 @@
   <sub>[#173754](https://github.com/flutter/flutter/pull/173754) opened on on August 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173754) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Return result of setting OpenGL contexts back to Flutter<br />
-  <sub>[#173757](https://github.com/flutter/flutter/pull/173757) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173757) 39 additions and 21 deletions in 4 files</sub><br />
+  <sub>[#173757](https://github.com/flutter/flutter/pull/173757) opened on on August 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173757) 39 additions and 21 deletions in 4 files</sub><br />
 
 * **[Gagan Yadav](https://github.com/gaganyadav80)** &mdash; [Part 1] feat: updates text field maxLines to double<br />
   <sub>[#173761](https://github.com/flutter/flutter/pull/173761) opened on on August 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173761) 77 additions and 77 deletions in 12 files</sub><br />

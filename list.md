@@ -685,7 +685,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-5 commits.
+6 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Migrate to Element2 API and update dependencies
   <sub>[#9649](https://github.com/flutter/packages/pull/9649) merged on August 13, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9649) over 3 weeks, 283 additions and 225 deletions in 12 files</sub>
@@ -701,6 +701,10 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Improves documentation of `ProxyApi` and moves helper functions to a separate file
   <sub>[#9756](https://github.com/flutter/packages/pull/9756) merged on August 11, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/9756) over 6 days, 967 additions and 947 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [image_picker] Add the ability to pick multiple videos - platform_interface
+  <sub>[#9804](https://github.com/flutter/packages/pull/9804) merged on August 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9804) over 8 hours, 54 additions and 2 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add review agent style guidelines to .gemini/styleguide.md
