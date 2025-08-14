@@ -20,9 +20,6 @@
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
 
-* **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
-  <sub>[#171646](https://github.com/flutter/flutter/pull/171646) opened on on July 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/171646) 54 additions and 7 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
 
@@ -97,4 +94,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ios][tools]do not log "bonjour not found" at all (unless verbose)<br />
   <sub>[#173806](https://github.com/flutter/flutter/pull/173806) opened on on August 14, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/173806) 284 additions and 95 deletions in 3 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Blocked vulkan on mali-g76 samsung phones<br />
+  <sub>[#173807](https://github.com/flutter/flutter/pull/173807) opened on on August 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173807) 26 additions and 4 deletions in 1 file</sub><br />
 
