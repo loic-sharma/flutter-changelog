@@ -92,9 +92,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Use DWDS 25.0.0<br />
   <sub>[#173777](https://github.com/flutter/flutter/pull/173777) opened on on August 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173777) 55 additions and 74 deletions in 5 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Read `bin/cache/flutter.version.json` instead of `version` for `flutter_gallery`<br />
-  <sub>[#173797](https://github.com/flutter/flutter/pull/173797) opened on on August 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173797) 4 additions and 1 deletion in 1 file</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `luci_flags.parallel_download_builds` and friends<br />
   <sub>[#173799](https://github.com/flutter/flutter/pull/173799) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173799) 0 additions and 34 deletions in 17 files</sub><br />
 
