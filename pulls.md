@@ -93,5 +93,5 @@
   <sub>[#173761](https://github.com/flutter/flutter/pull/173761) opened on on August 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173761) 77 additions and 77 deletions in 12 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Use DWDS 25.0.0<br />
-  <sub>[#173777](https://github.com/flutter/flutter/pull/173777) opened on on August 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173777) 55 additions and 74 deletions in 5 files</sub><br />
+  <sub>[#173777](https://github.com/flutter/flutter/pull/173777) opened on on August 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173777) 55 additions and 74 deletions in 5 files</sub><br />
 
