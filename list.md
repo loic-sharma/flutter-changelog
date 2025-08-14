@@ -19,13 +19,13 @@
   <sub>[#165832](https://github.com/flutter/flutter/pull/165832) merged on August 14, 2025 &mdash; **Medium:** [40 comments](https://github.com/flutter/flutter/pull/165832) over 4 months, 388 additions and 48 deletions in 23 files</sub>
   <sub>Reviewed by: [Bent Hillerkus](https://github.com/benthillerkus), [chunhtai](https://github.com/chunhtai), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[EdwynZN](https://github.com/EdwynZN)** &mdash; Fix default minimumSize in dropdownMenu when maximumSize is null
-  <sub>[#169438](https://github.com/flutter/flutter/pull/169438) merged on August 14, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/169438) over 2 months, 71 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Justin McCandless](https://github.com/justinmc)</sub>
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add error handling for `Element` lifecycle user callbacks
   <sub>[#173148](https://github.com/flutter/flutter/pull/173148) merged on August 14, 2025 &mdash; **Medium:** [47 comments](https://github.com/flutter/flutter/pull/173148) over 1 week, 242 additions and 91 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[EdwynZN](https://github.com/EdwynZN)** &mdash; Fix default minimumSize in dropdownMenu when maximumSize is null
+  <sub>[#169438](https://github.com/flutter/flutter/pull/169438) merged on August 14, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/169438) over 2 months, 71 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; [VPAT][A11y] Announce Autocomplete search results status
   <sub>[#173480](https://github.com/flutter/flutter/pull/173480) merged on August 14, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/173480) over 5 days, 818 additions and 78 deletions in 84 files</sub>
