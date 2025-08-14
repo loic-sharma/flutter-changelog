@@ -96,7 +96,7 @@
   <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1534 additions and 105 deletions in 10 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Thread sub-builders for every engine-uploading builder<br />
-  <sub>[#173742](https://github.com/flutter/flutter/pull/173742) opened on on August 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173742) 15 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#173742](https://github.com/flutter/flutter/pull/173742) opened on on August 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173742) 15 additions and 1 deletion in 7 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DateRangePickerDialog doesn't crash in 0x0 environments<br />
   <sub>[#173754](https://github.com/flutter/flutter/pull/173754) opened on on August 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173754) 10 additions and 0 deletions in 1 file</sub><br />
@@ -105,5 +105,5 @@
   <sub>[#173757](https://github.com/flutter/flutter/pull/173757) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173757) 39 additions and 21 deletions in 4 files</sub><br />
 
 * **[Gagan Yadav](https://github.com/gaganyadav80)** &mdash; [Part 1] feat: updates text field maxLines to double<br />
-  <sub>[#173761](https://github.com/flutter/flutter/pull/173761) opened on on August 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173761) 77 additions and 77 deletions in 12 files</sub><br />
+  <sub>[#173761](https://github.com/flutter/flutter/pull/173761) opened on on August 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173761) 77 additions and 77 deletions in 12 files</sub><br />
 
