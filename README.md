@@ -809,7 +809,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-13 commits.
+14 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [3.35] Rename `entryPointBaseUrl` to `entrypointBaseUrl`<br />
   <sub>[#12134](https://github.com/flutter/website/pull/12134) merged on August 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12134) over 1 month, 1 addition and 1 deletion in 1 file</sub><br />
@@ -842,6 +842,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update breaking changes index and release versions for 3.35<br />
   <sub>[#12286](https://github.com/flutter/website/pull/12286) merged on August 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12286) over 1 day, 83 additions and 66 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Update firebase.json<br />
+  <sub>[#12302](https://github.com/flutter/website/pull/12302) merged on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12302) over 6 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; [flutter 3.35] Add "Working with AI" page<br />
   <sub>[#12275](https://github.com/flutter/website/pull/12275) merged on August 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12275) over 6 days, 117 additions and 18 deletions in 2 files</sub><br />
