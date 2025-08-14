@@ -93,8 +93,8 @@
   <sub>[#173799](https://github.com/flutter/flutter/pull/173799) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173799) 0 additions and 34 deletions in 17 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][tools]do not log "bonjour not found" at all (unless verbose)<br />
-  <sub>[#173805](https://github.com/flutter/flutter/pull/173805) opened on on August 14, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173805) 284 additions and 95 deletions in 3 files</sub><br />
+  <sub>[#173805](https://github.com/flutter/flutter/pull/173805) opened on on August 14, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/173805) 284 additions and 95 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ios][tools]do not log "bonjour not found" at all (unless verbose)<br />
-  <sub>[#173806](https://github.com/flutter/flutter/pull/173806) opened on on August 14, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/173806) 284 additions and 95 deletions in 3 files</sub><br />
+  <sub>[#173806](https://github.com/flutter/flutter/pull/173806) opened on on August 14, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/173806) 284 additions and 95 deletions in 3 files</sub><br />
 
