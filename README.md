@@ -7,7 +7,7 @@
 55 commits.
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
-  <sub>[#169293](https://github.com/flutter/flutter/pull/169293) merged on August 14, 2025 &mdash; **Extra large:** [127 comments](https://github.com/flutter/flutter/pull/169293) over 2 months, 1250 additions and 710 deletions in 10 files</sub><br />
+  <sub>[#169293](https://github.com/flutter/flutter/pull/169293) merged on August 14, 2025 &mdash; **Extra large:** [128 comments](https://github.com/flutter/flutter/pull/169293) over 2 months, 1250 additions and 710 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Revert "Make device debuggable if useDwdsWebSocketConnection is true …<br />
