@@ -83,6 +83,9 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate deeplink json creation to public AGP api<br />
   <sub>[#173794](https://github.com/flutter/flutter/pull/173794) opened on on August 14, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/173794) 616 additions and 350 deletions in 8 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; FlutterTextRange / FlutterTextPosition to swift<br />
+  <sub>[#173808](https://github.com/flutter/flutter/pull/173808) opened on on August 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173808) 153 additions and 135 deletions in 4 files</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup legacy `bringup: true` tasks, either removing or enabling<br />
   <sub>[#173815](https://github.com/flutter/flutter/pull/173815) opened on on August 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173815) 0 additions and 27 deletions in 1 file</sub><br />
 
@@ -103,4 +106,7 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] remove the deprecated `focusable` flag in Focus widget. <br />
   <sub>[#173880](https://github.com/flutter/flutter/pull/173880) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173880) 13 additions and 26 deletions in 3 files</sub><br />
+
+* **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Revert "Implements the Android native stretch effect as a fragment shader (Impeller-only)."<br />
+  <sub>[#173883](https://github.com/flutter/flutter/pull/173883) opened on on August 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173883) 0 additions and 0 deletions in 0 files</sub><br />
 
