@@ -108,5 +108,5 @@
   <sub>[#173881](https://github.com/flutter/flutter/pull/173881) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173881) 191 additions and 0 deletions in 4 files</sub><br />
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Revert "Implements the Android native stretch effect as a fragment shader (Impeller-only)."<br />
-  <sub>[#173883](https://github.com/flutter/flutter/pull/173883) opened on on August 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173883) 0 additions and 0 deletions in 0 files</sub><br />
+  <sub>[#173885](https://github.com/flutter/flutter/pull/173885) opened on on August 15, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/173885) 1251 additions and 710 deletions in 11 files</sub><br />
 
