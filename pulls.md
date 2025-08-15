@@ -95,9 +95,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue where SingleChildScrollView resets its scroll position after relayout.<br />
   <sub>[#173857](https://github.com/flutter/flutter/pull/173857) opened on on August 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173857) 74 additions and 19 deletions in 5 files</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland predictive back route transitions by default<br />
-  <sub>[#173860](https://github.com/flutter/flutter/pull/173860) opened on on August 15, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/173860) 400 additions and 49 deletions in 24 files</sub><br />
-
 * **[Seth Ladd](https://github.com/sethladd)** &mdash; Update CHANGELOG.md to include link to 3.35 changelog<br />
   <sub>[#173869](https://github.com/flutter/flutter/pull/173869) opened on on August 15, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173869) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -107,6 +104,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [HCPP] Clean up overlay layer when last frame had overlay content and current doesn't<br />
   <sub>[#173881](https://github.com/flutter/flutter/pull/173881) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173881) 191 additions and 0 deletions in 4 files</sub><br />
 
-* **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Revert "Implements the Android native stretch effect as a fragment shader (Impeller-only)."<br />
+* **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Retry "Implements the Android native stretch effect as a fragment shader (Impeller-only)."<br />
   <sub>[#173885](https://github.com/flutter/flutter/pull/173885) opened on on August 15, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173885) 1251 additions and 710 deletions in 11 files</sub><br />
 
