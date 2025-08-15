@@ -105,5 +105,5 @@
   <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173862) 132 additions and 2 deletions in 3 files</sub><br />
 
 * **[Seth Ladd](https://github.com/sethladd)** &mdash; Update CHANGELOG.md to include link to 3.35 changelog<br />
-  <sub>[#173869](https://github.com/flutter/flutter/pull/173869) opened on on August 15, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/173869) 4052 additions and 446 deletions in 51 files</sub><br />
+  <sub>[#173869](https://github.com/flutter/flutter/pull/173869) opened on on August 15, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173869) 1 addition and 1 deletion in 1 file</sub><br />
 

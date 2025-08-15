@@ -733,7 +733,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-14 commits.
+15 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Migrate to Element2 API and update dependencies
   <sub>[#9649](https://github.com/flutter/packages/pull/9649) merged on August 13, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9649) over 3 weeks, 283 additions and 225 deletions in 12 files</sub>
@@ -759,6 +759,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move Android buffer updates to Dart
   <sub>[#9771](https://github.com/flutter/packages/pull/9771) merged on August 15, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/packages/pull/9771) over 1 week, 445 additions and 146 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [image_picker_ios] Add photo to simulator Photos library during test
+  <sub>[#9759](https://github.com/flutter/packages/pull/9759) merged on August 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9759) over 1 week, 75 additions and 22 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [in_app_purchase] Updates min SDK to 3.29
   <sub>[#9825](https://github.com/flutter/packages/pull/9825) merged on August 15, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9825) over 4 hours, 6380 additions and 5143 deletions in 92 files</sub>
