@@ -153,8 +153,8 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DatePickerDialog doesn't crash in 0x0 environment
-  <sub>[#173677](https://github.com/flutter/flutter/pull/173677) merged on August 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173677) over 1 day, 10 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub>[#173677](https://github.com/flutter/flutter/pull/173677) merged on August 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173677) over 1 day, 10 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix run_linux_chrome_dev_mode
   <sub>[#173647](https://github.com/flutter/flutter/pull/173647) merged on August 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173647) over 36 minutes, 4 additions and 4 deletions in 1 file</sub>
