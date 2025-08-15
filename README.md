@@ -729,7 +729,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-11 commits.
+12 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Migrate to Element2 API and update dependencies<br />
   <sub>[#9649](https://github.com/flutter/packages/pull/9649) merged on August 13, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9649) over 3 weeks, 283 additions and 225 deletions in 12 files</sub><br />
@@ -755,6 +755,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move Android buffer updates to Dart<br />
   <sub>[#9771](https://github.com/flutter/packages/pull/9771) merged on August 15, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/packages/pull/9771) over 1 week, 445 additions and 146 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [go_router] Update generated output format<br />
+  <sub>[#9817](https://github.com/flutter/packages/pull/9817) merged on August 15, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/9817) over 3 hours, 2048 additions and 2136 deletions in 38 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Simplify native iOS code<br />
   <sub>[#9800](https://github.com/flutter/packages/pull/9800) merged on August 15, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/9800) over 1 day, 485 additions and 370 deletions in 16 files</sub><br />
