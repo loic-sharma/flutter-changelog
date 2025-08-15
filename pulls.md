@@ -72,7 +72,7 @@
   <sub>[#173671](https://github.com/flutter/flutter/pull/173671) opened on on August 13, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) 185 additions and 160 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
-  <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1534 additions and 105 deletions in 10 files</sub><br />
+  <sub>[#173724](https://github.com/flutter/flutter/pull/173724) opened on on August 13, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173724) 1535 additions and 105 deletions in 10 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DateRangePickerDialog doesn't crash in 0x0 environments<br />
   <sub>[#173754](https://github.com/flutter/flutter/pull/173754) opened on on August 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173754) 10 additions and 0 deletions in 1 file</sub><br />
@@ -111,8 +111,8 @@
   <sub>[#173860](https://github.com/flutter/flutter/pull/173860) opened on on August 15, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/173860) 401 additions and 48 deletions in 24 files</sub><br />
 
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [SchedulerBinding] Add forceFramesEnabled to allow rendering when app is hidden or paused<br />
-  <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173862) 144 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173862) 143 additions and 2 deletions in 3 files</sub><br />
 
 * **[Seth Ladd](https://github.com/sethladd)** &mdash; Update CHANGELOG.md to include link to 3.35 changelog<br />
-  <sub>[#173869](https://github.com/flutter/flutter/pull/173869) opened on on August 15, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/173869) 4052 additions and 446 deletions in 51 files</sub><br />
+  <sub>[#173869](https://github.com/flutter/flutter/pull/173869) opened on on August 15, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/173869) 4052 additions and 446 deletions in 51 files</sub><br />
 
