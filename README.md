@@ -729,7 +729,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-7 commits.
+8 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Migrate to Element2 API and update dependencies<br />
   <sub>[#9649](https://github.com/flutter/packages/pull/9649) merged on August 13, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9649) over 3 weeks, 283 additions and 225 deletions in 12 files</sub><br />
@@ -738,6 +738,11 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Support extension types<br />
   <sub>[#9458](https://github.com/flutter/packages/pull/9458) merged on August 13, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/9458) over 1 month, 1722 additions and 2 deletions in 9 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [url_launcher_ios] Fix test button text to work on iOS 26<br />
+  <sub>[#9766](https://github.com/flutter/packages/pull/9766) merged on August 15, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/9766) over 1 week, 9 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="406" height="575" alt="Screenshot 2025-08-13 at 3 45 02 PM" src="https://github.com/user-attachments/assets/5c7460f1-626c-404b-9de4-0827e34cd910" /></details></sub>
 
 * **[nikunjrCybage](https://github.com/nikunjrCybage)** &mdash; [in_app_purchase_storekit] Add support for quantity in consumable product purchases (#171570)<br />
   <sub>[#9698](https://github.com/flutter/packages/pull/9698) merged on August 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9698) over 1 week, 44 additions and 1 deletion in 4 files</sub><br />
