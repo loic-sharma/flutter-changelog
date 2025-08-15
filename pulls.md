@@ -107,3 +107,6 @@
 * **[Seth Ladd](https://github.com/sethladd)** &mdash; Update CHANGELOG.md to include link to 3.35 changelog<br />
   <sub>[#173869](https://github.com/flutter/flutter/pull/173869) opened on on August 15, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173869) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] remove the deprecated `focusable` flag in Focus widget. <br />
+  <sub>[#173880](https://github.com/flutter/flutter/pull/173880) opened on on August 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/173880) 13 additions and 26 deletions in 3 files</sub><br />
+
