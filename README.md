@@ -733,7 +733,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-13 commits.
+14 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Migrate to Element2 API and update dependencies<br />
   <sub>[#9649](https://github.com/flutter/packages/pull/9649) merged on August 13, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9649) over 3 weeks, 283 additions and 225 deletions in 12 files</sub><br />
@@ -779,6 +779,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [vector_graphics_compiler] Set the m4_10 (Z scale) value to 1 when constructing an AffineMatrix from an SVG matrix<br />
   <sub>[#9813](https://github.com/flutter/packages/pull/9813) merged on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9813) over 17 hours, 8 additions and 7 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Updates `README` with information about enabling desugaring on Android<br />
+  <sub>[#9790](https://github.com/flutter/packages/pull/9790) merged on August 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9790) over 3 days, 52 additions and 7 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [image_picker] Add the ability to pick multiple videos - platform_interface<br />
   <sub>[#9804](https://github.com/flutter/packages/pull/9804) merged on August 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9804) over 8 hours, 54 additions and 2 deletions in 6 files</sub><br />
