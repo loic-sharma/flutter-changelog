@@ -181,7 +181,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DatePickerDialog doesn't crash in 0x0 environment<br />
-  <sub>[#173677](https://github.com/flutter/flutter/pull/173677) merged on August 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173677) over 1 day, 10 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#173677](https://github.com/flutter/flutter/pull/173677) merged on August 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173677) over 1 day, 10 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Return result of setting OpenGL contexts back to Flutter<br />
