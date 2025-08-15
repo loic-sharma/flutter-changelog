@@ -105,5 +105,5 @@
   <sub>[#173849](https://github.com/flutter/flutter/pull/173849) opened on on August 15, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/173849) 215 additions and 142 deletions in 2 files</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Create Hot Restart over websocket test<br />
-  <sub>[#173852](https://github.com/flutter/flutter/pull/173852) opened on on August 15, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/173852) 283 additions and 122 deletions in 3 files</sub><br />
+  <sub>[#173852](https://github.com/flutter/flutter/pull/173852) opened on on August 15, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/173852) 288 additions and 122 deletions in 3 files</sub><br />
 
