@@ -26,9 +26,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: expose FLUTTER_CONTENT_HASH in flutter tool and other places<br />
   <sub>[#172599](https://github.com/flutter/flutter/pull/172599) opened on on July 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172599) 123 additions and 30 deletions in 37 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable Firefox auto-updates<br />
-  <sub>[#172775](https://github.com/flutter/flutter/pull/172775) opened on on July 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/172775) 26 additions and 1 deletion in 3 files</sub><br />
-
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172829) 66 additions and 6 deletions in 3 files</sub><br />
 
@@ -93,7 +90,7 @@
   <sub>[#173815](https://github.com/flutter/flutter/pull/173815) opened on on August 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173815) 0 additions and 27 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbarButton doesn't crash in 0…<br />
-  <sub>[#173827](https://github.com/flutter/flutter/pull/173827) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173827) 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#173827](https://github.com/flutter/flutter/pull/173827) opened on on August 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173827) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Reimplemented StretchingOverscrollIndicator with SpringSimulation.<br />
   <sub>[#173849](https://github.com/flutter/flutter/pull/173849) opened on on August 15, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/173849) 215 additions and 142 deletions in 2 files</sub><br />

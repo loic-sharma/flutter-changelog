@@ -124,6 +124,10 @@
   <sub>[#173654](https://github.com/flutter/flutter/pull/173654) merged on August 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/173654) over 21 hours, 276 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DatePickerDialog doesn't crash in 0x0 environment
+  <sub>[#173677](https://github.com/flutter/flutter/pull/173677) merged on August 14, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/173677) over 1 day, 10 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow empty initial time when using text input mode in showTimePicker dialog
   <sub>[#172847](https://github.com/flutter/flutter/pull/172847) merged on August 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/172847) over 2 weeks, 127 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
@@ -148,13 +152,13 @@
   <sub>[#173797](https://github.com/flutter/flutter/pull/173797) merged on August 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173797) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Range slider] Tap on active range,  the thumb closest to the mouse cursor should move to the cursor position.
-  <sub>[#173725](https://github.com/flutter/flutter/pull/173725) merged on August 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173725) over 23 hours, 31 additions and 28 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Sync `CHANGELOG.md` (3.35 -> `master`)
   <sub>[#173790](https://github.com/flutter/flutter/pull/173790) merged on August 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173790) over 14 minutes, 11 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Range slider] Tap on active range,  the thumb closest to the mouse cursor should move to the cursor position.
+  <sub>[#173725](https://github.com/flutter/flutter/pull/173725) merged on August 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173725) over 23 hours, 31 additions and 28 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enables vulkan for PowerVR B-Series
   <sub>[#173561](https://github.com/flutter/flutter/pull/173561) merged on August 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173561) over 5 hours, 35 additions and 7 deletions in 2 files</sub>
@@ -163,6 +167,22 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup usages of deprecated `routeUpdated` message
   <sub>[#173782](https://github.com/flutter/flutter/pull/173782) merged on August 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173782) over 6 hours, 30 additions and 71 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that DataTable, DataColumn, DataRow, and DataCell don't crash in 0x0 environment
+  <sub>[#173515](https://github.com/flutter/flutter/pull/173515) merged on August 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173515) over 4 days, 17 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TableRowInkWell doesn't crash in 0x0 environment
+  <sub>[#173627](https://github.com/flutter/flutter/pull/173627) merged on August 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173627) over 2 days, 16 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Return result of setting OpenGL contexts back to Flutter
+  <sub>[#173757](https://github.com/flutter/flutter/pull/173757) merged on August 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173757) over 16 hours, 39 additions and 21 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Popping a nameless route should preserve the correct route name
+  <sub>[#173652](https://github.com/flutter/flutter/pull/173652) merged on August 13, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173652) over 1 day, 57 additions and 25 deletions in 3 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ChoiceChip doesn't crash in 0x0 environment
   <sub>[#173322](https://github.com/flutter/flutter/pull/173322) merged on August 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173322) over 1 week, 14 additions and 0 deletions in 1 file</sub>
@@ -188,18 +208,6 @@
   <sub>[#173074](https://github.com/flutter/flutter/pull/173074) merged on August 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173074) over 1 week, 85 additions and 101 deletions in 35 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that DataTable, DataColumn, DataRow, and DataCell don't crash in 0x0 environment
-  <sub>[#173515](https://github.com/flutter/flutter/pull/173515) merged on August 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173515) over 4 days, 17 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TableRowInkWell doesn't crash in 0x0 environment
-  <sub>[#173627](https://github.com/flutter/flutter/pull/173627) merged on August 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173627) over 2 days, 16 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DatePickerDialog doesn't crash in 0x0 environment
-  <sub>[#173677](https://github.com/flutter/flutter/pull/173677) merged on August 14, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173677) over 1 day, 10 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove jetifier usages 
   <sub>[#173548](https://github.com/flutter/flutter/pull/173548) merged on August 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173548) over 1 day, 0 additions and 27 deletions in 27 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub>
@@ -207,14 +215,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix run_linux_chrome_dev_mode
   <sub>[#173647](https://github.com/flutter/flutter/pull/173647) merged on August 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173647) over 36 minutes, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Return result of setting OpenGL contexts back to Flutter
-  <sub>[#173757](https://github.com/flutter/flutter/pull/173757) merged on August 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173757) over 16 hours, 39 additions and 21 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Popping a nameless route should preserve the correct route name
-  <sub>[#173652](https://github.com/flutter/flutter/pull/173652) merged on August 13, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173652) over 1 day, 57 additions and 25 deletions in 3 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Florin Malita](https://github.com/fmalita)** &mdash; Update CanRenderTiledTexture unit tests
   <sub>[#173553](https://github.com/flutter/flutter/pull/173553) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173553) over 9 hours, 10 additions and 13 deletions in 1 file</sub>
