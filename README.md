@@ -31,6 +31,11 @@
   <sub>[#173480](https://github.com/flutter/flutter/pull/173480) merged on August 14, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/173480) over 5 days, 818 additions and 78 deletions in 84 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label padding<br />
+  <sub>[#173344](https://github.com/flutter/flutter/pull/173344) merged on August 14, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/173344) over 1 week, 85 additions and 17 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="269" height="61" alt="image" src="https://github.com/user-attachments/assets/e1433ffb-8f17-46fe-9a65-6b9a504ef043" /><img width="269" height="61" alt="image" src="https://github.com/user-attachments/assets/12e8d087-c75b-48c9-8df4-1b11207c0e73" /></details></sub>
+
 * **[Albin PK](https://github.com/albinpk)** &mdash; fix: selected date decorator renders outside PageView in `DatePickerDialog` dialog<br />
   <sub>[#171718](https://github.com/flutter/flutter/pull/171718) merged on August 13, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/171718) over 1 month, 36 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Huy](https://github.com/huycozy)</sub><br />
@@ -50,11 +55,6 @@
 * **[Houssem Eddine Fadhli](https://github.com/houssemeddinefadhli81)** &mdash; feat: add onLongPressUp callback to InkWell widget<br />
   <sub>[#173221](https://github.com/flutter/flutter/pull/173221) merged on August 14, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/173221) over 1 week, 82 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator label padding<br />
-  <sub>[#173344](https://github.com/flutter/flutter/pull/173344) merged on August 14, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173344) over 1 week, 85 additions and 17 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
-  <sub><details><summary>2 images...</summary><img width="269" height="61" alt="image" src="https://github.com/user-attachments/assets/e1433ffb-8f17-46fe-9a65-6b9a504ef043" /><img width="269" height="61" alt="image" src="https://github.com/user-attachments/assets/12e8d087-c75b-48c9-8df4-1b11207c0e73" /></details></sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 8c7a2ce01a77c96028fe2c8566f65c45ad9408d3<br />
   <sub>[#173429](https://github.com/flutter/flutter/pull/173429) merged on August 12, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/173429) over 4 days, 460 additions and 400 deletions in 123 files</sub><br />
