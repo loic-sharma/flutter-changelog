@@ -729,7 +729,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-10 commits.
+11 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Migrate to Element2 API and update dependencies<br />
   <sub>[#9649](https://github.com/flutter/packages/pull/9649) merged on August 13, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9649) over 3 weeks, 283 additions and 225 deletions in 12 files</sub><br />
@@ -751,6 +751,10 @@
 * **[nikunjrCybage](https://github.com/nikunjrCybage)** &mdash; [in_app_purchase_storekit] Add support for quantity in consumable product purchases (#171570)<br />
   <sub>[#9698](https://github.com/flutter/packages/pull/9698) merged on August 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9698) over 1 week, 44 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move Android buffer updates to Dart<br />
+  <sub>[#9771](https://github.com/flutter/packages/pull/9771) merged on August 15, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/packages/pull/9771) over 1 week, 445 additions and 146 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Simplify native iOS code<br />
   <sub>[#9800](https://github.com/flutter/packages/pull/9800) merged on August 15, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/9800) over 1 day, 485 additions and 370 deletions in 16 files</sub><br />
