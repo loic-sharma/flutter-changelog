@@ -102,7 +102,7 @@
   <sub>[#173857](https://github.com/flutter/flutter/pull/173857) opened on on August 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173857) 74 additions and 19 deletions in 5 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland predictive back route transitions by default<br />
-  <sub>[#173860](https://github.com/flutter/flutter/pull/173860) opened on on August 15, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/173860) 401 additions and 48 deletions in 24 files</sub><br />
+  <sub>[#173860](https://github.com/flutter/flutter/pull/173860) opened on on August 15, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/173860) 400 additions and 49 deletions in 24 files</sub><br />
 
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [SchedulerBinding] Add forceFramesEnabled to allow rendering when app is hidden or paused<br />
   <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173862) 136 additions and 2 deletions in 3 files</sub><br />
