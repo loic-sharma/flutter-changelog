@@ -104,3 +104,6 @@
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Create Hot Restart over websocket test<br />
   <sub>[#173852](https://github.com/flutter/flutter/pull/173852) opened on on August 15, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/173852) 288 additions and 122 deletions in 3 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue where SingleChildScrollView resets its scroll position after relayout.<br />
+  <sub>[#173857](https://github.com/flutter/flutter/pull/173857) opened on on August 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173857) 74 additions and 19 deletions in 5 files</sub><br />
+
