@@ -86,6 +86,9 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Use DWDS 25.0.0<br />
   <sub>[#173777](https://github.com/flutter/flutter/pull/173777) opened on on August 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173777) 55 additions and 74 deletions in 5 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate deeplink json creation to public AGP api<br />
+  <sub>[#173794](https://github.com/flutter/flutter/pull/173794) opened on on August 14, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/173794) 616 additions and 350 deletions in 8 files</sub><br />
+
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][tools]do not log "bonjour not found" at all (unless verbose)<br />
   <sub>[#173805](https://github.com/flutter/flutter/pull/173805) opened on on August 14, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/173805) 284 additions and 95 deletions in 3 files</sub><br />
 
