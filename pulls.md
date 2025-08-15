@@ -105,7 +105,7 @@
   <sub>[#173880](https://github.com/flutter/flutter/pull/173880) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173880) 13 additions and 26 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [HCPP] Clean up overlay layer when last frame had overlay content and current doesn't<br />
-  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173881) 195 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173881) 191 additions and 0 deletions in 4 files</sub><br />
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Revert "Implements the Android native stretch effect as a fragment shader (Impeller-only)."<br />
   <sub>[#173883](https://github.com/flutter/flutter/pull/173883) opened on on August 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173883) 0 additions and 0 deletions in 0 files</sub><br />
