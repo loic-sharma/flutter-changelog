@@ -87,7 +87,7 @@
   <sub>[#173815](https://github.com/flutter/flutter/pull/173815) opened on on August 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173815) 0 additions and 27 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbarButton doesn't crash in 0…<br />
-  <sub>[#173827](https://github.com/flutter/flutter/pull/173827) opened on on August 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173827) 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#173827](https://github.com/flutter/flutter/pull/173827) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173827) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Reimplemented StretchingOverscrollIndicator with SpringSimulation.<br />
   <sub>[#173849](https://github.com/flutter/flutter/pull/173849) opened on on August 15, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/173849) 215 additions and 142 deletions in 2 files</sub><br />
