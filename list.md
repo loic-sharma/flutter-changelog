@@ -757,7 +757,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-20 commits.
+21 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Migrate to Element2 API and update dependencies
   <sub>[#9649](https://github.com/flutter/packages/pull/9649) merged on August 13, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9649) over 3 weeks, 283 additions and 225 deletions in 12 files</sub>
@@ -770,6 +770,10 @@
 * **[Takuma Homma](https://github.com/mataku)** &mdash; [webview_flutter] Add support for payment requests on Android
   <sub>[#9679](https://github.com/flutter/packages/pull/9679) merged on August 15, 2025 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/9679) over 2 weeks, 840 additions and 1 deletion in 18 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [image_picker] Add the ability to pick multiple videos - platform implementations
+  <sub>[#9818](https://github.com/flutter/packages/pull/9818) merged on August 16, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/9818) over 20 hours, 1004 additions and 361 deletions in 46 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [url_launcher_ios] Fix test button text to work on iOS 26
   <sub>[#9766](https://github.com/flutter/packages/pull/9766) merged on August 15, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/9766) over 1 week, 9 additions and 4 deletions in 2 files</sub>
