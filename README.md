@@ -772,7 +772,7 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Takuma Homma](https://github.com/mataku)** &mdash; [webview_flutter] Add support for payment requests on Android<br />
-  <sub>[#9679](https://github.com/flutter/packages/pull/9679) merged on August 15, 2025 &mdash; **Large:** [26 comments](https://github.com/flutter/packages/pull/9679) over 2 weeks, 840 additions and 1 deletion in 18 files</sub><br />
+  <sub>[#9679](https://github.com/flutter/packages/pull/9679) merged on August 15, 2025 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/9679) over 2 weeks, 840 additions and 1 deletion in 18 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [image_picker] Add the ability to pick multiple videos - platform implementations<br />
