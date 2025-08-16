@@ -107,6 +107,3 @@
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Retry "Implements the Android native stretch effect as a fragment shader (Impeller-only)."<br />
   <sub>[#173885](https://github.com/flutter/flutter/pull/173885) opened on on August 15, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173885) 1251 additions and 710 deletions in 11 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Removed `minSdkVersion` and only use `minSdk`<br />
-  <sub>[#173892](https://github.com/flutter/flutter/pull/173892) opened on on August 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173892) 2 additions and 13 deletions in 1 file</sub><br />
-
