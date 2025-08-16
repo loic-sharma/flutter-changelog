@@ -114,5 +114,5 @@
   <sub>[#173894](https://github.com/flutter/flutter/pull/173894) opened on on August 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173894) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [CP] Blocks exynos9820 chip from vulkan<br />
-  <sub>[#173897](https://github.com/flutter/flutter/pull/173897) opened on on August 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173897) 12 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#173897](https://github.com/flutter/flutter/pull/173897) opened on on August 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173897) 12 additions and 7 deletions in 1 file</sub><br />
 
