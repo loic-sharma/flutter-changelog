@@ -761,7 +761,7 @@
 
 ### August 9, 2025 to August 15, 2025
 
-23 commits.
+24 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Migrate to Element2 API and update dependencies
   <sub>[#9649](https://github.com/flutter/packages/pull/9649) merged on August 13, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9649) over 3 weeks, 283 additions and 225 deletions in 12 files</sub>
@@ -799,6 +799,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [image_picker_ios] Add photo to simulator Photos library during test
   <sub>[#9759](https://github.com/flutter/packages/pull/9759) merged on August 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9759) over 1 week, 75 additions and 22 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update repo for 3.35 stable release
+  <sub>[#9816](https://github.com/flutter/packages/pull/9816) merged on August 16, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/9816) over 1 day, 99220 additions and 88484 deletions in 1116 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [image_picker] Updates min SDK to 3.29
   <sub>[#9830](https://github.com/flutter/packages/pull/9830) merged on August 16, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/9830) over 22 hours, 5016 additions and 4116 deletions in 76 files</sub>
