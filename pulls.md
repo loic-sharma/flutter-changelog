@@ -92,9 +92,6 @@
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Reimplemented StretchingOverscrollIndicator with SpringSimulation.<br />
   <sub>[#173849](https://github.com/flutter/flutter/pull/173849) opened on on August 15, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/173849) 215 additions and 142 deletions in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix the issue where SingleChildScrollView resets its scroll position after relayout.<br />
-  <sub>[#173857](https://github.com/flutter/flutter/pull/173857) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173857) 79 additions and 22 deletions in 6 files</sub><br />
-
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [SchedulerBinding] Add forceFramesEnabled to allow rendering when app is hidden or paused<br />
   <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173862) 146 additions and 2 deletions in 2 files</sub><br />
 
