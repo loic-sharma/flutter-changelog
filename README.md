@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-7 commits.
+9 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate deeplink json creation to public AGP api<br />
   <sub>[#173794](https://github.com/flutter/flutter/pull/173794) merged on August 18, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/173794) over 4 days, 616 additions and 350 deletions in 8 files</sub><br />
@@ -17,6 +17,14 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Enhance FilledButton and Theme Data's documentation to clarify platform-specific visual density behavior<br />
   <sub>[#173695](https://github.com/flutter/flutter/pull/173695) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173695) over 4 days, 15 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux analyze`<br />
+  <sub>[#173988](https://github.com/flutter/flutter/pull/173988) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173988) over 3 hours, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add "team-ios" label to iOS team triage query<br />
+  <sub>[#173997](https://github.com/flutter/flutter/pull/173997) merged on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173997) over 34 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Explain how to run Google Test tests directly<br />
   <sub>[#173978](https://github.com/flutter/flutter/pull/173978) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173978) over 1 hour, 35 additions and 0 deletions in 1 file</sub><br />
