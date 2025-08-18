@@ -63,13 +63,10 @@
   <sub>[#173754](https://github.com/flutter/flutter/pull/173754) opened on on August 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173754) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Gagan Yadav](https://github.com/gaganyadav80)** &mdash; [Part 1] feat: updates text field maxLines to double<br />
-  <sub>[#173761](https://github.com/flutter/flutter/pull/173761) opened on on August 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173761) 77 additions and 77 deletions in 12 files</sub><br />
+  <sub>[#173761](https://github.com/flutter/flutter/pull/173761) opened on on August 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173761) 77 additions and 77 deletions in 12 files</sub><br />
 
 * **[Oreofe Solarin](https://github.com/DEVSOG12)** &mdash; Impeller: Convert GLProc name field and GLErrorToString to std::string_view<br />
   <sub>[#173771](https://github.com/flutter/flutter/pull/173771) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173771) 53 additions and 10 deletions in 4 files</sub><br />
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Use DWDS 25.0.1<br />
-  <sub>[#173777](https://github.com/flutter/flutter/pull/173777) opened on on August 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173777) 55 additions and 74 deletions in 5 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate deeplink json creation to public AGP api<br />
   <sub>[#173794](https://github.com/flutter/flutter/pull/173794) opened on on August 14, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/173794) 616 additions and 350 deletions in 8 files</sub><br />
