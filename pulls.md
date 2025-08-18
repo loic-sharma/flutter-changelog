@@ -47,9 +47,6 @@
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; web_ui: avoid crash for showPerformanceOverlay; log 'not supported' once<br />
   <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
 
-* **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; Fixes #173514 : Add highContrastThemeMode parameter to MaterialApp<br />
-  <sub>[#173520](https://github.com/flutter/flutter/pull/173520) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173520) 238 additions and 3 deletions in 2 files</sub><br />
-
 * **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; flutter_tools: Fix Android settings.gradle.kts template Properties import<br />
   <sub>[#173527](https://github.com/flutter/flutter/pull/173527) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173527) 2 additions and 1 deletion in 1 file</sub><br />
 
@@ -109,4 +106,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbar doesn't crash in 0x0 env…<br />
   <sub>[#173928](https://github.com/flutter/flutter/pull/173928) opened on on August 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173928) 13 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbar doesn't crash i…<br />
+  <sub>[#173964](https://github.com/flutter/flutter/pull/173964) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173964) 15 additions and 0 deletions in 1 file</sub><br />
 

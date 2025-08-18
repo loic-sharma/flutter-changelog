@@ -674,7 +674,11 @@
 
 ### August 16, 2025 to August 22, 2025
 
-1 commits.
+2 commits.
+
+* **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Fix for Issue #12144<br />
+  <sub>[#12320](https://github.com/flutter/website/pull/12320) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12320) over 18 hours, 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Fix Preview class broken url in widget-previewer.md<br />
   <sub>[#12317](https://github.com/flutter/website/pull/12317) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12317) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
