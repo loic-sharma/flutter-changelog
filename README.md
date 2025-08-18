@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 16, 2025 to August 22, 2025
+
+1 commits.
+
+* **[Huy](https://github.com/huycozy)** &mdash; Enhance FilledButton and Theme Data's documentation to clarify platform-specific visual density behavior<br />
+  <sub>[#173695](https://github.com/flutter/flutter/pull/173695) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173695) over 4 days, 15 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 ### August 9, 2025 to August 15, 2025
 
-62 commits.
+<details>
+<summary>62 commits...</summary>
 
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Implements the Android native stretch effect as a fragment shader (Impeller-only).<br />
   <sub>[#169293](https://github.com/flutter/flutter/pull/169293) merged on August 14, 2025 &mdash; **Extra large:** [129 comments](https://github.com/flutter/flutter/pull/169293) over 2 months, 1250 additions and 710 deletions in 10 files</sub><br />
@@ -255,6 +264,8 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "[ios][tools]do not log "bonjour not found" at all (unless verbose)"<br />
   <sub>[#173879](https://github.com/flutter/flutter/pull/173879) merged on August 15, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/173879) over 2 hours, 95 additions and 284 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+</details>
 
 ### August 2, 2025 to August 8, 2025
 
