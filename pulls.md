@@ -116,3 +116,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbar doesn't crash in 0x0 env…<br />
   <sub>[#173928](https://github.com/flutter/flutter/pull/173928) opened on on August 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173928) 13 additions and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix SegmentedButton focus issue<br />
+  <sub>[#173953](https://github.com/flutter/flutter/pull/173953) opened on on August 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/173953) 104 additions and 39 deletions in 2 files</sub><br />
+
