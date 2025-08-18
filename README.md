@@ -674,7 +674,11 @@
 
 ### August 16, 2025 to August 22, 2025
 
-2 commits.
+3 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Mark `FLUTTER_ROOT/version` as deprecated pending removal<br />
+  <sub>[#12310](https://github.com/flutter/website/pull/12310) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12310) over 3 days, 102 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Fix for Issue #12144<br />
   <sub>[#12320](https://github.com/flutter/website/pull/12320) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12320) over 18 hours, 3 additions and 3 deletions in 2 files</sub><br />
