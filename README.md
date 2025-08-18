@@ -516,7 +516,11 @@
 
 ### August 16, 2025 to August 22, 2025
 
-2 commits.
+3 commits.
+
+* **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router]: Add `RelativeGoRouteData` and `TypedRelativeGoRoute`<br />
+  <sub>[#9732](https://github.com/flutter/packages/pull/9732) merged on August 18, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/9732) over 2 weeks, 445 additions and 94 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Disable SwiftPM for `xcode-analyze`<br />
   <sub>[#9666](https://github.com/flutter/packages/pull/9666) merged on August 18, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9666) over 3 weeks, 207 additions and 230 deletions in 6 files</sub><br />
