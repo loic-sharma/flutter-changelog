@@ -4,7 +4,11 @@
 
 ### August 16, 2025 to August 22, 2025
 
-5 commits.
+6 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't crash when directory watcher restarts on Windows<br />
+  <sub>[#173987](https://github.com/flutter/flutter/pull/173987) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173987) over 42 minutes, 35 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Enhance FilledButton and Theme Data's documentation to clarify platform-specific visual density behavior<br />
   <sub>[#173695](https://github.com/flutter/flutter/pull/173695) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173695) over 4 days, 15 additions and 2 deletions in 2 files</sub><br />
@@ -508,11 +512,15 @@
 
 ### August 16, 2025 to August 22, 2025
 
-1 commits.
+2 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Disable SwiftPM for `xcode-analyze`<br />
   <sub>[#9666](https://github.com/flutter/packages/pull/9666) merged on August 18, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9666) over 3 weeks, 207 additions and 230 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from edada7c56edf to 20f82749394e (1474 revisions)<br />
+  <sub>[#9837](https://github.com/flutter/packages/pull/9837) merged on August 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9837) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### August 9, 2025 to August 15, 2025
 
