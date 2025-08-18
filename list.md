@@ -490,9 +490,18 @@
 
 ## flutter/packages
 
+### August 16, 2025 to August 22, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Disable SwiftPM for `xcode-analyze`
+  <sub>[#9666](https://github.com/flutter/packages/pull/9666) merged on August 18, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9666) over 3 weeks, 207 additions and 230 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 ### August 9, 2025 to August 15, 2025
 
-24 commits.
+<details>
+<summary>24 commits...</summary>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [go_router_builder] Migrate to Element2 API and update dependencies
   <sub>[#9649](https://github.com/flutter/packages/pull/9649) merged on August 13, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/9649) over 3 weeks, 283 additions and 225 deletions in 12 files</sub>
@@ -590,6 +599,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add review agent style guidelines to .gemini/styleguide.md
   <sub>[#9805](https://github.com/flutter/packages/pull/9805) merged on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9805) over 3 hours, 10 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+</details>
 
 ### August 2, 2025 to August 8, 2025
 
