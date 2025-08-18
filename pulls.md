@@ -47,9 +47,6 @@
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; web_ui: avoid crash for showPerformanceOverlay; log 'not supported' once<br />
   <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
 
-* **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; flutter_tools: Fix Android settings.gradle.kts template Properties import<br />
-  <sub>[#173527](https://github.com/flutter/flutter/pull/173527) opened on on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173527) 2 additions and 1 deletion in 1 file</sub><br />
-
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
   <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173570) 200 additions and 52 deletions in 4 files</sub><br />
 
