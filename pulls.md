@@ -72,7 +72,7 @@
   <sub>[#173777](https://github.com/flutter/flutter/pull/173777) opened on on August 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173777) 55 additions and 74 deletions in 5 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate deeplink json creation to public AGP api<br />
-  <sub>[#173794](https://github.com/flutter/flutter/pull/173794) opened on on August 14, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/173794) 616 additions and 350 deletions in 8 files</sub><br />
+  <sub>[#173794](https://github.com/flutter/flutter/pull/173794) opened on on August 14, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/173794) 616 additions and 350 deletions in 8 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup legacy `bringup: true` tasks, either removing or enabling<br />
   <sub>[#173815](https://github.com/flutter/flutter/pull/173815) opened on on August 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173815) 0 additions and 27 deletions in 1 file</sub><br />
