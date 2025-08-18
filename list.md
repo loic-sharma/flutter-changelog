@@ -154,7 +154,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DatePickerDialog doesn't crash in 0x0 environment
-  <sub>[#173677](https://github.com/flutter/flutter/pull/173677) merged on August 14, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/173677) over 1 day, 10 additions and 0 deletions in 1 file</sub>
+  <sub>[#173677](https://github.com/flutter/flutter/pull/173677) merged on August 14, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/173677) over 1 day, 10 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Azat Chorekliyev](https://github.com/azatech)** &mdash; Allow empty initial time when using text input mode in showTimePicker dialog
