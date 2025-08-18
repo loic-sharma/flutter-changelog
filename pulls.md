@@ -105,8 +105,11 @@
   <sub>[#173979](https://github.com/flutter/flutter/pull/173979) opened on on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173979) 213 additions and 19 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to instantiate invalid `@Preview()` applications<br />
-  <sub>[#173984](https://github.com/flutter/flutter/pull/173984) opened on on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173984) 222 additions and 23 deletions in 3 files</sub><br />
+  <sub>[#173984](https://github.com/flutter/flutter/pull/173984) opened on on August 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173984) 222 additions and 23 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; See if java 21 presubmits will pass<br />
   <sub>[#173985](https://github.com/flutter/flutter/pull/173985) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173985) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't crash when directory watcher restarts on Windows<br />
+  <sub>[#173987](https://github.com/flutter/flutter/pull/173987) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173987) 35 additions and 2 deletions in 4 files</sub><br />
 
