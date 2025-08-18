@@ -61,6 +61,10 @@
   <sub>[#171718](https://github.com/flutter/flutter/pull/171718) merged on August 13, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/171718) over 1 month, 36 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Huy](https://github.com/huycozy)</sub>
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fallback to CanvasKit when WebGL is not available
+  <sub>[#173629](https://github.com/flutter/flutter/pull/173629) merged on August 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173629) over 1 hour, 21 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Regular windows win32 engine
   <sub>[#173424](https://github.com/flutter/flutter/pull/173424) merged on August 13, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/173424) over 5 days, 626 additions and 79 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
@@ -80,10 +84,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Blocks exynos9820 chip from vulkan
   <sub>[#173807](https://github.com/flutter/flutter/pull/173807) merged on August 15, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/173807) over 1 day, 12 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fallback to CanvasKit when WebGL is not available
-  <sub>[#173629](https://github.com/flutter/flutter/pull/173629) merged on August 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173629) over 1 hour, 21 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix `ChipThemeData` lerp for `BorderSide`
   <sub>[#173160](https://github.com/flutter/flutter/pull/173160) merged on August 13, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/173160) over 1 week, 71 additions and 61 deletions in 8 files</sub>
@@ -141,6 +141,10 @@
   <sub>[#172793](https://github.com/flutter/flutter/pull/172793) merged on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172793) over 2 weeks, 7 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Range slider] Tap on active range,  the thumb closest to the mouse cursor should move to the cursor position.
+  <sub>[#173725](https://github.com/flutter/flutter/pull/173725) merged on August 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173725) over 23 hours, 31 additions and 28 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add `--machine` mode
   <sub>[#173654](https://github.com/flutter/flutter/pull/173654) merged on August 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/173654) over 21 hours, 276 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup), [Jessy Yameogo](https://github.com/jyameo)</sub>
@@ -172,10 +176,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Read `bin/cache/flutter.version.json` instead of `version` for `flutter_gallery`
   <sub>[#173797](https://github.com/flutter/flutter/pull/173797) merged on August 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173797) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Range slider] Tap on active range,  the thumb closest to the mouse cursor should move to the cursor position.
-  <sub>[#173725](https://github.com/flutter/flutter/pull/173725) merged on August 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173725) over 23 hours, 31 additions and 28 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Sync `CHANGELOG.md` (3.35 -> `master`)
   <sub>[#173790](https://github.com/flutter/flutter/pull/173790) merged on August 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173790) over 14 minutes, 11 additions and 0 deletions in 1 file</sub>
