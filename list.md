@@ -672,9 +672,18 @@
 
 ## flutter/website
 
+### August 16, 2025 to August 22, 2025
+
+1 commits.
+
+* **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Fix Preview class broken url in widget-previewer.md
+  <sub>[#12317](https://github.com/flutter/website/pull/12317) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12317) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### August 9, 2025 to August 15, 2025
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Add a quick version of getting started
   <sub>[#12052](https://github.com/flutter/website/pull/12052) merged on August 14, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/website/pull/12052) over 2 months, 503 additions and 5 deletions in 5 files</sub>
@@ -751,6 +760,8 @@
 * **[GOLD](https://github.com/kumgold)** &mdash; fix - navigation & routing Index.md typo
   <sub>[#12290](https://github.com/flutter/website/pull/12290) merged on August 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12290) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### August 2, 2025 to August 8, 2025
 

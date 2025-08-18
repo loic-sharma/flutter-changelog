@@ -98,12 +98,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] remove the deprecated `focusable` flag in Focus widget. <br />
   <sub>[#173880](https://github.com/flutter/flutter/pull/173880) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173880) 13 additions and 26 deletions in 3 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [HCPP] Clean up overlay layer when last frame had overlay content and current doesn't<br />
-  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173881) 191 additions and 0 deletions in 4 files</sub><br />
-
-* **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Retry "Implements the Android native stretch effect as a fragment shader (Impeller-only)."<br />
-  <sub>[#173885](https://github.com/flutter/flutter/pull/173885) opened on on August 15, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/173885) 1251 additions and 710 deletions in 11 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbarButton doesn't c…<br />
   <sub>[#173894](https://github.com/flutter/flutter/pull/173894) opened on on August 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173894) 12 additions and 0 deletions in 1 file</sub><br />
 
