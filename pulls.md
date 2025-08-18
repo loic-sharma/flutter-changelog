@@ -102,5 +102,11 @@
   <sub>[#173964](https://github.com/flutter/flutter/pull/173964) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173964) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix null assertion when trying to add `@Preview()` to invalid nodes<br />
-  <sub>[#173979](https://github.com/flutter/flutter/pull/173979) opened on on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173979) 221 additions and 19 deletions in 3 files</sub><br />
+  <sub>[#173979](https://github.com/flutter/flutter/pull/173979) opened on on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173979) 213 additions and 19 deletions in 3 files</sub><br />
+
+* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [CP] Blocks exynos9820 chip from vulkan<br />
+  <sub>[#173981](https://github.com/flutter/flutter/pull/173981) opened on on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173981) 12 additions and 7 deletions in 1 file</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add java as a dependency of linux analyze since it is required by ktlint<br />
+  <sub>[#173982](https://github.com/flutter/flutter/pull/173982) opened on on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173982) 2 additions and 1 deletion in 1 file</sub><br />
 
