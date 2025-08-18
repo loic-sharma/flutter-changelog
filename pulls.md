@@ -92,9 +92,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbarButton doesn't c…<br />
   <sub>[#173894](https://github.com/flutter/flutter/pull/173894) opened on on August 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173894) 12 additions and 0 deletions in 1 file</sub><br />
 
-* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [CP] Blocks exynos9820 chip from vulkan<br />
-  <sub>[#173897](https://github.com/flutter/flutter/pull/173897) opened on on August 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173897) 12 additions and 7 deletions in 1 file</sub><br />
-
 * **[Ahmed Hussein](https://github.com/ahmeddhus)** &mdash; Add SliverGrid.list convenience constructor<br />
   <sub>[#173925](https://github.com/flutter/flutter/pull/173925) opened on on August 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173925) 113 additions and 0 deletions in 2 files</sub><br />
 
@@ -103,4 +100,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbar doesn't crash i…<br />
   <sub>[#173964](https://github.com/flutter/flutter/pull/173964) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173964) 15 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix null assertion when trying to add `@Preview()` to invalid nodes<br />
+  <sub>[#173979](https://github.com/flutter/flutter/pull/173979) opened on on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173979) 221 additions and 19 deletions in 3 files</sub><br />
 
