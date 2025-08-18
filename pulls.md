@@ -41,9 +41,6 @@
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [VPAT][A11y] AutoComplete dropdown option is missing button role<br />
-  <sub>[#173297](https://github.com/flutter/flutter/pull/173297) opened on on August 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173297) 48 additions and 13 deletions in 2 files</sub><br />
-
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; web_ui: avoid crash for showPerformanceOverlay; log 'not supported' once<br />
   <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
 
@@ -97,9 +94,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix null assertion when trying to add `@Preview()` to invalid nodes<br />
   <sub>[#173979](https://github.com/flutter/flutter/pull/173979) opened on on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173979) 213 additions and 19 deletions in 3 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to instantiate invalid `@Preview()` applications<br />
-  <sub>[#173984](https://github.com/flutter/flutter/pull/173984) opened on on August 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173984) 222 additions and 23 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; See if java 21 presubmits will pass<br />
   <sub>[#173985](https://github.com/flutter/flutter/pull/173985) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173985) 3 additions and 3 deletions in 1 file</sub><br />

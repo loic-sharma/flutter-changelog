@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-4 commits.
+5 commits.
 
 * **[Huy](https://github.com/huycozy)** &mdash; Enhance FilledButton and Theme Data's documentation to clarify platform-specific visual density behavior<br />
   <sub>[#173695](https://github.com/flutter/flutter/pull/173695) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173695) over 4 days, 15 additions and 2 deletions in 2 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `embedded_android_views` (on-device) tests, same as emulator test<br />
   <sub>[#173814](https://github.com/flutter/flutter/pull/173814) merged on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173814) over 3 days, 0 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to instantiate invalid `@Preview()` applications<br />
+  <sub>[#173984](https://github.com/flutter/flutter/pull/173984) merged on August 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173984) over 1 hour, 222 additions and 23 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Use DWDS 25.0.1<br />
   <sub>[#173777](https://github.com/flutter/flutter/pull/173777) merged on August 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173777) over 4 days, 55 additions and 74 deletions in 5 files</sub><br />
