@@ -4,7 +4,11 @@
 
 ### August 16, 2025 to August 22, 2025
 
-6 commits.
+7 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate deeplink json creation to public AGP api<br />
+  <sub>[#173794](https://github.com/flutter/flutter/pull/173794) merged on August 18, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/173794) over 4 days, 616 additions and 350 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't crash when directory watcher restarts on Windows<br />
   <sub>[#173987](https://github.com/flutter/flutter/pull/173987) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173987) over 42 minutes, 35 additions and 2 deletions in 4 files</sub><br />
