@@ -92,3 +92,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; See if java 21 presubmits will pass<br />
   <sub>[#173985](https://github.com/flutter/flutter/pull/173985) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173985) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add review agent style guidelines to .gemini/styleguide.md<br />
+  <sub>[#174000](https://github.com/flutter/flutter/pull/174000) opened on on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174000) 10 additions and 0 deletions in 1 file</sub><br />
+
