@@ -730,7 +730,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update demos.yml<br />
-  <sub>[#12312](https://github.com/flutter/website/pull/12312) merged on August 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12312) over 14 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#12312](https://github.com/flutter/website/pull/12312) merged on August 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12312) over 14 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update SDK constraints, deps, and samples for 3.9 and 3.35<br />
