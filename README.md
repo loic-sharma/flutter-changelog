@@ -714,7 +714,11 @@
 
 ### August 16, 2025 to August 22, 2025
 
-3 commits.
+4 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update site for 3.35.1<br />
+  <sub>[#12321](https://github.com/flutter/website/pull/12321) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12321) over 11 hours, 150 additions and 150 deletions in 149 files</sub><br />
+  <sub>Reviewed by: [Andrew Brogdon](https://github.com/redbrogdon)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Mark `FLUTTER_ROOT/version` as deprecated pending removal<br />
   <sub>[#12310](https://github.com/flutter/website/pull/12310) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12310) over 3 days, 102 additions and 0 deletions in 2 files</sub><br />
