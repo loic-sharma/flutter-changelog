@@ -75,7 +75,7 @@
   <sub>[#173894](https://github.com/flutter/flutter/pull/173894) opened on on August 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173894) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmed Hussein](https://github.com/ahmeddhus)** &mdash; Add SliverGrid.list convenience constructor<br />
-  <sub>[#173925](https://github.com/flutter/flutter/pull/173925) opened on on August 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173925) 113 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#173925](https://github.com/flutter/flutter/pull/173925) opened on on August 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173925) 113 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbar doesn't crash in 0x0 env…<br />
   <sub>[#173928](https://github.com/flutter/flutter/pull/173928) opened on on August 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173928) 13 additions and 0 deletions in 1 file</sub><br />
