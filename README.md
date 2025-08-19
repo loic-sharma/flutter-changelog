@@ -4,7 +4,16 @@
 
 ### August 16, 2025 to August 22, 2025
 
-12 commits.
+16 commits.
+
+* **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Improve Stack widget error message for bounded constraints<br />
+  <sub>[#173352](https://github.com/flutter/flutter/pull/173352) merged on August 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173352) over 1 week, 9 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="1918" height="300" alt="Screenshot 2025-08-06 213549" src="https://github.com/user-attachments/assets/24d90dfb-6876-4fa2-85ee-01c3c1efd7b8" /><img width="2388" height="630" alt="Screenshot 2025-08-07 011126" src="https://github.com/user-attachments/assets/d74bcd2a-5550-454c-9388-fa9aff9d9167" /></details></sub>
+
+* **[Simon Pham](https://github.com/simonpham)** &mdash; fix: Android build fails when minSdk is set below 24 in build.gradle.kts (#173823)<br />
+  <sub>[#173825](https://github.com/flutter/flutter/pull/173825) merged on August 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173825) over 4 days, 128 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
   <sub>[#171198](https://github.com/flutter/flutter/pull/171198) merged on August 19, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/171198) over 1 month, 558 additions and 72 deletions in 35 files</sub><br />
@@ -21,6 +30,14 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Enhance FilledButton and Theme Data's documentation to clarify platform-specific visual density behavior<br />
   <sub>[#173695](https://github.com/flutter/flutter/pull/173695) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173695) over 4 days, 15 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Sven Gasterstädt](https://github.com/SvenGasterstaedt)** &mdash; Check that the windows architecture is 64-bit and not the process architecture<br />
+  <sub>[#174019](https://github.com/flutter/flutter/pull/174019) merged on August 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174019) over 10 hours, 8 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [VPAT][A11y] AutoComplete dropdown option is missing button role<br />
+  <sub>[#173297](https://github.com/flutter/flutter/pull/173297) merged on August 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173297) over 1 week, 48 additions and 13 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't crash when directory watcher restarts on Windows<br />
   <sub>[#173987](https://github.com/flutter/flutter/pull/173987) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173987) over 42 minutes, 35 additions and 2 deletions in 4 files</sub><br />
