@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-17 commits.
+18 commits.
 
 * **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Improve Stack widget error message for bounded constraints<br />
   <sub>[#173352](https://github.com/flutter/flutter/pull/173352) merged on August 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173352) over 1 week, 9 additions and 1 deletion in 1 file</sub><br />
@@ -46,6 +46,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't crash when directory watcher restarts on Windows<br />
   <sub>[#173987](https://github.com/flutter/flutter/pull/173987) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173987) over 42 minutes, 35 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup legacy `bringup: true` tasks, either removing or enabling<br />
+  <sub>[#173815](https://github.com/flutter/flutter/pull/173815) merged on August 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173815) over 4 days, 0 additions and 27 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux linux_android_emulator.debug_x64`<br />
   <sub>[#173989](https://github.com/flutter/flutter/pull/173989) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173989) over 20 hours, 4 additions and 0 deletions in 1 file</sub><br />
