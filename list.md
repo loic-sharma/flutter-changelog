@@ -524,7 +524,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-3 commits.
+4 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router]: Add `RelativeGoRouteData` and `TypedRelativeGoRoute`
   <sub>[#9732](https://github.com/flutter/packages/pull/9732) merged on August 18, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/9732) over 2 weeks, 445 additions and 94 deletions in 4 files</sub>
@@ -533,6 +533,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Disable SwiftPM for `xcode-analyze`
   <sub>[#9666](https://github.com/flutter/packages/pull/9666) merged on August 18, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9666) over 3 weeks, 207 additions and 230 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [flutter_migrate] Remove source
+  <sub>[#9847](https://github.com/flutter/packages/pull/9847) merged on August 19, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9847) over 17 hours, 0 additions and 14712 deletions in 63 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from edada7c56edf to 20f82749394e (1474 revisions)
   <sub>[#9837](https://github.com/flutter/packages/pull/9837) merged on August 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9837) over 2 days, 1 addition and 1 deletion in 1 file</sub>
