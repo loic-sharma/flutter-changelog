@@ -4,7 +4,15 @@
 
 ### August 16, 2025 to August 22, 2025
 
-10 commits.
+12 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
+  <sub>[#171198](https://github.com/flutter/flutter/pull/171198) merged on August 19, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/171198) over 1 month, 558 additions and 72 deletions in 35 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
+  <sub>[#172704](https://github.com/flutter/flutter/pull/172704) merged on August 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172704) over 3 weeks, 156 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate deeplink json creation to public AGP api<br />
   <sub>[#173794](https://github.com/flutter/flutter/pull/173794) merged on August 18, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/173794) over 4 days, 616 additions and 350 deletions in 8 files</sub><br />
