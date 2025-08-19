@@ -105,5 +105,5 @@
   <sub>[#174037](https://github.com/flutter/flutter/pull/174037) opened on on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174037) 86 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix error in ClickDebouncer when using VoiceOver<br />
-  <sub>[#174046](https://github.com/flutter/flutter/pull/174046) opened on on August 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174046) 78 additions and 23 deletions in 2 files</sub><br />
+  <sub>[#174046](https://github.com/flutter/flutter/pull/174046) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174046) 78 additions and 23 deletions in 2 files</sub><br />
 

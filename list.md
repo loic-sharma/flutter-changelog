@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-9 commits.
+10 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate deeplink json creation to public AGP api
   <sub>[#173794](https://github.com/flutter/flutter/pull/173794) merged on August 18, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/173794) over 4 days, 616 additions and 350 deletions in 8 files</sub>
@@ -17,6 +17,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Enhance FilledButton and Theme Data's documentation to clarify platform-specific visual density behavior
   <sub>[#173695](https://github.com/flutter/flutter/pull/173695) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173695) over 4 days, 15 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux linux_android_emulator.debug_x64`
+  <sub>[#173989](https://github.com/flutter/flutter/pull/173989) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173989) over 20 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux analyze`
   <sub>[#173988](https://github.com/flutter/flutter/pull/173988) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173988) over 3 hours, 2 additions and 1 deletion in 1 file</sub>
