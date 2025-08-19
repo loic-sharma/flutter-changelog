@@ -107,3 +107,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Report an error if a web device is unavailable<br />
   <sub>[#174084](https://github.com/flutter/flutter/pull/174084) opened on on August 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174084) 184 additions and 31 deletions in 6 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Widget Preview ] Report an error if a web device is unavailable (#174036)<br />
+  <sub>[#174085](https://github.com/flutter/flutter/pull/174085) opened on on August 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174085) 177 additions and 27 deletions in 6 files</sub><br />
+
