@@ -93,7 +93,7 @@
   <sub>[#173985](https://github.com/flutter/flutter/pull/173985) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173985) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add review agent style guidelines to .gemini/styleguide.md<br />
-  <sub>[#174000](https://github.com/flutter/flutter/pull/174000) opened on on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174000) 10 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#174000](https://github.com/flutter/flutter/pull/174000) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174000) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[angcyo](https://github.com/angcyo)** &mdash; [Android] Fix abiFilters invalid to Flutter Gradle Plugin<br />
   <sub>[#174008](https://github.com/flutter/flutter/pull/174008) opened on on August 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174008) 11 additions and 7 deletions in 1 file</sub><br />
