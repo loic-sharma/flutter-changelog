@@ -104,3 +104,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Increase testing coverage and maintainability of android manifest parsing logic<br />
   <sub>[#174070](https://github.com/flutter/flutter/pull/174070) opened on on August 19, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174070) 418 additions and 203 deletions in 4 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Report an error if a web device is unavailable<br />
+  <sub>[#174084](https://github.com/flutter/flutter/pull/174084) opened on on August 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174084) 184 additions and 31 deletions in 6 files</sub><br />
+

@@ -40,7 +40,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Report an error if a web device is unavailable
-  <sub>[#174036](https://github.com/flutter/flutter/pull/174036) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174036) over 7 hours, 184 additions and 31 deletions in 6 files</sub>
+  <sub>[#174036](https://github.com/flutter/flutter/pull/174036) merged on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174036) over 7 hours, 184 additions and 31 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Sven Gasterstädt](https://github.com/SvenGasterstaedt)** &mdash; Check that the windows architecture is 64-bit and not the process architecture
