@@ -6,14 +6,14 @@
 
 18 commits.
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Shift+Enter shortcut example for TextField.<br />
+  <sub>[#167952](https://github.com/flutter/flutter/pull/167952) merged on August 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/167952) over 3 months, 186 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
 * **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Improve Stack widget error message for bounded constraints<br />
   <sub>[#173352](https://github.com/flutter/flutter/pull/173352) merged on August 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173352) over 1 week, 9 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1918" height="300" alt="Screenshot 2025-08-06 213549" src="https://github.com/user-attachments/assets/24d90dfb-6876-4fa2-85ee-01c3c1efd7b8" /><img width="2388" height="630" alt="Screenshot 2025-08-07 011126" src="https://github.com/user-attachments/assets/d74bcd2a-5550-454c-9388-fa9aff9d9167" /></details></sub>
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Shift+Enter shortcut example for TextField.<br />
-  <sub>[#167952](https://github.com/flutter/flutter/pull/167952) merged on August 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/167952) over 3 months, 186 additions and 0 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Simon Pham](https://github.com/simonpham)** &mdash; fix: Android build fails when minSdk is set below 24 in build.gradle.kts (#173823)<br />
   <sub>[#173825](https://github.com/flutter/flutter/pull/173825) merged on August 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173825) over 4 days, 128 additions and 8 deletions in 3 files</sub><br />
