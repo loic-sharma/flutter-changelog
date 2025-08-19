@@ -98,3 +98,6 @@
 * **[angcyo](https://github.com/angcyo)** &mdash; [Android] Fix abiFilters invalid to Flutter Gradle Plugin<br />
   <sub>[#174008](https://github.com/flutter/flutter/pull/174008) opened on on August 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174008) 11 additions and 7 deletions in 1 file</sub><br />
 
+* **[Sven Gasterstädt](https://github.com/SvenGasterstaedt)** &mdash; Check that the windows architecture is 64-bit and not the process architecture<br />
+  <sub>[#174019](https://github.com/flutter/flutter/pull/174019) opened on on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174019) 2 additions and 2 deletions in 1 file</sub><br />
+
