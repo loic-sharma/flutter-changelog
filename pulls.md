@@ -59,9 +59,6 @@
 * **[Oreofe Solarin](https://github.com/DEVSOG12)** &mdash; Impeller: Convert GLProc name field and GLErrorToString to std::string_view<br />
   <sub>[#173771](https://github.com/flutter/flutter/pull/173771) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173771) 53 additions and 10 deletions in 4 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup legacy `bringup: true` tasks, either removing or enabling<br />
-  <sub>[#173815](https://github.com/flutter/flutter/pull/173815) opened on on August 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173815) 0 additions and 27 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbarButton doesn't crash in 0…<br />
   <sub>[#173827](https://github.com/flutter/flutter/pull/173827) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173827) 12 additions and 0 deletions in 1 file</sub><br />
 
