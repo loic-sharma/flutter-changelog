@@ -714,7 +714,11 @@
 
 ### August 16, 2025 to August 22, 2025
 
-4 commits.
+5 commits.
+
+* **[Ander Dobo](https://github.com/anderdobo)** &mdash; Adding new Ecosystem Committee Member
+  <sub>[#12323](https://github.com/flutter/website/pull/12323) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12323) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update site for 3.35.1
   <sub>[#12321](https://github.com/flutter/website/pull/12321) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12321) over 11 hours, 150 additions and 150 deletions in 149 files</sub>
