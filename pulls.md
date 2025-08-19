@@ -111,5 +111,8 @@
   <sub>[#174055](https://github.com/flutter/flutter/pull/174055) opened on on August 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174055) 35 additions and 2 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics for disabled buttons in date picker<br />
-  <sub>[#174064](https://github.com/flutter/flutter/pull/174064) opened on on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174064) 142 additions and 36 deletions in 2 files</sub><br />
+  <sub>[#174064](https://github.com/flutter/flutter/pull/174064) opened on on August 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174064) 144 additions and 36 deletions in 3 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Increase testing coverage and maintainability of android manifest parsing logic<br />
+  <sub>[#174070](https://github.com/flutter/flutter/pull/174070) opened on on August 19, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174070) 418 additions and 203 deletions in 4 files</sub><br />
 
