@@ -10,13 +10,13 @@
   <sub>[#173794](https://github.com/flutter/flutter/pull/173794) merged on August 18, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/173794) over 4 days, 616 additions and 350 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't crash when directory watcher restarts on Windows<br />
-  <sub>[#173987](https://github.com/flutter/flutter/pull/173987) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173987) over 42 minutes, 35 additions and 2 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Huy](https://github.com/huycozy)** &mdash; Enhance FilledButton and Theme Data's documentation to clarify platform-specific visual density behavior<br />
   <sub>[#173695](https://github.com/flutter/flutter/pull/173695) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173695) over 4 days, 15 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't crash when directory watcher restarts on Windows<br />
+  <sub>[#173987](https://github.com/flutter/flutter/pull/173987) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173987) over 42 minutes, 35 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux linux_android_emulator.debug_x64`<br />
   <sub>[#173989](https://github.com/flutter/flutter/pull/173989) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173989) over 20 hours, 4 additions and 0 deletions in 1 file</sub><br />
