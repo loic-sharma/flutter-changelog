@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-19 commits.
+22 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Shift+Enter shortcut example for TextField.<br />
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) merged on August 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/167952) over 3 months, 186 additions and 0 deletions in 3 files</sub><br />
@@ -14,6 +14,10 @@
   <sub>[#173352](https://github.com/flutter/flutter/pull/173352) merged on August 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173352) over 1 week, 9 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1918" height="300" alt="Screenshot 2025-08-06 213549" src="https://github.com/user-attachments/assets/24d90dfb-6876-4fa2-85ee-01c3c1efd7b8" /><img width="2388" height="630" alt="Screenshot 2025-08-07 011126" src="https://github.com/user-attachments/assets/d74bcd2a-5550-454c-9388-fa9aff9d9167" /></details></sub>
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the AccessibilityPlugin::Announce method to account for the view<br />
+  <sub>[#172669](https://github.com/flutter/flutter/pull/172669) merged on August 19, 2025 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/172669) over 3 weeks, 114 additions and 36 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Simon Pham](https://github.com/simonpham)** &mdash; fix: Android build fails when minSdk is set below 24 in build.gradle.kts (#173823)<br />
   <sub>[#173825](https://github.com/flutter/flutter/pull/173825) merged on August 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173825) over 4 days, 128 additions and 8 deletions in 3 files</sub><br />
@@ -35,6 +39,10 @@
   <sub>[#173695](https://github.com/flutter/flutter/pull/173695) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173695) over 4 days, 15 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Report an error if a web device is unavailable<br />
+  <sub>[#174036](https://github.com/flutter/flutter/pull/174036) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174036) over 7 hours, 184 additions and 31 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Sven Gasterstädt](https://github.com/SvenGasterstaedt)** &mdash; Check that the windows architecture is 64-bit and not the process architecture<br />
   <sub>[#174019](https://github.com/flutter/flutter/pull/174019) merged on August 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174019) over 10 hours, 8 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
@@ -46,6 +54,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't crash when directory watcher restarts on Windows<br />
   <sub>[#173987](https://github.com/flutter/flutter/pull/173987) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173987) over 42 minutes, 35 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix error in ClickDebouncer when using VoiceOver<br />
+  <sub>[#174046](https://github.com/flutter/flutter/pull/174046) merged on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174046) over 5 hours, 78 additions and 23 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup legacy `bringup: true` tasks, either removing or enabling<br />
   <sub>[#173815](https://github.com/flutter/flutter/pull/173815) merged on August 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173815) over 4 days, 0 additions and 27 deletions in 1 file</sub><br />
