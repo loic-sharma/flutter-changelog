@@ -83,9 +83,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbar doesn't crash i…<br />
   <sub>[#173964](https://github.com/flutter/flutter/pull/173964) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173964) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix null assertion when trying to add `@Preview()` to invalid nodes<br />
-  <sub>[#173979](https://github.com/flutter/flutter/pull/173979) opened on on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173979) 213 additions and 19 deletions in 3 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; See if java 21 presubmits will pass<br />
   <sub>[#173985](https://github.com/flutter/flutter/pull/173985) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173985) 3 additions and 3 deletions in 1 file</sub><br />
 
@@ -103,4 +100,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix error in ClickDebouncer when using VoiceOver<br />
   <sub>[#174046](https://github.com/flutter/flutter/pull/174046) opened on on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174046) 78 additions and 23 deletions in 2 files</sub><br />
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `onSelect` called twice in `DropdownMenuFormField`<br />
+  <sub>[#174053](https://github.com/flutter/flutter/pull/174053) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174053) 49 additions and 6 deletions in 2 files</sub><br />
 
