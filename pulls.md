@@ -101,3 +101,6 @@
 * **[Sven Gasterstädt](https://github.com/SvenGasterstaedt)** &mdash; Check that the windows architecture is 64-bit and not the process architecture<br />
   <sub>[#174019](https://github.com/flutter/flutter/pull/174019) opened on on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174019) 5 additions and 3 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Dialog doesn't crash in 0x0 environment<br />
+  <sub>[#174023](https://github.com/flutter/flutter/pull/174023) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174023) 8 additions and 0 deletions in 1 file</sub><br />
+
