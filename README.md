@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-18 commits.
+19 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Shift+Enter shortcut example for TextField.<br />
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) merged on August 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/167952) over 3 months, 186 additions and 0 deletions in 3 files</sub><br />
@@ -70,6 +70,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `embedded_android_views` (on-device) tests, same as emulator test<br />
   <sub>[#173814](https://github.com/flutter/flutter/pull/173814) merged on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173814) over 3 days, 0 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Add logging to test_adapter_test.dart<br />
+  <sub>[#174073](https://github.com/flutter/flutter/pull/174073) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174073) over 46 minutes, 26 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't try to instantiate invalid `@Preview()` applications<br />
   <sub>[#173984](https://github.com/flutter/flutter/pull/173984) merged on August 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173984) over 1 hour, 222 additions and 23 deletions in 3 files</sub><br />

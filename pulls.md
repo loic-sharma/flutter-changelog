@@ -63,7 +63,7 @@
   <sub>[#173827](https://github.com/flutter/flutter/pull/173827) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173827) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [SchedulerBinding] Add forceFramesEnabled to allow rendering when app is hidden or paused<br />
-  <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173862) 146 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173862) 146 additions and 2 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] remove the deprecated `focusable` flag in Focus widget. <br />
   <sub>[#173880](https://github.com/flutter/flutter/pull/173880) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173880) 13 additions and 26 deletions in 3 files</sub><br />
@@ -109,7 +109,4 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Increase testing coverage and maintainability of android manifest parsing logic<br />
   <sub>[#174070](https://github.com/flutter/flutter/pull/174070) opened on on August 19, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174070) 418 additions and 203 deletions in 4 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Add logging to test_adapter_test.dart<br />
-  <sub>[#174073](https://github.com/flutter/flutter/pull/174073) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174073) 26 additions and 3 deletions in 2 files</sub><br />
 
