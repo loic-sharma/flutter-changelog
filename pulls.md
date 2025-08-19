@@ -116,3 +116,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Increase testing coverage and maintainability of android manifest parsing logic<br />
   <sub>[#174070](https://github.com/flutter/flutter/pull/174070) opened on on August 19, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174070) 418 additions and 203 deletions in 4 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Add logging to test_adapter_test.dart<br />
+  <sub>[#174073](https://github.com/flutter/flutter/pull/174073) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174073) 26 additions and 3 deletions in 2 files</sub><br />
+
