@@ -119,3 +119,15 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Add logging to test_adapter_test.dart<br />
   <sub>[#174073](https://github.com/flutter/flutter/pull/174073) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174073) 26 additions and 3 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add `open_jdk` to `Linux analyze`<br />
+  <sub>[#174075](https://github.com/flutter/flutter/pull/174075) opened on on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174075) 2 additions and 1 deletion in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add `open_jdk` to `Linux analyze`<br />
+  <sub>[#174076](https://github.com/flutter/flutter/pull/174076) opened on on August 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174076) 2 additions and 1 deletion in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add `open_jdk` to `Linux linux_android_emulator.debug_x64`<br />
+  <sub>[#174077](https://github.com/flutter/flutter/pull/174077) opened on on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174077) 4 additions and 0 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add `open_jdk` to `Linux linux_android_emulator.debug_x64`<br />
+  <sub>[#174078](https://github.com/flutter/flutter/pull/174078) opened on on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174078) 4 additions and 0 deletions in 1 file</sub><br />
+
