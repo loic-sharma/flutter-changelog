@@ -38,9 +38,6 @@
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; web_ui: avoid crash for showPerformanceOverlay; log 'not supported' once<br />
-  <sub>[#173518](https://github.com/flutter/flutter/pull/173518) opened on on August 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173518) 12 additions and 2 deletions in 1 file</sub><br />
-
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
   <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173570) 200 additions and 52 deletions in 4 files</sub><br />
 
@@ -92,21 +89,9 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Remove obsolete vulkan_window source files<br />
   <sub>[#174087](https://github.com/flutter/flutter/pull/174087) opened on on August 20, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/174087) 4 additions and 402 deletions in 6 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate page transition builder to widgets<br />
-  <sub>[#174090](https://github.com/flutter/flutter/pull/174090) opened on on August 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174090) 18 additions and 17 deletions in 7 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AlertDialog doesn't crash in 0x0 environment<br />
-  <sub>[#174091](https://github.com/flutter/flutter/pull/174091) opened on on August 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174091) 8 additions and 0 deletions in 1 file</sub><br />
-
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Test PR do not review<br />
   <sub>[#174093](https://github.com/flutter/flutter/pull/174093) opened on on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174093) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[safaIocod](https://github.com/safaIocod)** &mdash; Improve date input formatting in date picker<br />
-  <sub>[#174094](https://github.com/flutter/flutter/pull/174094) opened on on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174094) 38 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix typo in widget_inspector.dart<br />
   <sub>[#174115](https://github.com/flutter/flutter/pull/174115) opened on on August 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174115) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix logic statements in year2023 documentation<br />
-  <sub>[#174120](https://github.com/flutter/flutter/pull/174120) opened on on August 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174120) 9 additions and 9 deletions in 3 files</sub><br />
 
