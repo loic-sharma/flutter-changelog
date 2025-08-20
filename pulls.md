@@ -113,3 +113,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Widget Preview ] Report an error if a web device is unavailable (#174036)<br />
   <sub>[#174085](https://github.com/flutter/flutter/pull/174085) opened on on August 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174085) 177 additions and 27 deletions in 6 files</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; Remove obsolete vulkan_window source files<br />
+  <sub>[#174087](https://github.com/flutter/flutter/pull/174087) opened on on August 20, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/174087) 4 additions and 402 deletions in 6 files</sub><br />
+
