@@ -854,7 +854,7 @@
 ### August 9, 2025 to August 15, 2025
 
 <details>
-<summary>19 commits...</summary>
+<summary>18 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Add a quick version of getting started
   <sub>[#12052](https://github.com/flutter/website/pull/12052) merged on August 14, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/website/pull/12052) over 2 months, 503 additions and 5 deletions in 5 files</sub>
@@ -875,10 +875,6 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; [3.3.5 or earlier] Flutter Widget Previewer user guide
   <sub>[#12294](https://github.com/flutter/website/pull/12294) merged on August 12, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/12294) over 18 hours, 163 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Ander Dobo](https://github.com/anderdobo), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update supported platforms
-  <sub>[#12230](https://github.com/flutter/website/pull/12230) merged on August 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12230) over 3 weeks, 26 additions and 27 deletions in 7 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [3.35] Update docs for hot reload on the web
   <sub>[#12216](https://github.com/flutter/website/pull/12216) merged on August 13, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12216) over 3 weeks, 59 additions and 44 deletions in 2 files</sub>
