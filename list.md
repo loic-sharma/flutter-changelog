@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-28 commits.
+29 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets
   <sub>[#170060](https://github.com/flutter/flutter/pull/170060) merged on August 20, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/170060) over 2 months, 374 additions and 202 deletions in 3 files</sub>
@@ -32,6 +32,10 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the AccessibilityPlugin::Announce method to account for the view
   <sub>[#172669](https://github.com/flutter/flutter/pull/172669) merged on August 19, 2025 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/172669) over 3 weeks, 114 additions and 36 deletions in 11 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[ShantanuBorkar](https://github.com/AlsoShantanuBorkar)** &mdash; feat: Added FocusNode prop for DropdownMenu Trailing Icon Button
+  <sub>[#172753](https://github.com/flutter/flutter/pull/172753) merged on August 20, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/172753) over 3 weeks, 172 additions and 24 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [davidhicks980](https://github.com/davidhicks980), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…
   <sub>[#171198](https://github.com/flutter/flutter/pull/171198) merged on August 19, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/171198) over 1 month, 558 additions and 72 deletions in 35 files</sub>

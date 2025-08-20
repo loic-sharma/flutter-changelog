@@ -125,3 +125,6 @@
 * **[safaIocod](https://github.com/safaIocod)** &mdash; Improve date input formatting in date picker<br />
   <sub>[#174094](https://github.com/flutter/flutter/pull/174094) opened on on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174094) 38 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix typo in widget_inspector.dart<br />
+  <sub>[#174115](https://github.com/flutter/flutter/pull/174115) opened on on August 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174115) 1 addition and 1 deletion in 1 file</sub><br />
+
