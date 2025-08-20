@@ -821,7 +821,15 @@
 
 ### August 16, 2025 to August 22, 2025
 
-8 commits.
+10 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add more cross links to quick version of getting started<br />
+  <sub>[#12326](https://github.com/flutter/website/pull/12326) merged on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12326) over 1 day, 18 additions and 6 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pnpm and various npm dependencies<br />
+  <sub>[#12327](https://github.com/flutter/website/pull/12327) merged on August 20, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12327) over 1 day, 226 additions and 225 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Update `google_sign_in`<br />
   <sub>[#12330](https://github.com/flutter/website/pull/12330) merged on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12330) over 18 hours, 22 additions and 15 deletions in 4 files</sub><br />
