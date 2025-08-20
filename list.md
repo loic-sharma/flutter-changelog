@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-30 commits.
+31 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets
   <sub>[#170060](https://github.com/flutter/flutter/pull/170060) merged on August 20, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/170060) over 2 months, 374 additions and 202 deletions in 3 files</sub>
@@ -76,6 +76,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't crash when directory watcher restarts on Windows
   <sub>[#173987](https://github.com/flutter/flutter/pull/173987) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173987) over 42 minutes, 35 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix version code override calculation in FlutterPlugin
+  <sub>[#174081](https://github.com/flutter/flutter/pull/174081) merged on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174081) over 19 hours, 125 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BackButton doesn't crash in 0x0 environment
   <sub>[#172817](https://github.com/flutter/flutter/pull/172817) merged on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172817) over 3 weeks, 12 additions and 0 deletions in 1 file</sub>
