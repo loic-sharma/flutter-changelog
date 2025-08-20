@@ -122,3 +122,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AlertDialog doesn't crash in 0x0 environment<br />
   <sub>[#174091](https://github.com/flutter/flutter/pull/174091) opened on on August 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174091) 8 additions and 0 deletions in 1 file</sub><br />
 
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Test PR do not review<br />
+  <sub>[#174093](https://github.com/flutter/flutter/pull/174093) opened on on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174093) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[safaIocod](https://github.com/safaIocod)** &mdash; Improve date input formatting in date picker<br />
+  <sub>[#174094](https://github.com/flutter/flutter/pull/174094) opened on on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174094) 38 additions and 0 deletions in 1 file</sub><br />
+
