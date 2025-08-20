@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-34 commits.
+36 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets<br />
   <sub>[#170060](https://github.com/flutter/flutter/pull/170060) merged on August 20, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/170060) over 2 months, 374 additions and 202 deletions in 3 files</sub><br />
@@ -19,6 +19,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Shift+Enter shortcut example for TextField.<br />
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) merged on August 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/167952) over 3 months, 186 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `onSelect` called twice in `DropdownMenuFormField`<br />
+  <sub>[#174053](https://github.com/flutter/flutter/pull/174053) merged on August 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174053) over 1 day, 49 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Improve Stack widget error message for bounded constraints<br />
   <sub>[#173352](https://github.com/flutter/flutter/pull/173352) merged on August 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173352) over 1 week, 9 additions and 1 deletion in 1 file</sub><br />
@@ -97,8 +101,8 @@
   <sub>[#174046](https://github.com/flutter/flutter/pull/174046) merged on August 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174046) over 5 hours, 78 additions and 23 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux linux_android_emulator.debug_x64`<br />
-  <sub>[#173989](https://github.com/flutter/flutter/pull/173989) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173989) over 20 hours, 4 additions and 0 deletions in 1 file</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `embedded_android_views` (on-device) tests, same as emulator test<br />
+  <sub>[#173814](https://github.com/flutter/flutter/pull/173814) merged on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173814) over 3 days, 0 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux analyze`<br />
@@ -113,13 +117,13 @@
   <sub>[#173978](https://github.com/flutter/flutter/pull/173978) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173978) over 1 hour, 35 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `embedded_android_views` (on-device) tests, same as emulator test<br />
-  <sub>[#173814](https://github.com/flutter/flutter/pull/173814) merged on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173814) over 3 days, 0 additions and 9 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup legacy `bringup: true` tasks, either removing or enabling<br />
   <sub>[#173815](https://github.com/flutter/flutter/pull/173815) merged on August 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173815) over 4 days, 0 additions and 27 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux linux_android_emulator.debug_x64`<br />
+  <sub>[#173989](https://github.com/flutter/flutter/pull/173989) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173989) over 20 hours, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CircleAvatar doesn't crash in 0x0 environment<br />
   <sub>[#173498](https://github.com/flutter/flutter/pull/173498) merged on August 20, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173498) over 1 week, 8 additions and 0 deletions in 1 file</sub><br />
@@ -140,6 +144,10 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Use DWDS 25.0.1<br />
   <sub>[#173777](https://github.com/flutter/flutter/pull/173777) merged on August 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173777) over 4 days, 55 additions and 74 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate some files to use `WidgetStateProperty`<br />
+  <sub>[#174109](https://github.com/flutter/flutter/pull/174109) merged on August 20, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/174109) over 11 hours, 208 additions and 250 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that CalendarDatePicker & YearPicker don't crash in 0x0 environment<br />
   <sub>[#173408](https://github.com/flutter/flutter/pull/173408) merged on August 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173408) over 1 week, 55 additions and 3 deletions in 2 files</sub><br />
