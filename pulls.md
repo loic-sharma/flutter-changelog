@@ -87,5 +87,5 @@
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; [A11y] Announce Expansible expansion status<br />
-  <sub>[#174169](https://github.com/flutter/flutter/pull/174169) opened on on August 20, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/174169) 765 additions and 98 deletions in 84 files</sub><br />
+  <sub>[#174169](https://github.com/flutter/flutter/pull/174169) opened on on August 20, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174169) 765 additions and 98 deletions in 84 files</sub><br />
 
