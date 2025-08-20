@@ -71,7 +71,7 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Increase testing coverage and maintainability of android manifest parsing logic<br />
   <sub>[#174070](https://github.com/flutter/flutter/pull/174070) opened on on August 19, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174070) 418 additions and 203 deletions in 4 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Make sure inline passes always do a load action.<br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Make sure inline passes always do a clear action.<br />
   <sub>[#174083](https://github.com/flutter/flutter/pull/174083) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174083) 54 additions and 6 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Remove obsolete vulkan_window source files<br />
