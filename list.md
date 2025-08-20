@@ -26,7 +26,7 @@
   <sub><details><summary>2 images...</summary><img width="1918" height="300" alt="Screenshot 2025-08-06 213549" src="https://github.com/user-attachments/assets/24d90dfb-6876-4fa2-85ee-01c3c1efd7b8" /><img width="2388" height="630" alt="Screenshot 2025-08-07 011126" src="https://github.com/user-attachments/assets/d74bcd2a-5550-454c-9388-fa9aff9d9167" /></details></sub>
 
 * **[Simon Pham](https://github.com/simonpham)** &mdash; fix: Android build fails when minSdk is set below 24 in build.gradle.kts (#173823)
-  <sub>[#173825](https://github.com/flutter/flutter/pull/173825) merged on August 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173825) over 4 days, 128 additions and 8 deletions in 3 files</sub>
+  <sub>[#173825](https://github.com/flutter/flutter/pull/173825) merged on August 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173825) over 4 days, 128 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the AccessibilityPlugin::Announce method to account for the view
