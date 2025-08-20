@@ -87,5 +87,5 @@
   <sub>[#174163](https://github.com/flutter/flutter/pull/174163) opened on on August 20, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/174163) 558 additions and 72 deletions in 35 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
-  <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
