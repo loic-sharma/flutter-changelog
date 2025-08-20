@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-27 commits.
+28 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets
   <sub>[#170060](https://github.com/flutter/flutter/pull/170060) merged on August 20, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/170060) over 2 months, 374 additions and 202 deletions in 3 files</sub>
@@ -48,6 +48,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Enhance FilledButton and Theme Data's documentation to clarify platform-specific visual density behavior
   <sub>[#173695](https://github.com/flutter/flutter/pull/173695) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173695) over 4 days, 15 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make component theme data defaults use `WidgetStateProperty`
+  <sub>[#173893](https://github.com/flutter/flutter/pull/173893) merged on August 20, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/173893) over 4 days, 386 additions and 387 deletions in 43 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; [VPAT][A11y] NavigationRail correct traversal order
   <sub>[#173891](https://github.com/flutter/flutter/pull/173891) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173891) over 3 days, 24 additions and 21 deletions in 2 files</sub>
