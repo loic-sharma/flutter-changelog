@@ -119,6 +119,3 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [CP-stable][web] Fix error in ClickDebouncer when using VoiceOver<br />
   <sub>[#174129](https://github.com/flutter/flutter/pull/174129) opened on on August 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174129) 79 additions and 24 deletions in 2 files</sub><br />
 
-* **[FreudDev](https://github.com/freud-Al)** &mdash; Update engine.version for 3.29.0 release (#163003)<br />
-  <sub>[#174136](https://github.com/flutter/flutter/pull/174136) opened on on August 20, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174136) 1509 additions and 948 deletions in 63 files</sub><br />
-
