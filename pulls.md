@@ -75,7 +75,7 @@
   <sub>[#174083](https://github.com/flutter/flutter/pull/174083) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174083) 54 additions and 6 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Remove obsolete vulkan_window source files<br />
-  <sub>[#174087](https://github.com/flutter/flutter/pull/174087) opened on on August 20, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/174087) 4 additions and 402 deletions in 6 files</sub><br />
+  <sub>[#174087](https://github.com/flutter/flutter/pull/174087) opened on on August 20, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/174087) 4 additions and 402 deletions in 6 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Test PR do not review<br />
   <sub>[#174093](https://github.com/flutter/flutter/pull/174093) opened on on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174093) 0 additions and 1 deletion in 1 file</sub><br />
@@ -85,4 +85,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge"<br />
   <sub>[#174163](https://github.com/flutter/flutter/pull/174163) opened on on August 20, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/174163) 558 additions and 72 deletions in 35 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
+  <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
