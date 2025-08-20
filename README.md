@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-31 commits.
+32 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets<br />
   <sub>[#170060](https://github.com/flutter/flutter/pull/170060) merged on August 20, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/170060) over 2 months, 374 additions and 202 deletions in 3 files</sub><br />
@@ -38,7 +38,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [davidhicks980](https://github.com/davidhicks980), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge (#161…<br />
-  <sub>[#171198](https://github.com/flutter/flutter/pull/171198) merged on August 19, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/171198) over 1 month, 558 additions and 72 deletions in 35 files</sub><br />
+  <sub>[#171198](https://github.com/flutter/flutter/pull/171198) merged on August 19, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/171198) over 1 month, 558 additions and 72 deletions in 35 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[DelcoigneYves](https://github.com/DelcoigneYves)** &mdash; fix: only use library props for libraries<br />
@@ -116,6 +116,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `embedded_android_views` (on-device) tests, same as emulator test<br />
   <sub>[#173814](https://github.com/flutter/flutter/pull/173814) merged on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173814) over 3 days, 0 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CircleAvatar doesn't crash in 0x0 environment<br />
+  <sub>[#173498](https://github.com/flutter/flutter/pull/173498) merged on August 20, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173498) over 1 week, 8 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix SegmentedButton focus issue<br />
   <sub>[#173953](https://github.com/flutter/flutter/pull/173953) merged on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173953) over 1 day, 106 additions and 39 deletions in 2 files</sub><br />
@@ -854,7 +858,7 @@
 ### August 9, 2025 to August 15, 2025
 
 <details>
-<summary>18 commits...</summary>
+<summary>19 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Add a quick version of getting started<br />
   <sub>[#12052](https://github.com/flutter/website/pull/12052) merged on August 14, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/website/pull/12052) over 2 months, 503 additions and 5 deletions in 5 files</sub><br />
@@ -875,6 +879,10 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; [3.3.5 or earlier] Flutter Widget Previewer user guide<br />
   <sub>[#12294](https://github.com/flutter/website/pull/12294) merged on August 12, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/12294) over 18 hours, 163 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Ander Dobo](https://github.com/anderdobo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.35] Update supported platforms<br />
+  <sub>[#12230](https://github.com/flutter/website/pull/12230) merged on August 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12230) over 3 weeks, 26 additions and 27 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [3.35] Update docs for hot reload on the web<br />
   <sub>[#12216](https://github.com/flutter/website/pull/12216) merged on August 13, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12216) over 3 weeks, 59 additions and 44 deletions in 2 files</sub><br />
