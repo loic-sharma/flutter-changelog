@@ -83,3 +83,6 @@
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix typo in widget_inspector.dart<br />
   <sub>[#174115](https://github.com/flutter/flutter/pull/174115) opened on on August 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174115) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply "Add set semantics enabled API and wire iOS a11y bridge"<br />
+  <sub>[#174163](https://github.com/flutter/flutter/pull/174163) opened on on August 20, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/174163) 558 additions and 72 deletions in 35 files</sub><br />
+
