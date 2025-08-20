@@ -809,7 +809,11 @@
 
 ### August 16, 2025 to August 22, 2025
 
-7 commits.
+8 commits.
+
+* **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Update `google_sign_in`
+  <sub>[#12330](https://github.com/flutter/website/pull/12330) merged on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12330) over 18 hours, 22 additions and 15 deletions in 4 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update example sources with new lints and cleanup
   <sub>[#12325](https://github.com/flutter/website/pull/12325) merged on August 19, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/12325) over 37 minutes, 189 additions and 160 deletions in 70 files</sub>
