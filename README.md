@@ -4,7 +4,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-37 commits.
+38 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets<br />
   <sub>[#170060](https://github.com/flutter/flutter/pull/170060) merged on August 20, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/170060) over 2 months, 374 additions and 202 deletions in 3 files</sub><br />
@@ -61,6 +61,10 @@
   <sub>[#173893](https://github.com/flutter/flutter/pull/173893) merged on August 20, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/173893) over 4 days, 386 additions and 387 deletions in 43 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; [VPAT][A11y] NavigationRail correct traversal order<br />
+  <sub>[#173891](https://github.com/flutter/flutter/pull/173891) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173891) over 3 days, 24 additions and 21 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Report an error if a web device is unavailable<br />
   <sub>[#174036](https://github.com/flutter/flutter/pull/174036) merged on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174036) over 7 hours, 184 additions and 31 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -77,9 +81,9 @@
   <sub>[#173987](https://github.com/flutter/flutter/pull/173987) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173987) over 42 minutes, 35 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; [VPAT][A11y] NavigationRail correct traversal order<br />
-  <sub>[#173891](https://github.com/flutter/flutter/pull/173891) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173891) over 3 days, 24 additions and 21 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][tools] do not print out bonjour key not found in non-verbose mode<br />
+  <sub>[#174001](https://github.com/flutter/flutter/pull/174001) merged on August 20, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/174001) over 1 day, 221 additions and 156 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Autocomplete doesn't crash in 0x0 environment<br />
   <sub>[#172732](https://github.com/flutter/flutter/pull/172732) merged on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/172732) over 3 weeks, 19 additions and 0 deletions in 1 file</sub><br />
@@ -93,20 +97,20 @@
   <sub>[#174081](https://github.com/flutter/flutter/pull/174081) merged on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174081) over 19 hours, 125 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BackButton doesn't crash in 0x0 environment<br />
-  <sub>[#172817](https://github.com/flutter/flutter/pull/172817) merged on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172817) over 3 weeks, 12 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix error in ClickDebouncer when using VoiceOver<br />
   <sub>[#174046](https://github.com/flutter/flutter/pull/174046) merged on August 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174046) over 5 hours, 78 additions and 23 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BackButton doesn't crash in 0x0 environment<br />
+  <sub>[#172817](https://github.com/flutter/flutter/pull/172817) merged on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/172817) over 3 weeks, 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Update CupertinoSliverNavigationBar.middle<br />
   <sub>[#173868](https://github.com/flutter/flutter/pull/173868) merged on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173868) over 4 days, 49 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `embedded_android_views` (on-device) tests, same as emulator test<br />
-  <sub>[#173814](https://github.com/flutter/flutter/pull/173814) merged on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173814) over 3 days, 0 additions and 9 deletions in 1 file</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux linux_android_emulator.debug_x64`<br />
+  <sub>[#173989](https://github.com/flutter/flutter/pull/173989) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173989) over 20 hours, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux analyze`<br />
@@ -125,8 +129,8 @@
   <sub>[#173815](https://github.com/flutter/flutter/pull/173815) merged on August 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173815) over 4 days, 0 additions and 27 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `open_jdk` to `Linux linux_android_emulator.debug_x64`<br />
-  <sub>[#173989](https://github.com/flutter/flutter/pull/173989) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173989) over 20 hours, 4 additions and 0 deletions in 1 file</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `embedded_android_views` (on-device) tests, same as emulator test<br />
+  <sub>[#173814](https://github.com/flutter/flutter/pull/173814) merged on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173814) over 3 days, 0 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CircleAvatar doesn't crash in 0x0 environment<br />
