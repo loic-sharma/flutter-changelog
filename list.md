@@ -4,7 +4,12 @@
 
 ### August 16, 2025 to August 22, 2025
 
-24 commits.
+26 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets
+  <sub>[#170060](https://github.com/flutter/flutter/pull/170060) merged on August 20, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/170060) over 2 months, 374 additions and 202 deletions in 3 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+  <sub><details><summary>2 images...</summary>![Image](https://github.com/user-attachments/assets/9395a032-0e5c-4255-8620-e2c499bfed44) | ![Image](https://github.com/user-attachments/assets/5a63b78c-45d2-4958-9088-5bc89c02c7fe) | ![Image](https://github.com/user-attachments/assets/0b2ac630-9b8d-44ed-936f-297bd2798981) ![Image](https://github.com/user-attachments/assets/f4750ded-fc4b-4d86-8825-f4e9b38b6231)![image](https://github.com/user-attachments/assets/fde7d655-6151-42d8-a162-fe410e2278da) | ![Image](https://github.com/user-attachments/assets/5a63b78c-45d2-4958-9088-5bc89c02c7fe) | ![Image](https://github.com/user-attachments/assets/0b2ac630-9b8d-44ed-936f-297bd2798981) ![Image](https://github.com/user-attachments/assets/f4750ded-fc4b-4d86-8825-f4e9b38b6231)</details></sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Shift+Enter shortcut example for TextField.
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) merged on August 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/167952) over 3 months, 186 additions and 0 deletions in 3 files</sub>
@@ -90,6 +95,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `embedded_android_views` (on-device) tests, same as emulator test
   <sub>[#173814](https://github.com/flutter/flutter/pull/173814) merged on August 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173814) over 3 days, 0 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix SegmentedButton focus issue
+  <sub>[#173953](https://github.com/flutter/flutter/pull/173953) merged on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173953) over 1 day, 106 additions and 39 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Add logging to test_adapter_test.dart
   <sub>[#174073](https://github.com/flutter/flutter/pull/174073) merged on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174073) over 46 minutes, 26 additions and 3 deletions in 2 files</sub>
