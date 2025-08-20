@@ -84,7 +84,7 @@
   <sub>[#174023](https://github.com/flutter/flutter/pull/174023) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174023) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add regression test for issue 173895<br />
-  <sub>[#174037](https://github.com/flutter/flutter/pull/174037) opened on on August 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174037) 86 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#174037](https://github.com/flutter/flutter/pull/174037) opened on on August 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174037) 95 additions and 0 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics for disabled buttons in date picker<br />
   <sub>[#174064](https://github.com/flutter/flutter/pull/174064) opened on on August 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174064) 144 additions and 36 deletions in 3 files</sub><br />
