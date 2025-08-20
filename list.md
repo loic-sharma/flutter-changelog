@@ -809,7 +809,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-6 commits.
+7 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update example sources with new lints and cleanup
   <sub>[#12325](https://github.com/flutter/website/pull/12325) merged on August 19, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/12325) over 37 minutes, 189 additions and 160 deletions in 70 files</sub>
@@ -830,6 +830,10 @@
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Fix for Issue #12144
   <sub>[#12320](https://github.com/flutter/website/pull/12320) merged on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12320) over 18 hours, 3 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Remove warning about JIT error on iOS 26
+  <sub>[#12334](https://github.com/flutter/website/pull/12334) merged on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12334) over 1 hour, 0 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Fix Preview class broken url in widget-previewer.md
   <sub>[#12317](https://github.com/flutter/website/pull/12317) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12317) over 1 day, 1 addition and 1 deletion in 1 file</sub>

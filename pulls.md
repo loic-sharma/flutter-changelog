@@ -53,29 +53,14 @@
 * **[Oreofe Solarin](https://github.com/DEVSOG12)** &mdash; Impeller: Convert GLProc name field and GLErrorToString to std::string_view<br />
   <sub>[#173771](https://github.com/flutter/flutter/pull/173771) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173771) 53 additions and 10 deletions in 4 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbarButton doesn't crash in 0…<br />
-  <sub>[#173827](https://github.com/flutter/flutter/pull/173827) opened on on August 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173827) 12 additions and 0 deletions in 1 file</sub><br />
-
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [SchedulerBinding] Add forceFramesEnabled to allow rendering when app is hidden or paused<br />
   <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173862) 146 additions and 2 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] remove the deprecated `focusable` flag in Focus widget. <br />
   <sub>[#173880](https://github.com/flutter/flutter/pull/173880) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173880) 13 additions and 26 deletions in 3 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbarButton doesn't c…<br />
-  <sub>[#173894](https://github.com/flutter/flutter/pull/173894) opened on on August 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173894) 12 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbar doesn't crash in 0x0 env…<br />
-  <sub>[#173928](https://github.com/flutter/flutter/pull/173928) opened on on August 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173928) 13 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbar doesn't crash i…<br />
-  <sub>[#173964](https://github.com/flutter/flutter/pull/173964) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173964) 15 additions and 0 deletions in 1 file</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add review agent style guidelines to .gemini/styleguide.md<br />
   <sub>[#174000](https://github.com/flutter/flutter/pull/174000) opened on on August 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174000) 10 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Dialog doesn't crash in 0x0 environment<br />
-  <sub>[#174023](https://github.com/flutter/flutter/pull/174023) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174023) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add regression test for issue 173895<br />
   <sub>[#174037](https://github.com/flutter/flutter/pull/174037) opened on on August 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174037) 95 additions and 0 deletions in 1 file</sub><br />
@@ -85,6 +70,9 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Increase testing coverage and maintainability of android manifest parsing logic<br />
   <sub>[#174070](https://github.com/flutter/flutter/pull/174070) opened on on August 19, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174070) 418 additions and 203 deletions in 4 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Make sure inline passes always do a load action.<br />
+  <sub>[#174083](https://github.com/flutter/flutter/pull/174083) opened on on August 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174083) 54 additions and 6 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Remove obsolete vulkan_window source files<br />
   <sub>[#174087](https://github.com/flutter/flutter/pull/174087) opened on on August 20, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/174087) 4 additions and 402 deletions in 6 files</sub><br />
