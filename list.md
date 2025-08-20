@@ -4,12 +4,17 @@
 
 ### August 16, 2025 to August 22, 2025
 
-26 commits.
+27 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets
   <sub>[#170060](https://github.com/flutter/flutter/pull/170060) merged on August 20, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/170060) over 2 months, 374 additions and 202 deletions in 3 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
   <sub><details><summary>2 images...</summary>![Image](https://github.com/user-attachments/assets/9395a032-0e5c-4255-8620-e2c499bfed44) | ![Image](https://github.com/user-attachments/assets/5a63b78c-45d2-4958-9088-5bc89c02c7fe) | ![Image](https://github.com/user-attachments/assets/0b2ac630-9b8d-44ed-936f-297bd2798981) ![Image](https://github.com/user-attachments/assets/f4750ded-fc4b-4d86-8825-f4e9b38b6231)![image](https://github.com/user-attachments/assets/fde7d655-6151-42d8-a162-fe410e2278da) | ![Image](https://github.com/user-attachments/assets/5a63b78c-45d2-4958-9088-5bc89c02c7fe) | ![Image](https://github.com/user-attachments/assets/0b2ac630-9b8d-44ed-936f-297bd2798981) ![Image](https://github.com/user-attachments/assets/f4750ded-fc4b-4d86-8825-f4e9b38b6231)</details></sub>
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix Menu anchor reduce padding on web and desktop
+  <sub>[#172691](https://github.com/flutter/flutter/pull/172691) merged on August 20, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/172691) over 3 weeks, 117 additions and 22 deletions in 3 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+  <sub><details><summary>4 images...</summary><img width="400" src="https://github.com/user-attachments/assets/1abd3962-14bb-497c-9bea-f0ff847e2dd6"><img width="400" src="https://github.com/user-attachments/assets/783d96b4-b93f-4b26-8cc7-abdbcf362992"><img width="400" src="https://github.com/user-attachments/assets/8a7442b9-77e6-477e-afd9-82a304fadcba"><img width="400" src="https://github.com/user-attachments/assets/029ccecf-3cf6-40b3-9233-7eb3d7a88eda"></details></sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Shift+Enter shortcut example for TextField.
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) merged on August 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/167952) over 3 months, 186 additions and 0 deletions in 3 files</sub>
