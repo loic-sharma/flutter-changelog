@@ -128,3 +128,6 @@
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix typo in widget_inspector.dart<br />
   <sub>[#174115](https://github.com/flutter/flutter/pull/174115) opened on on August 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174115) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix logic statements in year2023 documentation<br />
+  <sub>[#174120](https://github.com/flutter/flutter/pull/174120) opened on on August 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174120) 9 additions and 9 deletions in 3 files</sub><br />
+
