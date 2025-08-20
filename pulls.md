@@ -89,9 +89,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add regression test for issue 173895<br />
   <sub>[#174037](https://github.com/flutter/flutter/pull/174037) opened on on August 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174037) 86 additions and 0 deletions in 1 file</sub><br />
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `onSelect` called twice in `DropdownMenuFormField`<br />
-  <sub>[#174053](https://github.com/flutter/flutter/pull/174053) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174053) 49 additions and 6 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Don't crash when directory watcher restarts on Windows<br />
   <sub>[#174054](https://github.com/flutter/flutter/pull/174054) opened on on August 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174054) 35 additions and 2 deletions in 4 files</sub><br />
 
