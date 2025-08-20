@@ -92,9 +92,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Increase testing coverage and maintainability of android manifest parsing logic<br />
   <sub>[#174070](https://github.com/flutter/flutter/pull/174070) opened on on August 19, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174070) 418 additions and 203 deletions in 4 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix version code override calculation in FlutterPlugin<br />
-  <sub>[#174081](https://github.com/flutter/flutter/pull/174081) opened on on August 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174081) 125 additions and 7 deletions in 2 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; Remove obsolete vulkan_window source files<br />
   <sub>[#174087](https://github.com/flutter/flutter/pull/174087) opened on on August 20, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/174087) 4 additions and 402 deletions in 6 files</sub><br />
 
@@ -115,7 +112,4 @@
 
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix logic statements in year2023 documentation<br />
   <sub>[#174120](https://github.com/flutter/flutter/pull/174120) opened on on August 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174120) 9 additions and 9 deletions in 3 files</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [CP-stable][web] Fix error in ClickDebouncer when using VoiceOver<br />
-  <sub>[#174129](https://github.com/flutter/flutter/pull/174129) opened on on August 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174129) 79 additions and 24 deletions in 2 files</sub><br />
 
