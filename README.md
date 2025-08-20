@@ -888,7 +888,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Remove warning about JIT error on iOS 26<br />
-  <sub>[#12334](https://github.com/flutter/website/pull/12334) merged on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12334) over 1 hour, 0 additions and 13 deletions in 1 file</sub><br />
+  <sub>[#12334](https://github.com/flutter/website/pull/12334) merged on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12334) over 1 hour, 0 additions and 13 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Fix Preview class broken url in widget-previewer.md<br />
