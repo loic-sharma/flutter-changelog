@@ -671,7 +671,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-7 commits.
+8 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router]: Add `RelativeGoRouteData` and `TypedRelativeGoRoute`<br />
   <sub>[#9732](https://github.com/flutter/packages/pull/9732) merged on August 18, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/9732) over 2 weeks, 445 additions and 94 deletions in 4 files</sub><br />
@@ -692,6 +692,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [flutter_migrate] Remove source<br />
   <sub>[#9847](https://github.com/flutter/packages/pull/9847) merged on August 19, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9847) over 17 hours, 0 additions and 14712 deletions in 63 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Handle automatic PopScope<br />
+  <sub>[#9856](https://github.com/flutter/packages/pull/9856) merged on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9856) over 1 day, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add com.android.tools.build:gradle to dependabot gradle-plugin group<br />
   <sub>[#9848](https://github.com/flutter/packages/pull/9848) merged on August 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9848) over 16 hours, 1 addition and 0 deletions in 1 file</sub><br />
