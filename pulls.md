@@ -84,5 +84,5 @@
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Update the AccessibilityPlugin::Announce method to account fo…<br />
-  <sub>[#174223](https://github.com/flutter/flutter/pull/174223) opened on on August 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174223) 36 additions and 114 deletions in 11 files</sub><br />
+  <sub>[#174223](https://github.com/flutter/flutter/pull/174223) opened on on August 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174223) 36 additions and 114 deletions in 11 files</sub><br />
 

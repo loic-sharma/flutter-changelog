@@ -34,7 +34,7 @@
   <sub><details><summary>2 images...</summary><img width="1918" height="300" alt="Screenshot 2025-08-06 213549" src="https://github.com/user-attachments/assets/24d90dfb-6876-4fa2-85ee-01c3c1efd7b8" /><img width="2388" height="630" alt="Screenshot 2025-08-07 011126" src="https://github.com/user-attachments/assets/d74bcd2a-5550-454c-9388-fa9aff9d9167" /></details></sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the AccessibilityPlugin::Announce method to account for the view
-  <sub>[#172669](https://github.com/flutter/flutter/pull/172669) merged on August 19, 2025 &mdash; **Small:** [52 comments](https://github.com/flutter/flutter/pull/172669) over 3 weeks, 114 additions and 36 deletions in 11 files</sub>
+  <sub>[#172669](https://github.com/flutter/flutter/pull/172669) merged on August 19, 2025 &mdash; **Small:** [54 comments](https://github.com/flutter/flutter/pull/172669) over 3 weeks, 114 additions and 36 deletions in 11 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot.
