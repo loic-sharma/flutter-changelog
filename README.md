@@ -872,7 +872,7 @@
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Update `google_sign_in`<br />
-  <sub>[#12330](https://github.com/flutter/website/pull/12330) merged on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12330) over 18 hours, 22 additions and 15 deletions in 4 files</sub><br />
+  <sub>[#12330](https://github.com/flutter/website/pull/12330) merged on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12330) over 18 hours, 22 additions and 15 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update example sources with new lints and cleanup<br />
