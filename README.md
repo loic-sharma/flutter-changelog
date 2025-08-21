@@ -865,7 +865,11 @@
 
 ### August 16, 2025 to August 22, 2025
 
-10 commits.
+11 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update text for google_apis sample update<br />
+  <sub>[#12339](https://github.com/flutter/website/pull/12339) merged on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12339) over 4 hours, 156 additions and 82 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add more cross links to quick version of getting started<br />
   <sub>[#12326](https://github.com/flutter/website/pull/12326) merged on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12326) over 1 day, 18 additions and 6 deletions in 5 files</sub><br />
