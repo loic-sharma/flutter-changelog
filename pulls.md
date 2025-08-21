@@ -89,6 +89,3 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.35] Update `engine.version` and `CHANGELOG.md`<br />
   <sub>[#174173](https://github.com/flutter/flutter/pull/174173) opened on on August 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174173) 11 additions and 1 deletion in 2 files</sub><br />
 
-* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Skip wasm build when dry run is disabled and --wasm is not specified.<br />
-  <sub>[#174184](https://github.com/flutter/flutter/pull/174184) opened on on August 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174184) 40 additions and 7 deletions in 2 files</sub><br />
-
