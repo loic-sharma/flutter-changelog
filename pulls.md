@@ -83,9 +83,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; [A11y] Announce Expansible expansion status<br />
-  <sub>[#174169](https://github.com/flutter/flutter/pull/174169) opened on on August 20, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174169) 857 additions and 101 deletions in 85 files</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Refactor text and runtime effect to separate skia and impeller implementations.<br />
-  <sub>[#174219](https://github.com/flutter/flutter/pull/174219) opened on on August 21, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/174219) 606 additions and 500 deletions in 71 files</sub><br />
-
