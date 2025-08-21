@@ -92,3 +92,6 @@
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Skip wasm build when dry run is disabled and --wasm is not specified.<br />
   <sub>[#174184](https://github.com/flutter/flutter/pull/174184) opened on on August 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174184) 40 additions and 7 deletions in 2 files</sub><br />
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; whitespace<br />
+  <sub>[#174210](https://github.com/flutter/flutter/pull/174210) opened on on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174210) 1 addition and 1 deletion in 1 file</sub><br />
+
