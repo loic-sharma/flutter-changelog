@@ -89,3 +89,9 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.35] Update `engine.version` and `CHANGELOG.md`<br />
   <sub>[#174173](https://github.com/flutter/flutter/pull/174173) opened on on August 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174173) 11 additions and 1 deletion in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][tools] do not print out bonjour key not found in non-verbose mode<br />
+  <sub>[#174181](https://github.com/flutter/flutter/pull/174181) opened on on August 21, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/174181) 221 additions and 156 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ios][tools] do not print out bonjour key not found in non-verbose mode<br />
+  <sub>[#174182](https://github.com/flutter/flutter/pull/174182) opened on on August 21, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/174182) 221 additions and 156 deletions in 3 files</sub><br />
+
