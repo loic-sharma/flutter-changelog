@@ -89,3 +89,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; [A11y] Announce Expansible expansion status<br />
   <sub>[#174169](https://github.com/flutter/flutter/pull/174169) opened on on August 20, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174169) 857 additions and 101 deletions in 85 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.35] Update `engine.version` and `CHANGELOG.md`<br />
+  <sub>[#174173](https://github.com/flutter/flutter/pull/174173) opened on on August 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174173) 11 additions and 1 deletion in 2 files</sub><br />
+
