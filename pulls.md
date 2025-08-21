@@ -90,5 +90,5 @@
   <sub>[#174229](https://github.com/flutter/flutter/pull/174229) opened on on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174229) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Throw `ToolExit` when asset entries use absolute paths<br />
-  <sub>[#174230](https://github.com/flutter/flutter/pull/174230) opened on on August 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174230) 197 additions and 93 deletions in 3 files</sub><br />
+  <sub>[#174230](https://github.com/flutter/flutter/pull/174230) opened on on August 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174230) 197 additions and 93 deletions in 3 files</sub><br />
 
