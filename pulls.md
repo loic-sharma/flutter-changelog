@@ -90,7 +90,7 @@
   <sub>[#174229](https://github.com/flutter/flutter/pull/174229) opened on on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174229) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Throw `ToolExit` when asset entries use absolute paths<br />
-  <sub>[#174230](https://github.com/flutter/flutter/pull/174230) opened on on August 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174230) 199 additions and 95 deletions in 4 files</sub><br />
+  <sub>[#174230](https://github.com/flutter/flutter/pull/174230) opened on on August 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174230) 199 additions and 95 deletions in 4 files</sub><br />
 
 * **[Krzysztof Świętnicki](https://github.com/FufferKS)** &mdash; Update description in _LastFinderMixin to properly describe finding last<br />
   <sub>[#174232](https://github.com/flutter/flutter/pull/174232) opened on on August 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174232) 1 addition and 1 deletion in 1 file</sub><br />
