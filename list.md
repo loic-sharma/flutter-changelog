@@ -731,7 +731,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-8 commits.
+9 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router]: Add `RelativeGoRouteData` and `TypedRelativeGoRoute`
   <sub>[#9732](https://github.com/flutter/packages/pull/9732) merged on August 18, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/9732) over 2 weeks, 445 additions and 94 deletions in 4 files</sub>
@@ -744,6 +744,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Disable SwiftPM for `xcode-analyze`
   <sub>[#9666](https://github.com/flutter/packages/pull/9666) merged on August 18, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9666) over 3 weeks, 207 additions and 230 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes Android IllegalStateException caused by uninitalized `MediaPlayer`
+  <sub>[#9861](https://github.com/flutter/packages/pull/9861) merged on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9861) over 2 days, 212 additions and 51 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Updates ProxyApis to prepare to add support for `AdEvent.ad`
   <sub>[#9785](https://github.com/flutter/packages/pull/9785) merged on August 20, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/9785) over 1 week, 1820 additions and 41 deletions in 21 files</sub>
