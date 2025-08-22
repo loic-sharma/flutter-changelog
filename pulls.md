@@ -92,3 +92,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix SliverMainAxisGroup and SliverCrossAxisGroup gestures' local positions.<br />
   <sub>[#174265](https://github.com/flutter/flutter/pull/174265) opened on on August 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174265) 234 additions and 2 deletions in 3 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for DevTools configuration<br />
+  <sub>[#174272](https://github.com/flutter/flutter/pull/174272) opened on on August 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174272) 42 additions and 9 deletions in 3 files</sub><br />
+
