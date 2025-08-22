@@ -93,8 +93,11 @@
   <sub>[#174265](https://github.com/flutter/flutter/pull/174265) opened on on August 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174265) 234 additions and 2 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for DevTools configuration<br />
-  <sub>[#174272](https://github.com/flutter/flutter/pull/174272) opened on on August 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174272) 42 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#174272](https://github.com/flutter/flutter/pull/174272) opened on on August 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174272) 48 additions and 11 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Ensure `--dds-port=<port>` is respected when targeting web devices<br />
   <sub>[#174278](https://github.com/flutter/flutter/pull/174278) opened on on August 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174278) 48 additions and 10 deletions in 7 files</sub><br />
+
+* **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity<br />
+  <sub>[#174286](https://github.com/flutter/flutter/pull/174286) opened on on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174286) 30 additions and 18 deletions in 1 file</sub><br />
 
