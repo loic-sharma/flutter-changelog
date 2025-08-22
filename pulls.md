@@ -101,9 +101,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't emit artifact downloading messages when --machine is provided<br />
   <sub>[#174301](https://github.com/flutter/flutter/pull/174301) opened on on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174301) 57 additions and 3 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll DWDS to fix `ExistingDartDevelopmentServiceException`<br />
-  <sub>[#174306](https://github.com/flutter/flutter/pull/174306) opened on on August 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174306) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]`_downloadArtifacts` (Web SDK) uses content-aware hashing in post-submit<br />
   <sub>[#174309](https://github.com/flutter/flutter/pull/174309) opened on on August 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174309) 32 additions and 1 deletion in 3 files</sub><br />
 
