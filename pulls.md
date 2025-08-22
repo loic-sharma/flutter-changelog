@@ -92,15 +92,15 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix SliverMainAxisGroup and SliverCrossAxisGroup gestures' local positions.<br />
   <sub>[#174265](https://github.com/flutter/flutter/pull/174265) opened on on August 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174265) 234 additions and 2 deletions in 3 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix documentation in createAppLinkSettings to match what's actually passed<br />
-  <sub>[#174285](https://github.com/flutter/flutter/pull/174285) opened on on August 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174285) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity<br />
   <sub>[#174286](https://github.com/flutter/flutter/pull/174286) opened on on August 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174286) 39 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation<br />
   <sub>[#174292](https://github.com/flutter/flutter/pull/174292) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174292) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation function name<br />
+  <sub>[#174297](https://github.com/flutter/flutter/pull/174297) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174297) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't emit artifact downloading messages when --machine is provided<br />
-  <sub>[#174301](https://github.com/flutter/flutter/pull/174301) opened on on August 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174301) 58 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#174301](https://github.com/flutter/flutter/pull/174301) opened on on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174301) 57 additions and 3 deletions in 2 files</sub><br />
 
