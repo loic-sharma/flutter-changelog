@@ -95,3 +95,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for DevTools configuration<br />
   <sub>[#174272](https://github.com/flutter/flutter/pull/174272) opened on on August 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174272) 42 additions and 9 deletions in 3 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Ensure `--dds-port=<port>` is respected when targeting web devices<br />
+  <sub>[#174278](https://github.com/flutter/flutter/pull/174278) opened on on August 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174278) 48 additions and 10 deletions in 7 files</sub><br />
+
