@@ -86,6 +86,3 @@
 * **[Krzysztof Świętnicki](https://github.com/FufferKS)** &mdash; Update description in _LastFinderMixin to properly describe finding last<br />
   <sub>[#174232](https://github.com/flutter/flutter/pull/174232) opened on on August 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174232) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when attempting to provide non-const params to a `Preview`<br />
-  <sub>[#174242](https://github.com/flutter/flutter/pull/174242) opened on on August 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174242) 165 additions and 33 deletions in 4 files</sub><br />
-
