@@ -186,7 +186,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Skip wasm build when dry run is disabled and --wasm is not specified.<br />
-  <sub>[#174184](https://github.com/flutter/flutter/pull/174184) merged on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174184) over 1 day, 40 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#174184](https://github.com/flutter/flutter/pull/174184) merged on August 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174184) over 1 day, 40 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add regression test for issue 173895<br />
