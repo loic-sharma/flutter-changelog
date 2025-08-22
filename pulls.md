@@ -92,9 +92,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix SliverMainAxisGroup and SliverCrossAxisGroup gestures' local positions.<br />
   <sub>[#174265](https://github.com/flutter/flutter/pull/174265) opened on on August 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174265) 234 additions and 2 deletions in 3 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for DevTools configuration<br />
-  <sub>[#174272](https://github.com/flutter/flutter/pull/174272) opened on on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174272) 48 additions and 11 deletions in 4 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove Redundant public modifier in createAppLinkSettingsFile<br />
   <sub>[#174283](https://github.com/flutter/flutter/pull/174283) opened on on August 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174283) 1 addition and 1 deletion in 1 file</sub><br />
 
