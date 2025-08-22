@@ -104,3 +104,6 @@
 * **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity<br />
   <sub>[#174286](https://github.com/flutter/flutter/pull/174286) opened on on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174286) 30 additions and 18 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation<br />
+  <sub>[#174292](https://github.com/flutter/flutter/pull/174292) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174292) 1 addition and 1 deletion in 1 file</sub><br />
+
