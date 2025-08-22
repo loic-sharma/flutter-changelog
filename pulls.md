@@ -54,7 +54,7 @@
   <sub>[#173771](https://github.com/flutter/flutter/pull/173771) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173771) 53 additions and 10 deletions in 4 files</sub><br />
 
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [SchedulerBinding] Add forceFramesEnabled to allow rendering when app is hidden or paused<br />
-  <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173862) 146 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173862) 146 additions and 2 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] remove the deprecated `focusable` flag in Focus widget. <br />
   <sub>[#173880](https://github.com/flutter/flutter/pull/173880) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173880) 13 additions and 26 deletions in 3 files</sub><br />
