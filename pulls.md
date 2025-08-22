@@ -104,3 +104,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]`_downloadArtifacts` (Web SDK) uses content-aware hashing in post-submit<br />
   <sub>[#174310](https://github.com/flutter/flutter/pull/174310) opened on on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174310) 32 additions and 1 deletion in 3 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Overlay.of also create dependencies<br />
+  <sub>[#174315](https://github.com/flutter/flutter/pull/174315) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174315) 130 additions and 13 deletions in 2 files</sub><br />
+
