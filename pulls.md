@@ -104,3 +104,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't emit artifact downloading messages when --machine is provided<br />
   <sub>[#174301](https://github.com/flutter/flutter/pull/174301) opened on on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174301) 57 additions and 3 deletions in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll DWDS to fix `ExistingDartDevelopmentServiceException`<br />
+  <sub>[#174306](https://github.com/flutter/flutter/pull/174306) opened on on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174306) 2 additions and 2 deletions in 1 file</sub><br />
+
