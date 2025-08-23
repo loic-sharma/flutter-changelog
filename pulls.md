@@ -101,3 +101,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Overlay.of also create dependencies<br />
   <sub>[#174315](https://github.com/flutter/flutter/pull/174315) opened on on August 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174315) 132 additions and 13 deletions in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate page transition builder class to widgets<br />
+  <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174321) 67 additions and 55 deletions in 3 files</sub><br />
+
