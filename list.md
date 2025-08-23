@@ -751,7 +751,7 @@
 
 ### August 16, 2025 to August 22, 2025
 
-9 commits.
+10 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router]: Add `RelativeGoRouteData` and `TypedRelativeGoRoute`
   <sub>[#9732](https://github.com/flutter/packages/pull/9732) merged on August 18, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/9732) over 2 weeks, 445 additions and 94 deletions in 4 files</sub>
@@ -764,6 +764,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Disable SwiftPM for `xcode-analyze`
   <sub>[#9666](https://github.com/flutter/packages/pull/9666) merged on August 18, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/packages/pull/9666) over 3 weeks, 207 additions and 230 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[SurajSinh Rathod](https://github.com/surajrathod007)** &mdash; [google_maps_flutter_web] Fix consumeTapEvents for Circles, Polygons & Polylines (#173921)
+  <sub>[#9838](https://github.com/flutter/packages/pull/9838) merged on August 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/9838) over 5 days, 85 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes Android IllegalStateException caused by uninitalized `MediaPlayer`
   <sub>[#9861](https://github.com/flutter/packages/pull/9861) merged on August 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9861) over 2 days, 212 additions and 51 deletions in 11 files</sub>
