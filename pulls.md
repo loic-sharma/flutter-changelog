@@ -104,3 +104,6 @@
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Add PredictiveBackGestureBuilder<br />
   <sub>[#174336](https://github.com/flutter/flutter/pull/174336) opened on on August 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/174336) 339 additions and 0 deletions in 4 files</sub><br />
 
+* **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Add delegatedTransition support to PredictiveBackPageTransitionsBuilder<br />
+  <sub>[#174337](https://github.com/flutter/flutter/pull/174337) opened on on August 24, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174337) 580 additions and 249 deletions in 5 files</sub><br />
+
