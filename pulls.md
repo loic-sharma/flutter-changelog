@@ -101,3 +101,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate page transition builder class to widgets<br />
   <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174321) 67 additions and 55 deletions in 3 files</sub><br />
 
+* **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Add PredictiveBackGestureBuilder<br />
+  <sub>[#174336](https://github.com/flutter/flutter/pull/174336) opened on on August 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/174336) 339 additions and 0 deletions in 4 files</sub><br />
+
