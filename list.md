@@ -764,7 +764,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-11 commits.
+12 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE part 3
   <sub>[#12267](https://github.com/flutter/website/pull/12267) merged on August 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/website/pull/12267) over 3 weeks, 1666 additions and 1 deletion in 5 files</sub>
@@ -797,6 +797,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update name of sql-related constants in app architecture docs
   <sub>[#12346](https://github.com/flutter/website/pull/12346) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12346) over 3 days, 29 additions and 25 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for SnackBar default behavior with action
+  <sub>[#12329](https://github.com/flutter/website/pull/12329) merged on August 25, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12329) over 5 days, 94 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Alexandru Mariuti](https://github.com/nank1ro)** &mdash; docs/update-solidart-documentation-link-and-description
   <sub>[#12301](https://github.com/flutter/website/pull/12301) merged on August 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12301) over 1 week, 3 additions and 2 deletions in 1 file</sub>
