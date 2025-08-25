@@ -110,3 +110,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 date picker dialog<br />
   <sub>[#174359](https://github.com/flutter/flutter/pull/174359) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174359) 5 additions and 2 deletions in 1 file</sub><br />
 
+* **[Kamil Kras](https://github.com/xVemu)** &mdash; Correct documentation in PredictiveBackFullscreenPageTransitionsBuilder<br />
+  <sub>[#174362](https://github.com/flutter/flutter/pull/174362) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174362) 1 addition and 1 deletion in 1 file</sub><br />
+
