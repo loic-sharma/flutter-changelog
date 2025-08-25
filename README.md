@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-2 commits.
+3 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects<br />
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Clarify how Gemini should handle conflicting guidelines<br />
   <sub>[#174294](https://github.com/flutter/flutter/pull/174294) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174294) over 2 days, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation function name<br />
+  <sub>[#174297](https://github.com/flutter/flutter/pull/174297) merged on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174297) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### August 16, 2025 to August 22, 2025
 
