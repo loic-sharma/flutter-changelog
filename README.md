@@ -4,11 +4,15 @@
 
 ### August 23, 2025 to August 29, 2025
 
-3 commits.
+4 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects<br />
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub><br />
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; NavigatorPopScope examples no longer use deprecated onPop.<br />
+  <sub>[#174291](https://github.com/flutter/flutter/pull/174291) merged on August 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174291) over 2 days, 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Clarify how Gemini should handle conflicting guidelines<br />
   <sub>[#174294](https://github.com/flutter/flutter/pull/174294) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174294) over 2 days, 6 additions and 0 deletions in 1 file</sub><br />
