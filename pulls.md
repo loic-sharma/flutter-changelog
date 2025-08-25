@@ -108,5 +108,5 @@
   <sub>[#174337](https://github.com/flutter/flutter/pull/174337) opened on on August 24, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174337) 580 additions and 249 deletions in 5 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 date picker dialog<br />
-  <sub>[#174359](https://github.com/flutter/flutter/pull/174359) opened on on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174359) 5 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#174359](https://github.com/flutter/flutter/pull/174359) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174359) 5 additions and 2 deletions in 1 file</sub><br />
 
