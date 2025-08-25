@@ -104,3 +104,6 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup scrollOffsetCorrection<br />
   <sub>[#174369](https://github.com/flutter/flutter/pull/174369) opened on on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174369) 108 additions and 0 deletions in 2 files</sub><br />
 
+* **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
+  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174374) 122 additions and 48 deletions in 2 files</sub><br />
+
