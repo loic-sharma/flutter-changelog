@@ -50,8 +50,8 @@
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [HCPP] Clean up overlay layer when last frame had overlay content and current doesn't<br />
-  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) merged on August 22, 2025 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/173881) over 6 days, 216 additions and 12 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) merged on August 22, 2025 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/173881) over 6 days, 216 additions and 12 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot.<br />
   <sub>[#171626](https://github.com/flutter/flutter/pull/171626) merged on August 21, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/171626) over 1 month, 85 additions and 310 deletions in 4 files</sub><br />
