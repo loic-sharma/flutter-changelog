@@ -104,3 +104,6 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup scrollOffsetCorrection<br />
   <sub>[#174369](https://github.com/flutter/flutter/pull/174369) opened on on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174369) 108 additions and 0 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Prepare to publish `3.35.2`<br />
+  <sub>[#174377](https://github.com/flutter/flutter/pull/174377) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174377) 4 additions and 2 deletions in 2 files</sub><br />
+
