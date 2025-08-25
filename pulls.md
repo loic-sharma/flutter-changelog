@@ -89,9 +89,6 @@
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Add delegatedTransition support to PredictiveBackPageTransitionsBuilder<br />
   <sub>[#174337](https://github.com/flutter/flutter/pull/174337) opened on on August 24, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174337) 580 additions and 249 deletions in 5 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 date picker dialog<br />
-  <sub>[#174359](https://github.com/flutter/flutter/pull/174359) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174359) 5 additions and 2 deletions in 1 file</sub><br />
-
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Correct documentation in PredictiveBackFullscreenPageTransitionsBuilder<br />
   <sub>[#174362](https://github.com/flutter/flutter/pull/174362) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174362) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -103,4 +100,7 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; fix typo in test_profile/README.md<br />
   <sub>[#174384](https://github.com/flutter/flutter/pull/174384) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174384) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `master` CHANGELOG for 3.35.2<br />
+  <sub>[#174399](https://github.com/flutter/flutter/pull/174399) opened on on August 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174399) 12 additions and 0 deletions in 1 file</sub><br />
 
