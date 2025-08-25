@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-5 commits.
+7 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub>
@@ -13,6 +13,14 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`
   <sub>[#173724](https://github.com/flutter/flutter/pull/173724) merged on August 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/173724) over 1 week, 1549 additions and 108 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Refactor LayerScene out of CanvasKit
+  <sub>[#174375](https://github.com/flutter/flutter/pull/174375) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174375) over 3 hours, 1331 additions and 1206 deletions in 37 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Release thread-local resources when submitting a Flutter GPU command buffer
+  <sub>[#173663](https://github.com/flutter/flutter/pull/173663) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173663) over 1 week, 7 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; NavigatorPopScope examples no longer use deprecated onPop.
   <sub>[#174291](https://github.com/flutter/flutter/pull/174291) merged on August 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174291) over 2 days, 4 additions and 4 deletions in 2 files</sub>
@@ -75,7 +83,7 @@
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [HCPP] Clean up overlay layer when last frame had overlay content and current doesn't
-  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) merged on August 22, 2025 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/173881) over 6 days, 216 additions and 12 deletions in 4 files</sub>
+  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) merged on August 22, 2025 &mdash; **Small:** [54 comments](https://github.com/flutter/flutter/pull/173881) over 6 days, 216 additions and 12 deletions in 4 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot.
