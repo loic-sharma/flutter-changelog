@@ -50,9 +50,6 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Update Chromium sysroot to pick up RISC-V support.<br />
   <sub>[#173671](https://github.com/flutter/flutter/pull/173671) opened on on August 13, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) 185 additions and 160 deletions in 4 files</sub><br />
 
-* **[Oreofe Solarin](https://github.com/DEVSOG12)** &mdash; Impeller: Convert GLProc name field and GLErrorToString to std::string_view<br />
-  <sub>[#173771](https://github.com/flutter/flutter/pull/173771) opened on on August 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173771) 53 additions and 10 deletions in 4 files</sub><br />
-
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [SchedulerBinding] Add forceFramesEnabled to allow rendering when app is hidden or paused<br />
   <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173862) 146 additions and 2 deletions in 2 files</sub><br />
 
@@ -106,4 +103,7 @@
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
   <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174374) 122 additions and 48 deletions in 2 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; fix typo in test_profile/README.md<br />
+  <sub>[#174384](https://github.com/flutter/flutter/pull/174384) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174384) 1 addition and 1 deletion in 1 file</sub><br />
 
