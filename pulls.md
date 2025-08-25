@@ -92,9 +92,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation<br />
   <sub>[#174292](https://github.com/flutter/flutter/pull/174292) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174292) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation function name<br />
-  <sub>[#174297](https://github.com/flutter/flutter/pull/174297) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174297) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Overlay.of also create dependencies<br />
   <sub>[#174315](https://github.com/flutter/flutter/pull/174315) opened on on August 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174315) 132 additions and 13 deletions in 2 files</sub><br />
 
