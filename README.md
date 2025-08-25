@@ -4,11 +4,15 @@
 
 ### August 23, 2025 to August 29, 2025
 
-4 commits.
+5 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects<br />
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub><br />
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
+  <sub>[#173724](https://github.com/flutter/flutter/pull/173724) merged on August 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/173724) over 1 week, 1549 additions and 108 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; NavigatorPopScope examples no longer use deprecated onPop.<br />
   <sub>[#174291](https://github.com/flutter/flutter/pull/174291) merged on August 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174291) over 2 days, 4 additions and 4 deletions in 2 files</sub><br />
@@ -71,7 +75,7 @@
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [HCPP] Clean up overlay layer when last frame had overlay content and current doesn't<br />
-  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) merged on August 22, 2025 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/173881) over 6 days, 216 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) merged on August 22, 2025 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/173881) over 6 days, 216 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot.<br />
