@@ -113,3 +113,6 @@
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Correct documentation in PredictiveBackFullscreenPageTransitionsBuilder<br />
   <sub>[#174362](https://github.com/flutter/flutter/pull/174362) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174362) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup scrollOffsetCorrection<br />
+  <sub>[#174369](https://github.com/flutter/flutter/pull/174369) opened on on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174369) 108 additions and 0 deletions in 2 files</sub><br />
+
