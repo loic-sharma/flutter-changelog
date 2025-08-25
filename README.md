@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-9 commits.
+10 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects<br />
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix logic statements in year2023 documentation<br />
   <sub>[#174120](https://github.com/flutter/flutter/pull/174120) merged on August 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174120) over 5 days, 9 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `master` CHANGELOG for 3.35.2<br />
+  <sub>[#174399](https://github.com/flutter/flutter/pull/174399) merged on August 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174399) over 44 minutes, 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Update dwds to 25.0.3<br />
   <sub>[#174379](https://github.com/flutter/flutter/pull/174379) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174379) over 4 hours, 2 additions and 2 deletions in 1 file</sub><br />

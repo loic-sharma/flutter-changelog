@@ -33,7 +33,7 @@
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
 
 * **[Jagadeesh S](https://github.com/jagadeesh8682)** &mdash; Step 1: Add markdown formatter tool selection and configuration<br />
-  <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
+  <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
 
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
@@ -100,7 +100,4 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; fix typo in test_profile/README.md<br />
   <sub>[#174384](https://github.com/flutter/flutter/pull/174384) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174384) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `master` CHANGELOG for 3.35.2<br />
-  <sub>[#174399](https://github.com/flutter/flutter/pull/174399) opened on on August 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174399) 12 additions and 0 deletions in 1 file</sub><br />
 
