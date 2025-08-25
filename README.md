@@ -733,7 +733,11 @@
 
 ### August 23, 2025 to August 29, 2025
 
-8 commits.
+9 commits.
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE part 3<br />
+  <sub>[#12267](https://github.com/flutter/website/pull/12267) merged on August 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/website/pull/12267) over 3 weeks, 1666 additions and 1 deletion in 5 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Avoid auto translation of icons<br />
   <sub>[#12347](https://github.com/flutter/website/pull/12347) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12347) over 3 days, 108 additions and 107 deletions in 31 files</sub><br />
