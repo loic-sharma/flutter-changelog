@@ -62,9 +62,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics for disabled buttons in date picker<br />
   <sub>[#174064](https://github.com/flutter/flutter/pull/174064) opened on on August 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174064) 144 additions and 36 deletions in 3 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Increase testing coverage and maintainability of android manifest parsing logic<br />
-  <sub>[#174070](https://github.com/flutter/flutter/pull/174070) opened on on August 19, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174070) 419 additions and 205 deletions in 4 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; Remove obsolete vulkan_window source files<br />
   <sub>[#174087](https://github.com/flutter/flutter/pull/174087) opened on on August 20, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/174087) 4 additions and 402 deletions in 6 files</sub><br />
 
@@ -91,9 +88,6 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation<br />
   <sub>[#174292](https://github.com/flutter/flutter/pull/174292) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174292) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Overlay.of also create dependencies<br />
-  <sub>[#174315](https://github.com/flutter/flutter/pull/174315) opened on on August 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174315) 132 additions and 13 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate page transition builder class to widgets<br />
   <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174321) 67 additions and 55 deletions in 3 files</sub><br />
