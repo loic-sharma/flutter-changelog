@@ -254,7 +254,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Update the AccessibilityPlugin::Announce method to account fo…
-  <sub>[#174223](https://github.com/flutter/flutter/pull/174223) merged on August 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174223) over 5 minutes, 36 additions and 114 deletions in 11 files</sub>
+  <sub>[#174223](https://github.com/flutter/flutter/pull/174223) merged on August 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174223) over 5 minutes, 36 additions and 114 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [flutter_tools] Use DWDS 25.0.1
