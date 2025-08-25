@@ -708,9 +708,26 @@
 
 ## flutter/website
 
+### August 23, 2025 to August 29, 2025
+
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Avoid auto translation of icons<br />
+  <sub>[#12347](https://github.com/flutter/website/pull/12347) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12347) over 3 days, 108 additions and 107 deletions in 31 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Rename 'toc' to 'showToc' in frontmatter<br />
+  <sub>[#12345](https://github.com/flutter/website/pull/12345) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12345) over 3 days, 75 additions and 81 deletions in 77 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update name of sql-related constants in app architecture docs<br />
+  <sub>[#12346](https://github.com/flutter/website/pull/12346) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12346) over 3 days, 29 additions and 25 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### August 16, 2025 to August 22, 2025
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update text for google_apis sample update<br />
   <sub>[#12339](https://github.com/flutter/website/pull/12339) merged on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12339) over 4 hours, 156 additions and 82 deletions in 2 files</sub><br />
@@ -755,6 +772,8 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Fix Preview class broken url in widget-previewer.md<br />
   <sub>[#12317](https://github.com/flutter/website/pull/12317) merged on August 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12317) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### August 9, 2025 to August 15, 2025
 
