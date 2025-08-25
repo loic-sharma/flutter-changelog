@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 23, 2025 to August 29, 2025
+
+1 commits.
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects
+  <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Jim Graham](https://github.com/flar)</sub>
+
 ### August 16, 2025 to August 22, 2025
 
-65 commits.
+<details>
+<summary>65 commits...</summary>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix time picker period selector a11y touch targets
   <sub>[#170060](https://github.com/flutter/flutter/pull/170060) merged on August 20, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/170060) over 2 months, 374 additions and 202 deletions in 3 files</sub>
@@ -268,6 +277,8 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Engine build setup for Android RISCV64.
   <sub>[#173672](https://github.com/flutter/flutter/pull/173672) merged on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173672) over 1 week, 217 additions and 6 deletions in 15 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+</details>
 
 ### August 9, 2025 to August 15, 2025
 
