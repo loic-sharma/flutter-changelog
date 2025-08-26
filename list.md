@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-22 commits.
+23 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub>
@@ -65,6 +65,10 @@
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix logic statements in year2023 documentation
   <sub>[#174120](https://github.com/flutter/flutter/pull/174120) merged on August 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174120) over 5 days, 9 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Add test that pictures are not rasterized when clipped out
+  <sub>[#174452](https://github.com/flutter/flutter/pull/174452) merged on August 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174452) over 2 hours, 203 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Make sure inline passes always do a clear action.
   <sub>[#174083](https://github.com/flutter/flutter/pull/174083) merged on August 26, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174083) over 6 days, 54 additions and 6 deletions in 2 files</sub>
@@ -143,7 +147,7 @@
   <sub>Reviewed by: [ash2moon](https://github.com/ash2moon), [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [HCPP] Clean up overlay layer when last frame had overlay content and current doesn't
-  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) merged on August 22, 2025 &mdash; **Small:** [57 comments](https://github.com/flutter/flutter/pull/173881) over 6 days, 216 additions and 12 deletions in 4 files</sub>
+  <sub>[#173881](https://github.com/flutter/flutter/pull/173881) merged on August 22, 2025 &mdash; **Small:** [59 comments](https://github.com/flutter/flutter/pull/173881) over 6 days, 216 additions and 12 deletions in 4 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot.
