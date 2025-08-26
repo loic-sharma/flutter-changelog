@@ -54,7 +54,7 @@
   <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173862) 146 additions and 2 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] remove the deprecated `focusable` flag in Focus widget. <br />
-  <sub>[#173880](https://github.com/flutter/flutter/pull/173880) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173880) 13 additions and 26 deletions in 3 files</sub><br />
+  <sub>[#173880](https://github.com/flutter/flutter/pull/173880) opened on on August 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173880) 15 additions and 28 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics for disabled buttons in date picker<br />
   <sub>[#174064](https://github.com/flutter/flutter/pull/174064) opened on on August 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174064) 144 additions and 36 deletions in 3 files</sub><br />
