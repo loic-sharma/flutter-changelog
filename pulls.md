@@ -65,9 +65,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that SimpleDialog and SimpleDialogOption do not crash in 0x0 environment<br />
   <sub>[#174229](https://github.com/flutter/flutter/pull/174229) opened on on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174229) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[Krzysztof Świętnicki](https://github.com/FufferKS)** &mdash; Update description in _LastFinderMixin to properly describe finding last<br />
-  <sub>[#174232](https://github.com/flutter/flutter/pull/174232) opened on on August 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174232) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Load fonts in the order addFont is called<br />
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174253) 29 additions and 4 deletions in 2 files</sub><br />
 

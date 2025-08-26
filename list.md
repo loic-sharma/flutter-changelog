@@ -656,7 +656,11 @@
 
 ### August 23, 2025 to August 29, 2025
 
-3 commits.
+4 commits.
+
+* **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; [go_router_builder]: Fix Parameter generates a warning
+  <sub>[#8889](https://github.com/flutter/packages/pull/8889) merged on August 26, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/8889) over 5 months, 227 additions and 235 deletions in 15 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [vector_graphics_compiler] Allow `xml` through 6.6.1
   <sub>[#9841](https://github.com/flutter/packages/pull/9841) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9841) over 1 week, 4 additions and 3 deletions in 2 files</sub>
