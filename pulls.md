@@ -15,7 +15,7 @@
   <sub>[#170929](https://github.com/flutter/flutter/pull/170929) opened on on June 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/170929) 58 additions and 1 deletion in 2 files</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
@@ -105,5 +105,8 @@
   <sub>[#174432](https://github.com/flutter/flutter/pull/174432) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174432) 115 additions and 72 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; fix: ColorScheme will removeListener on imageStream twice if there is error loading the image.<br />
-  <sub>[#174465](https://github.com/flutter/flutter/pull/174465) opened on on August 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174465) 84 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#174465](https://github.com/flutter/flutter/pull/174465) opened on on August 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174465) 81 additions and 16 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Response to IDE navigation events and show previews from the currently focused script<br />
+  <sub>[#174466](https://github.com/flutter/flutter/pull/174466) opened on on August 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/174466) 842 additions and 325 deletions in 26 files</sub><br />
 
