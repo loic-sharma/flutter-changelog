@@ -600,11 +600,15 @@
 
 ### August 23, 2025 to August 29, 2025
 
-1 commits.
+2 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [vector_graphics_compiler] Allow `xml` through 6.6.1<br />
   <sub>[#9841](https://github.com/flutter/packages/pull/9841) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9841) over 1 week, 4 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Try to convince GCA to stop complaining about `dependency_overrides`<br />
+  <sub>[#9879](https://github.com/flutter/packages/pull/9879) merged on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9879) over 12 hours, 7 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### August 16, 2025 to August 22, 2025
 
