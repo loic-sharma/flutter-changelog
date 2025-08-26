@@ -804,7 +804,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-13 commits.
+14 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE part 3<br />
   <sub>[#12267](https://github.com/flutter/website/pull/12267) merged on August 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/website/pull/12267) over 3 weeks, 1666 additions and 1 deletion in 5 files</sub><br />
@@ -840,6 +840,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update name of sql-related constants in app architecture docs<br />
   <sub>[#12346](https://github.com/flutter/website/pull/12346) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12346) over 3 days, 29 additions and 25 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[berger](https://github.com/shp-alexander-berger)** &mdash; fix typo in SensitiveContent<br />
+  <sub>[#12358](https://github.com/flutter/website/pull/12358) merged on August 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12358) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for SnackBar default behavior with action<br />
