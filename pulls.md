@@ -101,6 +101,3 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; fix typo in test_profile/README.md<br />
   <sub>[#174384](https://github.com/flutter/flutter/pull/174384) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174384) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Luís Miguel](https://github.com/MiguelMaciel32)** &mdash; Ate<br />
-  <sub>[#174423](https://github.com/flutter/flutter/pull/174423) opened on on August 26, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174423) 4001 additions and 1565 deletions in 176 files</sub><br />
-
