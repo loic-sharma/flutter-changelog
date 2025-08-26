@@ -110,3 +110,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move flakey iOS tests to bringup<br />
   <sub>[#174446](https://github.com/flutter/flutter/pull/174446) opened on on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174446) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove CP labels on not-merged PRs, and explain why<br />
+  <sub>[#174448](https://github.com/flutter/flutter/pull/174448) opened on on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174448) 14 additions and 4 deletions in 1 file</sub><br />
+
