@@ -102,5 +102,5 @@
   <sub>[#174384](https://github.com/flutter/flutter/pull/174384) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174384) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[suojae](https://github.com/suojae)** &mdash; Performance optimization for ExpansionPanelList animations <br />
-  <sub>[#174432](https://github.com/flutter/flutter/pull/174432) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174432) 145 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#174432](https://github.com/flutter/flutter/pull/174432) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174432) 133 additions and 14 deletions in 2 files</sub><br />
 
