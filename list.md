@@ -804,7 +804,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-12 commits.
+13 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE part 3
   <sub>[#12267](https://github.com/flutter/website/pull/12267) merged on August 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/website/pull/12267) over 3 weeks, 1666 additions and 1 deletion in 5 files</sub>
@@ -816,6 +816,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Avoid auto translation of icons
   <sub>[#12347](https://github.com/flutter/website/pull/12347) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12347) over 3 days, 108 additions and 107 deletions in 31 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Fix Android Studio installation link
+  <sub>[#12359](https://github.com/flutter/website/pull/12359) merged on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12359) over 2 hours, 3 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend `flutter config --help` for an explanation of each feature flag
