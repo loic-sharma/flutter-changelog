@@ -33,7 +33,7 @@
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
 
 * **[Jagadeesh S](https://github.com/jagadeesh8682)** &mdash; Step 1: Add markdown formatter tool selection and configuration<br />
-  <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
+  <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
 
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
@@ -74,9 +74,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Load fonts in the order addFont is called<br />
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174253) 29 additions and 4 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix SliverMainAxisGroup and SliverCrossAxisGroup gestures' local positions.<br />
-  <sub>[#174265](https://github.com/flutter/flutter/pull/174265) opened on on August 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174265) 234 additions and 2 deletions in 3 files</sub><br />
-
 * **[Rushikeshbhavsar20](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity<br />
   <sub>[#174286](https://github.com/flutter/flutter/pull/174286) opened on on August 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174286) 39 additions and 1 deletion in 1 file</sub><br />
 
@@ -92,14 +89,11 @@
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Correct documentation in PredictiveBackFullscreenPageTransitionsBuilder<br />
   <sub>[#174362](https://github.com/flutter/flutter/pull/174362) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174362) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup scrollOffsetCorrection<br />
-  <sub>[#174369](https://github.com/flutter/flutter/pull/174369) opened on on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174369) 108 additions and 0 deletions in 2 files</sub><br />
-
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
   <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174374) 122 additions and 48 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; fix typo in test_profile/README.md<br />
-  <sub>[#174384](https://github.com/flutter/flutter/pull/174384) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174384) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#174384](https://github.com/flutter/flutter/pull/174384) opened on on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174384) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[suojae](https://github.com/suojae)** &mdash; Performance optimization for ExpansionPanelList animations <br />
   <sub>[#174432](https://github.com/flutter/flutter/pull/174432) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174432) 115 additions and 72 deletions in 2 files</sub><br />
@@ -109,4 +103,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Response to IDE navigation events and show previews from the currently focused script<br />
   <sub>[#174466](https://github.com/flutter/flutter/pull/174466) opened on on August 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/174466) 842 additions and 325 deletions in 26 files</sub><br />
+
+* **[Pedro Massango](https://github.com/pedromassango)** &mdash; fix(Semantics): Ensure semantics properties take priority over button's<br />
+  <sub>[#174473](https://github.com/flutter/flutter/pull/174473) opened on on August 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174473) 85 additions and 2 deletions in 4 files</sub><br />
 
