@@ -628,7 +628,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-2 commits.
+3 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [vector_graphics_compiler] Allow `xml` through 6.6.1
   <sub>[#9841](https://github.com/flutter/packages/pull/9841) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9841) over 1 week, 4 additions and 3 deletions in 2 files</sub>
@@ -637,6 +637,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Try to convince GCA to stop complaining about `dependency_overrides`
   <sub>[#9879](https://github.com/flutter/packages/pull/9879) merged on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9879) over 12 hours, 7 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 20f82749394e to 05db9689081f (15 revisions)
+  <sub>[#9892](https://github.com/flutter/packages/pull/9892) merged on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9892) over 56 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### August 16, 2025 to August 22, 2025
 
