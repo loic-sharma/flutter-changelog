@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-21 commits.
+22 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub>
@@ -44,6 +44,10 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Release thread-local resources when submitting a Flutter GPU command buffer
   <sub>[#173663](https://github.com/flutter/flutter/pull/173663) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173663) over 1 week, 7 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixes the vulkan image layout transitions for mipmap generation
+  <sub>[#173884](https://github.com/flutter/flutter/pull/173884) merged on August 26, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173884) over 1 week, 114 additions and 15 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; NavigatorPopScope examples no longer use deprecated onPop.
