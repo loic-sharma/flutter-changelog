@@ -108,5 +108,5 @@
   <sub>[#174448](https://github.com/flutter/flutter/pull/174448) opened on on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174448) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; fix: ColorScheme will removeListener on imageStream twice if there is error loading the image.<br />
-  <sub>[#174465](https://github.com/flutter/flutter/pull/174465) opened on on August 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174465) 78 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#174465](https://github.com/flutter/flutter/pull/174465) opened on on August 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174465) 84 additions and 16 deletions in 2 files</sub><br />
 

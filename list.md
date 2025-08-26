@@ -307,7 +307,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `.gemini/styleguide.md` to encourage `master`-only
-  <sub>[#174065](https://github.com/flutter/flutter/pull/174065) merged on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174065) over 2 days, 5 additions and 0 deletions in 1 file</sub>
+  <sub>[#174065](https://github.com/flutter/flutter/pull/174065) merged on August 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174065) over 2 days, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add review agent style guidelines to .gemini/styleguide.md
