@@ -65,8 +65,8 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SimpleDialog doesn't crash in 0x0 environment<br />
-  <sub>[#174229](https://github.com/flutter/flutter/pull/174229) opened on on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174229) 8 additions and 0 deletions in 1 file</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that SimpleDialog and SimpleDialogOption do not crash in 0x0 environment<br />
+  <sub>[#174229](https://github.com/flutter/flutter/pull/174229) opened on on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174229) 16 additions and 0 deletions in 1 file</sub><br />
 
 * **[Krzysztof Świętnicki](https://github.com/FufferKS)** &mdash; Update description in _LastFinderMixin to properly describe finding last<br />
   <sub>[#174232](https://github.com/flutter/flutter/pull/174232) opened on on August 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174232) 1 addition and 1 deletion in 1 file</sub><br />
