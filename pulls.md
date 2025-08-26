@@ -101,3 +101,6 @@
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; fix(Semantics): Ensure semantics properties take priority over button's<br />
   <sub>[#174473](https://github.com/flutter/flutter/pull/174473) opened on on August 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174473) 85 additions and 2 deletions in 4 files</sub><br />
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update fluttter_test, a semantics node contains a tooltip should also be considered as important<br />
+  <sub>[#174476](https://github.com/flutter/flutter/pull/174476) opened on on August 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174476) 5 additions and 1 deletion in 1 file</sub><br />
+
