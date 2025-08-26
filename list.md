@@ -836,7 +836,11 @@
 
 ### August 23, 2025 to August 29, 2025
 
-14 commits.
+15 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add breaking changes page on default ABI filters
+  <sub>[#12350](https://github.com/flutter/website/pull/12350) merged on August 26, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12350) over 4 days, 91 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE part 3
   <sub>[#12267](https://github.com/flutter/website/pull/12267) merged on August 25, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/website/pull/12267) over 3 weeks, 1666 additions and 1 deletion in 5 files</sub>

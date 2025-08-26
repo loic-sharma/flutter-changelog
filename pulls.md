@@ -89,9 +89,6 @@
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
   <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174374) 122 additions and 48 deletions in 2 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; fix typo in test_profile/README.md<br />
-  <sub>[#174384](https://github.com/flutter/flutter/pull/174384) opened on on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174384) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[suojae](https://github.com/suojae)** &mdash; Performance optimization for ExpansionPanelList animations <br />
   <sub>[#174432](https://github.com/flutter/flutter/pull/174432) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174432) 115 additions and 72 deletions in 2 files</sub><br />
 
