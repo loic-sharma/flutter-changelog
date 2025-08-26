@@ -4,11 +4,15 @@
 
 ### August 23, 2025 to August 29, 2025
 
-17 commits.
+18 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects<br />
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub><br />
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Jing Shao](https://github.com/jingshao-code)** &mdash; [iOS][Secure Paste] Custom edit menu actions<br />
+  <sub>[#171825](https://github.com/flutter/flutter/pull/171825) merged on August 26, 2025 &mdash; **Large:** [84 comments](https://github.com/flutter/flutter/pull/171825) over 1 month, 1281 additions and 4 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`<br />
   <sub>[#173724](https://github.com/flutter/flutter/pull/173724) merged on August 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/173724) over 1 week, 1549 additions and 108 deletions in 10 files</sub><br />
