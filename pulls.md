@@ -107,12 +107,9 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu panel is shorter than text field<br />
   <sub>[#174443](https://github.com/flutter/flutter/pull/174443) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174443) 92 additions and 5 deletions in 4 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move flakey iOS tests to bringup<br />
-  <sub>[#174446](https://github.com/flutter/flutter/pull/174446) opened on on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174446) 5 additions and 0 deletions in 1 file</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove CP labels on not-merged PRs, and explain why<br />
   <sub>[#174448](https://github.com/flutter/flutter/pull/174448) opened on on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174448) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [shell] Fix engineId not being set after hot restart<br />
-  <sub>[#174451](https://github.com/flutter/flutter/pull/174451) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174451) 16 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#174451](https://github.com/flutter/flutter/pull/174451) opened on on August 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174451) 16 additions and 2 deletions in 5 files</sub><br />
 
