@@ -105,5 +105,5 @@
   <sub>[#174432](https://github.com/flutter/flutter/pull/174432) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174432) 115 additions and 72 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu panel is shorter than text field<br />
-  <sub>[#174443](https://github.com/flutter/flutter/pull/174443) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174443) 90 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#174443](https://github.com/flutter/flutter/pull/174443) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174443) 92 additions and 5 deletions in 4 files</sub><br />
 
