@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-23 commits.
+24 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects<br />
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Directly generate a Mach-O dynamic library using gen_snapshot (#171626)<br />
   <sub>[#174392](https://github.com/flutter/flutter/pull/174392) merged on August 26, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174392) over 19 hours, 310 additions and 85 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Increase testing coverage and maintainability of android manifest parsing logic<br />
+  <sub>[#174070](https://github.com/flutter/flutter/pull/174070) merged on August 26, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174070) over 1 week, 390 additions and 196 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Make SystemUiOverlayStyle to be diagnosticable<br />
   <sub>[#174018](https://github.com/flutter/flutter/pull/174018) merged on August 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174018) over 6 days, 162 additions and 18 deletions in 2 files</sub><br />
