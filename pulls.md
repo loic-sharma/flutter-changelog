@@ -111,5 +111,5 @@
   <sub>[#174497](https://github.com/flutter/flutter/pull/174497) opened on on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174497) 92 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix some issues in engine-tool README.<br />
-  <sub>[#174512](https://github.com/flutter/flutter/pull/174512) opened on on August 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174512) 4 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#174512](https://github.com/flutter/flutter/pull/174512) opened on on August 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174512) 5 additions and 4 deletions in 1 file</sub><br />
 
