@@ -20,9 +20,6 @@
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172829) 66 additions and 6 deletions in 3 files</sub><br />
 
-* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Flutter driver deserialization<br />
-  <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/172927) 511 additions and 88 deletions in 17 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Experiment with Xcode 26 beta 4<br />
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
 
