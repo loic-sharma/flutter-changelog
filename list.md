@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-28 commits.
+29 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub>
@@ -53,6 +53,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Active step fully colored in vertical mode
   <sub>[#173152](https://github.com/flutter/flutter/pull/173152) merged on August 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173152) over 3 weeks, 45 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate examples and defaults to `WidgetState`
+  <sub>[#174421](https://github.com/flutter/flutter/pull/174421) merged on August 27, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/174421) over 22 hours, 742 additions and 750 deletions in 49 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix bug in test_golden_comparator, add an e2e test.
   <sub>[#174459](https://github.com/flutter/flutter/pull/174459) merged on August 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174459) over 3 hours, 109 additions and 2 deletions in 4 files</sub>
@@ -855,7 +859,7 @@
 15 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add breaking changes page on default ABI filters
-  <sub>[#12350](https://github.com/flutter/website/pull/12350) merged on August 26, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12350) over 4 days, 91 additions and 0 deletions in 2 files</sub>
+  <sub>[#12350](https://github.com/flutter/website/pull/12350) merged on August 26, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12350) over 4 days, 91 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE part 3
