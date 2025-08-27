@@ -21,7 +21,7 @@
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172829) 66 additions and 6 deletions in 3 files</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Flutter driver deserialization<br />
-  <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/172927) 511 additions and 88 deletions in 17 files</sub><br />
+  <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/172927) 511 additions and 88 deletions in 17 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Experiment with Xcode 26 beta 4<br />
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
@@ -63,7 +63,7 @@
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174253) 29 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate page transition builder class to widgets<br />
-  <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174321) 67 additions and 55 deletions in 3 files</sub><br />
+  <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174321) 67 additions and 55 deletions in 3 files</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
   <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174374) 122 additions and 48 deletions in 2 files</sub><br />
