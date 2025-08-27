@@ -72,7 +72,7 @@
   <sub>[#174466](https://github.com/flutter/flutter/pull/174466) opened on on August 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/174466) 842 additions and 325 deletions in 26 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread.<br />
-  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) opened on on August 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174488) 159 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) opened on on August 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174488) 159 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: remove final class modifier on MenuController<br />
   <sub>[#174490](https://github.com/flutter/flutter/pull/174490) opened on on August 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174490) 1 addition and 1 deletion in 1 file</sub><br />
