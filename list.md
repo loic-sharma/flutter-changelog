@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-29 commits.
+30 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub>
@@ -25,6 +25,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Directly generate a Mach-O dynamic library using gen_snapshot (#171626)
   <sub>[#174392](https://github.com/flutter/flutter/pull/174392) merged on August 26, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174392) over 19 hours, 310 additions and 85 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix lock up when window resized with merged UI and platform threads.
+  <sub>[#172893](https://github.com/flutter/flutter/pull/172893) merged on August 27, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/172893) over 4 weeks, 381 additions and 244 deletions in 11 files</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Increase testing coverage and maintainability of android manifest parsing logic
   <sub>[#174070](https://github.com/flutter/flutter/pull/174070) merged on August 26, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174070) over 1 week, 390 additions and 196 deletions in 4 files</sub>
