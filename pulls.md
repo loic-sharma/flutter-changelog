@@ -89,9 +89,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Response to IDE navigation events and show previews from the currently focused script<br />
   <sub>[#174466](https://github.com/flutter/flutter/pull/174466) opened on on August 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/174466) 842 additions and 325 deletions in 26 files</sub><br />
 
-* **[Pedro Massango](https://github.com/pedromassango)** &mdash; fix(Semantics): Ensure semantics properties take priority over button's<br />
-  <sub>[#174473](https://github.com/flutter/flutter/pull/174473) opened on on August 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174473) 85 additions and 2 deletions in 4 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread.<br />
   <sub>[#174488](https://github.com/flutter/flutter/pull/174488) opened on on August 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174488) 159 additions and 4 deletions in 2 files</sub><br />
 
@@ -106,7 +103,4 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix some issues in engine-tool README.<br />
   <sub>[#174512](https://github.com/flutter/flutter/pull/174512) opened on on August 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174512) 5 additions and 4 deletions in 1 file</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix IconButton.color overrided by IconButtomTheme<br />
-  <sub>[#174515](https://github.com/flutter/flutter/pull/174515) opened on on August 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174515) 32 additions and 1 deletion in 2 files</sub><br />
 

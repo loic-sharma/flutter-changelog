@@ -684,7 +684,11 @@
 
 ### August 23, 2025 to August 29, 2025
 
-4 commits.
+5 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Support NV21<br />
+  <sub>[#9853](https://github.com/flutter/packages/pull/9853) merged on August 27, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/9853) over 1 week, 1047 additions and 718 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; [go_router_builder]: Fix Parameter generates a warning<br />
   <sub>[#8889](https://github.com/flutter/packages/pull/8889) merged on August 26, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/8889) over 5 months, 227 additions and 235 deletions in 15 files</sub><br />
