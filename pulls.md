@@ -63,16 +63,7 @@
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174253) 29 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate page transition builder class to widgets<br />
-  <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174321) 67 additions and 55 deletions in 3 files</sub><br />
-
-* **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Add PredictiveBackGestureBuilder<br />
-  <sub>[#174336](https://github.com/flutter/flutter/pull/174336) opened on on August 24, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/174336) 339 additions and 0 deletions in 4 files</sub><br />
-
-* **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Add delegatedTransition support to PredictiveBackPageTransitionsBuilder<br />
-  <sub>[#174337](https://github.com/flutter/flutter/pull/174337) opened on on August 24, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/174337) 580 additions and 249 deletions in 5 files</sub><br />
-
-* **[Kamil Kras](https://github.com/xVemu)** &mdash; Correct documentation in PredictiveBackFullscreenPageTransitionsBuilder<br />
-  <sub>[#174362](https://github.com/flutter/flutter/pull/174362) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174362) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174321) 67 additions and 55 deletions in 3 files</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
   <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174374) 122 additions and 48 deletions in 2 files</sub><br />
