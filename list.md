@@ -51,7 +51,7 @@
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread.
-  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) merged on August 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174488) over 17 hours, 159 additions and 4 deletions in 2 files</sub>
+  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) merged on August 27, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174488) over 17 hours, 159 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove CP labels on not-merged PRs, and explain why

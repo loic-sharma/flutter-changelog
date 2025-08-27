@@ -80,6 +80,3 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] More plumbing towards making it usable in Flutter apps<br />
   <sub>[#174587](https://github.com/flutter/flutter/pull/174587) opened on on August 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174587) 436 additions and 10 deletions in 10 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Revert "Check GTK calls are done on the same thread."<br />
-  <sub>[#174604](https://github.com/flutter/flutter/pull/174604) opened on on August 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174604) 4 additions and 159 deletions in 2 files</sub><br />
-
