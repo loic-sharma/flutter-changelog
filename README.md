@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-33 commits.
+34 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects<br />
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub><br />
@@ -42,6 +42,14 @@
   <sub>[#174018](https://github.com/flutter/flutter/pull/174018) merged on August 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174018) over 6 days, 162 additions and 18 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Refactor LayerScene out of CanvasKit<br />
+  <sub>[#174375](https://github.com/flutter/flutter/pull/174375) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174375) over 3 hours, 1331 additions and 1206 deletions in 37 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Migrate non-CanvasKit-specific tests to ui/<br />
+  <sub>[#174396](https://github.com/flutter/flutter/pull/174396) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174396) over 3 hours, 1848 additions and 2957 deletions in 36 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove CP labels on not-merged PRs, and explain why<br />
   <sub>[#174448](https://github.com/flutter/flutter/pull/174448) merged on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174448) over 4 hours, 14 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -49,14 +57,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Remove obsolete vulkan_window source files<br />
   <sub>[#174087](https://github.com/flutter/flutter/pull/174087) merged on August 26, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/174087) over 5 days, 4 additions and 402 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Migrate non-CanvasKit-specific tests to ui/<br />
-  <sub>[#174396](https://github.com/flutter/flutter/pull/174396) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174396) over 3 hours, 1848 additions and 2957 deletions in 36 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Refactor LayerScene out of CanvasKit<br />
-  <sub>[#174375](https://github.com/flutter/flutter/pull/174375) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174375) over 3 hours, 1331 additions and 1206 deletions in 37 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Active step fully colored in vertical mode<br />
   <sub>[#173152](https://github.com/flutter/flutter/pull/173152) merged on August 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173152) over 3 weeks, 45 additions and 1 deletion in 2 files</sub><br />
@@ -73,6 +73,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Release thread-local resources when submitting a Flutter GPU command buffer<br />
   <sub>[#173663](https://github.com/flutter/flutter/pull/173663) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173663) over 1 week, 7 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Raster Pictures at full screen size in Skwasm<br />
+  <sub>[#174456](https://github.com/flutter/flutter/pull/174456) merged on August 27, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/174456) over 1 day, 76 additions and 111 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixes the vulkan image layout transitions for mipmap generation<br />
   <sub>[#173884](https://github.com/flutter/flutter/pull/173884) merged on August 26, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173884) over 1 week, 114 additions and 15 deletions in 6 files</sub><br />
@@ -94,10 +98,6 @@
   <sub>[#174120](https://github.com/flutter/flutter/pull/174120) merged on August 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174120) over 5 days, 9 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
-  <sub>[#174522](https://github.com/flutter/flutter/pull/174522) merged on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174522) over 1 hour, 26 additions and 22 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Add test that pictures are not rasterized when clipped out<br />
   <sub>[#174452](https://github.com/flutter/flutter/pull/174452) merged on August 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174452) over 2 hours, 203 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
@@ -113,6 +113,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `master` CHANGELOG for 3.35.2<br />
   <sub>[#174399](https://github.com/flutter/flutter/pull/174399) merged on August 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174399) over 44 minutes, 12 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
+  <sub>[#174522](https://github.com/flutter/flutter/pull/174522) merged on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174522) over 1 hour, 26 additions and 22 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix SliverMainAxisGroup and SliverCrossAxisGroup gestures' local positions.<br />
   <sub>[#174265](https://github.com/flutter/flutter/pull/174265) merged on August 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174265) over 4 days, 234 additions and 2 deletions in 3 files</sub><br />
