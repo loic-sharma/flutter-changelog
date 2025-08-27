@@ -86,6 +86,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] More plumbing towards making it usable in Flutter apps<br />
   <sub>[#174587](https://github.com/flutter/flutter/pull/174587) opened on on August 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174587) 436 additions and 10 deletions in 10 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [cp-beta] [Android] Fix version code override calculation in FlutterPlugin<br />
-  <sub>[#174592](https://github.com/flutter/flutter/pull/174592) opened on on August 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174592) 125 additions and 7 deletions in 2 files</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Tool ] Roll 24.4.0+2 hotfix release of package:dwds<br />
+  <sub>[#174599](https://github.com/flutter/flutter/pull/174599) opened on on August 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174599) 2 additions and 2 deletions in 1 file</sub><br />
 
