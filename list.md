@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-31 commits.
+32 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub>
@@ -13,6 +13,10 @@
 * **[Jing Shao](https://github.com/jingshao-code)** &mdash; [iOS][Secure Paste] Custom edit menu actions
   <sub>[#171825](https://github.com/flutter/flutter/pull/171825) merged on August 26, 2025 &mdash; **Large:** [84 comments](https://github.com/flutter/flutter/pull/171825) over 1 month, 1281 additions and 4 deletions in 12 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Restrict AOT shared library engine flag to trusted paths
+  <sub>[#173359](https://github.com/flutter/flutter/pull/173359) merged on August 27, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/173359) over 2 weeks, 437 additions and 28 deletions in 6 files</sub>
+  <sub>Reviewed by: [szwl](https://github.com/szwl-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; SnackBar with action no longer auto-dismiss
   <sub>[#173084](https://github.com/flutter/flutter/pull/173084) merged on August 27, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/173084) over 3 weeks, 188 additions and 22 deletions in 4 files</sub>
@@ -864,7 +868,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-15 commits.
+19 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add breaking changes page on default ABI filters
   <sub>[#12350](https://github.com/flutter/website/pull/12350) merged on August 26, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/12350) over 4 days, 91 additions and 0 deletions in 2 files</sub>
@@ -878,8 +882,20 @@
   <sub>[#12314](https://github.com/flutter/website/pull/12314) merged on August 25, 2025 &mdash; **Small:** [99 comments](https://github.com/flutter/website/pull/12314) over 1 week, 263 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [Emma Twersky](https://github.com/twerske), [Eric Windmill](https://github.com/ericwindmill), [Esra Kadah](https://github.com/esrakadah), [Andrew Brogdon](https://github.com/redbrogdon), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
+* **[Konrad Strenge](https://github.com/kstrenge)** &mdash; added info to deployment/android signing
+  <sub>[#12282](https://github.com/flutter/website/pull/12282) merged on August 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12282) over 2 weeks, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Avoid auto translation of icons
   <sub>[#12347](https://github.com/flutter/website/pull/12347) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12347) over 3 days, 108 additions and 107 deletions in 31 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicate BottomSheet entries in widget catalog
+  <sub>[#12360](https://github.com/flutter/website/pull/12360) merged on August 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12360) over 21 hours, 0 additions and 11 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update security documentation
+  <sub>[#12364](https://github.com/flutter/website/pull/12364) merged on August 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12364) over 24 minutes, 37 additions and 30 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Fix Android Studio installation link
@@ -904,6 +920,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update name of sql-related constants in app architecture docs
   <sub>[#12346](https://github.com/flutter/website/pull/12346) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12346) over 3 days, 29 additions and 25 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Francisco Contreras](https://github.com/fcontreras)** &mdash; Update app-extensions.md
+  <sub>[#12308](https://github.com/flutter/website/pull/12308) merged on August 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12308) over 1 week, 17 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[berger](https://github.com/shp-alexander-berger)** &mdash; fix typo in SensitiveContent
