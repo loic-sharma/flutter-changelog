@@ -21,7 +21,7 @@
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172829) 66 additions and 6 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix lock up when window resized with merged UI and platform threads.<br />
-  <sub>[#172893](https://github.com/flutter/flutter/pull/172893) opened on on July 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172893) 100 additions and 101 deletions in 10 files</sub><br />
+  <sub>[#172893](https://github.com/flutter/flutter/pull/172893) opened on on July 29, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/172893) 381 additions and 244 deletions in 11 files</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Flutter driver deserialization<br />
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) opened on on July 29, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/172927) 511 additions and 88 deletions in 17 files</sub><br />
