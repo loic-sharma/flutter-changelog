@@ -54,7 +54,7 @@
   <sub>[#174064](https://github.com/flutter/flutter/pull/174064) opened on on August 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174064) 144 additions and 36 deletions in 3 files</sub><br />
 
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix typo in widget_inspector.dart<br />
-  <sub>[#174115](https://github.com/flutter/flutter/pull/174115) opened on on August 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174115) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#174115](https://github.com/flutter/flutter/pull/174115) opened on on August 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174115) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
@@ -82,9 +82,6 @@
 
 * **[suojae](https://github.com/suojae)** &mdash; Performance optimization for ExpansionPanelList animations <br />
   <sub>[#174432](https://github.com/flutter/flutter/pull/174432) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174432) 115 additions and 72 deletions in 2 files</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [impeller] Support partitioned host buffer<br />
-  <sub>[#174463](https://github.com/flutter/flutter/pull/174463) opened on on August 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/174463) 861 additions and 428 deletions in 46 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; fix: ColorScheme will removeListener on imageStream twice if there is error loading the image.<br />
   <sub>[#174465](https://github.com/flutter/flutter/pull/174465) opened on on August 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174465) 81 additions and 16 deletions in 2 files</sub><br />
