@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-27 commits.
+28 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub>
@@ -13,6 +13,10 @@
 * **[Jing Shao](https://github.com/jingshao-code)** &mdash; [iOS][Secure Paste] Custom edit menu actions
   <sub>[#171825](https://github.com/flutter/flutter/pull/171825) merged on August 26, 2025 &mdash; **Large:** [84 comments](https://github.com/flutter/flutter/pull/171825) over 1 month, 1281 additions and 4 deletions in 12 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; SnackBar with action no longer auto-dismiss
+  <sub>[#173084](https://github.com/flutter/flutter/pull/173084) merged on August 27, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/173084) over 3 weeks, 188 additions and 22 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stream logs from `devicectl` and `lldb`
   <sub>[#173724](https://github.com/flutter/flutter/pull/173724) merged on August 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/173724) over 1 week, 1549 additions and 108 deletions in 10 files</sub>
