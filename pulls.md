@@ -107,3 +107,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: findChildIndexCallback to take seperators into account for seperated named constructor in ListView and SliverList<br />
   <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174491) 127 additions and 2 deletions in 3 files</sub><br />
 
+* **[Maxence Barroy](https://github.com/progamax)** &mdash; Add textfield prop search anchor<br />
+  <sub>[#174497](https://github.com/flutter/flutter/pull/174497) opened on on August 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174497) 78 additions and 0 deletions in 2 files</sub><br />
+
