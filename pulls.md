@@ -59,9 +59,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that SimpleDialog and SimpleDialogOption do not crash in 0x0 environment<br />
-  <sub>[#174229](https://github.com/flutter/flutter/pull/174229) opened on on August 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174229) 16 additions and 0 deletions in 1 file</sub><br />
-
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Load fonts in the order addFont is called<br />
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174253) 29 additions and 4 deletions in 2 files</sub><br />
 
@@ -80,12 +77,6 @@
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
   <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174374) 122 additions and 48 deletions in 2 files</sub><br />
 
-* **[suojae](https://github.com/suojae)** &mdash; Performance optimization for ExpansionPanelList animations <br />
-  <sub>[#174432](https://github.com/flutter/flutter/pull/174432) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174432) 115 additions and 72 deletions in 2 files</sub><br />
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; fix: ColorScheme will removeListener on imageStream twice if there is error loading the image.<br />
-  <sub>[#174465](https://github.com/flutter/flutter/pull/174465) opened on on August 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174465) 81 additions and 16 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Response to IDE navigation events and show previews from the currently focused script<br />
   <sub>[#174466](https://github.com/flutter/flutter/pull/174466) opened on on August 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/174466) 842 additions and 325 deletions in 26 files</sub><br />
 
@@ -97,9 +88,6 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: findChildIndexCallback to take seperators into account for seperated named constructor in ListView and SliverList<br />
   <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174491) 127 additions and 2 deletions in 3 files</sub><br />
-
-* **[Maxence Barroy](https://github.com/progamax)** &mdash; Add textfield prop to SearchAnchor<br />
-  <sub>[#174497](https://github.com/flutter/flutter/pull/174497) opened on on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174497) 92 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix some issues in engine-tool README.<br />
   <sub>[#174512](https://github.com/flutter/flutter/pull/174512) opened on on August 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174512) 5 additions and 4 deletions in 1 file</sub><br />
