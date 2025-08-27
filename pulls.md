@@ -101,3 +101,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [flutter_test] update the _isImportantForAccessibility method in SemanticsController to include tooltip<br />
   <sub>[#174476](https://github.com/flutter/flutter/pull/174476) opened on on August 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174476) 5 additions and 1 deletion in 1 file</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add semantics for CupertinoExpansionTile<br />
+  <sub>[#174480](https://github.com/flutter/flutter/pull/174480) opened on on August 27, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/174480) 2297 additions and 104 deletions in 88 files</sub><br />
+
