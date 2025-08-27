@@ -868,7 +868,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-19 commits.
+21 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add breaking changes page on default ABI filters
   <sub>[#12350](https://github.com/flutter/website/pull/12350) merged on August 26, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/12350) over 4 days, 91 additions and 0 deletions in 2 files</sub>
@@ -881,6 +881,10 @@
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Create llms.txt
   <sub>[#12314](https://github.com/flutter/website/pull/12314) merged on August 25, 2025 &mdash; **Small:** [99 comments](https://github.com/flutter/website/pull/12314) over 1 week, 263 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [Emma Twersky](https://github.com/twerske), [Eric Windmill](https://github.com/ericwindmill), [Esra Kadah](https://github.com/esrakadah), [Andrew Brogdon](https://github.com/redbrogdon), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Add note to activate "Supported web addresses" in deep linking documentation
+  <sub>[#12269](https://github.com/flutter/website/pull/12269) merged on August 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12269) over 3 weeks, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Konrad Strenge](https://github.com/kstrenge)** &mdash; added info to deployment/android signing
   <sub>[#12282](https://github.com/flutter/website/pull/12282) merged on August 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12282) over 2 weeks, 4 additions and 0 deletions in 1 file</sub>
@@ -920,6 +924,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update name of sql-related constants in app architecture docs
   <sub>[#12346](https://github.com/flutter/website/pull/12346) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12346) over 3 days, 29 additions and 25 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Steven Sorial](https://github.com/StevenSorial)** &mdash; Add go-router-builder-v4-breaking-changes link
+  <sub>[#12361](https://github.com/flutter/website/pull/12361) merged on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12361) over 21 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Francisco Contreras](https://github.com/fcontreras)** &mdash; Update app-extensions.md
