@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-38 commits.
+39 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub>
@@ -46,9 +46,9 @@
   <sub>[#174018](https://github.com/flutter/flutter/pull/174018) merged on August 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174018) over 6 days, 162 additions and 18 deletions in 2 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread.
-  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) merged on August 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174488) over 17 hours, 159 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Refactor LayerScene out of CanvasKit
+  <sub>[#174375](https://github.com/flutter/flutter/pull/174375) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174375) over 3 hours, 1331 additions and 1206 deletions in 37 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Migrate non-CanvasKit-specific tests to ui/
   <sub>[#174396](https://github.com/flutter/flutter/pull/174396) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174396) over 3 hours, 1848 additions and 2957 deletions in 36 files</sub>
@@ -58,9 +58,9 @@
   <sub>[#174087](https://github.com/flutter/flutter/pull/174087) merged on August 26, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/174087) over 5 days, 4 additions and 402 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Refactor LayerScene out of CanvasKit
-  <sub>[#174375](https://github.com/flutter/flutter/pull/174375) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174375) over 3 hours, 1331 additions and 1206 deletions in 37 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread.
+  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) merged on August 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174488) over 17 hours, 159 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix broken reference to `PULL_REQUEST_CP_TEMPLATE.md` after refactor
   <sub>[#174595](https://github.com/flutter/flutter/pull/174595) merged on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174595) over 13 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -117,6 +117,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `master` CHANGELOG for 3.35.2
   <sub>[#174399](https://github.com/flutter/flutter/pull/174399) merged on August 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174399) over 44 minutes, 12 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use raw `--removal-label "cp: ..."` when removing labels for unmerged PRs
+  <sub>[#174596](https://github.com/flutter/flutter/pull/174596) merged on August 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174596) over 30 minutes, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
   <sub>[#174522](https://github.com/flutter/flutter/pull/174522) merged on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174522) over 1 hour, 26 additions and 22 deletions in 6 files</sub>
