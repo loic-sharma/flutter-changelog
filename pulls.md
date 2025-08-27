@@ -92,9 +92,6 @@
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; fix(Semantics): Ensure semantics properties take priority over button's<br />
   <sub>[#174473](https://github.com/flutter/flutter/pull/174473) opened on on August 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174473) 85 additions and 2 deletions in 4 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add semantics for CupertinoExpansionTile<br />
-  <sub>[#174480](https://github.com/flutter/flutter/pull/174480) opened on on August 27, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/174480) 2297 additions and 106 deletions in 89 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread.<br />
   <sub>[#174488](https://github.com/flutter/flutter/pull/174488) opened on on August 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174488) 159 additions and 4 deletions in 2 files</sub><br />
 
