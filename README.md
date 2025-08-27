@@ -692,7 +692,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-5 commits.
+6 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Support NV21<br />
   <sub>[#9853](https://github.com/flutter/packages/pull/9853) merged on August 27, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/9853) over 1 week, 1047 additions and 718 deletions in 17 files</sub><br />
@@ -701,6 +701,10 @@
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; [go_router_builder]: Fix Parameter generates a warning<br />
   <sub>[#8889](https://github.com/flutter/packages/pull/8889) merged on August 26, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/8889) over 5 months, 227 additions and 235 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_fonts] Initial import<br />
+  <sub>[#9895](https://github.com/flutter/packages/pull/9895) merged on August 27, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/9895) over 6 hours, 201347 additions and 0 deletions in 192 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Pierre](https://github.com/guidezpl), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [vector_graphics_compiler] Allow `xml` through 6.6.1<br />
   <sub>[#9841](https://github.com/flutter/packages/pull/9841) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9841) over 1 week, 4 additions and 3 deletions in 2 files</sub><br />
