@@ -101,3 +101,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add semantics for CupertinoExpansionTile<br />
   <sub>[#174480](https://github.com/flutter/flutter/pull/174480) opened on on August 27, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/174480) 2297 additions and 106 deletions in 89 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread.<br />
+  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) opened on on August 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174488) 159 additions and 4 deletions in 2 files</sub><br />
+
