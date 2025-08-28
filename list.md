@@ -932,7 +932,12 @@
 
 ### August 23, 2025 to August 29, 2025
 
-21 commits.
+22 commits.
+
+* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix/icons for dark mode
+  <sub>[#12366](https://github.com/flutter/website/pull/12366) merged on August 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12366) over 8 hours, 17 additions and 11 deletions in 4 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
+  <sub><details><summary>4 images...</summary><img width="400" alt="Screenshot 2025-08-28 at 12 53 11 PM" src="https://github.com/user-attachments/assets/f661892d-dfb4-42fb-b0d1-d5380fab5938" /><img width="500" alt="image" src="https://github.com/user-attachments/assets/e4f91f9c-e542-4e02-9d58-44a2988e9300" /><img width="500" alt="Screenshot 2025-08-28 at 5 51 11 PM" src="https://github.com/user-attachments/assets/ef0e9fa6-1b4b-49f8-a673-e672dfe06cfe" /><img width="500" alt="image" src="https://github.com/user-attachments/assets/e1c23e85-2cd5-4f7a-908c-00b960ec6994" /></details></sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add breaking changes page on default ABI filters
   <sub>[#12350](https://github.com/flutter/website/pull/12350) merged on August 26, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12350) over 4 days, 91 additions and 0 deletions in 2 files</sub>
