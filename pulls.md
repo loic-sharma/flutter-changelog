@@ -96,5 +96,5 @@
   <sub>[#174624](https://github.com/flutter/flutter/pull/174624) opened on on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174624) 150 additions and 5 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown<br />
-  <sub>[#174647](https://github.com/flutter/flutter/pull/174647) opened on on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174647) 15 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#174647](https://github.com/flutter/flutter/pull/174647) opened on on August 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174647) 15 additions and 6 deletions in 3 files</sub><br />
 
