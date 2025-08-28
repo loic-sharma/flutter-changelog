@@ -81,7 +81,7 @@
   <sub>[#174498](https://github.com/flutter/flutter/pull/174498) opened on on August 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174498) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix some issues in engine-tool README.<br />
-  <sub>[#174512](https://github.com/flutter/flutter/pull/174512) opened on on August 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174512) 5 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#174512](https://github.com/flutter/flutter/pull/174512) opened on on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174512) 5 additions and 4 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] More plumbing towards making it usable in Flutter apps<br />
   <sub>[#174587](https://github.com/flutter/flutter/pull/174587) opened on on August 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174587) 436 additions and 10 deletions in 10 files</sub><br />
@@ -95,9 +95,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread. (#174488)<br />
   <sub>[#174624](https://github.com/flutter/flutter/pull/174624) opened on on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174624) 150 additions and 5 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown<br />
-  <sub>[#174647](https://github.com/flutter/flutter/pull/174647) opened on on August 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174647) 15 additions and 6 deletions in 3 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix empty adaptive text selection toolbars building.<br />
-  <sub>[#174656](https://github.com/flutter/flutter/pull/174656) opened on on August 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174656) 48 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#174656](https://github.com/flutter/flutter/pull/174656) opened on on August 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174656) 44 additions and 2 deletions in 4 files</sub><br />
 
