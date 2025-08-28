@@ -81,5 +81,5 @@
   <sub>[#174587](https://github.com/flutter/flutter/pull/174587) opened on on August 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174587) 436 additions and 10 deletions in 10 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator and LinearProgressIndicator<br />
-  <sub>[#174605](https://github.com/flutter/flutter/pull/174605) opened on on August 27, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/174605) 351 additions and 28 deletions in 4 files</sub><br />
+  <sub>[#174605](https://github.com/flutter/flutter/pull/174605) opened on on August 27, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/174605) 355 additions and 28 deletions in 4 files</sub><br />
 
