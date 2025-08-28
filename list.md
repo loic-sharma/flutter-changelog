@@ -780,7 +780,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [flutter_migrate] Remove source
-  <sub>[#9847](https://github.com/flutter/packages/pull/9847) merged on August 19, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/9847) over 17 hours, 0 additions and 14712 deletions in 63 files</sub>
+  <sub>[#9847](https://github.com/flutter/packages/pull/9847) merged on August 19, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/9847) over 17 hours, 0 additions and 14712 deletions in 63 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Handle automatic PopScope
