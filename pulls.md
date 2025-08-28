@@ -98,3 +98,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix empty adaptive text selection toolbars building.<br />
   <sub>[#174656](https://github.com/flutter/flutter/pull/174656) opened on on August 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174656) 44 additions and 2 deletions in 4 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [3.36 CP] Add a 'bad' commit to the beta, to be reverted.<br />
+  <sub>[#174658](https://github.com/flutter/flutter/pull/174658) opened on on August 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174658) 3 additions and 0 deletions in 1 file</sub><br />
+
