@@ -747,7 +747,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Arthur Monteiro Alves Melo](https://github.com/4rthurmonteiro)** &mdash; [google_maps_flutter_platform_interface] Add cameraControl enable/disable & position on web<br />
-  <sub>[#9897](https://github.com/flutter/packages/pull/9897) merged on August 28, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/9897) over 1 day, 208 additions and 3 deletions in 6 files</sub><br />
+  <sub>[#9897](https://github.com/flutter/packages/pull/9897) merged on August 28, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/9897) over 1 day, 208 additions and 3 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Try to convince GCA to stop complaining about `dependency_overrides`<br />
