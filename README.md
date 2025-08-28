@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-41 commits.
+42 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects<br />
   <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub><br />
@@ -50,20 +50,20 @@
   <sub>[#174018](https://github.com/flutter/flutter/pull/174018) merged on August 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174018) over 6 days, 162 additions and 18 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Refactor LayerScene out of CanvasKit<br />
-  <sub>[#174375](https://github.com/flutter/flutter/pull/174375) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174375) over 3 hours, 1331 additions and 1206 deletions in 37 files</sub><br />
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Migrate non-CanvasKit-specific tests to ui/<br />
+  <sub>[#174396](https://github.com/flutter/flutter/pull/174396) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174396) over 3 hours, 1848 additions and 2957 deletions in 36 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove CP labels on not-merged PRs, and explain why<br />
   <sub>[#174448](https://github.com/flutter/flutter/pull/174448) merged on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174448) over 4 hours, 14 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Migrate non-CanvasKit-specific tests to ui/<br />
-  <sub>[#174396](https://github.com/flutter/flutter/pull/174396) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174396) over 3 hours, 1848 additions and 2957 deletions in 36 files</sub><br />
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Refactor LayerScene out of CanvasKit<br />
+  <sub>[#174375](https://github.com/flutter/flutter/pull/174375) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174375) over 3 hours, 1331 additions and 1206 deletions in 37 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread.<br />
-  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) merged on August 27, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174488) over 17 hours, 159 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) merged on August 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174488) over 17 hours, 159 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix broken reference to `PULL_REQUEST_CP_TEMPLATE.md` after refactor<br />
@@ -94,6 +94,10 @@
   <sub>[#173663](https://github.com/flutter/flutter/pull/173663) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173663) over 1 week, 7 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Refactored Canvas to disallow null inline contexts.<br />
+  <sub>[#174530](https://github.com/flutter/flutter/pull/174530) merged on August 28, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/174530) over 11 hours, 68 additions and 53 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub><br />
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Raster Pictures at full screen size in Skwasm<br />
   <sub>[#174456](https://github.com/flutter/flutter/pull/174456) merged on August 27, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/174456) over 1 day, 76 additions and 111 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
@@ -110,13 +114,13 @@
   <sub>[#174294](https://github.com/flutter/flutter/pull/174294) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174294) over 2 days, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to use `WidgetStateProperty`<br />
-  <sub>[#174323](https://github.com/flutter/flutter/pull/174323) merged on August 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/174323) over 2 days, 190 additions and 195 deletions in 22 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
-
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix logic statements in year2023 documentation<br />
   <sub>[#174120](https://github.com/flutter/flutter/pull/174120) merged on August 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174120) over 5 days, 9 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to use `WidgetStateProperty`<br />
+  <sub>[#174323](https://github.com/flutter/flutter/pull/174323) merged on August 26, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/174323) over 2 days, 190 additions and 195 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
   <sub>[#174522](https://github.com/flutter/flutter/pull/174522) merged on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174522) over 1 hour, 26 additions and 22 deletions in 6 files</sub><br />
