@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-49 commits.
+50 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dwds 25.0.4
   <sub>[#174601](https://github.com/flutter/flutter/pull/174601) merged on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174601) over 14 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -58,33 +58,33 @@
   <sub>[#174018](https://github.com/flutter/flutter/pull/174018) merged on August 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174018) over 6 days, 162 additions and 18 deletions in 2 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
+* **[Jim Graham](https://github.com/flar)** &mdash; Remove obsolete vulkan_window source files
+  <sub>[#174087](https://github.com/flutter/flutter/pull/174087) merged on August 26, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/174087) over 5 days, 4 additions and 402 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix broken reference to `PULL_REQUEST_CP_TEMPLATE.md` after refactor
   <sub>[#174595](https://github.com/flutter/flutter/pull/174595) merged on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174595) over 13 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread.
-  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) merged on August 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174488) over 17 hours, 159 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Migrate non-CanvasKit-specific tests to ui/
   <sub>[#174396](https://github.com/flutter/flutter/pull/174396) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174396) over 3 hours, 1848 additions and 2957 deletions in 36 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Remove obsolete vulkan_window source files
-  <sub>[#174087](https://github.com/flutter/flutter/pull/174087) merged on August 26, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/174087) over 5 days, 4 additions and 402 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove CP labels on not-merged PRs, and explain why
+  <sub>[#174448](https://github.com/flutter/flutter/pull/174448) merged on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174448) over 4 hours, 14 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Refactor LayerScene out of CanvasKit
   <sub>[#174375](https://github.com/flutter/flutter/pull/174375) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174375) over 3 hours, 1331 additions and 1206 deletions in 37 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread.
+  <sub>[#174488](https://github.com/flutter/flutter/pull/174488) merged on August 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174488) over 17 hours, 159 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the option to disable the merged platform/UI thread on Android and iOS
   <sub>[#174408](https://github.com/flutter/flutter/pull/174408) merged on August 28, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/174408) over 2 days, 349 additions and 307 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove CP labels on not-merged PRs, and explain why
-  <sub>[#174448](https://github.com/flutter/flutter/pull/174448) merged on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174448) over 4 hours, 14 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Active step fully colored in vertical mode
   <sub>[#173152](https://github.com/flutter/flutter/pull/173152) merged on August 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173152) over 3 weeks, 45 additions and 1 deletion in 2 files</sub>
@@ -138,6 +138,10 @@
   <sub>[#174120](https://github.com/flutter/flutter/pull/174120) merged on August 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174120) over 5 days, 9 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
+  <sub>[#174522](https://github.com/flutter/flutter/pull/174522) merged on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174522) over 1 hour, 26 additions and 22 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Flush the data written to the device buffer by RoundSuperellipseGeometry
   <sub>[#174316](https://github.com/flutter/flutter/pull/174316) merged on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174316) over 3 days, 88 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -145,10 +149,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `master` CHANGELOG for 3.35.2
   <sub>[#174399](https://github.com/flutter/flutter/pull/174399) merged on August 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174399) over 44 minutes, 12 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
-  <sub>[#174522](https://github.com/flutter/flutter/pull/174522) merged on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174522) over 1 hour, 26 additions and 22 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Add test that pictures are not rasterized when clipped out
   <sub>[#174452](https://github.com/flutter/flutter/pull/174452) merged on August 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174452) over 2 hours, 203 additions and 0 deletions in 2 files</sub>
@@ -162,13 +162,13 @@
   <sub>[#174596](https://github.com/flutter/flutter/pull/174596) merged on August 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174596) over 30 minutes, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix SliverMainAxisGroup and SliverCrossAxisGroup gestures' local positions.
-  <sub>[#174265](https://github.com/flutter/flutter/pull/174265) merged on August 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174265) over 4 days, 234 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Don't fail when hot restarting `web-server` and there are no connected clients
   <sub>[#174600](https://github.com/flutter/flutter/pull/174600) merged on August 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174600) over 21 hours, 56 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix SliverMainAxisGroup and SliverCrossAxisGroup gestures' local positions.
+  <sub>[#174265](https://github.com/flutter/flutter/pull/174265) merged on August 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174265) over 4 days, 234 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; fix typo in test_profile/README.md
   <sub>[#174384](https://github.com/flutter/flutter/pull/174384) merged on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174384) over 1 day, 1 addition and 1 deletion in 1 file</sub>
@@ -189,6 +189,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation function name
   <sub>[#174297](https://github.com/flutter/flutter/pull/174297) merged on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174297) over 2 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux build_android_host_app_with_module_aar to be flaky
+  <sub>[#172631](https://github.com/flutter/flutter/pull/172631) merged on August 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/172631) over 1 month, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro new_gallery_opengles_impeller__transition_perf to be flaky
   <sub>[#173338](https://github.com/flutter/flutter/pull/173338) merged on August 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/173338) over 3 weeks, 1 addition and 0 deletions in 1 file</sub>
