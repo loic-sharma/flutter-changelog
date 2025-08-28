@@ -95,6 +95,3 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread. (#174488)<br />
   <sub>[#174624](https://github.com/flutter/flutter/pull/174624) opened on on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174624) 150 additions and 5 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix empty adaptive text selection toolbars building.<br />
-  <sub>[#174656](https://github.com/flutter/flutter/pull/174656) opened on on August 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174656) 44 additions and 2 deletions in 4 files</sub><br />
-
