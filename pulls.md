@@ -98,3 +98,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Impeller] Terminate the fence waiter but do not reset it during ContextVK shutdown<br />
   <sub>[#174647](https://github.com/flutter/flutter/pull/174647) opened on on August 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174647) 15 additions and 6 deletions in 3 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix empty adaptive text selection toolbars building.<br />
+  <sub>[#174656](https://github.com/flutter/flutter/pull/174656) opened on on August 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174656) 48 additions and 2 deletions in 4 files</sub><br />
+
