@@ -95,3 +95,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread. (#174488)<br />
   <sub>[#174624](https://github.com/flutter/flutter/pull/174624) opened on on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174624) 150 additions and 5 deletions in 2 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [CP-stable][Impeller] Flush the data written to the device buffer by RoundSuperellipseGeometry (#174316)<br />
+  <sub>[#174663](https://github.com/flutter/flutter/pull/174663) opened on on August 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174663) 88 additions and 0 deletions in 5 files</sub><br />
+
