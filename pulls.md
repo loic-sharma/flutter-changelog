@@ -95,6 +95,3 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; add tests for FlutterPluginConstants<br />
   <sub>[#174710](https://github.com/flutter/flutter/pull/174710) opened on on August 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174710) 28 additions and 0 deletions in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert "[3.36 CP] Add a 'bad' commit to the beta, to be reverted."<br />
-  <sub>[#174716](https://github.com/flutter/flutter/pull/174716) opened on on August 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174716) 0 additions and 3 deletions in 1 file</sub><br />
-
