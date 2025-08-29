@@ -62,6 +62,10 @@
   <sub>[#174018](https://github.com/flutter/flutter/pull/174018) merged on August 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174018) over 6 days, 162 additions and 18 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; NavigatorPopScope examples no longer use deprecated onPop.<br />
+  <sub>[#174291](https://github.com/flutter/flutter/pull/174291) merged on August 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174291) over 2 days, 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Refactor LayerScene out of CanvasKit<br />
   <sub>[#174375](https://github.com/flutter/flutter/pull/174375) merged on August 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174375) over 3 hours, 1331 additions and 1206 deletions in 37 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
@@ -102,10 +106,6 @@
   <sub>[#174064](https://github.com/flutter/flutter/pull/174064) merged on August 29, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174064) over 1 week, 195 additions and 43 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Only listen for DebugConnectionInfo if the service protocol is supported<br />
-  <sub>[#174664](https://github.com/flutter/flutter/pull/174664) merged on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174664) over 4 hours, 17 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate examples and defaults to `WidgetState`<br />
   <sub>[#174421](https://github.com/flutter/flutter/pull/174421) merged on August 27, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/174421) over 22 hours, 742 additions and 750 deletions in 49 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -121,6 +121,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] More plumbing towards making it usable in Flutter apps<br />
   <sub>[#174587](https://github.com/flutter/flutter/pull/174587) merged on August 28, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174587) over 22 hours, 436 additions and 10 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Only listen for DebugConnectionInfo if the service protocol is supported<br />
+  <sub>[#174664](https://github.com/flutter/flutter/pull/174664) merged on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174664) over 4 hours, 17 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix bug in test_golden_comparator, add an e2e test.<br />
   <sub>[#174459](https://github.com/flutter/flutter/pull/174459) merged on August 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174459) over 3 hours, 109 additions and 2 deletions in 4 files</sub><br />
@@ -141,10 +145,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixes the vulkan image layout transitions for mipmap generation<br />
   <sub>[#173884](https://github.com/flutter/flutter/pull/173884) merged on August 26, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173884) over 1 week, 114 additions and 15 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; NavigatorPopScope examples no longer use deprecated onPop.<br />
-  <sub>[#174291](https://github.com/flutter/flutter/pull/174291) merged on August 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174291) over 2 days, 4 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Clarify how Gemini should handle conflicting guidelines<br />
   <sub>[#174294](https://github.com/flutter/flutter/pull/174294) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174294) over 2 days, 6 additions and 0 deletions in 1 file</sub><br />
