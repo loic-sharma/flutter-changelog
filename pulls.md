@@ -86,3 +86,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [CP-stable][Impeller] Flush the data written to the device buffer by RoundSuperellipseGeometry (#174316)<br />
   <sub>[#174663](https://github.com/flutter/flutter/pull/174663) opened on on August 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174663) 88 additions and 0 deletions in 5 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; RenderTable adoptChild before calling setFlatChildren.<br />
+  <sub>[#174679](https://github.com/flutter/flutter/pull/174679) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174679) 140 additions and 37 deletions in 4 files</sub><br />
+
