@@ -95,3 +95,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Remove build configuration mismatch warning<br />
   <sub>[#174725](https://github.com/flutter/flutter/pull/174725) opened on on August 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174725) 0 additions and 793 deletions in 5 files</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in Impeller DrawRect geomtry<br />
+  <sub>[#174735](https://github.com/flutter/flutter/pull/174735) opened on on August 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174735) 165 additions and 17 deletions in 3 files</sub><br />
+
