@@ -95,3 +95,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; add tests for FlutterPluginConstants<br />
   <sub>[#174710](https://github.com/flutter/flutter/pull/174710) opened on on August 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174710) 28 additions and 0 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove build configuration mismatch warning<br />
+  <sub>[#174724](https://github.com/flutter/flutter/pull/174724) opened on on August 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174724) 0 additions and 793 deletions in 5 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Remove build configuration mismatch warning<br />
+  <sub>[#174725](https://github.com/flutter/flutter/pull/174725) opened on on August 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174725) 0 additions and 793 deletions in 5 files</sub><br />
+
