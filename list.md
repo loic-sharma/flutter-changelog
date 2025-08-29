@@ -1032,7 +1032,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-22 commits.
+23 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix/icons for dark mode
   <sub>[#12366](https://github.com/flutter/website/pull/12366) merged on August 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12366) over 8 hours, 17 additions and 11 deletions in 4 files</sub>
@@ -1061,6 +1061,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Avoid auto translation of icons
   <sub>[#12347](https://github.com/flutter/website/pull/12347) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12347) over 3 days, 108 additions and 107 deletions in 31 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Link to topic on pub.dev for state management packages
+  <sub>[#12368](https://github.com/flutter/website/pull/12368) merged on August 29, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12368) over 13 hours, 59 additions and 271 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicate BottomSheet entries in widget catalog

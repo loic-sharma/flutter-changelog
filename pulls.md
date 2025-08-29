@@ -83,9 +83,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a gn --ccache argument<br />
   <sub>[#174621](https://github.com/flutter/flutter/pull/174621) opened on on August 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174621) 8 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [CP-stable][Impeller] Flush the data written to the device buffer by RoundSuperellipseGeometry (#174316)<br />
-  <sub>[#174663](https://github.com/flutter/flutter/pull/174663) opened on on August 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174663) 88 additions and 0 deletions in 5 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; Delete Skia-specific performance overlay implementation<br />
   <sub>[#174682](https://github.com/flutter/flutter/pull/174682) opened on on August 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174682) 13 additions and 247 deletions in 6 files</sub><br />
 
@@ -94,4 +91,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Divider doesn't crash in 0x0 environment<br />
   <sub>[#174709](https://github.com/flutter/flutter/pull/174709) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174709) 9 additions and 0 deletions in 1 file</sub><br />
+
+* **[yftyiho898ppj](https://github.com/yftyiho898ppj)** &mdash; Gitignore<br />
+  <sub>[#174711](https://github.com/flutter/flutter/pull/174711) opened on on August 29, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/174711) 27230 additions and 14342 deletions in 1034 files</sub><br />
 
