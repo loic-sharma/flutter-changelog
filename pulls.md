@@ -86,12 +86,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a gn --ccache argument<br />
   <sub>[#174621](https://github.com/flutter/flutter/pull/174621) opened on on August 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174621) 8 additions and 0 deletions in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Check GTK calls are done on the same thread. (#174488)<br />
-  <sub>[#174624](https://github.com/flutter/flutter/pull/174624) opened on on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174624) 150 additions and 5 deletions in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [CP-stable][Impeller] Flush the data written to the device buffer by RoundSuperellipseGeometry (#174316)<br />
   <sub>[#174663](https://github.com/flutter/flutter/pull/174663) opened on on August 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174663) 88 additions and 0 deletions in 5 files</sub><br />
-
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Include SemanticsValidationResult in debugDumpSemanticsTree<br />
-  <sub>[#174677](https://github.com/flutter/flutter/pull/174677) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174677) 9 additions and 0 deletions in 1 file</sub><br />
 
