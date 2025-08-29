@@ -4,7 +4,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-67 commits.
+68 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dwds 25.0.4
   <sub>[#174601](https://github.com/flutter/flutter/pull/174601) merged on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174601) over 14 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -98,29 +98,29 @@
   <sub>[#173152](https://github.com/flutter/flutter/pull/173152) merged on August 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173152) over 3 weeks, 45 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate examples and defaults to `WidgetState`
-  <sub>[#174421](https://github.com/flutter/flutter/pull/174421) merged on August 27, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/174421) over 22 hours, 742 additions and 750 deletions in 49 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
+* **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Drawer barrier non dismissible with the escape key
+  <sub>[#173263](https://github.com/flutter/flutter/pull/173263) merged on August 27, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/173263) over 3 weeks, 79 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Implement Overlay.of with inherited widget
   <sub>[#174315](https://github.com/flutter/flutter/pull/174315) merged on August 29, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/174315) over 6 days, 173 additions and 25 deletions in 4 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Only listen for DebugConnectionInfo if the service protocol is supported
-  <sub>[#174664](https://github.com/flutter/flutter/pull/174664) merged on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174664) over 4 hours, 17 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Roman Jaquez](https://github.com/romanejaquez)** &mdash; Drawer barrier non dismissible with the escape key
-  <sub>[#173263](https://github.com/flutter/flutter/pull/173263) merged on August 27, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/173263) over 3 weeks, 79 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] More plumbing towards making it usable in Flutter apps
-  <sub>[#174587](https://github.com/flutter/flutter/pull/174587) merged on August 28, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174587) over 22 hours, 436 additions and 10 deletions in 10 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub>
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate examples and defaults to `WidgetState`
+  <sub>[#174421](https://github.com/flutter/flutter/pull/174421) merged on August 27, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/174421) over 22 hours, 742 additions and 750 deletions in 49 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics for disabled buttons in date picker
   <sub>[#174064](https://github.com/flutter/flutter/pull/174064) merged on August 29, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174064) over 1 week, 195 additions and 43 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Only listen for DebugConnectionInfo if the service protocol is supported
+  <sub>[#174664](https://github.com/flutter/flutter/pull/174664) merged on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174664) over 4 hours, 17 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [WebParagraph] More plumbing towards making it usable in Flutter apps
+  <sub>[#174587](https://github.com/flutter/flutter/pull/174587) merged on August 28, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174587) over 22 hours, 436 additions and 10 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix bug in test_golden_comparator, add an e2e test.
   <sub>[#174459](https://github.com/flutter/flutter/pull/174459) merged on August 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174459) over 3 hours, 109 additions and 2 deletions in 4 files</sub>
@@ -158,6 +158,10 @@
   <sub>[#174120](https://github.com/flutter/flutter/pull/174120) merged on August 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174120) over 5 days, 9 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [flutter_test] update the _isImportantForAccessibility method in SemanticsController to include tooltip
+  <sub>[#174476](https://github.com/flutter/flutter/pull/174476) merged on August 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174476) over 2 days, 18 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] [test] containsSemantics  can ignore SemanticsValidationResult
   <sub>[#174608](https://github.com/flutter/flutter/pull/174608) merged on August 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174608) over 22 hours, 47 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov)</sub>
@@ -186,17 +190,21 @@
   <sub>[#174399](https://github.com/flutter/flutter/pull/174399) merged on August 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174399) over 44 minutes, 12 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix SliverMainAxisGroup and SliverCrossAxisGroup gestures' local positions.
-  <sub>[#174265](https://github.com/flutter/flutter/pull/174265) merged on August 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174265) over 4 days, 234 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Don't fail when hot restarting `web-server` and there are no connected clients
   <sub>[#174600](https://github.com/flutter/flutter/pull/174600) merged on August 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174600) over 21 hours, 56 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix SliverMainAxisGroup and SliverCrossAxisGroup gestures' local positions.
+  <sub>[#174265](https://github.com/flutter/flutter/pull/174265) merged on August 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174265) over 4 days, 234 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move flakey iOS tests to bringup
   <sub>[#174446](https://github.com/flutter/flutter/pull/174446) merged on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174446) over 51 minutes, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Update dwds to 25.0.3
+  <sub>[#174379](https://github.com/flutter/flutter/pull/174379) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174379) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; fix typo in test_profile/README.md
   <sub>[#174384](https://github.com/flutter/flutter/pull/174384) merged on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174384) over 1 day, 1 addition and 1 deletion in 1 file</sub>
@@ -206,21 +214,17 @@
   <sub>[#174091](https://github.com/flutter/flutter/pull/174091) merged on August 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174091) over 1 week, 11 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Create Hot Restart over websocket test
-  <sub>[#173852](https://github.com/flutter/flutter/pull/173852) merged on August 25, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173852) over 1 week, 288 additions and 122 deletions in 3 files</sub>
-  <sub>Reviewed by: [Nate Biggs](https://github.com/biggs0125), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Srujan Gaddam](https://github.com/srujzs)</sub>
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix some issues in engine-tool README.
+  <sub>[#174512](https://github.com/flutter/flutter/pull/174512) merged on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174512) over 1 day, 5 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation function name
   <sub>[#174297](https://github.com/flutter/flutter/pull/174297) merged on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174297) over 2 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix some issues in engine-tool README.
-  <sub>[#174512](https://github.com/flutter/flutter/pull/174512) merged on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174512) over 1 day, 5 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Bruno Leroux](https://github.com/bleroux)</sub>
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Update dwds to 25.0.3
-  <sub>[#174379](https://github.com/flutter/flutter/pull/174379) merged on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174379) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Create Hot Restart over websocket test
+  <sub>[#173852](https://github.com/flutter/flutter/pull/173852) merged on August 25, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173852) over 1 week, 288 additions and 122 deletions in 3 files</sub>
+  <sub>Reviewed by: [Nate Biggs](https://github.com/biggs0125), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows_mokey basic_material_app_win__compile to be flaky
   <sub>[#173702](https://github.com/flutter/flutter/pull/173702) merged on August 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/173702) over 2 weeks, 1 addition and 0 deletions in 1 file</sub>
