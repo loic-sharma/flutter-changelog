@@ -84,7 +84,7 @@
   <sub>[#174621](https://github.com/flutter/flutter/pull/174621) opened on on August 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174621) 8 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Delete Skia-specific performance overlay implementation<br />
-  <sub>[#174682](https://github.com/flutter/flutter/pull/174682) opened on on August 29, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174682) 56 additions and 270 deletions in 10 files</sub><br />
+  <sub>[#174682](https://github.com/flutter/flutter/pull/174682) opened on on August 29, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174682) 55 additions and 269 deletions in 10 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation #2<br />
   <sub>[#174707](https://github.com/flutter/flutter/pull/174707) opened on on August 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174707) 2 additions and 2 deletions in 2 files</sub><br />
