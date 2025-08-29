@@ -89,3 +89,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; RenderTable adoptChild before calling setFlatChildren.<br />
   <sub>[#174679](https://github.com/flutter/flutter/pull/174679) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174679) 140 additions and 37 deletions in 4 files</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; Delete Skia-specific performance overlay implementation<br />
+  <sub>[#174682](https://github.com/flutter/flutter/pull/174682) opened on on August 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174682) 13 additions and 247 deletions in 6 files</sub><br />
+
