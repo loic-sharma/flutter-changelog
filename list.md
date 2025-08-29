@@ -828,7 +828,7 @@
 
 ### August 23, 2025 to August 29, 2025
 
-8 commits.
+9 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Support NV21
   <sub>[#9853](https://github.com/flutter/packages/pull/9853) merged on August 27, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/9853) over 1 week, 1047 additions and 718 deletions in 17 files</sub>
@@ -853,6 +853,10 @@
 * **[Arthur Monteiro Alves Melo](https://github.com/4rthurmonteiro)** &mdash; [google_maps_flutter_platform_interface] Add cameraControl enable/disable & position on web
   <sub>[#9897](https://github.com/flutter/packages/pull/9897) merged on August 28, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/9897) over 1 day, 208 additions and 3 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 12
+  <sub>[#9781](https://github.com/flutter/packages/pull/9781) merged on August 29, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/9781) over 2 weeks, 206 additions and 260 deletions in 51 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Try to convince GCA to stop complaining about `dependency_overrides`
   <sub>[#9879](https://github.com/flutter/packages/pull/9879) merged on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9879) over 12 hours, 7 additions and 0 deletions in 1 file</sub>
