@@ -104,3 +104,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update gradle_errors.dart to use constants defined in gradle_utils.dart<br />
   <sub>[#174760](https://github.com/flutter/flutter/pull/174760) opened on on August 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174760) 6 additions and 8 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a VerticalDivider doesn't crash at 0x0 environment<br />
+  <sub>[#174761](https://github.com/flutter/flutter/pull/174761) opened on on August 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174761) 9 additions and 0 deletions in 1 file</sub><br />
+
