@@ -54,7 +54,7 @@
   <sub>[#174300](https://github.com/flutter/flutter/pull/174300) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174300) 193 additions and 7 deletions in 3 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate page transition builder class to widgets<br />
-  <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174321) 69 additions and 55 deletions in 3 files</sub><br />
+  <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174321) 69 additions and 55 deletions in 3 files</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
   <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174374) 122 additions and 48 deletions in 2 files</sub><br />
