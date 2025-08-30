@@ -54,10 +54,10 @@
   <sub>[#174300](https://github.com/flutter/flutter/pull/174300) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174300) 193 additions and 7 deletions in 3 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate page transition builder class to widgets<br />
-  <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174321) 67 additions and 55 deletions in 3 files</sub><br />
+  <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174321) 69 additions and 55 deletions in 3 files</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
-  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174374) 122 additions and 48 deletions in 2 files</sub><br />
+  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174374) 122 additions and 48 deletions in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Remove dead code from snippet_generator<br />
   <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
@@ -96,5 +96,5 @@
   <sub>[#174725](https://github.com/flutter/flutter/pull/174725) opened on on August 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174725) 0 additions and 793 deletions in 5 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in Impeller DrawRect geomtry<br />
-  <sub>[#174735](https://github.com/flutter/flutter/pull/174735) opened on on August 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174735) 165 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#174735](https://github.com/flutter/flutter/pull/174735) opened on on August 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174735) 165 additions and 17 deletions in 3 files</sub><br />
 
