@@ -98,6 +98,9 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in Impeller DrawRect geomtry<br />
   <sub>[#174735](https://github.com/flutter/flutter/pull/174735) opened on on August 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174735) 165 additions and 17 deletions in 3 files</sub><br />
 
+* **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu` entry selection with enableFilter<br />
+  <sub>[#174757](https://github.com/flutter/flutter/pull/174757) opened on on August 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174757) 64 additions and 2 deletions in 2 files</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactors `FlutterPlugin.kt` to use one line statement in the `into` bloc<br />
   <sub>[#174759](https://github.com/flutter/flutter/pull/174759) opened on on August 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174759) 1 addition and 8 deletions in 1 file</sub><br />
 
