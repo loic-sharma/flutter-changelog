@@ -98,3 +98,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in Impeller DrawRect geomtry<br />
   <sub>[#174735](https://github.com/flutter/flutter/pull/174735) opened on on August 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174735) 165 additions and 17 deletions in 3 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AdaptiveTextSelectionToolBar doesn't crash in 0x0 e…<br />
+  <sub>[#174750](https://github.com/flutter/flutter/pull/174750) opened on on August 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174750) 18 additions and 0 deletions in 1 file</sub><br />
+
