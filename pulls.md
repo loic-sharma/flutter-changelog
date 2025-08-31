@@ -27,7 +27,7 @@
   <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
 
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
-  <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
   <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173570) 200 additions and 52 deletions in 4 files</sub><br />
