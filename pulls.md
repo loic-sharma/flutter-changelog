@@ -95,9 +95,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Remove build configuration mismatch warning<br />
   <sub>[#174725](https://github.com/flutter/flutter/pull/174725) opened on on August 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174725) 0 additions and 793 deletions in 5 files</sub><br />
 
-* **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu` entry selection with enableFilter<br />
-  <sub>[#174757](https://github.com/flutter/flutter/pull/174757) opened on on August 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174757) 64 additions and 2 deletions in 2 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactors `FlutterPlugin.kt` to use one line statement in the `into` bloc<br />
   <sub>[#174759](https://github.com/flutter/flutter/pull/174759) opened on on August 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174759) 1 addition and 8 deletions in 1 file</sub><br />
 
