@@ -729,9 +729,18 @@
 
 ## flutter/website
 
+### August 30, 2025 to September 5, 2025
+
+1 commits.
+
+* **[dzotsee](https://github.com/dzotsee21)** &mdash; fix(ui): correct ColorLabel enum - rename yellow entry to orange
+  <sub>[#12376](https://github.com/flutter/website/pull/12376) merged on September 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12376) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### August 23, 2025 to August 29, 2025
 
-23 commits.
+<details>
+<summary>23 commits...</summary>
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix/icons for dark mode
   <sub>[#12366](https://github.com/flutter/website/pull/12366) merged on August 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12366) over 8 hours, 17 additions and 11 deletions in 4 files</sub>
@@ -825,6 +834,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a hot reload GIF
   <sub>[#12340](https://github.com/flutter/website/pull/12340) merged on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12340) over 4 days, 3 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### August 16, 2025 to August 22, 2025
 
