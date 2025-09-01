@@ -110,3 +110,12 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that Drawer & DrawerHeader don't crash in 0x0 environment<br />
   <sub>[#174772](https://github.com/flutter/flutter/pull/174772) opened on on August 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174772) 14 additions and 0 deletions in 1 file</sub><br />
 
+* **[Meylis Annagurbanov](https://github.com/meylis1998)** &mdash; Fix CupertinoNavigationBar MediaQuery regression #174771<br />
+  <sub>[#174776](https://github.com/flutter/flutter/pull/174776) opened on on September 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174776) 135 additions and 7 deletions in 2 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownMenuFormField doesn't crash in 0x0 environment<br />
+  <sub>[#174777](https://github.com/flutter/flutter/pull/174777) opened on on September 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174777) 15 additions and 0 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu filtering is broken<br />
+  <sub>[#174778](https://github.com/flutter/flutter/pull/174778) opened on on September 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174778) 62 additions and 17 deletions in 2 files</sub><br />
+
