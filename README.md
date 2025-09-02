@@ -642,7 +642,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-4 commits.
+6 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Scrub pre-iOS-13 code<br />
   <sub>[#9849](https://github.com/flutter/packages/pull/9849) merged on September 2, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/9849) over 2 weeks, 1802 additions and 2014 deletions in 94 files</sub><br />
@@ -651,6 +651,14 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Combine code analysis commands into `analyze`<br />
   <sub>[#9860](https://github.com/flutter/packages/pull/9860) merged on September 2, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9860) over 1 week, 1659 additions and 1637 deletions in 12 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update FWFWebViewFlutterWKWebViewExternalAPITests.swift<br />
+  <sub>[#9922](https://github.com/flutter/packages/pull/9922) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9922) over 5 days, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update Stubs for FlutterPluginRegistrar interface change<br />
+  <sub>[#9923](https://github.com/flutter/packages/pull/9923) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9923) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Update Android minimum SDK version<br />
   <sub>[#9945](https://github.com/flutter/packages/pull/9945) merged on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9945) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
