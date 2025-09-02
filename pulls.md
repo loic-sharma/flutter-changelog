@@ -123,11 +123,11 @@
   <sub>[#174812](https://github.com/flutter/flutter/pull/174812) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174812) 21 additions and 10 deletions in 1 file</sub><br />
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; fix(rendering): correct PerformanceOverlay optionsMask checks and add tests<br />
-  <sub>[#174814](https://github.com/flutter/flutter/pull/174814) opened on on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174814) 34 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#174814](https://github.com/flutter/flutter/pull/174814) opened on on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174814) 34 additions and 4 deletions in 2 files</sub><br />
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; feat(widgets): add semanticIndexOffset to SliverList/SliverGrid/Fixed/Varied builder constructors + tests<br />
-  <sub>[#174815](https://github.com/flutter/flutter/pull/174815) opened on on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174815) 104 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#174815](https://github.com/flutter/flutter/pull/174815) opened on on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174815) 104 additions and 0 deletions in 3 files</sub><br />
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; a11y(material): make AM/PM buttons live regions so state change is announced<br />
-  <sub>[#174816](https://github.com/flutter/flutter/pull/174816) opened on on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174816) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#174816](https://github.com/flutter/flutter/pull/174816) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174816) 30 additions and 0 deletions in 2 files</sub><br />
 
