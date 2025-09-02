@@ -4,7 +4,11 @@
 
 ### August 30, 2025 to September 5, 2025
 
-1 commits.
+2 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bind `GL_FRAMEBUFFER` with `glReadPixels` for gles2 compatibility<br />
+  <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Dart SDK from 1f7da070b636 to ab3d0c6d5728 (4 revisions)<br />
   <sub>[#174819](https://github.com/flutter/flutter/pull/174819) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174819) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
