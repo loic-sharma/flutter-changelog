@@ -742,7 +742,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-2 commits.
+3 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelab and cookbook index in favor of learning resource index<br />
   <sub>[#12261](https://github.com/flutter/website/pull/12261) merged on September 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12261) over 1 month, 48 additions and 475 deletions in 19 files</sub><br />
@@ -751,6 +751,10 @@
 * **[dzotsee](https://github.com/dzotsee21)** &mdash; fix(ui): correct ColorLabel enum - rename yellow entry to orange<br />
   <sub>[#12376](https://github.com/flutter/website/pull/12376) merged on September 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12376) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add link to MCP server docs to sidenav<br />
+  <sub>[#12374](https://github.com/flutter/website/pull/12374) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12374) over 3 days, 5 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub><br />
 
 ### August 23, 2025 to August 29, 2025
 
