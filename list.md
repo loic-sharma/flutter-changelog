@@ -642,7 +642,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-3 commits.
+4 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Scrub pre-iOS-13 code
   <sub>[#9849](https://github.com/flutter/packages/pull/9849) merged on September 2, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/9849) over 2 weeks, 1802 additions and 2014 deletions in 94 files</sub>
@@ -651,6 +651,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Combine code analysis commands into `analyze`
   <sub>[#9860](https://github.com/flutter/packages/pull/9860) merged on September 2, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9860) over 1 week, 1659 additions and 1637 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Update Android minimum SDK version
+  <sub>[#9945](https://github.com/flutter/packages/pull/9945) merged on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9945) over 3 hours, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Arthur Monteiro Alves Melo](https://github.com/4rthurmonteiro)** &mdash; [google_maps_flutter_web] Add cameraControl enable/disable & position on web
   <sub>[#9921](https://github.com/flutter/packages/pull/9921) merged on September 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9921) over 5 days, 132 additions and 5 deletions in 5 files</sub>

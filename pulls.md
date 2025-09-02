@@ -126,5 +126,5 @@
   <sub>[#174845](https://github.com/flutter/flutter/pull/174845) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174845) 42 additions and 0 deletions in 2 files</sub><br />
 
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Cleanup Fuchsia FDIO library dependencies<br />
-  <sub>[#174847](https://github.com/flutter/flutter/pull/174847) opened on on September 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174847) 2 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#174847](https://github.com/flutter/flutter/pull/174847) opened on on September 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174847) 2 additions and 3 deletions in 2 files</sub><br />
 
