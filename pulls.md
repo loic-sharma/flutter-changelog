@@ -81,7 +81,7 @@
   <sub>[#174709](https://github.com/flutter/flutter/pull/174709) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174709) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; deletes the old license checker.<br />
-  <sub>[#174719](https://github.com/flutter/flutter/pull/174719) opened on on August 29, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/174719) 0 additions and 129719 deletions in 40 files</sub><br />
+  <sub>[#174719](https://github.com/flutter/flutter/pull/174719) opened on on August 29, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/174719) 0 additions and 129719 deletions in 40 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove build configuration mismatch warning<br />
   <sub>[#174724](https://github.com/flutter/flutter/pull/174724) opened on on August 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174724) 0 additions and 793 deletions in 5 files</sub><br />
