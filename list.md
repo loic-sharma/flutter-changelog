@@ -604,9 +604,18 @@
 
 ## flutter/packages
 
+### August 30, 2025 to September 5, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Combine code analysis commands into `analyze`
+  <sub>[#9860](https://github.com/flutter/packages/pull/9860) merged on September 2, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9860) over 1 week, 1659 additions and 1637 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
 ### August 23, 2025 to August 29, 2025
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Support NV21
   <sub>[#9853](https://github.com/flutter/packages/pull/9853) merged on August 27, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/9853) over 1 week, 1047 additions and 718 deletions in 17 files</sub>
@@ -651,6 +660,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 20f82749394e to 05db9689081f (15 revisions)
   <sub>[#9892](https://github.com/flutter/packages/pull/9892) merged on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9892) over 56 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### August 16, 2025 to August 22, 2025
 
@@ -742,7 +753,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-3 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelab and cookbook index in favor of learning resource index
   <sub>[#12261](https://github.com/flutter/website/pull/12261) merged on September 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12261) over 1 month, 48 additions and 475 deletions in 19 files</sub>
@@ -752,9 +763,17 @@
   <sub>[#12376](https://github.com/flutter/website/pull/12376) merged on September 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12376) over 2 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pinned pnpm version and npm deps
+  <sub>[#12377](https://github.com/flutter/website/pull/12377) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12377) over 1 hour, 108 additions and 108 deletions in 4 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add link to MCP server docs to sidenav
   <sub>[#12374](https://github.com/flutter/website/pull/12374) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12374) over 3 days, 5 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Release notes for Flutter DevTools 2.50.0
+  <sub>[#12378](https://github.com/flutter/website/pull/12378) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12378) over 1 hour, 25 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### August 23, 2025 to August 29, 2025
 
