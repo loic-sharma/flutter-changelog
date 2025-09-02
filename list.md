@@ -4,7 +4,11 @@
 
 ### August 30, 2025 to September 5, 2025
 
-6 commits.
+7 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature
+  <sub>[#173576](https://github.com/flutter/flutter/pull/173576) merged on September 2, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173576) over 3 weeks, 10 additions and 430 deletions in 26 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Respond to IDE navigation events and show previews from the currently focused script
   <sub>[#174466](https://github.com/flutter/flutter/pull/174466) merged on September 2, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/174466) over 6 days, 878 additions and 329 deletions in 28 files</sub>
@@ -806,7 +810,7 @@
   <sub><details><summary>4 images...</summary><img width="400" alt="Screenshot 2025-08-28 at 12 53 11 PM" src="https://github.com/user-attachments/assets/f661892d-dfb4-42fb-b0d1-d5380fab5938" /><img width="500" alt="image" src="https://github.com/user-attachments/assets/e4f91f9c-e542-4e02-9d58-44a2988e9300" /><img width="500" alt="Screenshot 2025-08-28 at 5 51 11 PM" src="https://github.com/user-attachments/assets/ef0e9fa6-1b4b-49f8-a673-e672dfe06cfe" /><img width="500" alt="image" src="https://github.com/user-attachments/assets/e1c23e85-2cd5-4f7a-908c-00b960ec6994" /></details></sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add breaking changes page on default ABI filters
-  <sub>[#12350](https://github.com/flutter/website/pull/12350) merged on August 26, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/website/pull/12350) over 4 days, 91 additions and 0 deletions in 2 files</sub>
+  <sub>[#12350](https://github.com/flutter/website/pull/12350) merged on August 26, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/website/pull/12350) over 4 days, 91 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE part 3
