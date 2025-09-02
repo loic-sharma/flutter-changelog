@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-9 commits.
+10 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature
   <sub>[#173576](https://github.com/flutter/flutter/pull/173576) merged on September 2, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173576) over 3 weeks, 10 additions and 430 deletions in 26 files</sub>
@@ -33,6 +33,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bind `GL_FRAMEBUFFER` with `glReadPixels` for gles2 compatibility
   <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Break up plugin_test integration tests
+  <sub>[#174728](https://github.com/flutter/flutter/pull/174728) merged on September 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174728) over 4 days, 95 additions and 13 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Ndk download is not a condition of the test
   <sub>[#174832](https://github.com/flutter/flutter/pull/174832) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174832) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
