@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-8 commits.
+9 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature
   <sub>[#173576](https://github.com/flutter/flutter/pull/173576) merged on September 2, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173576) over 3 weeks, 10 additions and 430 deletions in 26 files</sub>
@@ -17,6 +17,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough
   <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Assertion failure in RawScrollbarState with dynamic controller assignment
+  <sub>[#173156](https://github.com/flutter/flutter/pull/173156) merged on September 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173156) over 1 month, 83 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Build engine TUs with C++20.
   <sub>[#174471](https://github.com/flutter/flutter/pull/174471) merged on September 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/174471) over 6 days, 248 additions and 46 deletions in 24 files</sub>
@@ -634,7 +638,11 @@
 
 ### August 30, 2025 to September 5, 2025
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Scrub pre-iOS-13 code
+  <sub>[#9849](https://github.com/flutter/packages/pull/9849) merged on September 2, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/9849) over 2 weeks, 1802 additions and 2014 deletions in 94 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Combine code analysis commands into `analyze`
   <sub>[#9860](https://github.com/flutter/packages/pull/9860) merged on September 2, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9860) over 1 week, 1659 additions and 1637 deletions in 12 files</sub>
