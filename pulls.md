@@ -116,9 +116,6 @@
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; a11y(material): make AM/PM buttons live regions so state change is announced<br />
   <sub>[#174816](https://github.com/flutter/flutter/pull/174816) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174816) 30 additions and 0 deletions in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Ndk download is not a condition of the test<br />
-  <sub>[#174832](https://github.com/flutter/flutter/pull/174832) opened on on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174832) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-162.1.beta<br />
   <sub>[#174834](https://github.com/flutter/flutter/pull/174834) opened on on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174834) 1 addition and 1 deletion in 1 file</sub><br />
 
