@@ -120,5 +120,8 @@
   <sub>[#174811](https://github.com/flutter/flutter/pull/174811) opened on on September 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174811) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; fix(widgets): guard showPerformanceOverlay on web with no-op and debug message<br />
-  <sub>[#174812](https://github.com/flutter/flutter/pull/174812) opened on on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174812) 18 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#174812](https://github.com/flutter/flutter/pull/174812) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174812) 21 additions and 10 deletions in 1 file</sub><br />
+
+* **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; fix(rendering): correct PerformanceOverlay optionsMask checks and add tests<br />
+  <sub>[#174814](https://github.com/flutter/flutter/pull/174814) opened on on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174814) 32 additions and 4 deletions in 2 files</sub><br />
 
