@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 30, 2025 to September 5, 2025
+
+1 commits.
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Dart SDK from 1f7da070b636 to ab3d0c6d5728 (4 revisions)
+  <sub>[#174819](https://github.com/flutter/flutter/pull/174819) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174819) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 ### August 23, 2025 to August 29, 2025
 
-76 commits.
+<details>
+<summary>76 commits...</summary>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dwds 25.0.4
   <sub>[#174601](https://github.com/flutter/flutter/pull/174601) merged on August 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174601) over 14 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -309,6 +318,8 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Check GTK calls are done on the same thread."
   <sub>[#174604](https://github.com/flutter/flutter/pull/174604) merged on August 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174604) over 4 hours, 4 additions and 159 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+</details>
 
 ### August 16, 2025 to August 22, 2025
 
