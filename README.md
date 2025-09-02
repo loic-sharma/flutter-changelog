@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-10 commits.
+11 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature<br />
   <sub>[#173576](https://github.com/flutter/flutter/pull/173576) merged on September 2, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173576) over 3 weeks, 10 additions and 430 deletions in 26 files</sub><br />
@@ -17,6 +17,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough<br />
   <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Ensures initial semantics state is sent to engine<br />
+  <sub>[#174845](https://github.com/flutter/flutter/pull/174845) merged on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174845) over 2 hours, 42 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Assertion failure in RawScrollbarState with dynamic controller assignment<br />
   <sub>[#173156](https://github.com/flutter/flutter/pull/173156) merged on September 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173156) over 1 month, 83 additions and 0 deletions in 2 files</sub><br />
