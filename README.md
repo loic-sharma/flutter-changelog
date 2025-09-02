@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-7 commits.
+8 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature<br />
   <sub>[#173576](https://github.com/flutter/flutter/pull/173576) merged on September 2, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173576) over 3 weeks, 10 additions and 430 deletions in 26 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Build engine TUs with C++20.<br />
   <sub>[#174471](https://github.com/flutter/flutter/pull/174471) merged on September 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/174471) over 6 days, 248 additions and 46 deletions in 24 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Include SemanticsValidationResult in debugDumpSemanticsTree<br />
+  <sub>[#174677](https://github.com/flutter/flutter/pull/174677) merged on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174677) over 4 days, 26 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bind `GL_FRAMEBUFFER` with `glReadPixels` for gles2 compatibility<br />
   <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub><br />
@@ -777,7 +781,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-5 commits.
+6 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelab and cookbook index in favor of learning resource index<br />
   <sub>[#12261](https://github.com/flutter/website/pull/12261) merged on September 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12261) over 1 month, 48 additions and 475 deletions in 19 files</sub><br />
@@ -794,6 +798,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add link to MCP server docs to sidenav<br />
   <sub>[#12374](https://github.com/flutter/website/pull/12374) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12374) over 3 days, 5 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Fix "Flutter now sets default `abiFilters` in Android builds" link<br />
+  <sub>[#12379](https://github.com/flutter/website/pull/12379) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12379) over 13 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Release notes for Flutter DevTools 2.50.0<br />
   <sub>[#12378](https://github.com/flutter/website/pull/12378) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12378) over 1 hour, 25 additions and 0 deletions in 3 files</sub><br />
