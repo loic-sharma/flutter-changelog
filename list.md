@@ -4,7 +4,11 @@
 
 ### August 30, 2025 to September 5, 2025
 
-2 commits.
+3 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Respond to IDE navigation events and show previews from the currently focused script
+  <sub>[#174466](https://github.com/flutter/flutter/pull/174466) merged on September 2, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/174466) over 6 days, 878 additions and 329 deletions in 28 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bind `GL_FRAMEBUFFER` with `glReadPixels` for gles2 compatibility
   <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub>
@@ -622,7 +626,7 @@
 <summary>11 commits...</summary>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Support NV21
-  <sub>[#9853](https://github.com/flutter/packages/pull/9853) merged on August 27, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/9853) over 1 week, 1047 additions and 718 deletions in 17 files</sub>
+  <sub>[#9853](https://github.com/flutter/packages/pull/9853) merged on August 27, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/9853) over 1 week, 1047 additions and 718 deletions in 17 files</sub>
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Steven Sorial](https://github.com/StevenSorial)** &mdash; [go_router_builder] Change mixin name
