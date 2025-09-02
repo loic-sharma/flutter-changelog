@@ -113,3 +113,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownMenuFormField doesn't crash in 0x0 environment<br />
   <sub>[#174777](https://github.com/flutter/flutter/pull/174777) opened on on September 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174777) 15 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownMenu doesn't crash in 0x0 environment<br />
+  <sub>[#174809](https://github.com/flutter/flutter/pull/174809) opened on on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174809) 15 additions and 0 deletions in 1 file</sub><br />
+
