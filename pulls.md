@@ -123,7 +123,7 @@
   <sub>[#174841](https://github.com/flutter/flutter/pull/174841) opened on on September 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174841) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Ensures initial semantics state is sent to engine<br />
-  <sub>[#174845](https://github.com/flutter/flutter/pull/174845) opened on on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174845) 42 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#174845](https://github.com/flutter/flutter/pull/174845) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174845) 42 additions and 0 deletions in 2 files</sub><br />
 
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Cleanup Fuchsia FDIO library dependencies<br />
   <sub>[#174847](https://github.com/flutter/flutter/pull/174847) opened on on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174847) 2 additions and 3 deletions in 2 files</sub><br />
