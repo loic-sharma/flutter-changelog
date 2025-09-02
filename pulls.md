@@ -122,3 +122,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace `onPop` usage with `onPopWithResult` in `navigation_bar.2.dart `<br />
   <sub>[#174841](https://github.com/flutter/flutter/pull/174841) opened on on September 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174841) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Ensures initial semantics state is sent to engine<br />
+  <sub>[#174845](https://github.com/flutter/flutter/pull/174845) opened on on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174845) 42 additions and 0 deletions in 2 files</sub><br />
+
