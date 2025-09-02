@@ -89,12 +89,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Remove build configuration mismatch warning<br />
   <sub>[#174725](https://github.com/flutter/flutter/pull/174725) opened on on August 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174725) 0 additions and 793 deletions in 5 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactors `FlutterPlugin.kt` to use one line statement in the `into` bloc<br />
-  <sub>[#174759](https://github.com/flutter/flutter/pull/174759) opened on on August 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174759) 1 addition and 8 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update gradle_errors.dart to use constants defined in gradle_utils.dart<br />
-  <sub>[#174760](https://github.com/flutter/flutter/pull/174760) opened on on August 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174760) 6 additions and 8 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a VerticalDivider doesn't crash at 0x0 environment<br />
   <sub>[#174761](https://github.com/flutter/flutter/pull/174761) opened on on August 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174761) 9 additions and 0 deletions in 1 file</sub><br />
 
@@ -124,4 +118,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Ndk download is not a condition of the test<br />
   <sub>[#174832](https://github.com/flutter/flutter/pull/174832) opened on on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174832) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-162.1.beta<br />
+  <sub>[#174834](https://github.com/flutter/flutter/pull/174834) opened on on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174834) 1 addition and 1 deletion in 1 file</sub><br />
 
