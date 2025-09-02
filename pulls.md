@@ -50,9 +50,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Load fonts in the order addFont is called<br />
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174253) 29 additions and 4 deletions in 2 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Correctly implement `MouseCursor.uncontrolled` on Web<br />
-  <sub>[#174300](https://github.com/flutter/flutter/pull/174300) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174300) 193 additions and 7 deletions in 3 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Migrate page transition builder class to widgets<br />
   <sub>[#174321](https://github.com/flutter/flutter/pull/174321) opened on on August 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174321) 69 additions and 55 deletions in 3 files</sub><br />
 
@@ -127,4 +124,7 @@
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; a11y(material): make AM/PM buttons live regions so state change is announced<br />
   <sub>[#174816](https://github.com/flutter/flutter/pull/174816) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174816) 30 additions and 0 deletions in 2 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Ndk download is not a condition of the test<br />
+  <sub>[#174832](https://github.com/flutter/flutter/pull/174832) opened on on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174832) 0 additions and 1 deletion in 1 file</sub><br />
 

@@ -304,7 +304,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android_emu android_display_cutout to be flaky<br />
-  <sub>[#174501](https://github.com/flutter/flutter/pull/174501) merged on August 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174501) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#174501](https://github.com/flutter/flutter/pull/174501) merged on August 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174501) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro service_extensions_test to be flaky<br />
