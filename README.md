@@ -278,8 +278,8 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [flutter_test] update the _isImportantForAccessibility method in SemanticsController to include tooltip<br />
-  <sub>[#174476](https://github.com/flutter/flutter/pull/174476) merged on August 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174476) over 2 days, 18 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+  <sub>[#174476](https://github.com/flutter/flutter/pull/174476) merged on August 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174476) over 2 days, 18 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [elunicosantotavera77-cmd](https://github.com/elunicosantotavera77-cmd), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] [test] containsSemantics  can ignore SemanticsValidationResult<br />
   <sub>[#174608](https://github.com/flutter/flutter/pull/174608) merged on August 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174608) over 22 hours, 47 additions and 4 deletions in 2 files</sub><br />
