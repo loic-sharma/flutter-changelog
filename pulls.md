@@ -83,12 +83,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; deletes the old license checker.<br />
   <sub>[#174719](https://github.com/flutter/flutter/pull/174719) opened on on August 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174719) 4 additions and 129725 deletions in 41 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove build configuration mismatch warning<br />
-  <sub>[#174724](https://github.com/flutter/flutter/pull/174724) opened on on August 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174724) 0 additions and 793 deletions in 5 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Remove build configuration mismatch warning<br />
-  <sub>[#174725](https://github.com/flutter/flutter/pull/174725) opened on on August 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174725) 0 additions and 793 deletions in 5 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a VerticalDivider doesn't crash at 0x0 environment<br />
   <sub>[#174761](https://github.com/flutter/flutter/pull/174761) opened on on August 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174761) 9 additions and 0 deletions in 1 file</sub><br />
 
@@ -116,9 +110,6 @@
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; a11y(material): make AM/PM buttons live regions so state change is announced<br />
   <sub>[#174816](https://github.com/flutter/flutter/pull/174816) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174816) 30 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-162.1.beta<br />
-  <sub>[#174834](https://github.com/flutter/flutter/pull/174834) opened on on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174834) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace `onPop` usage with `onPopWithResult` in `navigation_bar.2.dart `<br />
   <sub>[#174841](https://github.com/flutter/flutter/pull/174841) opened on on September 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174841) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -131,9 +122,12 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix NavigationRail leading and trailing labels<br />
   <sub>[#174861](https://github.com/flutter/flutter/pull/174861) opened on on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174861) 32 additions and 0 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prevent potential crash when accessing window in FlutterSceneDelegate<br />
-  <sub>[#174873](https://github.com/flutter/flutter/pull/174873) opened on on September 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174873) 81 additions and 5 deletions in 4 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Mark Linux web_canvaskit_tests_7_last as bringup<br />
   <sub>[#174878](https://github.com/flutter/flutter/pull/174878) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174878) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownButton doesn't crash in 0x0 environment<br />
+  <sub>[#174880](https://github.com/flutter/flutter/pull/174880) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174880) 22 additions and 0 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update `test_timeout_secs` to match `timeout` for `Linux web_skwasm_tests_*` and `Linux web_canvaskit_tests_*`<br />
+  <sub>[#174881](https://github.com/flutter/flutter/pull/174881) opened on on September 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174881) 16 additions and 0 deletions in 1 file</sub><br />
 
