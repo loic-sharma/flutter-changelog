@@ -122,15 +122,9 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix NavigationRail leading and trailing labels<br />
   <sub>[#174861](https://github.com/flutter/flutter/pull/174861) opened on on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174861) 32 additions and 0 deletions in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Mark Linux web_canvaskit_tests_7_last as bringup<br />
-  <sub>[#174878](https://github.com/flutter/flutter/pull/174878) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174878) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownButton doesn't crash in 0x0 environment<br />
   <sub>[#174880](https://github.com/flutter/flutter/pull/174880) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174880) 22 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update `test_timeout_secs` to match `timeout` for `Linux web_skwasm_tests_*` and `Linux web_canvaskit_tests_*`<br />
   <sub>[#174881](https://github.com/flutter/flutter/pull/174881) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174881) 16 additions and 0 deletions in 1 file</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump dart revision and add changelog.<br />
-  <sub>[#174887](https://github.com/flutter/flutter/pull/174887) opened on on September 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174887) 11 additions and 1 deletion in 2 files</sub><br />
 
