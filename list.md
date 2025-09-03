@@ -4,12 +4,17 @@
 
 ### August 30, 2025 to September 5, 2025
 
-22 commits.
+23 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LinearProgressIndicator track painting.
-  <sub>[#173108](https://github.com/flutter/flutter/pull/173108) merged on September 3, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/173108) over 1 month, 242 additions and 64 deletions in 2 files</sub>
+  <sub>[#173108](https://github.com/flutter/flutter/pull/173108) merged on September 3, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/173108) over 1 month, 242 additions and 64 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
   <sub><details><summary>8 images...</summary><img width="750" height="510" alt="before" src="https://github.com/user-attachments/assets/e68d34b4-b459-4c99-ad9f-877fcb3cb168" /><img width="750" height="510" alt="after" src="https://github.com/user-attachments/assets/0fbb5fe1-8b45-47c1-ade4-179b4da21be1" /><img width="750" height="510" alt="before" src="https://github.com/user-attachments/assets/a6442b24-cbd0-4b6b-aa21-d5a13137e109" /><img width="750" height="510" alt="after" src="https://github.com/user-attachments/assets/9f8228ff-3a8b-42f7-aada-fd29cc950082" /><img width="750" height="510" alt="before" src="https://github.com/user-attachments/assets/b417e438-fd91-409c-85bc-f34e2adcd753" /><img width="750" height="510" alt="after" src="https://github.com/user-attachments/assets/2a4865e2-c7d9-43a6-bd25-39012e5be389" /><img width="750" height="510" alt="before" src="https://github.com/user-attachments/assets/b94c6f41-94e2-4b6e-9c9b-5ec3486a77a8" /><img width="750" height="510" alt="after" src="https://github.com/user-attachments/assets/396c3386-8d42-4b82-a890-f21d6897cbdb" /></details></sub>
+
+* **[romain.gyh](https://github.com/romaingyh)** &mdash; Considers large title height in CupertinoNavigationBar's preferred size
+  <sub>[#173722](https://github.com/flutter/flutter/pull/173722) merged on September 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173722) over 3 weeks, 123 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub><details><summary>2 images...</summary><img width="645" height="1398" alt="Simulator Screenshot - iPhone 16 Plus - 2025-07-07 at 11 18 50" src="https://github.com/user-attachments/assets/abcd3c3b-bb38-410b-abf4-48372af9029e" /><img width="645" height="1398" alt="Simulator Screenshot - iPhone 16 Plus - 2025-07-07 at 11 19 00" src="https://github.com/user-attachments/assets/1d7e1fc4-74f2-431f-9f8e-7fdff03df6fe" /></details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature
   <sub>[#173576](https://github.com/flutter/flutter/pull/173576) merged on September 2, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173576) over 3 weeks, 10 additions and 430 deletions in 26 files</sub>
