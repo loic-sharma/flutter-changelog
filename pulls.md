@@ -125,3 +125,6 @@
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Cleanup Fuchsia FDIO library dependencies<br />
   <sub>[#174847](https://github.com/flutter/flutter/pull/174847) opened on on September 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174847) 2 additions and 3 deletions in 2 files</sub><br />
 
+* **[Rodrigo Gomes Dias](https://github.com/rodrigogmdias)** &mdash; Add semanticIndexOffset argument to SliverList.builder, SliverGrid.builder, and SliverFixedExtentList.builder<br />
+  <sub>[#174856](https://github.com/flutter/flutter/pull/174856) opened on on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174856) 128 additions and 0 deletions in 3 files</sub><br />
+

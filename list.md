@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-13 commits.
+15 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature
   <sub>[#173576](https://github.com/flutter/flutter/pull/173576) merged on September 2, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173576) over 3 weeks, 10 additions and 430 deletions in 26 files</sub>
@@ -13,6 +13,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Respond to IDE navigation events and show previews from the currently focused script
   <sub>[#174466](https://github.com/flutter/flutter/pull/174466) merged on September 2, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/174466) over 6 days, 878 additions and 329 deletions in 28 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in DrawRect geometry
+  <sub>[#174735](https://github.com/flutter/flutter/pull/174735) merged on September 2, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/174735) over 3 days, 248 additions and 77 deletions in 3 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough
   <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub>
@@ -33,6 +37,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Build engine TUs with C++20.
   <sub>[#174471](https://github.com/flutter/flutter/pull/174471) merged on September 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/174471) over 6 days, 248 additions and 46 deletions in 24 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Patch .clang-format files to specify C++20.
+  <sub>[#174848](https://github.com/flutter/flutter/pull/174848) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174848) over 3 hours, 6 additions and 12 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Include SemanticsValidationResult in debugDumpSemanticsTree
   <sub>[#174677](https://github.com/flutter/flutter/pull/174677) merged on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174677) over 4 days, 26 additions and 0 deletions in 2 files</sub>
