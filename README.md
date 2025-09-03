@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-23 commits.
+24 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LinearProgressIndicator track painting.<br />
   <sub>[#173108](https://github.com/flutter/flutter/pull/173108) merged on September 3, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/173108) over 1 month, 242 additions and 64 deletions in 2 files</sub><br />
@@ -39,6 +39,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough<br />
   <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct intrinsics calculation for CupertinoTextField with placeholder<br />
+  <sub>[#174889](https://github.com/flutter/flutter/pull/174889) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174889) over 1 hour, 62 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update `test_timeout_secs` to match `timeout` for `Linux web_skwasm_tests_*` and `Linux web_canvaskit_tests_*`<br />
   <sub>[#174881](https://github.com/flutter/flutter/pull/174881) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174881) over 1 hour, 16 additions and 0 deletions in 1 file</sub><br />
