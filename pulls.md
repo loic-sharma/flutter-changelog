@@ -134,3 +134,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prevent potential crash when accessing window in FlutterSceneDelegate<br />
   <sub>[#174873](https://github.com/flutter/flutter/pull/174873) opened on on September 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174873) 81 additions and 5 deletions in 4 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Mark Linux web_canvaskit_tests_7_last as bringup<br />
+  <sub>[#174878](https://github.com/flutter/flutter/pull/174878) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174878) 1 addition and 0 deletions in 1 file</sub><br />
+
