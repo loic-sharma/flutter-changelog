@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-27 commits.
+28 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LinearProgressIndicator track painting.<br />
   <sub>[#173108](https://github.com/flutter/flutter/pull/173108) merged on September 3, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/173108) over 1 month, 242 additions and 64 deletions in 2 files</sub><br />
@@ -59,6 +59,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Build engine TUs with C++20.<br />
   <sub>[#174471](https://github.com/flutter/flutter/pull/174471) merged on September 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/174471) over 6 days, 248 additions and 46 deletions in 24 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Delete impeller::SPrintF.<br />
+  <sub>[#174900](https://github.com/flutter/flutter/pull/174900) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174900) over 2 hours, 94 additions and 115 deletions in 23 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Fixup formatting of gn files in the old buildroot.<br />
   <sub>[#174852](https://github.com/flutter/flutter/pull/174852) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174852) over 19 hours, 145 additions and 136 deletions in 21 files</sub><br />
