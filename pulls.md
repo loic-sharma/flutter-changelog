@@ -131,3 +131,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix NavigationRail leading and trailing labels<br />
   <sub>[#174861](https://github.com/flutter/flutter/pull/174861) opened on on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174861) 32 additions and 0 deletions in 2 files</sub><br />
 
+* **[Sairam_Flutter Developer](https://github.com/Sairam2317flutterDeveloper)** &mdash; Flutter onboarding<br />
+  <sub>[#174872](https://github.com/flutter/flutter/pull/174872) opened on on September 3, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/174872) 3430 additions and 1226 deletions in 150 files</sub><br />
+
