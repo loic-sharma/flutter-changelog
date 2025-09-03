@@ -129,5 +129,5 @@
   <sub>[#174880](https://github.com/flutter/flutter/pull/174880) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174880) 22 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update `test_timeout_secs` to match `timeout` for `Linux web_skwasm_tests_*` and `Linux web_canvaskit_tests_*`<br />
-  <sub>[#174881](https://github.com/flutter/flutter/pull/174881) opened on on September 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174881) 16 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#174881](https://github.com/flutter/flutter/pull/174881) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174881) 16 additions and 0 deletions in 1 file</sub><br />
 
