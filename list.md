@@ -662,7 +662,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes preloading ad while another was playing on Android
   <sub>[#9904](https://github.com/flutter/packages/pull/9904) merged on September 3, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9904) over 6 days, 880 additions and 299 deletions in 18 files</sub>
@@ -675,6 +675,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Combine code analysis commands into `analyze`
   <sub>[#9860](https://github.com/flutter/packages/pull/9860) merged on September 2, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9860) over 1 week, 1659 additions and 1637 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Only license-check checked-in files
+  <sub>[#9905](https://github.com/flutter/packages/pull/9905) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9905) over 6 days, 74 additions and 24 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update FWFWebViewFlutterWKWebViewExternalAPITests.swift
   <sub>[#9922](https://github.com/flutter/packages/pull/9922) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9922) over 5 days, 3 additions and 0 deletions in 1 file</sub>
