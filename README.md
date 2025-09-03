@@ -662,7 +662,11 @@
 
 ### August 30, 2025 to September 5, 2025
 
-6 commits.
+7 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes preloading ad while another was playing on Android<br />
+  <sub>[#9904](https://github.com/flutter/packages/pull/9904) merged on September 3, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9904) over 6 days, 880 additions and 299 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Scrub pre-iOS-13 code<br />
   <sub>[#9849](https://github.com/flutter/packages/pull/9849) merged on September 2, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/9849) over 2 weeks, 1802 additions and 2014 deletions in 94 files</sub><br />
