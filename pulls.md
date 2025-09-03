@@ -17,6 +17,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Adjust default CupertinoCheckbox size on desktop<br />
+  <sub>[#172502](https://github.com/flutter/flutter/pull/172502) opened on on July 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172502) 57 additions and 3 deletions in 2 files</sub><br />
+
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172829) 66 additions and 6 deletions in 3 files</sub><br />
 
@@ -121,4 +124,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownButton doesn't crash in 0x0 environment<br />
   <sub>[#174880](https://github.com/flutter/flutter/pull/174880) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174880) 22 additions and 0 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Delete unused web_unicode library<br />
+  <sub>[#174896](https://github.com/flutter/flutter/pull/174896) opened on on September 3, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174896) 1 addition and 5552 deletions in 20 files</sub><br />
 

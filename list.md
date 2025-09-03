@@ -72,7 +72,7 @@
   <sub>Reviewed by: [Alexander Thomas](https://github.com/athomas), [Jackson Gardner](https://github.com/eyebrowsoffire), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Mark Linux web_canvaskit_tests_7_last as bringup
-  <sub>[#174878](https://github.com/flutter/flutter/pull/174878) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174878) over 7 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>[#174878](https://github.com/flutter/flutter/pull/174878) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174878) over 7 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactors `FlutterPlugin.kt` to use one line statement in the `into` bloc
