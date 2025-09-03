@@ -712,7 +712,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-12 commits.
+13 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes preloading ad while another was playing on Android<br />
   <sub>[#9904](https://github.com/flutter/packages/pull/9904) merged on September 3, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9904) over 6 days, 880 additions and 299 deletions in 18 files</sub><br />
@@ -733,6 +733,10 @@
 * **[James McIntosh](https://github.com/JamesMcIntosh)** &mdash; [google_maps_flutter] Fixes exception when dispose is called while asynchronous update from didUpdateWidget is executed<br />
   <sub>[#9227](https://github.com/flutter/packages/pull/9227) merged on September 3, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/9227) over 3 months, 105 additions and 33 deletions in 5 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router_builder] Fix unnecessary whitespace in generated `RelativeGoRouteData`<br />
+  <sub>[#9875](https://github.com/flutter/packages/pull/9875) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9875) over 1 week, 12 additions and 18 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Combine code analysis commands into `analyze`<br />
   <sub>[#9860](https://github.com/flutter/packages/pull/9860) merged on September 2, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9860) over 1 week, 1659 additions and 1637 deletions in 12 files</sub><br />
