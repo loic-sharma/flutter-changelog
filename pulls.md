@@ -89,12 +89,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that Drawer & DrawerHeader don't crash in 0x0 environment<br />
   <sub>[#174772](https://github.com/flutter/flutter/pull/174772) opened on on August 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174772) 14 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownMenuFormField doesn't crash in 0x0 environment<br />
-  <sub>[#174777](https://github.com/flutter/flutter/pull/174777) opened on on September 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174777) 15 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownMenu doesn't crash in 0x0 environment<br />
-  <sub>[#174809](https://github.com/flutter/flutter/pull/174809) opened on on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174809) 15 additions and 0 deletions in 1 file</sub><br />
-
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; docs(ListTile): clarify tileColor/selectedTileColor visibility with colored ancestors<br />
   <sub>[#174811](https://github.com/flutter/flutter/pull/174811) opened on on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174811) 12 additions and 0 deletions in 1 file</sub><br />
 
@@ -118,7 +112,4 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix NavigationRail leading and trailing labels<br />
   <sub>[#174861](https://github.com/flutter/flutter/pull/174861) opened on on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174861) 32 additions and 0 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownButton doesn't crash in 0x0 environment<br />
-  <sub>[#174880](https://github.com/flutter/flutter/pull/174880) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174880) 22 additions and 0 deletions in 1 file</sub><br />
 
