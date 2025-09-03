@@ -17,9 +17,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#171652](https://github.com/flutter/flutter/pull/171652) opened on on July 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/171652) 28 additions and 1837 deletions in 24 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Adjust default CupertinoCheckbox size on desktop<br />
-  <sub>[#172502](https://github.com/flutter/flutter/pull/172502) opened on on July 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/172502) 57 additions and 3 deletions in 2 files</sub><br />
-
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) opened on on July 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172829) 66 additions and 6 deletions in 3 files</sub><br />
 
