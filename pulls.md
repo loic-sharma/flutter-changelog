@@ -125,6 +125,3 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownButton doesn't crash in 0x0 environment<br />
   <sub>[#174880](https://github.com/flutter/flutter/pull/174880) opened on on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174880) 22 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Delete unused web_unicode library<br />
-  <sub>[#174896](https://github.com/flutter/flutter/pull/174896) opened on on September 3, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174896) 1 addition and 5552 deletions in 20 files</sub><br />
-

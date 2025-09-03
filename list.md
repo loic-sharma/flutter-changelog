@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-21 commits.
+22 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LinearProgressIndicator track painting.
   <sub>[#173108](https://github.com/flutter/flutter/pull/173108) merged on September 3, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/173108) over 1 month, 242 additions and 64 deletions in 2 files</sub>
@@ -14,6 +14,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature
   <sub>[#173576](https://github.com/flutter/flutter/pull/173576) merged on September 2, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173576) over 3 weeks, 10 additions and 430 deletions in 26 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; [A11y] Add semantics for CupertinoExpansionTile
+  <sub>[#174480](https://github.com/flutter/flutter/pull/174480) merged on September 3, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/174480) over 1 week, 2301 additions and 94 deletions in 88 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Assertion failure in RawScrollbarState with dynamic controller assignment
   <sub>[#173156](https://github.com/flutter/flutter/pull/173156) merged on September 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173156) over 1 month, 83 additions and 0 deletions in 2 files</sub>
@@ -878,7 +882,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-6 commits.
+7 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelab and cookbook index in favor of learning resource index
   <sub>[#12261](https://github.com/flutter/website/pull/12261) merged on September 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12261) over 1 month, 48 additions and 475 deletions in 19 files</sub>
@@ -895,6 +899,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add link to MCP server docs to sidenav
   <sub>[#12374](https://github.com/flutter/website/pull/12374) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12374) over 3 days, 5 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add redirect for /go/per-pr-release
+  <sub>[#12396](https://github.com/flutter/website/pull/12396) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12396) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Fix "Flutter now sets default `abiFilters` in Android builds" link
   <sub>[#12379](https://github.com/flutter/website/pull/12379) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12379) over 13 minutes, 1 addition and 1 deletion in 1 file</sub>
