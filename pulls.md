@@ -108,7 +108,7 @@
   <sub>[#174815](https://github.com/flutter/flutter/pull/174815) opened on on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174815) 104 additions and 0 deletions in 3 files</sub><br />
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; a11y(material): make AM/PM buttons live regions so state change is announced<br />
-  <sub>[#174816](https://github.com/flutter/flutter/pull/174816) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174816) 30 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#174816](https://github.com/flutter/flutter/pull/174816) opened on on September 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174816) 30 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace `onPop` usage with `onPopWithResult` in `navigation_bar.2.dart `<br />
   <sub>[#174841](https://github.com/flutter/flutter/pull/174841) opened on on September 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174841) 1 addition and 1 deletion in 1 file</sub><br />
