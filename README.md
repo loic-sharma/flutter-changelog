@@ -605,7 +605,7 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Update CupertinoSliverNavigationBar.middle<br />
-  <sub>[#173868](https://github.com/flutter/flutter/pull/173868) merged on August 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173868) over 4 days, 49 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#173868](https://github.com/flutter/flutter/pull/173868) merged on August 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/173868) over 4 days, 49 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix error in ClickDebouncer when using VoiceOver<br />
