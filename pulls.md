@@ -113,3 +113,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuFormField does not clear text field content on reset …<br />
   <sub>[#174937](https://github.com/flutter/flutter/pull/174937) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174937) 92 additions and 1 deletion in 2 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove 'terms of use' wording from web_unicode<br />
+  <sub>[#174939](https://github.com/flutter/flutter/pull/174939) opened on on September 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174939) 0 additions and 6 deletions in 3 files</sub><br />
+

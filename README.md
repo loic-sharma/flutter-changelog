@@ -740,7 +740,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [mustache_template] Initial import<br />
-  <sub>[#9944](https://github.com/flutter/packages/pull/9944) merged on September 4, 2025 &mdash; **Extra large:** [38 comments](https://github.com/flutter/packages/pull/9944) over 1 day, 3546 additions and 0 deletions in 27 files</sub><br />
+  <sub>[#9944](https://github.com/flutter/packages/pull/9944) merged on September 4, 2025 &mdash; **Extra large:** [39 comments](https://github.com/flutter/packages/pull/9944) over 1 day, 3546 additions and 0 deletions in 27 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Arthur Monteiro Alves Melo](https://github.com/4rthurmonteiro)** &mdash; [google_maps_flutter] Add cameraControl enable/disable & position on web<br />
