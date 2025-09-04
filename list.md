@@ -729,7 +729,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-13 commits.
+14 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes preloading ad while another was playing on Android
   <sub>[#9904](https://github.com/flutter/packages/pull/9904) merged on September 3, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9904) over 6 days, 880 additions and 299 deletions in 18 files</sub>
@@ -742,6 +742,10 @@
 * **[Arthur Monteiro Alves Melo](https://github.com/4rthurmonteiro)** &mdash; [google_maps_flutter] Add cameraControl enable/disable & position on web
   <sub>[#9089](https://github.com/flutter/packages/pull/9089) merged on September 3, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/packages/pull/9089) over 4 months, 90 additions and 5 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[William Bratcher](https://github.com/WillBLogical)** &mdash; [google_maps_flutter_web] Omit styles when cloudMapId is set
+  <sub>[#9869](https://github.com/flutter/packages/pull/9869) merged on September 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/9869) over 1 week, 140 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[James McIntosh](https://github.com/JamesMcIntosh)** &mdash; [google_maps_flutter_web] Stop listening to map events when disposed
   <sub>[#9250](https://github.com/flutter/packages/pull/9250) merged on September 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9250) over 3 months, 90 additions and 17 deletions in 4 files</sub>
