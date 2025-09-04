@@ -44,6 +44,9 @@
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [SchedulerBinding] Add forceFramesEnabled to allow rendering when app is hidden or paused<br />
   <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173862) 146 additions and 2 deletions in 2 files</sub><br />
 
+* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Migrate `packages/flutter_tools/templates/plugin` templates to Kotlin DSL<br />
+  <sub>[#173993](https://github.com/flutter/flutter/pull/173993) opened on on August 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/173993) 99 additions and 88 deletions in 8 files</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
