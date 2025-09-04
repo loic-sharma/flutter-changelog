@@ -110,6 +110,3 @@
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Cleanup Fuchsia FDIO library dependencies<br />
   <sub>[#174847](https://github.com/flutter/flutter/pull/174847) opened on on September 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174847) 2 additions and 3 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix NavigationRail leading and trailing labels<br />
-  <sub>[#174861](https://github.com/flutter/flutter/pull/174861) opened on on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174861) 32 additions and 0 deletions in 2 files</sub><br />
-
