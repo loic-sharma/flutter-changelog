@@ -936,7 +936,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-9 commits.
+11 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelab and cookbook index in favor of learning resource index
   <sub>[#12261](https://github.com/flutter/website/pull/12261) merged on September 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12261) over 1 month, 48 additions and 475 deletions in 19 files</sub>
@@ -953,6 +953,14 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add link to MCP server docs to sidenav
   <sub>[#12374](https://github.com/flutter/website/pull/12374) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12374) over 3 days, 5 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds migrtion guide for OverlayPortal.targetsRootOverlay
+  <sub>[#12397](https://github.com/flutter/website/pull/12397) merged on September 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12397) over 21 hours, 77 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Add detailed sidenav and permalinks for widget catalog
+  <sub>[#12395](https://github.com/flutter/website/pull/12395) merged on September 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12395) over 1 day, 45 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix typo in instructions for reporting page issues
   <sub>[#12398](https://github.com/flutter/website/pull/12398) merged on September 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12398) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
