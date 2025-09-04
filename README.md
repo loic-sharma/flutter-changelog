@@ -745,7 +745,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-15 commits.
+16 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes preloading ad while another was playing on Android<br />
   <sub>[#9904](https://github.com/flutter/packages/pull/9904) merged on September 3, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9904) over 6 days, 880 additions and 299 deletions in 18 files</sub><br />
@@ -782,6 +782,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Combine code analysis commands into `analyze`<br />
   <sub>[#9860](https://github.com/flutter/packages/pull/9860) merged on September 2, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/9860) over 1 week, 1659 additions and 1637 deletions in 12 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Improve CONTRIBUTING and generator README<br />
+  <sub>[#9917](https://github.com/flutter/packages/pull/9917) merged on September 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9917) over 1 week, 7 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Boris Shishov](https://github.com/bshishov)** &mdash; [flutter_svg] loader buffer fix<br />
   <sub>[#9898](https://github.com/flutter/packages/pull/9898) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9898) over 6 days, 30 additions and 3 deletions in 4 files</sub><br />
