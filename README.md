@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-28 commits.
+29 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LinearProgressIndicator track painting.<br />
   <sub>[#173108](https://github.com/flutter/flutter/pull/173108) merged on September 3, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/173108) over 1 month, 242 additions and 64 deletions in 2 files</sub><br />
@@ -15,6 +15,10 @@
   <sub>[#173722](https://github.com/flutter/flutter/pull/173722) merged on September 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173722) over 3 weeks, 123 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>2 images...</summary><img width="645" height="1398" alt="Simulator Screenshot - iPhone 16 Plus - 2025-07-07 at 11 18 50" src="https://github.com/user-attachments/assets/abcd3c3b-bb38-410b-abf4-48372af9029e" /><img width="645" height="1398" alt="Simulator Screenshot - iPhone 16 Plus - 2025-07-07 at 11 19 00" src="https://github.com/user-attachments/assets/1d7e1fc4-74f2-431f-9f8e-7fdff03df6fe" /></details></sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up Android API to set section locale<br />
+  <sub>[#173364](https://github.com/flutter/flutter/pull/173364) merged on September 3, 2025 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/173364) over 4 weeks, 655 additions and 370 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove support for experimental `--fast-start` feature<br />
   <sub>[#173576](https://github.com/flutter/flutter/pull/173576) merged on September 2, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/173576) over 3 weeks, 10 additions and 430 deletions in 26 files</sub><br />
