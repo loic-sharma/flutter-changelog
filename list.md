@@ -932,7 +932,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-7 commits.
+8 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelab and cookbook index in favor of learning resource index
   <sub>[#12261](https://github.com/flutter/website/pull/12261) merged on September 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12261) over 1 month, 48 additions and 475 deletions in 19 files</sub>
@@ -949,6 +949,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add link to MCP server docs to sidenav
   <sub>[#12374](https://github.com/flutter/website/pull/12374) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12374) over 3 days, 5 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update some engine links in firebase.json
+  <sub>[#12401](https://github.com/flutter/website/pull/12401) merged on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12401) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add redirect for /go/per-pr-release
   <sub>[#12396](https://github.com/flutter/website/pull/12396) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12396) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
