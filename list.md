@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-31 commits.
+32 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LinearProgressIndicator track painting.
   <sub>[#173108](https://github.com/flutter/flutter/pull/173108) merged on September 3, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/173108) over 1 month, 242 additions and 64 deletions in 2 files</sub>
@@ -92,6 +92,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bind `GL_FRAMEBUFFER` with `glReadPixels` for gles2 compatibility
   <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Fix wakefulness check to only match log entries with string values
+  <sub>[#174953](https://github.com/flutter/flutter/pull/174953) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174953) over 9 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownMenuFormField doesn't crash in 0x0 environment
   <sub>[#174777](https://github.com/flutter/flutter/pull/174777) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174777) over 2 days, 15 additions and 0 deletions in 1 file</sub>
