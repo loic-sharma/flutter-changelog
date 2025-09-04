@@ -965,7 +965,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-14 commits.
+16 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelab and cookbook index in favor of learning resource index
   <sub>[#12261](https://github.com/flutter/website/pull/12261) merged on September 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12261) over 1 month, 48 additions and 475 deletions in 19 files</sub>
@@ -986,6 +986,14 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add link to MCP server docs to sidenav
   <sub>[#12374](https://github.com/flutter/website/pull/12374) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12374) over 3 days, 5 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Update AppDelegate declaration to use new main annotation
+  <sub>[#12383](https://github.com/flutter/website/pull/12383) merged on September 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12383) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[febarusso-aegis](https://github.com/febarusso-aegis)** &mdash; Fix: Windows PowerShell command dash character
+  <sub>[#12394](https://github.com/flutter/website/pull/12394) merged on September 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12394) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Broken/Old links
   <sub>[#12385](https://github.com/flutter/website/pull/12385) merged on September 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12385) over 1 day, 27 additions and 33 deletions in 6 files</sub>
