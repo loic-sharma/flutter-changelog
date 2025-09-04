@@ -117,5 +117,5 @@
   <sub>[#174939](https://github.com/flutter/flutter/pull/174939) opened on on September 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174939) 0 additions and 6 deletions in 3 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; AnimationController only ticks when it has listeners<br />
-  <sub>[#174946](https://github.com/flutter/flutter/pull/174946) opened on on September 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174946) 105 additions and 56 deletions in 4 files</sub><br />
+  <sub>[#174946](https://github.com/flutter/flutter/pull/174946) opened on on September 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174946) 115 additions and 56 deletions in 4 files</sub><br />
 
