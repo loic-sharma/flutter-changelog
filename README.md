@@ -961,7 +961,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-11 commits.
+13 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelab and cookbook index in favor of learning resource index<br />
   <sub>[#12261](https://github.com/flutter/website/pull/12261) merged on September 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12261) over 1 month, 48 additions and 475 deletions in 19 files</sub><br />
@@ -971,6 +971,10 @@
   <sub>[#12376](https://github.com/flutter/website/pull/12376) merged on September 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12376) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix link check and a few links<br />
+  <sub>[#12403](https://github.com/flutter/website/pull/12403) merged on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12403) over 1 hour, 8 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pinned pnpm version and npm deps<br />
   <sub>[#12377](https://github.com/flutter/website/pull/12377) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12377) over 1 hour, 108 additions and 108 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
@@ -978,6 +982,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add link to MCP server docs to sidenav<br />
   <sub>[#12374](https://github.com/flutter/website/pull/12374) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12374) over 3 days, 5 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove extraneous line in code sample<br />
+  <sub>[#12404](https://github.com/flutter/website/pull/12404) merged on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12404) over 30 minutes, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds migrtion guide for OverlayPortal.targetsRootOverlay<br />
   <sub>[#12397](https://github.com/flutter/website/pull/12397) merged on September 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12397) over 21 hours, 77 additions and 0 deletions in 2 files</sub><br />
