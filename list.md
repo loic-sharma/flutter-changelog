@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-38 commits.
+39 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LinearProgressIndicator track painting.
   <sub>[#173108](https://github.com/flutter/flutter/pull/173108) merged on September 3, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/173108) over 1 month, 242 additions and 64 deletions in 2 files</sub>
@@ -50,17 +50,21 @@
   <sub>[#173156](https://github.com/flutter/flutter/pull/173156) merged on September 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173156) over 1 month, 83 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough
-  <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix table cell semantics rect alignment issues. 
+  <sub>[#174914](https://github.com/flutter/flutter/pull/174914) merged on September 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174914) over 20 hours, 41 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in DrawRect geometry
   <sub>[#174735](https://github.com/flutter/flutter/pull/174735) merged on September 2, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/174735) over 3 days, 248 additions and 77 deletions in 3 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Moritz](https://github.com/mosuem)** &mdash; Add data assets
-  <sub>[#174685](https://github.com/flutter/flutter/pull/174685) merged on September 2, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/174685) over 4 days, 1806 additions and 606 deletions in 48 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough
+  <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update `test_timeout_secs` to match `timeout` for `Linux web_skwasm_tests_*` and `Linux web_canvaskit_tests_*`
+  <sub>[#174881](https://github.com/flutter/flutter/pull/174881) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174881) over 1 hour, 16 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Ensures initial semantics state is sent to engine
   <sub>[#174845](https://github.com/flutter/flutter/pull/174845) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174845) over 2 hours, 42 additions and 0 deletions in 2 files</sub>
@@ -70,9 +74,9 @@
   <sub>[#174889](https://github.com/flutter/flutter/pull/174889) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174889) over 1 hour, 62 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update `test_timeout_secs` to match `timeout` for `Linux web_skwasm_tests_*` and `Linux web_canvaskit_tests_*`
-  <sub>[#174881](https://github.com/flutter/flutter/pull/174881) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174881) over 1 hour, 16 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov)</sub>
+* **[Moritz](https://github.com/mosuem)** &mdash; Add data assets
+  <sub>[#174685](https://github.com/flutter/flutter/pull/174685) merged on September 2, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/174685) over 4 days, 1806 additions and 606 deletions in 48 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Use route navigator for CupertinoSheetRoute pop
   <sub>[#173103](https://github.com/flutter/flutter/pull/173103) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173103) over 1 month, 89 additions and 2 deletions in 2 files</sub>
@@ -106,13 +110,9 @@
   <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Fix wakefulness check to only match log entries with string values
-  <sub>[#174953](https://github.com/flutter/flutter/pull/174953) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174953) over 9 minutes, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownMenuFormField doesn't crash in 0x0 environment
-  <sub>[#174777](https://github.com/flutter/flutter/pull/174777) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174777) over 2 days, 15 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Ndk download is not a condition of the test
+  <sub>[#174832](https://github.com/flutter/flutter/pull/174832) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174832) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove unnecessary `presubmit_max_attempts` from .ci.yaml
   <sub>[#174885](https://github.com/flutter/flutter/pull/174885) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174885) over 4 hours, 0 additions and 44 deletions in 1 file</sub>
@@ -154,9 +154,13 @@
   <sub>[#174873](https://github.com/flutter/flutter/pull/174873) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174873) over 1 day, 81 additions and 5 deletions in 4 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Ndk download is not a condition of the test
-  <sub>[#174832](https://github.com/flutter/flutter/pull/174832) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174832) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall), [jesswrd](https://github.com/jesswrd)</sub>
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Fix wakefulness check to only match log entries with string values
+  <sub>[#174953](https://github.com/flutter/flutter/pull/174953) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174953) over 9 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownMenuFormField doesn't crash in 0x0 environment
+  <sub>[#174777](https://github.com/flutter/flutter/pull/174777) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174777) over 2 days, 15 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Dart SDK from 1f7da070b636 to ab3d0c6d5728 (4 revisions)
   <sub>[#174819](https://github.com/flutter/flutter/pull/174819) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174819) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
