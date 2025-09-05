@@ -508,6 +508,10 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
   <sub><details><summary>4 images...</summary><img width="400" src="https://github.com/user-attachments/assets/1abd3962-14bb-497c-9bea-f0ff847e2dd6"><img width="400" src="https://github.com/user-attachments/assets/783d96b4-b93f-4b26-8cc7-abdbcf362992"><img width="400" src="https://github.com/user-attachments/assets/8a7442b9-77e6-477e-afd9-82a304fadcba"><img width="400" src="https://github.com/user-attachments/assets/029ccecf-3cf6-40b3-9233-7eb3d7a88eda"></details></sub>
 
+* **[Simon Pham](https://github.com/simonpham)** &mdash; fix: Android build fails when minSdk is set below 24 in build.gradle.kts (#173823)<br />
+  <sub>[#173825](https://github.com/flutter/flutter/pull/173825) merged on August 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173825) over 4 days, 128 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Shift+Enter shortcut example for TextField.<br />
   <sub>[#167952](https://github.com/flutter/flutter/pull/167952) merged on August 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/167952) over 3 months, 186 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
@@ -515,10 +519,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `onSelect` called twice in `DropdownMenuFormField`<br />
   <sub>[#174053](https://github.com/flutter/flutter/pull/174053) merged on August 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174053) over 1 day, 49 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
-
-* **[Simon Pham](https://github.com/simonpham)** &mdash; fix: Android build fails when minSdk is set below 24 in build.gradle.kts (#173823)<br />
-  <sub>[#173825](https://github.com/flutter/flutter/pull/173825) merged on August 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173825) over 4 days, 128 additions and 8 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use an alternative to `git describe` for `master` version resolution<br />
   <sub>[#174088](https://github.com/flutter/flutter/pull/174088) merged on August 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/174088) over 1 day, 124 additions and 74 deletions in 3 files</sub><br />
