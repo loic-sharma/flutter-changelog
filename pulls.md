@@ -119,9 +119,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve `--machine` output<br />
   <sub>[#175003](https://github.com/flutter/flutter/pull/175003) opened on on September 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175003) 90 additions and 16 deletions in 6 files</sub><br />
 
-* **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; Document MediaQuery override pattern for high contrast control<br />
-  <sub>[#175004](https://github.com/flutter/flutter/pull/175004) opened on on September 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/175004) 725 additions and 4 deletions in 7 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds a11y section locale support for iOS<br />
   <sub>[#175005](https://github.com/flutter/flutter/pull/175005) opened on on September 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175005) 38 additions and 0 deletions in 2 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ElevatedButton doesn't crash in 0x0 environment<br />
+  <sub>[#175006](https://github.com/flutter/flutter/pull/175006) opened on on September 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175006) 12 additions and 0 deletions in 1 file</sub><br />
 

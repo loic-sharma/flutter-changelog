@@ -74,37 +74,37 @@
   <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Use route navigator for CupertinoSheetRoute pop
+  <sub>[#173103](https://github.com/flutter/flutter/pull/173103) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173103) over 1 month, 89 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in DrawRect geometry
   <sub>[#174735](https://github.com/flutter/flutter/pull/174735) merged on September 2, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/174735) over 3 days, 248 additions and 77 deletions in 3 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct intrinsics calculation for CupertinoTextField with placeholder
-  <sub>[#174889](https://github.com/flutter/flutter/pull/174889) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174889) over 1 hour, 62 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Ensures initial semantics state is sent to engine
-  <sub>[#174845](https://github.com/flutter/flutter/pull/174845) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174845) over 2 hours, 42 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios26]fix host engine compile error
   <sub>[#174723](https://github.com/flutter/flutter/pull/174723) merged on September 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174723) over 6 days, 17 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct intrinsics calculation for CupertinoTextField with placeholder
+  <sub>[#174889](https://github.com/flutter/flutter/pull/174889) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174889) over 1 hour, 62 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update `test_timeout_secs` to match `timeout` for `Linux web_skwasm_tests_*` and `Linux web_canvaskit_tests_*`
   <sub>[#174881](https://github.com/flutter/flutter/pull/174881) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174881) over 1 hour, 16 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov)</sub>
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Add regression testing for flutter/flutter#174952
-  <sub>[#174956](https://github.com/flutter/flutter/pull/174956) merged on September 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174956) over 21 hours, 25 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Add data assets
   <sub>[#174685](https://github.com/flutter/flutter/pull/174685) merged on September 2, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/174685) over 4 days, 1806 additions and 606 deletions in 48 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Use route navigator for CupertinoSheetRoute pop
-  <sub>[#173103](https://github.com/flutter/flutter/pull/173103) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173103) over 1 month, 89 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Ensures initial semantics state is sent to engine
+  <sub>[#174845](https://github.com/flutter/flutter/pull/174845) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174845) over 2 hours, 42 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Add regression testing for flutter/flutter#174952
+  <sub>[#174956](https://github.com/flutter/flutter/pull/174956) merged on September 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174956) over 21 hours, 25 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Build engine TUs with C++20.
   <sub>[#174471](https://github.com/flutter/flutter/pull/174471) merged on September 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/174471) over 6 days, 248 additions and 46 deletions in 24 files</sub>
