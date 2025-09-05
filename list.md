@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-43 commits.
+44 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview] Add `group` property to `Preview`
   <sub>[#174849](https://github.com/flutter/flutter/pull/174849) merged on September 4, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174849) over 1 day, 599 additions and 293 deletions in 18 files</sub>
@@ -58,13 +58,13 @@
   <sub>[#173156](https://github.com/flutter/flutter/pull/173156) merged on September 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173156) over 1 month, 83 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix table cell semantics rect alignment issues. 
-  <sub>[#174914](https://github.com/flutter/flutter/pull/174914) merged on September 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174914) over 20 hours, 41 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make every LLDB Init error message actionable
   <sub>[#174726](https://github.com/flutter/flutter/pull/174726) merged on September 4, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/174726) over 6 days, 286 additions and 85 deletions in 5 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix table cell semantics rect alignment issues. 
+  <sub>[#174914](https://github.com/flutter/flutter/pull/174914) merged on September 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174914) over 20 hours, 41 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough
   <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub>
@@ -78,17 +78,17 @@
   <sub>[#174685](https://github.com/flutter/flutter/pull/174685) merged on September 2, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/174685) over 4 days, 1806 additions and 606 deletions in 48 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Ensures initial semantics state is sent to engine
-  <sub>[#174845](https://github.com/flutter/flutter/pull/174845) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174845) over 2 hours, 42 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct intrinsics calculation for CupertinoTextField with placeholder
+  <sub>[#174889](https://github.com/flutter/flutter/pull/174889) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174889) over 1 hour, 62 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update `test_timeout_secs` to match `timeout` for `Linux web_skwasm_tests_*` and `Linux web_canvaskit_tests_*`
   <sub>[#174881](https://github.com/flutter/flutter/pull/174881) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174881) over 1 hour, 16 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct intrinsics calculation for CupertinoTextField with placeholder
-  <sub>[#174889](https://github.com/flutter/flutter/pull/174889) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174889) over 1 hour, 62 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Ensures initial semantics state is sent to engine
+  <sub>[#174845](https://github.com/flutter/flutter/pull/174845) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174845) over 2 hours, 42 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Use route navigator for CupertinoSheetRoute pop
   <sub>[#173103](https://github.com/flutter/flutter/pull/173103) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173103) over 1 month, 89 additions and 2 deletions in 2 files</sub>
@@ -118,13 +118,13 @@
   <sub>[#174848](https://github.com/flutter/flutter/pull/174848) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174848) over 3 hours, 6 additions and 12 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bind `GL_FRAMEBUFFER` with `glReadPixels` for gles2 compatibility
-  <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Include SemanticsValidationResult in debugDumpSemanticsTree
   <sub>[#174677](https://github.com/flutter/flutter/pull/174677) merged on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174677) over 4 days, 26 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bind `GL_FRAMEBUFFER` with `glReadPixels` for gles2 compatibility
+  <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; update triage documentation to include team-android
   <sub>[#174850](https://github.com/flutter/flutter/pull/174850) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174850) over 20 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -142,9 +142,9 @@
   <sub>[#174759](https://github.com/flutter/flutter/pull/174759) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174759) over 3 days, 1 addition and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Break up plugin_test integration tests
-  <sub>[#174728](https://github.com/flutter/flutter/pull/174728) merged on September 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174728) over 4 days, 95 additions and 13 deletions in 4 files</sub>
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix NavigationRail leading and trailing labels
+  <sub>[#174861](https://github.com/flutter/flutter/pull/174861) merged on September 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174861) over 1 day, 32 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove 'terms of use' wording from web_unicode
   <sub>[#174939](https://github.com/flutter/flutter/pull/174939) merged on September 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174939) over 3 hours, 0 additions and 6 deletions in 3 files</sub>
@@ -157,6 +157,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prevent potential crash when accessing window in FlutterSceneDelegate
   <sub>[#174873](https://github.com/flutter/flutter/pull/174873) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174873) over 1 day, 81 additions and 5 deletions in 4 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Break up plugin_test integration tests
+  <sub>[#174728](https://github.com/flutter/flutter/pull/174728) merged on September 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174728) over 4 days, 95 additions and 13 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Fix wakefulness check to only match log entries with string values
   <sub>[#174953](https://github.com/flutter/flutter/pull/174953) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174953) over 9 minutes, 1 addition and 1 deletion in 1 file</sub>
