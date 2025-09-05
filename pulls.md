@@ -122,3 +122,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownButtonFormField doesn't crash in 0x0 environ…<br />
   <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
 
+* **[Sydney Bao](https://github.com/SydneyBao)** &mdash; feat: Remove service worker<br />
+  <sub>[#174991](https://github.com/flutter/flutter/pull/174991) opened on on September 5, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/174991) 214 additions and 1112 deletions in 6 files</sub><br />
+
