@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-49 commits.
+50 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview] Add `group` property to `Preview`<br />
   <sub>[#174849](https://github.com/flutter/flutter/pull/174849) merged on September 4, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174849) over 1 day, 599 additions and 293 deletions in 18 files</sub><br />
@@ -58,6 +58,10 @@
   <sub>[#173156](https://github.com/flutter/flutter/pull/173156) merged on September 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173156) over 1 month, 83 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup scrollOffsetCorrection<br />
+  <sub>[#174369](https://github.com/flutter/flutter/pull/174369) merged on September 5, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/174369) over 1 week, 108 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [yim](https://github.com/yiiim), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Make every LLDB Init error message actionable<br />
   <sub>[#174726](https://github.com/flutter/flutter/pull/174726) merged on September 4, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/174726) over 6 days, 286 additions and 85 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -66,25 +70,29 @@
   <sub>[#174914](https://github.com/flutter/flutter/pull/174914) merged on September 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174914) over 20 hours, 41 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; deletes the old license checker.<br />
-  <sub>[#174719](https://github.com/flutter/flutter/pull/174719) merged on September 5, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174719) over 6 days, 4 additions and 129725 deletions in 41 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough<br />
-  <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in DrawRect geometry<br />
+  <sub>[#174735](https://github.com/flutter/flutter/pull/174735) merged on September 2, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/174735) over 3 days, 248 additions and 77 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Use route navigator for CupertinoSheetRoute pop<br />
   <sub>[#173103](https://github.com/flutter/flutter/pull/173103) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173103) over 1 month, 89 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in DrawRect geometry<br />
-  <sub>[#174735](https://github.com/flutter/flutter/pull/174735) merged on September 2, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/174735) over 3 days, 248 additions and 77 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough<br />
+  <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; deletes the old license checker.<br />
+  <sub>[#174719](https://github.com/flutter/flutter/pull/174719) merged on September 5, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174719) over 6 days, 4 additions and 129725 deletions in 41 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios26]fix host engine compile error<br />
   <sub>[#174723](https://github.com/flutter/flutter/pull/174723) merged on September 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174723) over 6 days, 17 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Add regression testing for flutter/flutter#174952<br />
+  <sub>[#174956](https://github.com/flutter/flutter/pull/174956) merged on September 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174956) over 21 hours, 25 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct intrinsics calculation for CupertinoTextField with placeholder<br />
   <sub>[#174889](https://github.com/flutter/flutter/pull/174889) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174889) over 1 hour, 62 additions and 0 deletions in 2 files</sub><br />
@@ -102,10 +110,6 @@
   <sub>[#174845](https://github.com/flutter/flutter/pull/174845) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174845) over 2 hours, 42 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Add regression testing for flutter/flutter#174952<br />
-  <sub>[#174956](https://github.com/flutter/flutter/pull/174956) merged on September 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174956) over 21 hours, 25 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Build engine TUs with C++20.<br />
   <sub>[#174471](https://github.com/flutter/flutter/pull/174471) merged on September 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/174471) over 6 days, 248 additions and 46 deletions in 24 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -122,13 +126,17 @@
   <sub>[#174947](https://github.com/flutter/flutter/pull/174947) merged on September 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174947) over 1 day, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Fixup formatting of gn files in the old buildroot.<br />
+  <sub>[#174852](https://github.com/flutter/flutter/pull/174852) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174852) over 19 hours, 145 additions and 136 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Delete impeller::SPrintF.<br />
   <sub>[#174900](https://github.com/flutter/flutter/pull/174900) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174900) over 2 hours, 94 additions and 115 deletions in 23 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Fixup formatting of gn files in the old buildroot.<br />
-  <sub>[#174852](https://github.com/flutter/flutter/pull/174852) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174852) over 19 hours, 145 additions and 136 deletions in 21 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Include SemanticsValidationResult in debugDumpSemanticsTree<br />
+  <sub>[#174677](https://github.com/flutter/flutter/pull/174677) merged on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174677) over 4 days, 26 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Patch .clang-format files to specify C++20.<br />
   <sub>[#174848](https://github.com/flutter/flutter/pull/174848) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174848) over 3 hours, 6 additions and 12 deletions in 4 files</sub><br />
@@ -137,10 +145,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bind `GL_FRAMEBUFFER` with `glReadPixels` for gles2 compatibility<br />
   <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Include SemanticsValidationResult in debugDumpSemanticsTree<br />
-  <sub>[#174677](https://github.com/flutter/flutter/pull/174677) merged on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174677) over 4 days, 26 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Mark Linux web_canvaskit_tests_7_last as bringup<br />
   <sub>[#174878](https://github.com/flutter/flutter/pull/174878) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174878) over 7 minutes, 1 addition and 0 deletions in 1 file</sub><br />
