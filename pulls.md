@@ -80,9 +80,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Divider doesn't crash in 0x0 environment<br />
   <sub>[#174709](https://github.com/flutter/flutter/pull/174709) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174709) 9 additions and 0 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; deletes the old license checker.<br />
-  <sub>[#174719](https://github.com/flutter/flutter/pull/174719) opened on on August 29, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174719) 4 additions and 129725 deletions in 41 files</sub><br />
-
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios26]fix host engine compile error<br />
   <sub>[#174723](https://github.com/flutter/flutter/pull/174723) opened on on August 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174723) 17 additions and 0 deletions in 2 files</sub><br />
 
