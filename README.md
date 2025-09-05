@@ -196,7 +196,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Port to `DisplayList` objects<br />
-  <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [46 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub><br />
+  <sub>[#172314](https://github.com/flutter/flutter/pull/172314) merged on August 25, 2025 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/172314) over 1 month, 1017 additions and 742 deletions in 34 files</sub><br />
   <sub>Reviewed by: [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [Harry Terkelsen](https://github.com/harryterkelsen), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jing Shao](https://github.com/jingshao-code)** &mdash; [iOS][Secure Paste] Custom edit menu actions<br />
