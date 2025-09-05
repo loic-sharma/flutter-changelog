@@ -117,7 +117,7 @@
   <sub>[#174937](https://github.com/flutter/flutter/pull/174937) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174937) 92 additions and 1 deletion in 2 files</sub><br />
 
 * **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; Fix AndroidDevice._getWakefulness() 'Too many elements' error<br />
-  <sub>[#174955](https://github.com/flutter/flutter/pull/174955) opened on on September 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174955) 7 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#174955](https://github.com/flutter/flutter/pull/174955) opened on on September 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174955) 8 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownButtonFormField doesn't crash in 0x0 environ…<br />
   <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
