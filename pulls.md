@@ -116,3 +116,6 @@
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; feat: Remove service worker<br />
   <sub>[#174991](https://github.com/flutter/flutter/pull/174991) opened on on September 5, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174991) 214 additions and 1112 deletions in 6 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve `--machine` output<br />
+  <sub>[#175003](https://github.com/flutter/flutter/pull/175003) opened on on September 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175003) 89 additions and 15 deletions in 5 files</sub><br />
+
