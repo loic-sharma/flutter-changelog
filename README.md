@@ -1023,7 +1023,7 @@
   <sub>[#12383](https://github.com/flutter/website/pull/12383) merged on September 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12383) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
-* **[febarusso-aegis](https://github.com/febarusso-aegis)** &mdash; Fix: Windows PowerShell command dash character<br />
+* **[Felipe Barusso](https://github.com/febarusso-aegis)** &mdash; Fix: Windows PowerShell command dash character<br />
   <sub>[#12394](https://github.com/flutter/website/pull/12394) merged on September 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12394) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
