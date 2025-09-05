@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-48 commits.
+49 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview] Add `group` property to `Preview`<br />
   <sub>[#174849](https://github.com/flutter/flutter/pull/174849) merged on September 4, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174849) over 1 day, 599 additions and 293 deletions in 18 files</sub><br />
@@ -66,17 +66,33 @@
   <sub>[#174914](https://github.com/flutter/flutter/pull/174914) merged on September 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174914) over 20 hours, 41 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough<br />
-  <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; deletes the old license checker.<br />
   <sub>[#174719](https://github.com/flutter/flutter/pull/174719) merged on September 5, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174719) over 6 days, 4 additions and 129725 deletions in 41 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough<br />
+  <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in DrawRect geometry<br />
   <sub>[#174735](https://github.com/flutter/flutter/pull/174735) merged on September 2, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/174735) over 3 days, 248 additions and 77 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct intrinsics calculation for CupertinoTextField with placeholder<br />
+  <sub>[#174889](https://github.com/flutter/flutter/pull/174889) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174889) over 1 hour, 62 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Ensures initial semantics state is sent to engine<br />
+  <sub>[#174845](https://github.com/flutter/flutter/pull/174845) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174845) over 2 hours, 42 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios26]fix host engine compile error<br />
+  <sub>[#174723](https://github.com/flutter/flutter/pull/174723) merged on September 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174723) over 6 days, 17 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update `test_timeout_secs` to match `timeout` for `Linux web_skwasm_tests_*` and `Linux web_canvaskit_tests_*`<br />
+  <sub>[#174881](https://github.com/flutter/flutter/pull/174881) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174881) over 1 hour, 16 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Add regression testing for flutter/flutter#174952<br />
   <sub>[#174956](https://github.com/flutter/flutter/pull/174956) merged on September 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174956) over 21 hours, 25 additions and 4 deletions in 2 files</sub><br />
@@ -85,18 +101,6 @@
 * **[Moritz](https://github.com/mosuem)** &mdash; Add data assets<br />
   <sub>[#174685](https://github.com/flutter/flutter/pull/174685) merged on September 2, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/174685) over 4 days, 1806 additions and 606 deletions in 48 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Ensures initial semantics state is sent to engine<br />
-  <sub>[#174845](https://github.com/flutter/flutter/pull/174845) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174845) over 2 hours, 42 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct intrinsics calculation for CupertinoTextField with placeholder<br />
-  <sub>[#174889](https://github.com/flutter/flutter/pull/174889) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174889) over 1 hour, 62 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update `test_timeout_secs` to match `timeout` for `Linux web_skwasm_tests_*` and `Linux web_canvaskit_tests_*`<br />
-  <sub>[#174881](https://github.com/flutter/flutter/pull/174881) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174881) over 1 hour, 16 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Use route navigator for CupertinoSheetRoute pop<br />
   <sub>[#173103](https://github.com/flutter/flutter/pull/173103) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173103) over 1 month, 89 additions and 2 deletions in 2 files</sub><br />
@@ -154,21 +158,21 @@
   <sub>[#174939](https://github.com/flutter/flutter/pull/174939) merged on September 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174939) over 3 hours, 0 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove leftover Android x86 deprecation warning constant<br />
-  <sub>[#174941](https://github.com/flutter/flutter/pull/174941) merged on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174941) over 3 hours, 0 additions and 5 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactors `FlutterPlugin.kt` to use one line statement in the `into` bloc<br />
   <sub>[#174759](https://github.com/flutter/flutter/pull/174759) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174759) over 3 days, 1 addition and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prevent potential crash when accessing window in FlutterSceneDelegate<br />
-  <sub>[#174873](https://github.com/flutter/flutter/pull/174873) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174873) over 1 day, 81 additions and 5 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove leftover Android x86 deprecation warning constant<br />
+  <sub>[#174941](https://github.com/flutter/flutter/pull/174941) merged on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174941) over 3 hours, 0 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Break up plugin_test integration tests<br />
   <sub>[#174728](https://github.com/flutter/flutter/pull/174728) merged on September 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174728) over 4 days, 95 additions and 13 deletions in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prevent potential crash when accessing window in FlutterSceneDelegate<br />
+  <sub>[#174873](https://github.com/flutter/flutter/pull/174873) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174873) over 1 day, 81 additions and 5 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Fix wakefulness check to only match log entries with string values<br />
   <sub>[#174953](https://github.com/flutter/flutter/pull/174953) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174953) over 9 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -798,7 +802,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-16 commits.
+17 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes preloading ad while another was playing on Android<br />
   <sub>[#9904](https://github.com/flutter/packages/pull/9904) merged on September 3, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9904) over 6 days, 880 additions and 299 deletions in 18 files</sub><br />
@@ -863,6 +867,10 @@
 * **[Arthur Monteiro Alves Melo](https://github.com/4rthurmonteiro)** &mdash; [google_maps_flutter_web] Add cameraControl enable/disable & position on web<br />
   <sub>[#9921](https://github.com/flutter/packages/pull/9921) merged on September 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/9921) over 5 days, 132 additions and 5 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 05db9689081f to a402d9a4376a (9 revisions)<br />
+  <sub>[#9963](https://github.com/flutter/packages/pull/9963) merged on September 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9963) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### August 23, 2025 to August 29, 2025
 
