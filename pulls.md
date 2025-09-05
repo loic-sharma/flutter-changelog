@@ -116,9 +116,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuFormField does not clear text field content on reset …<br />
   <sub>[#174937](https://github.com/flutter/flutter/pull/174937) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174937) 92 additions and 1 deletion in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; AnimationController only ticks when it has listeners<br />
-  <sub>[#174946](https://github.com/flutter/flutter/pull/174946) opened on on September 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174946) 115 additions and 56 deletions in 4 files</sub><br />
-
 * **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; Fix AndroidDevice._getWakefulness() 'Too many elements' error<br />
   <sub>[#174955](https://github.com/flutter/flutter/pull/174955) opened on on September 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174955) 7 additions and 1 deletion in 1 file</sub><br />
 
