@@ -1013,7 +1013,11 @@
 
 ### August 30, 2025 to September 5, 2025
 
-18 commits.
+19 commits.
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add a Rules section to our new Create with AI topic
+  <sub>[#12336](https://github.com/flutter/website/pull/12336) merged on September 5, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12336) over 2 weeks, 433 additions and 19 deletions in 5 files</sub>
+  <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelab and cookbook index in favor of learning resource index
   <sub>[#12261](https://github.com/flutter/website/pull/12261) merged on September 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12261) over 1 month, 48 additions and 475 deletions in 19 files</sub>
