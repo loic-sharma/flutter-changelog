@@ -125,6 +125,3 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ElevatedButton doesn't crash in 0x0 environment<br />
   <sub>[#175006](https://github.com/flutter/flutter/pull/175006) opened on on September 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175006) 13 additions and 0 deletions in 1 file</sub><br />
 
-* **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; Document MediaQuery override pattern for high contrast theme control<br />
-  <sub>[#175007](https://github.com/flutter/flutter/pull/175007) opened on on September 5, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/175007) 1043 additions and 0 deletions in 15 files</sub><br />
-
