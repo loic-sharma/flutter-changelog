@@ -114,7 +114,7 @@
   <sub>[#174847](https://github.com/flutter/flutter/pull/174847) opened on on September 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174847) 2 additions and 3 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuFormField does not clear text field content on reset …<br />
-  <sub>[#174937](https://github.com/flutter/flutter/pull/174937) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174937) 92 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#174937](https://github.com/flutter/flutter/pull/174937) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174937) 97 additions and 5 deletions in 2 files</sub><br />
 
 * **[Anurag Tiwari](https://github.com/AnuragTiwari1508)** &mdash; Fix AndroidDevice._getWakefulness() 'Too many elements' error<br />
   <sub>[#174955](https://github.com/flutter/flutter/pull/174955) opened on on September 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174955) 8 additions and 1 deletion in 1 file</sub><br />
