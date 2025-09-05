@@ -27,10 +27,10 @@
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
-  <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173570) 200 additions and 52 deletions in 4 files</sub><br />
+  <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173570) 201 additions and 54 deletions in 4 files</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; Add glob syntax to proxy<br />
-  <sub>[#173591](https://github.com/flutter/flutter/pull/173591) opened on on August 11, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173591) 254 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#173591](https://github.com/flutter/flutter/pull/173591) opened on on August 11, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173591) 253 additions and 2 deletions in 2 files</sub><br />
 
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
@@ -123,5 +123,5 @@
   <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; feat: Remove service worker<br />
-  <sub>[#174991](https://github.com/flutter/flutter/pull/174991) opened on on September 5, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/174991) 214 additions and 1112 deletions in 6 files</sub><br />
+  <sub>[#174991](https://github.com/flutter/flutter/pull/174991) opened on on September 5, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174991) 214 additions and 1112 deletions in 6 files</sub><br />
 
