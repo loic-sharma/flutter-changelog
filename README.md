@@ -4,7 +4,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-47 commits.
+48 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview] Add `group` property to `Preview`<br />
   <sub>[#174849](https://github.com/flutter/flutter/pull/174849) merged on September 4, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174849) over 1 day, 599 additions and 293 deletions in 18 files</sub><br />
@@ -66,10 +66,6 @@
   <sub>[#174914](https://github.com/flutter/flutter/pull/174914) merged on September 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174914) over 20 hours, 41 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in DrawRect geometry<br />
-  <sub>[#174735](https://github.com/flutter/flutter/pull/174735) merged on September 2, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/174735) over 3 days, 248 additions and 77 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough<br />
   <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -77,6 +73,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; deletes the old license checker.<br />
   <sub>[#174719](https://github.com/flutter/flutter/pull/174719) merged on September 5, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174719) over 6 days, 4 additions and 129725 deletions in 41 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in DrawRect geometry<br />
+  <sub>[#174735](https://github.com/flutter/flutter/pull/174735) merged on September 2, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/174735) over 3 days, 248 additions and 77 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Device Lab ] Add regression testing for flutter/flutter#174952<br />
   <sub>[#174956](https://github.com/flutter/flutter/pull/174956) merged on September 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174956) over 21 hours, 25 additions and 4 deletions in 2 files</sub><br />
@@ -114,6 +114,10 @@
   <sub>[#174168](https://github.com/flutter/flutter/pull/174168) merged on September 4, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/174168) over 2 weeks, 67 additions and 1 deletion in 8 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added note about how to compile licenses_cpp<br />
+  <sub>[#174947](https://github.com/flutter/flutter/pull/174947) merged on September 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174947) over 1 day, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Delete impeller::SPrintF.<br />
   <sub>[#174900](https://github.com/flutter/flutter/pull/174900) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174900) over 2 hours, 94 additions and 115 deletions in 23 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -133,10 +137,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Include SemanticsValidationResult in debugDumpSemanticsTree<br />
   <sub>[#174677](https://github.com/flutter/flutter/pull/174677) merged on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174677) over 4 days, 26 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-162.1.beta<br />
-  <sub>[#174834](https://github.com/flutter/flutter/pull/174834) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174834) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Alexander Thomas](https://github.com/athomas), [Jackson Gardner](https://github.com/eyebrowsoffire), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Mark Linux web_canvaskit_tests_7_last as bringup<br />
   <sub>[#174878](https://github.com/flutter/flutter/pull/174878) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174878) over 7 minutes, 1 addition and 0 deletions in 1 file</sub><br />
@@ -193,6 +193,10 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; update triage documentation to include team-android<br />
   <sub>[#174850](https://github.com/flutter/flutter/pull/174850) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174850) over 20 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-162.1.beta<br />
+  <sub>[#174834](https://github.com/flutter/flutter/pull/174834) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174834) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Alexander Thomas](https://github.com/athomas), [Jackson Gardner](https://github.com/eyebrowsoffire), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Dart SDK from 1f7da070b636 to ab3d0c6d5728 (4 revisions)<br />
   <sub>[#174819](https://github.com/flutter/flutter/pull/174819) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174819) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
