@@ -1017,7 +1017,7 @@
 
 ### August 30, 2025 to September 5, 2025
 
-19 commits.
+20 commits.
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add a Rules section to our new Create with AI topic
   <sub>[#12336](https://github.com/flutter/website/pull/12336) merged on September 5, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12336) over 2 weeks, 433 additions and 19 deletions in 5 files</sub>
@@ -1026,6 +1026,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelab and cookbook index in favor of learning resource index
   <sub>[#12261](https://github.com/flutter/website/pull/12261) merged on September 2, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12261) over 1 month, 48 additions and 475 deletions in 19 files</sub>
   <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Filter by close icon added for mobile screen
+  <sub>[#12373](https://github.com/flutter/website/pull/12373) merged on September 6, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12373) over 1 week, 118 additions and 18 deletions in 3 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[dzotsee](https://github.com/dzotsee21)** &mdash; fix(ui): correct ColorLabel enum - rename yellow entry to orange
   <sub>[#12376](https://github.com/flutter/website/pull/12376) merged on September 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12376) over 2 days, 1 addition and 1 deletion in 1 file</sub>
