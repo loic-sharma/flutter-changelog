@@ -251,6 +251,10 @@
   <sub>[#172927](https://github.com/flutter/flutter/pull/172927) merged on August 27, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/172927) over 4 weeks, 511 additions and 88 deletions in 17 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Ahmed Hussein](https://github.com/ahmeddhus)** &mdash; Add SliverGrid.list convenience constructor
+  <sub>[#173925](https://github.com/flutter/flutter/pull/173925) merged on August 29, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173925) over 1 week, 113 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove build configuration mismatch warning
   <sub>[#174715](https://github.com/flutter/flutter/pull/174715) merged on August 29, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/174715) over 2 hours, 0 additions and 793 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -266,10 +270,6 @@
 * **[Dev TtangKong](https://github.com/MTtankkeo)** &mdash; Retry "Implements the Android native stretch effect as a fragment shader (Impeller-only)."
   <sub>[#173885](https://github.com/flutter/flutter/pull/173885) merged on August 27, 2025 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/173885) over 1 week, 1250 additions and 710 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Ahmed Hussein](https://github.com/ahmeddhus)** &mdash; Add SliverGrid.list convenience constructor
-  <sub>[#173925](https://github.com/flutter/flutter/pull/173925) merged on August 29, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/173925) over 1 week, 113 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [impeller] Support partitioned host buffer
   <sub>[#174463](https://github.com/flutter/flutter/pull/174463) merged on August 29, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/174463) over 2 days, 513 additions and 424 deletions in 61 files</sub>
