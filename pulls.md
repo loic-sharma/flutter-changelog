@@ -120,5 +120,5 @@
   <sub>[#175006](https://github.com/flutter/flutter/pull/175006) opened on on September 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175006) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Add my name to AUTHORS.<br />
-  <sub>[#175024](https://github.com/flutter/flutter/pull/175024) opened on on September 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175024) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#175024](https://github.com/flutter/flutter/pull/175024) opened on on September 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175024) 1 addition and 0 deletions in 1 file</sub><br />
 
