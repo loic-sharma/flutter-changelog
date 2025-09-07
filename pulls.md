@@ -125,3 +125,6 @@
 * **[Mo Luo](https://github.com/moluopro)** &mdash; Fix: use 'exit' instead of 'return' for curlExitCode<br />
   <sub>[#175025](https://github.com/flutter/flutter/pull/175025) opened on on September 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175025) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Taosif Hossain](https://github.com/mdtaosifhossain3)** &mdash; docs(ListView): add example for removing bottom padding<br />
+  <sub>[#175035](https://github.com/flutter/flutter/pull/175035) opened on on September 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175035) 38 additions and 0 deletions in 1 file</sub><br />
+
