@@ -135,5 +135,5 @@
   <sub>[#175042](https://github.com/flutter/flutter/pull/175042) opened on on September 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175042) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Memet](https://github.com/Memet18)** &mdash; Fix/173106 textfield cursor<br />
-  <sub>[#175044](https://github.com/flutter/flutter/pull/175044) opened on on September 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175044) 100 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#175044](https://github.com/flutter/flutter/pull/175044) opened on on September 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175044) 100 additions and 1 deletion in 3 files</sub><br />
 
