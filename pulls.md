@@ -128,3 +128,6 @@
 * **[Taosif Hossain](https://github.com/mdtaosifhossain3)** &mdash; docs(ListView): add example for removing bottom padding<br />
   <sub>[#175035](https://github.com/flutter/flutter/pull/175035) opened on on September 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175035) 38 additions and 0 deletions in 1 file</sub><br />
 
+* **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ScrollAwareImageProvider<br />
+  <sub>[#175038](https://github.com/flutter/flutter/pull/175038) opened on on September 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175038) 86 additions and 0 deletions in 2 files</sub><br />
+
