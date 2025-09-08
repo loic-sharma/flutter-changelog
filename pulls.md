@@ -140,3 +140,6 @@
 * **[Sumit Binnani](https://github.com/sumitbinnani)** &mdash; Fix for issue #173656<br />
   <sub>[#175050](https://github.com/flutter/flutter/pull/175050) opened on on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175050) 1 addition and 13 deletions in 2 files</sub><br />
 
+* **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
+  <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
+
