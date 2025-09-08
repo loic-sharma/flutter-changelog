@@ -143,3 +143,6 @@
 * **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
   <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump engine version for Flutter 3.37<br />
+  <sub>[#175081](https://github.com/flutter/flutter/pull/175081) opened on on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175081) 1 addition and 1 deletion in 1 file</sub><br />
+
