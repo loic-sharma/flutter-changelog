@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-2 commits.
+3 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve `--machine` output<br />
   <sub>[#175003](https://github.com/flutter/flutter/pull/175003) merged on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175003) over 2 days, 91 additions and 17 deletions in 6 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuFormField does not clear text field content on reset …<br />
   <sub>[#174937](https://github.com/flutter/flutter/pull/174937) merged on September 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174937) over 4 days, 106 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Removed `minSdkVersion` and only use `minSdk`<br />
+  <sub>[#173892](https://github.com/flutter/flutter/pull/173892) merged on September 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173892) over 3 weeks, 2 additions and 15 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 ### August 30, 2025 to September 5, 2025
 
@@ -687,12 +691,16 @@
 
 ### September 6, 2025 to September 12, 2025
 
-1 commits.
+2 commits.
 
 * **[Mateus Degobi](https://github.com/mateusdegobi)** &mdash; chore: update broken xz link in Linux documentation<br />
   <sub>[#12409](https://github.com/flutter/website/pull/12409) merged on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12409) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1147" height="576" alt="image" src="https://github.com/user-attachments/assets/a6829e46-a02d-4255-930f-2d76527bf4d6" /><img width="1436" height="963" alt="image" src="https://github.com/user-attachments/assets/f8557c3a-c1c4-49e0-8de7-8da5eba2e688" /></details></sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updates the supported version of macOS<br />
+  <sub>[#12417](https://github.com/flutter/website/pull/12417) merged on September 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12417) over 21 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 ### August 30, 2025 to September 5, 2025
 
