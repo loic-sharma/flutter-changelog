@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 6, 2025 to September 12, 2025
+
+1 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuFormField does not clear text field content on reset …<br />
+  <sub>[#174937](https://github.com/flutter/flutter/pull/174937) merged on September 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174937) over 4 days, 106 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 ### August 30, 2025 to September 5, 2025
 
-50 commits.
+<details>
+<summary>50 commits...</summary>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview] Add `group` property to `Preview`<br />
   <sub>[#174849](https://github.com/flutter/flutter/pull/174849) merged on September 4, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174849) over 1 day, 599 additions and 293 deletions in 18 files</sub><br />
@@ -209,6 +218,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Dart SDK from 1f7da070b636 to ab3d0c6d5728 (4 revisions)<br />
   <sub>[#174819](https://github.com/flutter/flutter/pull/174819) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174819) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### August 23, 2025 to August 29, 2025
 
