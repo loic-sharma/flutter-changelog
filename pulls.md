@@ -104,9 +104,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownButtonFormField doesn't crash in 0x0 environ…<br />
   <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
 
-* **[Sydney Bao](https://github.com/SydneyBao)** &mdash; feat: Remove service worker<br />
-  <sub>[#174991](https://github.com/flutter/flutter/pull/174991) opened on on September 5, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174991) 214 additions and 1112 deletions in 6 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds a11y section locale support for iOS<br />
   <sub>[#175005](https://github.com/flutter/flutter/pull/175005) opened on on September 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175005) 38 additions and 0 deletions in 2 files</sub><br />
 
@@ -128,14 +125,14 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ExpandIcon doesn't crash in 0x0 envrionment<br />
   <sub>[#175042](https://github.com/flutter/flutter/pull/175042) opened on on September 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175042) 13 additions and 0 deletions in 1 file</sub><br />
 
-* **[Memet](https://github.com/Memet18)** &mdash; Fix/173106 textfield cursor<br />
-  <sub>[#175044](https://github.com/flutter/flutter/pull/175044) opened on on September 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175044) 100 additions and 1 deletion in 3 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: make tooltip position customizeable<br />
   <sub>[#175047](https://github.com/flutter/flutter/pull/175047) opened on on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175047) 100 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sumit Binnani](https://github.com/sumitbinnani)** &mdash; Fix for issue #173656<br />
   <sub>[#175050](https://github.com/flutter/flutter/pull/175050) opened on on September 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175050) 2 additions and 18 deletions in 3 files</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Remove legacy pkg:coverage from DEPS and use from dart-lang/tools<br />
+  <sub>[#175056](https://github.com/flutter/flutter/pull/175056) opened on on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175056) 3 additions and 4 deletions in 2 files</sub><br />
 
 * **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
   <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />

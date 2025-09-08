@@ -538,9 +538,18 @@
 
 ## flutter/packages
 
+### September 6, 2025 to September 12, 2025
+
+1 commits.
+
+* **[Pedro Massango](https://github.com/pedromassango)** &mdash; [url_launcher] fix: Link widget Tab traversal
+  <sub>[#9815](https://github.com/flutter/packages/pull/9815) merged on September 8, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/packages/pull/9815) over 3 weeks, 49 additions and 9 deletions in 4 files</sub>
+  <sub>Reviewed by: [copilot-pull-request-reviewer](https://github.com/apps/copilot-pull-request-reviewer), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
 ### August 30, 2025 to September 5, 2025
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes preloading ad while another was playing on Android
   <sub>[#9904](https://github.com/flutter/packages/pull/9904) merged on September 3, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/9904) over 6 days, 880 additions and 299 deletions in 18 files</sub>
@@ -609,6 +618,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 05db9689081f to a402d9a4376a (9 revisions)
   <sub>[#9963](https://github.com/flutter/packages/pull/9963) merged on September 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/9963) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### August 23, 2025 to August 29, 2025
 
