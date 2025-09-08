@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-3 commits.
+4 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve `--machine` output<br />
   <sub>[#175003](https://github.com/flutter/flutter/pull/175003) merged on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175003) over 2 days, 91 additions and 17 deletions in 6 files</sub><br />
@@ -17,6 +17,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Removed `minSdkVersion` and only use `minSdk`<br />
   <sub>[#173892](https://github.com/flutter/flutter/pull/173892) merged on September 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173892) over 3 weeks, 2 additions and 15 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix GitHub labeler platform-android typo<br />
+  <sub>[#175076](https://github.com/flutter/flutter/pull/175076) merged on September 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175076) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 ### August 30, 2025 to September 5, 2025
 
