@@ -4,7 +4,11 @@
 
 ### September 6, 2025 to September 12, 2025
 
-5 commits.
+6 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Depend on operator overload synthesis for three-way and equality comparisons.
+  <sub>[#174892](https://github.com/flutter/flutter/pull/174892) merged on September 8, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/174892) over 5 days, 33 additions and 277 deletions in 36 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve `--machine` output
   <sub>[#175003](https://github.com/flutter/flutter/pull/175003) merged on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175003) over 2 days, 91 additions and 17 deletions in 6 files</sub>
