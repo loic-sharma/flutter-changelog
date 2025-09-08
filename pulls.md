@@ -137,3 +137,6 @@
 * **[Memet](https://github.com/Memet18)** &mdash; Fix/173106 textfield cursor<br />
   <sub>[#175044](https://github.com/flutter/flutter/pull/175044) opened on on September 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175044) 100 additions and 1 deletion in 3 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: make tooltip position customizeable<br />
+  <sub>[#175047](https://github.com/flutter/flutter/pull/175047) opened on on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175047) 98 additions and 1 deletion in 2 files</sub><br />
+
