@@ -111,7 +111,7 @@
   <sub>[#174991](https://github.com/flutter/flutter/pull/174991) opened on on September 5, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/174991) 214 additions and 1112 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve `--machine` output<br />
-  <sub>[#175003](https://github.com/flutter/flutter/pull/175003) opened on on September 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175003) 91 additions and 17 deletions in 6 files</sub><br />
+  <sub>[#175003](https://github.com/flutter/flutter/pull/175003) opened on on September 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175003) 91 additions and 17 deletions in 6 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds a11y section locale support for iOS<br />
   <sub>[#175005](https://github.com/flutter/flutter/pull/175005) opened on on September 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175005) 38 additions and 0 deletions in 2 files</sub><br />
