@@ -141,5 +141,5 @@
   <sub>[#175047](https://github.com/flutter/flutter/pull/175047) opened on on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175047) 100 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sumit Binnani](https://github.com/sumitbinnani)** &mdash; Fix for issue #173656<br />
-  <sub>[#175050](https://github.com/flutter/flutter/pull/175050) opened on on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175050) 2 additions and 18 deletions in 3 files</sub><br />
+  <sub>[#175050](https://github.com/flutter/flutter/pull/175050) opened on on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175050) 1 addition and 13 deletions in 2 files</sub><br />
 
