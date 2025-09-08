@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-8 commits.
+9 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Depend on operator overload synthesis for three-way and equality comparisons.<br />
   <sub>[#174892](https://github.com/flutter/flutter/pull/174892) merged on September 8, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/174892) over 5 days, 33 additions and 277 deletions in 36 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix GitHub labeler platform-android typo<br />
   <sub>[#175076](https://github.com/flutter/flutter/pull/175076) merged on September 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175076) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation #2<br />
+  <sub>[#174707](https://github.com/flutter/flutter/pull/174707) merged on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174707) over 1 week, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 ### August 30, 2025 to September 5, 2025
 
