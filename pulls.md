@@ -134,3 +134,6 @@
 * **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
   <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
 
+* **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Add subtextGap to InputDecorationThemeData<br />
+  <sub>[#175092](https://github.com/flutter/flutter/pull/175092) opened on on September 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175092) 29 additions and 5 deletions in 1 file</sub><br />
+
