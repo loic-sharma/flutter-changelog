@@ -141,5 +141,5 @@
   <sub>[#175050](https://github.com/flutter/flutter/pull/175050) opened on on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175050) 1 addition and 13 deletions in 2 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Remove legacy pkg:coverage from DEPS and use from dart-lang/tools<br />
-  <sub>[#175056](https://github.com/flutter/flutter/pull/175056) opened on on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175056) 1 addition and 4 deletions in 2 files</sub><br />
+  <sub>[#175056](https://github.com/flutter/flutter/pull/175056) opened on on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175056) 3 additions and 4 deletions in 2 files</sub><br />
 
