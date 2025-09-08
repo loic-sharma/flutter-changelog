@@ -674,9 +674,19 @@
 
 ## flutter/website
 
+### September 6, 2025 to September 12, 2025
+
+1 commits.
+
+* **[Mateus Degobi](https://github.com/mateusdegobi)** &mdash; chore: update broken xz link in Linux documentation<br />
+  <sub>[#12409](https://github.com/flutter/website/pull/12409) merged on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12409) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="1147" height="576" alt="image" src="https://github.com/user-attachments/assets/a6829e46-a02d-4255-930f-2d76527bf4d6" /><img width="1436" height="963" alt="image" src="https://github.com/user-attachments/assets/f8557c3a-c1c4-49e0-8de7-8da5eba2e688" /></details></sub>
+
 ### August 30, 2025 to September 5, 2025
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add a Rules section to our new Create with AI topic<br />
   <sub>[#12336](https://github.com/flutter/website/pull/12336) merged on September 5, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12336) over 2 weeks, 433 additions and 19 deletions in 5 files</sub><br />
@@ -757,6 +767,8 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Release notes for Flutter DevTools 2.50.0<br />
   <sub>[#12378](https://github.com/flutter/website/pull/12378) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12378) over 1 hour, 25 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### August 23, 2025 to August 29, 2025
 
