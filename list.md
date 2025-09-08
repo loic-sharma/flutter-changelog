@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-7 commits.
+8 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Depend on operator overload synthesis for three-way and equality comparisons.
   <sub>[#174892](https://github.com/flutter/flutter/pull/174892) merged on September 8, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/174892) over 5 days, 33 additions and 277 deletions in 36 files</sub>
@@ -29,6 +29,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Removed `minSdkVersion` and only use `minSdk`
   <sub>[#173892](https://github.com/flutter/flutter/pull/173892) merged on September 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173892) over 3 weeks, 2 additions and 15 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update ImageReaderSurfaceProducer.MAX_IMAGES to include the maximum number of retained dequeued images
+  <sub>[#174971](https://github.com/flutter/flutter/pull/174971) merged on September 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174971) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix GitHub labeler platform-android typo
   <sub>[#175076](https://github.com/flutter/flutter/pull/175076) merged on September 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175076) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
