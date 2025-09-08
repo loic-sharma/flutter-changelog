@@ -138,5 +138,5 @@
   <sub>[#175092](https://github.com/flutter/flutter/pull/175092) opened on on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175092) 30 additions and 5 deletions in 1 file</sub><br />
 
 * **[Hercules1972](https://github.com/Hercules1972)** &mdash; Semana4<br />
-  <sub>[#175094](https://github.com/flutter/flutter/pull/175094) opened on on September 8, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/175094) 4157 additions and 1566 deletions in 179 files</sub><br />
+  <sub>[#175094](https://github.com/flutter/flutter/pull/175094) opened on on September 8, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/175094) 4253 additions and 1566 deletions in 182 files</sub><br />
 
