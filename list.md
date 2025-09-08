@@ -4,11 +4,15 @@
 
 ### September 6, 2025 to September 12, 2025
 
-6 commits.
+7 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Depend on operator overload synthesis for three-way and equality comparisons.
   <sub>[#174892](https://github.com/flutter/flutter/pull/174892) merged on September 8, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/174892) over 5 days, 33 additions and 277 deletions in 36 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Oreofe Solarin](https://github.com/DEVSOG12)** &mdash; Impeller: Convert GLProc name field and GLErrorToString to std::string_view
+  <sub>[#173771](https://github.com/flutter/flutter/pull/173771) merged on September 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/173771) over 3 weeks, 53 additions and 10 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve `--machine` output
   <sub>[#175003](https://github.com/flutter/flutter/pull/175003) merged on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175003) over 2 days, 91 additions and 17 deletions in 6 files</sub>
