@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-4 commits.
+5 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve `--machine` output<br />
   <sub>[#175003](https://github.com/flutter/flutter/pull/175003) merged on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175003) over 2 days, 91 additions and 17 deletions in 6 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuFormField does not clear text field content on reset …<br />
   <sub>[#174937](https://github.com/flutter/flutter/pull/174937) merged on September 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174937) over 4 days, 106 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Define a concept for UniqueObjectTraits.<br />
+  <sub>[#174905](https://github.com/flutter/flutter/pull/174905) merged on September 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/174905) over 4 days, 14 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Removed `minSdkVersion` and only use `minSdk`<br />
   <sub>[#173892](https://github.com/flutter/flutter/pull/173892) merged on September 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173892) over 3 weeks, 2 additions and 15 deletions in 1 file</sub><br />
