@@ -623,13 +623,13 @@
   <sub>[#9917](https://github.com/flutter/packages/pull/9917) merged on September 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9917) over 1 week, 7 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Boris Shishov](https://github.com/bshishov)** &mdash; [flutter_svg] loader buffer fix<br />
-  <sub>[#9898](https://github.com/flutter/packages/pull/9898) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9898) over 6 days, 30 additions and 3 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
-
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Only license-check checked-in files<br />
   <sub>[#9905](https://github.com/flutter/packages/pull/9905) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/9905) over 6 days, 74 additions and 24 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Boris Shishov](https://github.com/bshishov)** &mdash; [flutter_svg] loader buffer fix<br />
+  <sub>[#9898](https://github.com/flutter/packages/pull/9898) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9898) over 6 days, 30 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update FWFWebViewFlutterWKWebViewExternalAPITests.swift<br />
   <sub>[#9922](https://github.com/flutter/packages/pull/9922) merged on September 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/9922) over 5 days, 3 additions and 0 deletions in 1 file</sub><br />
