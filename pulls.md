@@ -146,3 +146,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds dart ui API for setting application level locale<br />
   <sub>[#175100](https://github.com/flutter/flutter/pull/175100) opened on on September 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175100) 130 additions and 0 deletions in 21 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FilledButton doesn't crash in 0x0 environment<br />
+  <sub>[#175110](https://github.com/flutter/flutter/pull/175110) opened on on September 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175110) 13 additions and 0 deletions in 1 file</sub><br />
+
