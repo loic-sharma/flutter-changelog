@@ -4,11 +4,15 @@
 
 ### September 6, 2025 to September 12, 2025
 
-10 commits.
+11 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Nav bar static components respect ambient MediaQueryData
   <sub>[#174673](https://github.com/flutter/flutter/pull/174673) merged on September 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174673) over 1 week, 59 additions and 27 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Adjust default CupertinoCheckbox size on desktop
+  <sub>[#172502](https://github.com/flutter/flutter/pull/172502) merged on September 9, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/172502) over 1 month, 99 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Depend on operator overload synthesis for three-way and equality comparisons.
   <sub>[#174892](https://github.com/flutter/flutter/pull/174892) merged on September 8, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/174892) over 5 days, 33 additions and 277 deletions in 36 files</sub>
