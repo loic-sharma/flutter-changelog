@@ -54,7 +54,7 @@
   <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: remove final class modifier on MenuController<br />
-  <sub>[#174490](https://github.com/flutter/flutter/pull/174490) opened on on August 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174490) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#174490](https://github.com/flutter/flutter/pull/174490) opened on on August 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174490) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: findChildIndexCallback to take seperators into account for seperated named constructor in ListView and SliverList<br />
   <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174491) 127 additions and 2 deletions in 3 files</sub><br />
