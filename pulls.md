@@ -42,7 +42,7 @@
   <sub>[#173993](https://github.com/flutter/flutter/pull/173993) opened on on August 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/173993) 99 additions and 88 deletions in 8 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
-  <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Load fonts in the order addFont is called<br />
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174253) 29 additions and 4 deletions in 2 files</sub><br />
