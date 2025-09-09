@@ -576,11 +576,15 @@
 
 ### September 6, 2025 to September 12, 2025
 
-2 commits.
+3 commits.
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; [url_launcher] fix: Link widget Tab traversal
   <sub>[#9815](https://github.com/flutter/packages/pull/9815) merged on September 8, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/packages/pull/9815) over 3 weeks, 49 additions and 9 deletions in 4 files</sub>
   <sub>Reviewed by: [copilot-pull-request-reviewer](https://github.com/apps/copilot-pull-request-reviewer), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add a platform interface method to clear auth tokens
+  <sub>[#9929](https://github.com/flutter/packages/pull/9929) merged on September 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9929) over 1 week, 54 additions and 2 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Revert "[url_launcher] fix: Link widget Tab traversal"
   <sub>[#9980](https://github.com/flutter/packages/pull/9980) merged on September 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9980) over 6 hours, 9 additions and 49 deletions in 4 files</sub>
