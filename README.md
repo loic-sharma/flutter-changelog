@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-11 commits.
+12 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Nav bar static components respect ambient MediaQueryData<br />
   <sub>[#174673](https://github.com/flutter/flutter/pull/174673) merged on September 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174673) over 1 week, 59 additions and 27 deletions in 2 files</sub><br />
@@ -37,6 +37,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Removed `minSdkVersion` and only use `minSdk`<br />
   <sub>[#173892](https://github.com/flutter/flutter/pull/173892) merged on September 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173892) over 3 weeks, 2 additions and 15 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [shell] Fix engineId not being set after hot restart<br />
+  <sub>[#174451](https://github.com/flutter/flutter/pull/174451) merged on September 10, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174451) over 2 weeks, 25 additions and 2 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update ImageReaderSurfaceProducer.MAX_IMAGES to include the maximum number of retained dequeued images<br />
   <sub>[#174971](https://github.com/flutter/flutter/pull/174971) merged on September 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174971) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
