@@ -147,5 +147,5 @@
   <sub>[#175110](https://github.com/flutter/flutter/pull/175110) opened on on September 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175110) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Fix crash when attaching to a device with multiple active flutter apps<br />
-  <sub>[#175147](https://github.com/flutter/flutter/pull/175147) opened on on September 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175147) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#175147](https://github.com/flutter/flutter/pull/175147) opened on on September 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175147) 5 additions and 1 deletion in 1 file</sub><br />
 
