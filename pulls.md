@@ -152,3 +152,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `Scaffold` having status bar when primary is false<br />
   <sub>[#175156](https://github.com/flutter/flutter/pull/175156) opened on on September 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175156) 81 additions and 0 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS` (for dev-tooling)<br />
+  <sub>[#175201](https://github.com/flutter/flutter/pull/175201) opened on on September 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175201) 2 additions and 13 deletions in 1 file</sub><br />
+
