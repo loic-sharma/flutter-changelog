@@ -152,3 +152,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `Scaffold` having status bar when primary is false<br />
   <sub>[#175156](https://github.com/flutter/flutter/pull/175156) opened on on September 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175156) 81 additions and 0 deletions in 2 files</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [benchmarks] Allow passing --local-web-sdk and --build-mode flags to benchmarks<br />
+  <sub>[#175199](https://github.com/flutter/flutter/pull/175199) opened on on September 10, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175199) 73 additions and 9 deletions in 10 files</sub><br />
+
