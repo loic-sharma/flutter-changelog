@@ -150,5 +150,5 @@
   <sub>[#175147](https://github.com/flutter/flutter/pull/175147) opened on on September 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175147) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `Scaffold` having status bar when primary is false<br />
-  <sub>[#175156](https://github.com/flutter/flutter/pull/175156) opened on on September 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175156) 94 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#175156](https://github.com/flutter/flutter/pull/175156) opened on on September 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175156) 81 additions and 0 deletions in 2 files</sub><br />
 
