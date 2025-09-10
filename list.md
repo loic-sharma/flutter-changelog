@@ -587,7 +587,7 @@
   <sub>Reviewed by: [copilot-pull-request-reviewer](https://github.com/apps/copilot-pull-request-reviewer), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Scrub pre-Android-API <24 code
-  <sub>[#9851](https://github.com/flutter/packages/pull/9851) merged on September 9, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/9851) over 3 weeks, 1120 additions and 2036 deletions in 82 files</sub>
+  <sub>[#9851](https://github.com/flutter/packages/pull/9851) merged on September 9, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/9851) over 3 weeks, 1120 additions and 2036 deletions in 82 files</sub>
   <sub>Reviewed by: [Eugene Kuleshov](https://github.com/ekuleshov), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add a platform interface method to clear auth tokens
