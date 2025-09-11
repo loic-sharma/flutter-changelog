@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-15 commits.
+16 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state<br />
   <sub>[#174746](https://github.com/flutter/flutter/pull/174746) merged on September 11, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/174746) over 1 week, 359 additions and 373 deletions in 34 files</sub><br />
@@ -65,6 +65,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation #2<br />
   <sub>[#174707](https://github.com/flutter/flutter/pull/174707) merged on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174707) over 1 week, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro static_path_stroke_tessellation_perf__timeline_summary to be flaky<br />
+  <sub>[#175174](https://github.com/flutter/flutter/pull/175174) merged on September 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175174) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
 
 ### August 30, 2025 to September 5, 2025
 
