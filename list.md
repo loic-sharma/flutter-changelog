@@ -4,7 +4,11 @@
 
 ### September 6, 2025 to September 12, 2025
 
-12 commits.
+13 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state
+  <sub>[#174746](https://github.com/flutter/flutter/pull/174746) merged on September 11, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/174746) over 1 week, 359 additions and 373 deletions in 34 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Nav bar static components respect ambient MediaQueryData
   <sub>[#174673](https://github.com/flutter/flutter/pull/174673) merged on September 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/174673) over 1 week, 59 additions and 27 deletions in 2 files</sub>
