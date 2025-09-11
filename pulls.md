@@ -159,5 +159,5 @@
   <sub>[#175230](https://github.com/flutter/flutter/pull/175230) opened on on September 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175230) 132 additions and 43 deletions in 2 files</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update deps to point to the new SOT repo for package:coverage<br />
-  <sub>[#175234](https://github.com/flutter/flutter/pull/175234) opened on on September 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175234) 3 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#175234](https://github.com/flutter/flutter/pull/175234) opened on on September 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175234) 3 additions and 4 deletions in 2 files</sub><br />
 
