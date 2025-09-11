@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-13 commits.
+14 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state<br />
   <sub>[#174746](https://github.com/flutter/flutter/pull/174746) merged on September 11, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/174746) over 1 week, 359 additions and 373 deletions in 34 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Define a concept for UniqueObjectTraits.<br />
   <sub>[#174905](https://github.com/flutter/flutter/pull/174905) merged on September 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/174905) over 4 days, 14 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix image and color filters equality in SkWASM.<br />
+  <sub>[#175230](https://github.com/flutter/flutter/pull/175230) merged on September 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175230) over 5 hours, 132 additions and 43 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Removed `minSdkVersion` and only use `minSdk`<br />
   <sub>[#173892](https://github.com/flutter/flutter/pull/173892) merged on September 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173892) over 3 weeks, 2 additions and 15 deletions in 1 file</sub><br />
