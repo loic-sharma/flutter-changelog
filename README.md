@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-14 commits.
+15 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state<br />
   <sub>[#174746](https://github.com/flutter/flutter/pull/174746) merged on September 11, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/174746) over 1 week, 359 additions and 373 deletions in 34 files</sub><br />
@@ -45,6 +45,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Removed `minSdkVersion` and only use `minSdk`<br />
   <sub>[#173892](https://github.com/flutter/flutter/pull/173892) merged on September 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173892) over 3 weeks, 2 additions and 15 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; update deps to point to the new SOT repo for package:coverage<br />
+  <sub>[#175234](https://github.com/flutter/flutter/pull/175234) merged on September 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175234) over 4 hours, 3 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [shell] Fix engineId not being set after hot restart<br />
   <sub>[#174451](https://github.com/flutter/flutter/pull/174451) merged on September 10, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174451) over 2 weeks, 25 additions and 2 deletions in 6 files</sub><br />
