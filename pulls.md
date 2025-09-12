@@ -165,5 +165,5 @@
   <sub>[#175255](https://github.com/flutter/flutter/pull/175255) opened on on September 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175255) 25 additions and 2 deletions in 6 files</sub><br />
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
-  <sub>[#175256](https://github.com/flutter/flutter/pull/175256) opened on on September 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175256) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#175256](https://github.com/flutter/flutter/pull/175256) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175256) 1 addition and 1 deletion in 1 file</sub><br />
 
