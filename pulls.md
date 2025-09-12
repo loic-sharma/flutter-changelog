@@ -156,5 +156,5 @@
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175256) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Abdullah Muhammad Abbas](https://github.com/abd-mtk)** &mdash; Refactor TabBar color resolution and add unselected tab indicators<br />
-  <sub>[#175269](https://github.com/flutter/flutter/pull/175269) opened on on September 12, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/175269) 121 additions and 42 deletions in 1 file</sub><br />
+  <sub>[#175269](https://github.com/flutter/flutter/pull/175269) opened on on September 12, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/175269) 101 additions and 24 deletions in 1 file</sub><br />
 
