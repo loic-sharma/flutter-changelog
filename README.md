@@ -51,7 +51,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update deps to point to the new SOT repo for package:coverage<br />
-  <sub>[#175234](https://github.com/flutter/flutter/pull/175234) merged on September 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175234) over 4 hours, 3 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#175234](https://github.com/flutter/flutter/pull/175234) merged on September 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175234) over 4 hours, 3 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [shell] Fix engineId not being set after hot restart<br />
