@@ -62,9 +62,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator and LinearProgressIndicator<br />
   <sub>[#174605](https://github.com/flutter/flutter/pull/174605) opened on on August 27, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/174605) 355 additions and 28 deletions in 4 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a gn --ccache argument<br />
-  <sub>[#174621](https://github.com/flutter/flutter/pull/174621) opened on on August 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174621) 8 additions and 0 deletions in 2 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; Delete Skia-specific performance overlay implementation<br />
   <sub>[#174682](https://github.com/flutter/flutter/pull/174682) opened on on August 29, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174682) 55 additions and 269 deletions in 10 files</sub><br />
 
@@ -139,9 +136,6 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FilledButton doesn't crash in 0x0 environment<br />
   <sub>[#175110](https://github.com/flutter/flutter/pull/175110) opened on on September 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175110) 13 additions and 0 deletions in 1 file</sub><br />
-
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Fix crash when attaching to a device with multiple active flutter apps<br />
-  <sub>[#175147](https://github.com/flutter/flutter/pull/175147) opened on on September 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175147) 35 additions and 4 deletions in 2 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `Scaffold` having status bar when primary is false<br />
   <sub>[#175156](https://github.com/flutter/flutter/pull/175156) opened on on September 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175156) 81 additions and 0 deletions in 2 files</sub><br />
