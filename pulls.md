@@ -158,3 +158,9 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Document Form.onChange precedence over DropdownButtonFormField.onChange<br />
   <sub>[#175249](https://github.com/flutter/flutter/pull/175249) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175249) 4 additions and 0 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][shell] Fix engineId not being set after hot restart<br />
+  <sub>[#175254](https://github.com/flutter/flutter/pull/175254) opened on on September 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175254) 25 additions and 2 deletions in 6 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][shell] Fix engineId not being set after hot restart<br />
+  <sub>[#175255](https://github.com/flutter/flutter/pull/175255) opened on on September 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175255) 25 additions and 2 deletions in 6 files</sub><br />
+
