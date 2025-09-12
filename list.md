@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-18 commits.
+19 commits.
 
 * **[Rushikesh Bhavsar](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity
   <sub>[#174286](https://github.com/flutter/flutter/pull/174286) merged on September 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/174286) over 3 weeks, 47 additions and 1 deletion in 1 file</sub>
@@ -70,6 +70,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix GitHub labeler platform-android typo
   <sub>[#175076](https://github.com/flutter/flutter/pull/175076) merged on September 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175076) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Fix crash when attaching to a device with multiple active flutter apps
+  <sub>[#175147](https://github.com/flutter/flutter/pull/175147) merged on September 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175147) over 2 days, 35 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation #2
   <sub>[#174707](https://github.com/flutter/flutter/pull/174707) merged on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174707) over 1 week, 2 additions and 2 deletions in 2 files</sub>
