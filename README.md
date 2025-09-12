@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-19 commits.
+20 commits.
 
 * **[Rushikesh Bhavsar](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity<br />
   <sub>[#174286](https://github.com/flutter/flutter/pull/174286) merged on September 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/174286) over 3 weeks, 47 additions and 1 deletion in 1 file</sub><br />
@@ -46,6 +46,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Document Form.onChange precedence over DropdownButtonFormField.onChange<br />
   <sub>[#175249](https://github.com/flutter/flutter/pull/175249) merged on September 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175249) over 5 hours, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kostia Sokolovskyi](https://github.com/ksokolovskyi)</sub><br />
+
+* **[Rodrigo Gomes Dias](https://github.com/rodrigogmdias)** &mdash; Add semanticIndexOffset argument to SliverList.builder, SliverGrid.builder, and SliverFixedExtentList.builder<br />
+  <sub>[#174856](https://github.com/flutter/flutter/pull/174856) merged on September 12, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174856) over 1 week, 133 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix image and color filters equality in SkWASM.<br />
   <sub>[#175230](https://github.com/flutter/flutter/pull/175230) merged on September 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175230) over 5 hours, 132 additions and 43 deletions in 2 files</sub><br />
