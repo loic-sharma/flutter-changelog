@@ -156,5 +156,8 @@
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175256) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Abdullah Muhammad Abbas](https://github.com/abd-mtk)** &mdash; Refactor TabBar color resolution and add unselected tab indicators<br />
-  <sub>[#175269](https://github.com/flutter/flutter/pull/175269) opened on on September 12, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/175269) 101 additions and 24 deletions in 1 file</sub><br />
+  <sub>[#175269](https://github.com/flutter/flutter/pull/175269) opened on on September 12, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/175269) 113 additions and 36 deletions in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fix path to Android embedding dependencies<br />
+  <sub>[#175271](https://github.com/flutter/flutter/pull/175271) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175271) 2 additions and 2 deletions in 1 file</sub><br />
 
