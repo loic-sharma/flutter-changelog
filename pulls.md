@@ -152,9 +152,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlexibleSpaceBar doesn't crash in 0x0 environment<br />
   <sub>[#175228](https://github.com/flutter/flutter/pull/175228) opened on on September 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175228) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][shell] Fix engineId not being set after hot restart<br />
-  <sub>[#175254](https://github.com/flutter/flutter/pull/175254) opened on on September 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175254) 25 additions and 2 deletions in 6 files</sub><br />
-
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175256) 1 addition and 1 deletion in 1 file</sub><br />
 
