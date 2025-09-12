@@ -4,7 +4,12 @@
 
 ### September 6, 2025 to September 12, 2025
 
-17 commits.
+18 commits.
+
+* **[Rushikesh Bhavsar](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity<br />
+  <sub>[#174286](https://github.com/flutter/flutter/pull/174286) merged on September 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/174286) over 3 weeks, 47 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="1887" height="483" alt="Screenshot 2025-08-22 214745" src="https://github.com/user-attachments/assets/24569be5-8dbe-4a02-8851-1546b8ac109e" /><img width="1091" height="293" alt="Screenshot 2025-08-22 214808" src="https://github.com/user-attachments/assets/f8504134-eba7-43ea-a71f-d9a8740ff295" /></details></sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state<br />
   <sub>[#174746](https://github.com/flutter/flutter/pull/174746) merged on September 11, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174746) over 1 week, 359 additions and 373 deletions in 34 files</sub><br />
@@ -51,7 +56,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update deps to point to the new SOT repo for package:coverage<br />
-  <sub>[#175234](https://github.com/flutter/flutter/pull/175234) merged on September 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175234) over 4 hours, 3 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#175234](https://github.com/flutter/flutter/pull/175234) merged on September 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175234) over 4 hours, 3 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [shell] Fix engineId not being set after hot restart<br />
