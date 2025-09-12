@@ -4,7 +4,7 @@
 
 ### September 6, 2025 to September 12, 2025
 
-16 commits.
+17 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state
   <sub>[#174746](https://github.com/flutter/flutter/pull/174746) merged on September 11, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/174746) over 1 week, 359 additions and 373 deletions in 34 files</sub>
@@ -37,6 +37,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Define a concept for UniqueObjectTraits.
   <sub>[#174905](https://github.com/flutter/flutter/pull/174905) merged on September 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/174905) over 4 days, 14 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Document Form.onChange precedence over DropdownButtonFormField.onChange
+  <sub>[#175249](https://github.com/flutter/flutter/pull/175249) merged on September 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175249) over 5 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kostia Sokolovskyi](https://github.com/ksokolovskyi)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix image and color filters equality in SkWASM.
   <sub>[#175230](https://github.com/flutter/flutter/pull/175230) merged on September 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175230) over 5 hours, 132 additions and 43 deletions in 2 files</sub>
