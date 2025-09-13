@@ -129,7 +129,7 @@
   <sub>[#175094](https://github.com/flutter/flutter/pull/175094) opened on on September 8, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/175094) 4253 additions and 1566 deletions in 182 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist `include_drafts` to false<br />
-  <sub>[#175098](https://github.com/flutter/flutter/pull/175098) opened on on September 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175098) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#175098](https://github.com/flutter/flutter/pull/175098) opened on on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds dart ui API for setting application level locale<br />
   <sub>[#175100](https://github.com/flutter/flutter/pull/175100) opened on on September 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175100) 194 additions and 3 deletions in 33 files</sub><br />
