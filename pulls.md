@@ -161,3 +161,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: update content workflow to use itnernal script<br />
   <sub>[#175291](https://github.com/flutter/flutter/pull/175291) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175291) 2 additions and 3 deletions in 1 file</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; CupertinoContextMenu child respects available screen width<br />
+  <sub>[#175300](https://github.com/flutter/flutter/pull/175300) opened on on September 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175300) 82 additions and 1 deletion in 2 files</sub><br />
+
