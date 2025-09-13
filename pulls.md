@@ -182,3 +182,6 @@
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Add CupertinoPageRouteWithDynamicTitle for dynamic title support #175129<br />
   <sub>[#175303](https://github.com/flutter/flutter/pull/175303) opened on on September 13, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/175303) 493 additions and 3 deletions in 4 files</sub><br />
 
+* **[Abdullah Muhammad Abbas](https://github.com/abd-mtk)** &mdash; Refactor TabBar color resolution and add unselected tab indicators<br />
+  <sub>[#175308](https://github.com/flutter/flutter/pull/175308) opened on on September 13, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/175308) 288 additions and 50 deletions in 3 files</sub><br />
+
