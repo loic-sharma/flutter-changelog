@@ -167,6 +167,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant public modifier in `PlatformViewRenderTarget.java`<br />
   <sub>[#175284](https://github.com/flutter/flutter/pull/175284) opened on on September 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175284) 8 additions and 8 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `toString()` call in `ImageReaderPlatformViewRenderTarget.java`<br />
+  <sub>[#175286](https://github.com/flutter/flutter/pull/175286) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175286) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; 170476 test<br />
   <sub>[#175289](https://github.com/flutter/flutter/pull/175289) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175289) 2 additions and 0 deletions in 1 file</sub><br />
 
