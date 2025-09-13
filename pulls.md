@@ -161,3 +161,9 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: update content workflow to use itnernal script<br />
   <sub>[#175291](https://github.com/flutter/flutter/pull/175291) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175291) 2 additions and 3 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ios]Do not re-adds delaying recognizer on iOS 26<br />
+  <sub>[#175297](https://github.com/flutter/flutter/pull/175297) opened on on September 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175297) 21 additions and 3 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios]Do not re-adds delaying recognizer on iOS 26<br />
+  <sub>[#175299](https://github.com/flutter/flutter/pull/175299) opened on on September 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175299) 21 additions and 3 deletions in 2 files</sub><br />
+
