@@ -164,3 +164,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; CupertinoContextMenu child respects available screen width<br />
   <sub>[#175300](https://github.com/flutter/flutter/pull/175300) opened on on September 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175300) 82 additions and 1 deletion in 2 files</sub><br />
 
+* **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Add CupertinoPageRouteWithDynamicTitle for dynamic title support #175129<br />
+  <sub>[#175303](https://github.com/flutter/flutter/pull/175303) opened on on September 13, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/175303) 494 additions and 3 deletions in 4 files</sub><br />
+
