@@ -182,3 +182,6 @@
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Add CupertinoPageRouteWithDynamicTitle for dynamic title support #175129<br />
   <sub>[#175303](https://github.com/flutter/flutter/pull/175303) opened on on September 13, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/175303) 521 additions and 3 deletions in 4 files</sub><br />
 
+* **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Search PATH for code_assets dependencies if needed<br />
+  <sub>[#175312](https://github.com/flutter/flutter/pull/175312) opened on on September 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175312) 89 additions and 21 deletions in 2 files</sub><br />
+
