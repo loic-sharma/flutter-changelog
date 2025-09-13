@@ -155,6 +155,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FloatingActionButton doesn't crash in 0x0 environment<br />
   <sub>[#175272](https://github.com/flutter/flutter/pull/175272) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175272) 13 additions and 0 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `AccessibilityBridge.java` to address linter issues<br />
+  <sub>[#175277](https://github.com/flutter/flutter/pull/175277) opened on on September 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175277) 2 additions and 2 deletions in 1 file</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `Predicate.java` to address linter issues<br />
   <sub>[#175278](https://github.com/flutter/flutter/pull/175278) opened on on September 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175278) 1 addition and 1 deletion in 1 file</sub><br />
 
