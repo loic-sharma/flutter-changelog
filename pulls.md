@@ -188,3 +188,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `build.gradle` to remove deprecation warning in `flutter\engine\src\flutter\shell\platform\android`<br />
   <sub>[#175305](https://github.com/flutter/flutter/pull/175305) opened on on September 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175305) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that GridTile and GridTileBar don't crash in 0x0 environment<br />
+  <sub>[#175321](https://github.com/flutter/flutter/pull/175321) opened on on September 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175321) 69 additions and 43 deletions in 2 files</sub><br />
+
