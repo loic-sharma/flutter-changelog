@@ -189,5 +189,5 @@
   <sub>[#175305](https://github.com/flutter/flutter/pull/175305) opened on on September 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175305) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Search PATH for code_assets dependencies if needed<br />
-  <sub>[#175312](https://github.com/flutter/flutter/pull/175312) opened on on September 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175312) 89 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#175312](https://github.com/flutter/flutter/pull/175312) opened on on September 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175312) 89 additions and 21 deletions in 2 files</sub><br />
 
