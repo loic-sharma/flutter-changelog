@@ -167,6 +167,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant public modifier in `PlatformViewRenderTarget.java`<br />
   <sub>[#175284](https://github.com/flutter/flutter/pull/175284) opened on on September 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175284) 8 additions and 8 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `.size() == 0` with `isEmpty()` in `PlatformPlugin.java`<br />
+  <sub>[#175285](https://github.com/flutter/flutter/pull/175285) opened on on September 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175285) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `toString()` call in `ImageReaderPlatformViewRenderTarget.java`<br />
   <sub>[#175286](https://github.com/flutter/flutter/pull/175286) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175286) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -181,6 +184,9 @@
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Add CupertinoPageRouteWithDynamicTitle for dynamic title support #175129<br />
   <sub>[#175303](https://github.com/flutter/flutter/pull/175303) opened on on September 13, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/175303) 521 additions and 3 deletions in 4 files</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `build.gradle` to remove deprecation warning in `flutter\engine\src\flutter\shell\platform\android`<br />
+  <sub>[#175305](https://github.com/flutter/flutter/pull/175305) opened on on September 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175305) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; Search PATH for code_assets dependencies if needed<br />
   <sub>[#175312](https://github.com/flutter/flutter/pull/175312) opened on on September 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175312) 89 additions and 21 deletions in 2 files</sub><br />
