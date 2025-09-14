@@ -161,6 +161,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `Predicate.java` to address linter issues<br />
   <sub>[#175278](https://github.com/flutter/flutter/pull/175278) opened on on September 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175278) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove the unnecessary semicolon at the end of the line in `ProcessTextPlugin.java`<br />
+  <sub>[#175280](https://github.com/flutter/flutter/pull/175280) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175280) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove  redundant `public` modifier  for interface members in MouseCursorPlugin.java<br />
   <sub>[#175281](https://github.com/flutter/flutter/pull/175281) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175281) 2 additions and 2 deletions in 1 file</sub><br />
 
