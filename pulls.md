@@ -183,7 +183,7 @@
   <sub>[#175300](https://github.com/flutter/flutter/pull/175300) opened on on September 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175300) 82 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Add CupertinoPageRouteWithDynamicTitle for dynamic title support #175129<br />
-  <sub>[#175303](https://github.com/flutter/flutter/pull/175303) opened on on September 13, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/175303) 535 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#175303](https://github.com/flutter/flutter/pull/175303) opened on on September 13, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/175303) 549 additions and 3 deletions in 4 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `build.gradle` to remove deprecation warning in `flutter\engine\src\flutter\shell\platform\android`<br />
   <sub>[#175305](https://github.com/flutter/flutter/pull/175305) opened on on September 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175305) 1 addition and 1 deletion in 1 file</sub><br />
