@@ -4,7 +4,11 @@
 
 ### September 13, 2025 to September 19, 2025
 
-3 commits.
+4 commits.
+
+* **[Memet](https://github.com/Memet18)** &mdash; Show cursor after swipe only if TextField has focus<br />
+  <sub>[#175044](https://github.com/flutter/flutter/pull/175044) merged on September 15, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/175044) over 1 week, 101 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) merged on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172829) over 1 month, 66 additions and 6 deletions in 3 files</sub><br />
