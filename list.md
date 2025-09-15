@@ -4,11 +4,15 @@
 
 ### September 13, 2025 to September 19, 2025
 
-2 commits.
+3 commits.
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) merged on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172829) over 1 month, 66 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Daniil Lipatkin](https://github.com/nt4f04uNd)</sub>
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Update Chromium sysroot to pick up RISC-V support.
+  <sub>[#173671](https://github.com/flutter/flutter/pull/173671) merged on September 15, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) over 1 month, 185 additions and 160 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist `include_drafts` to false
   <sub>[#175098](https://github.com/flutter/flutter/pull/175098) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) over 6 days, 1 addition and 0 deletions in 1 file</sub>
