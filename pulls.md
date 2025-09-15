@@ -137,6 +137,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FloatingActionButton doesn't crash in 0x0 environment<br />
   <sub>[#175272](https://github.com/flutter/flutter/pull/175272) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175272) 13 additions and 0 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace ` Charset.forName("UTF-8")` with `StandardCharsets.UTF_8` to address linter issues<br />
+  <sub>[#175275](https://github.com/flutter/flutter/pull/175275) opened on on September 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175275) 2 additions and 1 deletion in 1 file</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove  redundant `public` modifier  for interface members in MouseCursorPlugin.java<br />
   <sub>[#175281](https://github.com/flutter/flutter/pull/175281) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175281) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -169,4 +172,10 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an IconButton doesn't crash in 0x0 environment<br />
   <sub>[#175372](https://github.com/flutter/flutter/pull/175372) opened on on September 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175372) 13 additions and 0 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Move flakey iOS tests to bringup<br />
+  <sub>[#175375](https://github.com/flutter/flutter/pull/175375) opened on on September 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175375) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.<br />
+  <sub>[#175376](https://github.com/flutter/flutter/pull/175376) opened on on September 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175376) 44 additions and 3 deletions in 7 files</sub><br />
 
