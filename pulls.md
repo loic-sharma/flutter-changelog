@@ -170,3 +170,6 @@
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.<br />
   <sub>[#175376](https://github.com/flutter/flutter/pull/175376) opened on on September 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175376) 53 additions and 2 deletions in 6 files</sub><br />
 
+* **[Hercules1972](https://github.com/Hercules1972)** &mdash; Semana5<br />
+  <sub>[#175388](https://github.com/flutter/flutter/pull/175388) opened on on September 15, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/175388) 4369 additions and 1566 deletions in 183 files</sub><br />
+

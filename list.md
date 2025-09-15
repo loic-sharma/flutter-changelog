@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-4 commits.
+5 commits.
 
 * **[Memet](https://github.com/Memet18)** &mdash; Show cursor after swipe only if TextField has focus
   <sub>[#175044](https://github.com/flutter/flutter/pull/175044) merged on September 15, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/175044) over 1 week, 101 additions and 1 deletion in 3 files</sub>
@@ -21,6 +21,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist `include_drafts` to false
   <sub>[#175098](https://github.com/flutter/flutter/pull/175098) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) over 6 days, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `build.gradle` to remove deprecation warning in `flutter\engine\src\flutter\shell\platform\android`
+  <sub>[#175305](https://github.com/flutter/flutter/pull/175305) merged on September 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175305) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [jesswrd](https://github.com/jesswrd)</sub>
 
 ### September 6, 2025 to September 12, 2025
 
