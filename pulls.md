@@ -84,7 +84,7 @@
   <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds a11y section locale support for iOS<br />
-  <sub>[#175005](https://github.com/flutter/flutter/pull/175005) opened on on September 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175005) 38 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#175005](https://github.com/flutter/flutter/pull/175005) opened on on September 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175005) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ElevatedButton doesn't crash in 0x0 environment<br />
   <sub>[#175006](https://github.com/flutter/flutter/pull/175006) opened on on September 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175006) 13 additions and 0 deletions in 1 file</sub><br />
