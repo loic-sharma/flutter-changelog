@@ -433,11 +433,15 @@
 
 ### September 13, 2025 to September 19, 2025
 
-1 commits.
+2 commits.
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update blog links
   <sub>[#12423](https://github.com/flutter/website/pull/12423) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12423) over 4 days, 10 additions and 10 deletions in 8 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Hassan Ahmed Khan](https://github.com/hassanahmedk)** &mdash; docs: fix wording in React Native reusable component description
+  <sub>[#12421](https://github.com/flutter/website/pull/12421) merged on September 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12421) over 4 days, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### September 6, 2025 to September 12, 2025
 
