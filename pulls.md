@@ -180,5 +180,5 @@
   <sub>[#175347](https://github.com/flutter/flutter/pull/175347) opened on on September 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175347) 95 additions and 10 deletions in 5 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update NDK to The Latest Stable<br />
-  <sub>[#175365](https://github.com/flutter/flutter/pull/175365) opened on on September 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175365) 3 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#175365](https://github.com/flutter/flutter/pull/175365) opened on on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175365) 3 additions and 3 deletions in 3 files</sub><br />
 
