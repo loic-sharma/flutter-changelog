@@ -182,3 +182,6 @@
 * **[Hassnaa Mohamed](https://github.com/Hassnaa9)** &mdash; feat: Add splash radius to IconButtonThemeData<br />
   <sub>[#175347](https://github.com/flutter/flutter/pull/175347) opened on on September 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175347) 95 additions and 10 deletions in 5 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Device Lab ] Fix wakefulness check to only match log entries with string values<br />
+  <sub>[#175357](https://github.com/flutter/flutter/pull/175357) opened on on September 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175357) 1 addition and 1 deletion in 1 file</sub><br />
+
