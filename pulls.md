@@ -54,7 +54,7 @@
   <sub>[#174498](https://github.com/flutter/flutter/pull/174498) opened on on August 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174498) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator and LinearProgressIndicator<br />
-  <sub>[#174605](https://github.com/flutter/flutter/pull/174605) opened on on August 27, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/174605) 566 additions and 28 deletions in 6 files</sub><br />
+  <sub>[#174605](https://github.com/flutter/flutter/pull/174605) opened on on August 27, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174605) 566 additions and 28 deletions in 6 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Divider doesn't crash in 0x0 environment<br />
   <sub>[#174709](https://github.com/flutter/flutter/pull/174709) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174709) 9 additions and 0 deletions in 1 file</sub><br />
@@ -172,4 +172,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Show cursor after swipe only if TextField has focus<br />
   <sub>[#175391](https://github.com/flutter/flutter/pull/175391) opened on on September 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175391) 101 additions and 1 deletion in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Show cursor after swipe only if TextField has focus<br />
+  <sub>[#175393](https://github.com/flutter/flutter/pull/175393) opened on on September 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175393) 101 additions and 1 deletion in 3 files</sub><br />
 
