@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 13, 2025 to September 19, 2025
+
+1 commits.
+
+* **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode
+  <sub>[#172829](https://github.com/flutter/flutter/pull/172829) merged on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172829) over 1 month, 66 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Daniil Lipatkin](https://github.com/nt4f04uNd)</sub>
+
 ### September 6, 2025 to September 12, 2025
 
-21 commits.
+<details>
+<summary>21 commits...</summary>
 
 * **[Rushikesh Bhavsar](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity
   <sub>[#174286](https://github.com/flutter/flutter/pull/174286) merged on September 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/174286) over 3 weeks, 47 additions and 1 deletion in 1 file</sub>
@@ -90,6 +99,8 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro static_path_stroke_tessellation_perf__timeline_summary to be flaky
   <sub>[#175174](https://github.com/flutter/flutter/pull/175174) merged on September 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175174) over 1 day, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
+
+</details>
 
 ### August 30, 2025 to September 5, 2025
 

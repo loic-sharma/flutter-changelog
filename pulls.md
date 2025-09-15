@@ -29,9 +29,6 @@
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Update Chromium sysroot to pick up RISC-V support.<br />
-  <sub>[#173671](https://github.com/flutter/flutter/pull/173671) opened on on August 13, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) 185 additions and 160 deletions in 4 files</sub><br />
-
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [SchedulerBinding] Add forceFramesEnabled to allow rendering when app is hidden or paused<br />
   <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173862) 146 additions and 2 deletions in 2 files</sub><br />
 
@@ -45,7 +42,7 @@
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174253) 29 additions and 4 deletions in 2 files</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
-  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174374) 139 additions and 48 deletions in 2 files</sub><br />
+  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174374) 139 additions and 48 deletions in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Remove dead code from snippet_generator<br />
   <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
@@ -58,9 +55,6 @@
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator and LinearProgressIndicator<br />
   <sub>[#174605](https://github.com/flutter/flutter/pull/174605) opened on on August 27, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/174605) 355 additions and 28 deletions in 4 files</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; Delete Skia-specific performance overlay implementation<br />
-  <sub>[#174682](https://github.com/flutter/flutter/pull/174682) opened on on August 29, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/174682) 55 additions and 269 deletions in 10 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Divider doesn't crash in 0x0 environment<br />
   <sub>[#174709](https://github.com/flutter/flutter/pull/174709) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174709) 9 additions and 0 deletions in 1 file</sub><br />
@@ -85,9 +79,6 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace `onPop` usage with `onPopWithResult` in `navigation_bar.2.dart `<br />
   <sub>[#174841](https://github.com/flutter/flutter/pull/174841) opened on on September 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174841) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Cleanup Fuchsia FDIO library dependencies<br />
-  <sub>[#174847](https://github.com/flutter/flutter/pull/174847) opened on on September 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174847) 2 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownButtonFormField doesn't crash in 0x0 environ…<br />
   <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
@@ -116,9 +107,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: make tooltip position customizeable<br />
   <sub>[#175047](https://github.com/flutter/flutter/pull/175047) opened on on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175047) 100 additions and 1 deletion in 2 files</sub><br />
 
-* **[Sumit Binnani](https://github.com/sumitbinnani)** &mdash; Fix for issue #173656<br />
-  <sub>[#175050](https://github.com/flutter/flutter/pull/175050) opened on on September 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175050) 2 additions and 18 deletions in 3 files</sub><br />
-
 * **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
   <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
 
@@ -127,9 +115,6 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist `include_drafts` to false<br />
   <sub>[#175098](https://github.com/flutter/flutter/pull/175098) opened on on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds dart ui API for setting application level locale<br />
-  <sub>[#175100](https://github.com/flutter/flutter/pull/175100) opened on on September 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175100) 194 additions and 3 deletions in 33 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FilledButton doesn't crash in 0x0 environment<br />
   <sub>[#175110](https://github.com/flutter/flutter/pull/175110) opened on on September 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175110) 13 additions and 0 deletions in 1 file</sub><br />
