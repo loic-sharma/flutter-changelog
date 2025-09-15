@@ -420,9 +420,18 @@
 
 ## flutter/website
 
+### September 13, 2025 to September 19, 2025
+
+1 commits.
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update blog links
+  <sub>[#12423](https://github.com/flutter/website/pull/12423) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12423) over 4 days, 10 additions and 10 deletions in 8 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### September 6, 2025 to September 12, 2025
 
-4 commits.
+<details>
+<summary>4 commits...</summary>
 
 * **[Mateus Degobi](https://github.com/mateusdegobi)** &mdash; chore: update broken xz link in Linux documentation
   <sub>[#12409](https://github.com/flutter/website/pull/12409) merged on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12409) over 2 days, 1 addition and 1 deletion in 1 file</sub>
@@ -440,6 +449,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updates the supported version of macOS
   <sub>[#12417](https://github.com/flutter/website/pull/12417) merged on September 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12417) over 21 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### August 30, 2025 to September 5, 2025
 
