@@ -197,6 +197,6 @@
 * **[ShantanuBorkar](https://github.com/AlsoShantanuBorkar)** &mdash; Add itemClipBehavior property for CarouselView's children<br />
   <sub>[#175324](https://github.com/flutter/flutter/pull/175324) opened on on September 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175324) 178 additions and 3 deletions in 3 files</sub><br />
 
-* **[Mahmoud Nabil](https://github.com/Abo-Zeid)** &mdash; docs(ListTile): clarify selectedTileColor not visible when parent has background<br />
+* **[Mahmoud Nabil](https://github.com/Abo-Zeid)** &mdash; docs(ListTile): clarify selectedTileColor not visible when parent has background .<br />
   <sub>[#175336](https://github.com/flutter/flutter/pull/175336) opened on on September 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175336) 6 additions and 1 deletion in 1 file</sub><br />
 
