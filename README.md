@@ -4,7 +4,11 @@
 
 ### September 13, 2025 to September 19, 2025
 
-5 commits.
+7 commits.
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template<br />
+  <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Memet](https://github.com/Memet18)** &mdash; Show cursor after swipe only if TextField has focus<br />
   <sub>[#175044](https://github.com/flutter/flutter/pull/175044) merged on September 15, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/175044) over 1 week, 101 additions and 1 deletion in 3 files</sub><br />
@@ -13,6 +17,10 @@
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) merged on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172829) over 1 month, 66 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Daniil Lipatkin](https://github.com/nt4f04uNd)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a gn --ccache argument<br />
+  <sub>[#174621](https://github.com/flutter/flutter/pull/174621) merged on September 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174621) over 2 weeks, 13 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Update Chromium sysroot to pick up RISC-V support.<br />
   <sub>[#173671](https://github.com/flutter/flutter/pull/173671) merged on September 15, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) over 1 month, 185 additions and 160 deletions in 4 files</sub><br />
