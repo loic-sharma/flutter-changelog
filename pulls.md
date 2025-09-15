@@ -93,7 +93,7 @@
   <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds a11y section locale support for iOS<br />
-  <sub>[#175005](https://github.com/flutter/flutter/pull/175005) opened on on September 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175005) 38 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#175005](https://github.com/flutter/flutter/pull/175005) opened on on September 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175005) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ElevatedButton doesn't crash in 0x0 environment<br />
   <sub>[#175006](https://github.com/flutter/flutter/pull/175006) opened on on September 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175006) 13 additions and 0 deletions in 1 file</sub><br />
@@ -163,9 +163,6 @@
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: update content workflow to use itnernal script<br />
   <sub>[#175291](https://github.com/flutter/flutter/pull/175291) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175291) 2 additions and 3 deletions in 1 file</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; CupertinoContextMenu child respects available screen width<br />
-  <sub>[#175300](https://github.com/flutter/flutter/pull/175300) opened on on September 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175300) 82 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Add CupertinoPageRouteWithDynamicTitle for dynamic title support #175129<br />
   <sub>[#175303](https://github.com/flutter/flutter/pull/175303) opened on on September 13, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/175303) 549 additions and 3 deletions in 4 files</sub><br />
