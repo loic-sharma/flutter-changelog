@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-7 commits.
+8 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub>
@@ -25,6 +25,10 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Update Chromium sysroot to pick up RISC-V support.
   <sub>[#173671](https://github.com/flutter/flutter/pull/173671) merged on September 15, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) over 1 month, 185 additions and 160 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Merge the engine README into the README of the old buildroot.
+  <sub>[#175384](https://github.com/flutter/flutter/pull/175384) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175384) over 1 hour, 14 additions and 28 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist `include_drafts` to false
   <sub>[#175098](https://github.com/flutter/flutter/pull/175098) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) over 6 days, 1 addition and 0 deletions in 1 file</sub>
