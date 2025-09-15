@@ -60,7 +60,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update deps to point to the new SOT repo for package:coverage
-  <sub>[#175234](https://github.com/flutter/flutter/pull/175234) merged on September 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175234) over 4 hours, 3 additions and 4 deletions in 2 files</sub>
+  <sub>[#175234](https://github.com/flutter/flutter/pull/175234) merged on September 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175234) over 4 hours, 3 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [shell] Fix engineId not being set after hot restart
@@ -315,9 +315,18 @@
 
 ## flutter/packages
 
+### September 13, 2025 to September 19, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Add Android support for externalNonBrowserApplication
+  <sub>[#9993](https://github.com/flutter/packages/pull/9993) merged on September 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9993) over 3 days, 106 additions and 25 deletions in 10 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
 ### September 6, 2025 to September 12, 2025
 
-6 commits.
+<details>
+<summary>6 commits...</summary>
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; [url_launcher] fix: Link widget Tab traversal
   <sub>[#9815](https://github.com/flutter/packages/pull/9815) merged on September 8, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/packages/pull/9815) over 3 weeks, 49 additions and 9 deletions in 4 files</sub>
@@ -342,6 +351,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Revert "[url_launcher] fix: Link widget Tab traversal"
   <sub>[#9980](https://github.com/flutter/packages/pull/9980) merged on September 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9980) over 6 hours, 9 additions and 49 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [chunhtai](https://github.com/chunhtai)</sub>
+
+</details>
 
 ### August 30, 2025 to September 5, 2025
 
