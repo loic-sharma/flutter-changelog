@@ -9,7 +9,7 @@
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Experiment with Xcode 26 beta 4<br />
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
@@ -62,14 +62,8 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that Drawer & DrawerHeader don't crash in 0x0 environment<br />
   <sub>[#174772](https://github.com/flutter/flutter/pull/174772) opened on on August 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174772) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; fix(widgets): guard showPerformanceOverlay on web with no-op and debug message<br />
-  <sub>[#174812](https://github.com/flutter/flutter/pull/174812) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174812) 21 additions and 10 deletions in 1 file</sub><br />
-
-* **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; fix(rendering): correct PerformanceOverlay optionsMask checks and add tests<br />
-  <sub>[#174814](https://github.com/flutter/flutter/pull/174814) opened on on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174814) 34 additions and 4 deletions in 2 files</sub><br />
-
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; feat(widgets): add semanticIndexOffset to SliverList/SliverGrid/Fixed/Varied builder constructors + tests<br />
-  <sub>[#174815](https://github.com/flutter/flutter/pull/174815) opened on on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174815) 104 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#174815](https://github.com/flutter/flutter/pull/174815) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174815) 104 additions and 0 deletions in 3 files</sub><br />
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; a11y(material): make AM/PM buttons live regions so state change is announced<br />
   <sub>[#174816](https://github.com/flutter/flutter/pull/174816) opened on on September 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174816) 30 additions and 0 deletions in 2 files</sub><br />
