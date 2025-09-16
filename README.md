@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-9 commits.
+10 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template<br />
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist `include_drafts` to false<br />
   <sub>[#175098](https://github.com/flutter/flutter/pull/175098) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix default overlay color in `TabBar`<br />
+  <sub>[#175270](https://github.com/flutter/flutter/pull/175270) merged on September 16, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175270) over 3 days, 5 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `build.gradle` to remove deprecation warning in `flutter\engine\src\flutter\shell\platform\android`<br />
   <sub>[#175305](https://github.com/flutter/flutter/pull/175305) merged on September 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175305) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
