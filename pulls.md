@@ -53,9 +53,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix outdated link of `intl` package to point to the correct new location <br />
   <sub>[#174498](https://github.com/flutter/flutter/pull/174498) opened on on August 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174498) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator and LinearProgressIndicator<br />
-  <sub>[#174605](https://github.com/flutter/flutter/pull/174605) opened on on August 27, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/174605) 567 additions and 28 deletions in 6 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Divider doesn't crash in 0x0 environment<br />
   <sub>[#174709](https://github.com/flutter/flutter/pull/174709) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174709) 9 additions and 0 deletions in 1 file</sub><br />
 
@@ -84,7 +81,7 @@
   <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes NOTICES from licenses input<br />
-  <sub>[#174967](https://github.com/flutter/flutter/pull/174967) opened on on September 4, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/174967) 20302 additions and 35103 deletions in 26 files</sub><br />
+  <sub>[#174967](https://github.com/flutter/flutter/pull/174967) opened on on September 4, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/174967) 20368 additions and 35115 deletions in 26 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ElevatedButton doesn't crash in 0x0 environment<br />
   <sub>[#175006](https://github.com/flutter/flutter/pull/175006) opened on on September 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175006) 13 additions and 0 deletions in 1 file</sub><br />
@@ -162,7 +159,7 @@
   <sub>[#175393](https://github.com/flutter/flutter/pull/175393) opened on on September 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175393) 101 additions and 1 deletion in 3 files</sub><br />
 
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine][fuchsia] Update to Fuchsia API level 28 and roll latest GN SDK<br />
-  <sub>[#175425](https://github.com/flutter/flutter/pull/175425) opened on on September 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175425) 39 additions and 34 deletions in 6 files</sub><br />
+  <sub>[#175425](https://github.com/flutter/flutter/pull/175425) opened on on September 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175425) 40 additions and 35 deletions in 7 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkResponse doesn't crash in 0x0 environment<br />
   <sub>[#175426](https://github.com/flutter/flutter/pull/175426) opened on on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175426) 14 additions and 0 deletions in 1 file</sub><br />

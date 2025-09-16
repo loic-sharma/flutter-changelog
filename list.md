@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-16 commits.
+17 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub>
@@ -13,6 +13,10 @@
 * **[Memet](https://github.com/Memet18)** &mdash; Show cursor after swipe only if TextField has focus
   <sub>[#175044](https://github.com/flutter/flutter/pull/175044) merged on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175044) over 1 week, 101 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator and LinearProgressIndicator
+  <sub>[#174605](https://github.com/flutter/flutter/pull/174605) merged on September 16, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/174605) over 2 weeks, 567 additions and 28 deletions in 6 files</sub>
+  <sub>Reviewed by: [Stan](https://github.com/stan-at-work), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant public modifier in `PlatformViewRenderTarget.java`
   <sub>[#175284](https://github.com/flutter/flutter/pull/175284) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175284) over 3 days, 8 additions and 8 deletions in 1 file</sub>
