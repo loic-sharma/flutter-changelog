@@ -155,3 +155,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkResponse doesn't crash in 0x0 environment<br />
   <sub>[#175426](https://github.com/flutter/flutter/pull/175426) opened on on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175426) 14 additions and 0 deletions in 1 file</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Sync 3.35.3 and 3.35.4 notes from stable to master<br />
+  <sub>[#175461](https://github.com/flutter/flutter/pull/175461) opened on on September 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175461) 14 additions and 0 deletions in 1 file</sub><br />
+
