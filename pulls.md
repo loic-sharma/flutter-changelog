@@ -54,7 +54,7 @@
   <sub>[#174498](https://github.com/flutter/flutter/pull/174498) opened on on August 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174498) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator and LinearProgressIndicator<br />
-  <sub>[#174605](https://github.com/flutter/flutter/pull/174605) opened on on August 27, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174605) 566 additions and 28 deletions in 6 files</sub><br />
+  <sub>[#174605](https://github.com/flutter/flutter/pull/174605) opened on on August 27, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174605) 568 additions and 28 deletions in 6 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Divider doesn't crash in 0x0 environment<br />
   <sub>[#174709](https://github.com/flutter/flutter/pull/174709) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174709) 9 additions and 0 deletions in 1 file</sub><br />
@@ -84,7 +84,7 @@
   <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes NOTICES from licenses input<br />
-  <sub>[#174967](https://github.com/flutter/flutter/pull/174967) opened on on September 4, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/174967) 20319 additions and 35162 deletions in 26 files</sub><br />
+  <sub>[#174967](https://github.com/flutter/flutter/pull/174967) opened on on September 4, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/174967) 20319 additions and 35162 deletions in 26 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds a11y section locale support for iOS<br />
   <sub>[#175005](https://github.com/flutter/flutter/pull/175005) opened on on September 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175005) 38 additions and 0 deletions in 2 files</sub><br />

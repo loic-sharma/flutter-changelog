@@ -356,11 +356,15 @@
 
 ### September 13, 2025 to September 19, 2025
 
-1 commits.
+2 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Add Android support for externalNonBrowserApplication
   <sub>[#9993](https://github.com/flutter/packages/pull/9993) merged on September 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9993) over 3 days, 106 additions and 25 deletions in 10 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Fix example on iOS
+  <sub>[#10015](https://github.com/flutter/packages/pull/10015) merged on September 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10015) over 3 hours, 10 additions and 2 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 ### September 6, 2025 to September 12, 2025
 
