@@ -388,7 +388,7 @@
 <summary>6 commits...</summary>
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; [url_launcher] fix: Link widget Tab traversal
-  <sub>[#9815](https://github.com/flutter/packages/pull/9815) merged on September 8, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/packages/pull/9815) over 3 weeks, 49 additions and 9 deletions in 4 files</sub>
+  <sub>[#9815](https://github.com/flutter/packages/pull/9815) merged on September 8, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/9815) over 3 weeks, 49 additions and 9 deletions in 4 files</sub>
   <sub>Reviewed by: [copilot-pull-request-reviewer](https://github.com/apps/copilot-pull-request-reviewer), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Scrub pre-Android-API <24 code
