@@ -87,7 +87,7 @@
   <sub>[#174967](https://github.com/flutter/flutter/pull/174967) opened on on September 4, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/174967) 20319 additions and 35162 deletions in 26 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds a11y section locale support for iOS<br />
-  <sub>[#175005](https://github.com/flutter/flutter/pull/175005) opened on on September 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175005) 38 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#175005](https://github.com/flutter/flutter/pull/175005) opened on on September 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175005) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ElevatedButton doesn't crash in 0x0 environment<br />
   <sub>[#175006](https://github.com/flutter/flutter/pull/175006) opened on on September 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175006) 13 additions and 0 deletions in 1 file</sub><br />
@@ -137,12 +137,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FloatingActionButton doesn't crash in 0x0 environment<br />
   <sub>[#175272](https://github.com/flutter/flutter/pull/175272) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175272) 13 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove  redundant `public` modifier  for interface members in MouseCursorPlugin.java<br />
-  <sub>[#175281](https://github.com/flutter/flutter/pull/175281) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175281) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant public modifier in `PlatformViewRenderTarget.java`<br />
-  <sub>[#175284](https://github.com/flutter/flutter/pull/175284) opened on on September 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175284) 8 additions and 8 deletions in 1 file</sub><br />
-
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; 170476 test<br />
   <sub>[#175289](https://github.com/flutter/flutter/pull/175289) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175289) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -178,4 +172,10 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Show cursor after swipe only if TextField has focus<br />
   <sub>[#175393](https://github.com/flutter/flutter/pull/175393) opened on on September 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175393) 101 additions and 1 deletion in 3 files</sub><br />
+
+* **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine][fuchsia] Use new diagnostics types for logging<br />
+  <sub>[#175425](https://github.com/flutter/flutter/pull/175425) opened on on September 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175425) 34 additions and 29 deletions in 4 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkResponse doesn't crash in 0x0 environment<br />
+  <sub>[#175426](https://github.com/flutter/flutter/pull/175426) opened on on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175426) 14 additions and 0 deletions in 1 file</sub><br />
 
