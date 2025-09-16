@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-8 commits.
+9 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub>
@@ -17,6 +17,10 @@
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) merged on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172829) over 1 month, 66 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Daniil Lipatkin](https://github.com/nt4f04uNd)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state
+  <sub>[#175242](https://github.com/flutter/flutter/pull/175242) merged on September 16, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/175242) over 3 days, 510 additions and 527 deletions in 31 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a gn --ccache argument
   <sub>[#174621](https://github.com/flutter/flutter/pull/174621) merged on September 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174621) over 2 weeks, 13 additions and 0 deletions in 2 files</sub>
