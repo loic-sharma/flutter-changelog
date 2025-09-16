@@ -48,7 +48,7 @@
   <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: findChildIndexCallback to take seperators into account for seperated named constructor in ListView and SliverList<br />
-  <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174491) 127 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174491) 127 additions and 2 deletions in 3 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix outdated link of `intl` package to point to the correct new location <br />
   <sub>[#174498](https://github.com/flutter/flutter/pull/174498) opened on on August 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174498) 2 additions and 2 deletions in 2 files</sub><br />
