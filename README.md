@@ -393,7 +393,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-2 commits.
+3 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Add Android support for externalNonBrowserApplication<br />
   <sub>[#9993](https://github.com/flutter/packages/pull/9993) merged on September 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9993) over 3 days, 106 additions and 25 deletions in 10 files</sub><br />
@@ -402,6 +402,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Fix example on iOS<br />
   <sub>[#10015](https://github.com/flutter/packages/pull/10015) merged on September 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10015) over 3 hours, 10 additions and 2 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update web plugin owners<br />
+  <sub>[#9994](https://github.com/flutter/packages/pull/9994) merged on September 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9994) over 5 days, 13 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 ### September 6, 2025 to September 12, 2025
 
