@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-14 commits.
+16 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub>
@@ -31,6 +31,10 @@
   <sub>[#175242](https://github.com/flutter/flutter/pull/175242) merged on September 16, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/175242) over 3 days, 510 additions and 527 deletions in 31 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Disable the render target cache when creating a snapshot in DlImageImpeller::MakeFromYUVTextures
+  <sub>[#174912](https://github.com/flutter/flutter/pull/174912) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174912) over 1 week, 29 additions and 17 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a gn --ccache argument
   <sub>[#174621](https://github.com/flutter/flutter/pull/174621) merged on September 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174621) over 2 weeks, 13 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Loïc Sharma](https://github.com/loic-sharma)</sub>
@@ -38,6 +42,10 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Update Chromium sysroot to pick up RISC-V support.
   <sub>[#173671](https://github.com/flutter/flutter/pull/173671) merged on September 15, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) over 1 month, 185 additions and 160 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: move engine docs out of engine/ and into docs/
+  <sub>[#175195](https://github.com/flutter/flutter/pull/175195) merged on September 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175195) over 6 days, 56 additions and 58 deletions in 69 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Merge the engine README into the README of the old buildroot.
   <sub>[#175384](https://github.com/flutter/flutter/pull/175384) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175384) over 1 hour, 14 additions and 28 deletions in 2 files</sub>
@@ -501,7 +509,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-4 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Android setup in Android Studio instructions
   <sub>[#12433](https://github.com/flutter/website/pull/12433) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12433) over 50 minutes, 34 additions and 46 deletions in 1 file</sub>
@@ -510,6 +518,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update blog links
   <sub>[#12423](https://github.com/flutter/website/pull/12423) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12423) over 4 days, 10 additions and 10 deletions in 8 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the Android splash screen page
+  <sub>[#12418](https://github.com/flutter/website/pull/12418) merged on September 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12418) over 1 week, 35 additions and 55 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix definition of Flutter SDK's versioning system
   <sub>[#12429](https://github.com/flutter/website/pull/12429) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12429) over 21 hours, 9 additions and 5 deletions in 2 files</sub>
