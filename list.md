@@ -496,10 +496,18 @@
 
 ### September 13, 2025 to September 19, 2025
 
-2 commits.
+4 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Android setup in Android Studio instructions
+  <sub>[#12433](https://github.com/flutter/website/pull/12433) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12433) over 50 minutes, 34 additions and 46 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update blog links
   <sub>[#12423](https://github.com/flutter/website/pull/12423) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12423) over 4 days, 10 additions and 10 deletions in 8 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix definition of Flutter SDK's versioning system
+  <sub>[#12429](https://github.com/flutter/website/pull/12429) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12429) over 21 hours, 9 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Hassan Ahmed Khan](https://github.com/hassanahmedk)** &mdash; docs: fix wording in React Native reusable component description

@@ -176,3 +176,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update NDK Part 2<br />
   <sub>[#175437](https://github.com/flutter/flutter/pull/175437) opened on on September 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175437) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update gradle_utils.dart to use `constant` instead of `final`<br />
+  <sub>[#175443](https://github.com/flutter/flutter/pull/175443) opened on on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175443) 4 additions and 4 deletions in 1 file</sub><br />
+
