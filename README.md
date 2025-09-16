@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-10 commits.
+11 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template<br />
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) merged on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172829) over 1 month, 66 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Daniil Lipatkin](https://github.com/nt4f04uNd)</sub><br />
+
+* **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; [native_assets] Find more `CCompilerConfig` on Linux<br />
+  <sub>[#175323](https://github.com/flutter/flutter/pull/175323) merged on September 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175323) over 1 day, 69 additions and 18 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state<br />
   <sub>[#175242](https://github.com/flutter/flutter/pull/175242) merged on September 16, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/175242) over 3 days, 510 additions and 527 deletions in 31 files</sub><br />

@@ -179,3 +179,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Show cursor after swipe only if TextField has focus<br />
   <sub>[#175393](https://github.com/flutter/flutter/pull/175393) opened on on September 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175393) 101 additions and 1 deletion in 3 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix Autocomplete label<br />
+  <sub>[#175409](https://github.com/flutter/flutter/pull/175409) opened on on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175409) 33 additions and 16 deletions in 2 files</sub><br />
+
