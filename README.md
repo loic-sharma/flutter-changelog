@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-17 commits.
+21 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template<br />
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub><br />
@@ -17,6 +17,16 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator and LinearProgressIndicator<br />
   <sub>[#174605](https://github.com/flutter/flutter/pull/174605) merged on September 16, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/174605) over 2 weeks, 567 additions and 28 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Stan](https://github.com/stan-at-work), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `toString()` call in `ImageReaderPlatformViewRenderTarget.java`<br />
+  <sub>[#175286](https://github.com/flutter/flutter/pull/175286) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175286) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="557" height="559" alt="toString" src="https://github.com/user-attachments/assets/89d646d8-4e23-4b11-a89c-2eacae3da46b" /></details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `AccessibilityBridge.java` to address linter issues<br />
+  <sub>[#175277](https://github.com/flutter/flutter/pull/175277) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175277) over 4 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="684" height="174" alt="unused_null" src="https://github.com/user-attachments/assets/b2807f32-3382-4248-8be5-2e7212679b3f" /><img width="508" height="416" alt="isEmpty" src="https://github.com/user-attachments/assets/a16669ba-115c-420e-86ea-a4850e3aeabc" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant public modifier in `PlatformViewRenderTarget.java`<br />
   <sub>[#175284](https://github.com/flutter/flutter/pull/175284) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175284) over 3 days, 8 additions and 8 deletions in 1 file</sub><br />
@@ -58,6 +68,14 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist `include_drafts` to false<br />
   <sub>[#175098](https://github.com/flutter/flutter/pull/175098) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove the unnecessary semicolon at the end of the line in `ProcessTextPlugin.java`<br />
+  <sub>[#175280](https://github.com/flutter/flutter/pull/175280) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175280) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `.size() == 0` with `isEmpty()` in `PlatformPlugin.java`<br />
+  <sub>[#175285](https://github.com/flutter/flutter/pull/175285) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175285) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update NDK to The Latest Stable<br />
   <sub>[#175365](https://github.com/flutter/flutter/pull/175365) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175365) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
