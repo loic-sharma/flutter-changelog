@@ -155,9 +155,6 @@
 * **[Hassnaa Mohamed](https://github.com/Hassnaa9)** &mdash; feat: Add splash radius to IconButtonThemeData<br />
   <sub>[#175347](https://github.com/flutter/flutter/pull/175347) opened on on September 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175347) 95 additions and 10 deletions in 5 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update NDK to The Latest Stable<br />
-  <sub>[#175365](https://github.com/flutter/flutter/pull/175365) opened on on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175365) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an IconButton doesn't crash in 0x0 environment<br />
   <sub>[#175372](https://github.com/flutter/flutter/pull/175372) opened on on September 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175372) 13 additions and 0 deletions in 1 file</sub><br />
 
