@@ -170,6 +170,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkResponse doesn't crash in 0x0 environment<br />
   <sub>[#175426](https://github.com/flutter/flutter/pull/175426) opened on on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175426) 14 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update gradle_utils.dart to use `constant` instead of `final`<br />
-  <sub>[#175443](https://github.com/flutter/flutter/pull/175443) opened on on September 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175443) 4 additions and 4 deletions in 1 file</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; engine version update for 3.37.0-0.1<br />
+  <sub>[#175445](https://github.com/flutter/flutter/pull/175445) opened on on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175445) 1 addition and 1 deletion in 1 file</sub><br />
 
