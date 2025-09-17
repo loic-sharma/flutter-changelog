@@ -158,3 +158,9 @@
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Adds Impellerc flatbuffer format versioning.  Fixes #172899<br />
   <sub>[#175470](https://github.com/flutter/flutter/pull/175470) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175470) 61 additions and 2 deletions in 10 files</sub><br />
 
+* **[eevanlai-stack](https://github.com/eevanlai-stack)** &mdash; Create devcontainer.json<br />
+  <sub>[#175475](https://github.com/flutter/flutter/pull/175475) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175475) 18 additions and 0 deletions in 1 file</sub><br />
+
+* **[eevanlai-stack](https://github.com/eevanlai-stack)** &mdash; Create devcontainer.json<br />
+  <sub>[#175477](https://github.com/flutter/flutter/pull/175477) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175477) 4 additions and 0 deletions in 1 file</sub><br />
+
