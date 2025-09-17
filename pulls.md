@@ -51,7 +51,7 @@
   <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174491) 127 additions and 2 deletions in 3 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix outdated link of `intl` package to point to the correct new location <br />
-  <sub>[#174498](https://github.com/flutter/flutter/pull/174498) opened on on August 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174498) 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#174498](https://github.com/flutter/flutter/pull/174498) opened on on August 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174498) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Divider doesn't crash in 0x0 environment<br />
   <sub>[#174709](https://github.com/flutter/flutter/pull/174709) opened on on August 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174709) 9 additions and 0 deletions in 1 file</sub><br />
