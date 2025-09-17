@@ -170,3 +170,9 @@
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. Fixes #169442, Accomodates #167404 and some of #166944 <br />
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175479) 156 additions and 13 deletions in 9 files</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix expansion tile is missing state announcement on non-Apple platforms<br />
+  <sub>[#175480](https://github.com/flutter/flutter/pull/175480) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175480) 100 additions and 12 deletions in 2 files</sub><br />
+
+* **[Shiv Shankar Tiwari](https://github.com/pythonsst)** &mdash; tool(ios): clarify code signing failure with actionable Xcode steps<br />
+  <sub>[#175483](https://github.com/flutter/flutter/pull/175483) opened on on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175483) 41 additions and 5 deletions in 4 files</sub><br />
+
