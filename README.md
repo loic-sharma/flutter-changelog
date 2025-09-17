@@ -471,7 +471,11 @@
 
 ### September 13, 2025 to September 19, 2025
 
-6 commits.
+7 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add a method to clear auth tokens<br />
+  <sub>[#9846](https://github.com/flutter/packages/pull/9846) merged on September 17, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9846) over 1 month, 75 additions and 18 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [LongCatIsLooong](https://github.com/LongCatIsLooong), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Add Android support for externalNonBrowserApplication<br />
   <sub>[#9993](https://github.com/flutter/packages/pull/9993) merged on September 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9993) over 3 days, 106 additions and 25 deletions in 10 files</sub><br />
