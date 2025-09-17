@@ -153,7 +153,7 @@
   <sub>[#175393](https://github.com/flutter/flutter/pull/175393) opened on on September 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175393) 101 additions and 1 deletion in 3 files</sub><br />
 
 * **[Mohammad Hamdan](https://github.com/mnayef95)** &mdash; [Android] Use headingLevel for heading accessibility property<br />
-  <sub>[#175416](https://github.com/flutter/flutter/pull/175416) opened on on September 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175416) 66 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#175416](https://github.com/flutter/flutter/pull/175416) opened on on September 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175416) 47 additions and 3 deletions in 5 files</sub><br />
 
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine][fuchsia] Update to Fuchsia API level 28 and roll latest GN SDK<br />
   <sub>[#175425](https://github.com/flutter/flutter/pull/175425) opened on on September 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175425) 40 additions and 35 deletions in 7 files</sub><br />
@@ -168,7 +168,7 @@
   <sub>[#175458](https://github.com/flutter/flutter/pull/175458) opened on on September 16, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/175458) 434 additions and 227 deletions in 33 files</sub><br />
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Adds Impellerc flatbuffer format versioning.  Fixes #172899<br />
-  <sub>[#175470](https://github.com/flutter/flutter/pull/175470) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175470) 61 additions and 2 deletions in 10 files</sub><br />
+  <sub>[#175470](https://github.com/flutter/flutter/pull/175470) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175470) 67 additions and 2 deletions in 10 files</sub><br />
 
 * **[eevanlai-stack](https://github.com/eevanlai-stack)** &mdash; Create devcontainer.json<br />
   <sub>[#175475](https://github.com/flutter/flutter/pull/175475) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175475) 18 additions and 0 deletions in 1 file</sub><br />
@@ -177,7 +177,7 @@
   <sub>[#175477](https://github.com/flutter/flutter/pull/175477) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175477) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. Fixes #169442, Accomodates #167404 and some of #166944 <br />
-  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175479) 156 additions and 13 deletions in 9 files</sub><br />
+  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix expansion tile is missing state announcement on non-Apple platforms<br />
   <sub>[#175480](https://github.com/flutter/flutter/pull/175480) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175480) 100 additions and 12 deletions in 2 files</sub><br />
@@ -197,6 +197,9 @@
 * **[alexskobozev](https://github.com/alexskobozev)** &mdash; Fix deprecated configureStatusBarForFullscreenFlutterExperience for Android 15+<br />
   <sub>[#175501](https://github.com/flutter/flutter/pull/175501) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175501) 8 additions and 5 deletions in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix PopupMenu does not update when PopupMenuTheme in Theme changes.<br />
+  <sub>[#175513](https://github.com/flutter/flutter/pull/175513) opened on on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175513) 73 additions and 7 deletions in 2 files</sub><br />
+
 * **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form<br />
-  <sub>[#175503](https://github.com/flutter/flutter/pull/175503) opened on on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175503) 151 additions and 17 deletions in 2 files</sub><br />
+  <sub>[#175515](https://github.com/flutter/flutter/pull/175515) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175515) 122 additions and 11 deletions in 3 files</sub><br />
 
