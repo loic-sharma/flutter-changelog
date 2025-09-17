@@ -585,7 +585,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-5 commits.
+6 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Android setup in Android Studio instructions
   <sub>[#12433](https://github.com/flutter/website/pull/12433) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12433) over 50 minutes, 34 additions and 46 deletions in 1 file</sub>
@@ -594,6 +594,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update blog links
   <sub>[#12423](https://github.com/flutter/website/pull/12423) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12423) over 4 days, 10 additions and 10 deletions in 8 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Luca Venir](https://github.com/lucavenir)** &mdash; typo: `gen-i10n` isn't a valid flutter command
+  <sub>[#12438](https://github.com/flutter/website/pull/12438) merged on September 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12438) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the Android splash screen page
   <sub>[#12418](https://github.com/flutter/website/pull/12418) merged on September 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12418) over 1 week, 35 additions and 55 deletions in 1 file</sub>
