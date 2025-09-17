@@ -182,9 +182,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `KeyboardManager.java`<br />
   <sub>[#175502](https://github.com/flutter/flutter/pull/175502) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175502) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Bump minSdk to `24` and adreess linter issues that caused test failures<br />
-  <sub>[#175508](https://github.com/flutter/flutter/pull/175508) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175508) 76 additions and 149 deletions in 13 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `KeyData.java` to use safer code <br />
   <sub>[#175509](https://github.com/flutter/flutter/pull/175509) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175509) 6 additions and 14 deletions in 1 file</sub><br />
 

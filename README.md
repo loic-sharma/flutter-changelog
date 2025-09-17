@@ -453,7 +453,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Add Android support for externalNonBrowserApplication<br />
   <sub>[#9993](https://github.com/flutter/packages/pull/9993) merged on September 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9993) over 3 days, 106 additions and 25 deletions in 10 files</sub><br />
@@ -462,6 +462,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Fix example on iOS<br />
   <sub>[#10015](https://github.com/flutter/packages/pull/10015) merged on September 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10015) over 3 hours, 10 additions and 2 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Implement clearAuthorizationToken<br />
+  <sub>[#10024](https://github.com/flutter/packages/pull/10024) merged on September 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10024) over 2 hours, 204 additions and 20 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update web plugin owners<br />
   <sub>[#9994](https://github.com/flutter/packages/pull/9994) merged on September 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9994) over 5 days, 13 additions and 13 deletions in 1 file</sub><br />
@@ -630,7 +634,7 @@
 ### August 30, 2025 to September 5, 2025
 
 <details>
-<summary>19 commits...</summary>
+<summary>20 commits...</summary>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add a Rules section to our new Create with AI topic<br />
   <sub>[#12336](https://github.com/flutter/website/pull/12336) merged on September 5, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12336) over 2 weeks, 433 additions and 19 deletions in 5 files</sub><br />
@@ -695,6 +699,10 @@
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix typo in instructions for reporting page issues<br />
   <sub>[#12398](https://github.com/flutter/website/pull/12398) merged on September 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12398) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update some engine links in firebase.json<br />
+  <sub>[#12401](https://github.com/flutter/website/pull/12401) merged on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12401) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add redirect for /go/per-pr-release<br />
   <sub>[#12396](https://github.com/flutter/website/pull/12396) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12396) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
