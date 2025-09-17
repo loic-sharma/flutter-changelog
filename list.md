@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-29 commits.
+30 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub>
@@ -17,6 +17,11 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator and LinearProgressIndicator
   <sub>[#174605](https://github.com/flutter/flutter/pull/174605) merged on September 16, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/174605) over 2 weeks, 567 additions and 28 deletions in 6 files</sub>
   <sub>Reviewed by: [Stan](https://github.com/stan-at-work), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace ` Charset.forName("UTF-8")` with `StandardCharsets.UTF_8` to address linter issues
+  <sub>[#175275](https://github.com/flutter/flutter/pull/175275) merged on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175275) over 4 days, 2 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+  <sub><details><summary>1 image...</summary><img width="598" height="568" alt="utf_8_error" src="https://github.com/user-attachments/assets/4eb61353-42fe-4fc5-b48f-deb0acff67c0" /></details></sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; [docs] Add initial version of Flutter AI rules
   <sub>[#175011](https://github.com/flutter/flutter/pull/175011) merged on September 16, 2025 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/175011) over 1 week, 322 additions and 0 deletions in 2 files</sub>
