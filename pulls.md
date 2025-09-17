@@ -75,7 +75,7 @@
   <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes NOTICES from licenses input<br />
-  <sub>[#174967](https://github.com/flutter/flutter/pull/174967) opened on on September 4, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/174967) 20373 additions and 35115 deletions in 26 files</sub><br />
+  <sub>[#174967](https://github.com/flutter/flutter/pull/174967) opened on on September 4, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/174967) 20374 additions and 35115 deletions in 26 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ElevatedButton doesn't crash in 0x0 environment<br />
   <sub>[#175006](https://github.com/flutter/flutter/pull/175006) opened on on September 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175006) 13 additions and 0 deletions in 1 file</sub><br />
@@ -95,11 +95,8 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ExpandIcon doesn't crash in 0x0 envrionment<br />
   <sub>[#175042](https://github.com/flutter/flutter/pull/175042) opened on on September 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175042) 13 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: make tooltip position customizeable<br />
-  <sub>[#175047](https://github.com/flutter/flutter/pull/175047) opened on on September 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175047) 100 additions and 1 deletion in 2 files</sub><br />
-
 * **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
-  <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
+  <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FilledButton doesn't crash in 0x0 environment<br />
   <sub>[#175110](https://github.com/flutter/flutter/pull/175110) opened on on September 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175110) 13 additions and 0 deletions in 1 file</sub><br />
@@ -113,23 +110,14 @@
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175256) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Abdullah Muhammad Abbas](https://github.com/abd-mtk)** &mdash; Refactor TabBar color resolution and add unselected tab indicators<br />
-  <sub>[#175269](https://github.com/flutter/flutter/pull/175269) opened on on September 12, 2025 &mdash; **Medium:** [40 comments](https://github.com/flutter/flutter/pull/175269) 289 additions and 53 deletions in 3 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FloatingActionButton doesn't crash in 0x0 environment<br />
   <sub>[#175272](https://github.com/flutter/flutter/pull/175272) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175272) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; 170476 test<br />
   <sub>[#175289](https://github.com/flutter/flutter/pull/175289) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175289) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: update content workflow to use itnernal script<br />
-  <sub>[#175291](https://github.com/flutter/flutter/pull/175291) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175291) 2 additions and 3 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that GridTile and GridTileBar don't crash in 0x0 environment<br />
   <sub>[#175321](https://github.com/flutter/flutter/pull/175321) opened on on September 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175321) 17 additions and 0 deletions in 1 file</sub><br />
-
-* **[Mahmoud Nabil](https://github.com/Abo-Zeid)** &mdash; docs(ListTile): clarify selectedTileColor not visible when parent has background .<br />
-  <sub>[#175336](https://github.com/flutter/flutter/pull/175336) opened on on September 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175336) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an IconButton doesn't crash in 0x0 environment<br />
   <sub>[#175372](https://github.com/flutter/flutter/pull/175372) opened on on September 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175372) 13 additions and 0 deletions in 1 file</sub><br />

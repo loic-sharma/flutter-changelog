@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-35 commits.
+37 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub>
@@ -65,13 +65,17 @@
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) merged on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172829) over 1 month, 66 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Daniil Lipatkin](https://github.com/nt4f04uNd)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update gradle_errors.dart to use constants defined in gradle_utils.dart
-  <sub>[#174760](https://github.com/flutter/flutter/pull/174760) merged on September 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/174760) over 2 weeks, 9 additions and 9 deletions in 1 file</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ensure that the raster thread has an EGL context before submitting the command buffer in ImageEncodingImpeller
+  <sub>[#175102](https://github.com/flutter/flutter/pull/175102) merged on September 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175102) over 1 week, 128 additions and 20 deletions in 12 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state
   <sub>[#175242](https://github.com/flutter/flutter/pull/175242) merged on September 16, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/175242) over 3 days, 510 additions and 527 deletions in 31 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update gradle_errors.dart to use constants defined in gradle_utils.dart
+  <sub>[#174760](https://github.com/flutter/flutter/pull/174760) merged on September 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/174760) over 2 weeks, 9 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; [native_assets] Find more `CCompilerConfig` on Linux
   <sub>[#175323](https://github.com/flutter/flutter/pull/175323) merged on September 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175323) over 1 day, 69 additions and 18 deletions in 2 files</sub>
@@ -97,6 +101,10 @@
   <sub>[#173671](https://github.com/flutter/flutter/pull/173671) merged on September 15, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/173671) over 1 month, 185 additions and 160 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: update content workflow to use itnernal script
+  <sub>[#175291](https://github.com/flutter/flutter/pull/175291) merged on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175291) over 4 days, 2 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Dmitry Grand](https://github.com/ievdokdm)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Sync 3.35.3 and 3.35.4 notes from stable to master
   <sub>[#175461](https://github.com/flutter/flutter/pull/175461) merged on September 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175461) over 20 minutes, 14 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -105,6 +113,10 @@
   <sub>[#175098](https://github.com/flutter/flutter/pull/175098) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) over 6 days, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: move engine docs out of engine/ and into docs/
+  <sub>[#175195](https://github.com/flutter/flutter/pull/175195) merged on September 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175195) over 6 days, 56 additions and 58 deletions in 69 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Merge the engine README into the README of the old buildroot.
   <sub>[#175384](https://github.com/flutter/flutter/pull/175384) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175384) over 1 hour, 14 additions and 28 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -112,18 +124,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Roll pub packages and update lockfiles
   <sub>[#175446](https://github.com/flutter/flutter/pull/175446) merged on September 16, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/175446) over 1 hour, 171 additions and 155 deletions in 7 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: move engine docs out of engine/ and into docs/
-  <sub>[#175195](https://github.com/flutter/flutter/pull/175195) merged on September 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175195) over 6 days, 56 additions and 58 deletions in 69 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update gradle_utils.dart to use `constant` instead of `final`
-  <sub>[#175443](https://github.com/flutter/flutter/pull/175443) merged on September 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175443) over 3 hours, 4 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove the unnecessary semicolon at the end of the line in `ProcessTextPlugin.java`
-  <sub>[#175280](https://github.com/flutter/flutter/pull/175280) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175280) over 3 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `.size() == 0` with `isEmpty()` in `PlatformPlugin.java`
   <sub>[#175285](https://github.com/flutter/flutter/pull/175285) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175285) over 3 days, 1 addition and 1 deletion in 1 file</sub>
@@ -152,6 +152,14 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in comments to mention `settings.gradle/.kts` instead of `build.gradle/.kts`
   <sub>[#175486](https://github.com/flutter/flutter/pull/175486) merged on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175486) over 5 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update gradle_utils.dart to use `constant` instead of `final`
+  <sub>[#175443](https://github.com/flutter/flutter/pull/175443) merged on September 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175443) over 3 hours, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove the unnecessary semicolon at the end of the line in `ProcessTextPlugin.java`
+  <sub>[#175280](https://github.com/flutter/flutter/pull/175280) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175280) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### September 6, 2025 to September 12, 2025
 
