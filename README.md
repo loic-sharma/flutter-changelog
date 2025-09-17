@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-41 commits.
+42 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template<br />
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub><br />
@@ -22,10 +22,10 @@
   <sub>[#174321](https://github.com/flutter/flutter/pull/174321) merged on September 17, 2025 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/174321) over 3 weeks, 522 additions and 55 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant public modifier in `PlatformViewRenderTarget.java`<br />
-  <sub>[#175284](https://github.com/flutter/flutter/pull/175284) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175284) over 3 days, 8 additions and 8 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
-  <sub><details><summary>1 image...</summary><img width="836" height="257" alt="public" src="https://github.com/user-attachments/assets/172b25e2-2dc3-48f2-8781-d3dcd4b19a58" /></details></sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `buildscript classpath dependency` to fix IDE support on android studio<br />
+  <sub>[#175273](https://github.com/flutter/flutter/pull/175273) merged on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175273) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="413" height="318" alt="check" src="https://github.com/user-attachments/assets/ca82dfa5-ae3d-4fdc-8675-c50102dc5b16" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter issues about C-style array in java code <br />
   <sub>[#175497](https://github.com/flutter/flutter/pull/175497) merged on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175497) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -60,10 +60,10 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
   <sub><details><summary>2 images...</summary><img width="684" height="174" alt="unused_null" src="https://github.com/user-attachments/assets/b2807f32-3382-4248-8be5-2e7212679b3f" /><img width="508" height="416" alt="isEmpty" src="https://github.com/user-attachments/assets/a16669ba-115c-420e-86ea-a4850e3aeabc" /></details></sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `buildscript classpath dependency` to fix IDE support on android studio<br />
-  <sub>[#175273](https://github.com/flutter/flutter/pull/175273) merged on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175273) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
-  <sub><details><summary>1 image...</summary><img width="413" height="318" alt="check" src="https://github.com/user-attachments/assets/ca82dfa5-ae3d-4fdc-8675-c50102dc5b16" /></details></sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant public modifier in `PlatformViewRenderTarget.java`<br />
+  <sub>[#175284](https://github.com/flutter/flutter/pull/175284) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175284) over 3 days, 8 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="836" height="257" alt="public" src="https://github.com/user-attachments/assets/172b25e2-2dc3-48f2-8781-d3dcd4b19a58" /></details></sub>
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) merged on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172829) over 1 month, 66 additions and 6 deletions in 3 files</sub><br />
@@ -73,13 +73,13 @@
   <sub>[#175102](https://github.com/flutter/flutter/pull/175102) merged on September 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175102) over 1 week, 128 additions and 20 deletions in 12 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state<br />
-  <sub>[#175242](https://github.com/flutter/flutter/pull/175242) merged on September 16, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/175242) over 3 days, 510 additions and 527 deletions in 31 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update gradle_errors.dart to use constants defined in gradle_utils.dart<br />
   <sub>[#174760](https://github.com/flutter/flutter/pull/174760) merged on September 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/174760) over 2 weeks, 9 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to widget state<br />
+  <sub>[#175242](https://github.com/flutter/flutter/pull/175242) merged on September 16, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/175242) over 3 days, 510 additions and 527 deletions in 31 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; [native_assets] Find more `CCompilerConfig` on Linux<br />
   <sub>[#175323](https://github.com/flutter/flutter/pull/175323) merged on September 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175323) over 1 day, 69 additions and 18 deletions in 2 files</sub><br />
@@ -117,6 +117,10 @@
   <sub>[#175291](https://github.com/flutter/flutter/pull/175291) merged on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175291) over 4 days, 2 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Dmitry Grand](https://github.com/ievdokdm)</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Sync 3.35.3 and 3.35.4 notes from stable to master<br />
+  <sub>[#175461](https://github.com/flutter/flutter/pull/175461) merged on September 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175461) over 20 minutes, 14 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist `include_drafts` to false<br />
   <sub>[#175098](https://github.com/flutter/flutter/pull/175098) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
@@ -125,17 +129,13 @@
   <sub>[#175195](https://github.com/flutter/flutter/pull/175195) merged on September 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175195) over 6 days, 56 additions and 58 deletions in 69 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Roll pub packages and update lockfiles<br />
-  <sub>[#175446](https://github.com/flutter/flutter/pull/175446) merged on September 16, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/175446) over 1 hour, 171 additions and 155 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Merge the engine README into the README of the old buildroot.<br />
   <sub>[#175384](https://github.com/flutter/flutter/pull/175384) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175384) over 1 hour, 14 additions and 28 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Sync 3.35.3 and 3.35.4 notes from stable to master<br />
-  <sub>[#175461](https://github.com/flutter/flutter/pull/175461) merged on September 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175461) over 20 minutes, 14 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Roll pub packages and update lockfiles<br />
+  <sub>[#175446](https://github.com/flutter/flutter/pull/175446) merged on September 16, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/175446) over 1 hour, 171 additions and 155 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds a11y section locale support for iOS<br />
   <sub>[#175005](https://github.com/flutter/flutter/pull/175005) merged on September 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175005) over 1 week, 38 additions and 0 deletions in 2 files</sub><br />
@@ -144,6 +144,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix default overlay color in `TabBar`<br />
   <sub>[#175270](https://github.com/flutter/flutter/pull/175270) merged on September 16, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175270) over 3 days, 5 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Filter out unexpected process logs on iOS with better regex matching.<br />
+  <sub>[#175452](https://github.com/flutter/flutter/pull/175452) merged on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175452) over 1 day, 31 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; CupertinoContextMenu child respects available screen width<br />
   <sub>[#175300](https://github.com/flutter/flutter/pull/175300) merged on September 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175300) over 4 days, 95 additions and 1 deletion in 2 files</sub><br />
