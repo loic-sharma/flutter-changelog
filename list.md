@@ -4,7 +4,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-38 commits.
+39 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Deprecate Objective-C plugin template
   <sub>[#174003](https://github.com/flutter/flutter/pull/174003) merged on September 15, 2025 &mdash; **Extra large:** [56 comments](https://github.com/flutter/flutter/pull/174003) over 3 weeks, 571 additions and 943 deletions in 23 files</sub>
@@ -22,15 +22,10 @@
   <sub>[#174605](https://github.com/flutter/flutter/pull/174605) merged on September 16, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/174605) over 2 weeks, 567 additions and 28 deletions in 6 files</sub>
   <sub>Reviewed by: [Stan](https://github.com/stan-at-work), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `AccessibilityBridge.java` to address linter issues
-  <sub>[#175277](https://github.com/flutter/flutter/pull/175277) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175277) over 4 days, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
-  <sub><details><summary>2 images...</summary><img width="684" height="174" alt="unused_null" src="https://github.com/user-attachments/assets/b2807f32-3382-4248-8be5-2e7212679b3f" /><img width="508" height="416" alt="isEmpty" src="https://github.com/user-attachments/assets/a16669ba-115c-420e-86ea-a4850e3aeabc" /></details></sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter issues about C-style array in java code 
-  <sub>[#175497](https://github.com/flutter/flutter/pull/175497) merged on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175497) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `buildscript classpath dependency` to fix IDE support on android studio
+  <sub>[#175273](https://github.com/flutter/flutter/pull/175273) merged on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175273) over 4 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
-  <sub><details><summary>1 image...</summary><img width="701" height="147" alt="01" src="https://github.com/user-attachments/assets/75cf7800-8632-43b2-aac7-43319d3d2211" /></details></sub>
+  <sub><details><summary>1 image...</summary><img width="413" height="318" alt="check" src="https://github.com/user-attachments/assets/ca82dfa5-ae3d-4fdc-8675-c50102dc5b16" /></details></sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix errors when using image filters with default values.
   <sub>[#175122](https://github.com/flutter/flutter/pull/175122) merged on September 17, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175122) over 1 week, 95 additions and 33 deletions in 4 files</sub>
@@ -55,15 +50,20 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
   <sub><details><summary>1 image...</summary><img width="557" height="559" alt="toString" src="https://github.com/user-attachments/assets/89d646d8-4e23-4b11-a89c-2eacae3da46b" /></details></sub>
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `AccessibilityBridge.java` to address linter issues
+  <sub>[#175277](https://github.com/flutter/flutter/pull/175277) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175277) over 4 days, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+  <sub><details><summary>2 images...</summary><img width="684" height="174" alt="unused_null" src="https://github.com/user-attachments/assets/b2807f32-3382-4248-8be5-2e7212679b3f" /><img width="508" height="416" alt="isEmpty" src="https://github.com/user-attachments/assets/a16669ba-115c-420e-86ea-a4850e3aeabc" /></details></sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant public modifier in `PlatformViewRenderTarget.java`
   <sub>[#175284](https://github.com/flutter/flutter/pull/175284) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175284) over 3 days, 8 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
   <sub><details><summary>1 image...</summary><img width="836" height="257" alt="public" src="https://github.com/user-attachments/assets/172b25e2-2dc3-48f2-8781-d3dcd4b19a58" /></details></sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `buildscript classpath dependency` to fix IDE support on android studio
-  <sub>[#175273](https://github.com/flutter/flutter/pull/175273) merged on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175273) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter issues about C-style array in java code 
+  <sub>[#175497](https://github.com/flutter/flutter/pull/175497) merged on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175497) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
-  <sub><details><summary>1 image...</summary><img width="413" height="318" alt="check" src="https://github.com/user-attachments/assets/ca82dfa5-ae3d-4fdc-8675-c50102dc5b16" /></details></sub>
+  <sub><details><summary>1 image...</summary><img width="701" height="147" alt="01" src="https://github.com/user-attachments/assets/75cf7800-8632-43b2-aac7-43319d3d2211" /></details></sub>
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode
   <sub>[#172829](https://github.com/flutter/flutter/pull/172829) merged on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/172829) over 1 month, 66 additions and 6 deletions in 3 files</sub>
@@ -93,6 +93,10 @@
   <sub>[#174912](https://github.com/flutter/flutter/pull/174912) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174912) over 1 week, 29 additions and 17 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; fix: ColorScheme will removeListener on imageStream twice if there is error loading the image.
+  <sub>[#174465](https://github.com/flutter/flutter/pull/174465) merged on September 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174465) over 3 weeks, 89 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in test documentation
   <sub>[#174292](https://github.com/flutter/flutter/pull/174292) merged on September 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174292) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
@@ -109,29 +113,25 @@
   <sub>[#175291](https://github.com/flutter/flutter/pull/175291) merged on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175291) over 4 days, 2 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Dmitry Grand](https://github.com/ievdokdm)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Merge the engine README into the README of the old buildroot.
-  <sub>[#175384](https://github.com/flutter/flutter/pull/175384) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175384) over 1 hour, 14 additions and 28 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Roll pub packages and update lockfiles
-  <sub>[#175446](https://github.com/flutter/flutter/pull/175446) merged on September 16, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/175446) over 1 hour, 171 additions and 155 deletions in 7 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist `include_drafts` to false
+  <sub>[#175098](https://github.com/flutter/flutter/pull/175098) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) over 6 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: move engine docs out of engine/ and into docs/
   <sub>[#175195](https://github.com/flutter/flutter/pull/175195) merged on September 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175195) over 6 days, 56 additions and 58 deletions in 69 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Merge the engine README into the README of the old buildroot.
+  <sub>[#175384](https://github.com/flutter/flutter/pull/175384) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175384) over 1 hour, 14 additions and 28 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Sync 3.35.3 and 3.35.4 notes from stable to master
   <sub>[#175461](https://github.com/flutter/flutter/pull/175461) merged on September 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175461) over 20 minutes, 14 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist `include_drafts` to false
-  <sub>[#175098](https://github.com/flutter/flutter/pull/175098) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175098) over 6 days, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `.size() == 0` with `isEmpty()` in `PlatformPlugin.java`
-  <sub>[#175285](https://github.com/flutter/flutter/pull/175285) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175285) over 3 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Roll pub packages and update lockfiles
+  <sub>[#175446](https://github.com/flutter/flutter/pull/175446) merged on September 16, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/175446) over 1 hour, 171 additions and 155 deletions in 7 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update NDK to The Latest Stable
   <sub>[#175365](https://github.com/flutter/flutter/pull/175365) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175365) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -145,13 +145,13 @@
   <sub>[#175270](https://github.com/flutter/flutter/pull/175270) merged on September 16, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175270) over 3 days, 5 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `build.gradle` to remove deprecation warning in `flutter\engine\src\flutter\shell\platform\android`
-  <sub>[#175305](https://github.com/flutter/flutter/pull/175305) merged on September 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175305) over 2 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [jesswrd](https://github.com/jesswrd)</sub>
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove unused `sceneHost` property
   <sub>[#174997](https://github.com/flutter/flutter/pull/174997) merged on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174997) over 1 week, 0 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `build.gradle` to remove deprecation warning in `flutter\engine\src\flutter\shell\platform\android`
+  <sub>[#175305](https://github.com/flutter/flutter/pull/175305) merged on September 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175305) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in comments to mention `settings.gradle/.kts` instead of `build.gradle/.kts`
   <sub>[#175486](https://github.com/flutter/flutter/pull/175486) merged on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175486) over 5 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -163,6 +163,10 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove the unnecessary semicolon at the end of the line in `ProcessTextPlugin.java`
   <sub>[#175280](https://github.com/flutter/flutter/pull/175280) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175280) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `.size() == 0` with `isEmpty()` in `PlatformPlugin.java`
+  <sub>[#175285](https://github.com/flutter/flutter/pull/175285) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175285) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 ### September 6, 2025 to September 12, 2025
