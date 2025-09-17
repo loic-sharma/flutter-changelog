@@ -453,7 +453,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-3 commits.
+4 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Add Android support for externalNonBrowserApplication
   <sub>[#9993](https://github.com/flutter/packages/pull/9993) merged on September 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9993) over 3 days, 106 additions and 25 deletions in 10 files</sub>
@@ -466,6 +466,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update web plugin owners
   <sub>[#9994](https://github.com/flutter/packages/pull/9994) merged on September 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9994) over 5 days, 13 additions and 13 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from a402d9a4376a to d693b4b9dbac (6 revisions)
+  <sub>[#10026](https://github.com/flutter/packages/pull/10026) merged on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10026) over 50 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### September 6, 2025 to September 12, 2025
 
