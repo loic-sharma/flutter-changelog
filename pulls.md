@@ -156,5 +156,5 @@
   <sub>[#175426](https://github.com/flutter/flutter/pull/175426) opened on on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175426) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Adds Impellerc flatbuffer format versioning.  Fixes #172899<br />
-  <sub>[#175470](https://github.com/flutter/flutter/pull/175470) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175470) 60 additions and 1 deletion in 9 files</sub><br />
+  <sub>[#175470](https://github.com/flutter/flutter/pull/175470) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175470) 61 additions and 2 deletions in 10 files</sub><br />
 
