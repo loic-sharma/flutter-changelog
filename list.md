@@ -15,7 +15,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow Passing an AnimationController to CircularProgressIndicator and LinearProgressIndicator
-  <sub>[#174605](https://github.com/flutter/flutter/pull/174605) merged on September 16, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/174605) over 2 weeks, 567 additions and 28 deletions in 6 files</sub>
+  <sub>[#174605](https://github.com/flutter/flutter/pull/174605) merged on September 16, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/174605) over 2 weeks, 567 additions and 28 deletions in 6 files</sub>
   <sub>Reviewed by: [Stan](https://github.com/stan-at-work), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; [docs] Add initial version of Flutter AI rules

@@ -152,6 +152,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Show cursor after swipe only if TextField has focus<br />
   <sub>[#175393](https://github.com/flutter/flutter/pull/175393) opened on on September 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175393) 101 additions and 1 deletion in 3 files</sub><br />
 
+* **[Mohammad Hamdan](https://github.com/mnayef95)** &mdash; [Android] Use headingLevel for heading accessibility property<br />
+  <sub>[#175416](https://github.com/flutter/flutter/pull/175416) opened on on September 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175416) 66 additions and 2 deletions in 5 files</sub><br />
+
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine][fuchsia] Update to Fuchsia API level 28 and roll latest GN SDK<br />
   <sub>[#175425](https://github.com/flutter/flutter/pull/175425) opened on on September 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175425) 40 additions and 35 deletions in 7 files</sub><br />
 
@@ -188,9 +191,12 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in comments to mention `settings.gradle/.kts` instead of `build.gradle/.kts`<br />
   <sub>[#175486](https://github.com/flutter/flutter/pull/175486) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175486) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter issues about C-style array in java code <br />
+  <sub>[#175497](https://github.com/flutter/flutter/pull/175497) opened on on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175497) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[alexskobozev](https://github.com/alexskobozev)** &mdash; Fix deprecated configureStatusBarForFullscreenFlutterExperience for Android 15+<br />
   <sub>[#175501](https://github.com/flutter/flutter/pull/175501) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175501) 8 additions and 5 deletions in 1 file</sub><br />
 
 * **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form<br />
-  <sub>[#175503](https://github.com/flutter/flutter/pull/175503) opened on on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175503) 163 additions and 17 deletions in 2 files</sub><br />
+  <sub>[#175503](https://github.com/flutter/flutter/pull/175503) opened on on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175503) 151 additions and 17 deletions in 2 files</sub><br />
 
