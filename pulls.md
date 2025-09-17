@@ -155,6 +155,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkResponse doesn't crash in 0x0 environment<br />
   <sub>[#175426](https://github.com/flutter/flutter/pull/175426) opened on on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175426) 14 additions and 0 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Minor refactor to eliminate repetitive pattern<br />
+  <sub>[#175448](https://github.com/flutter/flutter/pull/175448) opened on on September 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175448) 5 additions and 5 deletions in 3 files</sub><br />
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] iOS style blurring<br />
   <sub>[#175458](https://github.com/flutter/flutter/pull/175458) opened on on September 16, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/175458) 434 additions and 227 deletions in 33 files</sub><br />
 
@@ -175,4 +178,10 @@
 
 * **[Shiv Shankar Tiwari](https://github.com/pythonsst)** &mdash; tool(ios): clarify code signing failure with actionable Xcode steps<br />
   <sub>[#175483](https://github.com/flutter/flutter/pull/175483) opened on on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175483) 41 additions and 5 deletions in 4 files</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Introduce a getter for `Project` to get `gradle-wrapper.properties` directly  <br />
+  <sub>[#175485](https://github.com/flutter/flutter/pull/175485) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175485) 14 additions and 10 deletions in 2 files</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in comments to mention `settings.gradle/.kts` instead of `build.gradle/.kts`<br />
+  <sub>[#175486](https://github.com/flutter/flutter/pull/175486) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175486) 2 additions and 2 deletions in 1 file</sub><br />
 
