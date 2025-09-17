@@ -188,6 +188,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in comments to mention `settings.gradle/.kts` instead of `build.gradle/.kts`<br />
   <sub>[#175486](https://github.com/flutter/flutter/pull/175486) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175486) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[akashefrath](https://github.com/akashefrath)** &mdash; Add Form autovalidation mode: onUserInteractionIfError<br />
-  <sub>[#175498](https://github.com/flutter/flutter/pull/175498) opened on on September 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175498) 57 additions and 17 deletions in 1 file</sub><br />
+* **[akashefrath](https://github.com/akashefrath)** &mdash; Add onuserinteractioniferror validation<br />
+  <sub>[#175499](https://github.com/flutter/flutter/pull/175499) opened on on September 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175499) 162 additions and 17 deletions in 2 files</sub><br />
 
