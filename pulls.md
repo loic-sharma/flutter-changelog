@@ -164,3 +164,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Allow for custom `Preview` annotations, add support for runtime transformations<br />
   <sub>[#175535](https://github.com/flutter/flutter/pull/175535) opened on on September 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/175535) 1096 additions and 564 deletions in 30 files</sub><br />
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] Add isA11yFocusable flag<br />
+  <sub>[#175551](https://github.com/flutter/flutter/pull/175551) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175551) 66 additions and 1 deletion in 9 files</sub><br />
+
