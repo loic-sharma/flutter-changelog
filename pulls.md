@@ -122,9 +122,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FloatingActionButton doesn't crash in 0x0 environment<br />
   <sub>[#175272](https://github.com/flutter/flutter/pull/175272) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175272) 13 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `buildscript classpath dependency` to fix IDE support on android studio<br />
-  <sub>[#175273](https://github.com/flutter/flutter/pull/175273) opened on on September 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175273) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; 170476 test<br />
   <sub>[#175289](https://github.com/flutter/flutter/pull/175289) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175289) 2 additions and 0 deletions in 1 file</sub><br />
 
