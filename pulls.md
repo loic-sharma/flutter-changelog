@@ -167,3 +167,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] Add isA11yFocusable flag<br />
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175551) 66 additions and 1 deletion in 9 files</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(tool): Use merge-base for content hash in detached HEAD<br />
+  <sub>[#175554](https://github.com/flutter/flutter/pull/175554) opened on on September 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175554) 1 addition and 1 deletion in 1 file</sub><br />
+
