@@ -161,9 +161,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkResponse doesn't crash in 0x0 environment<br />
   <sub>[#175426](https://github.com/flutter/flutter/pull/175426) opened on on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175426) 14 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Minor refactor to eliminate repetitive pattern<br />
-  <sub>[#175448](https://github.com/flutter/flutter/pull/175448) opened on on September 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175448) 5 additions and 5 deletions in 3 files</sub><br />
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] iOS style blurring<br />
   <sub>[#175458](https://github.com/flutter/flutter/pull/175458) opened on on September 16, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/175458) 434 additions and 227 deletions in 33 files</sub><br />
 
