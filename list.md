@@ -676,7 +676,11 @@
 
 ### September 13, 2025 to September 19, 2025
 
-6 commits.
+8 commits.
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Use rules.md from Flutter SDK
+  <sub>[#12443](https://github.com/flutter/website/pull/12443) merged on September 18, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12443) over 2 hours, 13 additions and 321 deletions in 2 files</sub>
+  <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Android setup in Android Studio instructions
   <sub>[#12433](https://github.com/flutter/website/pull/12433) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12433) over 50 minutes, 34 additions and 46 deletions in 1 file</sub>
@@ -685,6 +689,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update blog links
   <sub>[#12423](https://github.com/flutter/website/pull/12423) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12423) over 4 days, 10 additions and 10 deletions in 8 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Fareez Iqmal](https://github.com/iqfareez)** &mdash; :pencil2: fix typo l10n
+  <sub>[#12439](https://github.com/flutter/website/pull/12439) merged on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12439) over 21 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Luca Venir](https://github.com/lucavenir)** &mdash; typo: `gen-i10n` isn't a valid flutter command
   <sub>[#12438](https://github.com/flutter/website/pull/12438) merged on September 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12438) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
