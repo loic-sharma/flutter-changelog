@@ -126,7 +126,7 @@
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175551) 66 additions and 1 deletion in 9 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(tool): Use merge-base for content hash in detached HEAD<br />
-  <sub>[#175554](https://github.com/flutter/flutter/pull/175554) opened on on September 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/175554) 21 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#175554](https://github.com/flutter/flutter/pull/175554) opened on on September 17, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175554) 21 additions and 2 deletions in 3 files</sub><br />
 
 * **[Sunshineツ](https://github.com/LauYewHang)** &mdash; Add new properties to DropdownMenu that allows padding customization for its leadingIcon and trailingIcon<br />
   <sub>[#175558](https://github.com/flutter/flutter/pull/175558) opened on on September 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175558) 258 additions and 4 deletions in 3 files</sub><br />
@@ -151,4 +151,7 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `name` field form `SupportedPlatform` enum<br />
   <sub>[#175611](https://github.com/flutter/flutter/pull/175611) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175611) 8 additions and 12 deletions in 1 file</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Updated 36 AVD For Platform Views<br />
+  <sub>[#175616](https://github.com/flutter/flutter/pull/175616) opened on on September 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175616) 3 additions and 23 deletions in 1 file</sub><br />
 
