@@ -152,3 +152,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't update filtered preview set when selecting non-source files<br />
   <sub>[#175596](https://github.com/flutter/flutter/pull/175596) opened on on September 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175596) 68 additions and 46 deletions in 4 files</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Added a 36 device for Firebase Lab Testing<br />
+  <sub>[#175613](https://github.com/flutter/flutter/pull/175613) opened on on September 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175613) 1 addition and 0 deletions in 1 file</sub><br />
+
