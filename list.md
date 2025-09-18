@@ -305,7 +305,7 @@
 ### August 30, 2025 to September 5, 2025
 
 <details>
-<summary>50 commits...</summary>
+<summary>49 commits...</summary>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview] Add `group` property to `Preview`
   <sub>[#174849](https://github.com/flutter/flutter/pull/174849) merged on September 4, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/174849) over 1 day, 599 additions and 293 deletions in 18 files</sub>
@@ -371,21 +371,21 @@
   <sub>[#174914](https://github.com/flutter/flutter/pull/174914) merged on September 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174914) over 20 hours, 41 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in DrawRect geometry
-  <sub>[#174735](https://github.com/flutter/flutter/pull/174735) merged on September 2, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/174735) over 3 days, 248 additions and 77 deletions in 3 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Use route navigator for CupertinoSheetRoute pop
   <sub>[#173103](https://github.com/flutter/flutter/pull/173103) merged on September 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173103) over 1 month, 89 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; deletes the old license checker.
+  <sub>[#174719](https://github.com/flutter/flutter/pull/174719) merged on September 5, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174719) over 6 days, 4 additions and 129725 deletions in 41 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made emulator check more thorough
   <sub>[#174731](https://github.com/flutter/flutter/pull/174731) merged on September 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/174731) over 3 days, 29 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; deletes the old license checker.
-  <sub>[#174719](https://github.com/flutter/flutter/pull/174719) merged on September 5, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174719) over 6 days, 4 additions and 129725 deletions in 41 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix overdraw in DrawRect geometry
+  <sub>[#174735](https://github.com/flutter/flutter/pull/174735) merged on September 2, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/174735) over 3 days, 248 additions and 77 deletions in 3 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios26]fix host engine compile error
   <sub>[#174723](https://github.com/flutter/flutter/pull/174723) merged on September 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174723) over 6 days, 17 additions and 0 deletions in 2 files</sub>
@@ -435,17 +435,17 @@
   <sub>[#174900](https://github.com/flutter/flutter/pull/174900) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174900) over 2 hours, 94 additions and 115 deletions in 23 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Include SemanticsValidationResult in debugDumpSemanticsTree
-  <sub>[#174677](https://github.com/flutter/flutter/pull/174677) merged on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174677) over 4 days, 26 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bind `GL_FRAMEBUFFER` with `glReadPixels` for gles2 compatibility
+  <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Patch .clang-format files to specify C++20.
   <sub>[#174848](https://github.com/flutter/flutter/pull/174848) merged on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174848) over 3 hours, 6 additions and 12 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bind `GL_FRAMEBUFFER` with `glReadPixels` for gles2 compatibility
-  <sub>[#174668](https://github.com/flutter/flutter/pull/174668) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174668) over 4 days, 223 additions and 4 deletions in 5 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Include SemanticsValidationResult in debugDumpSemanticsTree
+  <sub>[#174677](https://github.com/flutter/flutter/pull/174677) merged on September 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174677) over 4 days, 26 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Mark Linux web_canvaskit_tests_7_last as bringup
   <sub>[#174878](https://github.com/flutter/flutter/pull/174878) merged on September 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174878) over 7 minutes, 1 addition and 0 deletions in 1 file</sub>
@@ -490,10 +490,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove unnecessary `presubmit_max_attempts` from .ci.yaml
   <sub>[#174885](https://github.com/flutter/flutter/pull/174885) merged on September 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174885) over 4 hours, 0 additions and 44 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov)</sub>
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Ndk download is not a condition of the test
-  <sub>[#174832](https://github.com/flutter/flutter/pull/174832) merged on September 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174832) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Use local canvaskit in `dart_data_asset_test.dart`
   <sub>[#174891](https://github.com/flutter/flutter/pull/174891) merged on September 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174891) over 2 hours, 8 additions and 1 deletion in 1 file</sub>
