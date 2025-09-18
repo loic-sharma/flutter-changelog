@@ -141,5 +141,11 @@
   <sub>[#175560](https://github.com/flutter/flutter/pull/175560) opened on on September 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175560) 136 additions and 137 deletions in 5 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y] TimePicker clock is unnecessarily announced<br />
-  <sub>[#175570](https://github.com/flutter/flutter/pull/175570) opened on on September 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175570) 23 additions and 45 deletions in 2 files</sub><br />
+  <sub>[#175570](https://github.com/flutter/flutter/pull/175570) opened on on September 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175570) 21 additions and 45 deletions in 2 files</sub><br />
+
+* **[kira-offgrid](https://github.com/kira-offgrid)** &mdash; Fix: GitHub Actions Workflow Vulnerable to Code Injection Attacks in .github/actions/composite-flutter-setup/action.yml<br />
+  <sub>[#175572](https://github.com/flutter/flutter/pull/175572) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175572) 13 additions and 2 deletions in 1 file</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Simplify `if-else` block into single `return` statement<br />
+  <sub>[#175574](https://github.com/flutter/flutter/pull/175574) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175574) 7 additions and 28 deletions in 2 files</sub><br />
 
