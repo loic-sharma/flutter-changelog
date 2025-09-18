@@ -110,6 +110,9 @@
 * **[Shiv Shankar Tiwari](https://github.com/pythonsst)** &mdash; tool(ios): clarify code signing failure with actionable Xcode steps<br />
   <sub>[#175483](https://github.com/flutter/flutter/pull/175483) opened on on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175483) 41 additions and 5 deletions in 4 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary public modifier in `KeyboardManager.java`<br />
+  <sub>[#175500](https://github.com/flutter/flutter/pull/175500) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175500) 3 additions and 3 deletions in 1 file</sub><br />
+
 * **[alexskobozev](https://github.com/alexskobozev)** &mdash; Fix deprecated configureStatusBarForFullscreenFlutterExperience for Android 15+<br />
   <sub>[#175501](https://github.com/flutter/flutter/pull/175501) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175501) 8 additions and 5 deletions in 1 file</sub><br />
 
@@ -118,6 +121,9 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `KeyData.java` to use safer code <br />
   <sub>[#175509](https://github.com/flutter/flutter/pull/175509) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175509) 6 additions and 14 deletions in 1 file</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `KeyChannelResponder.java`  to use lambda expression<br />
+  <sub>[#175510](https://github.com/flutter/flutter/pull/175510) opened on on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175510) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form<br />
   <sub>[#175515](https://github.com/flutter/flutter/pull/175515) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175515) 122 additions and 11 deletions in 3 files</sub><br />
@@ -153,5 +159,5 @@
   <sub>[#175595](https://github.com/flutter/flutter/pull/175595) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175595) 36 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't update filtered preview set when selecting non-source files<br />
-  <sub>[#175596](https://github.com/flutter/flutter/pull/175596) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175596) 68 additions and 46 deletions in 4 files</sub><br />
+  <sub>[#175596](https://github.com/flutter/flutter/pull/175596) opened on on September 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175596) 68 additions and 46 deletions in 4 files</sub><br />
 
