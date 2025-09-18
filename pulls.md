@@ -173,3 +173,9 @@
 * **[Sunshineツ](https://github.com/LauYewHang)** &mdash; Add new properties to DropdownMenu that allows padding customization for its leadingIcon and trailingIcon<br />
   <sub>[#175558](https://github.com/flutter/flutter/pull/175558) opened on on September 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175558) 258 additions and 4 deletions in 3 files</sub><br />
 
+* **[Dipen Pradhan](https://github.com/dipenpradhan)** &mdash; Make Impeller geometry methods constexpr<br />
+  <sub>[#175559](https://github.com/flutter/flutter/pull/175559) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175559) 14 additions and 3 deletions in 1 file</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: migrate fade upwards page transition builder to widgets<br />
+  <sub>[#175560](https://github.com/flutter/flutter/pull/175560) opened on on September 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175560) 136 additions and 137 deletions in 5 files</sub><br />
+
