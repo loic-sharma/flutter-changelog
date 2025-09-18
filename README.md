@@ -700,7 +700,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-8 commits.
+9 commits.
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Use rules.md from Flutter SDK<br />
   <sub>[#12443](https://github.com/flutter/website/pull/12443) merged on September 18, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12443) over 2 hours, 13 additions and 321 deletions in 2 files</sub><br />
@@ -713,6 +713,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update blog links<br />
   <sub>[#12423](https://github.com/flutter/website/pull/12423) merged on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12423) over 4 days, 10 additions and 10 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[James Williams](https://github.com/jwill)** &mdash; Add documentation of generated widget previews<br />
+  <sub>[#12444](https://github.com/flutter/website/pull/12444) merged on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12444) over 43 minutes, 10 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Fareez Iqmal](https://github.com/iqfareez)** &mdash; :pencil2: fix typo l10n<br />
   <sub>[#12439](https://github.com/flutter/website/pull/12439) merged on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12439) over 21 hours, 1 addition and 1 deletion in 1 file</sub><br />
