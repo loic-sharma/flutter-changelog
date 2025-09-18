@@ -35,15 +35,10 @@
   <sub>[#174967](https://github.com/flutter/flutter/pull/174967) merged on September 18, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/174967) over 1 week, 20293 additions and 35003 deletions in 26 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant public modifier in `PlatformViewRenderTarget.java`
-  <sub>[#175284](https://github.com/flutter/flutter/pull/175284) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175284) over 3 days, 8 additions and 8 deletions in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
-  <sub><details><summary>1 image...</summary><img width="836" height="257" alt="public" src="https://github.com/user-attachments/assets/172b25e2-2dc3-48f2-8781-d3dcd4b19a58" /></details></sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter issues about C-style array in java code 
-  <sub>[#175497](https://github.com/flutter/flutter/pull/175497) merged on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175497) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
-  <sub><details><summary>1 image...</summary><img width="701" height="147" alt="01" src="https://github.com/user-attachments/assets/75cf7800-8632-43b2-aac7-43319d3d2211" /></details></sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `AccessibilityBridge.java` to address linter issues
+  <sub>[#175277](https://github.com/flutter/flutter/pull/175277) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175277) over 4 days, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+  <sub><details><summary>2 images...</summary><img width="684" height="174" alt="unused_null" src="https://github.com/user-attachments/assets/b2807f32-3382-4248-8be5-2e7212679b3f" /><img width="508" height="416" alt="isEmpty" src="https://github.com/user-attachments/assets/a16669ba-115c-420e-86ea-a4850e3aeabc" /></details></sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix errors when using image filters with default values.
   <sub>[#175122](https://github.com/flutter/flutter/pull/175122) merged on September 17, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175122) over 1 week, 95 additions and 33 deletions in 4 files</sub>
@@ -58,29 +53,34 @@
   <sub>[#175011](https://github.com/flutter/flutter/pull/175011) merged on September 16, 2025 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/175011) over 1 week, 322 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Seth Ladd](https://github.com/sethladd), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove  redundant `public` modifier  for interface members in MouseCursorPlugin.java
-  <sub>[#175281](https://github.com/flutter/flutter/pull/175281) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175281) over 3 days, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
-  <sub><details><summary>1 image...</summary><img width="836" height="257" alt="public" src="https://github.com/user-attachments/assets/87f0dcb1-2b74-405a-bca8-9b3a9ffe5986" /></details></sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `AccessibilityBridge.java` to address linter issues
-  <sub>[#175277](https://github.com/flutter/flutter/pull/175277) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175277) over 4 days, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
-  <sub><details><summary>2 images...</summary><img width="684" height="174" alt="unused_null" src="https://github.com/user-attachments/assets/b2807f32-3382-4248-8be5-2e7212679b3f" /><img width="508" height="416" alt="isEmpty" src="https://github.com/user-attachments/assets/a16669ba-115c-420e-86ea-a4850e3aeabc" /></details></sub>
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `toString()` call in `ImageReaderPlatformViewRenderTarget.java`
   <sub>[#175286](https://github.com/flutter/flutter/pull/175286) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175286) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
   <sub><details><summary>1 image...</summary><img width="557" height="559" alt="toString" src="https://github.com/user-attachments/assets/89d646d8-4e23-4b11-a89c-2eacae3da46b" /></details></sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `buildscript classpath dependency` to fix IDE support on android studio
-  <sub>[#175273](https://github.com/flutter/flutter/pull/175273) merged on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175273) over 4 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
-  <sub><details><summary>1 image...</summary><img width="413" height="318" alt="check" src="https://github.com/user-attachments/assets/ca82dfa5-ae3d-4fdc-8675-c50102dc5b16" /></details></sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove  redundant `public` modifier  for interface members in MouseCursorPlugin.java
+  <sub>[#175281](https://github.com/flutter/flutter/pull/175281) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175281) over 3 days, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+  <sub><details><summary>1 image...</summary><img width="836" height="257" alt="public" src="https://github.com/user-attachments/assets/87f0dcb1-2b74-405a-bca8-9b3a9ffe5986" /></details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant public modifier in `PlatformViewRenderTarget.java`
+  <sub>[#175284](https://github.com/flutter/flutter/pull/175284) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175284) over 3 days, 8 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+  <sub><details><summary>1 image...</summary><img width="836" height="257" alt="public" src="https://github.com/user-attachments/assets/172b25e2-2dc3-48f2-8781-d3dcd4b19a58" /></details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix form field label and error message
   <sub>[#174831](https://github.com/flutter/flutter/pull/174831) merged on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174831) over 2 weeks, 21 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter issues about C-style array in java code 
+  <sub>[#175497](https://github.com/flutter/flutter/pull/175497) merged on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175497) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>1 image...</summary><img width="701" height="147" alt="01" src="https://github.com/user-attachments/assets/75cf7800-8632-43b2-aac7-43319d3d2211" /></details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `buildscript classpath dependency` to fix IDE support on android studio
+  <sub>[#175273](https://github.com/flutter/flutter/pull/175273) merged on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175273) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>1 image...</summary><img width="413" height="318" alt="check" src="https://github.com/user-attachments/assets/ca82dfa5-ae3d-4fdc-8675-c50102dc5b16" /></details></sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to WidgetState
   <sub>[#175396](https://github.com/flutter/flutter/pull/175396) merged on September 18, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/175396) over 1 day, 412 additions and 428 deletions in 24 files</sub>
