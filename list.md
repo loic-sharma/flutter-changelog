@@ -700,11 +700,15 @@
 
 ### September 13, 2025 to September 19, 2025
 
-9 commits.
+10 commits.
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Use rules.md from Flutter SDK
   <sub>[#12443](https://github.com/flutter/website/pull/12443) merged on September 18, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12443) over 2 hours, 13 additions and 321 deletions in 2 files</sub>
   <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add Flutter 3.35 merged threads migration annoucement
+  <sub>[#12440](https://github.com/flutter/website/pull/12440) merged on September 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12440) over 23 hours, 54 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Android setup in Android Studio instructions
   <sub>[#12433](https://github.com/flutter/website/pull/12433) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12433) over 50 minutes, 34 additions and 46 deletions in 1 file</sub>
