@@ -143,9 +143,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y] TimePicker clock is unnecessarily announced<br />
   <sub>[#175570](https://github.com/flutter/flutter/pull/175570) opened on on September 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175570) 21 additions and 45 deletions in 2 files</sub><br />
 
-* **[kira-offgrid](https://github.com/kira-offgrid)** &mdash; Fix: GitHub Actions Workflow Vulnerable to Code Injection Attacks in .github/actions/composite-flutter-setup/action.yml<br />
-  <sub>[#175572](https://github.com/flutter/flutter/pull/175572) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175572) 13 additions and 2 deletions in 1 file</sub><br />
-
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README<br />
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
 
