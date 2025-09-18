@@ -147,5 +147,5 @@
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; fix(impeller): fix params to glDiscardFrameBufferEXT<br />
-  <sub>[#175589](https://github.com/flutter/flutter/pull/175589) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175589) 5 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#175589](https://github.com/flutter/flutter/pull/175589) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175589) 7 additions and 3 deletions in 1 file</sub><br />
 
