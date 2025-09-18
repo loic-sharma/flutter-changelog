@@ -140,3 +140,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: migrate fade upwards page transition builder to widgets<br />
   <sub>[#175560](https://github.com/flutter/flutter/pull/175560) opened on on September 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175560) 136 additions and 137 deletions in 5 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y] TimePicker clock is unnecessarily announced<br />
+  <sub>[#175570](https://github.com/flutter/flutter/pull/175570) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175570) 23 additions and 45 deletions in 2 files</sub><br />
+
