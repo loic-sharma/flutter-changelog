@@ -122,9 +122,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] Add isA11yFocusable flag<br />
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175551) 66 additions and 1 deletion in 9 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(tool): Use merge-base for content hash in detached HEAD<br />
-  <sub>[#175554](https://github.com/flutter/flutter/pull/175554) opened on on September 17, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/175554) 21 additions and 2 deletions in 3 files</sub><br />
-
 * **[Sunshineツ](https://github.com/LauYewHang)** &mdash; Add new properties to DropdownMenu that allows padding customization for its leadingIcon and trailingIcon<br />
   <sub>[#175558](https://github.com/flutter/flutter/pull/175558) opened on on September 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175558) 258 additions and 4 deletions in 3 files</sub><br />
 
