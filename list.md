@@ -536,7 +536,11 @@
 
 ### September 13, 2025 to September 19, 2025
 
-7 commits.
+8 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Fix iOS sever auth codes
+  <sub>[#10021](https://github.com/flutter/packages/pull/10021) merged on September 18, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/10021) over 2 days, 355 additions and 48 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add a method to clear auth tokens
   <sub>[#9846](https://github.com/flutter/packages/pull/9846) merged on September 17, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9846) over 1 month, 75 additions and 18 deletions in 7 files</sub>
