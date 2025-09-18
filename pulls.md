@@ -62,12 +62,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace `onPop` usage with `onPopWithResult` in `navigation_bar.2.dart `<br />
   <sub>[#174841](https://github.com/flutter/flutter/pull/174841) opened on on September 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174841) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DropdownButtonFormField doesn't crash in 0x0 environ…<br />
-  <sub>[#174958](https://github.com/flutter/flutter/pull/174958) opened on on September 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174958) 20 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ElevatedButton doesn't crash in 0x0 environment<br />
-  <sub>[#175006](https://github.com/flutter/flutter/pull/175006) opened on on September 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175006) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Add my name to AUTHORS.<br />
   <sub>[#175024](https://github.com/flutter/flutter/pull/175024) opened on on September 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175024) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -80,35 +74,17 @@
 * **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ScrollAwareImageProvider<br />
   <sub>[#175038](https://github.com/flutter/flutter/pull/175038) opened on on September 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175038) 86 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ExpandIcon doesn't crash in 0x0 envrionment<br />
-  <sub>[#175042](https://github.com/flutter/flutter/pull/175042) opened on on September 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175042) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
   <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FilledButton doesn't crash in 0x0 environment<br />
-  <sub>[#175110](https://github.com/flutter/flutter/pull/175110) opened on on September 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175110) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS` (for dev-tooling)<br />
   <sub>[#175201](https://github.com/flutter/flutter/pull/175201) opened on on September 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175201) 2 additions and 13 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlexibleSpaceBar doesn't crash in 0x0 environment<br />
-  <sub>[#175228](https://github.com/flutter/flutter/pull/175228) opened on on September 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175228) 15 additions and 0 deletions in 1 file</sub><br />
-
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175256) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FloatingActionButton doesn't crash in 0x0 environment<br />
-  <sub>[#175272](https://github.com/flutter/flutter/pull/175272) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175272) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; 170476 test<br />
   <sub>[#175289](https://github.com/flutter/flutter/pull/175289) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175289) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that GridTile and GridTileBar don't crash in 0x0 environment<br />
-  <sub>[#175321](https://github.com/flutter/flutter/pull/175321) opened on on September 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175321) 17 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an IconButton doesn't crash in 0x0 environment<br />
-  <sub>[#175372](https://github.com/flutter/flutter/pull/175372) opened on on September 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175372) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.<br />
   <sub>[#175376](https://github.com/flutter/flutter/pull/175376) opened on on September 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175376) 58 additions and 2 deletions in 6 files</sub><br />
@@ -118,9 +94,6 @@
 
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine][fuchsia] Update to Fuchsia API level 28 and roll latest GN SDK<br />
   <sub>[#175425](https://github.com/flutter/flutter/pull/175425) opened on on September 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175425) 40 additions and 35 deletions in 7 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkResponse doesn't crash in 0x0 environment<br />
-  <sub>[#175426](https://github.com/flutter/flutter/pull/175426) opened on on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175426) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Adds Impellerc flatbuffer format versioning.  Fixes #172899<br />
   <sub>[#175470](https://github.com/flutter/flutter/pull/175470) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175470) 67 additions and 2 deletions in 10 files</sub><br />
