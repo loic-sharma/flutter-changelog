@@ -155,6 +155,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't update filtered preview set when selecting non-source files<br />
   <sub>[#175596](https://github.com/flutter/flutter/pull/175596) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175596) 68 additions and 46 deletions in 4 files</sub><br />
 
-* **[Hassnaa Mohamed](https://github.com/Hassnaa9)** &mdash; Update setting engine link<br />
-  <sub>[#175603](https://github.com/flutter/flutter/pull/175603) opened on on September 18, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/175603) 5271 additions and 1368 deletions in 100 files</sub><br />
-
