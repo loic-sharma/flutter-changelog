@@ -170,3 +170,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(tool): Use merge-base for content hash in detached HEAD<br />
   <sub>[#175554](https://github.com/flutter/flutter/pull/175554) opened on on September 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175554) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Sunshineツ](https://github.com/LauYewHang)** &mdash; Add new properties to DropdownMenu that allows padding customization for its leadingIcon and trailingIcon<br />
+  <sub>[#175558](https://github.com/flutter/flutter/pull/175558) opened on on September 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175558) 258 additions and 4 deletions in 3 files</sub><br />
+
