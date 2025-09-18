@@ -110,9 +110,6 @@
 * **[Shiv Shankar Tiwari](https://github.com/pythonsst)** &mdash; tool(ios): clarify code signing failure with actionable Xcode steps<br />
   <sub>[#175483](https://github.com/flutter/flutter/pull/175483) opened on on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175483) 41 additions and 5 deletions in 4 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary public modifier in `KeyboardManager.java`<br />
-  <sub>[#175500](https://github.com/flutter/flutter/pull/175500) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175500) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[alexskobozev](https://github.com/alexskobozev)** &mdash; Fix deprecated configureStatusBarForFullscreenFlutterExperience for Android 15+<br />
   <sub>[#175501](https://github.com/flutter/flutter/pull/175501) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175501) 8 additions and 5 deletions in 1 file</sub><br />
 
@@ -121,9 +118,6 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `KeyData.java` to use safer code <br />
   <sub>[#175509](https://github.com/flutter/flutter/pull/175509) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175509) 6 additions and 14 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `KeyChannelResponder.java`  to use lambda expression<br />
-  <sub>[#175510](https://github.com/flutter/flutter/pull/175510) opened on on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175510) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form<br />
   <sub>[#175515](https://github.com/flutter/flutter/pull/175515) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175515) 122 additions and 11 deletions in 3 files</sub><br />
@@ -142,9 +136,6 @@
 
 * **[Dipen Pradhan](https://github.com/dipenpradhan)** &mdash; Make Impeller geometry methods constexpr<br />
   <sub>[#175559](https://github.com/flutter/flutter/pull/175559) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175559) 14 additions and 3 deletions in 1 file</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: migrate fade upwards page transition builder to widgets<br />
-  <sub>[#175560](https://github.com/flutter/flutter/pull/175560) opened on on September 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175560) 136 additions and 137 deletions in 5 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y] TimePicker clock is unnecessarily announced<br />
   <sub>[#175570](https://github.com/flutter/flutter/pull/175570) opened on on September 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175570) 21 additions and 45 deletions in 2 files</sub><br />
