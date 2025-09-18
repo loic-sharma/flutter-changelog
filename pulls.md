@@ -147,5 +147,5 @@
   <sub>[#175572](https://github.com/flutter/flutter/pull/175572) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175572) 13 additions and 2 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Simplify `if-else` block into single `return` statement<br />
-  <sub>[#175574](https://github.com/flutter/flutter/pull/175574) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175574) 7 additions and 28 deletions in 2 files</sub><br />
+  <sub>[#175574](https://github.com/flutter/flutter/pull/175574) opened on on September 18, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175574) 7 additions and 28 deletions in 2 files</sub><br />
 
