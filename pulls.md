@@ -137,9 +137,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; fix(impeller): fix params to glDiscardFrameBufferEXT<br />
   <sub>[#175589](https://github.com/flutter/flutter/pull/175589) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175589) 7 additions and 3 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Made the view controller weak for the accessibility bridge.<br />
-  <sub>[#175595](https://github.com/flutter/flutter/pull/175595) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175595) 36 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't update filtered preview set when selecting non-source files<br />
   <sub>[#175596](https://github.com/flutter/flutter/pull/175596) opened on on September 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175596) 68 additions and 46 deletions in 4 files</sub><br />
 
