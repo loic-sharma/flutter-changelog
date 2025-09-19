@@ -149,3 +149,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix VoiceOver does not announce state of ButtonSegment<br />
   <sub>[#175635](https://github.com/flutter/flutter/pull/175635) opened on on September 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175635) 66 additions and 10 deletions in 2 files</sub><br />
 
+* **[Hassnaa Mohamed](https://github.com/Hassnaa9)** &mdash;  Update broken link in engine README<br />
+  <sub>[#175652](https://github.com/flutter/flutter/pull/175652) opened on on September 19, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/175652) 5272 additions and 1368 deletions in 100 files</sub><br />
+
