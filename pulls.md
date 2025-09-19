@@ -152,3 +152,6 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup SliverEnsureSemantics support<br />
   <sub>[#175671](https://github.com/flutter/flutter/pull/175671) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175671) 36 additions and 1 deletion in 2 files</sub><br />
 
+* **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Add google_fonts to team-framework triage guidelines<br />
+  <sub>[#175675](https://github.com/flutter/flutter/pull/175675) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175675) 1 addition and 0 deletions in 1 file</sub><br />
+
