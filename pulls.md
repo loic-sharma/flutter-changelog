@@ -146,3 +146,6 @@
 * **[Hassnaa Mohamed](https://github.com/Hassnaa9)** &mdash;  Update broken link in engine README<br />
   <sub>[#175652](https://github.com/flutter/flutter/pull/175652) opened on on September 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175652) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode cache errors<br />
+  <sub>[#175659](https://github.com/flutter/flutter/pull/175659) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175659) 32 additions and 1 deletion in 3 files</sub><br />
+
