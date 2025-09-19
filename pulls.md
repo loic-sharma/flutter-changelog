@@ -74,9 +74,6 @@
 * **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
   <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS` (for dev-tooling)<br />
-  <sub>[#175201](https://github.com/flutter/flutter/pull/175201) opened on on September 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175201) 2 additions and 13 deletions in 1 file</sub><br />
-
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; 170476 test<br />
   <sub>[#175289](https://github.com/flutter/flutter/pull/175289) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175289) 2 additions and 0 deletions in 1 file</sub><br />
 
