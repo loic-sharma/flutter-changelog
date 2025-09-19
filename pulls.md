@@ -74,9 +74,6 @@
 * **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
   <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix `Select All` button behavior on iOS System Context Menu<br />
-  <sub>[#175091](https://github.com/flutter/flutter/pull/175091) opened on on September 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175091) 172 additions and 11 deletions in 6 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS` (for dev-tooling)<br />
   <sub>[#175201](https://github.com/flutter/flutter/pull/175201) opened on on September 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175201) 2 additions and 13 deletions in 1 file</sub><br />
 
@@ -142,4 +139,7 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `name` field form `SupportedPlatform` enum<br />
   <sub>[#175611](https://github.com/flutter/flutter/pull/175611) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175611) 8 additions and 12 deletions in 1 file</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update `SelectableRegion` docs around `RichText`<br />
+  <sub>[#175632](https://github.com/flutter/flutter/pull/175632) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175632) 23 additions and 7 deletions in 2 files</sub><br />
 
