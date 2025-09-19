@@ -77,9 +77,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `CODEOWNERS` (for dev-tooling)<br />
   <sub>[#175201](https://github.com/flutter/flutter/pull/175201) opened on on September 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175201) 2 additions and 13 deletions in 1 file</sub><br />
 
-* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
-  <sub>[#175256](https://github.com/flutter/flutter/pull/175256) opened on on September 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175256) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; 170476 test<br />
   <sub>[#175289](https://github.com/flutter/flutter/pull/175289) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175289) 2 additions and 0 deletions in 1 file</sub><br />
 
