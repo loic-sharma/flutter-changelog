@@ -131,9 +131,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; fix(impeller): fix params to glDiscardFrameBufferEXT<br />
   <sub>[#175589](https://github.com/flutter/flutter/pull/175589) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175589) 7 additions and 3 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't update filtered preview set when selecting non-source files<br />
-  <sub>[#175596](https://github.com/flutter/flutter/pull/175596) opened on on September 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175596) 68 additions and 46 deletions in 4 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `name` field form `SupportedPlatform` enum<br />
   <sub>[#175611](https://github.com/flutter/flutter/pull/175611) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175611) 8 additions and 12 deletions in 1 file</sub><br />
 
