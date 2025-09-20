@@ -110,6 +110,9 @@
 * **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form<br />
   <sub>[#175515](https://github.com/flutter/flutter/pull/175515) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175515) 122 additions and 11 deletions in 3 files</sub><br />
 
+* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Update maximum known Gradle version to 9.1.0<br />
+  <sub>[#175543](https://github.com/flutter/flutter/pull/175543) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175543) 25 additions and 13 deletions in 3 files</sub><br />
+
 * **[ash2moon](https://github.com/ash2moon)** &mdash; bump robolectric and java to 21<br />
   <sub>[#175550](https://github.com/flutter/flutter/pull/175550) opened on on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175550) 7 additions and 4 deletions in 5 files</sub><br />
 
