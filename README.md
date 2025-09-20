@@ -593,7 +593,7 @@
 
 ### September 13, 2025 to September 19, 2025
 
-8 commits.
+9 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Fix iOS sever auth codes<br />
   <sub>[#10021](https://github.com/flutter/packages/pull/10021) merged on September 18, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/10021) over 2 days, 355 additions and 48 deletions in 5 files</sub><br />
@@ -614,6 +614,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Fix example on iOS<br />
   <sub>[#10015](https://github.com/flutter/packages/pull/10015) merged on September 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10015) over 3 hours, 10 additions and 2 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix broken links in readme<br />
+  <sub>[#9979](https://github.com/flutter/packages/pull/9979) merged on September 20, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/9979) over 1 week, 11 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Implement clearAuthorizationToken<br />
   <sub>[#10024](https://github.com/flutter/packages/pull/10024) merged on September 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10024) over 2 hours, 204 additions and 20 deletions in 26 files</sub><br />
