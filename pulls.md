@@ -155,9 +155,6 @@
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Add google_fonts to team-framework triage guidelines<br />
   <sub>[#175675](https://github.com/flutter/flutter/pull/175675) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175675) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Michael4449](https://github.com/Michael4449)** &mdash; *README.md<br />
-  <sub>[#175701](https://github.com/flutter/flutter/pull/175701) opened on on September 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175701) 0 additions and 0 deletions in 1 file</sub><br />
-
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175706) 13 additions and 4 deletions in 1 file</sub><br />
 
