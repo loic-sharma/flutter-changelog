@@ -162,5 +162,8 @@
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175706) 13 additions and 4 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: cupertino sheet broken example with programatic pop<br />
-  <sub>[#175709](https://github.com/flutter/flutter/pull/175709) opened on on September 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175709) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#175709](https://github.com/flutter/flutter/pull/175709) opened on on September 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175709) 15 additions and 1 deletion in 2 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add infinite carousel support<br />
+  <sub>[#175710](https://github.com/flutter/flutter/pull/175710) opened on on September 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175710) 176 additions and 19 deletions in 2 files</sub><br />
 
