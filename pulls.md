@@ -101,12 +101,6 @@
 * **[alexskobozev](https://github.com/alexskobozev)** &mdash; Fix deprecated configureStatusBarForFullscreenFlutterExperience for Android 15+<br />
   <sub>[#175501](https://github.com/flutter/flutter/pull/175501) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175501) 8 additions and 5 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `KeyboardManager.java`<br />
-  <sub>[#175502](https://github.com/flutter/flutter/pull/175502) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175502) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `KeyData.java` to use safer code <br />
-  <sub>[#175509](https://github.com/flutter/flutter/pull/175509) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175509) 6 additions and 14 deletions in 1 file</sub><br />
-
 * **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form<br />
   <sub>[#175515](https://github.com/flutter/flutter/pull/175515) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175515) 122 additions and 11 deletions in 3 files</sub><br />
 
