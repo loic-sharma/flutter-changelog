@@ -122,9 +122,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; fix(impeller): fix params to glDiscardFrameBufferEXT<br />
   <sub>[#175589](https://github.com/flutter/flutter/pull/175589) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175589) 7 additions and 3 deletions in 1 file</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update `SelectableRegion` docs around `RichText`<br />
-  <sub>[#175632](https://github.com/flutter/flutter/pull/175632) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175632) 23 additions and 7 deletions in 2 files</sub><br />
-
 * **[Huy](https://github.com/huycozy)** &mdash; Fix VoiceOver does not announce state of ButtonSegment<br />
   <sub>[#175635](https://github.com/flutter/flutter/pull/175635) opened on on September 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175635) 66 additions and 10 deletions in 2 files</sub><br />
 
