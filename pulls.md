@@ -65,9 +65,6 @@
 * **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ScrollAwareImageProvider<br />
   <sub>[#175038](https://github.com/flutter/flutter/pull/175038) opened on on September 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175038) 86 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
-  <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
-
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.<br />
   <sub>[#175376](https://github.com/flutter/flutter/pull/175376) opened on on September 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175376) 58 additions and 2 deletions in 6 files</sub><br />
 
@@ -190,7 +187,4 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes SemanticsFlags.isLink mis-translated in dart ui ffi<br />
   <sub>[#175812](https://github.com/flutter/flutter/pull/175812) opened on on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175812) 99 additions and 2 deletions in 4 files</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Replace '\ ' with ' '<br />
-  <sub>[#175815](https://github.com/flutter/flutter/pull/175815) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175815) 37 additions and 1 deletion in 2 files</sub><br />
 
