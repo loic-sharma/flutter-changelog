@@ -164,3 +164,6 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup.cacheOrigin<br />
   <sub>[#175760](https://github.com/flutter/flutter/pull/175760) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175760) 51 additions and 5 deletions in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix filter by file on Windows<br />
+  <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175783) 136 additions and 99 deletions in 3 files</sub><br />
+
