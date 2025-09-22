@@ -4,7 +4,12 @@
 
 ### September 20, 2025 to September 26, 2025
 
-1 commits.
+2 commits.
+
+* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider
+  <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Valentin Vignal](https://github.com/ValentinVignal)</sub>
+  <sub><details><summary>2 images...</summary><img width="800" alt="image" src="https://github.com/user-attachments/assets/49fc46fe-bbaa-4b09-b9ee-353b80958bf4" /><img width="800" alt="image" src="https://github.com/user-attachments/assets/07425ed6-031c-4853-a646-17a7c8ae7499" /></details></sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash;  Roll Packages from 3d5c4196d9c8 to 45c9a843859f
   <sub>[#175794](https://github.com/flutter/flutter/pull/175794) merged on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175794) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
