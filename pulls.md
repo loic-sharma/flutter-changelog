@@ -164,6 +164,3 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup.cacheOrigin<br />
   <sub>[#175760](https://github.com/flutter/flutter/pull/175760) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175760) 51 additions and 5 deletions in 2 files</sub><br />
 
-* **[ParkJuneWoo](https://github.com/korca0220)** &mdash; Add non uniform TableBorder<br />
-  <sub>[#175773](https://github.com/flutter/flutter/pull/175773) opened on on September 22, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/175773) 368 additions and 85 deletions in 5 files</sub><br />
-
