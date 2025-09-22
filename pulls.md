@@ -158,8 +158,17 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix small typo in test docs<br />
   <sub>[#175776](https://github.com/flutter/flutter/pull/175776) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175776) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `FlutterInjectorTest` to use lambdas/method reference<br />
+  <sub>[#175777](https://github.com/flutter/flutter/pull/175777) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175777) 5 additions and 11 deletions in 1 file</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter issues in `VsyncWaiterTest`<br />
+  <sub>[#175780](https://github.com/flutter/flutter/pull/175780) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175780) 3 additions and 3 deletions in 1 file</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix filter by file on Windows<br />
   <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175783) 136 additions and 99 deletions in 3 files</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify/fix ordering of asserts in `TextInputPluginTest`<br />
+  <sub>[#175784](https://github.com/flutter/flutter/pull/175784) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175784) 32 additions and 35 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in tests `README`<br />
   <sub>[#175788](https://github.com/flutter/flutter/pull/175788) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175788) 1 addition and 1 deletion in 1 file</sub><br />
@@ -168,5 +177,5 @@
   <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update AGP/Java/Gradle comparison when using analyze --suggestions<br />
-  <sub>[#175808](https://github.com/flutter/flutter/pull/175808) opened on on September 22, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/175808) 320 additions and 178 deletions in 3 files</sub><br />
+  <sub>[#175808](https://github.com/flutter/flutter/pull/175808) opened on on September 22, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/175808) 318 additions and 178 deletions in 3 files</sub><br />
 
