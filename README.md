@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 20, 2025 to September 26, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash;  Roll Packages from 3d5c4196d9c8 to 45c9a843859f<br />
+  <sub>[#175794](https://github.com/flutter/flutter/pull/175794) merged on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175794) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 ### September 13, 2025 to September 19, 2025
 
-68 commits.
+<details>
+<summary>68 commits...</summary>
 
 * **[Erick](https://github.com/erickzanardo)** &mdash; feat: Enable WidgetStateColor to be used in ChipThemeData.deleteIconColor<br />
   <sub>[#171646](https://github.com/flutter/flutter/pull/171646) merged on September 17, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/171646) over 2 months, 50 additions and 7 deletions in 2 files</sub><br />
@@ -286,6 +295,8 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove unused `sceneHost` property<br />
   <sub>[#174997](https://github.com/flutter/flutter/pull/174997) merged on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174997) over 1 week, 0 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+</details>
 
 ### September 6, 2025 to September 12, 2025
 
