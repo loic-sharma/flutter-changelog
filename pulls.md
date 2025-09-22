@@ -150,7 +150,7 @@
   <sub>[#175675](https://github.com/flutter/flutter/pull/175675) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175675) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
-  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175706) 13 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175706) 13 additions and 4 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: cupertino sheet broken example with programatic pop<br />
   <sub>[#175709](https://github.com/flutter/flutter/pull/175709) opened on on September 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175709) 15 additions and 1 deletion in 2 files</sub><br />
@@ -163,4 +163,7 @@
 
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; [native_assets] create macOS CCompilerConfig via xcrun --find<br />
   <sub>[#175717](https://github.com/flutter/flutter/pull/175717) opened on on September 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175717) 57 additions and 21 deletions in 2 files</sub><br />
+
+* **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
+  <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
 
