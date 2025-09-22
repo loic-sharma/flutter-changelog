@@ -165,5 +165,5 @@
   <sub>[#175717](https://github.com/flutter/flutter/pull/175717) opened on on September 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175717) 57 additions and 21 deletions in 2 files</sub><br />
 
 * **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
-  <sub>[#175745](https://github.com/flutter/flutter/pull/175745) opened on on September 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175745) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#175747](https://github.com/flutter/flutter/pull/175747) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175747) 1 addition and 1 deletion in 1 file</sub><br />
 
