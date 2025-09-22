@@ -381,9 +381,18 @@
 
 ## flutter/packages
 
+### September 20, 2025 to September 26, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Update web test for google_maps change
+  <sub>[#10055](https://github.com/flutter/packages/pull/10055) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10055) over 41 minutes, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 ### September 13, 2025 to September 19, 2025
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Fix iOS sever auth codes
   <sub>[#10021](https://github.com/flutter/packages/pull/10021) merged on September 18, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/10021) over 2 days, 355 additions and 48 deletions in 5 files</sub>
@@ -420,6 +429,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from a402d9a4376a to d693b4b9dbac (6 revisions)
   <sub>[#10026](https://github.com/flutter/packages/pull/10026) merged on September 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10026) over 50 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### September 6, 2025 to September 12, 2025
 
