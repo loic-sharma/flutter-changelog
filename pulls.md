@@ -195,5 +195,5 @@
   <sub>[#175812](https://github.com/flutter/flutter/pull/175812) opened on on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175812) 99 additions and 2 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Replace '\ ' with ' '<br />
-  <sub>[#175815](https://github.com/flutter/flutter/pull/175815) opened on on September 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175815) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#175815](https://github.com/flutter/flutter/pull/175815) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175815) 37 additions and 1 deletion in 2 files</sub><br />
 
