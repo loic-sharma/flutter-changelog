@@ -159,5 +159,5 @@
   <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175783) 136 additions and 99 deletions in 3 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Document how to hide counter in TextField.maxLength<br />
-  <sub>[#175797](https://github.com/flutter/flutter/pull/175797) opened on on September 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175797) 4 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#175797](https://github.com/flutter/flutter/pull/175797) opened on on September 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175797) 1 addition and 0 deletions in 1 file</sub><br />
 
