@@ -456,11 +456,19 @@
 
 ### September 20, 2025 to September 26, 2025
 
-1 commits.
+3 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove and simplify more usages of Liquid<br />
   <sub>[#12451](https://github.com/flutter/website/pull/12451) merged on September 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12451) over 16 minutes, 230 additions and 362 deletions in 28 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pnpm as well as npm dependencies<br />
+  <sub>[#12452](https://github.com/flutter/website/pull/12452) merged on September 22, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12452) over 11 hours, 171 additions and 171 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Clarify Dart VM terminology in hot-reload documentation<br />
+  <sub>[#12445](https://github.com/flutter/website/pull/12445) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12445) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 ### September 13, 2025 to September 19, 2025
 

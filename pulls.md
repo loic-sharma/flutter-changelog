@@ -18,13 +18,13 @@
   <sub>[#173155](https://github.com/flutter/flutter/pull/173155) opened on on August 2, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/173155) 361 additions and 259 deletions in 7 files</sub><br />
 
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
-  <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
-  <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173570) 201 additions and 54 deletions in 4 files</sub><br />
+  <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173570) 201 additions and 54 deletions in 4 files</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; Add glob syntax to proxy<br />
-  <sub>[#173591](https://github.com/flutter/flutter/pull/173591) opened on on August 11, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173591) 253 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#173591](https://github.com/flutter/flutter/pull/173591) opened on on August 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173591) 253 additions and 2 deletions in 2 files</sub><br />
 
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
@@ -104,9 +104,6 @@
 * **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form<br />
   <sub>[#175515](https://github.com/flutter/flutter/pull/175515) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175515) 122 additions and 11 deletions in 3 files</sub><br />
 
-* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Update maximum known Gradle version to 9.1.0<br />
-  <sub>[#175543](https://github.com/flutter/flutter/pull/175543) opened on on September 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175543) 25 additions and 13 deletions in 3 files</sub><br />
-
 * **[ash2moon](https://github.com/ash2moon)** &mdash; bump robolectric and java to 21<br />
   <sub>[#175550](https://github.com/flutter/flutter/pull/175550) opened on on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175550) 7 additions and 4 deletions in 5 files</sub><br />
 
@@ -124,9 +121,6 @@
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; fix(impeller): fix params to glDiscardFrameBufferEXT<br />
   <sub>[#175589](https://github.com/flutter/flutter/pull/175589) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175589) 7 additions and 3 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `name` field form `SupportedPlatform` enum<br />
-  <sub>[#175611](https://github.com/flutter/flutter/pull/175611) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175611) 8 additions and 12 deletions in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Update `SelectableRegion` docs around `RichText`<br />
   <sub>[#175632](https://github.com/flutter/flutter/pull/175632) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175632) 23 additions and 7 deletions in 2 files</sub><br />
