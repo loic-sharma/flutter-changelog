@@ -99,7 +99,7 @@
   <sub>[#175550](https://github.com/flutter/flutter/pull/175550) opened on on September 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175550) 7 additions and 4 deletions in 5 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] Add isA11yFocusable flag<br />
-  <sub>[#175551](https://github.com/flutter/flutter/pull/175551) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175551) 66 additions and 1 deletion in 9 files</sub><br />
+  <sub>[#175551](https://github.com/flutter/flutter/pull/175551) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175551) 99 additions and 1 deletion in 13 files</sub><br />
 
 * **[Sunshineツ](https://github.com/LauYewHang)** &mdash; Add new properties to DropdownMenu that allows padding customization for its leadingIcon and trailingIcon<br />
   <sub>[#175558](https://github.com/flutter/flutter/pull/175558) opened on on September 18, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/175558) 272 additions and 3 deletions in 3 files</sub><br />
