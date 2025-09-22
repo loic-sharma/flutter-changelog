@@ -21,10 +21,10 @@
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; add headers to proxy rules<br />
-  <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173570) 201 additions and 54 deletions in 4 files</sub><br />
+  <sub>[#173570](https://github.com/flutter/flutter/pull/173570) opened on on August 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173570) 201 additions and 54 deletions in 4 files</sub><br />
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; Add glob syntax to proxy<br />
-  <sub>[#173591](https://github.com/flutter/flutter/pull/173591) opened on on August 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173591) 253 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#173591](https://github.com/flutter/flutter/pull/173591) opened on on August 11, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173591) 253 additions and 2 deletions in 2 files</sub><br />
 
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
@@ -42,7 +42,7 @@
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174253) 29 additions and 4 deletions in 2 files</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
-  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174374) 139 additions and 48 deletions in 2 files</sub><br />
+  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174374) 139 additions and 48 deletions in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Remove dead code from snippet_generator<br />
   <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
@@ -73,9 +73,6 @@
 
 * **[Jiangrui Zheng](https://github.com/jiangrui-zheng)** &mdash; Adds radio group widget r2<br />
   <sub>[#175075](https://github.com/flutter/flutter/pull/175075) opened on on September 8, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/175075) 1784 additions and 742 deletions in 38 files</sub><br />
-
-* **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; 170476 test<br />
-  <sub>[#175289](https://github.com/flutter/flutter/pull/175289) opened on on September 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175289) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.<br />
   <sub>[#175376](https://github.com/flutter/flutter/pull/175376) opened on on September 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175376) 58 additions and 2 deletions in 6 files</sub><br />
@@ -129,7 +126,7 @@
   <sub>[#175652](https://github.com/flutter/flutter/pull/175652) opened on on September 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175652) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode cache errors<br />
-  <sub>[#175659](https://github.com/flutter/flutter/pull/175659) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175659) 160 additions and 6 deletions in 10 files</sub><br />
+  <sub>[#175659](https://github.com/flutter/flutter/pull/175659) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175659) 165 additions and 6 deletions in 11 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
   <sub>[#175664](https://github.com/flutter/flutter/pull/175664) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175664) 96 additions and 45 deletions in 2 files</sub><br />
@@ -141,7 +138,7 @@
   <sub>[#175675](https://github.com/flutter/flutter/pull/175675) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175675) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
-  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175706) 13 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175706) 13 additions and 4 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: cupertino sheet broken example with programatic pop<br />
   <sub>[#175709](https://github.com/flutter/flutter/pull/175709) opened on on September 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175709) 15 additions and 1 deletion in 2 files</sub><br />
@@ -163,4 +160,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix filter by file on Windows<br />
   <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175783) 136 additions and 99 deletions in 3 files</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Document how to hide counter in TextField.maxLength<br />
+  <sub>[#175797](https://github.com/flutter/flutter/pull/175797) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175797) 4 additions and 3 deletions in 1 file</sub><br />
 
