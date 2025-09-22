@@ -478,11 +478,15 @@
 
 ### September 20, 2025 to September 26, 2025
 
-4 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove and simplify more usages of Liquid
   <sub>[#12451](https://github.com/flutter/website/pull/12451) merged on September 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12451) over 16 minutes, 230 additions and 362 deletions in 28 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Fix link to Custom Flutter Engine Embedders documentation.
+  <sub>[#12457](https://github.com/flutter/website/pull/12457) merged on September 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12457) over 23 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pnpm as well as npm dependencies
   <sub>[#12452](https://github.com/flutter/website/pull/12452) merged on September 22, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12452) over 11 hours, 171 additions and 171 deletions in 2 files</sub>

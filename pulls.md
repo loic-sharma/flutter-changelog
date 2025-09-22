@@ -167,3 +167,6 @@
 * **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define option for runtime variable    injection in Flutter web templates<br />
   <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update AGP/Java/Gradle comparison when using analyze --suggestions<br />
+  <sub>[#175808](https://github.com/flutter/flutter/pull/175808) opened on on September 22, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/175808) 320 additions and 178 deletions in 3 files</sub><br />
+
