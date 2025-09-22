@@ -478,10 +478,14 @@
 
 ### September 20, 2025 to September 26, 2025
 
-5 commits.
+6 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove and simplify more usages of Liquid<br />
   <sub>[#12451](https://github.com/flutter/website/pull/12451) merged on September 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12451) over 16 minutes, 230 additions and 362 deletions in 28 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add back website-reviewers team as fallback codeowner<br />
+  <sub>[#12456](https://github.com/flutter/website/pull/12456) merged on September 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12456) over 1 hour, 3 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Fix link to Custom Flutter Engine Embedders documentation.<br />

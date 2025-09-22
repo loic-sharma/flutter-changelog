@@ -149,6 +149,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `assertNull` to simplify code<br />
   <sub>[#175720](https://github.com/flutter/flutter/pull/175720) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175720) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean up code in `PlatformViewsControllerTest.java`<br />
+  <sub>[#175725](https://github.com/flutter/flutter/pull/175725) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175725) 5 additions and 9 deletions in 1 file</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify test asserts and use lambdas <br />
   <sub>[#175727](https://github.com/flutter/flutter/pull/175727) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175727) 7 additions and 14 deletions in 1 file</sub><br />
 
