@@ -126,7 +126,7 @@
   <sub>[#175652](https://github.com/flutter/flutter/pull/175652) opened on on September 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175652) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode cache errors<br />
-  <sub>[#175659](https://github.com/flutter/flutter/pull/175659) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175659) 163 additions and 6 deletions in 11 files</sub><br />
+  <sub>[#175659](https://github.com/flutter/flutter/pull/175659) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175659) 166 additions and 6 deletions in 12 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
   <sub>[#175664](https://github.com/flutter/flutter/pull/175664) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175664) 96 additions and 45 deletions in 2 files</sub><br />
@@ -155,6 +155,15 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup.cacheOrigin<br />
   <sub>[#175760](https://github.com/flutter/flutter/pull/175760) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175760) 51 additions and 5 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix small typo in test docs<br />
+  <sub>[#175776](https://github.com/flutter/flutter/pull/175776) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175776) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix filter by file on Windows<br />
-  <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175783) 136 additions and 99 deletions in 3 files</sub><br />
+  <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175783) 136 additions and 99 deletions in 3 files</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in tests `README`<br />
+  <sub>[#175788](https://github.com/flutter/flutter/pull/175788) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175788) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Refactor `OverlayPortal` semantics<br />
+  <sub>[#175799](https://github.com/flutter/flutter/pull/175799) opened on on September 22, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/175799) 1106 additions and 492 deletions in 34 files</sub><br />
 
