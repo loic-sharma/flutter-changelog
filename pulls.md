@@ -38,9 +38,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; Load fonts in the order addFont is called<br />
-  <sub>[#174253](https://github.com/flutter/flutter/pull/174253) opened on on August 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174253) 29 additions and 4 deletions in 2 files</sub><br />
-
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
   <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174374) 139 additions and 48 deletions in 2 files</sub><br />
 
@@ -55,9 +52,6 @@
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; feat(widgets): add semanticIndexOffset to SliverList/SliverGrid/Fixed/Varied builder constructors + tests<br />
   <sub>[#174815](https://github.com/flutter/flutter/pull/174815) opened on on September 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174815) 104 additions and 0 deletions in 3 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace `onPop` usage with `onPopWithResult` in `navigation_bar.2.dart `<br />
-  <sub>[#174841](https://github.com/flutter/flutter/pull/174841) opened on on September 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174841) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Add my name to AUTHORS.<br />
   <sub>[#175024](https://github.com/flutter/flutter/pull/175024) opened on on September 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175024) 1 addition and 0 deletions in 1 file</sub><br />
@@ -148,6 +142,12 @@
 
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; [native_assets] create macOS CCompilerConfig via xcrun --find<br />
   <sub>[#175717](https://github.com/flutter/flutter/pull/175717) opened on on September 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175717) 57 additions and 21 deletions in 2 files</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Change the arguments order in `assertEquals` to fix linter issues<br />
+  <sub>[#175719](https://github.com/flutter/flutter/pull/175719) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175719) 5 additions and 5 deletions in 1 file</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `assertNull` to simplify code<br />
+  <sub>[#175720](https://github.com/flutter/flutter/pull/175720) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175720) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
