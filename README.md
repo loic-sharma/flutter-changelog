@@ -454,9 +454,18 @@
 
 ## flutter/website
 
+### September 20, 2025 to September 26, 2025
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove and simplify more usages of Liquid<br />
+  <sub>[#12451](https://github.com/flutter/website/pull/12451) merged on September 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12451) over 16 minutes, 230 additions and 362 deletions in 28 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### September 13, 2025 to September 19, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Use rules.md from Flutter SDK<br />
   <sub>[#12443](https://github.com/flutter/website/pull/12443) merged on September 18, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/12443) over 2 hours, 13 additions and 321 deletions in 2 files</sub><br />
@@ -497,6 +506,8 @@
 * **[Hassan Ahmed Khan](https://github.com/hassanahmedk)** &mdash; docs: fix wording in React Native reusable component description<br />
   <sub>[#12421](https://github.com/flutter/website/pull/12421) merged on September 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12421) over 4 days, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### September 6, 2025 to September 12, 2025
 
