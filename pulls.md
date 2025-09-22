@@ -164,6 +164,3 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in tests `README`<br />
   <sub>[#175788](https://github.com/flutter/flutter/pull/175788) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175788) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Refactor `OverlayPortal` semantics<br />
-  <sub>[#175799](https://github.com/flutter/flutter/pull/175799) opened on on September 22, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/175799) 1106 additions and 492 deletions in 34 files</sub><br />
-
