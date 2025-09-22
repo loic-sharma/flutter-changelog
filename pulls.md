@@ -164,3 +164,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in tests `README`<br />
   <sub>[#175788](https://github.com/flutter/flutter/pull/175788) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175788) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define option for runtime variable    injection in Flutter web templates<br />
+  <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
+
