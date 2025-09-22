@@ -149,6 +149,15 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `assertNull` to simplify code<br />
   <sub>[#175720](https://github.com/flutter/flutter/pull/175720) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175720) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify test asserts and use lambdas <br />
+  <sub>[#175727](https://github.com/flutter/flutter/pull/175727) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175727) 7 additions and 14 deletions in 1 file</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace curly braces with lambdas in `KeyEventChannelTest`<br />
+  <sub>[#175729](https://github.com/flutter/flutter/pull/175729) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175729) 2 additions and 10 deletions in 1 file</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify asserts in `FlutterMutatorTest`<br />
+  <sub>[#175730](https://github.com/flutter/flutter/pull/175730) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175730) 4 additions and 4 deletions in 1 file</sub><br />
+
 * **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
 
