@@ -167,3 +167,6 @@
 * **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup.cacheOrigin<br />
+  <sub>[#175760](https://github.com/flutter/flutter/pull/175760) opened on on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175760) 47 additions and 6 deletions in 2 files</sub><br />
+
