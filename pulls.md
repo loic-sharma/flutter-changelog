@@ -45,7 +45,7 @@
   <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174491) 127 additions and 2 deletions in 3 files</sub><br />
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; feat(widgets): add semanticIndexOffset to SliverList/SliverGrid/Fixed/Varied builder constructors + tests<br />
-  <sub>[#174815](https://github.com/flutter/flutter/pull/174815) opened on on September 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174815) 104 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#174815](https://github.com/flutter/flutter/pull/174815) opened on on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174815) 104 additions and 0 deletions in 3 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Add my name to AUTHORS.<br />
   <sub>[#175024](https://github.com/flutter/flutter/pull/175024) opened on on September 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175024) 1 addition and 0 deletions in 1 file</sub><br />
@@ -107,9 +107,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
   <sub>[#175664](https://github.com/flutter/flutter/pull/175664) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175664) 96 additions and 45 deletions in 2 files</sub><br />
 
-* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup SliverEnsureSemantics support<br />
-  <sub>[#175671](https://github.com/flutter/flutter/pull/175671) opened on on September 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175671) 61 additions and 3 deletions in 2 files</sub><br />
-
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Add google_fonts to team-framework triage guidelines<br />
   <sub>[#175675](https://github.com/flutter/flutter/pull/175675) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175675) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -124,9 +121,6 @@
 
 * **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup.cacheOrigin<br />
-  <sub>[#175760](https://github.com/flutter/flutter/pull/175760) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175760) 51 additions and 5 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `FlutterInjectorTest` to use lambdas/method reference<br />
   <sub>[#175777](https://github.com/flutter/flutter/pull/175777) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175777) 5 additions and 11 deletions in 1 file</sub><br />

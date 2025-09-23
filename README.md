@@ -485,7 +485,11 @@
 
 ### September 20, 2025 to September 26, 2025
 
-1 commits.
+2 commits.
+
+* **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation<br />
+  <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Update web test for google_maps change<br />
   <sub>[#10055](https://github.com/flutter/packages/pull/10055) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10055) over 41 minutes, 3 additions and 3 deletions in 1 file</sub><br />
