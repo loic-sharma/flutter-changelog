@@ -185,3 +185,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes SemanticsFlags.isLink mis-translated in dart ui ffi<br />
   <sub>[#175812](https://github.com/flutter/flutter/pull/175812) opened on on September 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175812) 99 additions and 2 deletions in 4 files</sub><br />
 
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix error when generating pt_BR localizations<br />
+  <sub>[#175832](https://github.com/flutter/flutter/pull/175832) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175832) 33 additions and 1 deletion in 2 files</sub><br />
+
