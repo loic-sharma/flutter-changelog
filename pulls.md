@@ -159,7 +159,7 @@
   <sub>[#175864](https://github.com/flutter/flutter/pull/175864) opened on on September 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175864) 4 additions and 4 deletions in 4 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine CIPD to use NDK 28rc <br />
-  <sub>[#175870](https://github.com/flutter/flutter/pull/175870) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175870) 2 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#175870](https://github.com/flutter/flutter/pull/175870) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175870) 3 additions and 2 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkWell doesn't crash in 0x0 environment<br />
   <sub>[#175871](https://github.com/flutter/flutter/pull/175871) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175871) 11 additions and 0 deletions in 1 file</sub><br />
