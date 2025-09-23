@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-21 commits.
+20 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -75,10 +75,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in tests `README`<br />
   <sub>[#175788](https://github.com/flutter/flutter/pull/175788) merged on September 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175788) over 22 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Update maximum known Gradle version to 9.1.0<br />
-  <sub>[#175543](https://github.com/flutter/flutter/pull/175543) merged on September 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175543) over 5 days, 25 additions and 13 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Document how to hide counter in TextField.maxLength<br />
   <sub>[#175797](https://github.com/flutter/flutter/pull/175797) merged on September 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175797) over 13 hours, 2 additions and 0 deletions in 1 file</sub><br />
@@ -491,13 +487,13 @@
 <details>
 <summary>9 commits...</summary>
 
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Fix iOS sever auth codes<br />
-  <sub>[#10021](https://github.com/flutter/packages/pull/10021) merged on September 18, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/10021) over 2 days, 355 additions and 48 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
-
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add a method to clear auth tokens<br />
   <sub>[#9846](https://github.com/flutter/packages/pull/9846) merged on September 17, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9846) over 1 month, 75 additions and 18 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [LongCatIsLooong](https://github.com/LongCatIsLooong), [ash2moon](https://github.com/ash2moon)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Fix iOS sever auth codes<br />
+  <sub>[#10021](https://github.com/flutter/packages/pull/10021) merged on September 18, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/10021) over 2 days, 355 additions and 48 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Add Android support for externalNonBrowserApplication<br />
   <sub>[#9993](https://github.com/flutter/packages/pull/9993) merged on September 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9993) over 3 days, 106 additions and 25 deletions in 10 files</sub><br />
@@ -511,16 +507,16 @@
   <sub>[#10015](https://github.com/flutter/packages/pull/10015) merged on September 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10015) over 3 hours, 10 additions and 2 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update web plugin owners<br />
+  <sub>[#9994](https://github.com/flutter/packages/pull/9994) merged on September 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/9994) over 5 days, 13 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix broken links in readme<br />
   <sub>[#9979](https://github.com/flutter/packages/pull/9979) merged on September 20, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/9979) over 1 week, 11 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Implement clearAuthorizationToken<br />
   <sub>[#10024](https://github.com/flutter/packages/pull/10024) merged on September 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10024) over 2 hours, 204 additions and 20 deletions in 26 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update web plugin owners<br />
-  <sub>[#9994](https://github.com/flutter/packages/pull/9994) merged on September 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9994) over 5 days, 13 additions and 13 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from a402d9a4376a to d693b4b9dbac (6 revisions)<br />
