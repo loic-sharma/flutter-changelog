@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-18 commits.
+19 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub>
@@ -14,6 +14,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Allow for custom `Preview` annotations, add support for runtime transformations
   <sub>[#175535](https://github.com/flutter/flutter/pull/175535) merged on September 22, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/175535) over 5 days, 1099 additions and 571 deletions in 30 files</sub>
   <sub>Reviewed by: [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix wrong order of asserts arguments
+  <sub>[#175726](https://github.com/flutter/flutter/pull/175726) merged on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175726) over 1 day, 38 additions and 38 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>1 image...</summary><img width="543" height="91" alt="arg" src="https://github.com/user-attachments/assets/6bcf2571-5603-459e-b9a9-164e34f79773" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify test asserts and use lambdas 
   <sub>[#175727](https://github.com/flutter/flutter/pull/175727) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175727) over 1 day, 7 additions and 14 deletions in 1 file</sub>
