@@ -138,7 +138,7 @@
   <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update AGP/Java/Gradle comparison when using analyze --suggestions<br />
-  <sub>[#175808](https://github.com/flutter/flutter/pull/175808) opened on on September 22, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/175808) 315 additions and 188 deletions in 3 files</sub><br />
+  <sub>[#175808](https://github.com/flutter/flutter/pull/175808) opened on on September 22, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/175808) 315 additions and 188 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes SemanticsFlags.isLink mis-translated in dart ui ffi<br />
   <sub>[#175812](https://github.com/flutter/flutter/pull/175812) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175812) 99 additions and 2 deletions in 4 files</sub><br />
