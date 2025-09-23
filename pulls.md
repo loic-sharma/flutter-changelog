@@ -128,26 +128,8 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add infinite carousel support<br />
   <sub>[#175710](https://github.com/flutter/flutter/pull/175710) opened on on September 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175710) 176 additions and 19 deletions in 2 files</sub><br />
 
-* **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; [native_assets] create macOS CCompilerConfig via xcrun --find<br />
-  <sub>[#175717](https://github.com/flutter/flutter/pull/175717) opened on on September 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175717) 57 additions and 21 deletions in 2 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Change the arguments order in `assertEquals` to fix linter issues<br />
-  <sub>[#175719](https://github.com/flutter/flutter/pull/175719) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175719) 5 additions and 5 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `assertNull` to simplify code<br />
-  <sub>[#175720](https://github.com/flutter/flutter/pull/175720) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175720) 2 additions and 1 deletion in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean up code in `PlatformViewsControllerTest.java`<br />
-  <sub>[#175725](https://github.com/flutter/flutter/pull/175725) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175725) 5 additions and 9 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify test asserts and use lambdas <br />
-  <sub>[#175727](https://github.com/flutter/flutter/pull/175727) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175727) 7 additions and 14 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace curly braces with lambdas in `KeyEventChannelTest`<br />
   <sub>[#175729](https://github.com/flutter/flutter/pull/175729) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175729) 2 additions and 10 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify asserts in `FlutterMutatorTest`<br />
-  <sub>[#175730](https://github.com/flutter/flutter/pull/175730) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175730) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
@@ -155,23 +137,11 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup.cacheOrigin<br />
   <sub>[#175760](https://github.com/flutter/flutter/pull/175760) opened on on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175760) 51 additions and 5 deletions in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix small typo in test docs<br />
-  <sub>[#175776](https://github.com/flutter/flutter/pull/175776) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175776) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `FlutterInjectorTest` to use lambdas/method reference<br />
   <sub>[#175777](https://github.com/flutter/flutter/pull/175777) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175777) 5 additions and 11 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter issues in `VsyncWaiterTest`<br />
-  <sub>[#175780](https://github.com/flutter/flutter/pull/175780) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175780) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix filter by file on Windows<br />
-  <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175783) 136 additions and 99 deletions in 3 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify/fix ordering of asserts in `TextInputPluginTest`<br />
-  <sub>[#175784](https://github.com/flutter/flutter/pull/175784) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175784) 32 additions and 35 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in tests `README`<br />
-  <sub>[#175788](https://github.com/flutter/flutter/pull/175788) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175788) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/175783) 291 additions and 142 deletions in 9 files</sub><br />
 
 * **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define option for runtime variable    injection in Flutter web templates<br />
   <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
@@ -187,4 +157,7 @@
 
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; Fix(tools): Rely on FLUTTER_ROOT in Xcode build scripts<br />
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175846) 18 additions and 32 deletions in 2 files</sub><br />
+
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Broken link in NavigationRail documentation<br />
+  <sub>[#175852](https://github.com/flutter/flutter/pull/175852) opened on on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175852) 1 addition and 1 deletion in 1 file</sub><br />
 
