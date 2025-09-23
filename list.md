@@ -485,7 +485,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-3 commits.
+4 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub>
@@ -494,6 +494,10 @@
 * **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] Proposal: add json support, custom string encoder/decoder
   <sub>[#8665](https://github.com/flutter/packages/pull/8665) merged on September 23, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/packages/pull/8665) over 7 months, 1262 additions and 39 deletions in 22 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Nozomi Hijikata](https://github.com/nozomemein)** &mdash; [go_router] Fix Android Cold Start deep link with empty path losing scheme and authority.
+  <sub>[#9868](https://github.com/flutter/packages/pull/9868) merged on September 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9868) over 1 month, 7 additions and 8 deletions in 4 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Update web test for google_maps change
   <sub>[#10055](https://github.com/flutter/packages/pull/10055) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10055) over 41 minutes, 3 additions and 3 deletions in 1 file</sub>
