@@ -156,7 +156,7 @@
   <sub>[#175856](https://github.com/flutter/flutter/pull/175856) opened on on September 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175856) 68 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove comment about trailing commas from templates<br />
-  <sub>[#175864](https://github.com/flutter/flutter/pull/175864) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175864) 4 additions and 4 deletions in 4 files</sub><br />
+  <sub>[#175864](https://github.com/flutter/flutter/pull/175864) opened on on September 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175864) 4 additions and 4 deletions in 4 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine CIPD to use NDK 28rc <br />
   <sub>[#175870](https://github.com/flutter/flutter/pull/175870) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175870) 2 additions and 1 deletion in 2 files</sub><br />
