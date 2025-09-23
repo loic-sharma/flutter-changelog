@@ -62,9 +62,6 @@
 * **[Taosif Hossain](https://github.com/mdtaosifhossain3)** &mdash; docs(ListView): add example for removing bottom padding<br />
   <sub>[#175035](https://github.com/flutter/flutter/pull/175035) opened on on September 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175035) 36 additions and 0 deletions in 1 file</sub><br />
 
-* **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ScrollAwareImageProvider<br />
-  <sub>[#175038](https://github.com/flutter/flutter/pull/175038) opened on on September 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175038) 86 additions and 0 deletions in 2 files</sub><br />
-
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.<br />
   <sub>[#175376](https://github.com/flutter/flutter/pull/175376) opened on on September 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175376) 58 additions and 2 deletions in 6 files</sub><br />
 
@@ -141,7 +138,7 @@
   <sub>[#175777](https://github.com/flutter/flutter/pull/175777) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175777) 5 additions and 11 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix filter by file on Windows<br />
-  <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/175783) 291 additions and 142 deletions in 9 files</sub><br />
+  <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/175783) 237 additions and 120 deletions in 9 files</sub><br />
 
 * **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define option for runtime variable    injection in Flutter web templates<br />
   <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
