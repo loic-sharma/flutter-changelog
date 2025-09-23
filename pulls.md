@@ -153,7 +153,7 @@
   <sub>[#175852](https://github.com/flutter/flutter/pull/175852) opened on on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175852) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix assertion thrown when hot restarting during animation<br />
-  <sub>[#175856](https://github.com/flutter/flutter/pull/175856) opened on on September 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175856) 68 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#175856](https://github.com/flutter/flutter/pull/175856) opened on on September 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175856) 68 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove comment about trailing commas from templates<br />
   <sub>[#175864](https://github.com/flutter/flutter/pull/175864) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175864) 4 additions and 4 deletions in 4 files</sub><br />

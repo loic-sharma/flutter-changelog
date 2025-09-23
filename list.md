@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-21 commits.
+22 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub>
@@ -14,6 +14,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Allow for custom `Preview` annotations, add support for runtime transformations
   <sub>[#175535](https://github.com/flutter/flutter/pull/175535) merged on September 22, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/175535) over 5 days, 1099 additions and 571 deletions in 30 files</sub>
   <sub>Reviewed by: [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify asserts in `FlutterMutatorTest`
+  <sub>[#175730](https://github.com/flutter/flutter/pull/175730) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175730) over 1 day, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>1 image...</summary><img width="465" height="116" alt="arfs" src="https://github.com/user-attachments/assets/bed0cb7f-3bfa-4833-9e2d-54fb7a1bf6ca" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter issues in `VsyncWaiterTest` Capital L for long values
   <sub>[#175780](https://github.com/flutter/flutter/pull/175780) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175780) over 1 day, 3 additions and 3 deletions in 1 file</sub>
