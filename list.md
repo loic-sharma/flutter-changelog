@@ -28,13 +28,13 @@
   <sub>[#174659](https://github.com/flutter/flutter/pull/174659) merged on September 22, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/174659) over 3 weeks, 97 additions and 141 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `name` field form `SupportedPlatform` enum
-  <sub>[#175611](https://github.com/flutter/flutter/pull/175611) merged on September 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175611) over 4 days, 8 additions and 12 deletions in 1 file</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Dominik Roszkowski](https://github.com/orestesgaolin)** &mdash; Update docs/engine/contributing/Compiling-the-engine.md with macOS build steps
   <sub>[#175716](https://github.com/flutter/flutter/pull/175716) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175716) over 1 day, 8 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `name` field form `SupportedPlatform` enum
+  <sub>[#175611](https://github.com/flutter/flutter/pull/175611) merged on September 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175611) over 4 days, 8 additions and 12 deletions in 1 file</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary public modifier in `KeyboardManager.java`
   <sub>[#175500](https://github.com/flutter/flutter/pull/175500) merged on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175500) over 5 days, 3 additions and 3 deletions in 1 file</sub>
