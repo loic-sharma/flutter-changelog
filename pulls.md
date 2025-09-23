@@ -185,6 +185,3 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix error when generating pt_BR localizations<br />
   <sub>[#175832](https://github.com/flutter/flutter/pull/175832) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175832) 33 additions and 1 deletion in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add tests for InputDecoration borders (M3 and theme normalization)<br />
-  <sub>[#175838](https://github.com/flutter/flutter/pull/175838) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175838) 226 additions and 0 deletions in 1 file</sub><br />
-
