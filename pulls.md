@@ -110,9 +110,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix VoiceOver does not announce state of ButtonSegment<br />
   <sub>[#175635](https://github.com/flutter/flutter/pull/175635) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175635) 65 additions and 10 deletions in 2 files</sub><br />
 
-* **[Hassnaa Mohamed](https://github.com/Hassnaa9)** &mdash;  Update broken link in engine README<br />
-  <sub>[#175652](https://github.com/flutter/flutter/pull/175652) opened on on September 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175652) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode cache errors<br />
   <sub>[#175659](https://github.com/flutter/flutter/pull/175659) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175659) 166 additions and 6 deletions in 12 files</sub><br />
 
