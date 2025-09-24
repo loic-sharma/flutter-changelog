@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-32 commits.
+31 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub>
@@ -57,10 +57,6 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; bump robolectric and java to 21
   <sub>[#175550](https://github.com/flutter/flutter/pull/175550) merged on September 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175550) over 4 days, 7 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
-
-* **[ParkJuneWoo](https://github.com/korca0220)** &mdash; Add non uniform TableBorder
-  <sub>[#175773](https://github.com/flutter/flutter/pull/175773) merged on September 24, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/175773) over 1 day, 368 additions and 85 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup opportunities post renderer unification
   <sub>[#174659](https://github.com/flutter/flutter/pull/174659) merged on September 22, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/174659) over 3 weeks, 97 additions and 141 deletions in 9 files</sub>
@@ -526,7 +522,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-6 commits.
+7 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub>
@@ -535,6 +531,10 @@
 * **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] Proposal: add json support, custom string encoder/decoder
   <sub>[#8665](https://github.com/flutter/packages/pull/8665) merged on September 23, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/packages/pull/8665) over 7 months, 1262 additions and 39 deletions in 22 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Implement `disconnect` for Android
+  <sub>[#9991](https://github.com/flutter/packages/pull/9991) merged on September 24, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/9991) over 1 week, 426 additions and 33 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub>
 
 * **[Nozomi Hijikata](https://github.com/nozomemein)** &mdash; [go_router] Fix Android Cold Start deep link with empty path losing scheme and authority.
   <sub>[#9868](https://github.com/flutter/packages/pull/9868) merged on September 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9868) over 1 month, 7 additions and 8 deletions in 4 files</sub>
