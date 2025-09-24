@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-22 commits.
+23 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -14,6 +14,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Allow for custom `Preview` annotations, add support for runtime transformations<br />
   <sub>[#175535](https://github.com/flutter/flutter/pull/175535) merged on September 22, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/175535) over 5 days, 1099 additions and 571 deletions in 30 files</sub><br />
   <sub>Reviewed by: [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `assertNull` to simplify code<br />
+  <sub>[#175720](https://github.com/flutter/flutter/pull/175720) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175720) over 1 day, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="747" height="63" alt="nu" src="https://github.com/user-attachments/assets/94a34963-8741-4032-9630-541f6977a366" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify asserts in `FlutterMutatorTest`<br />
   <sub>[#175730](https://github.com/flutter/flutter/pull/175730) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175730) over 1 day, 4 additions and 4 deletions in 1 file</sub><br />
