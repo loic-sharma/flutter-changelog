@@ -128,9 +128,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool / l10n ] Fix issue where localization generator assumed current directory was the target project<br />
   <sub>[#175881](https://github.com/flutter/flutter/pull/175881) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175881) 70 additions and 26 deletions in 2 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's templates to use dot shorthands<br />
-  <sub>[#175891](https://github.com/flutter/flutter/pull/175891) opened on on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175891) 8 additions and 8 deletions in 3 files</sub><br />
-
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Exit with code 1 when calling `flutter build` without arguments<br />
   <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175900) 26 additions and 1 deletion in 2 files</sub><br />
 
