@@ -418,7 +418,7 @@
   <sub>[#175285](https://github.com/flutter/flutter/pull/175285) merged on September 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175285) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update NDK to The Latest Stable<br />
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update NDK Scipt to Latest Stable Part 1<br />
   <sub>[#175365](https://github.com/flutter/flutter/pull/175365) merged on September 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175365) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
