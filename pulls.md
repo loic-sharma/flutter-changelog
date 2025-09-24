@@ -134,9 +134,6 @@
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; Fix(tools): Rely on FLUTTER_ROOT in Xcode build scripts<br />
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175846) 18 additions and 32 deletions in 2 files</sub><br />
 
-* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Broken link in NavigationRail documentation<br />
-  <sub>[#175852](https://github.com/flutter/flutter/pull/175852) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175852) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine CIPD to use NDK 28rc <br />
   <sub>[#175870](https://github.com/flutter/flutter/pull/175870) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175870) 3 additions and 2 deletions in 3 files</sub><br />
 
