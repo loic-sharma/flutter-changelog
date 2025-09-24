@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-39 commits.
+40 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -18,6 +18,11 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix assertion thrown when hot restarting during animation<br />
   <sub>[#175856](https://github.com/flutter/flutter/pull/175856) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175856) over 10 hours, 68 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `KeyChannelResponder.java`  to use method reference <br />
+  <sub>[#175510](https://github.com/flutter/flutter/pull/175510) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175510) over 5 days, 1 addition and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="475" height="60" alt="03" src="https://github.com/user-attachments/assets/dbe20ea7-2d95-4d63-a338-705d875cdf3e" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify/fix ordering of asserts in `TextInputPluginTest`<br />
   <sub>[#175784](https://github.com/flutter/flutter/pull/175784) merged on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175784) over 1 day, 32 additions and 35 deletions in 1 file</sub><br />
@@ -58,11 +63,6 @@
   <sub>[#175723](https://github.com/flutter/flutter/pull/175723) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175723) over 1 day, 5 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>1 image...</summary><img width="849" height="176" alt="issue" src="https://github.com/user-attachments/assets/da3f15f1-7ff1-4dc6-9c93-b727f08f0387" /></details></sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `KeyChannelResponder.java`  to use method reference <br />
-  <sub>[#175510](https://github.com/flutter/flutter/pull/175510) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175510) over 5 days, 1 addition and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
-  <sub><details><summary>1 image...</summary><img width="475" height="60" alt="03" src="https://github.com/user-attachments/assets/dbe20ea7-2d95-4d63-a338-705d875cdf3e" /></details></sub>
 
 * **[ash2moon](https://github.com/ash2moon)** &mdash; bump robolectric and java to 21<br />
   <sub>[#175550](https://github.com/flutter/flutter/pull/175550) merged on September 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175550) over 4 days, 7 additions and 4 deletions in 5 files</sub><br />
@@ -171,6 +171,10 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add an assertion for the relationship between `Visibility.maintainState` and `Visibility.maintainFocusability`<br />
   <sub>[#175552](https://github.com/flutter/flutter/pull/175552) merged on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175552) over 6 days, 24 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactor code to use method reference and lambdas in `DartMessengerTest.java`<br />
+  <sub>[#175731](https://github.com/flutter/flutter/pull/175731) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175731) over 2 days, 7 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 ### September 13, 2025 to September 19, 2025
 
