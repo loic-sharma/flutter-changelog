@@ -86,9 +86,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] Add isA11yFocusable flag<br />
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) opened on on September 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175551) 99 additions and 1 deletion in 13 files</sub><br />
 
-* **[Sunshineツ](https://github.com/LauYewHang)** &mdash; Add new properties to DropdownMenu that allows padding customization for its leadingIcon and trailingIcon<br />
-  <sub>[#175558](https://github.com/flutter/flutter/pull/175558) opened on on September 18, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/175558) 272 additions and 3 deletions in 3 files</sub><br />
-
 * **[Dipen Pradhan](https://github.com/dipenpradhan)** &mdash; Make Impeller geometry methods constexpr<br />
   <sub>[#175559](https://github.com/flutter/flutter/pull/175559) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175559) 14 additions and 3 deletions in 1 file</sub><br />
 
@@ -111,7 +108,7 @@
   <sub>[#175675](https://github.com/flutter/flutter/pull/175675) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175675) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
-  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/175706) 65 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/175706) 65 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add infinite carousel support<br />
   <sub>[#175710](https://github.com/flutter/flutter/pull/175710) opened on on September 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175710) 176 additions and 19 deletions in 2 files</sub><br />
@@ -133,9 +130,6 @@
 
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; Fix(tools): Rely on FLUTTER_ROOT in Xcode build scripts<br />
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175846) 18 additions and 32 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkWell doesn't crash in 0x0 environment<br />
-  <sub>[#175871](https://github.com/flutter/flutter/pull/175871) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175871) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool / l10n ] Fix issue where localization generator assumed current directory was the target project<br />
   <sub>[#175881](https://github.com/flutter/flutter/pull/175881) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175881) 70 additions and 26 deletions in 2 files</sub><br />
