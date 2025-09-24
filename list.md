@@ -4,7 +4,12 @@
 
 ### September 20, 2025 to September 26, 2025
 
-31 commits.
+32 commits.
+
+* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider
+  <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Valentin Vignal](https://github.com/ValentinVignal)</sub>
+  <sub><details><summary>2 images...</summary><img width="800" alt="image" src="https://github.com/user-attachments/assets/49fc46fe-bbaa-4b09-b9ee-353b80958bf4" /><img width="800" alt="image" src="https://github.com/user-attachments/assets/07425ed6-031c-4853-a646-17a7c8ae7499" /></details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Allow for custom `Preview` annotations, add support for runtime transformations
   <sub>[#175535](https://github.com/flutter/flutter/pull/175535) merged on September 22, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/175535) over 5 days, 1099 additions and 571 deletions in 30 files</sub>
@@ -428,7 +433,7 @@
 ### September 6, 2025 to September 12, 2025
 
 <details>
-<summary>20 commits...</summary>
+<summary>21 commits...</summary>
 
 * **[Rushikesh Bhavsar](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity
   <sub>[#174286](https://github.com/flutter/flutter/pull/174286) merged on September 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/174286) over 3 weeks, 47 additions and 1 deletion in 1 file</sub>
@@ -494,6 +499,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update ImageReaderSurfaceProducer.MAX_IMAGES to include the maximum number of retained dequeued images
   <sub>[#174971](https://github.com/flutter/flutter/pull/174971) merged on September 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174971) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix GitHub labeler platform-android typo
+  <sub>[#175076](https://github.com/flutter/flutter/pull/175076) merged on September 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175076) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]Do not re-add delaying recognizer on iOS 26
   <sub>[#175097](https://github.com/flutter/flutter/pull/175097) merged on September 13, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175097) over 4 days, 21 additions and 3 deletions in 2 files</sub>
