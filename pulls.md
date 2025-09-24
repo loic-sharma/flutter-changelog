@@ -162,5 +162,5 @@
   <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175900) 26 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [win32] Increase timer resolution and always use WM_TIMER to wake up event loop<br />
-  <sub>[#175927](https://github.com/flutter/flutter/pull/175927) opened on on September 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175927) 9 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#175927](https://github.com/flutter/flutter/pull/175927) opened on on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175927) 9 additions and 6 deletions in 1 file</sub><br />
 
