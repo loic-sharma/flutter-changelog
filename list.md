@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-31 commits.
+33 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub>
@@ -58,6 +58,10 @@
   <sub>[#175550](https://github.com/flutter/flutter/pull/175550) merged on September 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175550) over 4 days, 7 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
 
+* **[ParkJuneWoo](https://github.com/korca0220)** &mdash; Add non uniform TableBorder
+  <sub>[#175773](https://github.com/flutter/flutter/pull/175773) merged on September 24, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/175773) over 1 day, 368 additions and 85 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup opportunities post renderer unification
   <sub>[#174659](https://github.com/flutter/flutter/pull/174659) merged on September 22, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/174659) over 3 weeks, 97 additions and 141 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
@@ -73,6 +77,10 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Load fonts in the order addFont is called
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) merged on September 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174253) over 1 month, 29 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove comment about trailing commas from templates
+  <sub>[#175864](https://github.com/flutter/flutter/pull/175864) merged on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175864) over 19 hours, 4 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nate Biggs](https://github.com/biggs0125), [Nicholas Shahan](https://github.com/nshahan)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a VerticalDivider doesn't crash at 0x0 environment
   <sub>[#174761](https://github.com/flutter/flutter/pull/174761) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174761) over 3 weeks, 9 additions and 0 deletions in 1 file</sub>
@@ -429,7 +437,7 @@
 ### September 6, 2025 to September 12, 2025
 
 <details>
-<summary>21 commits...</summary>
+<summary>20 commits...</summary>
 
 * **[Rushikesh Bhavsar](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity
   <sub>[#174286](https://github.com/flutter/flutter/pull/174286) merged on September 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/174286) over 3 weeks, 47 additions and 1 deletion in 1 file</sub>
@@ -488,10 +496,6 @@
   <sub>[#175234](https://github.com/flutter/flutter/pull/175234) merged on September 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175234) over 4 hours, 3 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [shell] Fix engineId not being set after hot restart
-  <sub>[#174451](https://github.com/flutter/flutter/pull/174451) merged on September 10, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174451) over 2 weeks, 25 additions and 2 deletions in 6 files</sub>
-  <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update ImageReaderSurfaceProducer.MAX_IMAGES to include the maximum number of retained dequeued images
   <sub>[#174971](https://github.com/flutter/flutter/pull/174971) merged on September 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174971) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
@@ -522,7 +526,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-7 commits.
+8 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub>
@@ -543,6 +547,10 @@
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; [go_router_builder] [in_app_purchase_storekit] Removes redundant arguments from annotations
   <sub>[#9964](https://github.com/flutter/packages/pull/9964) merged on September 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9964) over 2 weeks, 33 additions and 26 deletions in 11 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove "All right reserved" from all files
+  <sub>[#10066](https://github.com/flutter/packages/pull/10066) merged on September 24, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/10066) over 18 hours, 3930 additions and 3897 deletions in 3880 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [David Iglesias](https://github.com/ditman), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Update web test for google_maps change
   <sub>[#10055](https://github.com/flutter/packages/pull/10055) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10055) over 41 minutes, 3 additions and 3 deletions in 1 file</sub>
