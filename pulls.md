@@ -111,7 +111,7 @@
   <sub>[#175675](https://github.com/flutter/flutter/pull/175675) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175675) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
-  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/175706) 65 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/175706) 65 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add infinite carousel support<br />
   <sub>[#175710](https://github.com/flutter/flutter/pull/175710) opened on on September 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175710) 176 additions and 19 deletions in 2 files</sub><br />
@@ -163,4 +163,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [win32] Increase timer resolution and always use WM_TIMER to wake up event loop<br />
   <sub>[#175927](https://github.com/flutter/flutter/pull/175927) opened on on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175927) 9 additions and 6 deletions in 1 file</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InputChip doesn't crash in 0x0 environment<br />
+  <sub>[#175930](https://github.com/flutter/flutter/pull/175930) opened on on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175930) 13 additions and 0 deletions in 1 file</sub><br />
 
