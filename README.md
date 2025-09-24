@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-33 commits.
+34 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -101,6 +101,10 @@
 * **[Dominik Roszkowski](https://github.com/orestesgaolin)** &mdash; Update docs/engine/contributing/Compiling-the-engine.md with macOS build steps<br />
   <sub>[#175716](https://github.com/flutter/flutter/pull/175716) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175716) over 1 day, 8 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not present textures in FlutterMetalLayer if the drawable size changed and the texture's size does not match the new drawable size<br />
+  <sub>[#175450](https://github.com/flutter/flutter/pull/175450) merged on September 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175450) over 1 week, 54 additions and 9 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; Roll `package:analyzer` forward to `8.2.0`.<br />
   <sub>[#175849](https://github.com/flutter/flutter/pull/175849) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175849) over 12 hours, 10 additions and 10 deletions in 3 files</sub><br />
