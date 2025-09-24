@@ -594,7 +594,7 @@
 ### September 6, 2025 to September 12, 2025
 
 <details>
-<summary>6 commits...</summary>
+<summary>5 commits...</summary>
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; [url_launcher] fix: Link widget Tab traversal<br />
   <sub>[#9815](https://github.com/flutter/packages/pull/9815) merged on September 8, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/9815) over 3 weeks, 49 additions and 9 deletions in 4 files</sub><br />
@@ -606,10 +606,6 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Re-remove Android API<24 support<br />
   <sub>[#9987](https://github.com/flutter/packages/pull/9987) merged on September 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9987) over 1 hour, 52 additions and 69 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Temporarily restore Android 21 support<br />
-  <sub>[#9986](https://github.com/flutter/packages/pull/9986) merged on September 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9986) over 2 hours, 21 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Add a platform interface method to clear auth tokens<br />
