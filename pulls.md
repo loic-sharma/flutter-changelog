@@ -116,17 +116,11 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add infinite carousel support<br />
   <sub>[#175710](https://github.com/flutter/flutter/pull/175710) opened on on September 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175710) 176 additions and 19 deletions in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace curly braces with lambdas in `KeyEventChannelTest`<br />
-  <sub>[#175729](https://github.com/flutter/flutter/pull/175729) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175729) 2 additions and 10 deletions in 1 file</sub><br />
-
 * **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `FlutterInjectorTest` to use lambdas/method reference<br />
-  <sub>[#175777](https://github.com/flutter/flutter/pull/175777) opened on on September 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175777) 5 additions and 11 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix filter by file on Windows<br />
-  <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/175783) 237 additions and 120 deletions in 9 files</sub><br />
+  <sub>[#175783](https://github.com/flutter/flutter/pull/175783) opened on on September 22, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/175783) 251 additions and 121 deletions in 13 files</sub><br />
 
 * **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define option for runtime variable    injection in Flutter web templates<br />
   <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
@@ -144,7 +138,7 @@
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175846) 18 additions and 32 deletions in 2 files</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Broken link in NavigationRail documentation<br />
-  <sub>[#175852](https://github.com/flutter/flutter/pull/175852) opened on on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175852) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#175852](https://github.com/flutter/flutter/pull/175852) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175852) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine CIPD to use NDK 28rc <br />
   <sub>[#175870](https://github.com/flutter/flutter/pull/175870) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175870) 3 additions and 2 deletions in 3 files</sub><br />
@@ -153,7 +147,7 @@
   <sub>[#175871](https://github.com/flutter/flutter/pull/175871) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175871) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool / l10n ] Fix issue where localization generator assumed current directory was the target project<br />
-  <sub>[#175881](https://github.com/flutter/flutter/pull/175881) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175881) 67 additions and 26 deletions in 2 files</sub><br />
+  <sub>[#175881](https://github.com/flutter/flutter/pull/175881) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175881) 70 additions and 26 deletions in 2 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Exit with code 1 when calling `flutter build` without arguments<br />
   <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175900) 26 additions and 1 deletion in 2 files</sub><br />

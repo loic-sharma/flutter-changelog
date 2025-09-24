@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-33 commits.
+32 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -105,10 +105,6 @@
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; Roll `package:analyzer` forward to `8.2.0`.<br />
   <sub>[#175849](https://github.com/flutter/flutter/pull/175849) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175849) over 12 hours, 10 additions and 10 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add an assertion for the relationship between `Visibility.maintainState` and `Visibility.maintainFocusability`<br />
-  <sub>[#175552](https://github.com/flutter/flutter/pull/175552) merged on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175552) over 6 days, 24 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix small typo in test docs<br />
   <sub>[#175776](https://github.com/flutter/flutter/pull/175776) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175776) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
@@ -530,7 +526,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-8 commits.
+9 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation<br />
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub><br />
@@ -551,6 +547,10 @@
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; [go_router_builder] [in_app_purchase_storekit] Removes redundant arguments from annotations<br />
   <sub>[#9964](https://github.com/flutter/packages/pull/9964) merged on September 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9964) over 2 weeks, 33 additions and 26 deletions in 11 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Add update-release-info command suggestion when version check fails<br />
+  <sub>[#9834](https://github.com/flutter/packages/pull/9834) merged on September 24, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9834) over 1 month, 24 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove "All right reserved" from all files<br />
   <sub>[#10066](https://github.com/flutter/packages/pull/10066) merged on September 24, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/10066) over 18 hours, 3930 additions and 3897 deletions in 3880 files</sub><br />
