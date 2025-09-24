@@ -152,3 +152,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InputChip doesn't crash in 0x0 environment<br />
   <sub>[#175930](https://github.com/flutter/flutter/pull/175930) opened on on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175930) 13 additions and 0 deletions in 1 file</sub><br />
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; User Invoke-Expression instead of call operator for nested Powershell scripts invocations (on Windows)<br />
+  <sub>[#175941](https://github.com/flutter/flutter/pull/175941) opened on on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175941) 1 addition and 1 deletion in 1 file</sub><br />
+
