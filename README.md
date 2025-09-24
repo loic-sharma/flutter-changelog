@@ -697,7 +697,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-8 commits.
+9 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove and simplify more usages of Liquid<br />
   <sub>[#12451](https://github.com/flutter/website/pull/12451) merged on September 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12451) over 16 minutes, 230 additions and 362 deletions in 28 files</sub><br />
@@ -722,6 +722,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Clarify Dart VM terminology in hot-reload documentation<br />
   <sub>[#12445](https://github.com/flutter/website/pull/12445) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12445) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Replacing old package as its deprecated<br />
+  <sub>[#12462](https://github.com/flutter/website/pull/12462) merged on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12462) over 2 hours, 15 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the android info on restoring ephemeral state<br />
   <sub>[#12458](https://github.com/flutter/website/pull/12458) merged on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12458) over 21 hours, 14 additions and 28 deletions in 1 file</sub><br />
