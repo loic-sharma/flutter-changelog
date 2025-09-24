@@ -111,7 +111,7 @@
   <sub>[#175675](https://github.com/flutter/flutter/pull/175675) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175675) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
-  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/175706) 65 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/175706) 65 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add infinite carousel support<br />
   <sub>[#175710](https://github.com/flutter/flutter/pull/175710) opened on on September 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175710) 176 additions and 19 deletions in 2 files</sub><br />
@@ -133,9 +133,6 @@
 
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; Fix(tools): Rely on FLUTTER_ROOT in Xcode build scripts<br />
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175846) 18 additions and 32 deletions in 2 files</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine CIPD to use NDK 28rc <br />
-  <sub>[#175870](https://github.com/flutter/flutter/pull/175870) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175870) 3 additions and 2 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkWell doesn't crash in 0x0 environment<br />
   <sub>[#175871](https://github.com/flutter/flutter/pull/175871) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175871) 11 additions and 0 deletions in 1 file</sub><br />

@@ -680,11 +680,15 @@
 
 ### September 20, 2025 to September 26, 2025
 
-7 commits.
+8 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove and simplify more usages of Liquid
   <sub>[#12451](https://github.com/flutter/website/pull/12451) merged on September 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12451) over 16 minutes, 230 additions and 362 deletions in 28 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the page that discusses Flutter support for iOS features
+  <sub>[#12459](https://github.com/flutter/website/pull/12459) merged on September 24, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12459) over 1 day, 28 additions and 43 deletions in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add back website-reviewers team as fallback codeowner
   <sub>[#12456](https://github.com/flutter/website/pull/12456) merged on September 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12456) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
