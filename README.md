@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-31 commits.
+32 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -93,6 +93,10 @@
 * **[Dominik Roszkowski](https://github.com/orestesgaolin)** &mdash; Update docs/engine/contributing/Compiling-the-engine.md with macOS build steps<br />
   <sub>[#175716](https://github.com/flutter/flutter/pull/175716) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175716) over 1 day, 8 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Paul Berry](https://github.com/stereotype441)** &mdash; Roll `package:analyzer` forward to `8.2.0`.<br />
+  <sub>[#175849](https://github.com/flutter/flutter/pull/175849) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175849) over 12 hours, 10 additions and 10 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add an assertion for the relationship between `Visibility.maintainState` and `Visibility.maintainFocusability`<br />
   <sub>[#175552](https://github.com/flutter/flutter/pull/175552) merged on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175552) over 6 days, 24 additions and 1 deletion in 2 files</sub><br />
