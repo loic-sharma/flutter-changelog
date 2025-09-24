@@ -66,13 +66,13 @@
   <sub>[#174659](https://github.com/flutter/flutter/pull/174659) merged on September 22, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/174659) over 3 weeks, 97 additions and 141 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix Autocomplete semantics label
-  <sub>[#175409](https://github.com/flutter/flutter/pull/175409) merged on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175409) over 6 days, 35 additions and 16 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: remove final class modifier on MenuController
   <sub>[#174490](https://github.com/flutter/flutter/pull/174490) merged on September 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174490) over 3 weeks, 50 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix Autocomplete semantics label
+  <sub>[#175409](https://github.com/flutter/flutter/pull/175409) merged on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175409) over 6 days, 35 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Load fonts in the order addFont is called
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) merged on September 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174253) over 1 month, 29 additions and 4 deletions in 2 files</sub>
@@ -85,6 +85,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that Drawer & DrawerHeader don't crash in 0x0 environment
   <sub>[#174772](https://github.com/flutter/flutter/pull/174772) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174772) over 3 weeks, 15 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: cupertino sheet broken example with programatic pop
+  <sub>[#175709](https://github.com/flutter/flutter/pull/175709) merged on September 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175709) over 2 days, 15 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix outdated link of `intl` package to point to the correct new location 
   <sub>[#174498](https://github.com/flutter/flutter/pull/174498) merged on September 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174498) over 3 weeks, 2 additions and 2 deletions in 2 files</sub>
@@ -101,10 +105,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add an assertion for the relationship between `Visibility.maintainState` and `Visibility.maintainFocusability`
   <sub>[#175552](https://github.com/flutter/flutter/pull/175552) merged on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175552) over 6 days, 24 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: cupertino sheet broken example with programatic pop
-  <sub>[#175709](https://github.com/flutter/flutter/pull/175709) merged on September 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175709) over 2 days, 15 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix small typo in test docs
   <sub>[#175776](https://github.com/flutter/flutter/pull/175776) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175776) over 1 day, 1 addition and 1 deletion in 1 file</sub>
