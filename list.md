@@ -603,7 +603,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android] Remove references to third party `googlesamples/mlkit` code
-  <sub>[#10056](https://github.com/flutter/packages/pull/10056) merged on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10056) over 1 day, 2 additions and 37 deletions in 1 file</sub>
+  <sub>[#10056](https://github.com/flutter/packages/pull/10056) merged on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10056) over 1 day, 2 additions and 37 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 ### September 13, 2025 to September 19, 2025
