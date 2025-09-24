@@ -4,7 +4,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-24 commits.
+26 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -14,6 +14,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Allow for custom `Preview` annotations, add support for runtime transformations<br />
   <sub>[#175535](https://github.com/flutter/flutter/pull/175535) merged on September 22, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/175535) over 5 days, 1099 additions and 571 deletions in 30 files</sub><br />
   <sub>Reviewed by: [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix assertion thrown when hot restarting during animation<br />
+  <sub>[#175856](https://github.com/flutter/flutter/pull/175856) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175856) over 10 hours, 68 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `assertNull` to simplify code<br />
   <sub>[#175720](https://github.com/flutter/flutter/pull/175720) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175720) over 1 day, 2 additions and 1 deletion in 1 file</sub><br />
@@ -53,6 +57,10 @@
 * **[ash2moon](https://github.com/ash2moon)** &mdash; bump robolectric and java to 21<br />
   <sub>[#175550](https://github.com/flutter/flutter/pull/175550) merged on September 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175550) over 4 days, 7 additions and 4 deletions in 5 files</sub><br />
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub><br />
+
+* **[ParkJuneWoo](https://github.com/korca0220)** &mdash; Add non uniform TableBorder<br />
+  <sub>[#175773](https://github.com/flutter/flutter/pull/175773) merged on September 24, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/175773) over 1 day, 368 additions and 85 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup opportunities post renderer unification<br />
   <sub>[#174659](https://github.com/flutter/flutter/pull/174659) merged on September 22, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/174659) over 3 weeks, 97 additions and 141 deletions in 9 files</sub><br />
