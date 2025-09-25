@@ -86,7 +86,7 @@
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Reapply "Update the AccessibilityPlugin::Announce method to account f…
-  <sub>[#174365](https://github.com/flutter/flutter/pull/174365) merged on September 25, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/174365) over 1 month, 114 additions and 36 deletions in 11 files</sub>
+  <sub>[#174365](https://github.com/flutter/flutter/pull/174365) merged on September 25, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/174365) over 1 month, 114 additions and 36 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes SemanticsFlags.isLink mis-translated in dart ui ffi
