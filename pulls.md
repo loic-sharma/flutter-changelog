@@ -140,6 +140,3 @@
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; Ignore upcoming `experimental_member_use` warnings.<br />
   <sub>[#175969](https://github.com/flutter/flutter/pull/175969) opened on on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175969) 2 additions and 0 deletions in 2 files</sub><br />
 
-* **[AuraAi-vet](https://github.com/AuraAi-vet)** &mdash; New<br />
-  <sub>[#175978](https://github.com/flutter/flutter/pull/175978) opened on on September 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175978) 151 additions and 1 deletion in 2 files</sub><br />
-
