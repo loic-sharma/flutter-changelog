@@ -11,6 +11,10 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Valentin Vignal](https://github.com/ValentinVignal)</sub>
   <sub><details><summary>2 images...</summary><img width="800" alt="image" src="https://github.com/user-attachments/assets/49fc46fe-bbaa-4b09-b9ee-353b80958bf4" /><img width="800" alt="image" src="https://github.com/user-attachments/assets/07425ed6-031c-4853-a646-17a7c8ae7499" /></details></sub>
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update AGP/Java/Gradle comparison when using analyze --suggestions
+  <sub>[#175808](https://github.com/flutter/flutter/pull/175808) merged on September 24, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/175808) over 2 days, 308 additions and 237 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Allow for custom `Preview` annotations, add support for runtime transformations
   <sub>[#175535](https://github.com/flutter/flutter/pull/175535) merged on September 22, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/175535) over 5 days, 1099 additions and 571 deletions in 30 files</sub>
   <sub>Reviewed by: [Elliott Brooks](https://github.com/elliette)</sub>
@@ -18,10 +22,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix assertion thrown when hot restarting during animation
   <sub>[#175856](https://github.com/flutter/flutter/pull/175856) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175856) over 10 hours, 68 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update AGP/Java/Gradle comparison when using analyze --suggestions
-  <sub>[#175808](https://github.com/flutter/flutter/pull/175808) merged on September 24, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/175808) over 2 days, 308 additions and 237 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `KeyChannelResponder.java`  to use method reference 
   <sub>[#175510](https://github.com/flutter/flutter/pull/175510) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175510) over 5 days, 1 addition and 3 deletions in 1 file</sub>
