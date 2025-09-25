@@ -116,9 +116,6 @@
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; Fix(tools): Rely on FLUTTER_ROOT in Xcode build scripts<br />
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175846) 18 additions and 32 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool / l10n ] Fix issue where localization generator assumed current directory was the target project<br />
-  <sub>[#175881](https://github.com/flutter/flutter/pull/175881) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175881) 70 additions and 26 deletions in 2 files</sub><br />
-
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Exit with code 1 when calling `flutter build` without arguments<br />
   <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175900) 30 additions and 1 deletion in 2 files</sub><br />
 
@@ -136,4 +133,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [win32] Use high resolution timer and avoid event deadlock<br />
   <sub>[#176023](https://github.com/flutter/flutter/pull/176023) opened on on September 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176023) 54 additions and 13 deletions in 2 files</sub><br />
+
+* **[Arthur Halet](https://github.com/ArthurHlt)** &mdash; fix: path was url decoded but it should not for browser<br />
+  <sub>[#176029](https://github.com/flutter/flutter/pull/176029) opened on on September 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176029) 5 additions and 7 deletions in 1 file</sub><br />
 
