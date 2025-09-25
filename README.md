@@ -544,7 +544,7 @@
 ### September 6, 2025 to September 12, 2025
 
 <details>
-<summary>20 commits...</summary>
+<summary>21 commits...</summary>
 
 * **[Rushikesh Bhavsar](https://github.com/Rushikeshbhavsar20)** &mdash; Update transformHitTests documentation for clarity<br />
   <sub>[#174286](https://github.com/flutter/flutter/pull/174286) merged on September 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/174286) over 3 weeks, 47 additions and 1 deletion in 1 file</sub><br />
@@ -574,6 +574,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve `--machine` output<br />
   <sub>[#175003](https://github.com/flutter/flutter/pull/175003) merged on September 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175003) over 2 days, 91 additions and 17 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuFormField does not clear text field content on reset …<br />
+  <sub>[#174937](https://github.com/flutter/flutter/pull/174937) merged on September 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174937) over 4 days, 106 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Define a concept for UniqueObjectTraits.<br />
   <sub>[#174905](https://github.com/flutter/flutter/pull/174905) merged on September 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/174905) over 4 days, 14 additions and 11 deletions in 2 files</sub><br />
