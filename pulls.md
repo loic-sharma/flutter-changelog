@@ -122,9 +122,6 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Exit with code 1 when calling `flutter build` without arguments<br />
   <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175900) 30 additions and 1 deletion in 2 files</sub><br />
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; User Invoke-Expression instead of call operator for nested Powershell scripts invocations (on Windows)<br />
-  <sub>[#175941](https://github.com/flutter/flutter/pull/175941) opened on on September 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175941) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in `Crashes.md`<br />
   <sub>[#175959](https://github.com/flutter/flutter/pull/175959) opened on on September 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175959) 1 addition and 1 deletion in 1 file</sub><br />
 
