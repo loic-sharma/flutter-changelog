@@ -105,7 +105,7 @@
   <sub>[#175675](https://github.com/flutter/flutter/pull/175675) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175675) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
-  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/175706) 65 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/175706) 65 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `SensitiveContentPluginTest.java`<br />
   <sub>[#175721](https://github.com/flutter/flutter/pull/175721) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175721) 7 additions and 8 deletions in 1 file</sub><br />
@@ -127,9 +127,6 @@
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Exit with code 1 when calling `flutter build` without arguments<br />
   <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175900) 30 additions and 1 deletion in 2 files</sub><br />
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [win32] Increase timer resolution and always use WM_TIMER to wake up event loop<br />
-  <sub>[#175927](https://github.com/flutter/flutter/pull/175927) opened on on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175927) 9 additions and 6 deletions in 1 file</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; User Invoke-Expression instead of call operator for nested Powershell scripts invocations (on Windows)<br />
   <sub>[#175941](https://github.com/flutter/flutter/pull/175941) opened on on September 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175941) 1 addition and 1 deletion in 1 file</sub><br />
