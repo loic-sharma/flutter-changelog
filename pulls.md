@@ -134,9 +134,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter templates' Dart style<br />
   <sub>[#175963](https://github.com/flutter/flutter/pull/175963) opened on on September 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175963) 18 additions and 27 deletions in 8 files</sub><br />
 
-* **[Paul Berry](https://github.com/stereotype441)** &mdash; Ignore upcoming `experimental_member_use` warnings.<br />
-  <sub>[#175969](https://github.com/flutter/flutter/pull/175969) opened on on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175969) 2 additions and 0 deletions in 2 files</sub><br />
-
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Refactor: Convert Title widget to StatefulWidget<br />
   <sub>[#176010](https://github.com/flutter/flutter/pull/176010) opened on on September 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176010) 32 additions and 6 deletions in 1 file</sub><br />
 
