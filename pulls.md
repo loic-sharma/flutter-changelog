@@ -141,5 +141,5 @@
   <sub>[#176014](https://github.com/flutter/flutter/pull/176014) opened on on September 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176014) 99 additions and 2 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [win32] Use high resolution timer and avoid event deadlock<br />
-  <sub>[#176023](https://github.com/flutter/flutter/pull/176023) opened on on September 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176023) 50 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#176023](https://github.com/flutter/flutter/pull/176023) opened on on September 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176023) 54 additions and 13 deletions in 2 files</sub><br />
 
