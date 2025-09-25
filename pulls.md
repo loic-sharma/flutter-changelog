@@ -138,5 +138,5 @@
   <sub>[#176010](https://github.com/flutter/flutter/pull/176010) opened on on September 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176010) 32 additions and 6 deletions in 1 file</sub><br />
 
 * **[Musaddiq Ahmed Khan](https://github.com/Musaddiq625)** &mdash; feat: Add isTextModified getter to TextEditingController<br />
-  <sub>[#176014](https://github.com/flutter/flutter/pull/176014) opened on on September 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176014) 99 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#176014](https://github.com/flutter/flutter/pull/176014) opened on on September 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176014) 99 additions and 2 deletions in 2 files</sub><br />
 
