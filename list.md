@@ -745,7 +745,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-10 commits.
+11 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old getting started flow with two new flows
   <sub>[#12341](https://github.com/flutter/website/pull/12341) merged on September 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/12341) over 1 month, 458 additions and 2627 deletions in 70 files</sub>
@@ -774,6 +774,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Clarify Dart VM terminology in hot-reload documentation
   <sub>[#12445](https://github.com/flutter/website/pull/12445) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12445) over 3 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Samui](https://github.com/samui7)** &mdash; docs: remove duplicate steps
+  <sub>[#12465](https://github.com/flutter/website/pull/12465) merged on September 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12465) over 19 minutes, 0 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Replacing old package as its deprecated
   <sub>[#12462](https://github.com/flutter/website/pull/12462) merged on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12462) over 2 hours, 15 additions and 13 deletions in 1 file</sub>
