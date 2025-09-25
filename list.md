@@ -661,7 +661,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-11 commits.
+12 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub>
@@ -698,6 +698,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Update web test for google_maps change
   <sub>[#10055](https://github.com/flutter/packages/pull/10055) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10055) over 41 minutes, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update local_auth_darwin CODEOWNERS
+  <sub>[#10074](https://github.com/flutter/packages/pull/10074) merged on September 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10074) over 22 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [google_fonts] Make a map keyed on FontWeight non-const
   <sub>[#10058](https://github.com/flutter/packages/pull/10058) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10058) over 1 day, 6 additions and 2 deletions in 3 files</sub>
