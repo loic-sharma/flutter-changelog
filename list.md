@@ -757,7 +757,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-12 commits.
+13 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old getting started flow with two new flows
   <sub>[#12341](https://github.com/flutter/website/pull/12341) merged on September 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/12341) over 1 month, 458 additions and 2627 deletions in 70 files</sub>
@@ -765,6 +765,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove and simplify more usages of Liquid
   <sub>[#12451](https://github.com/flutter/website/pull/12451) merged on September 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12451) over 16 minutes, 230 additions and 362 deletions in 28 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Marcin Wróblewski](https://github.com/wrbl606)** &mdash; docs: add `intelligence` to apple-frameworks.md
+  <sub>[#12263](https://github.com/flutter/website/pull/12263) merged on September 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12263) over 1 month, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the page that discusses Flutter support for iOS features
