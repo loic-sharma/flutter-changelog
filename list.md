@@ -757,7 +757,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-17 commits.
+18 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old getting started flow with two new flows
   <sub>[#12341](https://github.com/flutter/website/pull/12341) merged on September 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/12341) over 1 month, 458 additions and 2627 deletions in 70 files</sub>
@@ -777,6 +777,10 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add deprecation breaking change for app bar color
   <sub>[#12156](https://github.com/flutter/website/pull/12156) merged on September 25, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12156) over 3 months, 120 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Tomas Baran](https://github.com/tomasbaran)** &mdash; Update key-value-data.md
+  <sub>[#12265](https://github.com/flutter/website/pull/12265) merged on September 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12265) over 1 month, 26 additions and 54 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Marcin Wróblewski](https://github.com/wrbl606)** &mdash; docs: add `intelligence` to apple-frameworks.md
