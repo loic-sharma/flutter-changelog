@@ -748,7 +748,7 @@
 10 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old getting started flow with two new flows
-  <sub>[#12341](https://github.com/flutter/website/pull/12341) merged on September 25, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/website/pull/12341) over 1 month, 458 additions and 2627 deletions in 70 files</sub>
+  <sub>[#12341](https://github.com/flutter/website/pull/12341) merged on September 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/12341) over 1 month, 458 additions and 2627 deletions in 70 files</sub>
   <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove and simplify more usages of Liquid
