@@ -757,14 +757,22 @@
 
 ### September 20, 2025 to September 26, 2025
 
-14 commits.
+17 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old getting started flow with two new flows
   <sub>[#12341](https://github.com/flutter/website/pull/12341) merged on September 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/12341) over 1 month, 458 additions and 2627 deletions in 70 files</sub>
   <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add breaking change doc for isFocusable
+  <sub>[#12159](https://github.com/flutter/website/pull/12159) merged on September 25, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/12159) over 2 months, 109 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove and simplify more usages of Liquid
   <sub>[#12451](https://github.com/flutter/website/pull/12451) merged on September 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12451) over 16 minutes, 230 additions and 362 deletions in 28 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Sydney Bao](https://github.com/SydneyBao)** &mdash; [3.38] add web-dev-config file description
+  <sub>[#12232](https://github.com/flutter/website/pull/12232) merged on September 25, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12232) over 2 months, 119 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add deprecation breaking change for app bar color
@@ -798,6 +806,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Clarify Dart VM terminology in hot-reload documentation
   <sub>[#12445](https://github.com/flutter/website/pull/12445) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12445) over 3 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Simon Irmancnik](https://github.com/srmncnk)** &mdash; Update firebase.json - adding headless-flutter-engine-with-dedicated-threads proposal
+  <sub>[#12466](https://github.com/flutter/website/pull/12466) merged on September 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12466) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Samui](https://github.com/samui7)** &mdash; docs: remove duplicate steps
   <sub>[#12465](https://github.com/flutter/website/pull/12465) merged on September 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12465) over 19 minutes, 0 additions and 5 deletions in 1 file</sub>
