@@ -113,9 +113,6 @@
 * **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define option for runtime variable    injection in Flutter web templates<br />
   <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes SemanticsFlags.isLink mis-translated in dart ui ffi<br />
-  <sub>[#175812](https://github.com/flutter/flutter/pull/175812) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175812) 99 additions and 2 deletions in 4 files</sub><br />
-
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix error when generating pt_BR localizations<br />
   <sub>[#175832](https://github.com/flutter/flutter/pull/175832) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175832) 33 additions and 1 deletion in 2 files</sub><br />
 
@@ -136,6 +133,9 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in `Crashes.md`<br />
   <sub>[#175959](https://github.com/flutter/flutter/pull/175959) opened on on September 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175959) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter templates' Dart style<br />
+  <sub>[#175963](https://github.com/flutter/flutter/pull/175963) opened on on September 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175963) 18 additions and 27 deletions in 8 files</sub><br />
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; Ignore upcoming `experimental_member_use` warnings.<br />
   <sub>[#175969](https://github.com/flutter/flutter/pull/175969) opened on on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175969) 2 additions and 0 deletions in 2 files</sub><br />
