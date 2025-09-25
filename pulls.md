@@ -104,9 +104,6 @@
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) opened on on September 20, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/175706) 65 additions and 2 deletions in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `SensitiveContentPluginTest.java`<br />
-  <sub>[#175721](https://github.com/flutter/flutter/pull/175721) opened on on September 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175721) 7 additions and 8 deletions in 1 file</sub><br />
-
 * **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
 
