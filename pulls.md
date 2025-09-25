@@ -137,6 +137,3 @@
 * **[Arthur Halet](https://github.com/ArthurHlt)** &mdash; fix: path was url decoded but it should not for browser<br />
   <sub>[#176029](https://github.com/flutter/flutter/pull/176029) opened on on September 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176029) 5 additions and 7 deletions in 1 file</sub><br />
 
-* **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled Parameter to Core Layout Widgets for Dynamic & Responsive UI<br />
-  <sub>[#176038](https://github.com/flutter/flutter/pull/176038) opened on on September 25, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176038) 79 additions and 32 deletions in 2 files</sub><br />
-
