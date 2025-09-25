@@ -129,6 +129,10 @@
   <sub>[#175409](https://github.com/flutter/flutter/pull/175409) merged on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175409) over 6 days, 35 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Put Linux firebase_release_smoke_test on bringup
+  <sub>[#176043](https://github.com/flutter/flutter/pull/176043) merged on September 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176043) over 6 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Optimize scale translate rectangle transforms
   <sub>[#171841](https://github.com/flutter/flutter/pull/171841) merged on September 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/171841) over 2 months, 161 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -136,6 +140,26 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Load fonts in the order addFont is called
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) merged on September 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174253) over 1 month, 29 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbarButton doesn't c…
+  <sub>[#173894](https://github.com/flutter/flutter/pull/173894) merged on September 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173894) over 1 month, 15 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that Drawer & DrawerHeader don't crash in 0x0 environment
+  <sub>[#174772](https://github.com/flutter/flutter/pull/174772) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174772) over 3 weeks, 15 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: cupertino sheet broken example with programatic pop
+  <sub>[#175709](https://github.com/flutter/flutter/pull/175709) merged on September 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175709) over 2 days, 15 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a VerticalDivider doesn't crash at 0x0 environment
+  <sub>[#174761](https://github.com/flutter/flutter/pull/174761) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174761) over 3 weeks, 9 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Dominik Roszkowski](https://github.com/orestesgaolin)** &mdash; Update docs/engine/contributing/Compiling-the-engine.md with macOS build steps
+  <sub>[#175716](https://github.com/flutter/flutter/pull/175716) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175716) over 1 day, 8 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix outdated link of `intl` package to point to the correct new location 
   <sub>[#174498](https://github.com/flutter/flutter/pull/174498) merged on September 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174498) over 3 weeks, 2 additions and 2 deletions in 2 files</sub>
@@ -145,41 +169,17 @@
   <sub>[#175864](https://github.com/flutter/flutter/pull/175864) merged on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175864) over 19 hours, 4 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nate Biggs](https://github.com/biggs0125), [Nicholas Shahan](https://github.com/nshahan)</sub>
 
-* **[Dominik Roszkowski](https://github.com/orestesgaolin)** &mdash; Update docs/engine/contributing/Compiling-the-engine.md with macOS build steps
-  <sub>[#175716](https://github.com/flutter/flutter/pull/175716) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175716) over 1 day, 8 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbarButton doesn't c…
-  <sub>[#173894](https://github.com/flutter/flutter/pull/173894) merged on September 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173894) over 1 month, 15 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MaterialApp doesn't crash in 0x0 environment
   <sub>[#173090](https://github.com/flutter/flutter/pull/173090) merged on September 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173090) over 1 month, 9 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that Drawer & DrawerHeader don't crash in 0x0 environment
-  <sub>[#174772](https://github.com/flutter/flutter/pull/174772) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174772) over 3 weeks, 15 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a VerticalDivider doesn't crash at 0x0 environment
-  <sub>[#174761](https://github.com/flutter/flutter/pull/174761) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174761) over 3 weeks, 9 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: cupertino sheet broken example with programatic pop
-  <sub>[#175709](https://github.com/flutter/flutter/pull/175709) merged on September 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175709) over 2 days, 15 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Put Linux firebase_release_smoke_test on bringup
-  <sub>[#176043](https://github.com/flutter/flutter/pull/176043) merged on September 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176043) over 6 minutes, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not present textures in FlutterMetalLayer if the drawable size changed and the texture's size does not match the new drawable size
+  <sub>[#175450](https://github.com/flutter/flutter/pull/175450) merged on September 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175450) over 1 week, 54 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Add google_fonts to team-framework triage guidelines
   <sub>[#175675](https://github.com/flutter/flutter/pull/175675) merged on September 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175675) over 5 days, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [darshankawar](https://github.com/darshankawar)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not present textures in FlutterMetalLayer if the drawable size changed and the texture's size does not match the new drawable size
-  <sub>[#175450](https://github.com/flutter/flutter/pull/175450) merged on September 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175450) over 1 week, 54 additions and 9 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in tests `README`
   <sub>[#175788](https://github.com/flutter/flutter/pull/175788) merged on September 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175788) over 22 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -799,16 +799,16 @@
   <sub>[#12159](https://github.com/flutter/website/pull/12159) merged on September 25, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/12159) over 2 months, 109 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add deprecation breaking change for app bar color
+  <sub>[#12156](https://github.com/flutter/website/pull/12156) merged on September 25, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12156) over 3 months, 120 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove and simplify more usages of Liquid
   <sub>[#12451](https://github.com/flutter/website/pull/12451) merged on September 22, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12451) over 16 minutes, 230 additions and 362 deletions in 28 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; [3.38] add web-dev-config file description
   <sub>[#12232](https://github.com/flutter/website/pull/12232) merged on September 25, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12232) over 2 months, 119 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add deprecation breaking change for app bar color
-  <sub>[#12156](https://github.com/flutter/website/pull/12156) merged on September 25, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12156) over 3 months, 120 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Tomas Baran](https://github.com/tomasbaran)** &mdash; Update key-value-data.md
