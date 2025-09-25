@@ -637,7 +637,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-10 commits.
+11 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation<br />
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub><br />
@@ -654,6 +654,10 @@
 * **[Nozomi Hijikata](https://github.com/nozomemein)** &mdash; [go_router] Fix Android Cold Start deep link with empty path losing scheme and authority.<br />
   <sub>[#9868](https://github.com/flutter/packages/pull/9868) merged on September 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9868) over 1 month, 7 additions and 8 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for time offsets of ad breaks<br />
+  <sub>[#9953](https://github.com/flutter/packages/pull/9953) merged on September 25, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/9953) over 3 weeks, 202 additions and 112 deletions in 29 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; [go_router_builder] [in_app_purchase_storekit] Removes redundant arguments from annotations<br />
   <sub>[#9964](https://github.com/flutter/packages/pull/9964) merged on September 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/9964) over 2 weeks, 33 additions and 26 deletions in 11 files</sub><br />
