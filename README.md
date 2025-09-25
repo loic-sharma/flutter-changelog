@@ -113,25 +113,13 @@
   <sub>[#175409](https://github.com/flutter/flutter/pull/175409) merged on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175409) over 6 days, 35 additions and 16 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's templates to use dot shorthands<br />
+  <sub>[#175891](https://github.com/flutter/flutter/pull/175891) merged on September 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175891) over 22 hours, 8 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Load fonts in the order addFont is called<br />
   <sub>[#174253](https://github.com/flutter/flutter/pull/174253) merged on September 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174253) over 1 month, 29 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Dominik Roszkowski](https://github.com/orestesgaolin)** &mdash; Update docs/engine/contributing/Compiling-the-engine.md with macOS build steps<br />
-  <sub>[#175716](https://github.com/flutter/flutter/pull/175716) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175716) over 1 day, 8 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MaterialApp doesn't crash in 0x0 environment<br />
-  <sub>[#173090](https://github.com/flutter/flutter/pull/173090) merged on September 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173090) over 1 month, 9 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: cupertino sheet broken example with programatic pop<br />
-  <sub>[#175709](https://github.com/flutter/flutter/pull/175709) merged on September 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175709) over 2 days, 15 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix outdated link of `intl` package to point to the correct new location <br />
-  <sub>[#174498](https://github.com/flutter/flutter/pull/174498) merged on September 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174498) over 3 weeks, 2 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that Drawer & DrawerHeader don't crash in 0x0 environment<br />
   <sub>[#174772](https://github.com/flutter/flutter/pull/174772) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174772) over 3 weeks, 15 additions and 0 deletions in 1 file</sub><br />
@@ -141,13 +129,25 @@
   <sub>[#174761](https://github.com/flutter/flutter/pull/174761) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174761) over 3 weeks, 9 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MaterialApp doesn't crash in 0x0 environment<br />
+  <sub>[#173090](https://github.com/flutter/flutter/pull/173090) merged on September 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173090) over 1 month, 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix outdated link of `intl` package to point to the correct new location <br />
+  <sub>[#174498](https://github.com/flutter/flutter/pull/174498) merged on September 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/174498) over 3 weeks, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: cupertino sheet broken example with programatic pop<br />
+  <sub>[#175709](https://github.com/flutter/flutter/pull/175709) merged on September 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175709) over 2 days, 15 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Dominik Roszkowski](https://github.com/orestesgaolin)** &mdash; Update docs/engine/contributing/Compiling-the-engine.md with macOS build steps<br />
+  <sub>[#175716](https://github.com/flutter/flutter/pull/175716) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175716) over 1 day, 8 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove comment about trailing commas from templates<br />
   <sub>[#175864](https://github.com/flutter/flutter/pull/175864) merged on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175864) over 19 hours, 4 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nate Biggs](https://github.com/biggs0125), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's templates to use dot shorthands<br />
-  <sub>[#175891](https://github.com/flutter/flutter/pull/175891) merged on September 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175891) over 22 hours, 8 additions and 8 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not present textures in FlutterMetalLayer if the drawable size changed and the texture's size does not match the new drawable size<br />
   <sub>[#175450](https://github.com/flutter/flutter/pull/175450) merged on September 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175450) over 1 week, 54 additions and 9 deletions in 2 files</sub><br />
