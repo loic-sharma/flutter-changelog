@@ -789,7 +789,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-18 commits.
+19 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old getting started flow with two new flows
   <sub>[#12341](https://github.com/flutter/website/pull/12341) merged on September 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/12341) over 1 month, 458 additions and 2627 deletions in 70 files</sub>
@@ -842,6 +842,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Clarify Dart VM terminology in hot-reload documentation
   <sub>[#12445](https://github.com/flutter/website/pull/12445) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12445) over 3 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarifying embedding single-view vs multi-view into a web app
+  <sub>[#12467](https://github.com/flutter/website/pull/12467) merged on September 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12467) over 2 hours, 19 additions and 12 deletions in 1 file</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[Simon Irmancnik](https://github.com/srmncnk)** &mdash; Update firebase.json - adding headless-flutter-engine-with-dedicated-threads proposal
   <sub>[#12466](https://github.com/flutter/website/pull/12466) merged on September 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12466) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
