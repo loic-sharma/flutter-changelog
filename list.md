@@ -685,7 +685,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-13 commits.
+14 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub>
@@ -718,6 +718,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove "All right reserved" from all files
   <sub>[#10066](https://github.com/flutter/packages/pull/10066) merged on September 24, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/10066) over 18 hours, 3930 additions and 3897 deletions in 3880 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [David Iglesias](https://github.com/ditman), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Paul Berry](https://github.com/stereotype441)** &mdash; [go_router_builder] Ignore upcoming `experimental_member_use` warnings.
+  <sub>[#10082](https://github.com/flutter/packages/pull/10082) merged on September 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10082) over 1 day, 12 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Update web test for google_maps change
   <sub>[#10055](https://github.com/flutter/packages/pull/10055) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10055) over 41 minutes, 3 additions and 3 deletions in 1 file</sub>
