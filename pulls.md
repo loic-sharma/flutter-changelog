@@ -143,3 +143,6 @@
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing commit base expiration<br />
   <sub>[#176121](https://github.com/flutter/flutter/pull/176121) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176121) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Optimize scale translate rectangle transforms<br />
+  <sub>[#176123](https://github.com/flutter/flutter/pull/176123) opened on on September 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176123) 161 additions and 2 deletions in 4 files</sub><br />
+
