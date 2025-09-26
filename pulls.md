@@ -140,3 +140,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove mention of non-existent `canvaskit_lock.yaml`<br />
   <sub>[#176108](https://github.com/flutter/flutter/pull/176108) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176108) 0 additions and 3 deletions in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox to 143.0<br />
+  <sub>[#176110](https://github.com/flutter/flutter/pull/176110) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176110) 9 additions and 12 deletions in 3 files</sub><br />
+
