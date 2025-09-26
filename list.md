@@ -813,7 +813,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-20 commits.
+21 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old getting started flow with two new flows
   <sub>[#12341](https://github.com/flutter/website/pull/12341) merged on September 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/12341) over 1 month, 458 additions and 2627 deletions in 70 files</sub>
@@ -834,6 +834,10 @@
 * **[Sydney Bao](https://github.com/SydneyBao)** &mdash; [3.38] add web-dev-config file description
   <sub>[#12232](https://github.com/flutter/website/pull/12232) merged on September 25, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12232) over 2 months, 119 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Xuan Nguyen](https://github.com/xuanswe)** &mdash; Focus text field after clicking `SelectAll` icon button
+  <sub>[#12408](https://github.com/flutter/website/pull/12408) merged on September 26, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12408) over 3 weeks, 26 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [Khanh Nguyen](https://github.com/khanhnwin), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Tomas Baran](https://github.com/tomasbaran)** &mdash; Update key-value-data.md
   <sub>[#12265](https://github.com/flutter/website/pull/12265) merged on September 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12265) over 1 month, 26 additions and 54 deletions in 3 files</sub>
