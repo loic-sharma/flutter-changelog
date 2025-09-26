@@ -128,9 +128,6 @@
 * **[Bui Dai Duong](https://github.com/definev)** &mdash; Colored box optimization (#176028)<br />
   <sub>[#176073](https://github.com/flutter/flutter/pull/176073) opened on on September 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176073) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add warn java evaluation to android_workflow<br />
-  <sub>[#176097](https://github.com/flutter/flutter/pull/176097) opened on on September 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176097) 57 additions and 4 deletions in 5 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove mention of non-existent `canvaskit_lock.yaml`<br />
   <sub>[#176108](https://github.com/flutter/flutter/pull/176108) opened on on September 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176108) 0 additions and 3 deletions in 1 file</sub><br />
 
