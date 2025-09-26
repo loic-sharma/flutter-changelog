@@ -6,6 +6,10 @@
 
 67 commits.
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement Regular Windows for the win32 framework + add an example application for regular windows<br />
+  <sub>[#173715](https://github.com/flutter/flutter/pull/173715) merged on September 26, 2025 &mdash; **Extra large:** [184 comments](https://github.com/flutter/flutter/pull/173715) over 1 month, 4154 additions and 50 deletions in 56 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider<br />
   <sub>[#175256](https://github.com/flutter/flutter/pull/175256) merged on September 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175256) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Valentin Vignal](https://github.com/ValentinVignal)</sub><br />
@@ -47,11 +51,6 @@
   <sub>[#175780](https://github.com/flutter/flutter/pull/175780) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175780) over 1 day, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>1 image...</summary><img width="607" height="229" alt="03" src="https://github.com/user-attachments/assets/86bc3b74-753b-4bfa-96c3-637816e121ca" /></details></sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Simplify asserts in `FlutterMutatorTest`<br />
-  <sub>[#175730](https://github.com/flutter/flutter/pull/175730) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175730) over 1 day, 4 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-  <sub><details><summary>1 image...</summary><img width="465" height="116" alt="arfs" src="https://github.com/user-attachments/assets/bed0cb7f-3bfa-4833-9e2d-54fb7a1bf6ca" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `assertNull` to simplify code<br />
   <sub>[#175720](https://github.com/flutter/flutter/pull/175720) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175720) over 1 day, 2 additions and 1 deletion in 1 file</sub><br />
@@ -113,13 +112,13 @@
   <sub>[#174490](https://github.com/flutter/flutter/pull/174490) merged on September 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174490) over 3 weeks, 50 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's templates to use dot shorthands<br />
-  <sub>[#175891](https://github.com/flutter/flutter/pull/175891) merged on September 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175891) over 22 hours, 8 additions and 8 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; In Gradle Flutter task, correctly replace '\ ' with ' '.<br />
   <sub>[#175815](https://github.com/flutter/flutter/pull/175815) merged on September 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/175815) over 2 days, 56 additions and 19 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's templates to use dot shorthands<br />
+  <sub>[#175891](https://github.com/flutter/flutter/pull/175891) merged on September 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175891) over 22 hours, 8 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y-app] Fix Autocomplete semantics label<br />
   <sub>[#175409](https://github.com/flutter/flutter/pull/175409) merged on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175409) over 6 days, 35 additions and 16 deletions in 2 files</sub><br />
@@ -197,21 +196,21 @@
   <sub>[#175794](https://github.com/flutter/flutter/pull/175794) merged on September 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175794) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix docs in `EditableText`<br />
+  <sub>[#175787](https://github.com/flutter/flutter/pull/175787) merged on September 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175787) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix SliverMainAxisGroup SliverEnsureSemantics support<br />
   <sub>[#175671](https://github.com/flutter/flutter/pull/175671) merged on September 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175671) over 5 days, 61 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to `WidgetStateColor`<br />
-  <sub>[#175573](https://github.com/flutter/flutter/pull/175573) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175573) over 6 days, 140 additions and 149 deletions in 34 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Update maximum known Gradle version to 9.1.0<br />
   <sub>[#175543](https://github.com/flutter/flutter/pull/175543) merged on September 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175543) over 5 days, 25 additions and 13 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix docs in `EditableText`<br />
-  <sub>[#175787](https://github.com/flutter/flutter/pull/175787) merged on September 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175787) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add tests for InputDecoration borders (M3 and theme normalization)<br />
+  <sub>[#175838](https://github.com/flutter/flutter/pull/175838) merged on September 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175838) over 1 day, 176 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in tests `README`<br />
   <sub>[#175788](https://github.com/flutter/flutter/pull/175788) merged on September 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175788) over 22 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -221,34 +220,6 @@
   <sub>[#175721](https://github.com/flutter/flutter/pull/175721) merged on September 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175721) over 4 days, 7 additions and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add an assertion for the relationship between `Visibility.maintainState` and `Visibility.maintainFocusability`<br />
-  <sub>[#175552](https://github.com/flutter/flutter/pull/175552) merged on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175552) over 6 days, 24 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; use lambda expressions /method reference to fix linter issue in `DartMessengerTest.java`<br />
-  <sub>[#175733](https://github.com/flutter/flutter/pull/175733) merged on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175733) over 2 days, 7 additions and 16 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactor code to use method reference and lambdas in `DartMessengerTest.java`<br />
-  <sub>[#175731](https://github.com/flutter/flutter/pull/175731) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175731) over 2 days, 7 additions and 16 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Paul Berry](https://github.com/stereotype441)** &mdash; Ignore upcoming `experimental_member_use` warnings.<br />
-  <sub>[#175969](https://github.com/flutter/flutter/pull/175969) merged on September 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175969) over 15 hours, 2 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Introduce a getter for `Project` to get `gradle-wrapper.properties` directly  <br />
-  <sub>[#175485](https://github.com/flutter/flutter/pull/175485) merged on September 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175485) over 1 week, 39 additions and 10 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix small typo in test docs<br />
-  <sub>[#175776](https://github.com/flutter/flutter/pull/175776) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175776) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Broken link in NavigationRail documentation<br />
-  <sub>[#175852](https://github.com/flutter/flutter/pull/175852) merged on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175852) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Updates to flutter web triage links<br />
   <sub>[#175791](https://github.com/flutter/flutter/pull/175791) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175791) over 1 day, 6 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
@@ -257,17 +228,45 @@
   <sub>[#175729](https://github.com/flutter/flutter/pull/175729) merged on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175729) over 2 days, 2 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add tests for InputDecoration borders (M3 and theme normalization)<br />
-  <sub>[#175838](https://github.com/flutter/flutter/pull/175838) merged on September 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175838) over 1 day, 176 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; use lambda expressions /method reference to fix linter issue in `DartMessengerTest.java`<br />
+  <sub>[#175733](https://github.com/flutter/flutter/pull/175733) merged on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175733) over 2 days, 7 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add an assertion for the relationship between `Visibility.maintainState` and `Visibility.maintainFocusability`<br />
+  <sub>[#175552](https://github.com/flutter/flutter/pull/175552) merged on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175552) over 6 days, 24 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; refactor code to use method reference and lambdas in `DartMessengerTest.java`<br />
+  <sub>[#175731](https://github.com/flutter/flutter/pull/175731) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175731) over 2 days, 7 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix small typo in test docs<br />
+  <sub>[#175776](https://github.com/flutter/flutter/pull/175776) merged on September 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175776) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Introduce a getter for `Project` to get `gradle-wrapper.properties` directly  <br />
+  <sub>[#175485](https://github.com/flutter/flutter/pull/175485) merged on September 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175485) over 1 week, 39 additions and 10 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Broken link in NavigationRail documentation<br />
+  <sub>[#175852](https://github.com/flutter/flutter/pull/175852) merged on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175852) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlexibleSpaceBar doesn't crash in 0x0 environment<br />
+  <sub>[#175228](https://github.com/flutter/flutter/pull/175228) merged on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175228) over 1 week, 15 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Paul Berry](https://github.com/stereotype441)** &mdash; Ignore upcoming `experimental_member_use` warnings.<br />
+  <sub>[#175969](https://github.com/flutter/flutter/pull/175969) merged on September 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175969) over 15 hours, 2 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `name` field form `SupportedPlatform` enum<br />
   <sub>[#175611](https://github.com/flutter/flutter/pull/175611) merged on September 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175611) over 4 days, 8 additions and 12 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlexibleSpaceBar doesn't crash in 0x0 environment<br />
-  <sub>[#175228](https://github.com/flutter/flutter/pull/175228) merged on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175228) over 1 week, 15 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to `WidgetStateColor`<br />
+  <sub>[#175573](https://github.com/flutter/flutter/pull/175573) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175573) over 6 days, 140 additions and 149 deletions in 34 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; Roll `package:analyzer` forward to `8.2.0`.<br />
   <sub>[#175849](https://github.com/flutter/flutter/pull/175849) merged on September 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175849) over 12 hours, 10 additions and 10 deletions in 3 files</sub><br />
