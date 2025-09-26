@@ -685,7 +685,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-12 commits.
+13 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub>
@@ -730,6 +730,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [google_fonts] Make a map keyed on FontWeight non-const
   <sub>[#10058](https://github.com/flutter/packages/pull/10058) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10058) over 1 day, 6 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Standardize Gradle `namespace`
+  <sub>[#10084](https://github.com/flutter/packages/pull/10084) merged on September 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10084) over 20 hours, 67 additions and 69 deletions in 61 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android] Remove references to third party `googlesamples/mlkit` code
   <sub>[#10056](https://github.com/flutter/packages/pull/10056) merged on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10056) over 1 day, 2 additions and 37 deletions in 1 file</sub>
