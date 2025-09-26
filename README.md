@@ -813,7 +813,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-19 commits.
+20 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old getting started flow with two new flows<br />
   <sub>[#12341](https://github.com/flutter/website/pull/12341) merged on September 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/12341) over 1 month, 458 additions and 2627 deletions in 70 files</sub><br />
@@ -846,6 +846,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the page that discusses Flutter support for iOS features<br />
   <sub>[#12459](https://github.com/flutter/website/pull/12459) merged on September 24, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12459) over 1 day, 28 additions and 43 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated shader documentation to discuss ImageFilter.shader.<br />
+  <sub>[#12477](https://github.com/flutter/website/pull/12477) merged on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12477) over 2 hours, 32 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Link Get Started header button to new quickstart<br />
   <sub>[#12464](https://github.com/flutter/website/pull/12464) merged on September 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12464) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
