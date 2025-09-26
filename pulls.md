@@ -117,7 +117,7 @@
   <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175900) 30 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in `Crashes.md`<br />
-  <sub>[#175959](https://github.com/flutter/flutter/pull/175959) opened on on September 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175959) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#175959](https://github.com/flutter/flutter/pull/175959) opened on on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175959) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter templates' Dart style<br />
   <sub>[#175963](https://github.com/flutter/flutter/pull/175963) opened on on September 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175963) 18 additions and 27 deletions in 8 files</sub><br />
@@ -138,5 +138,8 @@
   <sub>[#176094](https://github.com/flutter/flutter/pull/176094) opened on on September 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176094) 77 additions and 35 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add warn java evaluation to android_workflow<br />
-  <sub>[#176097](https://github.com/flutter/flutter/pull/176097) opened on on September 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176097) 135 additions and 39 deletions in 6 files</sub><br />
+  <sub>[#176097](https://github.com/flutter/flutter/pull/176097) opened on on September 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176097) 134 additions and 39 deletions in 6 files</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Engine version for 3.35.5<br />
+  <sub>[#176105](https://github.com/flutter/flutter/pull/176105) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176105) 1 addition and 1 deletion in 1 file</sub><br />
 
