@@ -143,3 +143,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox to 143.0<br />
   <sub>[#176110](https://github.com/flutter/flutter/pull/176110) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176110) 13 additions and 16 deletions in 4 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve IDE integration support<br />
+  <sub>[#176114](https://github.com/flutter/flutter/pull/176114) opened on on September 26, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/176114) 840 additions and 169 deletions in 28 files</sub><br />
+
