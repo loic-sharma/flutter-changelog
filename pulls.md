@@ -140,3 +140,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add warn java evaluation to android_workflow<br />
   <sub>[#176097](https://github.com/flutter/flutter/pull/176097) opened on on September 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176097) 134 additions and 39 deletions in 6 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove mention of non-existent `canvaskit_lock.yaml`<br />
+  <sub>[#176108](https://github.com/flutter/flutter/pull/176108) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176108) 0 additions and 3 deletions in 1 file</sub><br />
+
