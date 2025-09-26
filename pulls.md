@@ -134,9 +134,6 @@
 * **[Bui Dai Duong](https://github.com/definev)** &mdash; Colored box optimization (#176028)<br />
   <sub>[#176073](https://github.com/flutter/flutter/pull/176073) opened on on September 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176073) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add kotlin/kgp 2.2.* evaluation criteria. <br />
-  <sub>[#176094](https://github.com/flutter/flutter/pull/176094) opened on on September 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176094) 77 additions and 35 deletions in 2 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add warn java evaluation to android_workflow<br />
   <sub>[#176097](https://github.com/flutter/flutter/pull/176097) opened on on September 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176097) 134 additions and 39 deletions in 6 files</sub><br />
 
