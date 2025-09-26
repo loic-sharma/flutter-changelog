@@ -125,9 +125,6 @@
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Refactor: Convert Title widget to StatefulWidget<br />
   <sub>[#176010](https://github.com/flutter/flutter/pull/176010) opened on on September 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176010) 32 additions and 6 deletions in 1 file</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [win32] Use high resolution timer and avoid event deadlock<br />
-  <sub>[#176023](https://github.com/flutter/flutter/pull/176023) opened on on September 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176023) 54 additions and 13 deletions in 2 files</sub><br />
-
 * **[Arthur Halet](https://github.com/ArthurHlt)** &mdash; fix: path was url decoded but it should not for browser<br />
   <sub>[#176029](https://github.com/flutter/flutter/pull/176029) opened on on September 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176029) 5 additions and 7 deletions in 1 file</sub><br />
 
