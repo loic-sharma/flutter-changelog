@@ -685,7 +685,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-14 commits.
+15 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub>
@@ -714,6 +714,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Add update-release-info command suggestion when version check fails
   <sub>[#9834](https://github.com/flutter/packages/pull/9834) merged on September 24, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9834) over 1 month, 24 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Standardize gradle dependencies
+  <sub>[#10083](https://github.com/flutter/packages/pull/10083) merged on September 26, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/10083) over 21 hours, 358 additions and 297 deletions in 53 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove "All right reserved" from all files
   <sub>[#10066](https://github.com/flutter/packages/pull/10066) merged on September 24, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/10066) over 18 hours, 3930 additions and 3897 deletions in 3880 files</sub>
