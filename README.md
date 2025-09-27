@@ -709,7 +709,7 @@
 
 ### September 20, 2025 to September 26, 2025
 
-15 commits.
+16 commits.
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation<br />
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub><br />
@@ -762,6 +762,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [google_fonts] Make a map keyed on FontWeight non-const<br />
   <sub>[#10058](https://github.com/flutter/packages/pull/10058) merged on September 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10058) over 1 day, 6 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Standardize Java compat in Gradle<br />
+  <sub>[#10091](https://github.com/flutter/packages/pull/10091) merged on September 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10091) over 17 hours, 84 additions and 84 deletions in 42 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Standardize Gradle `namespace`<br />
   <sub>[#10084](https://github.com/flutter/packages/pull/10084) merged on September 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10084) over 20 hours, 67 additions and 69 deletions in 61 files</sub><br />
