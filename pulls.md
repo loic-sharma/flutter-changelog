@@ -108,7 +108,7 @@
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175846) 18 additions and 32 deletions in 2 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Exit with code 1 when calling `flutter build` without arguments<br />
-  <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175900) 30 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175900) 30 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in `Crashes.md`<br />
   <sub>[#175959](https://github.com/flutter/flutter/pull/175959) opened on on September 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175959) 1 addition and 1 deletion in 1 file</sub><br />
