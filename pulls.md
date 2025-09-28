@@ -146,3 +146,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: apply radioGroup role to segmented control widgets<br />
   <sub>[#176157](https://github.com/flutter/flutter/pull/176157) opened on on September 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176157) 123 additions and 95 deletions in 4 files</sub><br />
 
+* **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when ImageBitmap is not supported<br />
+  <sub>[#176175](https://github.com/flutter/flutter/pull/176175) opened on on September 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176175) 1 addition and 0 deletions in 1 file</sub><br />
+
