@@ -143,3 +143,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Update helper/error end padding with m3 spec<br />
   <sub>[#176156](https://github.com/flutter/flutter/pull/176156) opened on on September 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176156) 51 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: apply radioGroup role to segmented control widgets<br />
+  <sub>[#176157](https://github.com/flutter/flutter/pull/176157) opened on on September 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176157) 123 additions and 95 deletions in 4 files</sub><br />
+
