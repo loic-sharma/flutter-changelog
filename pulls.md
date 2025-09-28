@@ -147,5 +147,5 @@
   <sub>[#176157](https://github.com/flutter/flutter/pull/176157) opened on on September 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176157) 123 additions and 95 deletions in 4 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "[Impeller] Optimize scale translate rectangle transforms"<br />
-  <sub>[#176161](https://github.com/flutter/flutter/pull/176161) opened on on September 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176161) 2 additions and 161 deletions in 4 files</sub><br />
+  <sub>[#176161](https://github.com/flutter/flutter/pull/176161) opened on on September 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176161) 2 additions and 161 deletions in 4 files</sub><br />
 
