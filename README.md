@@ -4,7 +4,11 @@
 
 ### September 27, 2025 to October 3, 2025
 
-4 commits.
+5 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add scene plugin lifecycle events<br />
+  <sub>[#175866](https://github.com/flutter/flutter/pull/175866) merged on September 29, 2025 &mdash; **Extra large:** [75 comments](https://github.com/flutter/flutter/pull/175866) over 6 days, 4348 additions and 362 deletions in 55 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve IDE integration support<br />
   <sub>[#176114](https://github.com/flutter/flutter/pull/176114) merged on September 29, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/176114) over 2 days, 869 additions and 159 deletions in 32 files</sub><br />
