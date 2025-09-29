@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-13 commits.
+14 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add scene plugin lifecycle events<br />
   <sub>[#175866](https://github.com/flutter/flutter/pull/175866) merged on September 29, 2025 &mdash; **Extra large:** [75 comments](https://github.com/flutter/flutter/pull/175866) over 6 days, 4348 additions and 362 deletions in 55 files</sub><br />
@@ -18,6 +18,10 @@
   <sub>[#175728](https://github.com/flutter/flutter/pull/175728) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175728) over 1 week, 23 additions and 23 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>1 image...</summary><img width="685" height="230" alt="argss" src="https://github.com/user-attachments/assets/eb5361df-0377-439b-83a2-c433c14ceab9" /></details></sub>
+
+* **[Mohammad Hamdan](https://github.com/mnayef95)** &mdash; [Android] Use headingLevel for heading accessibility property<br />
+  <sub>[#175416](https://github.com/flutter/flutter/pull/175416) merged on September 29, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/175416) over 1 week, 66 additions and 6 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; User Invoke-Expression instead of call operator for nested Powershell scripts invocations (on Windows)<br />
   <sub>[#175941](https://github.com/flutter/flutter/pull/175941) merged on September 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175941) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
