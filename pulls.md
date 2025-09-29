@@ -129,7 +129,7 @@
   <sub>[#176073](https://github.com/flutter/flutter/pull/176073) opened on on September 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176073) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox to 143.0<br />
-  <sub>[#176110](https://github.com/flutter/flutter/pull/176110) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176110) 13 additions and 16 deletions in 4 files</sub><br />
+  <sub>[#176110](https://github.com/flutter/flutter/pull/176110) opened on on September 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176110) 13 additions and 16 deletions in 4 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InputDecorator doesn't crash in 0x0 environment<br />
   <sub>[#176116](https://github.com/flutter/flutter/pull/176116) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176116) 13 additions and 0 deletions in 1 file</sub><br />
