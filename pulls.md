@@ -33,7 +33,7 @@
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
-  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174374) 139 additions and 48 deletions in 2 files</sub><br />
+  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) opened on on August 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/174374) 139 additions and 48 deletions in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Remove dead code from snippet_generator<br />
   <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
@@ -126,7 +126,7 @@
   <sub>[#176047](https://github.com/flutter/flutter/pull/176047) opened on on September 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176047) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[Bui Dai Duong](https://github.com/definev)** &mdash; Colored box optimization (#176028)<br />
-  <sub>[#176073](https://github.com/flutter/flutter/pull/176073) opened on on September 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176073) 16 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#176073](https://github.com/flutter/flutter/pull/176073) opened on on September 26, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176073) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox to 143.0<br />
   <sub>[#176110](https://github.com/flutter/flutter/pull/176110) opened on on September 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176110) 13 additions and 16 deletions in 4 files</sub><br />
@@ -144,10 +144,7 @@
   <sub>[#176176](https://github.com/flutter/flutter/pull/176176) opened on on September 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176176) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Warn if embedder API calls don't return success<br />
-  <sub>[#176184](https://github.com/flutter/flutter/pull/176184) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176184) 53 additions and 16 deletions in 1 file</sub><br />
-
-* **[markyang92](https://github.com/markyang92)** &mdash; BUILD.gn: Support LTO build on Linux<br />
-  <sub>[#176191](https://github.com/flutter/flutter/pull/176191) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176191) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#176184](https://github.com/flutter/flutter/pull/176184) opened on on September 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176184) 53 additions and 16 deletions in 1 file</sub><br />
 
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176192) 1 addition and 0 deletions in 1 file</sub><br />
