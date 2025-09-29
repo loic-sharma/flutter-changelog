@@ -152,3 +152,9 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix name of driver file<br />
   <sub>[#176186](https://github.com/flutter/flutter/pull/176186) opened on on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176186) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[markyang92](https://github.com/markyang92)** &mdash; BUILD.gn: Support LTO build on Linux<br />
+  <sub>[#176191](https://github.com/flutter/flutter/pull/176191) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176191) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
+  <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176192) 1 addition and 0 deletions in 1 file</sub><br />
+
