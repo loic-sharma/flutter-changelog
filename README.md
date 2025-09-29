@@ -4,7 +4,11 @@
 
 ### September 27, 2025 to October 3, 2025
 
-1 commits.
+2 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve IDE integration support<br />
+  <sub>[#176114](https://github.com/flutter/flutter/pull/176114) merged on September 29, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/176114) over 2 days, 869 additions and 159 deletions in 32 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix name of driver file<br />
   <sub>[#176186](https://github.com/flutter/flutter/pull/176186) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176186) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
