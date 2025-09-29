@@ -647,11 +647,15 @@
 
 ### September 27, 2025 to October 3, 2025
 
-1 commits.
+2 commits.
 
 * **[Jamiu Akinyemi](https://github.com/blackorbs-dev)** &mdash; [camera_android_camerax] Implement setDescriptionWhileRecording<br />
   <sub>[#10030](https://github.com/flutter/packages/pull/10030) merged on September 29, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/10030) over 1 week, 1093 additions and 182 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 13<br />
+  <sub>[#9930](https://github.com/flutter/packages/pull/9930) merged on September 29, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/9930) over 1 month, 186 additions and 266 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 ### September 20, 2025 to September 26, 2025
 
