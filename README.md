@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-11 commits.
+13 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add scene plugin lifecycle events<br />
   <sub>[#175866](https://github.com/flutter/flutter/pull/175866) merged on September 29, 2025 &mdash; **Extra large:** [75 comments](https://github.com/flutter/flutter/pull/175866) over 6 days, 4348 additions and 362 deletions in 55 files</sub><br />
@@ -13,6 +13,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve IDE integration support<br />
   <sub>[#176114](https://github.com/flutter/flutter/pull/176114) merged on September 29, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/176114) over 2 days, 869 additions and 159 deletions in 32 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `assertEquals` arguments are in wrong order in `FlutterJNITest.java`<br />
+  <sub>[#175728](https://github.com/flutter/flutter/pull/175728) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175728) over 1 week, 23 additions and 23 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="685" height="230" alt="argss" src="https://github.com/user-attachments/assets/eb5361df-0377-439b-83a2-c433c14ceab9" /></details></sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; User Invoke-Expression instead of call operator for nested Powershell scripts invocations (on Windows)<br />
   <sub>[#175941](https://github.com/flutter/flutter/pull/175941) merged on September 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175941) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -25,6 +30,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update changelog as on 3.35 branch<br />
   <sub>[#176216](https://github.com/flutter/flutter/pull/176216) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176216) over 44 minutes, 5 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[markyang92](https://github.com/markyang92)** &mdash; BUILD.gn: Support LTO build on Linux<br />
+  <sub>[#176191](https://github.com/flutter/flutter/pull/176191) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176191) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add tests for `Project` getters <br />
   <sub>[#175994](https://github.com/flutter/flutter/pull/175994) merged on September 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175994) over 4 days, 251 additions and 1 deletion in 1 file</sub><br />
