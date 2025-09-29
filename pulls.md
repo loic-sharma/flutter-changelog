@@ -158,6 +158,6 @@
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Fix/ios share context menu<br />
   <sub>[#176199](https://github.com/flutter/flutter/pull/176199) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176199) 71 additions and 0 deletions in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate java 11 usage to java 17 usage for templates<br />
-  <sub>[#176203](https://github.com/flutter/flutter/pull/176203) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176203) 32 additions and 32 deletions in 12 files</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate tests and documentation to set java version to 17<br />
+  <sub>[#176204](https://github.com/flutter/flutter/pull/176204) opened on on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176204) 26 additions and 26 deletions in 10 files</sub><br />
 
