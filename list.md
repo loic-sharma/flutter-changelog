@@ -781,9 +781,18 @@
 
 ## flutter/website
 
+### September 27, 2025 to October 3, 2025
+
+1 commits.
+
+* **[Luke Wallace](https://github.com/Lukeluca)** &mdash; Update ios-latest.md with correct issue links
+  <sub>[#12475](https://github.com/flutter/website/pull/12475) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12475) over 3 days, 10 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### September 20, 2025 to September 26, 2025
 
-21 commits.
+<details>
+<summary>21 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old getting started flow with two new flows
   <sub>[#12341](https://github.com/flutter/website/pull/12341) merged on September 25, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/12341) over 1 month, 458 additions and 2627 deletions in 70 files</sub>
@@ -868,6 +877,8 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Changed default reviewer to Flutter docs owner.
   <sub>[#12455](https://github.com/flutter/website/pull/12455) merged on September 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12455) over 6 minutes, 7 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### September 13, 2025 to September 19, 2025
 
