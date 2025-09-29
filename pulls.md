@@ -98,7 +98,7 @@
 * **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define option for runtime placeholder injection in Flutter web index.html file<br />
+* **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define flag for template variable injection in Flutter web builds<br />
   <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix error when generating pt_BR localizations<br />
@@ -109,9 +109,6 @@
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Exit with code 1 when calling `flutter build` without arguments<br />
   <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175900) 30 additions and 1 deletion in 2 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in `Crashes.md`<br />
-  <sub>[#175959](https://github.com/flutter/flutter/pull/175959) opened on on September 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175959) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter templates' Dart style<br />
   <sub>[#175963](https://github.com/flutter/flutter/pull/175963) opened on on September 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175963) 18 additions and 27 deletions in 8 files</sub><br />
@@ -157,4 +154,7 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Framework CI to Use NDK r28c<br />
   <sub>[#176214](https://github.com/flutter/flutter/pull/176214) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176214) 132 additions and 132 deletions in 1 file</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Set minimum supported java version to 17 <br />
+  <sub>[#176226](https://github.com/flutter/flutter/pull/176226) opened on on September 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) 20 additions and 20 deletions in 3 files</sub><br />
 
