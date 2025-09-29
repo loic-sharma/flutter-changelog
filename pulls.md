@@ -161,3 +161,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update the test package for the web engine unit test bits.<br />
   <sub>[#176241](https://github.com/flutter/flutter/pull/176241) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176241) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Stop using deprecated analyzer 7.x.y APIs.<br />
+  <sub>[#176242](https://github.com/flutter/flutter/pull/176242) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176242) 16 additions and 17 deletions in 4 files</sub><br />
+
