@@ -83,9 +83,6 @@
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README<br />
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; fix(impeller): fix params to glDiscardFrameBufferEXT<br />
-  <sub>[#175589](https://github.com/flutter/flutter/pull/175589) opened on on September 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175589) 7 additions and 3 deletions in 1 file</sub><br />
-
 * **[Huy](https://github.com/huycozy)** &mdash; Fix VoiceOver does not announce state of ButtonSegment<br />
   <sub>[#175635](https://github.com/flutter/flutter/pull/175635) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175635) 65 additions and 10 deletions in 2 files</sub><br />
 
