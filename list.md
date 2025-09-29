@@ -663,7 +663,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-6 commits.
+7 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix NV21 Format
   <sub>[#10022](https://github.com/flutter/packages/pull/10022) merged on September 29, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10022) over 1 week, 718 additions and 13 deletions in 13 files</sub>
@@ -672,6 +672,11 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [In_app_purchase_storekit] Do not throw PigeonError when a transaction is pending / cancelled / unverified
   <sub>[#9627](https://github.com/flutter/packages/pull/9627) merged on September 29, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/9627) over 2 months, 59 additions and 49 deletions in 11 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix CODEOWNERS error
+  <sub>[#10127](https://github.com/flutter/packages/pull/10127) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10127) over 40 minutes, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+  <sub><details><summary>1 image...</summary><img width="681" height="323" alt="Screenshot 2025-09-25 at 2 28 16 PM" src="https://github.com/user-attachments/assets/e148707e-8af1-49cf-a2de-74fec52ed973" /></details></sub>
 
 * **[Jamiu Akinyemi](https://github.com/blackorbs-dev)** &mdash; [camera_android_camerax] Implement setDescriptionWhileRecording
   <sub>[#10030](https://github.com/flutter/packages/pull/10030) merged on September 29, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/10030) over 1 week, 1093 additions and 182 deletions in 14 files</sub>
