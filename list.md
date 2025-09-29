@@ -634,9 +634,18 @@
 
 ## flutter/packages
 
+### September 27, 2025 to October 3, 2025
+
+1 commits.
+
+* **[Jamiu Akinyemi](https://github.com/blackorbs-dev)** &mdash; [camera_android_camerax] Implement setDescriptionWhileRecording
+  <sub>[#10030](https://github.com/flutter/packages/pull/10030) merged on September 29, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/10030) over 1 week, 1093 additions and 182 deletions in 14 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
+
 ### September 20, 2025 to September 26, 2025
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Lukas Mirbt](https://github.com/LukasMirbt)** &mdash; [go_router] Fix ShellRoutes break iOS swipe back navigation
   <sub>[#9968](https://github.com/flutter/packages/pull/9968) merged on September 23, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/9968) over 2 weeks, 370 additions and 15 deletions in 6 files</sub>
@@ -701,6 +710,8 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android] Remove references to third party `googlesamples/mlkit` code
   <sub>[#10056](https://github.com/flutter/packages/pull/10056) merged on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10056) over 1 day, 2 additions and 37 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+</details>
 
 ### September 13, 2025 to September 19, 2025
 
