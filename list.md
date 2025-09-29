@@ -659,7 +659,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-3 commits.
+4 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix NV21 Format
   <sub>[#10022](https://github.com/flutter/packages/pull/10022) merged on September 29, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10022) over 1 week, 718 additions and 13 deletions in 13 files</sub>
@@ -672,6 +672,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 13
   <sub>[#9930](https://github.com/flutter/packages/pull/9930) merged on September 29, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/9930) over 1 month, 186 additions and 266 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Separate texture ID on Android
+  <sub>[#10029](https://github.com/flutter/packages/pull/10029) merged on September 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/10029) over 1 week, 527 additions and 289 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub>
 
 ### September 20, 2025 to September 26, 2025
 
