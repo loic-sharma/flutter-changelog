@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 27, 2025 to October 3, 2025
+
+1 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix name of driver file
+  <sub>[#176186](https://github.com/flutter/flutter/pull/176186) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176186) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 ### September 20, 2025 to September 26, 2025
 
-79 commits.
+<details>
+<summary>79 commits...</summary>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [a11y] Add `expanded` flag support to Android.
   <sub>[#174981](https://github.com/flutter/flutter/pull/174981) merged on September 27, 2025 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/174981) over 3 weeks, 429 additions and 41 deletions in 19 files</sub>
@@ -332,6 +341,8 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "[Impeller] Optimize scale translate rectangle transforms"
   <sub>[#176061](https://github.com/flutter/flutter/pull/176061) merged on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176061) over 1 hour, 2 additions and 161 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+</details>
 
 ### September 13, 2025 to September 19, 2025
 
