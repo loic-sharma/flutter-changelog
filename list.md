@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-10 commits.
+11 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add scene plugin lifecycle events
   <sub>[#175866](https://github.com/flutter/flutter/pull/175866) merged on September 29, 2025 &mdash; **Extra large:** [75 comments](https://github.com/flutter/flutter/pull/175866) over 6 days, 4348 additions and 362 deletions in 55 files</sub>
@@ -25,6 +25,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update changelog as on 3.35 branch
   <sub>[#176216](https://github.com/flutter/flutter/pull/176216) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176216) over 44 minutes, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add tests for `Project` getters 
+  <sub>[#175994](https://github.com/flutter/flutter/pull/175994) merged on September 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175994) over 4 days, 251 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean up typos in `PlatformViewsControllerTest.java`
   <sub>[#175725](https://github.com/flutter/flutter/pull/175725) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175725) over 1 week, 5 additions and 9 deletions in 1 file</sub>
