@@ -99,7 +99,7 @@
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define option for runtime variable    injection in Flutter web templates<br />
-  <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
+  <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix error when generating pt_BR localizations<br />
   <sub>[#175832](https://github.com/flutter/flutter/pull/175832) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175832) 33 additions and 1 deletion in 2 files</sub><br />
@@ -151,6 +151,9 @@
 
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Fix/ios share context menu<br />
   <sub>[#176199](https://github.com/flutter/flutter/pull/176199) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176199) 71 additions and 0 deletions in 2 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate java 11 usage to java 17 usage for templates<br />
+  <sub>[#176203](https://github.com/flutter/flutter/pull/176203) opened on on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176203) 32 additions and 32 deletions in 12 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Framework CI to Use NDK r28c<br />
   <sub>[#176214](https://github.com/flutter/flutter/pull/176214) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176214) 132 additions and 132 deletions in 1 file</sub><br />
