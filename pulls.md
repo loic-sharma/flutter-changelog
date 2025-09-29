@@ -147,7 +147,7 @@
   <sub>[#176176](https://github.com/flutter/flutter/pull/176176) opened on on September 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176176) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Warn if embedder API calls don't return success<br />
-  <sub>[#176184](https://github.com/flutter/flutter/pull/176184) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176184) 53 additions and 16 deletions in 1 file</sub><br />
+  <sub>[#176184](https://github.com/flutter/flutter/pull/176184) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176184) 53 additions and 16 deletions in 1 file</sub><br />
 
 * **[markyang92](https://github.com/markyang92)** &mdash; BUILD.gn: Support LTO build on Linux<br />
   <sub>[#176191](https://github.com/flutter/flutter/pull/176191) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176191) 1 addition and 1 deletion in 1 file</sub><br />
@@ -159,5 +159,5 @@
   <sub>[#176199](https://github.com/flutter/flutter/pull/176199) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176199) 71 additions and 0 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate java 11 usage to java 17 usage for templates<br />
-  <sub>[#176203](https://github.com/flutter/flutter/pull/176203) opened on on September 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176203) 32 additions and 32 deletions in 12 files</sub><br />
+  <sub>[#176203](https://github.com/flutter/flutter/pull/176203) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176203) 32 additions and 32 deletions in 12 files</sub><br />
 
