@@ -126,7 +126,7 @@
   <sub>[#176047](https://github.com/flutter/flutter/pull/176047) opened on on September 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176047) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[Bui Dai Duong](https://github.com/definev)** &mdash; Colored box optimization (#176028)<br />
-  <sub>[#176073](https://github.com/flutter/flutter/pull/176073) opened on on September 26, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176073) 16 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#176073](https://github.com/flutter/flutter/pull/176073) opened on on September 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176073) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox to 143.0<br />
   <sub>[#176110](https://github.com/flutter/flutter/pull/176110) opened on on September 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176110) 13 additions and 16 deletions in 4 files</sub><br />
