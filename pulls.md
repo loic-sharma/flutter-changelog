@@ -158,3 +158,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate tests and documentation to set java version to 17<br />
   <sub>[#176204](https://github.com/flutter/flutter/pull/176204) opened on on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176204) 26 additions and 26 deletions in 10 files</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Framework CI to Use NDK r28c<br />
+  <sub>[#176214](https://github.com/flutter/flutter/pull/176214) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176214) 132 additions and 132 deletions in 1 file</sub><br />
+
