@@ -156,5 +156,5 @@
   <sub>[#176214](https://github.com/flutter/flutter/pull/176214) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176214) 132 additions and 132 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set minimum supported java version to 17 <br />
-  <sub>[#176226](https://github.com/flutter/flutter/pull/176226) opened on on September 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) 20 additions and 20 deletions in 3 files</sub><br />
+  <sub>[#176226](https://github.com/flutter/flutter/pull/176226) opened on on September 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) 21 additions and 63 deletions in 4 files</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-5 commits.
+8 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add scene plugin lifecycle events
   <sub>[#175866](https://github.com/flutter/flutter/pull/175866) merged on September 29, 2025 &mdash; **Extra large:** [75 comments](https://github.com/flutter/flutter/pull/175866) over 6 days, 4348 additions and 362 deletions in 55 files</sub>
@@ -13,6 +13,18 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve IDE integration support
   <sub>[#176114](https://github.com/flutter/flutter/pull/176114) merged on September 29, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/176114) over 2 days, 869 additions and 159 deletions in 32 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub>
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; User Invoke-Expression instead of call operator for nested Powershell scripts invocations (on Windows)
+  <sub>[#175941](https://github.com/flutter/flutter/pull/175941) merged on September 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175941) over 5 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in `Crashes.md`
+  <sub>[#175959](https://github.com/flutter/flutter/pull/175959) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175959) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Tirth Patel](https://github.com/tirth-patel-nc)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Update changelog as on 3.35 branch
+  <sub>[#176216](https://github.com/flutter/flutter/pull/176216) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176216) over 44 minutes, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate tests and documentation to set java version to 17
   <sub>[#176204](https://github.com/flutter/flutter/pull/176204) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176204) over 2 hours, 26 additions and 26 deletions in 10 files</sub>
