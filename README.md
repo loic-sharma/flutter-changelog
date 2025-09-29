@@ -651,7 +651,11 @@
 
 ### September 27, 2025 to October 3, 2025
 
-2 commits.
+3 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix NV21 Format<br />
+  <sub>[#10022](https://github.com/flutter/packages/pull/10022) merged on September 29, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10022) over 1 week, 718 additions and 13 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jamiu Akinyemi](https://github.com/blackorbs-dev)** &mdash; [camera_android_camerax] Implement setDescriptionWhileRecording<br />
   <sub>[#10030](https://github.com/flutter/packages/pull/10030) merged on September 29, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/10030) over 1 week, 1093 additions and 182 deletions in 14 files</sub><br />
