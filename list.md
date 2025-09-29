@@ -663,7 +663,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-7 commits.
+8 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix NV21 Format
   <sub>[#10022](https://github.com/flutter/packages/pull/10022) merged on September 29, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10022) over 1 week, 718 additions and 13 deletions in 13 files</sub>
@@ -693,6 +693,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Update Pigeon in Android implementation
   <sub>[#10126](https://github.com/flutter/packages/pull/10126) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10126) over 1 hour, 103 additions and 14 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from d693b4b9dbac to ac4e799d2370 (4 revisions)
+  <sub>[#10124](https://github.com/flutter/packages/pull/10124) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10124) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### September 20, 2025 to September 26, 2025
 
