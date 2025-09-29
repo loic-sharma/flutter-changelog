@@ -158,3 +158,6 @@
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Fix/ios share context menu<br />
   <sub>[#176199](https://github.com/flutter/flutter/pull/176199) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176199) 71 additions and 0 deletions in 2 files</sub><br />
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement framework interface for the dialog window archetype<br />
+  <sub>[#176202](https://github.com/flutter/flutter/pull/176202) opened on on September 29, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176202) 399 additions and 73 deletions in 2 files</sub><br />
+
