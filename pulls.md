@@ -113,9 +113,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InputDatePickerFormField doesn't crash in 0x0 envir…<br />
   <sub>[#176047](https://github.com/flutter/flutter/pull/176047) opened on on September 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176047) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[Bui Dai Duong](https://github.com/definev)** &mdash; Colored box optimization (#176028)<br />
-  <sub>[#176073](https://github.com/flutter/flutter/pull/176073) opened on on September 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176073) 16 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InputDecorator doesn't crash in 0x0 environment<br />
   <sub>[#176116](https://github.com/flutter/flutter/pull/176116) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176116) 13 additions and 0 deletions in 1 file</sub><br />
 
