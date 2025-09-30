@@ -122,9 +122,6 @@
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Fix/ios share context menu<br />
   <sub>[#176199](https://github.com/flutter/flutter/pull/176199) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176199) 71 additions and 0 deletions in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Set minimum supported java version to 17 <br />
-  <sub>[#176226](https://github.com/flutter/flutter/pull/176226) opened on on September 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) 18 additions and 60 deletions in 4 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ devices<br />
   <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176235) 22 additions and 0 deletions in 1 file</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-22 commits.
+25 commits.
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub>
@@ -19,6 +19,10 @@
   <sub>[#176114](https://github.com/flutter/flutter/pull/176114) merged on September 29, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/176114) over 2 days, 869 additions and 159 deletions in 32 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub>
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement framework interface for the dialog window archetype
+  <sub>[#176202](https://github.com/flutter/flutter/pull/176202) merged on September 30, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/176202) over 1 day, 822 additions and 35 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `assertEquals` arguments are in wrong order in `FlutterJNITest.java`
   <sub>[#175728](https://github.com/flutter/flutter/pull/175728) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175728) over 1 week, 23 additions and 23 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
@@ -32,6 +36,10 @@
   <sub>[#175941](https://github.com/flutter/flutter/pull/175941) merged on September 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175941) over 5 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update flutter test to use SemanticsFlags
+  <sub>[#175987](https://github.com/flutter/flutter/pull/175987) merged on September 30, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/175987) over 5 days, 268 additions and 105 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in `Crashes.md`
   <sub>[#175959](https://github.com/flutter/flutter/pull/175959) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175959) over 4 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Tirth Patel](https://github.com/tirth-patel-nc)</sub>
@@ -43,6 +51,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update changelog as on 3.35 branch
   <sub>[#176216](https://github.com/flutter/flutter/pull/176216) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176216) over 44 minutes, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Set minimum supported java version to 17 
+  <sub>[#176226](https://github.com/flutter/flutter/pull/176226) merged on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) over 22 hours, 18 additions and 60 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce timeout for Linux web_tool_tests back to 60
   <sub>[#176286](https://github.com/flutter/flutter/pull/176286) merged on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176286) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
