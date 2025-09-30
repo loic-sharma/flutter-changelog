@@ -87,7 +87,7 @@
   <sub>[#175635](https://github.com/flutter/flutter/pull/175635) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175635) 65 additions and 10 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode cache errors<br />
-  <sub>[#175659](https://github.com/flutter/flutter/pull/175659) opened on on September 19, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/175659) 783 additions and 269 deletions in 24 files</sub><br />
+  <sub>[#175659](https://github.com/flutter/flutter/pull/175659) opened on on September 19, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/175659) 785 additions and 271 deletions in 24 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
   <sub>[#175664](https://github.com/flutter/flutter/pull/175664) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175664) 96 additions and 45 deletions in 2 files</sub><br />
@@ -159,7 +159,7 @@
   <sub>[#176241](https://github.com/flutter/flutter/pull/176241) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176241) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Improve menu item accessibility semantics<br />
-  <sub>[#176255](https://github.com/flutter/flutter/pull/176255) opened on on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176255) 108 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#176255](https://github.com/flutter/flutter/pull/176255) opened on on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176255) 107 additions and 6 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
   <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176256) 1 addition and 2 deletions in 1 file</sub><br />
