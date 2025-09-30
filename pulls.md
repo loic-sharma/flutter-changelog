@@ -140,3 +140,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField does not inherit local InputDecorationTheme<br />
   <sub>[#176300](https://github.com/flutter/flutter/pull/176300) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176300) 57 additions and 18 deletions in 2 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuAnchor doesn't crash in 0x0 environment<br />
+  <sub>[#176302](https://github.com/flutter/flutter/pull/176302) opened on on September 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176302) 11 additions and 0 deletions in 1 file</sub><br />
+
