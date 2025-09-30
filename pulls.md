@@ -87,7 +87,7 @@
   <sub>[#175635](https://github.com/flutter/flutter/pull/175635) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175635) 65 additions and 10 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode cache errors<br />
-  <sub>[#175659](https://github.com/flutter/flutter/pull/175659) opened on on September 19, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/175659) 785 additions and 271 deletions in 24 files</sub><br />
+  <sub>[#175659](https://github.com/flutter/flutter/pull/175659) opened on on September 19, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/175659) 787 additions and 273 deletions in 24 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
   <sub>[#175664](https://github.com/flutter/flutter/pull/175664) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175664) 96 additions and 45 deletions in 2 files</sub><br />
