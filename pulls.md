@@ -68,9 +68,6 @@
 * **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form<br />
   <sub>[#175515](https://github.com/flutter/flutter/pull/175515) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175515) 122 additions and 11 deletions in 3 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] Add isA11yFocusable flag<br />
-  <sub>[#175551](https://github.com/flutter/flutter/pull/175551) opened on on September 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175551) 99 additions and 1 deletion in 13 files</sub><br />
-
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README<br />
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
 
