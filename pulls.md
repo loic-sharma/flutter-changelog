@@ -134,9 +134,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Persist "Filter by Selected File" toggle<br />
   <sub>[#176289](https://github.com/flutter/flutter/pull/176289) opened on on September 30, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/176289) 360 additions and 13 deletions in 12 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField does not inherit local InputDecorationTheme<br />
-  <sub>[#176300](https://github.com/flutter/flutter/pull/176300) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176300) 57 additions and 18 deletions in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuAnchor doesn't crash in 0x0 environment<br />
   <sub>[#176302](https://github.com/flutter/flutter/pull/176302) opened on on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176302) 11 additions and 0 deletions in 1 file</sub><br />
 
