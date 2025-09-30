@@ -74,9 +74,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] Add isA11yFocusable flag<br />
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) opened on on September 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175551) 99 additions and 1 deletion in 13 files</sub><br />
 
-* **[Dipen Pradhan](https://github.com/dipenpradhan)** &mdash; Make Impeller geometry methods constexpr<br />
-  <sub>[#175559](https://github.com/flutter/flutter/pull/175559) opened on on September 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175559) 14 additions and 3 deletions in 1 file</sub><br />
-
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README<br />
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
 
