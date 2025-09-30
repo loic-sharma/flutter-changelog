@@ -137,9 +137,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ListTile doesn't crash in 0x0 environment<br />
   <sub>[#176176](https://github.com/flutter/flutter/pull/176176) opened on on September 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176176) 11 additions and 0 deletions in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Warn if embedder API calls don't return success<br />
-  <sub>[#176184](https://github.com/flutter/flutter/pull/176184) opened on on September 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176184) 53 additions and 16 deletions in 1 file</sub><br />
-
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176192) 1 addition and 0 deletions in 1 file</sub><br />
 

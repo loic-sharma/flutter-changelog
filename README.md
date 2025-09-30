@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-16 commits.
+17 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add scene plugin lifecycle events<br />
   <sub>[#175866](https://github.com/flutter/flutter/pull/175866) merged on September 29, 2025 &mdash; **Extra large:** [75 comments](https://github.com/flutter/flutter/pull/175866) over 6 days, 4348 additions and 362 deletions in 55 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update changelog as on 3.35 branch<br />
   <sub>[#176216](https://github.com/flutter/flutter/pull/176216) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176216) over 44 minutes, 5 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Warn if embedder API calls don't return success<br />
+  <sub>[#176184](https://github.com/flutter/flutter/pull/176184) merged on September 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176184) over 22 hours, 53 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Rename DisplayMonitor to DisplayManager on Win32<br />
   <sub>[#175619](https://github.com/flutter/flutter/pull/175619) merged on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175619) over 1 week, 70 additions and 68 deletions in 12 files</sub><br />
