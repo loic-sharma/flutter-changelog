@@ -141,5 +141,5 @@
   <sub>[#176318](https://github.com/flutter/flutter/pull/176318) opened on on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176318) 123 additions and 1 deletion in 2 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: support older git (ubuntu 22.04) in content hash<br />
-  <sub>[#176321](https://github.com/flutter/flutter/pull/176321) opened on on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176321) 191 additions and 54 deletions in 3 files</sub><br />
+  <sub>[#176321](https://github.com/flutter/flutter/pull/176321) opened on on September 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176321) 191 additions and 54 deletions in 3 files</sub><br />
 
