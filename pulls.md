@@ -39,7 +39,7 @@
   <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: findChildIndexCallback to take seperators into account for seperated named constructor in ListView and SliverList<br />
-  <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174491) 127 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174491) 129 additions and 2 deletions in 3 files</sub><br />
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; feat(widgets): add semanticIndexOffset to SliverList/SliverGrid/Fixed/Varied builder constructors + tests<br />
   <sub>[#174815](https://github.com/flutter/flutter/pull/174815) opened on on September 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174815) 104 additions and 0 deletions in 3 files</sub><br />
@@ -96,7 +96,7 @@
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define flag for template variable injection in Flutter web builds<br />
-  <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
+  <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix error when generating pt_BR localizations<br />
   <sub>[#175832](https://github.com/flutter/flutter/pull/175832) opened on on September 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175832) 33 additions and 1 deletion in 2 files</sub><br />
@@ -132,7 +132,7 @@
   <sub>[#176121](https://github.com/flutter/flutter/pull/176121) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176121) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: apply radioGroup role to segmented control widgets<br />
-  <sub>[#176157](https://github.com/flutter/flutter/pull/176157) opened on on September 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176157) 121 additions and 95 deletions in 4 files</sub><br />
+  <sub>[#176157](https://github.com/flutter/flutter/pull/176157) opened on on September 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176157) 123 additions and 95 deletions in 4 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ListTile doesn't crash in 0x0 environment<br />
   <sub>[#176176](https://github.com/flutter/flutter/pull/176176) opened on on September 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176176) 11 additions and 0 deletions in 1 file</sub><br />
