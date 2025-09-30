@@ -882,7 +882,11 @@
 
 ### September 27, 2025 to October 3, 2025
 
-1 commits.
+2 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fixing description of iOS linking page
+  <sub>[#12485](https://github.com/flutter/website/pull/12485) merged on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12485) over 23 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Luke Wallace](https://github.com/Lukeluca)** &mdash; Update ios-latest.md with correct issue links
   <sub>[#12475](https://github.com/flutter/website/pull/12475) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12475) over 3 days, 10 additions and 10 deletions in 1 file</sub>
