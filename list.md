@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-25 commits.
+26 commits.
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub>
@@ -43,6 +43,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in `Crashes.md`
   <sub>[#175959](https://github.com/flutter/flutter/pull/175959) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175959) over 4 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Tirth Patel](https://github.com/tirth-patel-nc)</sub>
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Web semantics: Fix email field selection/cursor by using type="text" + inputmode="email"
+  <sub>[#175876](https://github.com/flutter/flutter/pull/175876) merged on September 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175876) over 1 week, 37 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GN to 81b24e01
   <sub>[#176119](https://github.com/flutter/flutter/pull/176119) merged on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176119) over 3 days, 53 additions and 54 deletions in 28 files</sub>
@@ -910,7 +914,11 @@
 
 ### September 27, 2025 to October 3, 2025
 
-3 commits.
+4 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update supported platforms for iOS and macOS
+  <sub>[#12487](https://github.com/flutter/website/pull/12487) merged on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12487) over 1 hour, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update CI-tested Firefox version
   <sub>[#12478](https://github.com/flutter/website/pull/12478) merged on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12478) over 3 days, 1 addition and 1 deletion in 1 file</sub>
