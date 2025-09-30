@@ -137,9 +137,6 @@
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Fix/ios share context menu<br />
   <sub>[#176199](https://github.com/flutter/flutter/pull/176199) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176199) 71 additions and 0 deletions in 2 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Framework CI to Use NDK r28c<br />
-  <sub>[#176214](https://github.com/flutter/flutter/pull/176214) opened on on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176214) 132 additions and 132 deletions in 1 file</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set minimum supported java version to 17 <br />
   <sub>[#176226](https://github.com/flutter/flutter/pull/176226) opened on on September 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) 18 additions and 60 deletions in 4 files</sub><br />
 
