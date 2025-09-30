@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-19 commits.
+20 commits.
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub>
@@ -43,6 +43,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update changelog as on 3.35 branch
   <sub>[#176216](https://github.com/flutter/flutter/pull/176216) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176216) over 44 minutes, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to `WidgetStateBorderSide`
+  <sub>[#176164](https://github.com/flutter/flutter/pull/176164) merged on September 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176164) over 2 days, 39 additions and 47 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update the test package for the web engine unit test bits.
   <sub>[#176241](https://github.com/flutter/flutter/pull/176241) merged on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176241) over 5 hours, 2 additions and 2 deletions in 2 files</sub>
