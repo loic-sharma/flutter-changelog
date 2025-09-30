@@ -4,7 +4,12 @@
 
 ### September 27, 2025 to October 3, 2025
 
-18 commits.
+19 commits.
+
+* **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
+  <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="662" height="622" alt="image" src="https://github.com/user-attachments/assets/efd01c29-4aed-48c9-b719-1bbd84f2d406" /><img width="624" height="630" alt="image" src="https://github.com/user-attachments/assets/06cb2ea8-86cc-4200-aae0-1e864493c27e" /></details></sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add scene plugin lifecycle events<br />
   <sub>[#175866](https://github.com/flutter/flutter/pull/175866) merged on September 29, 2025 &mdash; **Extra large:** [75 comments](https://github.com/flutter/flutter/pull/175866) over 6 days, 4348 additions and 362 deletions in 55 files</sub><br />
