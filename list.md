@@ -733,7 +733,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-10 commits.
+11 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix NV21 Format
   <sub>[#10022](https://github.com/flutter/packages/pull/10022) merged on September 29, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10022) over 1 week, 718 additions and 13 deletions in 13 files</sub>
@@ -767,6 +767,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Separate texture ID on Android
   <sub>[#10029](https://github.com/flutter/packages/pull/10029) merged on September 29, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/10029) over 1 week, 527 additions and 289 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors - platform interface
+  <sub>[#10023](https://github.com/flutter/packages/pull/10023) merged on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10023) over 1 week, 167 additions and 16 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Update Pigeon in Android implementation
   <sub>[#10126](https://github.com/flutter/packages/pull/10126) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10126) over 1 hour, 103 additions and 14 deletions in 5 files</sub>
