@@ -161,3 +161,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
   <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176256) 1 addition and 2 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add InputDecoration.decorationBuilder<br />
+  <sub>[#176264](https://github.com/flutter/flutter/pull/176264) opened on on September 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176264) 252 additions and 35 deletions in 2 files</sub><br />
+
