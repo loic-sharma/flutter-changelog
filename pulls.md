@@ -153,5 +153,5 @@
   <sub>[#176286](https://github.com/flutter/flutter/pull/176286) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176286) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Persist "Filter by Selected File" toggle<br />
-  <sub>[#176289](https://github.com/flutter/flutter/pull/176289) opened on on September 30, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/176289) 343 additions and 12 deletions in 12 files</sub><br />
+  <sub>[#176289](https://github.com/flutter/flutter/pull/176289) opened on on September 30, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/176289) 343 additions and 12 deletions in 12 files</sub><br />
 
