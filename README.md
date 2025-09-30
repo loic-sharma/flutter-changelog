@@ -712,7 +712,7 @@
 <summary>1 commits...</summary>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]Do not re-add delaying recognizer on iOS 26<br />
-  <sub>[#175097](https://github.com/flutter/flutter/pull/175097) merged on September 13, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175097) over 4 days, 21 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#175097](https://github.com/flutter/flutter/pull/175097) merged on September 13, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175097) over 4 days, 21 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 </details>
