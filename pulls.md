@@ -119,9 +119,6 @@
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing commit base expiration<br />
   <sub>[#176121](https://github.com/flutter/flutter/pull/176121) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176121) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ListTile doesn't crash in 0x0 environment<br />
-  <sub>[#176176](https://github.com/flutter/flutter/pull/176176) opened on on September 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176176) 11 additions and 0 deletions in 1 file</sub><br />
-
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176192) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -130,9 +127,6 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set minimum supported java version to 17 <br />
   <sub>[#176226](https://github.com/flutter/flutter/pull/176226) opened on on September 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) 18 additions and 60 deletions in 4 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Material doesn't crash in 0x0 environment<br />
-  <sub>[#176231](https://github.com/flutter/flutter/pull/176231) opened on on September 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176231) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ devices<br />
   <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176235) 22 additions and 0 deletions in 1 file</sub><br />

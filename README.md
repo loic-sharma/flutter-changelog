@@ -886,7 +886,11 @@
 
 ### September 27, 2025 to October 3, 2025
 
-2 commits.
+3 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update CI-tested Firefox version<br />
+  <sub>[#12478](https://github.com/flutter/website/pull/12478) merged on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12478) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fixing description of iOS linking page<br />
   <sub>[#12485](https://github.com/flutter/website/pull/12485) merged on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12485) over 23 hours, 2 additions and 2 deletions in 1 file</sub><br />
