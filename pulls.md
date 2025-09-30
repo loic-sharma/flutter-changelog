@@ -143,14 +143,11 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ devices<br />
   <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176235) 22 additions and 0 deletions in 1 file</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Improve menu item accessibility semantics<br />
-  <sub>[#176255](https://github.com/flutter/flutter/pull/176255) opened on on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176255) 107 additions and 6 deletions in 2 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
   <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176256) 1 addition and 2 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce timeout for Linux web_tool_tests back to 60<br />
-  <sub>[#176286](https://github.com/flutter/flutter/pull/176286) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176286) 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#176286](https://github.com/flutter/flutter/pull/176286) opened on on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176286) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Persist "Filter by Selected File" toggle<br />
   <sub>[#176289](https://github.com/flutter/flutter/pull/176289) opened on on September 30, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/176289) 343 additions and 12 deletions in 12 files</sub><br />
