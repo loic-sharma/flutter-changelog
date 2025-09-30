@@ -140,3 +140,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b<br />
   <sub>[#176322](https://github.com/flutter/flutter/pull/176322) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176322) 23 additions and 7 deletions in 5 files</sub><br />
 
+* **[Mayank Patke](https://github.com/fishythefish)** &mdash; Remove references to dart:js_util<br />
+  <sub>[#176323](https://github.com/flutter/flutter/pull/176323) opened on on September 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176323) 1 addition and 15 deletions in 5 files</sub><br />
+
