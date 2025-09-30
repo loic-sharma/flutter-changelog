@@ -95,9 +95,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter templates' Dart style<br />
   <sub>[#175963](https://github.com/flutter/flutter/pull/175963) opened on on September 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175963) 18 additions and 27 deletions in 8 files</sub><br />
 
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Refactor: Convert Title widget to StatefulWidget<br />
-  <sub>[#176010](https://github.com/flutter/flutter/pull/176010) opened on on September 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176010) 32 additions and 6 deletions in 1 file</sub><br />
-
 * **[Arthur Halet](https://github.com/ArthurHlt)** &mdash; fix: path was url decoded but it should not for browser<br />
   <sub>[#176029](https://github.com/flutter/flutter/pull/176029) opened on on September 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176029) 5 additions and 7 deletions in 1 file</sub><br />
 
