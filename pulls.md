@@ -158,3 +158,9 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update the test package for the web engine unit test bits.<br />
   <sub>[#176241](https://github.com/flutter/flutter/pull/176241) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176241) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Improve menu item accessibility semantics<br />
+  <sub>[#176255](https://github.com/flutter/flutter/pull/176255) opened on on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176255) 108 additions and 6 deletions in 2 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
+  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176256) 1 addition and 2 deletions in 1 file</sub><br />
+
