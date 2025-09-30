@@ -140,3 +140,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: support older git (ubuntu 22.04) in content hash<br />
   <sub>[#176321](https://github.com/flutter/flutter/pull/176321) opened on on September 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176321) 191 additions and 54 deletions in 3 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b<br />
+  <sub>[#176322](https://github.com/flutter/flutter/pull/176322) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176322) 23 additions and 7 deletions in 5 files</sub><br />
+
