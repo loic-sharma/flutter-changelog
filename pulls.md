@@ -117,7 +117,7 @@
   <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176235) 22 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
-  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176256) 37 additions and 33 deletions in 2 files</sub><br />
+  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176256) 37 additions and 33 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Persist "Filter by Selected File" toggle<br />
   <sub>[#176289](https://github.com/flutter/flutter/pull/176289) opened on on September 30, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/176289) 360 additions and 13 deletions in 12 files</sub><br />
@@ -126,7 +126,7 @@
   <sub>[#176302](https://github.com/flutter/flutter/pull/176302) opened on on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176302) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Windowing integration tests now await change futures if a changes is expected + commenting our erroneous icon in Runner.rc for win32<br />
-  <sub>[#176312](https://github.com/flutter/flutter/pull/176312) opened on on September 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176312) 49 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#176312](https://github.com/flutter/flutter/pull/176312) opened on on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176312) 49 additions and 15 deletions in 3 files</sub><br />
 
 * **[AuraAi-vet](https://github.com/AuraAi-vet)** &mdash; Updated <br />
   <sub>[#176314](https://github.com/flutter/flutter/pull/176314) opened on on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176314) 151 additions and 1 deletion in 2 files</sub><br />
