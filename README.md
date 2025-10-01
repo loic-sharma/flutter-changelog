@@ -950,7 +950,11 @@
 
 ### September 27, 2025 to October 3, 2025
 
-4 commits.
+5 commits.
+
+* **[JaYoung Lee](https://github.com/jayoung-lee)** &mdash; Announce 2025 Q4 survey<br />
+  <sub>[#12468](https://github.com/flutter/website/pull/12468) merged on October 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12468) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update supported platforms for iOS and macOS<br />
   <sub>[#12487](https://github.com/flutter/website/pull/12487) merged on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12487) over 1 hour, 4 additions and 4 deletions in 1 file</sub><br />
