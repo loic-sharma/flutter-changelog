@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-30 commits.
+31 commits.
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub>
@@ -67,6 +67,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update changelog as on 3.35 branch
   <sub>[#176216](https://github.com/flutter/flutter/pull/176216) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176216) over 44 minutes, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix docs referencing deprecated radio properties
+  <sub>[#176244](https://github.com/flutter/flutter/pull/176244) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176244) over 1 day, 7 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add verbose logs to module_uiscene_test_ios
   <sub>[#176306](https://github.com/flutter/flutter/pull/176306) merged on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176306) over 4 hours, 7 additions and 4 deletions in 1 file</sub>
