@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-26 commits.
+28 commits.
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub>
@@ -27,6 +27,10 @@
   <sub>[#175728](https://github.com/flutter/flutter/pull/175728) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175728) over 1 week, 23 additions and 23 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
   <sub><details><summary>1 image...</summary><img width="685" height="230" alt="argss" src="https://github.com/user-attachments/assets/eb5361df-0377-439b-83a2-c433c14ceab9" /></details></sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Forward Widget Inspector navigation events via DTD
+  <sub>[#176218](https://github.com/flutter/flutter/pull/176218) merged on September 30, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/176218) over 1 day, 369 additions and 35 deletions in 23 files</sub>
+  <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Mohammad Hamdan](https://github.com/mnayef95)** &mdash; [Android] Use headingLevel for heading accessibility property
   <sub>[#175416](https://github.com/flutter/flutter/pull/175416) merged on September 29, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/175416) over 1 week, 66 additions and 6 deletions in 12 files</sub>
@@ -55,6 +59,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update changelog as on 3.35 branch
   <sub>[#176216](https://github.com/flutter/flutter/pull/176216) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176216) over 44 minutes, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add verbose logs to module_uiscene_test_ios
+  <sub>[#176306](https://github.com/flutter/flutter/pull/176306) merged on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176306) over 4 hours, 7 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set minimum supported java version to 17 
   <sub>[#176226](https://github.com/flutter/flutter/pull/176226) merged on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) over 22 hours, 18 additions and 60 deletions in 4 files</sub>
