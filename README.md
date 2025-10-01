@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-28 commits.
+30 commits.
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add scene plugin lifecycle events<br />
   <sub>[#175866](https://github.com/flutter/flutter/pull/175866) merged on September 29, 2025 &mdash; **Extra large:** [75 comments](https://github.com/flutter/flutter/pull/175866) over 6 days, 4348 additions and 362 deletions in 55 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds dart ui API for setting application level locale<br />
+  <sub>[#175100](https://github.com/flutter/flutter/pull/175100) merged on September 30, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/175100) over 3 weeks, 389 additions and 11 deletions in 43 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Reid Baker](https://github.com/reidbaker), [Mouad Debbar](https://github.com/mdebbar), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve IDE integration support<br />
   <sub>[#176114](https://github.com/flutter/flutter/pull/176114) merged on September 29, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/176114) over 2 days, 869 additions and 159 deletions in 32 files</sub><br />
@@ -43,6 +47,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update flutter test to use SemanticsFlags<br />
   <sub>[#175987](https://github.com/flutter/flutter/pull/175987) merged on September 30, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/175987) over 5 days, 268 additions and 105 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace `onPop` usage with `onPopWithResult` in `navigation_bar.2.dart `<br />
+  <sub>[#174841](https://github.com/flutter/flutter/pull/174841) merged on September 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174841) over 4 weeks, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in `Crashes.md`<br />
   <sub>[#175959](https://github.com/flutter/flutter/pull/175959) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175959) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
