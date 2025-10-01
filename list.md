@@ -813,7 +813,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-12 commits.
+13 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix NV21 Format
   <sub>[#10022](https://github.com/flutter/packages/pull/10022) merged on September 29, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10022) over 1 week, 718 additions and 13 deletions in 13 files</sub>
@@ -851,6 +851,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Re-enable all Android legacy emulator tests
   <sub>[#10141](https://github.com/flutter/packages/pull/10141) merged on October 1, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10141) over 1 day, 3 additions and 13 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mayank Patke](https://github.com/fishythefish)** &mdash; [google_sign_in] Remove references to dart:js_util
+  <sub>[#10148](https://github.com/flutter/packages/pull/10148) merged on October 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10148) over 22 hours, 2 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors - platform interface
   <sub>[#10023](https://github.com/flutter/packages/pull/10023) merged on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10023) over 1 week, 167 additions and 16 deletions in 7 files</sub>

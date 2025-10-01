@@ -128,3 +128,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuBar doesn't crash in 0x0 environment<br />
   <sub>[#176368](https://github.com/flutter/flutter/pull/176368) opened on on October 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176368) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Create internal menu controller if external controller is changed to null.<br />
+  <sub>[#176375](https://github.com/flutter/flutter/pull/176375) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176375) 41 additions and 1 deletion in 2 files</sub><br />
+
