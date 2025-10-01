@@ -957,7 +957,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[JaYoung Lee](https://github.com/jayoung-lee)** &mdash; Announce 2025 Q4 survey
-  <sub>[#12468](https://github.com/flutter/website/pull/12468) merged on October 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12468) over 5 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>[#12468](https://github.com/flutter/website/pull/12468) merged on October 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12468) over 5 days, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update supported platforms for iOS and macOS
