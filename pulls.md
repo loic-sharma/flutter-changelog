@@ -108,7 +108,7 @@
   <sub>[#176289](https://github.com/flutter/flutter/pull/176289) opened on on September 30, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/176289) 356 additions and 15 deletions in 13 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Windowing integration tests now await change futures if a changes is expected + commenting our erroneous icon in Runner.rc for win32<br />
-  <sub>[#176312](https://github.com/flutter/flutter/pull/176312) opened on on September 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176312) 55 additions and 11 deletions in 3 files</sub><br />
+  <sub>[#176312](https://github.com/flutter/flutter/pull/176312) opened on on September 30, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/176312) 55 additions and 11 deletions in 3 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: support older git (ubuntu 22.04) in content hash<br />
   <sub>[#176321](https://github.com/flutter/flutter/pull/176321) opened on on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176321) 191 additions and 54 deletions in 3 files</sub><br />
