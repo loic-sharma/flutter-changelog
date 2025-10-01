@@ -143,3 +143,6 @@
 * **[Mayank Patke](https://github.com/fishythefish)** &mdash; Remove references to dart:js_util<br />
   <sub>[#176323](https://github.com/flutter/flutter/pull/176323) opened on on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176323) 1 addition and 15 deletions in 5 files</sub><br />
 
+* **[p1318k](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
+  <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176329) 4 additions and 1 deletion in 1 file</sub><br />
+
