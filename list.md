@@ -44,10 +44,6 @@
   <sub>[#175416](https://github.com/flutter/flutter/pull/175416) merged on September 29, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/175416) over 1 week, 66 additions and 6 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [ash2moon](https://github.com/ash2moon)</sub>
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; User Invoke-Expression instead of call operator for nested Powershell scripts invocations (on Windows)
-  <sub>[#175941](https://github.com/flutter/flutter/pull/175941) merged on September 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175941) over 5 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftUI support for UIScene migration
   <sub>[#176230](https://github.com/flutter/flutter/pull/176230) merged on October 1, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/176230) over 1 day, 1119 additions and 69 deletions in 21 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
@@ -87,6 +83,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update changelog as on 3.35 branch
   <sub>[#176216](https://github.com/flutter/flutter/pull/176216) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176216) over 44 minutes, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to `WidgetStateOutlinedBorder`
+  <sub>[#176270](https://github.com/flutter/flutter/pull/176270) merged on October 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176270) over 1 day, 25 additions and 28 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Stop using deprecated analyzer 7.x.y APIs.
   <sub>[#176242](https://github.com/flutter/flutter/pull/176242) merged on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176242) over 1 day, 16 additions and 17 deletions in 4 files</sub>
