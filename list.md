@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-33 commits.
+35 commits.
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub>
@@ -15,13 +15,13 @@
   <sub>[#175866](https://github.com/flutter/flutter/pull/175866) merged on September 29, 2025 &mdash; **Extra large:** [75 comments](https://github.com/flutter/flutter/pull/175866) over 6 days, 4348 additions and 362 deletions in 55 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds dart ui API for setting application level locale
-  <sub>[#175100](https://github.com/flutter/flutter/pull/175100) merged on September 30, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/175100) over 3 weeks, 389 additions and 11 deletions in 43 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Reid Baker](https://github.com/reidbaker), [Mouad Debbar](https://github.com/mdebbar), [Victoria Ashworth](https://github.com/vashworth)</sub>
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve IDE integration support
   <sub>[#176114](https://github.com/flutter/flutter/pull/176114) merged on September 29, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/176114) over 2 days, 869 additions and 159 deletions in 32 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds dart ui API for setting application level locale
+  <sub>[#175100](https://github.com/flutter/flutter/pull/175100) merged on September 30, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/175100) over 3 weeks, 389 additions and 11 deletions in 43 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Reid Baker](https://github.com/reidbaker), [Mouad Debbar](https://github.com/mdebbar), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement framework interface for the dialog window archetype
   <sub>[#176202](https://github.com/flutter/flutter/pull/176202) merged on September 30, 2025 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/176202) over 1 day, 822 additions and 35 deletions in 5 files</sub>
@@ -64,6 +64,14 @@
   <sub>[#175876](https://github.com/flutter/flutter/pull/175876) merged on September 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175876) over 1 week, 37 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Enable build hooks and code assets on stable
+  <sub>[#176285](https://github.com/flutter/flutter/pull/176285) merged on October 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176285) over 18 hours, 2 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
+  <sub>[#176287](https://github.com/flutter/flutter/pull/176287) merged on October 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176287) over 18 hours, 10 additions and 10 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GN to 81b24e01
   <sub>[#176119](https://github.com/flutter/flutter/pull/176119) merged on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176119) over 3 days, 53 additions and 54 deletions in 28 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -88,13 +96,9 @@
   <sub>[#176226](https://github.com/flutter/flutter/pull/176226) merged on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) over 22 hours, 18 additions and 60 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce timeout for Linux web_tool_tests back to 60
-  <sub>[#176286](https://github.com/flutter/flutter/pull/176286) merged on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176286) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nicholas Shahan](https://github.com/nshahan)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox to 143.0
-  <sub>[#176110](https://github.com/flutter/flutter/pull/176110) merged on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176110) over 3 days, 13 additions and 16 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix name of driver file
+  <sub>[#176186](https://github.com/flutter/flutter/pull/176186) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176186) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to `WidgetStateBorderSide`
   <sub>[#176164](https://github.com/flutter/flutter/pull/176164) merged on September 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176164) over 2 days, 39 additions and 47 deletions in 11 files</sub>
@@ -136,9 +140,13 @@
   <sub>[#175870](https://github.com/flutter/flutter/pull/175870) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175870) over 5 days, 3 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix name of driver file
-  <sub>[#176186](https://github.com/flutter/flutter/pull/176186) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176186) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce timeout for Linux web_tool_tests back to 60
+  <sub>[#176286](https://github.com/flutter/flutter/pull/176286) merged on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176286) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nicholas Shahan](https://github.com/nshahan)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox to 143.0
+  <sub>[#176110](https://github.com/flutter/flutter/pull/176110) merged on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176110) over 3 days, 13 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 ### September 20, 2025 to September 26, 2025
 
