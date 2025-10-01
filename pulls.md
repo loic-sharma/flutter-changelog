@@ -128,12 +128,6 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Windowing integration tests now await change futures if a changes is expected + commenting our erroneous icon in Runner.rc for win32<br />
   <sub>[#176312](https://github.com/flutter/flutter/pull/176312) opened on on September 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176312) 55 additions and 11 deletions in 3 files</sub><br />
 
-* **[AuraAi-vet](https://github.com/AuraAi-vet)** &mdash; Updated <br />
-  <sub>[#176314](https://github.com/flutter/flutter/pull/176314) opened on on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176314) 151 additions and 1 deletion in 2 files</sub><br />
-
-* **[AuraAi-vet](https://github.com/AuraAi-vet)** &mdash; Aura ai vet patch 1<br />
-  <sub>[#176318](https://github.com/flutter/flutter/pull/176318) opened on on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176318) 123 additions and 1 deletion in 2 files</sub><br />
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: support older git (ubuntu 22.04) in content hash<br />
   <sub>[#176321](https://github.com/flutter/flutter/pull/176321) opened on on September 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176321) 191 additions and 54 deletions in 3 files</sub><br />
 
@@ -147,5 +141,5 @@
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176329) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix resolution for workspace "hosted" dependencies<br />
-  <sub>[#176358](https://github.com/flutter/flutter/pull/176358) opened on on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176358) 162 additions and 13 deletions in 4 files</sub><br />
+  <sub>[#176358](https://github.com/flutter/flutter/pull/176358) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176358) 162 additions and 13 deletions in 4 files</sub><br />
 
