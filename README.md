@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-36 commits.
+37 commits.
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub><br />
@@ -31,6 +31,10 @@
   <sub>[#175728](https://github.com/flutter/flutter/pull/175728) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175728) over 1 week, 23 additions and 23 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>1 image...</summary><img width="685" height="230" alt="argss" src="https://github.com/user-attachments/assets/eb5361df-0377-439b-83a2-c433c14ceab9" /></details></sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Runloop should use high resolution timer and avoid deadlock<br />
+  <sub>[#176023](https://github.com/flutter/flutter/pull/176023) merged on October 1, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/176023) over 6 days, 134 additions and 13 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Forward Widget Inspector navigation events via DTD<br />
   <sub>[#176218](https://github.com/flutter/flutter/pull/176218) merged on September 30, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/176218) over 1 day, 369 additions and 35 deletions in 23 files</sub><br />
@@ -92,9 +96,9 @@
   <sub>[#176244](https://github.com/flutter/flutter/pull/176244) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176244) over 1 day, 7 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add verbose logs to module_uiscene_test_ios<br />
-  <sub>[#176306](https://github.com/flutter/flutter/pull/176306) merged on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176306) over 4 hours, 7 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate tests and documentation to set java version to 17<br />
+  <sub>[#176204](https://github.com/flutter/flutter/pull/176204) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176204) over 2 hours, 26 additions and 26 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine CI to use NDK r28c <br />
   <sub>[#175870](https://github.com/flutter/flutter/pull/175870) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175870) over 5 days, 3 additions and 2 deletions in 3 files</sub><br />
@@ -136,9 +140,9 @@
   <sub>[#176203](https://github.com/flutter/flutter/pull/176203) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176203) over 4 hours, 32 additions and 32 deletions in 12 files</sub><br />
   <sub>Reviewed by: [Mohellebi abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate tests and documentation to set java version to 17<br />
-  <sub>[#176204](https://github.com/flutter/flutter/pull/176204) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176204) over 2 hours, 26 additions and 26 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add verbose logs to module_uiscene_test_ios<br />
+  <sub>[#176306](https://github.com/flutter/flutter/pull/176306) merged on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176306) over 4 hours, 7 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set minimum supported java version to 17 <br />
   <sub>[#176226](https://github.com/flutter/flutter/pull/176226) merged on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) over 22 hours, 18 additions and 60 deletions in 4 files</sub><br />
