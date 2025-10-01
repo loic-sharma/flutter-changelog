@@ -129,7 +129,7 @@
   <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/176361) 1870 additions and 29 deletions in 24 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Delete Skia-specific performance overlay implementation<br />
-  <sub>[#176364](https://github.com/flutter/flutter/pull/176364) opened on on October 1, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/176364) 55 additions and 265 deletions in 12 files</sub><br />
+  <sub>[#176364](https://github.com/flutter/flutter/pull/176364) opened on on October 1, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/176364) 56 additions and 264 deletions in 12 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuBar doesn't crash in 0x0 environment<br />
   <sub>[#176368](https://github.com/flutter/flutter/pull/176368) opened on on October 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176368) 11 additions and 0 deletions in 1 file</sub><br />
