@@ -954,7 +954,15 @@
 
 ### September 27, 2025 to October 3, 2025
 
-7 commits.
+9 commits.
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove broken link in FWE user input
+  <sub>[#12495](https://github.com/flutter/website/pull/12495) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12495) over 18 minutes, 0 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing an out of date section
+  <sub>[#12492](https://github.com/flutter/website/pull/12492) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12492) over 2 hours, 0 additions and 74 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix broken link
   <sub>[#12489](https://github.com/flutter/website/pull/12489) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12489) over 15 hours, 1 addition and 1 deletion in 1 file</sub>
