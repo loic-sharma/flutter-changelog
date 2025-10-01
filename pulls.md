@@ -59,7 +59,7 @@
 * **[eevanlai-stack](https://github.com/eevanlai-stack)** &mdash; Create devcontainer.json<br />
   <sub>[#175477](https://github.com/flutter/flutter/pull/175477) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175477) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. Fixes #169442, Accomodates #167404 and some of #166944 <br />
+* **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
 * **[Shiv Shankar Tiwari](https://github.com/pythonsst)** &mdash; tool(ios): clarify code signing failure with actionable Xcode steps<br />
@@ -70,9 +70,6 @@
 
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README<br />
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Huy](https://github.com/huycozy)** &mdash; Fix VoiceOver does not announce state of ButtonSegment<br />
-  <sub>[#175635](https://github.com/flutter/flutter/pull/175635) opened on on September 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/175635) 65 additions and 10 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
   <sub>[#175664](https://github.com/flutter/flutter/pull/175664) opened on on September 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175664) 96 additions and 45 deletions in 2 files</sub><br />
@@ -94,9 +91,6 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter templates' Dart style<br />
   <sub>[#175963](https://github.com/flutter/flutter/pull/175963) opened on on September 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175963) 18 additions and 27 deletions in 8 files</sub><br />
-
-* **[Arthur Halet](https://github.com/ArthurHlt)** &mdash; fix: path was url decoded but it should not for browser<br />
-  <sub>[#176029](https://github.com/flutter/flutter/pull/176029) opened on on September 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176029) 5 additions and 7 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InputDatePickerFormField doesn't crash in 0x0 envir…<br />
   <sub>[#176047](https://github.com/flutter/flutter/pull/176047) opened on on September 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176047) 15 additions and 0 deletions in 1 file</sub><br />
