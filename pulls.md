@@ -128,9 +128,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b<br />
   <sub>[#176322](https://github.com/flutter/flutter/pull/176322) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176322) 23 additions and 7 deletions in 5 files</sub><br />
 
-* **[Mayank Patke](https://github.com/fishythefish)** &mdash; Remove references to dart:js_util<br />
-  <sub>[#176323](https://github.com/flutter/flutter/pull/176323) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176323) 1 addition and 15 deletions in 5 files</sub><br />
-
 * **[p1318k](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176329) 4 additions and 1 deletion in 1 file</sub><br />
 
@@ -139,4 +136,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; wip: [macOS] Implement regular window<br />
   <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/176361) 1870 additions and 29 deletions in 24 files</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Delete Skia-specific performance overlay implementation<br />
+  <sub>[#176364](https://github.com/flutter/flutter/pull/176364) opened on on October 1, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/176364) 55 additions and 265 deletions in 12 files</sub><br />
 
