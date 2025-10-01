@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-32 commits.
+33 commits.
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub><br />
@@ -43,6 +43,10 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; User Invoke-Expression instead of call operator for nested Powershell scripts invocations (on Windows)<br />
   <sub>[#175941](https://github.com/flutter/flutter/pull/175941) merged on September 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175941) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Krzysztof Świętnicki](https://github.com/FufferKS)** &mdash; Update description in _LastFinderMixin to properly describe finding last<br />
+  <sub>[#174232](https://github.com/flutter/flutter/pull/174232) merged on October 1, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/174232) over 1 month, 13 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update flutter test to use SemanticsFlags<br />
   <sub>[#175987](https://github.com/flutter/flutter/pull/175987) merged on September 30, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/175987) over 5 days, 268 additions and 105 deletions in 5 files</sub><br />
