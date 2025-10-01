@@ -143,3 +143,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix resolution for workspace "hosted" dependencies<br />
   <sub>[#176358](https://github.com/flutter/flutter/pull/176358) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176358) 162 additions and 13 deletions in 4 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; wip: [macOS] Implement regular window<br />
+  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/176361) 1869 additions and 29 deletions in 24 files</sub><br />
+
