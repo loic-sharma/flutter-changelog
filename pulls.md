@@ -126,7 +126,7 @@
   <sub>[#176302](https://github.com/flutter/flutter/pull/176302) opened on on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176302) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Windowing integration tests now await change futures if a changes is expected + commenting our erroneous icon in Runner.rc for win32<br />
-  <sub>[#176312](https://github.com/flutter/flutter/pull/176312) opened on on September 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176312) 49 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#176312](https://github.com/flutter/flutter/pull/176312) opened on on September 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176312) 55 additions and 11 deletions in 3 files</sub><br />
 
 * **[AuraAi-vet](https://github.com/AuraAi-vet)** &mdash; Updated <br />
   <sub>[#176314](https://github.com/flutter/flutter/pull/176314) opened on on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176314) 151 additions and 1 deletion in 2 files</sub><br />
@@ -145,4 +145,7 @@
 
 * **[p1318k](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176329) 4 additions and 1 deletion in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration helper/error padding is not compliant<br />
+  <sub>[#176353](https://github.com/flutter/flutter/pull/176353) opened on on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176353) 105 additions and 7 deletions in 2 files</sub><br />
 
