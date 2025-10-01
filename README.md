@@ -950,7 +950,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-6 commits.
+7 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix broken link<br />
   <sub>[#12489](https://github.com/flutter/website/pull/12489) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12489) over 15 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -975,6 +975,10 @@
 * **[Luke Wallace](https://github.com/Lukeluca)** &mdash; Update ios-latest.md with correct issue links<br />
   <sub>[#12475](https://github.com/flutter/website/pull/12475) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12475) over 3 days, 10 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Revert "Announce 2025 Q4 survey"<br />
+  <sub>[#12491](https://github.com/flutter/website/pull/12491) merged on October 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12491) over 51 minutes, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Thomsen](https://github.com/mit-mit), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 ### September 20, 2025 to September 26, 2025
 
