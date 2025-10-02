@@ -135,5 +135,5 @@
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml<br />
-  <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176393) 187 additions and 11 deletions in 8 files</sub><br />
+  <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176393) 190 additions and 11 deletions in 8 files</sub><br />
 
