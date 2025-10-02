@@ -998,7 +998,11 @@
 
 ### September 27, 2025 to October 3, 2025
 
-10 commits.
+11 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove use of site-shared as a git submodule
+  <sub>[#12494](https://github.com/flutter/website/pull/12494) merged on October 2, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/12494) over 17 hours, 2793 additions and 146 deletions in 65 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove broken link in FWE user input
   <sub>[#12495](https://github.com/flutter/website/pull/12495) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12495) over 18 minutes, 0 additions and 4 deletions in 1 file</sub>
