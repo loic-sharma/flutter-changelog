@@ -110,9 +110,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: support older git (ubuntu 22.04) in content hash<br />
   <sub>[#176321](https://github.com/flutter/flutter/pull/176321) opened on on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176321) 25 additions and 25 deletions in 3 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b<br />
-  <sub>[#176322](https://github.com/flutter/flutter/pull/176322) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176322) 126 additions and 85 deletions in 6 files</sub><br />
-
 * **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176329) 4 additions and 1 deletion in 1 file</sub><br />
 
@@ -139,7 +136,4 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuItemButton doesn't crash in 0x0 environment<br />
   <sub>[#176419](https://github.com/flutter/flutter/pull/176419) opened on on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176419) 9 additions and 0 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add tooling to migrate to UIScene<br />
-  <sub>[#176427](https://github.com/flutter/flutter/pull/176427) opened on on October 2, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/176427) 1048 additions and 6 deletions in 14 files</sub><br />
 
