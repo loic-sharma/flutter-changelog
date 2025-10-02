@@ -37,7 +37,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Runloop should use high resolution timer and avoid deadlock<br />
-  <sub>[#176023](https://github.com/flutter/flutter/pull/176023) merged on October 1, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/176023) over 6 days, 134 additions and 13 deletions in 3 files</sub><br />
+  <sub>[#176023](https://github.com/flutter/flutter/pull/176023) merged on October 1, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/176023) over 6 days, 134 additions and 13 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Persist "Filter by Selected File" toggle<br />
