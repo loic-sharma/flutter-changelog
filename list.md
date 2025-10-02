@@ -1046,7 +1046,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-17 commits.
+19 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove use of site-shared as a git submodule
   <sub>[#12494](https://github.com/flutter/website/pull/12494) merged on October 2, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/12494) over 17 hours, 2793 additions and 146 deletions in 65 files</sub>
@@ -1054,6 +1054,10 @@
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add breaking change doc for `Visibility` widget changes
   <sub>[#12488](https://github.com/flutter/website/pull/12488) merged on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12488) over 1 day, 67 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Move breaking change images to assets
+  <sub>[#12506](https://github.com/flutter/website/pull/12506) merged on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12506) over 56 minutes, 9 additions and 9 deletions in 10 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update learning index YAML files for consistency
@@ -1070,6 +1074,10 @@
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove broken link in FWE user input
   <sub>[#12495](https://github.com/flutter/website/pull/12495) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12495) over 18 minutes, 0 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add redirect for batch release one pager
+  <sub>[#12507](https://github.com/flutter/website/pull/12507) merged on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12507) over 16 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Tweak the quickstart guide for Mac
