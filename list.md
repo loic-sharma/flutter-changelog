@@ -1002,11 +1002,19 @@
 
 ### September 27, 2025 to October 3, 2025
 
-12 commits.
+14 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove use of site-shared as a git submodule
   <sub>[#12494](https://github.com/flutter/website/pull/12494) merged on October 2, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/12494) over 17 hours, 2793 additions and 146 deletions in 65 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update banner to focus on Q4 survey
+  <sub>[#12500](https://github.com/flutter/website/pull/12500) merged on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12500) over 2 hours, 2 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; Clean up remaining Medium blog links and adjust sitenav label
+  <sub>[#12499](https://github.com/flutter/website/pull/12499) merged on October 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12499) over 2 hours, 10 additions and 10 deletions in 5 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove broken link in FWE user input
   <sub>[#12495](https://github.com/flutter/website/pull/12495) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12495) over 18 minutes, 0 additions and 4 deletions in 1 file</sub>
