@@ -128,3 +128,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Create internal menu controller if external controller is changed to null.<br />
   <sub>[#176375](https://github.com/flutter/flutter/pull/176375) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176375) 41 additions and 1 deletion in 2 files</sub><br />
 
+* **[SoaringHeart](https://github.com/shang1219178163)** &mdash; fix: Return data with popUntil<br />
+  <sub>[#176380](https://github.com/flutter/flutter/pull/176380) opened on on October 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176380) 2 additions and 2 deletions in 1 file</sub><br />
+
