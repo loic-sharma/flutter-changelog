@@ -829,7 +829,11 @@
 
 ### September 27, 2025 to October 3, 2025
 
-17 commits.
+18 commits.
+
+* **[Lenz Paul](https://github.com/lenzpaul)** &mdash; [Camera] Add lens type information (iOS)
+  <sub>[#7653](https://github.com/flutter/packages/pull/7653) merged on October 2, 2025 &mdash; **Small:** [58 comments](https://github.com/flutter/packages/pull/7653) over 12 months, 215 additions and 71 deletions in 14 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix NV21 Format
   <sub>[#10022](https://github.com/flutter/packages/pull/10022) merged on September 29, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10022) over 1 week, 718 additions and 13 deletions in 13 files</sub>
