@@ -72,16 +72,24 @@
   <sub>[#174232](https://github.com/flutter/flutter/pull/174232) merged on October 1, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/174232) over 1 month, 13 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Delete Skia-specific performance overlay implementation
-  <sub>[#176364](https://github.com/flutter/flutter/pull/176364) merged on October 2, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/176364) over 13 hours, 77 additions and 285 deletions in 12 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix platform specific semantics for time picker buttons
+  <sub>[#176373](https://github.com/flutter/flutter/pull/176373) merged on October 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176373) over 19 hours, 55 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update flutter test to use SemanticsFlags
   <sub>[#175987](https://github.com/flutter/flutter/pull/175987) merged on September 30, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/175987) over 5 days, 268 additions and 105 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Jim Graham](https://github.com/flar)** &mdash; Delete Skia-specific performance overlay implementation
+  <sub>[#176364](https://github.com/flutter/flutter/pull/176364) merged on October 2, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/176364) over 13 hours, 77 additions and 285 deletions in 12 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DateRangePickerDialog doesn't crash in 0x0 environments
   <sub>[#173754](https://github.com/flutter/flutter/pull/173754) merged on October 1, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173754) over 1 month, 17 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DrawerButton doesn't crash in 0x0 environment
+  <sub>[#172948](https://github.com/flutter/flutter/pull/172948) merged on October 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172948) over 2 months, 11 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to `WidgetStateTextStyle`
@@ -96,10 +104,6 @@
   <sub>[#175959](https://github.com/flutter/flutter/pull/175959) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175959) over 4 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Tirth Patel](https://github.com/tirth-patel-nc)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DrawerButton doesn't crash in 0x0 environment
-  <sub>[#172948](https://github.com/flutter/flutter/pull/172948) merged on October 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172948) over 2 months, 11 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Web semantics: Fix email field selection/cursor by using type="text" + inputmode="email"
   <sub>[#175876](https://github.com/flutter/flutter/pull/175876) merged on September 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175876) over 1 week, 37 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
@@ -107,10 +111,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GN to 81b24e01
   <sub>[#176119](https://github.com/flutter/flutter/pull/176119) merged on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176119) over 3 days, 53 additions and 54 deletions in 28 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix platform specific semantics for time picker buttons
-  <sub>[#176373](https://github.com/flutter/flutter/pull/176373) merged on October 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176373) over 19 hours, 55 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Enable build hooks and code assets on stable
   <sub>[#176285](https://github.com/flutter/flutter/pull/176285) merged on October 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176285) over 18 hours, 2 additions and 1 deletion in 2 files</sub>
