@@ -137,3 +137,6 @@
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml<br />
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176393) 190 additions and 11 deletions in 8 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextFormField does not inherit local InputDecorationTheme<br />
+  <sub>[#176397](https://github.com/flutter/flutter/pull/176397) opened on on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176397) 35 additions and 13 deletions in 3 files</sub><br />
+
