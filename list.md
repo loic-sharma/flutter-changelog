@@ -4,7 +4,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-48 commits.
+49 commits.
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub>
@@ -80,21 +80,21 @@
   <sub>[#173754](https://github.com/flutter/flutter/pull/173754) merged on October 1, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173754) over 1 month, 17 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DrawerButton doesn't crash in 0x0 environment
-  <sub>[#172948](https://github.com/flutter/flutter/pull/172948) merged on October 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172948) over 2 months, 11 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to `WidgetStateTextStyle`
   <sub>[#176330](https://github.com/flutter/flutter/pull/176330) merged on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176330) over 16 hours, 36 additions and 42 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace `onPop` usage with `onPopWithResult` in `navigation_bar.2.dart `
+  <sub>[#174841](https://github.com/flutter/flutter/pull/174841) merged on September 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174841) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typo in `Crashes.md`
   <sub>[#175959](https://github.com/flutter/flutter/pull/175959) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175959) over 4 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Tirth Patel](https://github.com/tirth-patel-nc)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; replace `onPop` usage with `onPopWithResult` in `navigation_bar.2.dart `
-  <sub>[#174841](https://github.com/flutter/flutter/pull/174841) merged on September 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/174841) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DrawerButton doesn't crash in 0x0 environment
+  <sub>[#172948](https://github.com/flutter/flutter/pull/172948) merged on October 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172948) over 2 months, 11 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Web semantics: Fix email field selection/cursor by using type="text" + inputmode="email"
   <sub>[#175876](https://github.com/flutter/flutter/pull/175876) merged on September 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175876) over 1 week, 37 additions and 8 deletions in 2 files</sub>
@@ -120,13 +120,17 @@
   <sub>[#176216](https://github.com/flutter/flutter/pull/176216) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176216) over 44 minutes, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
+* **[Mayank Patke](https://github.com/fishythefish)** &mdash; Remove references to dart:js_util
+  <sub>[#176323](https://github.com/flutter/flutter/pull/176323) merged on October 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176323) over 1 day, 9 additions and 15 deletions in 5 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Srujan Gaddam](https://github.com/srujzs)</sub>
+
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Rename DisplayMonitor to DisplayManager on Win32
   <sub>[#175619](https://github.com/flutter/flutter/pull/175619) merged on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175619) over 1 week, 70 additions and 68 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add tests for `Project` getters 
-  <sub>[#175994](https://github.com/flutter/flutter/pull/175994) merged on September 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175994) over 4 days, 251 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate tests and documentation to set java version to 17
+  <sub>[#176204](https://github.com/flutter/flutter/pull/176204) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176204) over 2 hours, 26 additions and 26 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine CI to use NDK r28c 
   <sub>[#175870](https://github.com/flutter/flutter/pull/175870) merged on September 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175870) over 5 days, 3 additions and 2 deletions in 3 files</sub>
@@ -134,10 +138,6 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix name of driver file
   <sub>[#176186](https://github.com/flutter/flutter/pull/176186) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176186) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Warn if embedder API calls don't return success
-  <sub>[#176184](https://github.com/flutter/flutter/pull/176184) merged on September 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176184) over 22 hours, 53 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Windowing integration tests now await change futures if a changes is expected + commenting our erroneous icon in Runner.rc for win32
@@ -164,8 +164,8 @@
   <sub>[#176244](https://github.com/flutter/flutter/pull/176244) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176244) over 1 day, 7 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean up typos in `PlatformViewsControllerTest.java`
-  <sub>[#175725](https://github.com/flutter/flutter/pull/175725) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175725) over 1 week, 5 additions and 9 deletions in 1 file</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add tests for `Project` getters 
+  <sub>[#175994](https://github.com/flutter/flutter/pull/175994) merged on September 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/175994) over 4 days, 251 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add verbose logs to module_uiscene_test_ios
@@ -188,9 +188,9 @@
   <sub>[#176110](https://github.com/flutter/flutter/pull/176110) merged on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176110) over 3 days, 13 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate tests and documentation to set java version to 17
-  <sub>[#176204](https://github.com/flutter/flutter/pull/176204) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176204) over 2 hours, 26 additions and 26 deletions in 10 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean up typos in `PlatformViewsControllerTest.java`
+  <sub>[#175725](https://github.com/flutter/flutter/pull/175725) merged on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175725) over 1 week, 5 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to `WidgetStateBorderSide`
   <sub>[#176164](https://github.com/flutter/flutter/pull/176164) merged on September 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176164) over 2 days, 39 additions and 47 deletions in 11 files</sub>
@@ -199,6 +199,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update the test package for the web engine unit test bits.
   <sub>[#176241](https://github.com/flutter/flutter/pull/176241) merged on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176241) over 5 hours, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Warn if embedder API calls don't return success
+  <sub>[#176184](https://github.com/flutter/flutter/pull/176184) merged on September 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176184) over 22 hours, 53 additions and 16 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 ### September 20, 2025 to September 26, 2025
 

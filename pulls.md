@@ -105,7 +105,7 @@
   <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/176235) 35 additions and 0 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
-  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176256) 23 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176256) 23 additions and 16 deletions in 2 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: support older git (ubuntu 22.04) in content hash<br />
   <sub>[#176321](https://github.com/flutter/flutter/pull/176321) opened on on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176321) 191 additions and 54 deletions in 3 files</sub><br />
@@ -136,4 +136,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextFormField does not inherit local InputDecorationTheme<br />
   <sub>[#176397](https://github.com/flutter/flutter/pull/176397) opened on on October 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176397) 35 additions and 14 deletions in 3 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuItemButton doesn't crash in 0x0 environment<br />
+  <sub>[#176419](https://github.com/flutter/flutter/pull/176419) opened on on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176419) 9 additions and 0 deletions in 1 file</sub><br />
 
