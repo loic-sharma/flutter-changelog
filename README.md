@@ -1002,7 +1002,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-11 commits.
+12 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove use of site-shared as a git submodule<br />
   <sub>[#12494](https://github.com/flutter/website/pull/12494) merged on October 2, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/12494) over 17 hours, 2793 additions and 146 deletions in 65 files</sub><br />
@@ -1011,6 +1011,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove broken link in FWE user input<br />
   <sub>[#12495](https://github.com/flutter/website/pull/12495) merged on October 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12495) over 18 minutes, 0 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Update firebase.json<br />
+  <sub>[#12497](https://github.com/flutter/website/pull/12497) merged on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12497) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding survey to banner<br />
   <sub>[#12493](https://github.com/flutter/website/pull/12493) merged on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12493) over 4 hours, 1 addition and 0 deletions in 1 file</sub><br />
