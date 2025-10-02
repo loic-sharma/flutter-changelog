@@ -857,7 +857,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [file_selector] updates build files to use JVM 17<br />
-  <sub>[#10097](https://github.com/flutter/packages/pull/10097) merged on September 30, 2025 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/10097) over 3 days, 18 additions and 12 deletions in 6 files</sub><br />
+  <sub>[#10097](https://github.com/flutter/packages/pull/10097) merged on September 30, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/packages/pull/10097) over 3 days, 18 additions and 12 deletions in 6 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Separate texture ID on Android<br />
