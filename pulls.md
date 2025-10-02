@@ -11,6 +11,9 @@
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
 
+* **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
+  <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/172124) 407 additions and 64 deletions in 6 files</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Experiment with Xcode 26 beta 4<br />
   <sub>[#173123](https://github.com/flutter/flutter/pull/173123) opened on on August 1, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/173123) 194545 additions and 126604 deletions in 3906 files</sub><br />
 
@@ -116,7 +119,7 @@
 * **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176329) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; wip: [macOS] Implement regular window<br />
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window<br />
   <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/176361) 3362 additions and 31 deletions in 47 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuBar doesn't crash in 0x0 environment<br />
