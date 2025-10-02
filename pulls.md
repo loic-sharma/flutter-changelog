@@ -114,7 +114,7 @@
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176329) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window<br />
-  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/176361) 3362 additions and 31 deletions in 47 files</sub><br />
+  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/176361) 3362 additions and 31 deletions in 47 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuBar doesn't crash in 0x0 environment<br />
   <sub>[#176368](https://github.com/flutter/flutter/pull/176368) opened on on October 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176368) 11 additions and 0 deletions in 1 file</sub><br />
@@ -136,7 +136,4 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuItemButton doesn't crash in 0x0 environment<br />
   <sub>[#176419](https://github.com/flutter/flutter/pull/176419) opened on on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176419) 9 additions and 0 deletions in 1 file</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Announce text and button together when DropdownMenu is treated as a button<br />
-  <sub>[#176428](https://github.com/flutter/flutter/pull/176428) opened on on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176428) 69 additions and 70 deletions in 2 files</sub><br />
 
