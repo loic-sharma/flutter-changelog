@@ -169,7 +169,7 @@
   <sub>Reviewed by: [Mohellebi abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set minimum supported java version to 17 <br />
-  <sub>[#176226](https://github.com/flutter/flutter/pull/176226) merged on September 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176226) over 22 hours, 18 additions and 60 deletions in 4 files</sub><br />
+  <sub>[#176226](https://github.com/flutter/flutter/pull/176226) merged on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176226) over 22 hours, 18 additions and 60 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce timeout for Linux web_tool_tests back to 60<br />
@@ -829,7 +829,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-14 commits.
+15 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix NV21 Format<br />
   <sub>[#10022](https://github.com/flutter/packages/pull/10022) merged on September 29, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10022) over 1 week, 718 additions and 13 deletions in 13 files</sub><br />
@@ -866,6 +866,10 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Re-enable all Android legacy emulator tests<br />
   <sub>[#10141](https://github.com/flutter/packages/pull/10141) merged on October 1, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10141) over 1 day, 3 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [url_launcher] updates build files to use JVM 17<br />
+  <sub>[#10130](https://github.com/flutter/packages/pull/10130) merged on October 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/10130) over 2 days, 7 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [quick_actions] updates build files to use JVM 17<br />
