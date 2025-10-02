@@ -169,7 +169,7 @@
   <sub>Reviewed by: [Mohellebi abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set minimum supported java version to 17 <br />
-  <sub>[#176226](https://github.com/flutter/flutter/pull/176226) merged on September 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176226) over 22 hours, 18 additions and 60 deletions in 4 files</sub><br />
+  <sub>[#176226](https://github.com/flutter/flutter/pull/176226) merged on September 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176226) over 22 hours, 18 additions and 60 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce timeout for Linux web_tool_tests back to 60<br />
@@ -832,7 +832,7 @@
 18 commits.
 
 * **[Lenz Paul](https://github.com/lenzpaul)** &mdash; [Camera] Add lens type information (iOS)<br />
-  <sub>[#7653](https://github.com/flutter/packages/pull/7653) merged on October 2, 2025 &mdash; **Small:** [58 comments](https://github.com/flutter/packages/pull/7653) over 12 months, 215 additions and 71 deletions in 14 files</sub><br />
+  <sub>[#7653](https://github.com/flutter/packages/pull/7653) merged on October 2, 2025 &mdash; **Small:** [59 comments](https://github.com/flutter/packages/pull/7653) over 12 months, 215 additions and 71 deletions in 14 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix NV21 Format<br />
