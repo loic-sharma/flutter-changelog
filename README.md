@@ -1030,10 +1030,14 @@
 
 ### September 27, 2025 to October 3, 2025
 
-14 commits.
+15 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove use of site-shared as a git submodule<br />
   <sub>[#12494](https://github.com/flutter/website/pull/12494) merged on October 2, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/12494) over 17 hours, 2793 additions and 146 deletions in 65 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add breaking change doc for `Visibility` widget changes<br />
+  <sub>[#12488](https://github.com/flutter/website/pull/12488) merged on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12488) over 1 day, 67 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update banner to focus on Q4 survey<br />
