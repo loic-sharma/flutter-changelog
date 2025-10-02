@@ -102,7 +102,7 @@
   <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176235) 32 additions and 0 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
-  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176256) 37 additions and 33 deletions in 2 files</sub><br />
+  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176256) 23 additions and 16 deletions in 2 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Windowing integration tests now await change futures if a changes is expected + commenting our erroneous icon in Runner.rc for win32<br />
   <sub>[#176312](https://github.com/flutter/flutter/pull/176312) opened on on September 30, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/176312) 55 additions and 11 deletions in 3 files</sub><br />
