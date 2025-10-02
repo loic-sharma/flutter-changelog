@@ -829,7 +829,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-15 commits.
+16 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix NV21 Format
   <sub>[#10022](https://github.com/flutter/packages/pull/10022) merged on September 29, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10022) over 1 week, 718 additions and 13 deletions in 13 files</sub>
@@ -866,6 +866,10 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Re-enable all Android legacy emulator tests
   <sub>[#10141](https://github.com/flutter/packages/pull/10141) merged on October 1, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10141) over 1 day, 3 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [shared_preferences] updates build files to use JVM 17
+  <sub>[#10131](https://github.com/flutter/packages/pull/10131) merged on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10131) over 2 days, 26 additions and 20 deletions in 7 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [url_launcher] updates build files to use JVM 17
