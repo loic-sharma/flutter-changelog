@@ -113,7 +113,7 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b<br />
   <sub>[#176322](https://github.com/flutter/flutter/pull/176322) opened on on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176322) 126 additions and 85 deletions in 6 files</sub><br />
 
-* **[p1318k](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
+* **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176329) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix resolution for workspace "hosted" dependencies<br />
