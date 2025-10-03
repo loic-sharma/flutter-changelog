@@ -113,9 +113,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window<br />
   <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/176361) 3070 additions and 31 deletions in 44 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuBar doesn't crash in 0x0 environment<br />
-  <sub>[#176368](https://github.com/flutter/flutter/pull/176368) opened on on October 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176368) 11 additions and 0 deletions in 1 file</sub><br />
-
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Create internal menu controller if external controller is changed to null.<br />
   <sub>[#176375](https://github.com/flutter/flutter/pull/176375) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176375) 42 additions and 1 deletion in 2 files</sub><br />
 
@@ -128,27 +125,15 @@
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml<br />
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextFormField does not inherit local InputDecorationTheme<br />
-  <sub>[#176397](https://github.com/flutter/flutter/pull/176397) opened on on October 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176397) 35 additions and 14 deletions in 3 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix<br />
   <sub>[#176418](https://github.com/flutter/flutter/pull/176418) opened on on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176418) 105 additions and 5 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuItemButton doesn't crash in 0x0 environment<br />
-  <sub>[#176419](https://github.com/flutter/flutter/pull/176419) opened on on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176419) 9 additions and 0 deletions in 1 file</sub><br />
-
 * **[Thomas Duffin](https://github.com/TDuffinNTU)** &mdash; Fix typo in pages.dart<br />
   <sub>[#176438](https://github.com/flutter/flutter/pull/176438) opened on on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176438) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CheckboxMenuButton doesn't crash in 0x0 environment<br />
-  <sub>[#176450](https://github.com/flutter/flutter/pull/176450) opened on on October 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176450) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix(AnimatedScrollView): exclude outgoing items in removeAllItems<br />
   <sub>[#176452](https://github.com/flutter/flutter/pull/176452) opened on on October 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176452) 8 additions and 2 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Check for reserved padding updates on layout delegate. <br />
   <sub>[#176457](https://github.com/flutter/flutter/pull/176457) opened on on October 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176457) 29 additions and 0 deletions in 2 files</sub><br />
-
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Align flutter dependencies with ones coming from dart.<br />
-  <sub>[#176475](https://github.com/flutter/flutter/pull/176475) opened on on October 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176475) 12 additions and 12 deletions in 1 file</sub><br />
 
