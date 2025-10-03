@@ -126,7 +126,7 @@
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix<br />
-  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) opened on on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176418) 105 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) opened on on October 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176418) 105 additions and 5 deletions in 2 files</sub><br />
 
 * **[Thomas Duffin](https://github.com/TDuffinNTU)** &mdash; Fix typo in pages.dart<br />
   <sub>[#176438](https://github.com/flutter/flutter/pull/176438) opened on on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176438) 1 addition and 1 deletion in 1 file</sub><br />
