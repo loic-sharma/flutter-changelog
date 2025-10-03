@@ -125,7 +125,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Upgrade packages
-  <sub>[#176411](https://github.com/flutter/flutter/pull/176411) merged on October 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176411) over 2 hours, 12 additions and 12 deletions in 3 files</sub>
+  <sub>[#176411](https://github.com/flutter/flutter/pull/176411) merged on October 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176411) over 2 hours, 12 additions and 12 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update changelog as on 3.35 branch
