@@ -105,7 +105,7 @@
   <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/176235) 35 additions and 0 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
-  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176256) 23 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176256) 23 additions and 16 deletions in 2 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: support older git (ubuntu 22.04) in content hash<br />
   <sub>[#176321](https://github.com/flutter/flutter/pull/176321) opened on on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176321) 25 additions and 25 deletions in 3 files</sub><br />
