@@ -141,5 +141,5 @@
   <sub>[#176488](https://github.com/flutter/flutter/pull/176488) opened on on October 3, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/176488) 409 additions and 135 deletions in 3 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Image GIF pausing<br />
-  <sub>[#176492](https://github.com/flutter/flutter/pull/176492) opened on on October 3, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/176492) 324 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#176492](https://github.com/flutter/flutter/pull/176492) opened on on October 3, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/176492) 333 additions and 1 deletion in 2 files</sub><br />
 
