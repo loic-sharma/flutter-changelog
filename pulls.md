@@ -140,3 +140,6 @@
 * **[Mohamed Samir Salem](https://github.com/Mohamed-7018)** &mdash;  Extend EdgeInsetsGeometry with Utility Methods: add EdgeInsets.some and EdgeInsets.except constructors<br />
   <sub>[#176488](https://github.com/flutter/flutter/pull/176488) opened on on October 3, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/176488) 409 additions and 135 deletions in 3 files</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Image GIF pausing<br />
+  <sub>[#176492](https://github.com/flutter/flutter/pull/176492) opened on on October 3, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176492) 324 additions and 1 deletion in 2 files</sub><br />
+
