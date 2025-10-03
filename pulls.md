@@ -126,7 +126,7 @@
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix<br />
-  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) opened on on October 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176418) 105 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) opened on on October 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176418) 105 additions and 5 deletions in 2 files</sub><br />
 
 * **[Thomas Duffin](https://github.com/TDuffinNTU)** &mdash; Fix typo in pages.dart<br />
   <sub>[#176438](https://github.com/flutter/flutter/pull/176438) opened on on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176438) 1 addition and 1 deletion in 1 file</sub><br />
@@ -136,4 +136,7 @@
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Check for reserved padding updates on layout delegate. <br />
   <sub>[#176457](https://github.com/flutter/flutter/pull/176457) opened on on October 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176457) 29 additions and 0 deletions in 2 files</sub><br />
+
+* **[Mohamed Samir Salem](https://github.com/Mohamed-7018)** &mdash; Extend EdgeInsetsGeometry with Utility Methods: add EdgeInsets.some and EdgeInsets.except constructors<br />
+  <sub>[#176486](https://github.com/flutter/flutter/pull/176486) opened on on October 3, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/176486) 419 additions and 135 deletions in 3 files</sub><br />
 
