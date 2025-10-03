@@ -143,6 +143,3 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Image GIF pausing<br />
   <sub>[#176492](https://github.com/flutter/flutter/pull/176492) opened on on October 3, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/176492) 333 additions and 1 deletion in 2 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add shared Darwin implementation for plugins<br />
-  <sub>[#176495](https://github.com/flutter/flutter/pull/176495) opened on on October 3, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/176495) 549 additions and 12 deletions in 16 files</sub><br />
-
