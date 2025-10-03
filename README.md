@@ -689,7 +689,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Seth Ladd](https://github.com/sethladd), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Serve DevTools from DDS, remove ResidentDevToolsHandler<br />
-  <sub>[#174580](https://github.com/flutter/flutter/pull/174580) merged on September 18, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/174580) over 3 weeks, 449 additions and 1189 deletions in 30 files</sub><br />
+  <sub>[#174580](https://github.com/flutter/flutter/pull/174580) merged on September 18, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/174580) over 3 weeks, 449 additions and 1189 deletions in 30 files</sub><br />
   <sub>Reviewed by: [Helin Shiah](https://github.com/helin24)</sub><br />
 
 * **[Daniil](https://github.com/danwirele)** &mdash; Remove 'v' Open DevTools from help on web in profile/release mode<br />
