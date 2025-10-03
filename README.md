@@ -1050,14 +1050,30 @@
 
 ### September 27, 2025 to October 3, 2025
 
-19 commits.
+23 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove use of site-shared as a git submodule<br />
   <sub>[#12494](https://github.com/flutter/website/pull/12494) merged on October 2, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/12494) over 17 hours, 2793 additions and 146 deletions in 65 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Recommend `~/.zprofile` instead of `~/.zshenv` for path setup on macOS<br />
+  <sub>[#12512](https://github.com/flutter/website/pull/12512) merged on October 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12512) over 5 hours, 6 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add breaking change doc for `Visibility` widget changes<br />
   <sub>[#12488](https://github.com/flutter/website/pull/12488) merged on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12488) over 1 day, 67 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate images used in recipe exercises to assets directory<br />
+  <sub>[#12509](https://github.com/flutter/website/pull/12509) merged on October 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12509) over 9 hours, 53 additions and 77 deletions in 49 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Use prebuilt firebase-tools for link check workflow<br />
+  <sub>[#12510](https://github.com/flutter/website/pull/12510) merged on October 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12510) over 9 hours, 4 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Move devtools release note images to assets directory<br />
+  <sub>[#12511](https://github.com/flutter/website/pull/12511) merged on October 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12511) over 7 hours, 81 additions and 81 deletions in 115 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Move breaking change images to assets<br />
