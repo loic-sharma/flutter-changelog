@@ -120,7 +120,7 @@
   <sub>[#176368](https://github.com/flutter/flutter/pull/176368) opened on on October 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176368) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Create internal menu controller if external controller is changed to null.<br />
-  <sub>[#176375](https://github.com/flutter/flutter/pull/176375) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176375) 41 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#176375](https://github.com/flutter/flutter/pull/176375) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176375) 42 additions and 1 deletion in 2 files</sub><br />
 
 * **[SoaringHeart](https://github.com/shang1219178163)** &mdash; fix: Return data with popUntil<br />
   <sub>[#176380](https://github.com/flutter/flutter/pull/176380) opened on on October 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176380) 2 additions and 2 deletions in 1 file</sub><br />
@@ -139,4 +139,7 @@
 
 * **[Thomas Duffin](https://github.com/TDuffinNTU)** &mdash; Fix typo in pages.dart<br />
   <sub>[#176438](https://github.com/flutter/flutter/pull/176438) opened on on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176438) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CheckboxMenuButton doesn't crash in 0x0 environment<br />
+  <sub>[#176450](https://github.com/flutter/flutter/pull/176450) opened on on October 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176450) 17 additions and 0 deletions in 1 file</sub><br />
 
