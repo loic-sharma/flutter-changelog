@@ -110,6 +110,9 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: support older git (ubuntu 22.04) in content hash<br />
   <sub>[#176321](https://github.com/flutter/flutter/pull/176321) opened on on September 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176321) 25 additions and 25 deletions in 3 files</sub><br />
 
+* **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
+  <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176329) 116 additions and 1 deletion in 2 files</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window<br />
   <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/176361) 3362 additions and 31 deletions in 47 files</sub><br />
 
