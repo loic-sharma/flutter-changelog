@@ -877,7 +877,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-19 commits.
+20 commits.
 
 * **[Lenz Paul](https://github.com/lenzpaul)** &mdash; [Camera] Add lens type information (iOS)<br />
   <sub>[#7653](https://github.com/flutter/packages/pull/7653) merged on October 2, 2025 &mdash; **Small:** [59 comments](https://github.com/flutter/packages/pull/7653) over 12 months, 215 additions and 71 deletions in 14 files</sub><br />
@@ -923,6 +923,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Re-enable all Android legacy emulator tests<br />
   <sub>[#10141](https://github.com/flutter/packages/pull/10141) merged on October 1, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10141) over 1 day, 3 additions and 13 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Instruct agents to create a repo root alias<br />
+  <sub>[#10165](https://github.com/flutter/packages/pull/10165) merged on October 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10165) over 8 hours, 9 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [webview_flutter] updates build files to use JVM 17<br />
   <sub>[#10129](https://github.com/flutter/packages/pull/10129) merged on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10129) over 2 days, 11 additions and 7 deletions in 4 files</sub><br />
