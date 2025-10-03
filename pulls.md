@@ -114,7 +114,7 @@
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176329) 79 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window<br />
-  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/176361) 3070 additions and 31 deletions in 44 files</sub><br />
+  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/176361) 3070 additions and 31 deletions in 44 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuBar doesn't crash in 0x0 environment<br />
   <sub>[#176368](https://github.com/flutter/flutter/pull/176368) opened on on October 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176368) 11 additions and 0 deletions in 1 file</sub><br />
