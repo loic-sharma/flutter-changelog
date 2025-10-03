@@ -146,3 +146,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Check for reserved padding updates on layout delegate. <br />
   <sub>[#176457](https://github.com/flutter/flutter/pull/176457) opened on on October 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176457) 29 additions and 0 deletions in 2 files</sub><br />
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Align flutter dependencies with ones coming from dart.<br />
+  <sub>[#176475](https://github.com/flutter/flutter/pull/176475) opened on on October 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176475) 12 additions and 12 deletions in 1 file</sub><br />
+
