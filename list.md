@@ -877,7 +877,7 @@
 
 ### September 27, 2025 to October 3, 2025
 
-18 commits.
+19 commits.
 
 * **[Lenz Paul](https://github.com/lenzpaul)** &mdash; [Camera] Add lens type information (iOS)
   <sub>[#7653](https://github.com/flutter/packages/pull/7653) merged on October 2, 2025 &mdash; **Small:** [59 comments](https://github.com/flutter/packages/pull/7653) over 12 months, 215 additions and 71 deletions in 14 files</sub>
@@ -899,6 +899,10 @@
 * **[Jamiu Akinyemi](https://github.com/blackorbs-dev)** &mdash; [camera_android_camerax] Implement setDescriptionWhileRecording
   <sub>[#10030](https://github.com/flutter/packages/pull/10030) merged on September 29, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/10030) over 1 week, 1093 additions and 182 deletions in 14 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Fixed Gradle 9 Deprecations in Packages
+  <sub>[#10016](https://github.com/flutter/packages/pull/10016) merged on October 3, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/10016) over 2 weeks, 777 additions and 384 deletions in 174 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Implementation swift migration - part 13
   <sub>[#9930](https://github.com/flutter/packages/pull/9930) merged on September 29, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/9930) over 1 month, 186 additions and 266 deletions in 7 files</sub>

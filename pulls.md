@@ -144,5 +144,5 @@
   <sub>[#176492](https://github.com/flutter/flutter/pull/176492) opened on on October 3, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/176492) 333 additions and 1 deletion in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add shared Darwin implementation for plugins<br />
-  <sub>[#176495](https://github.com/flutter/flutter/pull/176495) opened on on October 3, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176495) 543 additions and 12 deletions in 15 files</sub><br />
+  <sub>[#176495](https://github.com/flutter/flutter/pull/176495) opened on on October 3, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176495) 549 additions and 12 deletions in 16 files</sub><br />
 
