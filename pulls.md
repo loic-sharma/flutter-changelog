@@ -147,5 +147,5 @@
   <sub>[#176516](https://github.com/flutter/flutter/pull/176516) opened on on October 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176516) 35 additions and 0 deletions in 1 file</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [stable] [Impeller] Fix app crash on some Android devices due to VK cache corruption<br />
-  <sub>[#176520](https://github.com/flutter/flutter/pull/176520) opened on on October 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176520) 57 additions and 10 deletions in 5 files</sub><br />
+  <sub>[#176520](https://github.com/flutter/flutter/pull/176520) opened on on October 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176520) 57 additions and 10 deletions in 5 files</sub><br />
 
