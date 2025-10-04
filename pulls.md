@@ -134,9 +134,6 @@
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix(AnimatedScrollView): exclude outgoing items in removeAllItems<br />
   <sub>[#176452](https://github.com/flutter/flutter/pull/176452) opened on on October 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176452) 8 additions and 2 deletions in 1 file</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Check for reserved padding updates on layout delegate. <br />
-  <sub>[#176457](https://github.com/flutter/flutter/pull/176457) opened on on October 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176457) 29 additions and 0 deletions in 2 files</sub><br />
-
 * **[Mohamed Samir Salem](https://github.com/Mohamed-7018)** &mdash;  Extend EdgeInsetsGeometry with Utility Methods: add EdgeInsets.some and EdgeInsets.except constructors<br />
   <sub>[#176488](https://github.com/flutter/flutter/pull/176488) opened on on October 3, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/176488) 409 additions and 135 deletions in 3 files</sub><br />
 
