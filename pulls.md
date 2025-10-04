@@ -152,3 +152,6 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [stable] [Impeller] Fix app crash on some Android devices due to VK cache corruption<br />
   <sub>[#176520](https://github.com/flutter/flutter/pull/176520) opened on on October 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176520) 57 additions and 10 deletions in 5 files</sub><br />
 
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget<br />
+  <sub>[#176530](https://github.com/flutter/flutter/pull/176530) opened on on October 4, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/176530) 284 additions and 247 deletions in 2 files</sub><br />
+
