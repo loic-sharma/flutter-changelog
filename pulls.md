@@ -159,5 +159,5 @@
   <sub>[#176535](https://github.com/flutter/flutter/pull/176535) opened on on October 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176535) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix type error when retrieving flags from persistent preferences<br />
-  <sub>[#176546](https://github.com/flutter/flutter/pull/176546) opened on on October 5, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/176546) 154 additions and 163 deletions in 6 files</sub><br />
+  <sub>[#176546](https://github.com/flutter/flutter/pull/176546) opened on on October 5, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/176546) 154 additions and 163 deletions in 6 files</sub><br />
 
