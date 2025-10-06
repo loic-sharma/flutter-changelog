@@ -126,16 +126,13 @@
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix<br />
-  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) opened on on October 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176418) 105 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) opened on on October 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176418) 105 additions and 5 deletions in 2 files</sub><br />
 
 * **[Thomas Duffin](https://github.com/TDuffinNTU)** &mdash; Fix typo in pages.dart<br />
   <sub>[#176438](https://github.com/flutter/flutter/pull/176438) opened on on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176438) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix(AnimatedScrollView): exclude outgoing items in removeAllItems<br />
   <sub>[#176452](https://github.com/flutter/flutter/pull/176452) opened on on October 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176452) 8 additions and 2 deletions in 1 file</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Image GIF pausing<br />
-  <sub>[#176492](https://github.com/flutter/flutter/pull/176492) opened on on October 3, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/176492) 333 additions and 1 deletion in 2 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/dropdown_menu.dart] Refactor  _RenderDropdownMenuBody.computeDryLayout <br />
   <sub>[#176503](https://github.com/flutter/flutter/pull/176503) opened on on October 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176503) 59 additions and 13 deletions in 2 files</sub><br />
@@ -159,5 +156,5 @@
   <sub>[#176550](https://github.com/flutter/flutter/pull/176550) opened on on October 5, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176550) 259 additions and 168 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Rework UI and theming<br />
-  <sub>[#176581](https://github.com/flutter/flutter/pull/176581) opened on on October 6, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/176581) 1553 additions and 276 deletions in 26 files</sub><br />
+  <sub>[#176581](https://github.com/flutter/flutter/pull/176581) opened on on October 6, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/176581) 1553 additions and 276 deletions in 26 files</sub><br />
 
