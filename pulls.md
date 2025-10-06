@@ -50,9 +50,6 @@
 * **[Mo Luo](https://github.com/moluopro)** &mdash; Fix: use 'exit' instead of 'return' for curlExitCode<br />
   <sub>[#175025](https://github.com/flutter/flutter/pull/175025) opened on on September 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175025) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.<br />
-  <sub>[#175376](https://github.com/flutter/flutter/pull/175376) opened on on September 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175376) 58 additions and 2 deletions in 6 files</sub><br />
-
 * **[eevanlai-stack](https://github.com/eevanlai-stack)** &mdash; Create devcontainer.json<br />
   <sub>[#175475](https://github.com/flutter/flutter/pull/175475) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175475) 18 additions and 0 deletions in 1 file</sub><br />
 
@@ -120,7 +117,7 @@
   <sub>[#176380](https://github.com/flutter/flutter/pull/176380) opened on on October 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176380) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
-  <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml<br />
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
@@ -144,7 +141,7 @@
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) opened on on October 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176519) 33 additions and 0 deletions in 2 files</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [stable] [Impeller] Fix app crash on some Android devices due to VK cache corruption<br />
-  <sub>[#176520](https://github.com/flutter/flutter/pull/176520) opened on on October 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176520) 57 additions and 10 deletions in 5 files</sub><br />
+  <sub>[#176520](https://github.com/flutter/flutter/pull/176520) opened on on October 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176520) 57 additions and 10 deletions in 5 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SubmenuButton doesn't crash in 0x0 environment<br />
   <sub>[#176535](https://github.com/flutter/flutter/pull/176535) opened on on October 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176535) 10 additions and 0 deletions in 1 file</sub><br />
