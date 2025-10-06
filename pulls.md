@@ -159,8 +159,11 @@
   <sub>[#176535](https://github.com/flutter/flutter/pull/176535) opened on on October 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176535) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix `WidgetInspectorService` override<br />
-  <sub>[#176550](https://github.com/flutter/flutter/pull/176550) opened on on October 5, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/176550) 251 additions and 166 deletions in 8 files</sub><br />
+  <sub>[#176550](https://github.com/flutter/flutter/pull/176550) opened on on October 5, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176550) 251 additions and 166 deletions in 8 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField does not inherit local InputDecorationTheme<br />
   <sub>[#176564](https://github.com/flutter/flutter/pull/176564) opened on on October 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176564) 59 additions and 30 deletions in 2 files</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextButton.icon breaks focus traversal and ink effect when toggling icon<br />
+  <sub>[#176579](https://github.com/flutter/flutter/pull/176579) opened on on October 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176579) 77 additions and 91 deletions in 2 files</sub><br />
 
