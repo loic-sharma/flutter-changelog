@@ -102,7 +102,7 @@
   <sub>[#176199](https://github.com/flutter/flutter/pull/176199) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176199) 71 additions and 0 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ devices<br />
-  <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/176235) 35 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/176235) 35 additions and 0 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
   <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176256) 23 additions and 16 deletions in 2 files</sub><br />
@@ -124,9 +124,6 @@
 
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml<br />
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix<br />
-  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) opened on on October 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176418) 105 additions and 5 deletions in 2 files</sub><br />
 
 * **[Thomas Duffin](https://github.com/TDuffinNTU)** &mdash; Fix typo in pages.dart<br />
   <sub>[#176438](https://github.com/flutter/flutter/pull/176438) opened on on October 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176438) 1 addition and 1 deletion in 1 file</sub><br />
@@ -152,11 +149,8 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SubmenuButton doesn't crash in 0x0 environment<br />
   <sub>[#176535](https://github.com/flutter/flutter/pull/176535) opened on on October 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176535) 10 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix `WidgetInspectorService` override<br />
-  <sub>[#176550](https://github.com/flutter/flutter/pull/176550) opened on on October 5, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176550) 259 additions and 168 deletions in 9 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Rework UI and theming<br />
-  <sub>[#176581](https://github.com/flutter/flutter/pull/176581) opened on on October 6, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/176581) 1555 additions and 276 deletions in 26 files</sub><br />
+  <sub>[#176581](https://github.com/flutter/flutter/pull/176581) opened on on October 6, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/176581) 1557 additions and 278 deletions in 26 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS can set application locale before view controller is set<br />
   <sub>[#176592](https://github.com/flutter/flutter/pull/176592) opened on on October 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176592) 52 additions and 2 deletions in 3 files</sub><br />
