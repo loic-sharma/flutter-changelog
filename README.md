@@ -4,7 +4,15 @@
 
 ### October 4, 2025 to October 10, 2025
 
-1 commits.
+3 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add an AppDelegate callback for implicit FlutterEngines<br />
+  <sub>[#176240](https://github.com/flutter/flutter/pull/176240) merged on October 6, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/176240) over 6 days, 942 additions and 75 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b<br />
+  <sub>[#176322](https://github.com/flutter/flutter/pull/176322) merged on October 6, 2025 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/176322) over 5 days, 931 additions and 588 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix type error when retrieving flags from persistent preferences<br />
   <sub>[#176546](https://github.com/flutter/flutter/pull/176546) merged on October 6, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176546) over 16 hours, 178 additions and 177 deletions in 8 files</sub><br />
@@ -600,15 +608,11 @@
 ### September 13, 2025 to September 19, 2025
 
 <details>
-<summary>3 commits...</summary>
+<summary>2 commits...</summary>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Correctly implement PlatformViews' cursors on Web<br />
   <sub>[#174300](https://github.com/flutter/flutter/pull/174300) merged on September 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174300) over 4 weeks, 160 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `menuController` to `DropdownMenu`<br />
-  <sub>[#175039](https://github.com/flutter/flutter/pull/175039) merged on September 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175039) over 1 week, 31 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y] TimePicker clock is unnecessarily announced<br />
   <sub>[#175570](https://github.com/flutter/flutter/pull/175570) merged on September 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175570) over 1 day, 21 additions and 45 deletions in 2 files</sub><br />
