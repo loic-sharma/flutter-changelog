@@ -149,3 +149,6 @@
 * **[Oleg Matskiv](https://github.com/Alpaca00)** &mdash; [docs] Fix typo in link to engine testing docs<br />
   <sub>[#176600](https://github.com/flutter/flutter/pull/176600) opened on on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176600) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Tommy](https://github.com/fabiocdssilva69-prog)** &mdash; Barbergo<br />
+  <sub>[#176602](https://github.com/flutter/flutter/pull/176602) opened on on October 6, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/176602) 5412 additions and 1368 deletions in 104 files</sub><br />
+
