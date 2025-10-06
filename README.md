@@ -645,7 +645,11 @@
 
 ### October 4, 2025 to October 10, 2025
 
-1 commits.
+2 commits.
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update CI to Test Against SDK 36v3<br />
+  <sub>[#10169](https://github.com/flutter/packages/pull/10169) merged on October 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10169) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [espresso] updates build files to use JVM 17 <br />
   <sub>[#10162](https://github.com/flutter/packages/pull/10162) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10162) over 4 days, 10 additions and 5 deletions in 3 files</sub><br />

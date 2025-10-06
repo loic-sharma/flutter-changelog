@@ -146,6 +146,3 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS can set application locale before view controller is set<br />
   <sub>[#176592](https://github.com/flutter/flutter/pull/176592) opened on on October 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176592) 52 additions and 2 deletions in 3 files</sub><br />
 
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Bump customer tests.version to 986c4326b4e4bb4e37bc963c2cc2aaa10b943859<br />
-  <sub>[#176594](https://github.com/flutter/flutter/pull/176594) opened on on October 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176594) 1 addition and 1 deletion in 1 file</sub><br />
-
