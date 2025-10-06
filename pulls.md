@@ -9,7 +9,7 @@
   <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
   <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/172124) 407 additions and 64 deletions in 6 files</sub><br />
@@ -139,9 +139,6 @@
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings<br />
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) opened on on October 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176519) 33 additions and 0 deletions in 2 files</sub><br />
-
-* **[David Martos](https://github.com/davidmartos96)** &mdash; [stable] [Impeller] Fix app crash on some Android devices due to VK cache corruption<br />
-  <sub>[#176520](https://github.com/flutter/flutter/pull/176520) opened on on October 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176520) 57 additions and 10 deletions in 5 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SubmenuButton doesn't crash in 0x0 environment<br />
   <sub>[#176535](https://github.com/flutter/flutter/pull/176535) opened on on October 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176535) 10 additions and 0 deletions in 1 file</sub><br />
