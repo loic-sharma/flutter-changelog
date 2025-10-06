@@ -152,9 +152,6 @@
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [stable] [Impeller] Fix app crash on some Android devices due to VK cache corruption<br />
   <sub>[#176520](https://github.com/flutter/flutter/pull/176520) opened on on October 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176520) 57 additions and 10 deletions in 5 files</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget<br />
-  <sub>[#176530](https://github.com/flutter/flutter/pull/176530) opened on on October 4, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/176530) 284 additions and 247 deletions in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SubmenuButton doesn't crash in 0x0 environment<br />
   <sub>[#176535](https://github.com/flutter/flutter/pull/176535) opened on on October 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176535) 10 additions and 0 deletions in 1 file</sub><br />
 
@@ -162,5 +159,5 @@
   <sub>[#176550](https://github.com/flutter/flutter/pull/176550) opened on on October 5, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176550) 251 additions and 166 deletions in 8 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Rework UI and theming<br />
-  <sub>[#176581](https://github.com/flutter/flutter/pull/176581) opened on on October 6, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/176581) 1662 additions and 276 deletions in 25 files</sub><br />
+  <sub>[#176581](https://github.com/flutter/flutter/pull/176581) opened on on October 6, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/176581) 1662 additions and 276 deletions in 25 files</sub><br />
 
