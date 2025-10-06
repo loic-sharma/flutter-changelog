@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-9 commits.
+10 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add an AppDelegate callback for implicit FlutterEngines
   <sub>[#176240](https://github.com/flutter/flutter/pull/176240) merged on October 6, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/176240) over 6 days, 942 additions and 75 deletions in 19 files</sub>
@@ -30,6 +30,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updates docs for flutter engine footprint
   <sub>[#176217](https://github.com/flutter/flutter/pull/176217) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176217) over 6 days, 40 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Bump customer tests.version to 986c4326b4e4bb4e37bc963c2cc2aaa10b943859
+  <sub>[#176594](https://github.com/flutter/flutter/pull/176594) merged on October 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176594) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Thomas Duffin](https://github.com/TDuffinNTU)** &mdash; Fix typo in pages.dart
   <sub>[#176438](https://github.com/flutter/flutter/pull/176438) merged on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176438) over 3 days, 1 addition and 1 deletion in 1 file</sub>
