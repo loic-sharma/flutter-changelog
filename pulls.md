@@ -161,6 +161,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix `WidgetInspectorService` override<br />
   <sub>[#176550](https://github.com/flutter/flutter/pull/176550) opened on on October 5, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176550) 251 additions and 166 deletions in 8 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextButton.icon breaks focus traversal and ink effect when toggling icon<br />
-  <sub>[#176579](https://github.com/flutter/flutter/pull/176579) opened on on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176579) 79 additions and 92 deletions in 2 files</sub><br />
-
