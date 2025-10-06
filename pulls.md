@@ -161,3 +161,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix `WidgetInspectorService` override<br />
   <sub>[#176550](https://github.com/flutter/flutter/pull/176550) opened on on October 5, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176550) 251 additions and 166 deletions in 8 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add fallback for 'scene:willConnectToSession:options'<br />
+  <sub>[#176580](https://github.com/flutter/flutter/pull/176580) opened on on October 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/176580) 443 additions and 16 deletions in 7 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Rework UI and theming<br />
+  <sub>[#176581](https://github.com/flutter/flutter/pull/176581) opened on on October 6, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/176581) 1662 additions and 276 deletions in 25 files</sub><br />
+
