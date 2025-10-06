@@ -608,11 +608,15 @@
 ### September 13, 2025 to September 19, 2025
 
 <details>
-<summary>2 commits...</summary>
+<summary>3 commits...</summary>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Correctly implement PlatformViews' cursors on Web
   <sub>[#174300](https://github.com/flutter/flutter/pull/174300) merged on September 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174300) over 4 weeks, 160 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `menuController` to `DropdownMenu`
+  <sub>[#175039](https://github.com/flutter/flutter/pull/175039) merged on September 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175039) over 1 week, 31 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [a11y] TimePicker clock is unnecessarily announced
   <sub>[#175570](https://github.com/flutter/flutter/pull/175570) merged on September 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175570) over 1 day, 21 additions and 45 deletions in 2 files</sub>
