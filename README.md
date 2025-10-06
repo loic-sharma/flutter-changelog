@@ -626,9 +626,18 @@
 
 ## flutter/packages
 
+### October 4, 2025 to October 10, 2025
+
+1 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [espresso] updates build files to use JVM 17 <br />
+  <sub>[#10162](https://github.com/flutter/packages/pull/10162) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10162) over 4 days, 10 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
 ### September 27, 2025 to October 3, 2025
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[Lenz Paul](https://github.com/lenzpaul)** &mdash; [Camera] Add lens type information (iOS)<br />
   <sub>[#7653](https://github.com/flutter/packages/pull/7653) merged on October 2, 2025 &mdash; **Small:** [59 comments](https://github.com/flutter/packages/pull/7653) over 12 months, 215 additions and 71 deletions in 14 files</sub><br />
@@ -664,7 +673,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [file_selector] updates build files to use JVM 17<br />
-  <sub>[#10097](https://github.com/flutter/packages/pull/10097) merged on September 30, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/packages/pull/10097) over 3 days, 18 additions and 12 deletions in 6 files</sub><br />
+  <sub>[#10097](https://github.com/flutter/packages/pull/10097) merged on September 30, 2025 &mdash; **Small:** [38 comments](https://github.com/flutter/packages/pull/10097) over 3 days, 18 additions and 12 deletions in 6 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Separate texture ID on Android<br />
@@ -710,6 +719,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from d693b4b9dbac to ac4e799d2370 (4 revisions)<br />
   <sub>[#10124](https://github.com/flutter/packages/pull/10124) merged on September 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10124) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### September 20, 2025 to September 26, 2025
 
