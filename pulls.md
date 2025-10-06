@@ -158,9 +158,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SubmenuButton doesn't crash in 0x0 environment<br />
   <sub>[#176535](https://github.com/flutter/flutter/pull/176535) opened on on October 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176535) 10 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix type error when retrieving flags from persistent preferences<br />
-  <sub>[#176546](https://github.com/flutter/flutter/pull/176546) opened on on October 5, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176546) 178 additions and 177 deletions in 8 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix `WidgetInspectorService` override<br />
   <sub>[#176550](https://github.com/flutter/flutter/pull/176550) opened on on October 5, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176550) 249 additions and 4 deletions in 6 files</sub><br />
 

@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### October 4, 2025 to October 10, 2025
+
+1 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix type error when retrieving flags from persistent preferences<br />
+  <sub>[#176546](https://github.com/flutter/flutter/pull/176546) merged on October 6, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176546) over 16 hours, 178 additions and 177 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
+
 ### September 27, 2025 to October 3, 2025
 
-61 commits.
+<details>
+<summary>61 commits...</summary>
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Enhance input decorator padding logic for character counter in text f…<br />
   <sub>[#175706](https://github.com/flutter/flutter/pull/175706) merged on September 30, 2025 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/175706) over 1 week, 65 additions and 2 deletions in 2 files</sub><br />
@@ -251,6 +260,8 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add verbose logs to module_uiscene_test_ios<br />
   <sub>[#176306](https://github.com/flutter/flutter/pull/176306) merged on September 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176306) over 4 hours, 7 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+</details>
 
 ### September 20, 2025 to September 26, 2025
 
