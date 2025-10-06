@@ -141,7 +141,7 @@
   <sub>[#176535](https://github.com/flutter/flutter/pull/176535) opened on on October 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176535) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Rework UI and theming<br />
-  <sub>[#176581](https://github.com/flutter/flutter/pull/176581) opened on on October 6, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/176581) 1557 additions and 278 deletions in 26 files</sub><br />
+  <sub>[#176581](https://github.com/flutter/flutter/pull/176581) opened on on October 6, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/176581) 1557 additions and 278 deletions in 26 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS can set application locale before view controller is set<br />
   <sub>[#176592](https://github.com/flutter/flutter/pull/176592) opened on on October 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176592) 52 additions and 2 deletions in 3 files</sub><br />
