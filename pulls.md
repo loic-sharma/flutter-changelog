@@ -30,7 +30,7 @@
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
 
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [Animation] Add granular frame forcing to animations<br />
-  <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173862) 188 additions and 13 deletions in 3 files</sub><br />
+  <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173862) 191 additions and 13 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
@@ -148,7 +148,4 @@
 
 * **[Oleg Matskiv](https://github.com/Alpaca00)** &mdash; [docs] Fix typo in link to engine testing docs<br />
   <sub>[#176600](https://github.com/flutter/flutter/pull/176600) opened on on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176600) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Tommy](https://github.com/fabiocdssilva69-prog)** &mdash; Barbergo<br />
-  <sub>[#176602](https://github.com/flutter/flutter/pull/176602) opened on on October 6, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/176602) 5412 additions and 1368 deletions in 104 files</sub><br />
 
