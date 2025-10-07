@@ -123,6 +123,10 @@
   <sub>[#176289](https://github.com/flutter/flutter/pull/176289) merged on October 1, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/176289) over 1 day, 356 additions and 15 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub>
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftUI support for UIScene migration
+  <sub>[#176230](https://github.com/flutter/flutter/pull/176230) merged on October 1, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/176230) over 1 day, 1119 additions and 69 deletions in 21 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; User Invoke-Expression instead of call operator for nested Powershell scripts invocations (on Windows)
   <sub>[#175941](https://github.com/flutter/flutter/pull/175941) merged on September 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175941) over 5 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -139,17 +143,13 @@
   <sub>[#175810](https://github.com/flutter/flutter/pull/175810) merged on October 3, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/175810) over 1 week, 109 additions and 98 deletions in 3 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update localization from translation console
-  <sub>[#176324](https://github.com/flutter/flutter/pull/176324) merged on October 2, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/176324) over 1 day, 1836 additions and 1293 deletions in 121 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-
 * **[Krzysztof Świętnicki](https://github.com/FufferKS)** &mdash; Update description in _LastFinderMixin to properly describe finding last
   <sub>[#174232](https://github.com/flutter/flutter/pull/174232) merged on October 1, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/174232) over 1 month, 13 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftUI support for UIScene migration
-  <sub>[#176230](https://github.com/flutter/flutter/pull/176230) merged on October 1, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/176230) over 1 day, 1119 additions and 69 deletions in 21 files</sub>
-  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update localization from translation console
+  <sub>[#176324](https://github.com/flutter/flutter/pull/176324) merged on October 2, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/176324) over 1 day, 1836 additions and 1293 deletions in 121 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update flutter test to use SemanticsFlags
   <sub>[#175987](https://github.com/flutter/flutter/pull/175987) merged on September 30, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/175987) over 5 days, 268 additions and 105 deletions in 5 files</sub>
