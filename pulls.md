@@ -6,7 +6,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156620) 13 additions and 5 deletions in 4 files</sub><br />
 
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
-  <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
+  <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
@@ -142,9 +142,6 @@
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Fix typo in overlay.dart documentation comment<br />
   <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-290.1.beta<br />
-  <sub>[#176629](https://github.com/flutter/flutter/pull/176629) opened on on October 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176629) 9 additions and 9 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Cleanup OutlinedButton.icon documentation and implementation<br />
   <sub>[#176630](https://github.com/flutter/flutter/pull/176630) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176630) 9 additions and 14 deletions in 2 files</sub><br />
