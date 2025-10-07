@@ -856,9 +856,19 @@
 
 ## flutter/website
 
+### October 4, 2025 to October 10, 2025
+
+1 commits.
+
+* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update URL launch method to use Uri.parse<br />
+  <sub>[#12518](https://github.com/flutter/website/pull/12518) merged on October 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12518) over 21 hours, 2 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="382" alt="image" src="https://github.com/user-attachments/assets/455279e2-b1f5-4d5b-b50c-fef7b4521ab5" /></details></sub>
+
 ### September 27, 2025 to October 3, 2025
 
-23 commits.
+<details>
+<summary>23 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove use of site-shared as a git submodule<br />
   <sub>[#12494](https://github.com/flutter/website/pull/12494) merged on October 2, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/12494) over 17 hours, 2793 additions and 146 deletions in 65 files</sub><br />
@@ -951,6 +961,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Revert "Announce 2025 Q4 survey"<br />
   <sub>[#12491](https://github.com/flutter/website/pull/12491) merged on October 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/12491) over 51 minutes, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Michael Thomsen](https://github.com/mit-mit), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### September 20, 2025 to September 26, 2025
 
