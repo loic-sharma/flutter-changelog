@@ -155,3 +155,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Cleanup OutlinedButton.icon documentation and implementation<br />
   <sub>[#176630](https://github.com/flutter/flutter/pull/176630) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176630) 9 additions and 14 deletions in 2 files</sub><br />
 
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; disable metal for crosscompile from mac to linux<br />
+  <sub>[#176639](https://github.com/flutter/flutter/pull/176639) opened on on October 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176639) 1 addition and 1 deletion in 1 file</sub><br />
+
