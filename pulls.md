@@ -158,6 +158,12 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuAcceleratorLabel doesn't crash in 0x0 environment<br />
   <sub>[#176646](https://github.com/flutter/flutter/pull/176646) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176646) 9 additions and 0 deletions in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update engine.version<br />
-  <sub>[#176650](https://github.com/flutter/flutter/pull/176650) opened on on October 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176650) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `engine.version`<br />
+  <sub>[#176650](https://github.com/flutter/flutter/pull/176650) opened on on October 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176650) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG`<br />
+  <sub>[#176654](https://github.com/flutter/flutter/pull/176654) opened on on October 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176654) 3 additions and 2 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Output `app.dtd` and `app.devTools` in machine mode<br />
+  <sub>[#176655](https://github.com/flutter/flutter/pull/176655) opened on on October 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176655) 150 additions and 49 deletions in 8 files</sub><br />
 
