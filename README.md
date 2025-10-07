@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-12 commits.
+13 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add an AppDelegate callback for implicit FlutterEngines<br />
   <sub>[#176240](https://github.com/flutter/flutter/pull/176240) merged on October 6, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/176240) over 6 days, 942 additions and 75 deletions in 19 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b<br />
   <sub>[#176322](https://github.com/flutter/flutter/pull/176322) merged on October 6, 2025 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/176322) over 5 days, 931 additions and 588 deletions in 19 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Handle FlutterEngine registration when embedded in Multi-Scene apps<br />
+  <sub>[#176490](https://github.com/flutter/flutter/pull/176490) merged on October 7, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/176490) over 3 days, 945 additions and 251 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigatorBar lacks visual feedback<br />
   <sub>[#175182](https://github.com/flutter/flutter/pull/175182) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175182) over 3 weeks, 77 additions and 60 deletions in 7 files</sub><br />
