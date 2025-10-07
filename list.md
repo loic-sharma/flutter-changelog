@@ -866,12 +866,16 @@
 
 ### October 4, 2025 to October 10, 2025
 
-1 commits.
+2 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update URL launch method to use Uri.parse
   <sub>[#12518](https://github.com/flutter/website/pull/12518) merged on October 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12518) over 21 hours, 2 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
   <sub><details><summary>1 image...</summary><img width="382" alt="image" src="https://github.com/user-attachments/assets/455279e2-b1f5-4d5b-b50c-fef7b4521ab5" /></details></sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Updating documentation on UIScene migration
+  <sub>[#12490](https://github.com/flutter/website/pull/12490) merged on October 7, 2025 &mdash; **Large:** [25 comments](https://github.com/flutter/website/pull/12490) over 6 days, 552 additions and 177 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### September 27, 2025 to October 3, 2025
 
