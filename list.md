@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-10 commits.
+11 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add an AppDelegate callback for implicit FlutterEngines
   <sub>[#176240](https://github.com/flutter/flutter/pull/176240) merged on October 6, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/176240) over 6 days, 942 additions and 75 deletions in 19 files</sub>
@@ -18,6 +18,10 @@
   <sub>[#175501](https://github.com/flutter/flutter/pull/175501) merged on October 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175501) over 2 weeks, 8 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
   <sub><details><summary>3 images...</summary><img width="540" height="960" alt="api27_legacy" src="https://github.com/user-attachments/assets/f19515e4-5a2d-46fd-af66-93d401f7e2ee" /><img width="720" height="1544" alt="api35_legacy" src="https://github.com/user-attachments/assets/dd946ee4-1945-4209-86cc-a566c474681e" /><img width="603" height="1311" alt="ios" src="https://github.com/user-attachments/assets/9d1cb68d-2abd-4844-a949-1ef33c134792" /></details></sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add tooling to migrate to UIScene
+  <sub>[#176427](https://github.com/flutter/flutter/pull/176427) merged on October 7, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/176427) over 4 days, 1156 additions and 4 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b
   <sub>[#176322](https://github.com/flutter/flutter/pull/176322) merged on October 6, 2025 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/176322) over 5 days, 931 additions and 588 deletions in 19 files</sub>
