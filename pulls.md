@@ -26,9 +26,6 @@
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) opened on on August 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/173600) 14 additions and 1 deletion in 2 files</sub><br />
 
-* **[Thomas Guerin](https://github.com/tguerin)** &mdash; [Animation] Add granular frame forcing to animations<br />
-  <sub>[#173862](https://github.com/flutter/flutter/pull/173862) opened on on August 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/173862) 197 additions and 17 deletions in 4 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
@@ -160,4 +157,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuAcceleratorLabel doesn't crash in 0x0 environment<br />
   <sub>[#176646](https://github.com/flutter/flutter/pull/176646) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176646) 9 additions and 0 deletions in 1 file</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update engine.version<br />
+  <sub>[#176650](https://github.com/flutter/flutter/pull/176650) opened on on October 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176650) 1 addition and 1 deletion in 1 file</sub><br />
 
