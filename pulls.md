@@ -128,9 +128,6 @@
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Enhance macOS build process to support architecture specification via dartDefines<br />
   <sub>[#176606](https://github.com/flutter/flutter/pull/176606) opened on on October 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176606) 141 additions and 2 deletions in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make it clear that you need to install clangd in VSCode intellisense c++ config<br />
-  <sub>[#176609](https://github.com/flutter/flutter/pull/176609) opened on on October 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176609) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Fix typo in overlay.dart documentation comment<br />
   <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
 
