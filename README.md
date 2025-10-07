@@ -891,7 +891,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-5 commits.
+6 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update URL launch method to use Uri.parse<br />
   <sub>[#12518](https://github.com/flutter/website/pull/12518) merged on October 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12518) over 21 hours, 2 additions and 4 deletions in 2 files</sub><br />
@@ -905,6 +905,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use consistent example directory location in set up instructions<br />
   <sub>[#12520](https://github.com/flutter/website/pull/12520) merged on October 7, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/website/pull/12520) over 5 hours, 18 additions and 18 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding mention of Cursor and Windsurf<br />
+  <sub>[#12503](https://github.com/flutter/website/pull/12503) merged on October 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12503) over 5 days, 27 additions and 18 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Clément Besnier](https://github.com/clemsciences)** &mdash; Update appbar-theme-color.md<br />
   <sub>[#12514](https://github.com/flutter/website/pull/12514) merged on October 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12514) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
