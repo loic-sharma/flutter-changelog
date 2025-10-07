@@ -92,9 +92,6 @@
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Fix/ios share context menu<br />
   <sub>[#176199](https://github.com/flutter/flutter/pull/176199) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176199) 71 additions and 0 deletions in 2 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ devices<br />
-  <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/176235) 35 additions and 0 deletions in 2 files</sub><br />
-
 * **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176329) 79 additions and 1 deletion in 2 files</sub><br />
 
@@ -163,9 +160,6 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG`<br />
   <sub>[#176654](https://github.com/flutter/flutter/pull/176654) opened on on October 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176654) 3 additions and 2 deletions in 1 file</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Output `app.dtd` and `app.devTools` in machine mode<br />
-  <sub>[#176655](https://github.com/flutter/flutter/pull/176655) opened on on October 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176655) 188 additions and 49 deletions in 9 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove unnecessary location permission<br />
   <sub>[#176672](https://github.com/flutter/flutter/pull/176672) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176672) 0 additions and 1 deletion in 1 file</sub><br />
