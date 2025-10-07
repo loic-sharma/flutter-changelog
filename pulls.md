@@ -6,7 +6,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156620) 13 additions and 5 deletions in 4 files</sub><br />
 
 * **[Caique Minhare [Cake]](https://github.com/ca-ke)** &mdash; Add support for customizable Kotlin and Gradle versions in project cr…<br />
-  <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
+  <sub>[#169544](https://github.com/flutter/flutter/pull/169544) opened on on May 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/169544) 94 additions and 10 deletions in 7 files</sub><br />
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/170980) 55 additions and 24 deletions in 2 files</sub><br />
@@ -155,12 +155,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuAcceleratorLabel doesn't crash in 0x0 environment<br />
   <sub>[#176646](https://github.com/flutter/flutter/pull/176646) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176646) 9 additions and 0 deletions in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `engine.version`<br />
-  <sub>[#176650](https://github.com/flutter/flutter/pull/176650) opened on on October 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176650) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG`<br />
-  <sub>[#176654](https://github.com/flutter/flutter/pull/176654) opened on on October 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176654) 3 additions and 2 deletions in 1 file</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove unnecessary location permission<br />
   <sub>[#176672](https://github.com/flutter/flutter/pull/176672) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176672) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
+  <sub>[#176673](https://github.com/flutter/flutter/pull/176673) opened on on October 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176673) 104 additions and 0 deletions in 2 files</sub><br />
 
