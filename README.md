@@ -682,7 +682,15 @@
 
 ### October 4, 2025 to October 10, 2025
 
-2 commits.
+4 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for accessing data for an Ad<br />
+  <sub>[#9972](https://github.com/flutter/packages/pull/9972) merged on October 7, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/9972) over 4 weeks, 1568 additions and 37 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add Android geolocation README<br />
+  <sub>[#10166](https://github.com/flutter/packages/pull/10166) merged on October 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10166) over 4 days, 47 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update CI to Test Against SDK 36v3<br />
   <sub>[#10169](https://github.com/flutter/packages/pull/10169) merged on October 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10169) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
