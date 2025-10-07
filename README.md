@@ -11,7 +11,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update anchorRect for overlayBuilder when anchor moves<br />
-  <sub>[#169814](https://github.com/flutter/flutter/pull/169814) merged on October 6, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/169814) over 4 months, 53 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#169814](https://github.com/flutter/flutter/pull/169814) merged on October 6, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/169814) over 4 months, 53 additions and 14 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[alexskobozev](https://github.com/alexskobozev)** &mdash; Fix deprecated configureStatusBarForFullscreenFlutterExperience for Android 15+<br />
