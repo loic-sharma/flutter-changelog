@@ -98,9 +98,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ devices<br />
   <sub>[#176235](https://github.com/flutter/flutter/pull/176235) opened on on September 29, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/176235) 35 additions and 0 deletions in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
-  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) opened on on September 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176256) 23 additions and 16 deletions in 2 files</sub><br />
-
 * **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176329) 79 additions and 1 deletion in 2 files</sub><br />
 

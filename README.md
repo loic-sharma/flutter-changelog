@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-11 commits.
+12 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add an AppDelegate callback for implicit FlutterEngines<br />
   <sub>[#176240](https://github.com/flutter/flutter/pull/176240) merged on October 6, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/176240) over 6 days, 942 additions and 75 deletions in 19 files</sub><br />
@@ -34,6 +34,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updates docs for flutter engine footprint<br />
   <sub>[#176217](https://github.com/flutter/flutter/pull/176217) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176217) over 6 days, 40 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
+  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) merged on October 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176256) over 6 days, 23 additions and 16 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Bump customer tests.version to 986c4326b4e4bb4e37bc963c2cc2aaa10b943859<br />
   <sub>[#176594](https://github.com/flutter/flutter/pull/176594) merged on October 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176594) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
