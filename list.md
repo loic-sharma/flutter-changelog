@@ -4,7 +4,12 @@
 
 ### October 4, 2025 to October 10, 2025
 
-18 commits.
+19 commits.
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget
+  <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
+  <sub><details><summary>1 image...</summary>![project_file_fix](https://github.com/user-attachments/assets/e3839ada-52b6-4d4d-b1d7-7fea93c7380c)</details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Rework UI and theming
   <sub>[#176581](https://github.com/flutter/flutter/pull/176581) merged on October 7, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/176581) over 12 hours, 1557 additions and 278 deletions in 26 files</sub>
