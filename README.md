@@ -4,7 +4,12 @@
 
 ### October 4, 2025 to October 10, 2025
 
-13 commits.
+14 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Rework UI and theming<br />
+  <sub>[#176581](https://github.com/flutter/flutter/pull/176581) merged on October 7, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/176581) over 12 hours, 1557 additions and 278 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="1149" height="571" alt="image" src="https://github.com/user-attachments/assets/d84beacd-6b1c-4186-b793-88aae58613c1" /></details></sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add an AppDelegate callback for implicit FlutterEngines<br />
   <sub>[#176240](https://github.com/flutter/flutter/pull/176240) merged on October 6, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/176240) over 6 days, 942 additions and 75 deletions in 19 files</sub><br />
