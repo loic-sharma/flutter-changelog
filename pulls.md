@@ -167,3 +167,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Output `app.dtd` and `app.devTools` in machine mode<br />
   <sub>[#176655](https://github.com/flutter/flutter/pull/176655) opened on on October 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176655) 188 additions and 49 deletions in 9 files</sub><br />
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove unnecessary location permission<br />
+  <sub>[#176672](https://github.com/flutter/flutter/pull/176672) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176672) 0 additions and 1 deletion in 1 file</sub><br />
+
