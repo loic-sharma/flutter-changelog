@@ -150,7 +150,7 @@
   <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-290.1.beta<br />
-  <sub>[#176629](https://github.com/flutter/flutter/pull/176629) opened on on October 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176629) 9 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#176629](https://github.com/flutter/flutter/pull/176629) opened on on October 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176629) 9 additions and 9 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Cleanup OutlinedButton.icon documentation and implementation<br />
   <sub>[#176630](https://github.com/flutter/flutter/pull/176630) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176630) 9 additions and 14 deletions in 2 files</sub><br />
