@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-14 commits.
+15 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Rework UI and theming
   <sub>[#176581](https://github.com/flutter/flutter/pull/176581) merged on October 7, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/176581) over 12 hours, 1557 additions and 278 deletions in 26 files</sub>
@@ -43,6 +43,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updates docs for flutter engine footprint
   <sub>[#176217](https://github.com/flutter/flutter/pull/176217) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176217) over 6 days, 40 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add fallback for 'scene:willConnectToSession:options'
+  <sub>[#176580](https://github.com/flutter/flutter/pull/176580) merged on October 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176580) over 1 day, 238 additions and 11 deletions in 5 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template
   <sub>[#176256](https://github.com/flutter/flutter/pull/176256) merged on October 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176256) over 6 days, 23 additions and 16 deletions in 2 files</sub>
