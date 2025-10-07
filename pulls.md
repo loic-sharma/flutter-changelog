@@ -101,29 +101,20 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Create internal menu controller if external controller is changed to null.<br />
   <sub>[#176375](https://github.com/flutter/flutter/pull/176375) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176375) 42 additions and 1 deletion in 2 files</sub><br />
 
-* **[SoaringHeart](https://github.com/shang1219178163)** &mdash; fix: Return data with popUntil<br />
-  <sub>[#176380](https://github.com/flutter/flutter/pull/176380) opened on on October 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176380) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml<br />
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
 
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix(AnimatedScrollView): exclude outgoing items in removeAllItems<br />
-  <sub>[#176452](https://github.com/flutter/flutter/pull/176452) opened on on October 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176452) 8 additions and 2 deletions in 1 file</sub><br />
-
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/dropdown_menu.dart] Refactor  _RenderDropdownMenuBody.computeDryLayout <br />
   <sub>[#176503](https://github.com/flutter/flutter/pull/176503) opened on on October 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176503) 59 additions and 13 deletions in 2 files</sub><br />
 
 * **[Mohamed Samir Salem](https://github.com/Mohamed-7018)** &mdash; Extend EdgeInsetsGeometry with Utility Methods: add EdgeInsets.some and EdgeInsets.except constructors <br />
-  <sub>[#176507](https://github.com/flutter/flutter/pull/176507) opened on on October 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176507) 285 additions and 11 deletions in 3 files</sub><br />
+  <sub>[#176507](https://github.com/flutter/flutter/pull/176507) opened on on October 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176507) 285 additions and 11 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RadioMenuButton doesn't crash in 0x0 environment<br />
   <sub>[#176516](https://github.com/flutter/flutter/pull/176516) opened on on October 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176516) 35 additions and 0 deletions in 1 file</sub><br />
-
-* **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings<br />
-  <sub>[#176519](https://github.com/flutter/flutter/pull/176519) opened on on October 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176519) 33 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SubmenuButton doesn't crash in 0x0 environment<br />
   <sub>[#176535](https://github.com/flutter/flutter/pull/176535) opened on on October 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176535) 10 additions and 0 deletions in 1 file</sub><br />
