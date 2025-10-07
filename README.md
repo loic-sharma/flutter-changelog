@@ -878,7 +878,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-3 commits.
+4 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update URL launch method to use Uri.parse<br />
   <sub>[#12518](https://github.com/flutter/website/pull/12518) merged on October 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12518) over 21 hours, 2 additions and 4 deletions in 2 files</sub><br />
@@ -891,6 +891,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use consistent example directory location in set up instructions<br />
   <sub>[#12520](https://github.com/flutter/website/pull/12520) merged on October 7, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/website/pull/12520) over 5 hours, 18 additions and 18 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Stephen Brough](https://github.com/StephenBrough)** &mdash; Finish Tween explanation in animation tutorial<br />
+  <sub>[#12519](https://github.com/flutter/website/pull/12519) merged on October 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12519) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 ### September 27, 2025 to October 3, 2025
