@@ -117,7 +117,7 @@
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix(AnimatedScrollView): exclude outgoing items in removeAllItems<br />
-  <sub>[#176452](https://github.com/flutter/flutter/pull/176452) opened on on October 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176452) 8 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#176452](https://github.com/flutter/flutter/pull/176452) opened on on October 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176452) 8 additions and 2 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/dropdown_menu.dart] Refactor  _RenderDropdownMenuBody.computeDryLayout <br />
   <sub>[#176503](https://github.com/flutter/flutter/pull/176503) opened on on October 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176503) 59 additions and 13 deletions in 2 files</sub><br />
