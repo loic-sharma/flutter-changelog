@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-22 commits.
+23 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub>
@@ -28,6 +28,10 @@
   <sub>[#175501](https://github.com/flutter/flutter/pull/175501) merged on October 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175501) over 2 weeks, 8 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
   <sub><details><summary>3 images...</summary><img width="540" height="960" alt="api27_legacy" src="https://github.com/user-attachments/assets/f19515e4-5a2d-46fd-af66-93d401f7e2ee" /><img width="720" height="1544" alt="api35_legacy" src="https://github.com/user-attachments/assets/dd946ee4-1945-4209-86cc-a566c474681e" /><img width="603" height="1311" alt="ios" src="https://github.com/user-attachments/assets/9d1cb68d-2abd-4844-a949-1ef33c134792" /></details></sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix PopupMenu does not update when PopupMenuTheme in Theme changes.
+  <sub>[#175513](https://github.com/flutter/flutter/pull/175513) merged on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175513) over 2 weeks, 73 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add tooling to migrate to UIScene
   <sub>[#176427](https://github.com/flutter/flutter/pull/176427) merged on October 7, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/176427) over 4 days, 1156 additions and 4 deletions in 11 files</sub>
