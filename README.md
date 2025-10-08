@@ -750,7 +750,7 @@
   <sub>[#10166](https://github.com/flutter/packages/pull/10166) merged on October 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10166) over 4 days, 47 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update CI to Test Against SDK 36v3<br />
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Packages CI to Test Against SDK 36v3<br />
   <sub>[#10169](https://github.com/flutter/packages/pull/10169) merged on October 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10169) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
