@@ -936,8 +936,8 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Clarify usage of the ImageFilter API for fragment shaders.
-  <sub>[#12522](https://github.com/flutter/website/pull/12522) merged on October 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12522) over 1 hour, 15 additions and 9 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+  <sub>[#12522](https://github.com/flutter/website/pull/12522) merged on October 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12522) over 1 hour, 15 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding mention of Cursor and Windsurf
   <sub>[#12503](https://github.com/flutter/website/pull/12503) merged on October 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12503) over 5 days, 27 additions and 18 deletions in 2 files</sub>
