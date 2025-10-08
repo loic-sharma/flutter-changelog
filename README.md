@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-27 commits.
+28 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget<br />
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub><br />
@@ -77,6 +77,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updates docs for flutter engine footprint<br />
   <sub>[#176217](https://github.com/flutter/flutter/pull/176217) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176217) over 6 days, 40 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove unnecessary location permission<br />
+  <sub>[#176672](https://github.com/flutter/flutter/pull/176672) merged on October 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176672) over 19 hours, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-290.1.beta<br />
   <sub>[#176629](https://github.com/flutter/flutter/pull/176629) merged on October 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176629) over 10 hours, 9 additions and 9 deletions in 1 file</sub><br />
