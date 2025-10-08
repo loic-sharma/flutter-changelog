@@ -149,3 +149,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Disable vulkan X11 support when building for minimal linux<br />
   <sub>[#176697](https://github.com/flutter/flutter/pull/176697) opened on on October 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176697) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Remove unnecessary nullable types in examples.<br />
+  <sub>[#176713](https://github.com/flutter/flutter/pull/176713) opened on on October 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176713) 11 additions and 11 deletions in 4 files</sub><br />
+
