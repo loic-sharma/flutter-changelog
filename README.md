@@ -11,14 +11,14 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub><br />
   <sub><details><summary>1 image...</summary>![project_file_fix](https://github.com/user-attachments/assets/e3839ada-52b6-4d4d-b1d7-7fea93c7380c)</details></sub>
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view builder<br />
+  <sub>[#172837](https://github.com/flutter/flutter/pull/172837) merged on October 8, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/172837) over 2 months, 316 additions and 10 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Rework UI and theming<br />
   <sub>[#176581](https://github.com/flutter/flutter/pull/176581) merged on October 7, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/176581) over 12 hours, 1557 additions and 278 deletions in 26 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1149" height="571" alt="image" src="https://github.com/user-attachments/assets/d84beacd-6b1c-4186-b793-88aae58613c1" /></details></sub>
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add carousel view builder<br />
-  <sub>[#172837](https://github.com/flutter/flutter/pull/172837) merged on October 8, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/172837) over 2 months, 316 additions and 10 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration helper/error padding is not compliant<br />
   <sub>[#176353](https://github.com/flutter/flutter/pull/176353) merged on October 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176353) over 6 days, 105 additions and 7 deletions in 2 files</sub><br />
