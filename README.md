@@ -924,7 +924,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-7 commits.
+9 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update URL launch method to use Uri.parse<br />
   <sub>[#12518](https://github.com/flutter/website/pull/12518) merged on October 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12518) over 21 hours, 2 additions and 4 deletions in 2 files</sub><br />
@@ -937,6 +937,14 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use consistent example directory location in set up instructions<br />
   <sub>[#12520](https://github.com/flutter/website/pull/12520) merged on October 7, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/website/pull/12520) over 5 hours, 18 additions and 18 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Further clarifying tween definition<br />
+  <sub>[#12521](https://github.com/flutter/website/pull/12521) merged on October 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12521) over 18 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Revise Flutter News Toolkit documentation<br />
+  <sub>[#12524](https://github.com/flutter/website/pull/12524) merged on October 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12524) over 50 minutes, 4 additions and 54 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Clarify usage of the ImageFilter API for fragment shaders.<br />
