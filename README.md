@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-33 commits.
+34 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget<br />
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub><br />
@@ -50,13 +50,13 @@
   <sub>[#176427](https://github.com/flutter/flutter/pull/176427) merged on October 7, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/176427) over 4 days, 1156 additions and 4 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix<br />
-  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) merged on October 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176418) over 5 days, 105 additions and 7 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b<br />
   <sub>[#176322](https://github.com/flutter/flutter/pull/176322) merged on October 6, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/176322) over 5 days, 931 additions and 588 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Eric Boren](https://github.com/erock2112), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix<br />
+  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) merged on October 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176418) over 5 days, 105 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbarButton doesn't crash in 0…<br />
   <sub>[#173827](https://github.com/flutter/flutter/pull/173827) merged on October 8, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/173827) over 1 month, 15 additions and 0 deletions in 1 file</sub><br />
@@ -81,6 +81,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Divider doesn't crash in 0x0 environment<br />
   <sub>[#174709](https://github.com/flutter/flutter/pull/174709) merged on October 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174709) over 1 month, 9 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: build windows_arm artifacts for cah<br />
+  <sub>[#176723](https://github.com/flutter/flutter/pull/176723) merged on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176723) over 4 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Configure FfiNative resolver on dart:io<br />
   <sub>[#176621](https://github.com/flutter/flutter/pull/176621) merged on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176621) over 1 day, 3 additions and 0 deletions in 1 file</sub><br />
