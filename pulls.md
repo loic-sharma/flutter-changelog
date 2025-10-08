@@ -104,9 +104,6 @@
 * **[Mohamed Samir Salem](https://github.com/Mohamed-7018)** &mdash; Extend EdgeInsetsGeometry with Utility Methods: add EdgeInsets.some and EdgeInsets.except constructors <br />
   <sub>[#176507](https://github.com/flutter/flutter/pull/176507) opened on on October 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176507) 285 additions and 11 deletions in 3 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RadioMenuButton doesn't crash in 0x0 environment<br />
-  <sub>[#176516](https://github.com/flutter/flutter/pull/176516) opened on on October 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176516) 35 additions and 0 deletions in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS can set application locale before view controller is set<br />
   <sub>[#176592](https://github.com/flutter/flutter/pull/176592) opened on on October 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176592) 52 additions and 2 deletions in 3 files</sub><br />
 
