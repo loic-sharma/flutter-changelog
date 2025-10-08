@@ -110,9 +110,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RadioMenuButton doesn't crash in 0x0 environment<br />
   <sub>[#176516](https://github.com/flutter/flutter/pull/176516) opened on on October 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176516) 35 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SubmenuButton doesn't crash in 0x0 environment<br />
-  <sub>[#176535](https://github.com/flutter/flutter/pull/176535) opened on on October 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176535) 10 additions and 0 deletions in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS can set application locale before view controller is set<br />
   <sub>[#176592](https://github.com/flutter/flutter/pull/176592) opened on on October 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176592) 52 additions and 2 deletions in 3 files</sub><br />
 
@@ -125,14 +122,8 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Fix typo in overlay.dart documentation comment<br />
   <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Cleanup OutlinedButton.icon documentation and implementation<br />
-  <sub>[#176630](https://github.com/flutter/flutter/pull/176630) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176630) 9 additions and 14 deletions in 2 files</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; disable metal for crosscompile from mac to linux<br />
   <sub>[#176639](https://github.com/flutter/flutter/pull/176639) opened on on October 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176639) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuAcceleratorLabel doesn't crash in 0x0 environment<br />
-  <sub>[#176646](https://github.com/flutter/flutter/pull/176646) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176646) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
   <sub>[#176673](https://github.com/flutter/flutter/pull/176673) opened on on October 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176673) 123 additions and 0 deletions in 3 files</sub><br />
@@ -140,12 +131,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Disable vulkan X11 support when building for minimal linux<br />
   <sub>[#176697](https://github.com/flutter/flutter/pull/176697) opened on on October 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176697) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Remove unnecessary nullable types in examples.<br />
-  <sub>[#176713](https://github.com/flutter/flutter/pull/176713) opened on on October 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176713) 11 additions and 11 deletions in 4 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationBar doesn't crash in 0x0 environment<br />
-  <sub>[#176731](https://github.com/flutter/flutter/pull/176731) opened on on October 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176731) 18 additions and 0 deletions in 1 file</sub><br />
 
