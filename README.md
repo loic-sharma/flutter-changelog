@@ -732,11 +732,15 @@
 
 ### October 4, 2025 to October 10, 2025
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for accessing data for an Ad<br />
   <sub>[#9972](https://github.com/flutter/packages/pull/9972) merged on October 7, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/9972) over 4 weeks, 1568 additions and 37 deletions in 25 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Add Versioning to Gradle 9 Deprecation Change<br />
+  <sub>[#10187](https://github.com/flutter/packages/pull/10187) merged on October 8, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/packages/pull/10187) over 19 hours, 88 additions and 20 deletions in 36 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Julien Delarbre](https://github.com/juliendelarbre)** &mdash; [camera_avfoundation] iOS: Fix crash when `enableAudio == false` by correcting guard condition<br />
   <sub>[#9949](https://github.com/flutter/packages/pull/9949) merged on October 7, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9949) over 1 month, 115 additions and 9 deletions in 5 files</sub><br />
