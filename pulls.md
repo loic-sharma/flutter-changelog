@@ -96,7 +96,7 @@
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) opened on on October 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176329) 79 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window<br />
-  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/176361) 3070 additions and 31 deletions in 44 files</sub><br />
+  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/176361) 3070 additions and 31 deletions in 44 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Create internal menu controller if external controller is changed to null.<br />
   <sub>[#176375](https://github.com/flutter/flutter/pull/176375) opened on on October 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176375) 42 additions and 1 deletion in 2 files</sub><br />
