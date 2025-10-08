@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-23 commits.
+24 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub>
@@ -15,6 +15,11 @@
   <sub>[#176581](https://github.com/flutter/flutter/pull/176581) merged on October 7, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/176581) over 12 hours, 1557 additions and 278 deletions in 26 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub>
   <sub><details><summary>1 image...</summary><img width="1149" height="571" alt="image" src="https://github.com/user-attachments/assets/d84beacd-6b1c-4186-b793-88aae58613c1" /></details></sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecoration helper/error padding is not compliant
+  <sub>[#176353](https://github.com/flutter/flutter/pull/176353) merged on October 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176353) over 6 days, 105 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub><details><summary>3 images...</summary><img width="1090" height="430" alt="Screenshot 2025-10-07 at 5 36 05 PM" src="https://github.com/user-attachments/assets/cf83b30b-4cfb-4379-8cb0-7e35cd5fe414" /><img width="759" height="172" alt="image" src="https://github.com/user-attachments/assets/b8f733f5-4688-478a-b475-06130e4f6691" /><img width="759" height="172" alt="image" src="https://github.com/user-attachments/assets/a40eb328-8447-4c24-9ced-95ea619f2e1c" /></details></sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update anchorRect for overlayBuilder when anchor moves
   <sub>[#169814](https://github.com/flutter/flutter/pull/169814) merged on October 6, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/169814) over 4 months, 53 additions and 14 deletions in 2 files</sub>
