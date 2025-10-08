@@ -149,3 +149,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Remove unnecessary nullable types in examples.<br />
   <sub>[#176713](https://github.com/flutter/flutter/pull/176713) opened on on October 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176713) 11 additions and 11 deletions in 4 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
+  <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
+
