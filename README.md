@@ -940,7 +940,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-9 commits.
+10 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update URL launch method to use Uri.parse<br />
   <sub>[#12518](https://github.com/flutter/website/pull/12518) merged on October 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12518) over 21 hours, 2 additions and 4 deletions in 2 files</sub><br />
@@ -962,6 +962,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Revise Flutter News Toolkit documentation<br />
   <sub>[#12524](https://github.com/flutter/website/pull/12524) merged on October 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12524) over 50 minutes, 4 additions and 54 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update Create with AI page extensions<br />
+  <sub>[#12526](https://github.com/flutter/website/pull/12526) merged on October 8, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12526) over 1 hour, 41 additions and 24 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Clarify usage of the ImageFilter API for fragment shaders.<br />
   <sub>[#12522](https://github.com/flutter/website/pull/12522) merged on October 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12522) over 1 hour, 15 additions and 9 deletions in 1 file</sub><br />
