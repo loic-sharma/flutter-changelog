@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-25 commits.
+26 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget<br />
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub><br />
@@ -45,6 +45,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add tooling to migrate to UIScene<br />
   <sub>[#176427](https://github.com/flutter/flutter/pull/176427) merged on October 7, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/176427) over 4 days, 1156 additions and 4 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix<br />
+  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) merged on October 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176418) over 5 days, 105 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b<br />
   <sub>[#176322](https://github.com/flutter/flutter/pull/176322) merged on October 6, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/176322) over 5 days, 931 additions and 588 deletions in 19 files</sub><br />
