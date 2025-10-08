@@ -140,9 +140,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuAcceleratorLabel doesn't crash in 0x0 environment<br />
   <sub>[#176646](https://github.com/flutter/flutter/pull/176646) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176646) 9 additions and 0 deletions in 1 file</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove unnecessary location permission<br />
-  <sub>[#176672](https://github.com/flutter/flutter/pull/176672) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176672) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
   <sub>[#176673](https://github.com/flutter/flutter/pull/176673) opened on on October 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176673) 123 additions and 0 deletions in 3 files</sub><br />
 
