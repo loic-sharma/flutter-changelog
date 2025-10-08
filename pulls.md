@@ -128,3 +128,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [3.38] Create `release-candidate-branch.version`<br />
+  <sub>[#176746](https://github.com/flutter/flutter/pull/176746) opened on on October 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176746) 1 addition and 0 deletions in 1 file</sub><br />
+
