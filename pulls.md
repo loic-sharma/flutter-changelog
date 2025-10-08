@@ -111,7 +111,7 @@
   <sub>[#176503](https://github.com/flutter/flutter/pull/176503) opened on on October 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176503) 59 additions and 13 deletions in 2 files</sub><br />
 
 * **[Mohamed Samir Salem](https://github.com/Mohamed-7018)** &mdash; Extend EdgeInsetsGeometry with Utility Methods: add EdgeInsets.some and EdgeInsets.except constructors <br />
-  <sub>[#176507](https://github.com/flutter/flutter/pull/176507) opened on on October 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176507) 285 additions and 11 deletions in 3 files</sub><br />
+  <sub>[#176507](https://github.com/flutter/flutter/pull/176507) opened on on October 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176507) 285 additions and 11 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RadioMenuButton doesn't crash in 0x0 environment<br />
   <sub>[#176516](https://github.com/flutter/flutter/pull/176516) opened on on October 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176516) 35 additions and 0 deletions in 1 file</sub><br />
