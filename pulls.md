@@ -152,3 +152,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationBar doesn't crash in 0x0 environment<br />
+  <sub>[#176731](https://github.com/flutter/flutter/pull/176731) opened on on October 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176731) 18 additions and 0 deletions in 1 file</sub><br />
+
