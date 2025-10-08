@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-20 commits.
+22 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget<br />
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub><br />
@@ -56,6 +56,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updates docs for flutter engine footprint<br />
   <sub>[#176217](https://github.com/flutter/flutter/pull/176217) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176217) over 6 days, 40 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-290.1.beta<br />
+  <sub>[#176629](https://github.com/flutter/flutter/pull/176629) merged on October 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176629) over 10 hours, 9 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Output `app.dtd` and `app.devTools` in machine mode<br />
+  <sub>[#176655](https://github.com/flutter/flutter/pull/176655) merged on October 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176655) over 4 hours, 189 additions and 49 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to `WidgetStateInputBorder`<br />
   <sub>[#176386](https://github.com/flutter/flutter/pull/176386) merged on October 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176386) over 5 days, 5 additions and 5 deletions in 2 files</sub><br />
@@ -895,7 +903,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-6 commits.
+7 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update URL launch method to use Uri.parse<br />
   <sub>[#12518](https://github.com/flutter/website/pull/12518) merged on October 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12518) over 21 hours, 2 additions and 4 deletions in 2 files</sub><br />
@@ -908,6 +916,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use consistent example directory location in set up instructions<br />
   <sub>[#12520](https://github.com/flutter/website/pull/12520) merged on October 7, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/website/pull/12520) over 5 hours, 18 additions and 18 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Clarify usage of the ImageFilter API for fragment shaders.<br />
+  <sub>[#12522](https://github.com/flutter/website/pull/12522) merged on October 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12522) over 1 hour, 15 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding mention of Cursor and Windsurf<br />
