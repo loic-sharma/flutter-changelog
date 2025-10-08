@@ -146,6 +146,9 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
   <sub>[#176673](https://github.com/flutter/flutter/pull/176673) opened on on October 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176673) 123 additions and 0 deletions in 3 files</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix AppBar Semantics namesRoute for mismatched platforms<br />
+  <sub>[#176694](https://github.com/flutter/flutter/pull/176694) opened on on October 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176694) 149 additions and 1 deletion in 2 files</sub><br />
+
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Disable vulkan X11 support when building for minimal linux<br />
   <sub>[#176697](https://github.com/flutter/flutter/pull/176697) opened on on October 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176697) 1 addition and 1 deletion in 1 file</sub><br />
 
