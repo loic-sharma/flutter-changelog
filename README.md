@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-28 commits.
+30 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget<br />
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub><br />
@@ -32,6 +32,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add an AppDelegate callback for implicit FlutterEngines<br />
   <sub>[#176240](https://github.com/flutter/flutter/pull/176240) merged on October 6, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/176240) over 6 days, 942 additions and 75 deletions in 19 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add saturation ColorFilter.<br />
+  <sub>[#176464](https://github.com/flutter/flutter/pull/176464) merged on October 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176464) over 5 days, 58 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[alexskobozev](https://github.com/alexskobozev)** &mdash; Fix deprecated configureStatusBarForFullscreenFlutterExperience for Android 15+<br />
   <sub>[#175501](https://github.com/flutter/flutter/pull/175501) merged on October 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175501) over 2 weeks, 8 additions and 5 deletions in 1 file</sub><br />
@@ -77,6 +81,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updates docs for flutter engine footprint<br />
   <sub>[#176217](https://github.com/flutter/flutter/pull/176217) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176217) over 6 days, 40 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
+  <sub>[#176673](https://github.com/flutter/flutter/pull/176673) merged on October 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176673) over 21 hours, 123 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove unnecessary location permission<br />
   <sub>[#176672](https://github.com/flutter/flutter/pull/176672) merged on October 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176672) over 19 hours, 0 additions and 1 deletion in 1 file</sub><br />
