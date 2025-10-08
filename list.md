@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-25 commits.
+24 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub>
@@ -24,10 +24,6 @@
   <sub>[#176353](https://github.com/flutter/flutter/pull/176353) merged on October 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176353) over 6 days, 105 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>3 images...</summary><img width="1090" height="430" alt="Screenshot 2025-10-07 at 5 36 05 PM" src="https://github.com/user-attachments/assets/cf83b30b-4cfb-4379-8cb0-7e35cd5fe414" /><img width="759" height="172" alt="image" src="https://github.com/user-attachments/assets/b8f733f5-4688-478a-b475-06130e4f6691" /><img width="759" height="172" alt="image" src="https://github.com/user-attachments/assets/a40eb328-8447-4c24-9ced-95ea619f2e1c" /></details></sub>
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update anchorRect for overlayBuilder when anchor moves
-  <sub>[#169814](https://github.com/flutter/flutter/pull/169814) merged on October 6, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/169814) over 4 months, 53 additions and 14 deletions in 2 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add an AppDelegate callback for implicit FlutterEngines
   <sub>[#176240](https://github.com/flutter/flutter/pull/176240) merged on October 6, 2025 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/176240) over 6 days, 942 additions and 75 deletions in 19 files</sub>
