@@ -34,7 +34,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add saturation ColorFilter.
-  <sub>[#176464](https://github.com/flutter/flutter/pull/176464) merged on October 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176464) over 5 days, 58 additions and 0 deletions in 6 files</sub>
+  <sub>[#176464](https://github.com/flutter/flutter/pull/176464) merged on October 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176464) over 5 days, 58 additions and 0 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[alexskobozev](https://github.com/alexskobozev)** &mdash; Fix deprecated configureStatusBarForFullscreenFlutterExperience for Android 15+
