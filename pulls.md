@@ -54,7 +54,7 @@
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
 * **[Shiv Shankar Tiwari](https://github.com/pythonsst)** &mdash; tool(ios): clarify code signing failure with actionable Xcode steps<br />
-  <sub>[#175483](https://github.com/flutter/flutter/pull/175483) opened on on September 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175483) 41 additions and 5 deletions in 4 files</sub><br />
+  <sub>[#175483](https://github.com/flutter/flutter/pull/175483) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175483) 41 additions and 5 deletions in 4 files</sub><br />
 
 * **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form<br />
   <sub>[#175515](https://github.com/flutter/flutter/pull/175515) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175515) 122 additions and 11 deletions in 3 files</sub><br />
@@ -129,5 +129,5 @@
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dwds to 26.0.0<br />
-  <sub>[#176808](https://github.com/flutter/flutter/pull/176808) opened on on October 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176808) 29 additions and 18 deletions in 4 files</sub><br />
+  <sub>[#176808](https://github.com/flutter/flutter/pull/176808) opened on on October 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176808) 29 additions and 18 deletions in 4 files</sub><br />
 
