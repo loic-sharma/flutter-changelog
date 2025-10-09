@@ -776,11 +776,15 @@
 
 ### October 4, 2025 to October 10, 2025
 
-6 commits.
+7 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for accessing data for an Ad
   <sub>[#9972](https://github.com/flutter/packages/pull/9972) merged on October 7, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/9972) over 4 weeks, 1568 additions and 37 deletions in 25 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; [animations] ✨ Make `OpenContainerState` public
+  <sub>[#9924](https://github.com/flutter/packages/pull/9924) merged on October 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/9924) over 1 month, 45 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Add Versioning to Gradle 9 Deprecation Change
   <sub>[#10187](https://github.com/flutter/packages/pull/10187) merged on October 8, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/packages/pull/10187) over 19 hours, 88 additions and 20 deletions in 36 files</sub>

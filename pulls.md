@@ -131,6 +131,3 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [3.38] Create `release-candidate-branch.version` & `engine.version`<br />
   <sub>[#176746](https://github.com/flutter/flutter/pull/176746) opened on on October 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176746) 2 additions and 0 deletions in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Change default Linux thread policy to merge platform and UI threads.<br />
-  <sub>[#176759](https://github.com/flutter/flutter/pull/176759) opened on on October 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176759) 33 additions and 3 deletions in 2 files</sub><br />
-
