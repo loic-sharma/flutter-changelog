@@ -83,6 +83,9 @@
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing commit base expiration<br />
   <sub>[#176121](https://github.com/flutter/flutter/pull/176121) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176121) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux<br />
+  <sub>[#176187](https://github.com/flutter/flutter/pull/176187) opened on on September 29, 2025 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/176187) 1692 additions and 6 deletions in 22 files</sub><br />
+
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176192) 1 addition and 0 deletions in 1 file</sub><br />
 
