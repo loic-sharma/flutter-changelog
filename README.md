@@ -827,8 +827,8 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [many} Update all examples apps to use java 17 complile options<br />
-  <sub>[#10195](https://github.com/flutter/packages/pull/10195) merged on October 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10195) over 3 hours, 47 additions and 47 deletions in 20 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
+  <sub>[#10195](https://github.com/flutter/packages/pull/10195) merged on October 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10195) over 3 hours, 47 additions and 47 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Packages CI to Test Against SDK 36v3<br />
   <sub>[#10169](https://github.com/flutter/packages/pull/10169) merged on October 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10169) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
