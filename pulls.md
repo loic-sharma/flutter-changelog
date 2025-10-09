@@ -129,5 +129,5 @@
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Roll package:dwds to 26.0.0<br />
-  <sub>[#176808](https://github.com/flutter/flutter/pull/176808) opened on on October 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176808) 29 additions and 18 deletions in 4 files</sub><br />
+  <sub>[#176808](https://github.com/flutter/flutter/pull/176808) opened on on October 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176808) 29 additions and 18 deletions in 4 files</sub><br />
 

@@ -1012,7 +1012,11 @@
 
 ### October 4, 2025 to October 10, 2025
 
-10 commits.
+11 commits.
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update Accessibility docs
+  <sub>[#12513](https://github.com/flutter/website/pull/12513) merged on October 9, 2025 &mdash; **Large:** [43 comments](https://github.com/flutter/website/pull/12513) over 6 days, 666 additions and 457 deletions in 22 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update URL launch method to use Uri.parse
   <sub>[#12518](https://github.com/flutter/website/pull/12518) merged on October 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12518) over 21 hours, 2 additions and 4 deletions in 2 files</sub>
