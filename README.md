@@ -187,7 +187,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Output `app.dtd` and `app.devTools` in machine mode<br />
-  <sub>[#176655](https://github.com/flutter/flutter/pull/176655) merged on October 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176655) over 4 hours, 189 additions and 49 deletions in 9 files</sub><br />
+  <sub>[#176655](https://github.com/flutter/flutter/pull/176655) merged on October 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176655) over 4 hours, 189 additions and 49 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 ### September 27, 2025 to October 3, 2025
