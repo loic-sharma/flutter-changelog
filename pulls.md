@@ -131,6 +131,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [3.38] Create `release-candidate-branch.version` & `engine.version`<br />
   <sub>[#176746](https://github.com/flutter/flutter/pull/176746) opened on on October 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176746) 2 additions and 0 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuFormField triggers assertion when nested in an InputDecorator<br />
-  <sub>[#176785](https://github.com/flutter/flutter/pull/176785) opened on on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176785) 31 additions and 3 deletions in 2 files</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuFormField triggers assertion when nested in an InputDecoration<br />
+  <sub>[#176791](https://github.com/flutter/flutter/pull/176791) opened on on October 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176791) 34 additions and 11 deletions in 3 files</sub><br />
 
