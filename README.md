@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-45 commits.
+46 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget<br />
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub><br />
@@ -66,33 +66,37 @@
   <sub>[#173827](https://github.com/flutter/flutter/pull/173827) merged on October 8, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/173827) over 1 month, 15 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigatorBar lacks visual feedback<br />
-  <sub>[#175182](https://github.com/flutter/flutter/pull/175182) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175182) over 3 weeks, 77 additions and 60 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Handle FlutterEngine registration when embedded in Multi-Scene apps<br />
   <sub>[#176490](https://github.com/flutter/flutter/pull/176490) merged on October 7, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/176490) over 3 days, 945 additions and 251 deletions in 21 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Rename UIScene integration test projects and fix Xcode compatibility<br />
-  <sub>[#176635](https://github.com/flutter/flutter/pull/176635) merged on October 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/176635) over 6 hours, 1373 additions and 1292 deletions in 38 files</sub><br />
-  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigatorBar lacks visual feedback<br />
+  <sub>[#175182](https://github.com/flutter/flutter/pull/175182) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175182) over 3 weeks, 77 additions and 60 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Improve menu item accessibility semantics<br />
+  <sub>[#176255](https://github.com/flutter/flutter/pull/176255) merged on October 9, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/176255) over 1 week, 17 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField does not inherit local InputDecorationTheme<br />
   <sub>[#176564](https://github.com/flutter/flutter/pull/176564) merged on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176564) over 2 days, 59 additions and 30 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `Scaffold` having status bar when primary is false<br />
-  <sub>[#175156](https://github.com/flutter/flutter/pull/175156) merged on October 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175156) over 4 weeks, 86 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Simplify `if-else` block into single `return` statement<br />
   <sub>[#175574](https://github.com/flutter/flutter/pull/175574) merged on October 8, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/175574) over 2 weeks, 21 additions and 42 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Rename UIScene integration test projects and fix Xcode compatibility<br />
+  <sub>[#176635](https://github.com/flutter/flutter/pull/176635) merged on October 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/176635) over 6 hours, 1373 additions and 1292 deletions in 38 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField does not inherit local InputDecorationTheme<br />
   <sub>[#176300](https://github.com/flutter/flutter/pull/176300) merged on October 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176300) over 1 week, 57 additions and 18 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `Scaffold` having status bar when primary is false<br />
+  <sub>[#175156](https://github.com/flutter/flutter/pull/175156) merged on October 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175156) over 4 weeks, 86 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FloatingActionButton doesn't crash in 0x0 environment<br />
   <sub>[#175272](https://github.com/flutter/flutter/pull/175272) merged on October 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175272) over 3 weeks, 13 additions and 0 deletions in 1 file</sub><br />
@@ -126,10 +130,6 @@
   <sub>[#176217](https://github.com/flutter/flutter/pull/176217) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176217) over 6 days, 40 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix type error when retrieving flags from persistent preferences<br />
-  <sub>[#176546](https://github.com/flutter/flutter/pull/176546) merged on October 6, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176546) over 16 hours, 178 additions and 177 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate to `WidgetStateInputBorder`<br />
   <sub>[#176386](https://github.com/flutter/flutter/pull/176386) merged on October 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176386) over 5 days, 5 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -142,13 +142,13 @@
   <sub>[#176580](https://github.com/flutter/flutter/pull/176580) merged on October 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176580) over 1 day, 238 additions and 11 deletions in 5 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
-  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) merged on October 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176256) over 6 days, 23 additions and 16 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuItemButton doesn't crash in 0x0 environment<br />
   <sub>[#176419](https://github.com/flutter/flutter/pull/176419) merged on October 9, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176419) over 6 days, 9 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix code style in Linux embedder template<br />
+  <sub>[#176256](https://github.com/flutter/flutter/pull/176256) merged on October 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176256) over 6 days, 23 additions and 16 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationBar doesn't crash in 0x0 environment<br />
   <sub>[#176731](https://github.com/flutter/flutter/pull/176731) merged on October 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176731) over 9 hours, 18 additions and 0 deletions in 1 file</sub><br />
@@ -158,17 +158,17 @@
   <sub>[#176231](https://github.com/flutter/flutter/pull/176231) merged on October 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176231) over 1 week, 9 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Thomas Duffin](https://github.com/TDuffinNTU)** &mdash; Fix typo in pages.dart<br />
-  <sub>[#176438](https://github.com/flutter/flutter/pull/176438) merged on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176438) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Bump customer tests.version to 986c4326b4e4bb4e37bc963c2cc2aaa10b943859<br />
+  <sub>[#176594](https://github.com/flutter/flutter/pull/176594) merged on October 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176594) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RadioMenuButton doesn't crash in 0x0 environment<br />
   <sub>[#176516](https://github.com/flutter/flutter/pull/176516) merged on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176516) over 4 days, 35 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Bump customer tests.version to 986c4326b4e4bb4e37bc963c2cc2aaa10b943859<br />
-  <sub>[#176594](https://github.com/flutter/flutter/pull/176594) merged on October 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176594) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Thomas Duffin](https://github.com/TDuffinNTU)** &mdash; Fix typo in pages.dart<br />
+  <sub>[#176438](https://github.com/flutter/flutter/pull/176438) merged on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176438) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
   <sub>[#176673](https://github.com/flutter/flutter/pull/176673) merged on October 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176673) over 21 hours, 123 additions and 0 deletions in 3 files</sub><br />
@@ -189,6 +189,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Output `app.dtd` and `app.devTools` in machine mode<br />
   <sub>[#176655](https://github.com/flutter/flutter/pull/176655) merged on October 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176655) over 4 hours, 189 additions and 49 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix type error when retrieving flags from persistent preferences<br />
+  <sub>[#176546](https://github.com/flutter/flutter/pull/176546) merged on October 6, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176546) over 16 hours, 178 additions and 177 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
 
 ### September 27, 2025 to October 3, 2025
 
