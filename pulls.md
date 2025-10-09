@@ -87,7 +87,7 @@
   <sub>[#176187](https://github.com/flutter/flutter/pull/176187) opened on on September 29, 2025 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/176187) 1692 additions and 6 deletions in 22 files</sub><br />
 
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
-  <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176192) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
 
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Fix/ios share context menu<br />
   <sub>[#176199](https://github.com/flutter/flutter/pull/176199) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176199) 71 additions and 0 deletions in 2 files</sub><br />
