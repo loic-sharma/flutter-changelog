@@ -4,7 +4,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-38 commits.
+39 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub>
@@ -50,25 +50,25 @@
   <sub>[#176427](https://github.com/flutter/flutter/pull/176427) merged on October 7, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/176427) over 4 days, 1156 additions and 4 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix
-  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) merged on October 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176418) over 5 days, 105 additions and 7 deletions in 2 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b
+  <sub>[#176322](https://github.com/flutter/flutter/pull/176322) merged on October 6, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/176322) over 5 days, 931 additions and 588 deletions in 19 files</sub>
+  <sub>Reviewed by: [Eric Boren](https://github.com/erock2112), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix RadioButton is not vocalized as unselected by VoiceOver
   <sub>[#175926](https://github.com/flutter/flutter/pull/175926) merged on October 9, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/175926) over 2 weeks, 641 additions and 114 deletions in 119 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to a9e2ca3b
-  <sub>[#176322](https://github.com/flutter/flutter/pull/176322) merged on October 6, 2025 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/176322) over 5 days, 931 additions and 588 deletions in 19 files</sub>
-  <sub>Reviewed by: [Eric Boren](https://github.com/erock2112), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Handle FlutterEngine registration when embedded in Multi-Scene apps
-  <sub>[#176490](https://github.com/flutter/flutter/pull/176490) merged on October 7, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/176490) over 3 days, 945 additions and 251 deletions in 21 files</sub>
-  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix
+  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) merged on October 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176418) over 5 days, 105 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbarButton doesn't crash in 0…
   <sub>[#173827](https://github.com/flutter/flutter/pull/173827) merged on October 8, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/173827) over 1 month, 15 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Handle FlutterEngine registration when embedded in Multi-Scene apps
+  <sub>[#176490](https://github.com/flutter/flutter/pull/176490) merged on October 7, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/176490) over 3 days, 945 additions and 251 deletions in 21 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigatorBar lacks visual feedback
   <sub>[#175182](https://github.com/flutter/flutter/pull/175182) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175182) over 3 weeks, 77 additions and 60 deletions in 7 files</sub>
@@ -86,6 +86,10 @@
   <sub>[#176635](https://github.com/flutter/flutter/pull/176635) merged on October 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/176635) over 6 hours, 1373 additions and 1292 deletions in 38 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FloatingActionButton doesn't crash in 0x0 environment
+  <sub>[#175272](https://github.com/flutter/flutter/pull/175272) merged on October 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175272) over 3 weeks, 13 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InputDecorator doesn't crash in 0x0 environment
   <sub>[#176116](https://github.com/flutter/flutter/pull/176116) merged on October 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176116) over 1 week, 26 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -102,17 +106,13 @@
   <sub>[#176621](https://github.com/flutter/flutter/pull/176621) merged on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176621) over 1 day, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Aprelev](https://github.com/aam), [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make it clear that you need to install clangd in VSCode intellisense c++ config
-  <sub>[#176609](https://github.com/flutter/flutter/pull/176609) merged on October 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176609) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updates docs for flutter engine footprint
   <sub>[#176217](https://github.com/flutter/flutter/pull/176217) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176217) over 6 days, 40 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-290.1.beta
-  <sub>[#176629](https://github.com/flutter/flutter/pull/176629) merged on October 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176629) over 10 hours, 9 additions and 9 deletions in 1 file</sub>
-  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [Camille Simon](https://github.com/camsim99)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make it clear that you need to install clangd in VSCode intellisense c++ config
+  <sub>[#176609](https://github.com/flutter/flutter/pull/176609) merged on October 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176609) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Output `app.dtd` and `app.devTools` in machine mode
   <sub>[#176655](https://github.com/flutter/flutter/pull/176655) merged on October 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176655) over 4 hours, 189 additions and 49 deletions in 9 files</sub>
@@ -142,13 +142,13 @@
   <sub>[#176438](https://github.com/flutter/flutter/pull/176438) merged on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176438) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix `WidgetInspectorService` override
-  <sub>[#176550](https://github.com/flutter/flutter/pull/176550) merged on October 6, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176550) over 19 hours, 259 additions and 168 deletions in 9 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub>
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RadioMenuButton doesn't crash in 0x0 environment
   <sub>[#176516](https://github.com/flutter/flutter/pull/176516) merged on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176516) over 4 days, 35 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix `WidgetInspectorService` override
+  <sub>[#176550](https://github.com/flutter/flutter/pull/176550) merged on October 6, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176550) over 19 hours, 259 additions and 168 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add structured warning event for slow wireless debugging on iOS 26+ d…
   <sub>[#176673](https://github.com/flutter/flutter/pull/176673) merged on October 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176673) over 21 hours, 123 additions and 0 deletions in 3 files</sub>
@@ -157,6 +157,10 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove unnecessary location permission
   <sub>[#176672](https://github.com/flutter/flutter/pull/176672) merged on October 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176672) over 19 hours, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-290.1.beta
+  <sub>[#176629](https://github.com/flutter/flutter/pull/176629) merged on October 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176629) over 10 hours, 9 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix type error when retrieving flags from persistent preferences
   <sub>[#176546](https://github.com/flutter/flutter/pull/176546) merged on October 6, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176546) over 16 hours, 178 additions and 177 deletions in 8 files</sub>
