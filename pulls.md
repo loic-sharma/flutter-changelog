@@ -129,5 +129,5 @@
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuFormField triggers assertion when nested in an InputDecoration<br />
-  <sub>[#176791](https://github.com/flutter/flutter/pull/176791) opened on on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176791) 34 additions and 11 deletions in 3 files</sub><br />
+  <sub>[#176791](https://github.com/flutter/flutter/pull/176791) opened on on October 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176791) 34 additions and 11 deletions in 3 files</sub><br />
 
