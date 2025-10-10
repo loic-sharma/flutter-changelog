@@ -37,6 +37,10 @@
   <sub>[#169814](https://github.com/flutter/flutter/pull/169814) merged on October 6, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/169814) over 4 months, 53 additions and 14 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[Rusino](https://github.com/Rusino)** &mdash; [WebParagraph] Support for more styles, placeholders, decorations, etc<br />
+  <sub>[#172853](https://github.com/flutter/flutter/pull/172853) merged on October 10, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/172853) over 2 months, 5609 additions and 1049 deletions in 28 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add saturation ColorFilter.<br />
   <sub>[#176464](https://github.com/flutter/flutter/pull/176464) merged on October 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176464) over 5 days, 58 additions and 0 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -45,10 +49,6 @@
   <sub>[#175501](https://github.com/flutter/flutter/pull/175501) merged on October 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175501) over 2 weeks, 8 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub><br />
   <sub><details><summary>3 images...</summary><img width="540" height="960" alt="api27_legacy" src="https://github.com/user-attachments/assets/f19515e4-5a2d-46fd-af66-93d401f7e2ee" /><img width="720" height="1544" alt="api35_legacy" src="https://github.com/user-attachments/assets/dd946ee4-1945-4209-86cc-a566c474681e" /><img width="603" height="1311" alt="ios" src="https://github.com/user-attachments/assets/9d1cb68d-2abd-4844-a949-1ef33c134792" /></details></sub>
-
-* **[Rusino](https://github.com/Rusino)** &mdash; [WebParagraph] Support for more styles, placeholders, decorations, etc<br />
-  <sub>[#172853](https://github.com/flutter/flutter/pull/172853) merged on October 10, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/172853) over 2 months, 5609 additions and 1049 deletions in 28 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [HCPP] Properly remove hcpp views that are no longer visible<br />
   <sub>[#176742](https://github.com/flutter/flutter/pull/176742) merged on October 10, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/176742) over 1 day, 265 additions and 11 deletions in 12 files</sub><br />
