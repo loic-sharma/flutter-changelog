@@ -149,6 +149,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Tapping outside of `SelectableRegion` should dismiss the selection<br />
   <sub>[#176843](https://github.com/flutter/flutter/pull/176843) opened on on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176843) 96 additions and 24 deletions in 3 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectableRegion should not show flutter rendered context menu when web context menu is enabled<br />
-  <sub>[#176855](https://github.com/flutter/flutter/pull/176855) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176855) 91 additions and 13 deletions in 3 files</sub><br />
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `SelectableRegion` should not show flutter rendered context menu when web context menu is enabled<br />
+  <sub>[#176855](https://github.com/flutter/flutter/pull/176855) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176855) 92 additions and 21 deletions in 3 files</sub><br />
 
