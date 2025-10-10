@@ -128,14 +128,11 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set up a version of build_ios_framework_module_test that only runs on x64 machines and extend its timeout<br />
-  <sub>[#176811](https://github.com/flutter/flutter/pull/176811) opened on on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176811) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176825) 124 additions and 18 deletions in 2 files</sub><br />
 
 * **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Fix Image.network not using cache when headers are specified<br />
-  <sub>[#176831](https://github.com/flutter/flutter/pull/176831) opened on on October 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176831) 65 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#176831](https://github.com/flutter/flutter/pull/176831) opened on on October 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176831) 65 additions and 2 deletions in 3 files</sub><br />
 
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
   <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176832) 13 additions and 19 deletions in 1 file</sub><br />
