@@ -129,7 +129,7 @@
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set up a version of build_ios_framework_module_test that only runs on x64 machines and extend its timeout<br />
-  <sub>[#176811](https://github.com/flutter/flutter/pull/176811) opened on on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176811) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#176811](https://github.com/flutter/flutter/pull/176811) opened on on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176811) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176825) 124 additions and 18 deletions in 2 files</sub><br />
@@ -142,4 +142,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Self-cleaning service worker<br />
   <sub>[#176834](https://github.com/flutter/flutter/pull/176834) opened on on October 10, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176834) 199 additions and 1805 deletions in 20 files</sub><br />
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add gn flag to optimize builds for size<br />
+  <sub>[#176835](https://github.com/flutter/flutter/pull/176835) opened on on October 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176835) 21 additions and 2 deletions in 3 files</sub><br />
 
