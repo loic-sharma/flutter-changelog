@@ -529,7 +529,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai), [ash2moon](https://github.com/ash2moon)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement Regular Windows for the win32 framework + add an example application for regular windows
-  <sub>[#173715](https://github.com/flutter/flutter/pull/173715) merged on September 26, 2025 &mdash; **Extra large:** [185 comments](https://github.com/flutter/flutter/pull/173715) over 1 month, 4154 additions and 50 deletions in 56 files</sub>
+  <sub>[#173715](https://github.com/flutter/flutter/pull/173715) merged on September 26, 2025 &mdash; **Extra large:** [186 comments](https://github.com/flutter/flutter/pull/173715) over 1 month, 4154 additions and 50 deletions in 56 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Update docs tool tag to sample in ImageProvider
