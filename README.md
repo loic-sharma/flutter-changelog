@@ -1012,7 +1012,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-11 commits.
+12 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update Accessibility docs<br />
   <sub>[#12513](https://github.com/flutter/website/pull/12513) merged on October 9, 2025 &mdash; **Large:** [43 comments](https://github.com/flutter/website/pull/12513) over 6 days, 666 additions and 457 deletions in 22 files</sub><br />
@@ -1030,6 +1030,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use consistent example directory location in set up instructions<br />
   <sub>[#12520](https://github.com/flutter/website/pull/12520) merged on October 7, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/website/pull/12520) over 5 hours, 18 additions and 18 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a disclaimer to individual breaking changes pages<br />
+  <sub>[#12527](https://github.com/flutter/website/pull/12527) merged on October 10, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12527) over 4 hours, 342 additions and 23 deletions in 158 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Further clarifying tween definition<br />
   <sub>[#12521](https://github.com/flutter/website/pull/12521) merged on October 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12521) over 18 hours, 2 additions and 2 deletions in 1 file</sub><br />
