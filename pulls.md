@@ -128,9 +128,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
 
-* **[Huy](https://github.com/huycozy)** &mdash; Fix Dialog Semantics label and flags for mismatched platforms<br />
-  <sub>[#176781](https://github.com/flutter/flutter/pull/176781) opened on on October 9, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/176781) 385 additions and 58 deletions in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set up a version of build_ios_framework_module_test that only runs on x64 machines and extend its timeout<br />
   <sub>[#176811](https://github.com/flutter/flutter/pull/176811) opened on on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176811) 2 additions and 1 deletion in 1 file</sub><br />
 
