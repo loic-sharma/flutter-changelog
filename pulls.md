@@ -84,7 +84,7 @@
   <sub>[#176121](https://github.com/flutter/flutter/pull/176121) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176121) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux<br />
-  <sub>[#176187](https://github.com/flutter/flutter/pull/176187) opened on on September 29, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/flutter/pull/176187) 1732 additions and 5 deletions in 25 files</sub><br />
+  <sub>[#176187](https://github.com/flutter/flutter/pull/176187) opened on on September 29, 2025 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/176187) 1732 additions and 5 deletions in 25 files</sub><br />
 
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
@@ -136,4 +136,7 @@
 
 * **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Fix Image.network not using cache when headers are specified<br />
   <sub>[#176831](https://github.com/flutter/flutter/pull/176831) opened on on October 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176831) 65 additions and 2 deletions in 3 files</sub><br />
+
+* **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
+  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176832) 0 additions and 4 deletions in 1 file</sub><br />
 
