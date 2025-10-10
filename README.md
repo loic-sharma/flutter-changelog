@@ -176,7 +176,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Aprelev](https://github.com/aam), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set up a version of build_ios_framework_module_test that only runs on x64 machines and extend its timeout<br />
-  <sub>[#176811](https://github.com/flutter/flutter/pull/176811) merged on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176811) over 16 hours, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#176811](https://github.com/flutter/flutter/pull/176811) merged on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176811) over 16 hours, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix broken links in README.<br />
