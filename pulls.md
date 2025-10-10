@@ -102,7 +102,7 @@
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Add animations to MenuAnchor.<br />
-  <sub>[#176494](https://github.com/flutter/flutter/pull/176494) opened on on October 3, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176494) 1880 additions and 100 deletions in 7 files</sub><br />
+  <sub>[#176494](https://github.com/flutter/flutter/pull/176494) opened on on October 3, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176494) 1889 additions and 100 deletions in 7 files</sub><br />
 
 * **[Mohamed Samir Salem](https://github.com/Mohamed-7018)** &mdash; Extend EdgeInsetsGeometry with Utility Methods: add EdgeInsets.some and EdgeInsets.except constructors <br />
   <sub>[#176507](https://github.com/flutter/flutter/pull/176507) opened on on October 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176507) 285 additions and 11 deletions in 3 files</sub><br />
@@ -132,5 +132,5 @@
   <sub>[#176811](https://github.com/flutter/flutter/pull/176811) opened on on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176811) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
-  <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176825) 124 additions and 18 deletions in 2 files</sub><br />
+  <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176825) 124 additions and 18 deletions in 2 files</sub><br />
 
