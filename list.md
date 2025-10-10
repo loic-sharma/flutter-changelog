@@ -881,7 +881,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-8 commits.
+9 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for accessing data for an Ad
   <sub>[#9972](https://github.com/flutter/packages/pull/9972) merged on October 7, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/9972) over 4 weeks, 1568 additions and 37 deletions in 25 files</sub>
@@ -898,6 +898,10 @@
 * **[Julien Delarbre](https://github.com/juliendelarbre)** &mdash; [camera_avfoundation] iOS: Fix crash when `enableAudio == false` by correcting guard condition
   <sub>[#9949](https://github.com/flutter/packages/pull/9949) merged on October 7, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/9949) over 1 month, 115 additions and 9 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Arvid Nyström](https://github.com/ArvidNy)** &mdash; [video_player_platform_interface] Adds setter for allowing background playback  This PR is a subset of #9212 - it only adds platform interface changes.  Partially resolves #62739.
+  <sub>[#10054](https://github.com/flutter/packages/pull/10054) merged on October 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10054) over 2 weeks, 10 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Add Android geolocation README
   <sub>[#10166](https://github.com/flutter/packages/pull/10166) merged on October 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10166) over 4 days, 47 additions and 1 deletion in 4 files</sub>
