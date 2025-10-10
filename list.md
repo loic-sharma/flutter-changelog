@@ -46,6 +46,10 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
   <sub><details><summary>3 images...</summary><img width="540" height="960" alt="api27_legacy" src="https://github.com/user-attachments/assets/f19515e4-5a2d-46fd-af66-93d401f7e2ee" /><img width="720" height="1544" alt="api35_legacy" src="https://github.com/user-attachments/assets/dd946ee4-1945-4209-86cc-a566c474681e" /><img width="603" height="1311" alt="ios" src="https://github.com/user-attachments/assets/9d1cb68d-2abd-4844-a949-1ef33c134792" /></details></sub>
 
+* **[Rusino](https://github.com/Rusino)** &mdash; [WebParagraph] Support for more styles, placeholders, decorations, etc
+  <sub>[#172853](https://github.com/flutter/flutter/pull/172853) merged on October 10, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/172853) over 2 months, 5609 additions and 1049 deletions in 28 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [HCPP] Properly remove hcpp views that are no longer visible
   <sub>[#176742](https://github.com/flutter/flutter/pull/176742) merged on October 10, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/176742) over 1 day, 265 additions and 11 deletions in 12 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -57,10 +61,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix PopupMenu does not update when PopupMenuTheme in Theme changes.
   <sub>[#175513](https://github.com/flutter/flutter/pull/175513) merged on October 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175513) over 2 weeks, 73 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[Rusino](https://github.com/Rusino)** &mdash; [WebParagraph] Support for more styles, placeholders, decorations, etc
-  <sub>[#172853](https://github.com/flutter/flutter/pull/172853) merged on October 10, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/172853) over 2 months, 5609 additions and 1049 deletions in 28 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [tool/dap] Forward app.warning events from Flutter to DAP client
   <sub>[#176827](https://github.com/flutter/flutter/pull/176827) merged on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176827) over 3 hours, 31 additions and 0 deletions in 2 files</sub>
@@ -889,7 +889,7 @@
 
 ### October 4, 2025 to October 10, 2025
 
-9 commits.
+10 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for accessing data for an Ad
   <sub>[#9972](https://github.com/flutter/packages/pull/9972) merged on October 7, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/9972) over 4 weeks, 1568 additions and 37 deletions in 25 files</sub>
@@ -926,6 +926,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [espresso] updates build files to use JVM 17 
   <sub>[#10162](https://github.com/flutter/packages/pull/10162) merged on October 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10162) over 4 days, 10 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from ac4e799d2370 to 9f455d2486bc (4 revisions)
+  <sub>[#10208](https://github.com/flutter/packages/pull/10208) merged on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10208) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### September 27, 2025 to October 3, 2025
 
