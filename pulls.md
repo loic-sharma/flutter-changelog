@@ -134,3 +134,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176825) 124 additions and 18 deletions in 2 files</sub><br />
 
+* **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Fix Image.network not using cache when headers are specified<br />
+  <sub>[#176831](https://github.com/flutter/flutter/pull/176831) opened on on October 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176831) 65 additions and 2 deletions in 3 files</sub><br />
+
