@@ -132,7 +132,7 @@
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176825) 124 additions and 18 deletions in 2 files</sub><br />
 
 * **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Fix Image.network not using cache when headers are specified<br />
-  <sub>[#176831](https://github.com/flutter/flutter/pull/176831) opened on on October 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176831) 65 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#176831](https://github.com/flutter/flutter/pull/176831) opened on on October 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176831) 62 additions and 2 deletions in 3 files</sub><br />
 
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
   <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176832) 13 additions and 19 deletions in 1 file</sub><br />
