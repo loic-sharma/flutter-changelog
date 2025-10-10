@@ -147,5 +147,5 @@
   <sub>[#176835](https://github.com/flutter/flutter/pull/176835) opened on on October 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176835) 24 additions and 2 deletions in 3 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup after -news_toolkit, +google_fonts, and some leftover `team-go_router`<br />
-  <sub>[#176841](https://github.com/flutter/flutter/pull/176841) opened on on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176841) 14 additions and 15 deletions in 2 files</sub><br />
+  <sub>[#176841](https://github.com/flutter/flutter/pull/176841) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176841) 14 additions and 15 deletions in 2 files</sub><br />
 
