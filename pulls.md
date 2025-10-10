@@ -150,5 +150,5 @@
   <sub>[#176841](https://github.com/flutter/flutter/pull/176841) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176841) 14 additions and 15 deletions in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Tapping outside of `SelectableRegion` should dismiss the selection<br />
-  <sub>[#176843](https://github.com/flutter/flutter/pull/176843) opened on on October 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176843) 96 additions and 24 deletions in 3 files</sub><br />
+  <sub>[#176843](https://github.com/flutter/flutter/pull/176843) opened on on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176843) 96 additions and 24 deletions in 3 files</sub><br />
 
