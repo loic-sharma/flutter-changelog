@@ -138,7 +138,7 @@
   <sub>[#176831](https://github.com/flutter/flutter/pull/176831) opened on on October 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176831) 65 additions and 2 deletions in 3 files</sub><br />
 
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
-  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176832) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176832) 13 additions and 19 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Self-cleaning service worker<br />
   <sub>[#176834](https://github.com/flutter/flutter/pull/176834) opened on on October 10, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176834) 201 additions and 1805 deletions in 20 files</sub><br />
