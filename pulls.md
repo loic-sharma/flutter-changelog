@@ -144,5 +144,5 @@
   <sub>[#176834](https://github.com/flutter/flutter/pull/176834) opened on on October 10, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176834) 199 additions and 1805 deletions in 20 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add gn flag to optimize builds for size<br />
-  <sub>[#176835](https://github.com/flutter/flutter/pull/176835) opened on on October 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176835) 21 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#176835](https://github.com/flutter/flutter/pull/176835) opened on on October 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176835) 24 additions and 2 deletions in 3 files</sub><br />
 
