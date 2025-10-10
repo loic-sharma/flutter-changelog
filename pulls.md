@@ -131,3 +131,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set up a version of build_ios_framework_module_test that only runs on x64 machines and extend its timeout<br />
   <sub>[#176811](https://github.com/flutter/flutter/pull/176811) opened on on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176811) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
+  <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176825) 124 additions and 18 deletions in 2 files</sub><br />
+
