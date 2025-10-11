@@ -152,3 +152,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `SelectableRegion` should not show flutter rendered context menu when web context menu is enabled<br />
   <sub>[#176855](https://github.com/flutter/flutter/pull/176855) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176855) 92 additions and 21 deletions in 3 files</sub><br />
 
+* **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
+  <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
+
