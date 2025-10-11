@@ -161,3 +161,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `image.error_builder.0.dart` to replace the emoji with some text <br />
   <sub>[#176886](https://github.com/flutter/flutter/pull/176886) opened on on October 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176886) 3 additions and 3 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Updates `sliver_tree.1.dart‎` to use `MediaQuery.widthOf(context)` <br />
+  <sub>[#176888](https://github.com/flutter/flutter/pull/176888) opened on on October 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176888) 3 additions and 3 deletions in 1 file</sub><br />
+
