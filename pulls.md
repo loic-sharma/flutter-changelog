@@ -167,3 +167,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant name field form `TargetPlatform` and `XCDeviceEventInterface` enums<br />
   <sub>[#176890](https://github.com/flutter/flutter/pull/176890) opened on on October 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176890) 4 additions and 11 deletions in 2 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Implement dialog window<br />
+  <sub>[#176893](https://github.com/flutter/flutter/pull/176893) opened on on October 12, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/176893) 4777 additions and 306 deletions in 64 files</sub><br />
+
