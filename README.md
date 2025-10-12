@@ -66,6 +66,10 @@
   <sub>[#175513](https://github.com/flutter/flutter/pull/175513) merged on October 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175513) over 2 weeks, 73 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: make tooltip position customizeable<br />
+  <sub>[#175047](https://github.com/flutter/flutter/pull/175047) merged on October 11, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/175047) over 1 month, 173 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [tool/dap] Forward app.warning events from Flutter to DAP client<br />
   <sub>[#176827](https://github.com/flutter/flutter/pull/176827) merged on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176827) over 3 hours, 31 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -98,10 +102,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DesktopTextSelectionToolbarButton doesn't crash in 0…<br />
   <sub>[#173827](https://github.com/flutter/flutter/pull/173827) merged on October 8, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/173827) over 1 month, 15 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: make tooltip position customizeable<br />
-  <sub>[#175047](https://github.com/flutter/flutter/pull/175047) merged on October 11, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/175047) over 1 month, 173 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Gregory Conrad](https://github.com/GregoryConrad)** &mdash; [native_assets] create macOS CCompilerConfig via xcrun --find<br />
   <sub>[#175717](https://github.com/flutter/flutter/pull/175717) merged on October 9, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175717) over 2 weeks, 57 additions and 21 deletions in 2 files</sub><br />
