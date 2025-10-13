@@ -170,3 +170,6 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Fix premature dialog dismissal on Web when semantics enabled<br />
   <sub>[#176974](https://github.com/flutter/flutter/pull/176974) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176974) 268 additions and 10 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
+  <sub>[#176976](https://github.com/flutter/flutter/pull/176976) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176976) 123 additions and 0 deletions in 3 files</sub><br />
+
