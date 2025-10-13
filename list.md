@@ -4,11 +4,15 @@
 
 ### October 11, 2025 to October 17, 2025
 
-1 commits.
+2 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make DropdownMenu generic type non nullable
   <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll SwiftShader to 794b0cfce1d8
+  <sub>[#176806](https://github.com/flutter/flutter/pull/176806) merged on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176806) over 3 days, 3 additions and 12 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 ### October 4, 2025 to October 10, 2025
 
