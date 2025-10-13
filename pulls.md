@@ -138,7 +138,7 @@
   <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176832) 13 additions and 19 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Self-cleaning service worker<br />
-  <sub>[#176834](https://github.com/flutter/flutter/pull/176834) opened on on October 10, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176834) 222 additions and 1869 deletions in 21 files</sub><br />
+  <sub>[#176834](https://github.com/flutter/flutter/pull/176834) opened on on October 10, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176834) 205 additions and 1805 deletions in 20 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add gn flag to optimize builds for size<br />
   <sub>[#176835](https://github.com/flutter/flutter/pull/176835) opened on on October 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176835) 24 additions and 2 deletions in 3 files</sub><br />
