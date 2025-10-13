@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### October 11, 2025 to October 17, 2025
+
+1 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make DropdownMenu generic type non nullable<br />
+  <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
 ### October 4, 2025 to October 10, 2025
 
-71 commits.
+<details>
+<summary>71 commits...</summary>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Selecting an implementation widget with the on-device inspector opens the code location for the nearest project widget<br />
   <sub>[#176530](https://github.com/flutter/flutter/pull/176530) merged on October 7, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/176530) over 3 days, 284 additions and 247 deletions in 2 files</sub><br />
@@ -294,6 +303,8 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix type error when retrieving flags from persistent preferences<br />
   <sub>[#176546](https://github.com/flutter/flutter/pull/176546) merged on October 6, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176546) over 16 hours, 178 additions and 177 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
+
+</details>
 
 ### September 27, 2025 to October 3, 2025
 
