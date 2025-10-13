@@ -733,9 +733,22 @@
 
 ## flutter/website
 
+### October 11, 2025 to October 17, 2025
+
+2 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove old cheatsheet PDFs<br />
+  <sub>[#12538](https://github.com/flutter/website/pull/12538) merged on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12538) over 2 days, 0 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor cleanup and redirect additions after a11y/i18n folder breakup<br />
+  <sub>[#12540](https://github.com/flutter/website/pull/12540) merged on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12540) over 2 days, 47 additions and 40 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### October 4, 2025 to October 10, 2025
 
-12 commits.
+<details>
+<summary>12 commits...</summary>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update Accessibility docs<br />
   <sub>[#12513](https://github.com/flutter/website/pull/12513) merged on October 9, 2025 &mdash; **Large:** [43 comments](https://github.com/flutter/website/pull/12513) over 6 days, 666 additions and 457 deletions in 22 files</sub><br />
@@ -785,6 +798,8 @@
 * **[Stephen Brough](https://github.com/StephenBrough)** &mdash; Finish Tween explanation in animation tutorial<br />
   <sub>[#12519](https://github.com/flutter/website/pull/12519) merged on October 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12519) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### September 27, 2025 to October 3, 2025
 
