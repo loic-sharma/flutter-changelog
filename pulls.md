@@ -119,9 +119,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `ViewUtils.java`<br />
-  <sub>[#176794](https://github.com/flutter/flutter/pull/176794) opened on on October 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176794) 3 additions and 4 deletions in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176825) 124 additions and 18 deletions in 2 files</sub><br />
 

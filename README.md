@@ -7,7 +7,7 @@
 3 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes keyboard selects disabled radio<br />
-  <sub>[#176727](https://github.com/flutter/flutter/pull/176727) merged on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176727) over 5 days, 71 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#176727](https://github.com/flutter/flutter/pull/176727) merged on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176727) over 5 days, 71 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make DropdownMenu generic type non nullable<br />
