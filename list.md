@@ -735,7 +735,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-2 commits.
+3 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove old cheatsheet PDFs
   <sub>[#12538](https://github.com/flutter/website/pull/12538) merged on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12538) over 2 days, 0 additions and 0 deletions in 2 files</sub>
@@ -743,6 +743,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor cleanup and redirect additions after a11y/i18n folder breakup
   <sub>[#12540](https://github.com/flutter/website/pull/12540) merged on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12540) over 2 days, 47 additions and 40 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Littlegnal](https://github.com/littleGnAl)** &mdash; Add new redirect for multi-view on Android/iOS
+  <sub>[#12543](https://github.com/flutter/website/pull/12543) merged on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12543) over 23 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### October 4, 2025 to October 10, 2025

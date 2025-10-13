@@ -108,7 +108,7 @@
   <sub>[#176507](https://github.com/flutter/flutter/pull/176507) opened on on October 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176507) 285 additions and 11 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS can set application locale before view controller is set<br />
-  <sub>[#176592](https://github.com/flutter/flutter/pull/176592) opened on on October 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176592) 52 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#176592](https://github.com/flutter/flutter/pull/176592) opened on on October 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176592) 52 additions and 2 deletions in 3 files</sub><br />
 
 * **[Oleg Matskiv](https://github.com/Alpaca00)** &mdash; [docs] Fix typo in link to engine testing docs<br />
   <sub>[#176600](https://github.com/flutter/flutter/pull/176600) opened on on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176600) 1 addition and 1 deletion in 1 file</sub><br />
@@ -140,9 +140,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Tapping outside of `SelectableRegion` should dismiss the selection<br />
   <sub>[#176843](https://github.com/flutter/flutter/pull/176843) opened on on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176843) 94 additions and 24 deletions in 3 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix HEIF decoding<br />
-  <sub>[#176860](https://github.com/flutter/flutter/pull/176860) opened on on October 10, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/176860) 1083 additions and 28 deletions in 18 files</sub><br />
-
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -163,4 +160,7 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS integration tests<br />
   <sub>[#176940](https://github.com/flutter/flutter/pull/176940) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176940) 0 additions and 5 deletions in 1 file</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart sdk to 3.11.0-17.0.dev<br />
+  <sub>[#176947](https://github.com/flutter/flutter/pull/176947) opened on on October 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176947) 18 additions and 3 deletions in 3 files</sub><br />
 
