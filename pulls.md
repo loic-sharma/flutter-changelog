@@ -165,5 +165,5 @@
   <sub>[#176947](https://github.com/flutter/flutter/pull/176947) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176947) 18 additions and 3 deletions in 3 files</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Add macOS architecture option to build command and update tests<br />
-  <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176948) 168 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
 
