@@ -167,3 +167,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationDrawer doesn't crash in 0x0 environment<br />
   <sub>[#176951](https://github.com/flutter/flutter/pull/176951) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176951) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Fix premature dialog dismissal on Web when semantics enabled<br />
+  <sub>[#176974](https://github.com/flutter/flutter/pull/176974) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176974) 268 additions and 10 deletions in 2 files</sub><br />
+
