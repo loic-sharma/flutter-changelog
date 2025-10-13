@@ -113,9 +113,6 @@
 * **[Oleg Matskiv](https://github.com/Alpaca00)** &mdash; [docs] Fix typo in link to engine testing docs<br />
   <sub>[#176600](https://github.com/flutter/flutter/pull/176600) opened on on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176600) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Enhance macOS build process to support architecture specification via dartDefines<br />
-  <sub>[#176606](https://github.com/flutter/flutter/pull/176606) opened on on October 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176606) 141 additions and 2 deletions in 2 files</sub><br />
-
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Fix typo in overlay.dart documentation comment<br />
   <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
 
