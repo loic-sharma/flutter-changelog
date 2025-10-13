@@ -161,9 +161,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS integration tests<br />
   <sub>[#176940](https://github.com/flutter/flutter/pull/176940) opened on on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176940) 0 additions and 5 deletions in 1 file</sub><br />
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart sdk to 3.11.0-17.0.dev<br />
-  <sub>[#176947](https://github.com/flutter/flutter/pull/176947) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176947) 18 additions and 3 deletions in 3 files</sub><br />
-
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Add macOS architecture option to build command and update tests<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
 
