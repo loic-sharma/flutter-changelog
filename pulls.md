@@ -167,3 +167,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant name field form `TargetPlatform` and `XCDeviceEventInterface` enums<br />
   <sub>[#176890](https://github.com/flutter/flutter/pull/176890) opened on on October 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176890) 4 additions and 11 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix computeDistanceToActualBaseline throws when accessing child size<br />
+  <sub>[#176906](https://github.com/flutter/flutter/pull/176906) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176906) 37 additions and 0 deletions in 2 files</sub><br />
+
