@@ -170,3 +170,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix computeDistanceToActualBaseline throws when accessing child size<br />
   <sub>[#176906](https://github.com/flutter/flutter/pull/176906) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176906) 37 additions and 0 deletions in 2 files</sub><br />
 
+* **[Keval Domadia](https://github.com/karmicdice)** &mdash; Added support for ios-min-version<br />
+  <sub>[#176907](https://github.com/flutter/flutter/pull/176907) opened on on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176907) 47 additions and 1 deletion in 2 files</sub><br />
+
