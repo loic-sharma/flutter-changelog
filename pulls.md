@@ -149,9 +149,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Tapping outside of `SelectableRegion` should dismiss the selection<br />
   <sub>[#176843](https://github.com/flutter/flutter/pull/176843) opened on on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176843) 94 additions and 24 deletions in 3 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `SelectableRegion` should not show flutter rendered context menu when web context menu is enabled<br />
-  <sub>[#176855](https://github.com/flutter/flutter/pull/176855) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176855) 90 additions and 19 deletions in 2 files</sub><br />
-
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -169,4 +166,7 @@
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; support passing the arm cpu variant to the build system<br />
   <sub>[#176917](https://github.com/flutter/flutter/pull/176917) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176917) 13 additions and 0 deletions in 1 file</sub><br />
+
+* **[Nebojša Cvetković](https://github.com/nebkat)** &mdash; feat: Add `mainAxisExtent` parameter to `GridView` constructors<br />
+  <sub>[#176927](https://github.com/flutter/flutter/pull/176927) opened on on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176927) 4 additions and 0 deletions in 1 file</sub><br />
 
