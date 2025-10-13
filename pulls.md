@@ -116,12 +116,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Fix typo in overlay.dart documentation comment<br />
   <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; disable metal for crosscompile from mac to linux<br />
-  <sub>[#176639](https://github.com/flutter/flutter/pull/176639) opened on on October 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176639) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Disable vulkan X11 support when building for minimal linux<br />
-  <sub>[#176697](https://github.com/flutter/flutter/pull/176697) opened on on October 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176697) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
 
@@ -147,7 +141,7 @@
   <sub>[#176843](https://github.com/flutter/flutter/pull/176843) opened on on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176843) 94 additions and 24 deletions in 3 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix HEIF decoding<br />
-  <sub>[#176860](https://github.com/flutter/flutter/pull/176860) opened on on October 10, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/176860) 1083 additions and 28 deletions in 18 files</sub><br />
+  <sub>[#176860](https://github.com/flutter/flutter/pull/176860) opened on on October 10, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/176860) 1083 additions and 28 deletions in 18 files</sub><br />
 
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
@@ -164,9 +158,9 @@
 * **[Keval Domadia](https://github.com/karmicdice)** &mdash; Added support for ios-min-version<br />
   <sub>[#176907](https://github.com/flutter/flutter/pull/176907) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176907) 47 additions and 1 deletion in 2 files</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; support passing the arm cpu variant to the build system<br />
-  <sub>[#176917](https://github.com/flutter/flutter/pull/176917) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176917) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[Nebojša Cvetković](https://github.com/nebkat)** &mdash; feat: Add `mainAxisExtent` parameter to `GridView` constructors<br />
   <sub>[#176927](https://github.com/flutter/flutter/pull/176927) opened on on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176927) 4 additions and 0 deletions in 1 file</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS integration tests<br />
+  <sub>[#176940](https://github.com/flutter/flutter/pull/176940) opened on on October 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176940) 0 additions and 5 deletions in 1 file</sub><br />
 
