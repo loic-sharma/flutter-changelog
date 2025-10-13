@@ -165,8 +165,11 @@
   <sub>[#176888](https://github.com/flutter/flutter/pull/176888) opened on on October 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176888) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant name field form `TargetPlatform` and `XCDeviceEventInterface` enums<br />
-  <sub>[#176890](https://github.com/flutter/flutter/pull/176890) opened on on October 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176890) 4 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#176890](https://github.com/flutter/flutter/pull/176890) opened on on October 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176890) 4 additions and 11 deletions in 2 files</sub><br />
 
 * **[Keval Domadia](https://github.com/karmicdice)** &mdash; Added support for ios-min-version<br />
   <sub>[#176907](https://github.com/flutter/flutter/pull/176907) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176907) 47 additions and 1 deletion in 2 files</sub><br />
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; support passing the arm cpu variant to the build system<br />
+  <sub>[#176917](https://github.com/flutter/flutter/pull/176917) opened on on October 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176917) 13 additions and 0 deletions in 1 file</sub><br />
 
