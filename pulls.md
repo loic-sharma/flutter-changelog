@@ -146,6 +146,9 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Tapping outside of `SelectableRegion` should dismiss the selection<br />
   <sub>[#176843](https://github.com/flutter/flutter/pull/176843) opened on on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176843) 94 additions and 24 deletions in 3 files</sub><br />
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix HEIF decoding<br />
+  <sub>[#176860](https://github.com/flutter/flutter/pull/176860) opened on on October 10, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/176860) 1083 additions and 28 deletions in 18 files</sub><br />
+
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
 
