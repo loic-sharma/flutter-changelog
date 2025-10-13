@@ -171,5 +171,5 @@
   <sub>[#176907](https://github.com/flutter/flutter/pull/176907) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176907) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; support passing the arm cpu variant to the build system<br />
-  <sub>[#176917](https://github.com/flutter/flutter/pull/176917) opened on on October 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176917) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#176917](https://github.com/flutter/flutter/pull/176917) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176917) 13 additions and 0 deletions in 1 file</sub><br />
 
