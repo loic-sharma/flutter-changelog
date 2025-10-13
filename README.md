@@ -4,11 +4,15 @@
 
 ### October 11, 2025 to October 17, 2025
 
-3 commits.
+4 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes keyboard selects disabled radio<br />
   <sub>[#176727](https://github.com/flutter/flutter/pull/176727) merged on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176727) over 5 days, 71 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Match the behavior of other platforms in Web Locale.toString if the country code is an empty string<br />
+  <sub>[#176862](https://github.com/flutter/flutter/pull/176862) merged on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176862) over 3 days, 3 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make DropdownMenu generic type non nullable<br />
   <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub><br />
