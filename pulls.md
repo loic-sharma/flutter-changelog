@@ -155,6 +155,9 @@
 * **[Nebojša Cvetković](https://github.com/nebkat)** &mdash; feat: Add `mainAxisExtent` parameter to `GridView` constructors<br />
   <sub>[#176927](https://github.com/flutter/flutter/pull/176927) opened on on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176927) 4 additions and 0 deletions in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix focus issues in newer versions of Chrome<br />
+  <sub>[#176938](https://github.com/flutter/flutter/pull/176938) opened on on October 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176938) 2 additions and 8 deletions in 1 file</sub><br />
+
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS integration tests<br />
   <sub>[#176940](https://github.com/flutter/flutter/pull/176940) opened on on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176940) 0 additions and 5 deletions in 1 file</sub><br />
 
