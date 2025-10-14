@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-9 commits.
+11 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: allows access of float uniforms by name
   <sub>[#176728](https://github.com/flutter/flutter/pull/176728) merged on October 14, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/176728) over 5 days, 433 additions and 26 deletions in 11 files</sub>
@@ -34,6 +34,10 @@
   <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to a branch based on d9fa255a5c22
+  <sub>[#176747](https://github.com/flutter/flutter/pull/176747) merged on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176747) over 5 days, 122 additions and 3 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart sdk to 3.11.0-17.0.dev
   <sub>[#176947](https://github.com/flutter/flutter/pull/176947) merged on October 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176947) over 5 hours, 24 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Ryan Macnak](https://github.com/rmacnak-google)</sub>
@@ -41,6 +45,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll SwiftShader to 794b0cfce1d8
   <sub>[#176806](https://github.com/flutter/flutter/pull/176806) merged on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176806) over 3 days, 3 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Relands "Fixes keyboard selects disabled radio"
+  <sub>[#176977](https://github.com/flutter/flutter/pull/176977) merged on October 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176977) over 17 hours, 77 additions and 1 deletion in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 ### October 4, 2025 to October 10, 2025
 
