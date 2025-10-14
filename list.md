@@ -4,11 +4,15 @@
 
 ### October 11, 2025 to October 17, 2025
 
-13 commits.
+14 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: allows access of float uniforms by name
   <sub>[#176728](https://github.com/flutter/flutter/pull/176728) merged on October 14, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/176728) over 5 days, 433 additions and 26 deletions in 11 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
+* **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information
+  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) merged on October 14, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/174374) over 1 month, 140 additions and 49 deletions in 2 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [ash2moon](https://github.com/ash2moon)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix expansion tile is missing state announcement on non-Apple platforms
   <sub>[#175480](https://github.com/flutter/flutter/pull/175480) merged on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175480) over 3 weeks, 100 additions and 12 deletions in 2 files</sub>
