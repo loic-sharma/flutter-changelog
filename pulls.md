@@ -12,7 +12,7 @@
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/170980) 48 additions and 24 deletions in 2 files</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
-  <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/172124) 407 additions and 64 deletions in 6 files</sub><br />
+  <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/172124) 407 additions and 64 deletions in 6 files</sub><br />
 
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
@@ -84,7 +84,7 @@
   <sub>[#176121](https://github.com/flutter/flutter/pull/176121) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176121) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux<br />
-  <sub>[#176187](https://github.com/flutter/flutter/pull/176187) opened on on September 29, 2025 &mdash; **Extra large:** [33 comments](https://github.com/flutter/flutter/pull/176187) 1838 additions and 46 deletions in 25 files</sub><br />
+  <sub>[#176187](https://github.com/flutter/flutter/pull/176187) opened on on September 29, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) 1838 additions and 46 deletions in 25 files</sub><br />
 
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
