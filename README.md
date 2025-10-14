@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-11 commits.
+12 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: allows access of float uniforms by name<br />
   <sub>[#176728](https://github.com/flutter/flutter/pull/176728) merged on October 14, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/176728) over 5 days, 433 additions and 26 deletions in 11 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix expansion tile is missing state announcement on non-Apple platforms<br />
   <sub>[#175480](https://github.com/flutter/flutter/pull/175480) merged on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175480) over 3 weeks, 100 additions and 12 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; iOS can set application locale before view controller is set<br />
+  <sub>[#176592](https://github.com/flutter/flutter/pull/176592) merged on October 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176592) over 1 week, 52 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS integration tests<br />
   <sub>[#176940](https://github.com/flutter/flutter/pull/176940) merged on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176940) over 5 hours, 0 additions and 5 deletions in 1 file</sub><br />
@@ -253,7 +257,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set up a version of build_ios_framework_module_test that only runs on x64 machines and extend its timeout<br />
-  <sub>[#176811](https://github.com/flutter/flutter/pull/176811) merged on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176811) over 16 hours, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#176811](https://github.com/flutter/flutter/pull/176811) merged on October 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176811) over 16 hours, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.10.0-290.1.beta<br />

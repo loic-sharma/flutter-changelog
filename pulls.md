@@ -104,9 +104,6 @@
 * **[Mohamed Samir Salem](https://github.com/Mohamed-7018)** &mdash; Extend EdgeInsetsGeometry with Utility Methods: add EdgeInsets.some and EdgeInsets.except constructors <br />
   <sub>[#176507](https://github.com/flutter/flutter/pull/176507) opened on on October 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176507) 285 additions and 11 deletions in 3 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; iOS can set application locale before view controller is set<br />
-  <sub>[#176592](https://github.com/flutter/flutter/pull/176592) opened on on October 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176592) 52 additions and 2 deletions in 3 files</sub><br />
-
 * **[Oleg Matskiv](https://github.com/Alpaca00)** &mdash; [docs] Fix typo in link to engine testing docs<br />
   <sub>[#176600](https://github.com/flutter/flutter/pull/176600) opened on on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176600) 1 addition and 1 deletion in 1 file</sub><br />
 
