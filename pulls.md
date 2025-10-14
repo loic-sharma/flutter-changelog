@@ -180,5 +180,5 @@
   <sub>[#177015](https://github.com/flutter/flutter/pull/177015) opened on on October 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177015) 5 additions and 7 deletions in 2 files</sub><br />
 
 * **[Tymur](https://github.com/cuteUtya)** &mdash; Move child parameter to end of RefreshIndicator constructor<br />
-  <sub>[#177019](https://github.com/flutter/flutter/pull/177019) opened on on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177019) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#177019](https://github.com/flutter/flutter/pull/177019) opened on on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177019) 3 additions and 3 deletions in 1 file</sub><br />
 
