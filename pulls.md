@@ -122,17 +122,11 @@
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Updates `sliver_tree.1.dart‎` to use `MediaQuery.widthOf(context)` <br />
-  <sub>[#176888](https://github.com/flutter/flutter/pull/176888) opened on on October 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176888) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant name field form `TargetPlatform` and `XCDeviceEventInterface` enums<br />
   <sub>[#176890](https://github.com/flutter/flutter/pull/176890) opened on on October 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176890) 4 additions and 11 deletions in 2 files</sub><br />
 
 * **[Keval Domadia](https://github.com/karmicdice)** &mdash; Added support for ios-min-version<br />
   <sub>[#176907](https://github.com/flutter/flutter/pull/176907) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176907) 47 additions and 1 deletion in 2 files</sub><br />
-
-* **[Nebojša Cvetković](https://github.com/nebkat)** &mdash; feat: Add `mainAxisExtent` parameter to `GridView` constructors<br />
-  <sub>[#176927](https://github.com/flutter/flutter/pull/176927) opened on on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176927) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix focus issues in newer versions of Chrome<br />
   <sub>[#176938](https://github.com/flutter/flutter/pull/176938) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176938) 2 additions and 8 deletions in 1 file</sub><br />
