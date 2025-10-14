@@ -112,7 +112,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [tool/dap] Forward app.warning events from Flutter to DAP client
-  <sub>[#176827](https://github.com/flutter/flutter/pull/176827) merged on October 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176827) over 3 hours, 31 additions and 0 deletions in 2 files</sub>
+  <sub>[#176827](https://github.com/flutter/flutter/pull/176827) merged on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176827) over 3 hours, 31 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
   <sub><details><summary>1 image...</summary><img width="602" height="343" alt="image" src="https://github.com/user-attachments/assets/eac199ad-e562-4e98-b8f0-ee51103cc166" /></details></sub>
 
