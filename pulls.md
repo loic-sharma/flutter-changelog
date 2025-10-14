@@ -182,6 +182,3 @@
 * **[Tymur](https://github.com/cuteUtya)** &mdash; Move child parameter to end of RefreshIndicator constructor<br />
   <sub>[#177019](https://github.com/flutter/flutter/pull/177019) opened on on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177019) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; Update cherry-pick instructions to include instructions for pre-release CPs<br />
-  <sub>[#177020](https://github.com/flutter/flutter/pull/177020) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177020) 6 additions and 1 deletion in 1 file</sub><br />
-
