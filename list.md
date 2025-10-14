@@ -634,7 +634,11 @@
 
 ### October 11, 2025 to October 17, 2025
 
-1 commits.
+2 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [Many] Migrate non examples (and pigeon test) to java 17
+  <sub>[#10201](https://github.com/flutter/packages/pull/10201) merged on October 14, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/packages/pull/10201) over 4 days, 2339 additions and 2194 deletions in 136 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes support for Kotlin/Java classes that override equals and hashCode for ProxyApis 
   <sub>[#10039](https://github.com/flutter/packages/pull/10039) merged on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10039) over 3 weeks, 216 additions and 31 deletions in 7 files</sub>

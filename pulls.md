@@ -123,7 +123,7 @@
   <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176832) 13 additions and 19 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Self-cleaning service worker<br />
-  <sub>[#176834](https://github.com/flutter/flutter/pull/176834) opened on on October 10, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176834) 1579 additions and 2040 deletions in 54 files</sub><br />
+  <sub>[#176834](https://github.com/flutter/flutter/pull/176834) opened on on October 10, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176834) 203 additions and 1805 deletions in 20 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup after -news_toolkit, +google_fonts, and some leftover `team-go_router`<br />
   <sub>[#176841](https://github.com/flutter/flutter/pull/176841) opened on on October 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176841) 14 additions and 15 deletions in 2 files</sub><br />
@@ -150,7 +150,7 @@
   <sub>[#176927](https://github.com/flutter/flutter/pull/176927) opened on on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176927) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix focus issues in newer versions of Chrome<br />
-  <sub>[#176938](https://github.com/flutter/flutter/pull/176938) opened on on October 13, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/176938) 577 additions and 56 deletions in 22 files</sub><br />
+  <sub>[#176938](https://github.com/flutter/flutter/pull/176938) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176938) 2 additions and 8 deletions in 1 file</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Add macOS architecture option to build command and update tests<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
