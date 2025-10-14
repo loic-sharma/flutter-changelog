@@ -774,7 +774,11 @@
 
 ### October 11, 2025 to October 17, 2025
 
-3 commits.
+4 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove Flutter books resources page
+  <sub>[#12539](https://github.com/flutter/website/pull/12539) merged on October 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12539) over 2 days, 3 additions and 239 deletions in 27 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove old cheatsheet PDFs
   <sub>[#12538](https://github.com/flutter/website/pull/12538) merged on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12538) over 2 days, 0 additions and 0 deletions in 2 files</sub>
