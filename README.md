@@ -4,7 +4,11 @@
 
 ### October 11, 2025 to October 17, 2025
 
-7 commits.
+8 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: allows access of float uniforms by name<br />
+  <sub>[#176728](https://github.com/flutter/flutter/pull/176728) merged on October 14, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/176728) over 5 days, 433 additions and 26 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS integration tests<br />
   <sub>[#176940](https://github.com/flutter/flutter/pull/176940) merged on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176940) over 5 hours, 0 additions and 5 deletions in 1 file</sub><br />
