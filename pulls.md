@@ -167,9 +167,6 @@
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; feat: Expose `buttons` accessor on Tap Details events (TapDownDetails and TapUpDetails)<br />
   <sub>[#176968](https://github.com/flutter/flutter/pull/176968) opened on on October 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176968) 138 additions and 15 deletions in 7 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Fix premature dialog dismissal on Web when semantics enabled<br />
-  <sub>[#176974](https://github.com/flutter/flutter/pull/176974) opened on on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176974) 251 additions and 10 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
   <sub>[#176976](https://github.com/flutter/flutter/pull/176976) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176976) 123 additions and 0 deletions in 3 files</sub><br />
 
