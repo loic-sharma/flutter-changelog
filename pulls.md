@@ -50,9 +50,6 @@
 * **[Shiv Shankar Tiwari](https://github.com/pythonsst)** &mdash; tool(ios): clarify code signing failure with actionable Xcode steps<br />
   <sub>[#175483](https://github.com/flutter/flutter/pull/175483) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175483) 41 additions and 5 deletions in 4 files</sub><br />
 
-* **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form<br />
-  <sub>[#175515](https://github.com/flutter/flutter/pull/175515) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175515) 122 additions and 11 deletions in 3 files</sub><br />
-
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README<br />
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
 
