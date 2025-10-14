@@ -170,9 +170,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
   <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][tool/dap] Forward app.warning events from Flutter to DAP client<br />
-  <sub>[#176997](https://github.com/flutter/flutter/pull/176997) opened on on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176997) 31 additions and 0 deletions in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix ink features painting in YearPicker.<br />
   <sub>[#177014](https://github.com/flutter/flutter/pull/177014) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177014) 46 additions and 8 deletions in 2 files</sub><br />
 
