@@ -77,14 +77,8 @@
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing commit base expiration<br />
   <sub>[#176121](https://github.com/flutter/flutter/pull/176121) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176121) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux<br />
-  <sub>[#176187](https://github.com/flutter/flutter/pull/176187) opened on on September 29, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) 1838 additions and 46 deletions in 25 files</sub><br />
-
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
-
-* **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Fix/ios share context menu<br />
-  <sub>[#176199](https://github.com/flutter/flutter/pull/176199) opened on on September 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176199) 71 additions and 0 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window<br />
   <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/flutter/pull/176361) 3092 additions and 90 deletions in 44 files</sub><br />
@@ -148,9 +142,6 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationDrawer doesn't crash in 0x0 environment<br />
   <sub>[#176951](https://github.com/flutter/flutter/pull/176951) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176951) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[Luan Nico](https://github.com/luanpotter)** &mdash; feat: Expose `buttons` accessor on Tap Details events (TapDownDetails and TapUpDetails)<br />
-  <sub>[#176968](https://github.com/flutter/flutter/pull/176968) opened on on October 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176968) 138 additions and 15 deletions in 7 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
   <sub>[#176976](https://github.com/flutter/flutter/pull/176976) opened on on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176976) 123 additions and 0 deletions in 3 files</sub><br />

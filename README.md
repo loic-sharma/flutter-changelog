@@ -4,7 +4,11 @@
 
 ### October 11, 2025 to October 17, 2025
 
-14 commits.
+15 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux<br />
+  <sub>[#176187](https://github.com/flutter/flutter/pull/176187) merged on October 14, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) over 2 weeks, 1838 additions and 46 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: allows access of float uniforms by name<br />
   <sub>[#176728](https://github.com/flutter/flutter/pull/176728) merged on October 14, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/176728) over 5 days, 433 additions and 26 deletions in 11 files</sub><br />
@@ -798,7 +802,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-5 commits.
+6 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove Flutter books resources page<br />
   <sub>[#12539](https://github.com/flutter/website/pull/12539) merged on October 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12539) over 2 days, 3 additions and 239 deletions in 27 files</sub><br />
@@ -815,6 +819,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor cleanup and redirect additions after a11y/i18n folder breakup<br />
   <sub>[#12540](https://github.com/flutter/website/pull/12540) merged on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12540) over 2 days, 47 additions and 40 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing migration page<br />
+  <sub>[#12549](https://github.com/flutter/website/pull/12549) merged on October 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12549) over 3 hours, 0 additions and 76 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Add new redirect for multi-view on Android/iOS<br />
   <sub>[#12543](https://github.com/flutter/website/pull/12543) merged on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12543) over 23 hours, 1 addition and 0 deletions in 1 file</sub><br />
