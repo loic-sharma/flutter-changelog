@@ -11,9 +11,6 @@
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/170980) 48 additions and 24 deletions in 2 files</sub><br />
 
-* **[René Kilczan](https://github.com/rekire)** &mdash; Fix handling of generate lock files<br />
-  <sub>[#172124](https://github.com/flutter/flutter/pull/172124) opened on on July 14, 2025 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/172124) 407 additions and 64 deletions in 6 files</sub><br />
-
 * **[Vladimir Ritz Bossicard](https://github.com/vbossica)** &mdash; Add reason when failing with v1 embeddings<br />
   <sub>[#173277](https://github.com/flutter/flutter/pull/173277) opened on on August 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/173277) 5 additions and 5 deletions in 1 file</sub><br />
 
