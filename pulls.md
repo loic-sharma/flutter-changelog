@@ -98,14 +98,11 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Add animations to MenuAnchor.<br />
   <sub>[#176494](https://github.com/flutter/flutter/pull/176494) opened on on October 3, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176494) 1889 additions and 100 deletions in 7 files</sub><br />
 
-* **[Mohamed Samir Salem](https://github.com/Mohamed-7018)** &mdash; Extend EdgeInsetsGeometry with Utility Methods: add EdgeInsets.some and EdgeInsets.except constructors <br />
-  <sub>[#176507](https://github.com/flutter/flutter/pull/176507) opened on on October 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176507) 285 additions and 11 deletions in 3 files</sub><br />
-
 * **[Oleg Matskiv](https://github.com/Alpaca00)** &mdash; [docs] Fix typo in link to engine testing docs<br />
   <sub>[#176600](https://github.com/flutter/flutter/pull/176600) opened on on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176600) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Fix typo in overlay.dart documentation comment<br />
-  <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
@@ -130,9 +127,6 @@
 
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `image.error_builder.0.dart` to replace the emoji with some text <br />
-  <sub>[#176886](https://github.com/flutter/flutter/pull/176886) opened on on October 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176886) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Updates `sliver_tree.1.dart‎` to use `MediaQuery.widthOf(context)` <br />
   <sub>[#176888](https://github.com/flutter/flutter/pull/176888) opened on on October 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176888) 3 additions and 3 deletions in 1 file</sub><br />
