@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-6 commits.
+7 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS integration tests
   <sub>[#176940](https://github.com/flutter/flutter/pull/176940) merged on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176940) over 5 hours, 0 additions and 5 deletions in 1 file</sub>
@@ -25,6 +25,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make DropdownMenu generic type non nullable
   <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart sdk to 3.11.0-17.0.dev
+  <sub>[#176947](https://github.com/flutter/flutter/pull/176947) merged on October 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176947) over 5 hours, 24 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Ryan Macnak](https://github.com/rmacnak-google)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll SwiftShader to 794b0cfce1d8
   <sub>[#176806](https://github.com/flutter/flutter/pull/176806) merged on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176806) over 3 days, 3 additions and 12 deletions in 2 files</sub>
