@@ -4,11 +4,15 @@
 
 ### October 11, 2025 to October 17, 2025
 
-8 commits.
+9 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: allows access of float uniforms by name<br />
   <sub>[#176728](https://github.com/flutter/flutter/pull/176728) merged on October 14, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/176728) over 5 days, 433 additions and 26 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix expansion tile is missing state announcement on non-Apple platforms<br />
+  <sub>[#175480](https://github.com/flutter/flutter/pull/175480) merged on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175480) over 3 weeks, 100 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS integration tests<br />
   <sub>[#176940](https://github.com/flutter/flutter/pull/176940) merged on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176940) over 5 hours, 0 additions and 5 deletions in 1 file</sub><br />
