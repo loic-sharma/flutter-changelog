@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-4 commits.
+5 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes keyboard selects disabled radio
   <sub>[#176727](https://github.com/flutter/flutter/pull/176727) merged on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176727) over 5 days, 71 additions and 1 deletion in 4 files</sub>
@@ -13,6 +13,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Match the behavior of other platforms in Web Locale.toString if the country code is an empty string
   <sub>[#176862](https://github.com/flutter/flutter/pull/176862) merged on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176862) over 3 days, 3 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InputDatePickerFormField doesn't crash in 0x0 envir…
+  <sub>[#176047](https://github.com/flutter/flutter/pull/176047) merged on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176047) over 2 weeks, 15 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make DropdownMenu generic type non nullable
   <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub>
