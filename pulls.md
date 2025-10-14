@@ -179,3 +179,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix ink features painting in YearPicker.<br />
   <sub>[#177014](https://github.com/flutter/flutter/pull/177014) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177014) 46 additions and 8 deletions in 2 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia to c501c727a007<br />
+  <sub>[#177015](https://github.com/flutter/flutter/pull/177015) opened on on October 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177015) 5 additions and 7 deletions in 2 files</sub><br />
+
