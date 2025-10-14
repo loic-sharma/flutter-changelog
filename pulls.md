@@ -186,5 +186,5 @@
   <sub>[#177022](https://github.com/flutter/flutter/pull/177022) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177022) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Fixed hot reload/restart crashes after closing browser tab on web-server device<br />
-  <sub>[#177026](https://github.com/flutter/flutter/pull/177026) opened on on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177026) 73 additions and 19 deletions in 1 file</sub><br />
+  <sub>[#177026](https://github.com/flutter/flutter/pull/177026) opened on on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177026) 88 additions and 19 deletions in 1 file</sub><br />
 
