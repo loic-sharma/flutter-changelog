@@ -4,7 +4,11 @@
 
 ### October 11, 2025 to October 17, 2025
 
-5 commits.
+6 commits.
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS integration tests<br />
+  <sub>[#176940](https://github.com/flutter/flutter/pull/176940) merged on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176940) over 5 hours, 0 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes keyboard selects disabled radio<br />
   <sub>[#176727](https://github.com/flutter/flutter/pull/176727) merged on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176727) over 5 days, 71 additions and 1 deletion in 4 files</sub><br />
