@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information<br />
-  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) merged on October 14, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/174374) over 1 month, 140 additions and 49 deletions in 2 files</sub><br />
+  <sub>[#174374](https://github.com/flutter/flutter/pull/174374) merged on October 14, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/174374) over 1 month, 140 additions and 49 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix expansion tile is missing state announcement on non-Apple platforms<br />
