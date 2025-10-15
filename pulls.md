@@ -161,3 +161,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Resolve resolve native Flutter dependencies in Android Studio (#167332)"<br />
   <sub>[#177053](https://github.com/flutter/flutter/pull/177053) opened on on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177053) 10 additions and 33 deletions in 1 file</sub><br />
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [web][a11y] Fix the semantics tree reconstruction logic when a subtree is reparented to another node. <br />
+  <sub>[#177069](https://github.com/flutter/flutter/pull/177069) opened on on October 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177069) 124 additions and 3 deletions in 2 files</sub><br />
+
