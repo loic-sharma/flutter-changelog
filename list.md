@@ -675,7 +675,11 @@
 
 ### October 11, 2025 to October 17, 2025
 
-2 commits.
+3 commits.
+
+* **[Tomás Sasovsky](https://github.com/tomassasovsky)** &mdash; [go_router] feat: access GoRouter.of from redirect methods
+  <sub>[#9706](https://github.com/flutter/packages/pull/9706) merged on October 15, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/9706) over 2 months, 381 additions and 40 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Many] Migrate non examples (and pigeon test) to java 17
   <sub>[#10201](https://github.com/flutter/packages/pull/10201) merged on October 14, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/packages/pull/10201) over 4 days, 2339 additions and 2194 deletions in 136 files</sub>
