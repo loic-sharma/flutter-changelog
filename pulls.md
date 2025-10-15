@@ -165,5 +165,5 @@
   <sub>[#177050](https://github.com/flutter/flutter/pull/177050) opened on on October 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177050) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Resolve resolve native Flutter dependencies in Android Studio (#167332)"<br />
-  <sub>[#177053](https://github.com/flutter/flutter/pull/177053) opened on on October 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177053) 10 additions and 30 deletions in 1 file</sub><br />
+  <sub>[#177053](https://github.com/flutter/flutter/pull/177053) opened on on October 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177053) 10 additions and 30 deletions in 1 file</sub><br />
 
