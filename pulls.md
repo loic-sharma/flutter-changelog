@@ -138,7 +138,7 @@
   <sub>[#176976](https://github.com/flutter/flutter/pull/176976) opened on on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176976) 123 additions and 0 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix accessibility events not being correctly translated to ATK<br />
-  <sub>[#176991](https://github.com/flutter/flutter/pull/176991) opened on on October 14, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/176991) 324 additions and 71 deletions in 5 files</sub><br />
+  <sub>[#176991](https://github.com/flutter/flutter/pull/176991) opened on on October 14, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/176991) 324 additions and 71 deletions in 5 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
   <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
@@ -156,5 +156,8 @@
   <sub>[#177022](https://github.com/flutter/flutter/pull/177022) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177022) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update examples to latest Linux runner style<br />
-  <sub>[#177033](https://github.com/flutter/flutter/pull/177033) opened on on October 15, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177033) 613 additions and 158 deletions in 29 files</sub><br />
+  <sub>[#177033](https://github.com/flutter/flutter/pull/177033) opened on on October 15, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/177033) 613 additions and 158 deletions in 29 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove generated file from template manifest<br />
+  <sub>[#177034](https://github.com/flutter/flutter/pull/177034) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177034) 0 additions and 1 deletion in 1 file</sub><br />
 
