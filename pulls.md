@@ -143,14 +143,8 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
   <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix ink features painting in YearPicker.<br />
-  <sub>[#177014](https://github.com/flutter/flutter/pull/177014) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177014) 46 additions and 8 deletions in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia to c501c727a007<br />
   <sub>[#177015](https://github.com/flutter/flutter/pull/177015) opened on on October 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177015) 5 additions and 7 deletions in 2 files</sub><br />
-
-* **[Tymur](https://github.com/cuteUtya)** &mdash; Move child parameter to end of RefreshIndicator constructor<br />
-  <sub>[#177019](https://github.com/flutter/flutter/pull/177019) opened on on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177019) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationRail doesn't crash in 0x0 environment<br />
   <sub>[#177022](https://github.com/flutter/flutter/pull/177022) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177022) 18 additions and 0 deletions in 1 file</sub><br />
