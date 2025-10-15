@@ -156,7 +156,7 @@
   <sub>[#177022](https://github.com/flutter/flutter/pull/177022) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177022) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update examples to latest Linux runner style<br />
-  <sub>[#177033](https://github.com/flutter/flutter/pull/177033) opened on on October 15, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/177033) 613 additions and 158 deletions in 29 files</sub><br />
+  <sub>[#177033](https://github.com/flutter/flutter/pull/177033) opened on on October 15, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/177033) 613 additions and 158 deletions in 29 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove generated file from template manifest<br />
   <sub>[#177034](https://github.com/flutter/flutter/pull/177034) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177034) 0 additions and 1 deletion in 1 file</sub><br />
