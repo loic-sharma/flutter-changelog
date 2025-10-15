@@ -149,9 +149,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationRail doesn't crash in 0x0 environment<br />
   <sub>[#177022](https://github.com/flutter/flutter/pull/177022) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177022) 18 additions and 0 deletions in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update examples to latest Linux runner style<br />
-  <sub>[#177033](https://github.com/flutter/flutter/pull/177033) opened on on October 15, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/177033) 613 additions and 158 deletions in 29 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove generated file from template manifest<br />
   <sub>[#177034](https://github.com/flutter/flutter/pull/177034) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177034) 0 additions and 1 deletion in 1 file</sub><br />
 
@@ -160,7 +157,4 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Resolve resolve native Flutter dependencies in Android Studio (#167332)"<br />
   <sub>[#177053](https://github.com/flutter/flutter/pull/177053) opened on on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177053) 10 additions and 33 deletions in 1 file</sub><br />
-
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [web][a11y] Fix the semantics tree reconstruction logic when a subtree is reparented to another node. <br />
-  <sub>[#177069](https://github.com/flutter/flutter/pull/177069) opened on on October 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177069) 126 additions and 3 deletions in 2 files</sub><br />
 
