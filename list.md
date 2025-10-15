@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-16 commits.
+17 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux
   <sub>[#176187](https://github.com/flutter/flutter/pull/176187) merged on October 14, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) over 2 weeks, 1838 additions and 46 deletions in 25 files</sub>
@@ -30,6 +30,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix computeDistanceToActualBaseline throws when accessing child size
   <sub>[#176906](https://github.com/flutter/flutter/pull/176906) merged on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176906) over 1 day, 37 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update examples to latest Linux runner style
+  <sub>[#177033](https://github.com/flutter/flutter/pull/177033) merged on October 15, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/177033) over 20 hours, 613 additions and 158 deletions in 29 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS can set application locale before view controller is set
   <sub>[#176592](https://github.com/flutter/flutter/pull/176592) merged on October 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176592) over 1 week, 52 additions and 2 deletions in 3 files</sub>
