@@ -93,7 +93,7 @@
   <sub>[#176600](https://github.com/flutter/flutter/pull/176600) opened on on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176600) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Fix typo in overlay.dart documentation comment<br />
-  <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
   <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
@@ -154,4 +154,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationRail doesn't crash in 0x0 environment<br />
   <sub>[#177022](https://github.com/flutter/flutter/pull/177022) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177022) 18 additions and 0 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update examples to latest Linux runner style<br />
+  <sub>[#177033](https://github.com/flutter/flutter/pull/177033) opened on on October 15, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177033) 613 additions and 158 deletions in 29 files</sub><br />
 
