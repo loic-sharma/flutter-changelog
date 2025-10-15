@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-15 commits.
+16 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux<br />
   <sub>[#176187](https://github.com/flutter/flutter/pull/176187) merged on October 14, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) over 2 weeks, 1838 additions and 46 deletions in 25 files</sub><br />
@@ -21,6 +21,11 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix expansion tile is missing state announcement on non-Apple platforms<br />
   <sub>[#175480](https://github.com/flutter/flutter/pull/175480) merged on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175480) over 3 weeks, 100 additions and 12 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Create internal menu controller if external controller is changed to null.<br />
+  <sub>[#176375](https://github.com/flutter/flutter/pull/176375) merged on October 15, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176375) over 1 week, 42 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="600"  alt="image" src="https://github.com/user-attachments/assets/85078f18-3316-45c9-a2c9-d7f4c5d1c73e" /></details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix computeDistanceToActualBaseline throws when accessing child size<br />
   <sub>[#176906](https://github.com/flutter/flutter/pull/176906) merged on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176906) over 1 day, 37 additions and 0 deletions in 2 files</sub><br />
