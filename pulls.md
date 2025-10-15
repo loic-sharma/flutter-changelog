@@ -122,9 +122,6 @@
 * **[Keval Domadia](https://github.com/karmicdice)** &mdash; Added support for ios-min-version<br />
   <sub>[#176907](https://github.com/flutter/flutter/pull/176907) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176907) 47 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix focus issues in newer versions of Chrome<br />
-  <sub>[#176938](https://github.com/flutter/flutter/pull/176938) opened on on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176938) 2 additions and 8 deletions in 1 file</sub><br />
-
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Add macOS architecture option to build command and update tests<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
 
@@ -143,9 +140,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
   <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia to c501c727a007<br />
-  <sub>[#177015](https://github.com/flutter/flutter/pull/177015) opened on on October 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177015) 5 additions and 7 deletions in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationRail doesn't crash in 0x0 environment<br />
   <sub>[#177022](https://github.com/flutter/flutter/pull/177022) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177022) 18 additions and 0 deletions in 1 file</sub><br />
 
@@ -157,4 +151,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Resolve resolve native Flutter dependencies in Android Studio (#167332)"<br />
   <sub>[#177053](https://github.com/flutter/flutter/pull/177053) opened on on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177053) 10 additions and 33 deletions in 1 file</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] For table semantics cache the intermediate cell wrapper.<br />
+  <sub>[#177073](https://github.com/flutter/flutter/pull/177073) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177073) 19 additions and 3 deletions in 1 file</sub><br />
 

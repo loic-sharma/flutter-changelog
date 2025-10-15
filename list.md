@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-17 commits.
+22 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux
   <sub>[#176187](https://github.com/flutter/flutter/pull/176187) merged on October 14, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) over 2 weeks, 1838 additions and 46 deletions in 25 files</sub>
@@ -13,6 +13,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: allows access of float uniforms by name
   <sub>[#176728](https://github.com/flutter/flutter/pull/176728) merged on October 14, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/176728) over 5 days, 433 additions and 26 deletions in 11 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix key events interception by RadioGroup when no Radio is focused.
+  <sub>[#176335](https://github.com/flutter/flutter/pull/176335) merged on October 15, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176335) over 2 weeks, 146 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - TalkBack does not announce list information
   <sub>[#174374](https://github.com/flutter/flutter/pull/174374) merged on October 14, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/174374) over 1 month, 140 additions and 49 deletions in 2 files</sub>
@@ -30,6 +34,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix computeDistanceToActualBaseline throws when accessing child size
   <sub>[#176906](https://github.com/flutter/flutter/pull/176906) merged on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176906) over 1 day, 37 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update `android_engine_vulkan_tests` to Test Against SDK 36 Emulator
+  <sub>[#176985](https://github.com/flutter/flutter/pull/176985) merged on October 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176985) over 1 day, 3 additions and 23 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update examples to latest Linux runner style
   <sub>[#177033](https://github.com/flutter/flutter/pull/177033) merged on October 15, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/177033) over 20 hours, 613 additions and 158 deletions in 29 files</sub>
@@ -59,6 +67,14 @@
   <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Update cherry-pick instructions to include instructions for pre-release CPs
+  <sub>[#177020](https://github.com/flutter/flutter/pull/177020) merged on October 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177020) over 1 day, 6 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia to c501c727a007
+  <sub>[#177015](https://github.com/flutter/flutter/pull/177015) merged on October 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177015) over 1 day, 5 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to a branch based on d9fa255a5c22
   <sub>[#176747](https://github.com/flutter/flutter/pull/176747) merged on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176747) over 5 days, 122 additions and 3 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
@@ -70,6 +86,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll SwiftShader to 794b0cfce1d8
   <sub>[#176806](https://github.com/flutter/flutter/pull/176806) merged on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176806) over 3 days, 3 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix focus issues in newer versions of Chrome
+  <sub>[#176938](https://github.com/flutter/flutter/pull/176938) merged on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176938) over 2 days, 2 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relands "Fixes keyboard selects disabled radio"
   <sub>[#176977](https://github.com/flutter/flutter/pull/176977) merged on October 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176977) over 17 hours, 77 additions and 1 deletion in 6 files</sub>
