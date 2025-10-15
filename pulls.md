@@ -86,9 +86,6 @@
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml<br />
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Add animations to MenuAnchor.<br />
-  <sub>[#176494](https://github.com/flutter/flutter/pull/176494) opened on on October 3, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/176494) 1889 additions and 100 deletions in 7 files</sub><br />
-
 * **[Oleg Matskiv](https://github.com/Alpaca00)** &mdash; [docs] Fix typo in link to engine testing docs<br />
   <sub>[#176600](https://github.com/flutter/flutter/pull/176600) opened on on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176600) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -133,6 +130,9 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationDrawer doesn't crash in 0x0 environment<br />
   <sub>[#176951](https://github.com/flutter/flutter/pull/176951) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176951) 11 additions and 0 deletions in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Android treats link without URL semantics node as button<br />
+  <sub>[#176959](https://github.com/flutter/flutter/pull/176959) opened on on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176959) 27 additions and 1 deletion in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
   <sub>[#176976](https://github.com/flutter/flutter/pull/176976) opened on on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176976) 123 additions and 0 deletions in 3 files</sub><br />
