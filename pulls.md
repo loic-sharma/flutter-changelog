@@ -161,3 +161,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove generated file from template manifest<br />
   <sub>[#177034](https://github.com/flutter/flutter/pull/177034) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177034) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Explicitly disable XPS backend<br />
+  <sub>[#177050](https://github.com/flutter/flutter/pull/177050) opened on on October 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177050) 1 addition and 0 deletions in 1 file</sub><br />
+
