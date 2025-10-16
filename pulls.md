@@ -156,7 +156,7 @@
   <sub>[#177061](https://github.com/flutter/flutter/pull/177061) opened on on October 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177061) 40 additions and 24 deletions in 1 file</sub><br />
 
 * **[André](https://github.com/leuchte)** &mdash; Fix typo in ButtonBar documentation<br />
-  <sub>[#177078](https://github.com/flutter/flutter/pull/177078) opened on on October 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177078) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#177078](https://github.com/flutter/flutter/pull/177078) opened on on October 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177078) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets<br />
   <sub>[#177080](https://github.com/flutter/flutter/pull/177080) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177080) 362 additions and 229 deletions in 4 files</sub><br />
