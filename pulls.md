@@ -2,9 +2,6 @@
 
 ## flutter/flutter
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
-  <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156620) 13 additions and 5 deletions in 4 files</sub><br />
-
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/170980) 48 additions and 24 deletions in 2 files</sub><br />
 
