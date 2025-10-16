@@ -874,7 +874,7 @@
 6 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove Flutter books resources page<br />
-  <sub>[#12539](https://github.com/flutter/website/pull/12539) merged on October 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12539) over 2 days, 3 additions and 239 deletions in 27 files</sub><br />
+  <sub>[#12539](https://github.com/flutter/website/pull/12539) merged on October 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12539) over 2 days, 3 additions and 239 deletions in 27 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce Liquid logic on china community page<br />
