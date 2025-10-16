@@ -143,9 +143,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Fixes `SettingsChannelTest` flake<br />
   <sub>[#177061](https://github.com/flutter/flutter/pull/177061) opened on on October 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177061) 40 additions and 24 deletions in 1 file</sub><br />
 
-* **[André](https://github.com/leuchte)** &mdash; Fix typo in ButtonBar documentation<br />
-  <sub>[#177078](https://github.com/flutter/flutter/pull/177078) opened on on October 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177078) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets<br />
   <sub>[#177080](https://github.com/flutter/flutter/pull/177080) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177080) 362 additions and 229 deletions in 4 files</sub><br />
 
@@ -166,4 +163,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [CP-beta][Android] Refactor `ImageReaderSurfaceProducer` restoration after app resumes<br />
   <sub>[#177121](https://github.com/flutter/flutter/pull/177121) opened on on October 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177121) 51 additions and 55 deletions in 4 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the x64 version of build_ios_framework_module_test<br />
+  <sub>[#177136](https://github.com/flutter/flutter/pull/177136) opened on on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177136) 0 additions and 22 deletions in 1 file</sub><br />
 
