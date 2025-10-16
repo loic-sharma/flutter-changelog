@@ -174,7 +174,7 @@
   <sub>[#177118](https://github.com/flutter/flutter/pull/177118) opened on on October 16, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177118) 16 additions and 24 deletions in 9 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Remove unecessary `spy` in `FlutterActivityAndFragmentDelegateTest`<br />
-  <sub>[#177120](https://github.com/flutter/flutter/pull/177120) opened on on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177120) 1 addition and 3 deletions in 1 file</sub><br />
+  <sub>[#177120](https://github.com/flutter/flutter/pull/177120) opened on on October 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177120) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [CP-beta][Android] Refactor `ImageReaderSurfaceProducer` restoration after app resumes<br />
   <sub>[#177121](https://github.com/flutter/flutter/pull/177121) opened on on October 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177121) 51 additions and 55 deletions in 4 files</sub><br />
