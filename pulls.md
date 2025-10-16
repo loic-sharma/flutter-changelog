@@ -155,18 +155,12 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Resolve resolve native Flutter dependencies in Android Studio (#167332)"<br />
   <sub>[#177053](https://github.com/flutter/flutter/pull/177053) opened on on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177053) 10 additions and 33 deletions in 1 file</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia to 2d9df7c70b6f<br />
-  <sub>[#177074](https://github.com/flutter/flutter/pull/177074) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177074) 1 addition and 13 deletions in 2 files</sub><br />
-
 * **[André](https://github.com/leuchte)** &mdash; Fix typo in ButtonBar documentation<br />
   <sub>[#177078](https://github.com/flutter/flutter/pull/177078) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177078) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets<br />
   <sub>[#177080](https://github.com/flutter/flutter/pull/177080) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177080) 362 additions and 229 deletions in 4 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DateRangePickerDialog does not inherit local InputDecorationTheme<br />
-  <sub>[#177086](https://github.com/flutter/flutter/pull/177086) opened on on October 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177086) 26 additions and 1 deletion in 2 files</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDatePickerFormField does not inherit local InputDecorationTheme<br />
-  <sub>[#177090](https://github.com/flutter/flutter/pull/177090) opened on on October 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177090) 24 additions and 2 deletions in 2 files</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Handle the new location of Perfetto in create_updated_flutter_deps.py<br />
+  <sub>[#177099](https://github.com/flutter/flutter/pull/177099) opened on on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177099) 11 additions and 4 deletions in 2 files</sub><br />
 

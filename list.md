@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-27 commits.
+28 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux
   <sub>[#176187](https://github.com/flutter/flutter/pull/176187) merged on October 14, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) over 2 weeks, 1838 additions and 46 deletions in 25 files</sub>
@@ -82,6 +82,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make DropdownMenu generic type non nullable
   <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia to 2d9df7c70b6f
+  <sub>[#177074](https://github.com/flutter/flutter/pull/177074) merged on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177074) over 14 hours, 1 addition and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Update cherry-pick instructions to include instructions for pre-release CPs
   <sub>[#177020](https://github.com/flutter/flutter/pull/177020) merged on October 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177020) over 1 day, 6 additions and 1 deletion in 1 file</sub>
@@ -691,7 +695,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-3 commits.
+4 commits.
 
 * **[Tomás Sasovsky](https://github.com/tomassasovsky)** &mdash; [go_router] feat: access GoRouter.of from redirect methods
   <sub>[#9706](https://github.com/flutter/packages/pull/9706) merged on October 15, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/9706) over 2 months, 381 additions and 40 deletions in 9 files</sub>
@@ -700,6 +704,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Many] Migrate non examples (and pigeon test) to java 17
   <sub>[#10201](https://github.com/flutter/packages/pull/10201) merged on October 14, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/packages/pull/10201) over 4 days, 2339 additions and 2194 deletions in 136 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors and remove useErrorDialogs - platform implementations
+  <sub>[#10147](https://github.com/flutter/packages/pull/10147) merged on October 16, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/10147) over 2 weeks, 2421 additions and 2043 deletions in 44 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes support for Kotlin/Java classes that override equals and hashCode for ProxyApis 
   <sub>[#10039](https://github.com/flutter/packages/pull/10039) merged on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10039) over 3 weeks, 216 additions and 31 deletions in 7 files</sub>
