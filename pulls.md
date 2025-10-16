@@ -167,3 +167,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DateRangePickerDialog does not inherit local InputDecorationTheme<br />
   <sub>[#177086](https://github.com/flutter/flutter/pull/177086) opened on on October 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177086) 26 additions and 1 deletion in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDatePickerFormField does not inherit local InputDecorationTheme<br />
+  <sub>[#177090](https://github.com/flutter/flutter/pull/177090) opened on on October 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177090) 23 additions and 1 deletion in 2 files</sub><br />
+
