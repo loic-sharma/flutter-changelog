@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-30 commits.
+31 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement dialog windows for the win32 platform<br />
   <sub>[#176309](https://github.com/flutter/flutter/pull/176309) merged on October 16, 2025 &mdash; **Extra large:** [72 comments](https://github.com/flutter/flutter/pull/176309) over 2 weeks, 1444 additions and 217 deletions in 22 files</sub><br />
@@ -90,6 +90,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make DropdownMenu generic type non nullable<br />
   <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Handle the new location of Perfetto in create_updated_flutter_deps.py<br />
+  <sub>[#177099](https://github.com/flutter/flutter/pull/177099) merged on October 16, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177099) over 1 hour, 13 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia to 2d9df7c70b6f<br />
   <sub>[#177074](https://github.com/flutter/flutter/pull/177074) merged on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177074) over 14 hours, 1 addition and 13 deletions in 2 files</sub><br />
