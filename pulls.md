@@ -162,5 +162,5 @@
   <sub>[#177080](https://github.com/flutter/flutter/pull/177080) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177080) 362 additions and 229 deletions in 4 files</sub><br />
 
 * **[Alex Frei](https://github.com/hm21)** &mdash;  feat(table): add support for colSpan and rowSpan in TableCell<br />
-  <sub>[#177102](https://github.com/flutter/flutter/pull/177102) opened on on October 16, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/177102) 1143 additions and 105 deletions in 5 files</sub><br />
+  <sub>[#177102](https://github.com/flutter/flutter/pull/177102) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177102) 1143 additions and 105 deletions in 5 files</sub><br />
 
