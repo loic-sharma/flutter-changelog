@@ -111,7 +111,7 @@
   <sub>[#176841](https://github.com/flutter/flutter/pull/176841) opened on on October 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176841) 14 additions and 15 deletions in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Tapping outside of `SelectableRegion` should dismiss the selection<br />
-  <sub>[#176843](https://github.com/flutter/flutter/pull/176843) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176843) 95 additions and 25 deletions in 4 files</sub><br />
+  <sub>[#176843](https://github.com/flutter/flutter/pull/176843) opened on on October 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176843) 98 additions and 24 deletions in 3 files</sub><br />
 
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
@@ -160,4 +160,7 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets<br />
   <sub>[#177080](https://github.com/flutter/flutter/pull/177080) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177080) 362 additions and 229 deletions in 4 files</sub><br />
+
+* **[Alex Frei](https://github.com/hm21)** &mdash;  feat(table): add support for colSpan and rowSpan in TableCell<br />
+  <sub>[#177102](https://github.com/flutter/flutter/pull/177102) opened on on October 16, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/177102) 1143 additions and 105 deletions in 5 files</sub><br />
 
