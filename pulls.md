@@ -168,7 +168,7 @@
   <sub>[#177102](https://github.com/flutter/flutter/pull/177102) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177102) 1143 additions and 105 deletions in 5 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the Fuchsia SDK to //third_party/fuchsia-sdk<br />
-  <sub>[#177118](https://github.com/flutter/flutter/pull/177118) opened on on October 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177118) 15 additions and 25 deletions in 9 files</sub><br />
+  <sub>[#177118](https://github.com/flutter/flutter/pull/177118) opened on on October 16, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177118) 16 additions and 24 deletions in 9 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Remove unecessary `spy` in `FlutterActivityAndFragmentDelegateTest`<br />
   <sub>[#177120](https://github.com/flutter/flutter/pull/177120) opened on on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177120) 1 addition and 3 deletions in 1 file</sub><br />

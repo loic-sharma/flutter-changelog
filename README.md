@@ -711,7 +711,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-4 commits.
+5 commits.
 
 * **[Tomás Sasovsky](https://github.com/tomassasovsky)** &mdash; [go_router] feat: access GoRouter.of from redirect methods<br />
   <sub>[#9706](https://github.com/flutter/packages/pull/9706) merged on October 15, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/9706) over 2 months, 381 additions and 40 deletions in 9 files</sub><br />
@@ -720,6 +720,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [Many] Migrate non examples (and pigeon test) to java 17<br />
   <sub>[#10201](https://github.com/flutter/packages/pull/10201) merged on October 14, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/packages/pull/10201) over 4 days, 2339 additions and 2194 deletions in 136 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Move most Android event logic to Dart<br />
+  <sub>[#10128](https://github.com/flutter/packages/pull/10128) merged on October 16, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/10128) over 2 weeks, 1625 additions and 1550 deletions in 23 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors and remove useErrorDialogs - platform implementations<br />
   <sub>[#10147](https://github.com/flutter/packages/pull/10147) merged on October 16, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/10147) over 2 weeks, 2421 additions and 2043 deletions in 44 files</sub><br />
