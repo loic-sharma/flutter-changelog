@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-23 commits.
+25 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux<br />
   <sub>[#176187](https://github.com/flutter/flutter/pull/176187) merged on October 14, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) over 2 weeks, 1838 additions and 46 deletions in 25 files</sub><br />
@@ -35,6 +35,10 @@
   <sub>[#176906](https://github.com/flutter/flutter/pull/176906) merged on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176906) over 1 day, 37 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: migrate fade upwards page transition builder to widgets<br />
+  <sub>[#175560](https://github.com/flutter/flutter/pull/175560) merged on October 15, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/175560) over 3 weeks, 216 additions and 137 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update `android_engine_vulkan_tests` to Test Against SDK 36 Emulator<br />
   <sub>[#176985](https://github.com/flutter/flutter/pull/176985) merged on October 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176985) over 1 day, 3 additions and 23 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
@@ -58,6 +62,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Match the behavior of other platforms in Web Locale.toString if the country code is an empty string<br />
   <sub>[#176862](https://github.com/flutter/flutter/pull/176862) merged on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176862) over 3 days, 3 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ScrollAwareImageProvider<br />
+  <sub>[#175038](https://github.com/flutter/flutter/pull/175038) merged on October 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175038) over 1 month, 139 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kostia Sokolovskyi](https://github.com/ksokolovskyi)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InputDatePickerFormField doesn't crash in 0x0 envir…<br />
   <sub>[#176047](https://github.com/flutter/flutter/pull/176047) merged on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176047) over 2 weeks, 15 additions and 0 deletions in 1 file</sub><br />
