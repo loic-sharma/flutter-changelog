@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-31 commits.
+32 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement dialog windows for the win32 platform
   <sub>[#176309](https://github.com/flutter/flutter/pull/176309) merged on October 16, 2025 &mdash; **Extra large:** [72 comments](https://github.com/flutter/flutter/pull/176309) over 2 weeks, 1444 additions and 217 deletions in 22 files</sub>
@@ -21,6 +21,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: allows access of float uniforms by name
   <sub>[#176728](https://github.com/flutter/flutter/pull/176728) merged on October 14, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/176728) over 5 days, 433 additions and 26 deletions in 11 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [tool] makes listing a shader also as an asset a build failure
+  <sub>[#176866](https://github.com/flutter/flutter/pull/176866) merged on October 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176866) over 5 days, 80 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix key events interception by RadioGroup when no Radio is focused.
   <sub>[#176335](https://github.com/flutter/flutter/pull/176335) merged on October 15, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176335) over 2 weeks, 146 additions and 2 deletions in 2 files</sub>
