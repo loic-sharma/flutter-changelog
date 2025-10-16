@@ -78,7 +78,7 @@
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window<br />
-  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/flutter/pull/176361) 3092 additions and 90 deletions in 44 files</sub><br />
+  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) opened on on October 1, 2025 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/176361) 3092 additions and 90 deletions in 44 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
@@ -162,5 +162,5 @@
   <sub>[#177080](https://github.com/flutter/flutter/pull/177080) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177080) 362 additions and 229 deletions in 4 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Handle the new location of Perfetto in create_updated_flutter_deps.py<br />
-  <sub>[#177099](https://github.com/flutter/flutter/pull/177099) opened on on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177099) 11 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#177099](https://github.com/flutter/flutter/pull/177099) opened on on October 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177099) 13 additions and 7 deletions in 2 files</sub><br />
 
