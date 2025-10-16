@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-28 commits.
+29 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux<br />
   <sub>[#176187](https://github.com/flutter/flutter/pull/176187) merged on October 14, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) over 2 weeks, 1838 additions and 46 deletions in 25 files</sub><br />
@@ -34,6 +34,10 @@
   <sub>[#176375](https://github.com/flutter/flutter/pull/176375) merged on October 15, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176375) over 1 week, 42 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
   <sub><details><summary>1 image...</summary><img width="600"  alt="image" src="https://github.com/user-attachments/assets/85078f18-3316-45c9-a2c9-d7f4c5d1c73e" /></details></sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `SelectableRegion` should not show flutter rendered context menu when web context menu is enabled<br />
+  <sub>[#176855](https://github.com/flutter/flutter/pull/176855) merged on October 16, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176855) over 5 days, 93 additions and 19 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: migrate fade upwards page transition builder to widgets<br />
   <sub>[#175560](https://github.com/flutter/flutter/pull/175560) merged on October 15, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/175560) over 3 weeks, 216 additions and 137 deletions in 5 files</sub><br />

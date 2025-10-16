@@ -161,6 +161,3 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets<br />
   <sub>[#177080](https://github.com/flutter/flutter/pull/177080) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177080) 362 additions and 229 deletions in 4 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Handle the new location of Perfetto in create_updated_flutter_deps.py<br />
-  <sub>[#177099](https://github.com/flutter/flutter/pull/177099) opened on on October 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177099) 13 additions and 7 deletions in 2 files</sub><br />
-
