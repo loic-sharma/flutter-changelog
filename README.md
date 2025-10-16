@@ -4,11 +4,15 @@
 
 ### October 11, 2025 to October 17, 2025
 
-26 commits.
+27 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux<br />
   <sub>[#176187](https://github.com/flutter/flutter/pull/176187) merged on October 14, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) over 2 weeks, 1838 additions and 46 deletions in 25 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Alex Talebi](https://github.com/SalehTZ)** &mdash; feat: add `OptionsViewOpenDirection.mostSpace` to `RawAutocomplete`<br />
+  <sub>[#172997](https://github.com/flutter/flutter/pull/172997) merged on October 16, 2025 &mdash; **Small:** [53 comments](https://github.com/flutter/flutter/pull/172997) over 2 months, 217 additions and 35 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: allows access of float uniforms by name<br />
   <sub>[#176728](https://github.com/flutter/flutter/pull/176728) merged on October 14, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/176728) over 5 days, 433 additions and 26 deletions in 11 files</sub><br />
