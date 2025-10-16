@@ -149,9 +149,6 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Explicitly disable XPS backend<br />
   <sub>[#177050](https://github.com/flutter/flutter/pull/177050) opened on on October 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177050) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Resolve resolve native Flutter dependencies in Android Studio (#167332)"<br />
-  <sub>[#177053](https://github.com/flutter/flutter/pull/177053) opened on on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177053) 10 additions and 33 deletions in 1 file</sub><br />
-
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Fixes `SettingsChannelTest` flake<br />
   <sub>[#177061](https://github.com/flutter/flutter/pull/177061) opened on on October 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177061) 40 additions and 24 deletions in 1 file</sub><br />
 
