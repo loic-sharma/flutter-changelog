@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-37 commits.
+38 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement dialog windows for the win32 platform
   <sub>[#176309](https://github.com/flutter/flutter/pull/176309) merged on October 16, 2025 &mdash; **Extra large:** [72 comments](https://github.com/flutter/flutter/pull/176309) over 2 weeks, 1444 additions and 217 deletions in 22 files</sub>
@@ -63,6 +63,10 @@
   <sub>[#176906](https://github.com/flutter/flutter/pull/176906) merged on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176906) over 1 day, 37 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Resolve Gradle 9 Deprecations in flutter/flutter part 1
+  <sub>[#176865](https://github.com/flutter/flutter/pull/176865) merged on October 16, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/176865) over 5 days, 9553 additions and 6726 deletions in 171 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) merged on October 16, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/176329) over 2 weeks, 79 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
@@ -95,10 +99,6 @@
   <sub>[#175937](https://github.com/flutter/flutter/pull/175937) merged on October 16, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175937) over 3 weeks, 53 additions and 55 deletions in 4 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ScrollAwareImageProvider
-  <sub>[#175038](https://github.com/flutter/flutter/pull/175038) merged on October 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175038) over 1 month, 139 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kostia Sokolovskyi](https://github.com/ksokolovskyi)</sub>
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InputDatePickerFormField doesn't crash in 0x0 envir…
   <sub>[#176047](https://github.com/flutter/flutter/pull/176047) merged on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176047) over 2 weeks, 15 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -107,9 +107,9 @@
   <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia to c501c727a007
-  <sub>[#177015](https://github.com/flutter/flutter/pull/177015) merged on October 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177015) over 1 day, 5 additions and 7 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ScrollAwareImageProvider
+  <sub>[#175038](https://github.com/flutter/flutter/pull/175038) merged on October 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175038) over 1 month, 139 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kostia Sokolovskyi](https://github.com/ksokolovskyi)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to a branch based on d9fa255a5c22
   <sub>[#176747](https://github.com/flutter/flutter/pull/176747) merged on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176747) over 5 days, 122 additions and 3 deletions in 7 files</sub>
@@ -127,21 +127,25 @@
   <sub>[#177074](https://github.com/flutter/flutter/pull/177074) merged on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177074) over 14 hours, 1 addition and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll SwiftShader to 794b0cfce1d8
-  <sub>[#176806](https://github.com/flutter/flutter/pull/176806) merged on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176806) over 3 days, 3 additions and 12 deletions in 2 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Update cherry-pick instructions to include instructions for pre-release CPs
   <sub>[#177020](https://github.com/flutter/flutter/pull/177020) merged on October 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177020) over 1 day, 6 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix focus issues in newer versions of Chrome
-  <sub>[#176938](https://github.com/flutter/flutter/pull/176938) merged on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176938) over 2 days, 2 additions and 8 deletions in 1 file</sub>
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll SwiftShader to 794b0cfce1d8
+  <sub>[#176806](https://github.com/flutter/flutter/pull/176806) merged on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176806) over 3 days, 3 additions and 12 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia to c501c727a007
+  <sub>[#177015](https://github.com/flutter/flutter/pull/177015) merged on October 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177015) over 1 day, 5 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Updates `sliver_tree.1.dart‎` to use `MediaQuery.widthOf(context)` 
   <sub>[#176888](https://github.com/flutter/flutter/pull/176888) merged on October 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176888) over 4 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix focus issues in newer versions of Chrome
+  <sub>[#176938](https://github.com/flutter/flutter/pull/176938) merged on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176938) over 2 days, 2 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relands "Fixes keyboard selects disabled radio"
   <sub>[#176977](https://github.com/flutter/flutter/pull/176977) merged on October 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176977) over 17 hours, 77 additions and 1 deletion in 6 files</sub>
