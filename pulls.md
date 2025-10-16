@@ -179,6 +179,3 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [CP-beta][Android] Refactor `ImageReaderSurfaceProducer` restoration after app resumes<br />
   <sub>[#177121](https://github.com/flutter/flutter/pull/177121) opened on on October 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177121) 51 additions and 55 deletions in 4 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `SelectableRegion` should use flutter rendered menu on the web for Android and iOS<br />
-  <sub>[#177122](https://github.com/flutter/flutter/pull/177122) opened on on October 16, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/177122) 197 additions and 119 deletions in 3 files</sub><br />
-
