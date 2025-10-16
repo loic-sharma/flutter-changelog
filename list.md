@@ -4,7 +4,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-25 commits.
+26 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux
   <sub>[#176187](https://github.com/flutter/flutter/pull/176187) merged on October 14, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) over 2 weeks, 1838 additions and 46 deletions in 25 files</sub>
@@ -62,6 +62,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Match the behavior of other platforms in Web Locale.toString if the country code is an empty string
   <sub>[#176862](https://github.com/flutter/flutter/pull/176862) merged on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176862) over 3 days, 3 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Refactor `ImageReaderSurfaceProducer` restoration after app resumes
+  <sub>[#175937](https://github.com/flutter/flutter/pull/175937) merged on October 16, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175937) over 3 weeks, 53 additions and 55 deletions in 4 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Yash Dhrangdhariya](https://github.com/Yash-Dhrangdhariya)** &mdash; fix: :bug: Add equality and hashCode implementations to ScrollAwareImageProvider
   <sub>[#175038](https://github.com/flutter/flutter/pull/175038) merged on October 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175038) over 1 month, 139 additions and 0 deletions in 2 files</sub>
