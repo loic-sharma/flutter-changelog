@@ -4,7 +4,11 @@
 
 ### October 11, 2025 to October 17, 2025
 
-29 commits.
+30 commits.
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement dialog windows for the win32 platform<br />
+  <sub>[#176309](https://github.com/flutter/flutter/pull/176309) merged on October 16, 2025 &mdash; **Extra large:** [72 comments](https://github.com/flutter/flutter/pull/176309) over 2 weeks, 1444 additions and 217 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement Regular Windows for Linux<br />
   <sub>[#176187](https://github.com/flutter/flutter/pull/176187) merged on October 14, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176187) over 2 weeks, 1838 additions and 46 deletions in 25 files</sub><br />
