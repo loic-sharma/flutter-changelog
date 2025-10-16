@@ -155,6 +155,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets<br />
   <sub>[#177080](https://github.com/flutter/flutter/pull/177080) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177080) 362 additions and 229 deletions in 4 files</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix bottom sheet Semantics route label for mismatched platforms<br />
+  <sub>[#177094](https://github.com/flutter/flutter/pull/177094) opened on on October 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177094) 81 additions and 1 deletion in 2 files</sub><br />
+
 * **[Alex Frei](https://github.com/hm21)** &mdash;  feat(table): add support for colSpan and rowSpan in TableCell<br />
   <sub>[#177102](https://github.com/flutter/flutter/pull/177102) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177102) 1143 additions and 105 deletions in 5 files</sub><br />
 
