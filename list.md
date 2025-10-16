@@ -35,13 +35,13 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
   <sub><details><summary>1 image...</summary><img width="600"  alt="image" src="https://github.com/user-attachments/assets/85078f18-3316-45c9-a2c9-d7f4c5d1c73e" /></details></sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix computeDistanceToActualBaseline throws when accessing child size
-  <sub>[#176906](https://github.com/flutter/flutter/pull/176906) merged on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176906) over 1 day, 37 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: migrate fade upwards page transition builder to widgets
   <sub>[#175560](https://github.com/flutter/flutter/pull/175560) merged on October 15, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/175560) over 3 weeks, 216 additions and 137 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix computeDistanceToActualBaseline throws when accessing child size
+  <sub>[#176906](https://github.com/flutter/flutter/pull/176906) merged on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176906) over 1 day, 37 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update `android_engine_vulkan_tests` to Test Against SDK 36 Emulator
   <sub>[#176985](https://github.com/flutter/flutter/pull/176985) merged on October 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176985) over 1 day, 3 additions and 23 deletions in 1 file</sub>

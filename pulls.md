@@ -27,7 +27,7 @@
   <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: findChildIndexCallback to take seperators into account for seperated named constructor in ListView and SliverList<br />
-  <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174491) 129 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#174491](https://github.com/flutter/flutter/pull/174491) opened on on August 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174491) 201 additions and 2 deletions in 6 files</sub><br />
 
 * **[Md Jihanur Rahman](https://github.com/jihanurrahman33)** &mdash; feat(widgets): add semanticIndexOffset to SliverList/SliverGrid/Fixed/Varied builder constructors + tests<br />
   <sub>[#174815](https://github.com/flutter/flutter/pull/174815) opened on on September 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174815) 104 additions and 0 deletions in 3 files</sub><br />
