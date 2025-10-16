@@ -153,5 +153,8 @@
   <sub>[#177053](https://github.com/flutter/flutter/pull/177053) opened on on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177053) 10 additions and 33 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia to 2d9df7c70b6f<br />
-  <sub>[#177074](https://github.com/flutter/flutter/pull/177074) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177074) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#177074](https://github.com/flutter/flutter/pull/177074) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177074) 1 addition and 13 deletions in 2 files</sub><br />
+
+* **[André](https://github.com/leuchte)** &mdash; Fix typo in ButtonBar documentation<br />
+  <sub>[#177078](https://github.com/flutter/flutter/pull/177078) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177078) 1 addition and 1 deletion in 1 file</sub><br />
 
