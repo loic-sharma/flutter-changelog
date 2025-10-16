@@ -107,6 +107,9 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup after -news_toolkit, +google_fonts, and some leftover `team-go_router`<br />
   <sub>[#176841](https://github.com/flutter/flutter/pull/176841) opened on on October 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176841) 14 additions and 15 deletions in 2 files</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Bump AGP, KGP, Gradle Templates<br />
+  <sub>[#176858](https://github.com/flutter/flutter/pull/176858) opened on on October 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176858) 15 additions and 12 deletions in 6 files</sub><br />
+
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
 
