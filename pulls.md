@@ -119,9 +119,6 @@
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Add macOS architecture option to build command and update tests<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationDrawer doesn't crash in 0x0 environment<br />
-  <sub>[#176951](https://github.com/flutter/flutter/pull/176951) opened on on October 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176951) 11 additions and 0 deletions in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Android treats link without URL semantics node as button<br />
   <sub>[#176959](https://github.com/flutter/flutter/pull/176959) opened on on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176959) 27 additions and 1 deletion in 2 files</sub><br />
 
@@ -133,9 +130,6 @@
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
   <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationRail doesn't crash in 0x0 environment<br />
-  <sub>[#177022](https://github.com/flutter/flutter/pull/177022) opened on on October 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177022) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove generated file from template manifest<br />
   <sub>[#177034](https://github.com/flutter/flutter/pull/177034) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177034) 0 additions and 1 deletion in 1 file</sub><br />
