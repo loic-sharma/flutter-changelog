@@ -152,6 +152,9 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Resolve resolve native Flutter dependencies in Android Studio (#167332)"<br />
   <sub>[#177053](https://github.com/flutter/flutter/pull/177053) opened on on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177053) 10 additions and 33 deletions in 1 file</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Fixes `SettingsChannelTest` flake<br />
+  <sub>[#177061](https://github.com/flutter/flutter/pull/177061) opened on on October 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177061) 40 additions and 24 deletions in 1 file</sub><br />
+
 * **[André](https://github.com/leuchte)** &mdash; Fix typo in ButtonBar documentation<br />
   <sub>[#177078](https://github.com/flutter/flutter/pull/177078) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177078) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -165,5 +168,8 @@
   <sub>[#177102](https://github.com/flutter/flutter/pull/177102) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177102) 1143 additions and 105 deletions in 5 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Android] Refactor `ImageReaderSurfaceProducer` restoration after app resumes<br />
-  <sub>[#177112](https://github.com/flutter/flutter/pull/177112) opened on on October 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177112) 53 additions and 55 deletions in 4 files</sub><br />
+  <sub>[#177112](https://github.com/flutter/flutter/pull/177112) opened on on October 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177112) 51 additions and 55 deletions in 4 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the Fuchsia SDK to //third_party/fuchsia-sdk<br />
+  <sub>[#177118](https://github.com/flutter/flutter/pull/177118) opened on on October 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177118) 15 additions and 25 deletions in 9 files</sub><br />
 
