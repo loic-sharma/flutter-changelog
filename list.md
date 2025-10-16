@@ -711,7 +711,11 @@
 
 ### October 11, 2025 to October 17, 2025
 
-5 commits.
+6 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors, and remove `useErrorDialogs`
+  <sub>[#9981](https://github.com/flutter/packages/pull/9981) merged on October 16, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/9981) over 1 month, 124 additions and 198 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Victoria Ashworth](https://github.com/vashworth), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Tomás Sasovsky](https://github.com/tomassasovsky)** &mdash; [go_router] feat: access GoRouter.of from redirect methods
   <sub>[#9706](https://github.com/flutter/packages/pull/9706) merged on October 15, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/9706) over 2 months, 381 additions and 40 deletions in 9 files</sub>
