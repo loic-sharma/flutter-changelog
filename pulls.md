@@ -158,3 +158,6 @@
 * **[E-BlackTV](https://github.com/E-BlackTV)** &mdash; Add headers to proxy rules #173434<br />
   <sub>[#177176](https://github.com/flutter/flutter/pull/177176) opened on on October 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177176) 165 additions and 11 deletions in 3 files</sub><br />
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fixing WindowManagerTest::DialogCanNeverBeFullscreen possibly hanging<br />
+  <sub>[#177179](https://github.com/flutter/flutter/pull/177179) opened on on October 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177179) 6 additions and 7 deletions in 1 file</sub><br />
+
