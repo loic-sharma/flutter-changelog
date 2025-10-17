@@ -161,6 +161,3 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify Surface code between Skwasm and CanvasKit<br />
   <sub>[#177138](https://github.com/flutter/flutter/pull/177138) opened on on October 16, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/177138) 1308 additions and 1097 deletions in 29 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Mark windows_unopt test as flakey<br />
-  <sub>[#177173](https://github.com/flutter/flutter/pull/177173) opened on on October 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177173) 2 additions and 0 deletions in 1 file</sub><br />
-
