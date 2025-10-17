@@ -775,7 +775,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors, and remove `useErrorDialogs`<br />
   <sub>[#9981](https://github.com/flutter/packages/pull/9981) merged on October 16, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/9981) over 1 month, 124 additions and 198 deletions in 10 files</sub><br />
@@ -799,6 +799,10 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes support for Kotlin/Java classes that override equals and hashCode for ProxyApis <br />
   <sub>[#10039](https://github.com/flutter/packages/pull/10039) merged on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10039) over 3 weeks, 216 additions and 31 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Disable flaky web test<br />
+  <sub>[#10249](https://github.com/flutter/packages/pull/10249) merged on October 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10249) over 5 hours, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [various]fix information typo<br />
