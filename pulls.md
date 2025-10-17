@@ -167,3 +167,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the x64 version of build_ios_framework_module_test<br />
   <sub>[#177136](https://github.com/flutter/flutter/pull/177136) opened on on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177136) 0 additions and 22 deletions in 1 file</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify Surface code between Skwasm and CanvasKit<br />
+  <sub>[#177138](https://github.com/flutter/flutter/pull/177138) opened on on October 16, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/177138) 1308 additions and 1097 deletions in 29 files</sub><br />
+
