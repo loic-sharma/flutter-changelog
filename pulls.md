@@ -158,3 +158,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in comment about screen availability<br />
   <sub>[#177168](https://github.com/flutter/flutter/pull/177168) opened on on October 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177168) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[E-BlackTV](https://github.com/E-BlackTV)** &mdash; Add headers to proxy rules #173434<br />
+  <sub>[#177176](https://github.com/flutter/flutter/pull/177176) opened on on October 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177176) 162 additions and 11 deletions in 3 files</sub><br />
+
