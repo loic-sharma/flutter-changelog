@@ -83,9 +83,6 @@
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml<br />
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
 
-* **[Oleg Matskiv](https://github.com/Alpaca00)** &mdash; [docs] Fix typo in link to engine testing docs<br />
-  <sub>[#176600](https://github.com/flutter/flutter/pull/176600) opened on on October 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176600) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Fix typo in overlay.dart documentation comment<br />
   <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
 
