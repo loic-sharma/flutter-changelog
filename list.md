@@ -943,7 +943,11 @@
 
 ### October 11, 2025 to October 17, 2025
 
-7 commits.
+8 commits.
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove package dependency in FWE part 1
+  <sub>[#12561](https://github.com/flutter/website/pull/12561) merged on October 17, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/website/pull/12561) over 58 minutes, 306 additions and 44 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove Flutter books resources page
   <sub>[#12539](https://github.com/flutter/website/pull/12539) merged on October 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12539) over 2 days, 3 additions and 239 deletions in 27 files</sub>
