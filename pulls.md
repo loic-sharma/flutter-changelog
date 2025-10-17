@@ -155,3 +155,6 @@
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [test_fixes] Enable `deprecated_member_use_from_same_package`.<br />
   <sub>[#177183](https://github.com/flutter/flutter/pull/177183) opened on on October 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177183) 9 additions and 0 deletions in 1 file</sub><br />
 
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state<br />
+  <sub>[#177187](https://github.com/flutter/flutter/pull/177187) opened on on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) 73 additions and 42 deletions in 1 file</sub><br />
+
