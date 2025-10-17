@@ -63,12 +63,16 @@
   <sub>[#176906](https://github.com/flutter/flutter/pull/176906) merged on October 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176906) over 1 day, 37 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS
+  <sub>[#176329](https://github.com/flutter/flutter/pull/176329) merged on October 16, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/176329) over 2 weeks, 79 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Tapping outside of `SelectableRegion` should dismiss the selection
+  <sub>[#176843](https://github.com/flutter/flutter/pull/176843) merged on October 17, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/176843) over 6 days, 108 additions and 30 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update `android_engine_vulkan_tests` to Test Against SDK 36 Emulator
   <sub>[#176985](https://github.com/flutter/flutter/pull/176985) merged on October 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176985) over 1 day, 3 additions and 23 deletions in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Resolve Gradle 9 Deprecations in flutter/flutter part 1
-  <sub>[#176865](https://github.com/flutter/flutter/pull/176865) merged on October 16, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/176865) over 5 days, 9553 additions and 6726 deletions in 171 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update examples to latest Linux runner style
@@ -79,9 +83,9 @@
   <sub>[#176592](https://github.com/flutter/flutter/pull/176592) merged on October 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176592) over 1 week, 52 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS
-  <sub>[#176329](https://github.com/flutter/flutter/pull/176329) merged on October 16, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/176329) over 2 weeks, 79 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Resolve Gradle 9 Deprecations in flutter/flutter part 1
+  <sub>[#176865](https://github.com/flutter/flutter/pull/176865) merged on October 16, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/176865) over 5 days, 9553 additions and 6726 deletions in 171 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS integration tests
   <sub>[#176940](https://github.com/flutter/flutter/pull/176940) merged on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176940) over 5 hours, 0 additions and 5 deletions in 1 file</sub>
@@ -94,10 +98,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Match the behavior of other platforms in Web Locale.toString if the country code is an empty string
   <sub>[#176862](https://github.com/flutter/flutter/pull/176862) merged on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176862) over 3 days, 3 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Tapping outside of `SelectableRegion` should dismiss the selection
-  <sub>[#176843](https://github.com/flutter/flutter/pull/176843) merged on October 17, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/176843) over 6 days, 108 additions and 30 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkResponse doesn't crash in 0x0 environment
   <sub>[#175426](https://github.com/flutter/flutter/pull/175426) merged on October 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175426) over 1 month, 14 additions and 0 deletions in 1 file</sub>
