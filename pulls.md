@@ -156,5 +156,5 @@
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) opened on on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) 73 additions and 42 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added link to ClipRect from ImageFilter in the docstring<br />
-  <sub>[#177196](https://github.com/flutter/flutter/pull/177196) opened on on October 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177196) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#177196](https://github.com/flutter/flutter/pull/177196) opened on on October 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177196) 2 additions and 0 deletions in 1 file</sub><br />
 
