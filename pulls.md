@@ -146,6 +146,9 @@
 * **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html<br />
   <sub>[#177084](https://github.com/flutter/flutter/pull/177084) opened on on October 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177084) 8 additions and 0 deletions in 1 file</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix drawer Semantics for mismatched platforms<br />
+  <sub>[#177095](https://github.com/flutter/flutter/pull/177095) opened on on October 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177095) 149 additions and 2 deletions in 2 files</sub><br />
+
 * **[Alex Frei](https://github.com/hm21)** &mdash;  feat(table): add support for colSpan and rowSpan in TableCell<br />
   <sub>[#177102](https://github.com/flutter/flutter/pull/177102) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177102) 1143 additions and 105 deletions in 5 files</sub><br />
 
