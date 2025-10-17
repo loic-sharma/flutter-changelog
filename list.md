@@ -95,6 +95,10 @@
   <sub>[#176727](https://github.com/flutter/flutter/pull/176727) merged on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176727) over 5 days, 71 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Handle the new location of Perfetto in create_updated_flutter_deps.py
+  <sub>[#177099](https://github.com/flutter/flutter/pull/177099) merged on October 16, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/177099) over 1 hour, 13 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Match the behavior of other platforms in Web Locale.toString if the country code is an empty string
   <sub>[#176862](https://github.com/flutter/flutter/pull/176862) merged on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176862) over 3 days, 3 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
@@ -118,10 +122,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make DropdownMenu generic type non nullable
   <sub>[#176711](https://github.com/flutter/flutter/pull/176711) merged on October 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176711) over 4 days, 16 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Dart to a4485e5ef821 (3.11.0-25.0.dev)
-  <sub>[#177132](https://github.com/flutter/flutter/pull/177132) merged on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177132) over 3 hours, 9 additions and 9 deletions in 8 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Alexander Markov](https://github.com/alexmarkov)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll SwiftShader to 794b0cfce1d8
   <sub>[#176806](https://github.com/flutter/flutter/pull/176806) merged on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176806) over 3 days, 3 additions and 12 deletions in 2 files</sub>
@@ -147,9 +147,9 @@
   <sub>[#176747](https://github.com/flutter/flutter/pull/176747) merged on October 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176747) over 5 days, 122 additions and 3 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Handle the new location of Perfetto in create_updated_flutter_deps.py
-  <sub>[#177099](https://github.com/flutter/flutter/pull/177099) merged on October 16, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177099) over 1 hour, 13 additions and 7 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Dart to a4485e5ef821 (3.11.0-25.0.dev)
+  <sub>[#177132](https://github.com/flutter/flutter/pull/177132) merged on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177132) over 3 hours, 9 additions and 9 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Alexander Markov](https://github.com/alexmarkov)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix focus issues in newer versions of Chrome
   <sub>[#176938](https://github.com/flutter/flutter/pull/176938) merged on October 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176938) over 2 days, 2 additions and 8 deletions in 1 file</sub>
