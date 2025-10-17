@@ -138,7 +138,7 @@
   <sub>[#177061](https://github.com/flutter/flutter/pull/177061) opened on on October 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177061) 40 additions and 24 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets<br />
-  <sub>[#177080](https://github.com/flutter/flutter/pull/177080) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177080) 370 additions and 229 deletions in 4 files</sub><br />
+  <sub>[#177080](https://github.com/flutter/flutter/pull/177080) opened on on October 16, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/177080) 370 additions and 229 deletions in 4 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html<br />
   <sub>[#177084](https://github.com/flutter/flutter/pull/177084) opened on on October 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177084) 8 additions and 0 deletions in 1 file</sub><br />
