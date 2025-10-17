@@ -107,9 +107,6 @@
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant name field form `TargetPlatform` and `XCDeviceEventInterface` enums<br />
-  <sub>[#176890](https://github.com/flutter/flutter/pull/176890) opened on on October 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176890) 4 additions and 11 deletions in 2 files</sub><br />
-
 * **[Keval Domadia](https://github.com/karmicdice)** &mdash; Added support for ios-min-version<br />
   <sub>[#176907](https://github.com/flutter/flutter/pull/176907) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176907) 47 additions and 1 deletion in 2 files</sub><br />
 
