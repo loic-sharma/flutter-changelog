@@ -939,11 +939,15 @@
 
 ### October 11, 2025 to October 17, 2025
 
-6 commits.
+7 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove Flutter books resources page
   <sub>[#12539](https://github.com/flutter/website/pull/12539) merged on October 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12539) over 2 days, 3 additions and 239 deletions in 27 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add release notes for DevTools 2.51.0
+  <sub>[#12557](https://github.com/flutter/website/pull/12557) merged on October 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12557) over 10 hours, 31 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce Liquid logic on china community page
   <sub>[#12547](https://github.com/flutter/website/pull/12547) merged on October 14, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/website/pull/12547) over 7 hours, 285 additions and 204 deletions in 4 files</sub>
