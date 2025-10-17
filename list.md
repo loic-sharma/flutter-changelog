@@ -289,29 +289,33 @@
   <sub>[#176867](https://github.com/flutter/flutter/pull/176867) merged on October 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176867) over 4 hours, 3 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Dmitry Grand](https://github.com/ievdokdm)</sub>
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Improve menu item accessibility semantics
-  <sub>[#176255](https://github.com/flutter/flutter/pull/176255) merged on October 9, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/176255) over 1 week, 17 additions and 6 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `Scaffold` having status bar when primary is false
+  <sub>[#175156](https://github.com/flutter/flutter/pull/175156) merged on October 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175156) over 4 weeks, 86 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Simplify `if-else` block into single `return` statement
   <sub>[#175574](https://github.com/flutter/flutter/pull/175574) merged on October 8, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/175574) over 2 weeks, 21 additions and 42 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField does not inherit local InputDecorationTheme
+  <sub>[#176300](https://github.com/flutter/flutter/pull/176300) merged on October 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176300) over 1 week, 57 additions and 18 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Change default Linux thread policy to merge platform and UI threads.
+  <sub>[#176759](https://github.com/flutter/flutter/pull/176759) merged on October 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176759) over 1 day, 32 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField does not inherit local InputDecorationTheme
   <sub>[#176564](https://github.com/flutter/flutter/pull/176564) merged on October 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176564) over 2 days, 59 additions and 30 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `Scaffold` having status bar when primary is false
-  <sub>[#175156](https://github.com/flutter/flutter/pull/175156) merged on October 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175156) over 4 weeks, 86 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Improve menu item accessibility semantics
+  <sub>[#176255](https://github.com/flutter/flutter/pull/176255) merged on October 9, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/176255) over 1 week, 17 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Rename UIScene integration test projects and fix Xcode compatibility
   <sub>[#176635](https://github.com/flutter/flutter/pull/176635) merged on October 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/176635) over 6 hours, 1373 additions and 1292 deletions in 38 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField does not inherit local InputDecorationTheme
-  <sub>[#176300](https://github.com/flutter/flutter/pull/176300) merged on October 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176300) over 1 week, 57 additions and 18 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Fix links to Custom Flutter Engine Embedders in README.
   <sub>[#175807](https://github.com/flutter/flutter/pull/175807) merged on October 9, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175807) over 2 weeks, 2 additions and 2 deletions in 1 file</sub>
@@ -328,10 +332,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an InkWell doesn't crash in 0x0 environment
   <sub>[#175871](https://github.com/flutter/flutter/pull/175871) merged on October 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175871) over 2 weeks, 11 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Change default Linux thread policy to merge platform and UI threads.
-  <sub>[#176759](https://github.com/flutter/flutter/pull/176759) merged on October 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176759) over 1 day, 32 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Announce text and button together when DropdownMenu is treated as a button
   <sub>[#176428](https://github.com/flutter/flutter/pull/176428) merged on October 9, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/176428) over 1 week, 135 additions and 92 deletions in 2 files</sub>
