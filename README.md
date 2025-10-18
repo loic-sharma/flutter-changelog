@@ -834,13 +834,13 @@
   <sub>[#10128](https://github.com/flutter/packages/pull/10128) merged on October 16, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/10128) over 2 weeks, 1625 additions and 1550 deletions in 23 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub><br />
 
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors and remove useErrorDialogs - platform implementations<br />
-  <sub>[#10147](https://github.com/flutter/packages/pull/10147) merged on October 16, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/10147) over 2 weeks, 2421 additions and 2043 deletions in 44 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update min iOS/macOS versions<br />
   <sub>[#10231](https://github.com/flutter/packages/pull/10231) merged on October 18, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/10231) over 3 days, 633 additions and 576 deletions in 143 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors and remove useErrorDialogs - platform implementations<br />
+  <sub>[#10147](https://github.com/flutter/packages/pull/10147) merged on October 16, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/10147) over 2 weeks, 2421 additions and 2043 deletions in 44 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes support for Kotlin/Java classes that override equals and hashCode for ProxyApis <br />
   <sub>[#10039](https://github.com/flutter/packages/pull/10039) merged on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10039) over 3 weeks, 216 additions and 31 deletions in 7 files</sub><br />
