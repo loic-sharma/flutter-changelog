@@ -816,7 +816,7 @@
 
 ### October 11, 2025 to October 17, 2025
 
-8 commits.
+9 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors, and remove `useErrorDialogs`
   <sub>[#9981](https://github.com/flutter/packages/pull/9981) merged on October 16, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/9981) over 1 month, 124 additions and 198 deletions in 10 files</sub>
@@ -837,6 +837,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors and remove useErrorDialogs - platform implementations
   <sub>[#10147](https://github.com/flutter/packages/pull/10147) merged on October 16, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/10147) over 2 weeks, 2421 additions and 2043 deletions in 44 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update min iOS/macOS versions
+  <sub>[#10231](https://github.com/flutter/packages/pull/10231) merged on October 18, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/10231) over 3 days, 633 additions and 576 deletions in 143 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes support for Kotlin/Java classes that override equals and hashCode for ProxyApis 
   <sub>[#10039](https://github.com/flutter/packages/pull/10039) merged on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10039) over 3 weeks, 216 additions and 31 deletions in 7 files</sub>
