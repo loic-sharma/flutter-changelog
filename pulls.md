@@ -159,5 +159,5 @@
   <sub>[#177196](https://github.com/flutter/flutter/pull/177196) opened on on October 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177196) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add RoundedSuperellipseInputBorder<br />
-  <sub>[#177220](https://github.com/flutter/flutter/pull/177220) opened on on October 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177220) 481 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#177220](https://github.com/flutter/flutter/pull/177220) opened on on October 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177220) 477 additions and 0 deletions in 4 files</sub><br />
 
