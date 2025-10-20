@@ -57,7 +57,7 @@
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define flag for template variable injection in Flutter web builds<br />
-  <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
+  <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix error when generating pt_BR localizations<br />
   <sub>[#175832](https://github.com/flutter/flutter/pull/175832) opened on on September 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175832) 33 additions and 1 deletion in 2 files</sub><br />
