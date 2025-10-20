@@ -170,3 +170,6 @@
 * **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
   <sub>[#177274](https://github.com/flutter/flutter/pull/177274) opened on on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177274) 12 additions and 12 deletions in 1 file</sub><br />
 
+* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [beta] CP: Fixes hot reload/restart crashes after closing browser tab on web-server device<br />
+  <sub>[#177280](https://github.com/flutter/flutter/pull/177280) opened on on October 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177280) 127 additions and 21 deletions in 5 files</sub><br />
+
