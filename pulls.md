@@ -119,6 +119,9 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
   <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Some cleanup of cross library test imports<br />
+  <sub>[#177029](https://github.com/flutter/flutter/pull/177029) opened on on October 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/177029) 168 additions and 159 deletions in 60 files</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove generated file from template manifest<br />
   <sub>[#177034](https://github.com/flutter/flutter/pull/177034) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177034) 0 additions and 1 deletion in 1 file</sub><br />
 
@@ -164,12 +167,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adds a new CI build for Linux host DDM-enabled artifacts<br />
   <sub>[#177252](https://github.com/flutter/flutter/pull/177252) opened on on October 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177252) 77 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 2cd2106f2cef to 913c2ae1b367 (2 revisions)<br />
-  <sub>[#177258](https://github.com/flutter/flutter/pull/177258) opened on on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177258) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
   <sub>[#177274](https://github.com/flutter/flutter/pull/177274) opened on on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177274) 12 additions and 12 deletions in 1 file</sub><br />
-
-* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [beta] CP: Fixes hot reload/restart crashes after closing browser tab on web-server device<br />
-  <sub>[#177277](https://github.com/flutter/flutter/pull/177277) opened on on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177277) 2 additions and 0 deletions in 2 files</sub><br />
 
