@@ -161,6 +161,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add RoundedSuperellipseInputBorder<br />
   <sub>[#177220](https://github.com/flutter/flutter/pull/177220) opened on on October 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177220) 484 additions and 0 deletions in 4 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `FlutterSceneLifeCycleProvider.sceneLifeCycleDelegate` readonly<br />
+  <sub>[#177240](https://github.com/flutter/flutter/pull/177240) opened on on October 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177240) 19 additions and 7 deletions in 4 files</sub><br />
+
 * **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add debug message when popping the last route in Navigator<br />
   <sub>[#177244](https://github.com/flutter/flutter/pull/177244) opened on on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177244) 9 additions and 0 deletions in 1 file</sub><br />
 
@@ -168,8 +171,11 @@
   <sub>[#177252](https://github.com/flutter/flutter/pull/177252) opened on on October 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177252) 77 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 2cd2106f2cef to 913c2ae1b367 (2 revisions)<br />
-  <sub>[#177258](https://github.com/flutter/flutter/pull/177258) opened on on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177258) 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#177258](https://github.com/flutter/flutter/pull/177258) opened on on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177258) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Change Flutter APIs to use spans<br />
   <sub>[#177272](https://github.com/flutter/flutter/pull/177272) opened on on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177272) 62 additions and 46 deletions in 10 files</sub><br />
+
+* **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
+  <sub>[#177274](https://github.com/flutter/flutter/pull/177274) opened on on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177274) 12 additions and 8 deletions in 1 file</sub><br />
 
