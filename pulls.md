@@ -138,7 +138,7 @@
   <sub>[#177136](https://github.com/flutter/flutter/pull/177136) opened on on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177136) 0 additions and 22 deletions in 1 file</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify Surface code between Skwasm and CanvasKit<br />
-  <sub>[#177138](https://github.com/flutter/flutter/pull/177138) opened on on October 16, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/177138) 1326 additions and 1094 deletions in 29 files</sub><br />
+  <sub>[#177138](https://github.com/flutter/flutter/pull/177138) opened on on October 16, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/177138) 1330 additions and 1096 deletions in 29 files</sub><br />
 
 * **[E-BlackTV](https://github.com/E-BlackTV)** &mdash; Add headers to proxy rules #173434<br />
   <sub>[#177176](https://github.com/flutter/flutter/pull/177176) opened on on October 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177176) 165 additions and 11 deletions in 3 files</sub><br />

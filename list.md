@@ -146,7 +146,7 @@
   <sub>[#176865](https://github.com/flutter/flutter/pull/176865) merged on October 16, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/176865) over 5 days, 9553 additions and 6726 deletions in 171 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS
+* **[KiCheol Kim](https://github.com/p1318k)** &mdash; [CP-stable] Fix crash when NSAttributedString is passed to insertText on macOS
   <sub>[#176329](https://github.com/flutter/flutter/pull/176329) merged on October 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/176329) over 2 weeks, 79 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
