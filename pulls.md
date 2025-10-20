@@ -179,6 +179,3 @@
 * **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
   <sub>[#177274](https://github.com/flutter/flutter/pull/177274) opened on on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177274) 12 additions and 12 deletions in 1 file</sub><br />
 
-* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; New beta<br />
-  <sub>[#177275](https://github.com/flutter/flutter/pull/177275) opened on on October 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177275) 172 additions and 9 deletions in 14 files</sub><br />
-
