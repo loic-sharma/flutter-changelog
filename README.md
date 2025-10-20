@@ -4,7 +4,11 @@
 
 ### October 18, 2025 to October 24, 2025
 
-2 commits.
+3 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder<br />
+  <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [August](https://github.com/Gustl22), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix autofill context cleanup and view lifecycle management<br />
   <sub>[#173598](https://github.com/flutter/flutter/pull/173598) merged on October 20, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/173598) over 2 months, 138 additions and 24 deletions in 2 files</sub><br />
