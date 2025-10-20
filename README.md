@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### October 18, 2025 to October 24, 2025
+
+1 commits.
+
+* **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Fix Image.network not using cache when headers are specified<br />
+  <sub>[#176831](https://github.com/flutter/flutter/pull/176831) merged on October 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176831) over 1 week, 62 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Price](https://github.com/gnprice), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 ### October 11, 2025 to October 17, 2025
 
-61 commits.
+<details>
+<summary>61 commits...</summary>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix HEIF decoding<br />
   <sub>[#176860](https://github.com/flutter/flutter/pull/176860) merged on October 18, 2025 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/176860) over 1 week, 1135 additions and 25 deletions in 19 files</sub><br />
@@ -252,6 +261,8 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Resolve resolve native Flutter dependencies in Android Studio (#167332)"<br />
   <sub>[#177053](https://github.com/flutter/flutter/pull/177053) merged on October 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177053) over 1 day, 10 additions and 33 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+</details>
 
 ### October 4, 2025 to October 10, 2025
 
