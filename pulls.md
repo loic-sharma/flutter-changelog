@@ -164,6 +164,3 @@
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [beta] CP: Fixes hot reload/restart crashes after closing browser tab on web-server device<br />
   <sub>[#177280](https://github.com/flutter/flutter/pull/177280) opened on on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177280) 127 additions and 21 deletions in 5 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Revert "[Android 16] Update `android_engine_vulkan_tests` to Test Against SDK 36 Emulator"<br />
-  <sub>[#177292](https://github.com/flutter/flutter/pull/177292) opened on on October 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177292) 23 additions and 3 deletions in 1 file</sub><br />
-
