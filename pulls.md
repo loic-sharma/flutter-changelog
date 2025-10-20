@@ -161,3 +161,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add RoundedSuperellipseInputBorder<br />
   <sub>[#177220](https://github.com/flutter/flutter/pull/177220) opened on on October 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177220) 484 additions and 0 deletions in 4 files</sub><br />
 
+* **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add debug message when popping the last route in Navigator<br />
+  <sub>[#177244](https://github.com/flutter/flutter/pull/177244) opened on on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177244) 11 additions and 0 deletions in 1 file</sub><br />
+
