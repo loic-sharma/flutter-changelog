@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-8 commits.
+9 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder<br />
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Cleanup create_updated_flutter_deps.py a bit<br />
   <sub>[#177162](https://github.com/flutter/flutter/pull/177162) merged on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177162) over 3 days, 231 additions and 39 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant name field form `TargetPlatform` and `XCDeviceEventInterface` enums<br />
+  <sub>[#176890](https://github.com/flutter/flutter/pull/176890) merged on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176890) over 1 week, 4 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Fix Image.network not using cache when headers are specified<br />
   <sub>[#176831](https://github.com/flutter/flutter/pull/176831) merged on October 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176831) over 1 week, 62 additions and 2 deletions in 3 files</sub><br />
