@@ -170,3 +170,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 2cd2106f2cef to 913c2ae1b367 (2 revisions)<br />
   <sub>[#177258](https://github.com/flutter/flutter/pull/177258) opened on on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177258) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Change Flutter APIs to use spans<br />
+  <sub>[#177272](https://github.com/flutter/flutter/pull/177272) opened on on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177272) 62 additions and 46 deletions in 10 files</sub><br />
+
