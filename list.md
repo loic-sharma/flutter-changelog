@@ -7,7 +7,7 @@
 2 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix autofill context cleanup and view lifecycle management
-  <sub>[#173598](https://github.com/flutter/flutter/pull/173598) merged on October 20, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/173598) over 2 months, 138 additions and 24 deletions in 2 files</sub>
+  <sub>[#173598](https://github.com/flutter/flutter/pull/173598) merged on October 20, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/173598) over 2 months, 138 additions and 24 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Fix Image.network not using cache when headers are specified
