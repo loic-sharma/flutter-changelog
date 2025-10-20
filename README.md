@@ -690,9 +690,18 @@
 
 ## flutter/website
 
+### October 18, 2025 to October 24, 2025
+
+1 commits.
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fixes a bad link in UIScene migration guide<br />
+  <sub>[#12570](https://github.com/flutter/website/pull/12570) merged on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12570) over 1 hour, 9 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### October 11, 2025 to October 17, 2025
 
-8 commits.
+<details>
+<summary>8 commits...</summary>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove package dependency in FWE part 1<br />
   <sub>[#12561](https://github.com/flutter/website/pull/12561) merged on October 17, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/website/pull/12561) over 58 minutes, 306 additions and 44 deletions in 6 files</sub><br />
@@ -725,6 +734,8 @@
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; Add new redirect for multi-view on Android/iOS<br />
   <sub>[#12543](https://github.com/flutter/website/pull/12543) merged on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12543) over 23 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### October 4, 2025 to October 10, 2025
 
