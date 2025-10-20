@@ -162,7 +162,7 @@
   <sub>[#177220](https://github.com/flutter/flutter/pull/177220) opened on on October 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177220) 484 additions and 0 deletions in 4 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `FlutterSceneLifeCycleProvider.sceneLifeCycleDelegate` readonly<br />
-  <sub>[#177240](https://github.com/flutter/flutter/pull/177240) opened on on October 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177240) 19 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#177240](https://github.com/flutter/flutter/pull/177240) opened on on October 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177240) 19 additions and 7 deletions in 4 files</sub><br />
 
 * **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add debug message when popping the last route in Navigator<br />
   <sub>[#177244](https://github.com/flutter/flutter/pull/177244) opened on on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177244) 9 additions and 0 deletions in 1 file</sub><br />
@@ -177,5 +177,8 @@
   <sub>[#177272](https://github.com/flutter/flutter/pull/177272) opened on on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177272) 62 additions and 46 deletions in 10 files</sub><br />
 
 * **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
-  <sub>[#177274](https://github.com/flutter/flutter/pull/177274) opened on on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177274) 12 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#177274](https://github.com/flutter/flutter/pull/177274) opened on on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177274) 12 additions and 12 deletions in 1 file</sub><br />
+
+* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; New beta<br />
+  <sub>[#177275](https://github.com/flutter/flutter/pull/177275) opened on on October 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177275) 172 additions and 9 deletions in 14 files</sub><br />
 
