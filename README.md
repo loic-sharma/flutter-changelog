@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-9 commits.
+10 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder<br />
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Cleanup create_updated_flutter_deps.py a bit<br />
   <sub>[#177162](https://github.com/flutter/flutter/pull/177162) merged on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177162) over 3 days, 231 additions and 39 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `image.error_builder.0.dart` to replace the emoji with some text <br />
+  <sub>[#176886](https://github.com/flutter/flutter/pull/176886) merged on October 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176886) over 1 week, 6 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant name field form `TargetPlatform` and `XCDeviceEventInterface` enums<br />
   <sub>[#176890](https://github.com/flutter/flutter/pull/176890) merged on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176890) over 1 week, 4 additions and 11 deletions in 2 files</sub><br />
@@ -135,7 +139,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[KiCheol Kim](https://github.com/p1318k)** &mdash; Fix crash when NSAttributedString is passed to insertText on macOS<br />
-  <sub>[#176329](https://github.com/flutter/flutter/pull/176329) merged on October 16, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/176329) over 2 weeks, 79 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#176329](https://github.com/flutter/flutter/pull/176329) merged on October 16, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/176329) over 2 weeks, 79 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Tapping outside of `SelectableRegion` should dismiss the selection<br />
