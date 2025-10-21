@@ -767,7 +767,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-4 commits.
+6 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Refactor Mockito example
   <sub>[#12558](https://github.com/flutter/website/pull/12558) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12558) over 4 days, 28 additions and 18 deletions in 3 files</sub>
@@ -775,6 +775,14 @@
 
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Update platform-channels.md to remove 'dart:html' reference
   <sub>[#12579](https://github.com/flutter/website/pull/12579) merged on October 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12579) over 5 hours, 1 addition and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Update links in impeller.md for documentation
+  <sub>[#12574](https://github.com/flutter/website/pull/12574) merged on October 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12574) over 22 hours, 17 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Fix link to Flutter's build modes documentation
+  <sub>[#12571](https://github.com/flutter/website/pull/12571) merged on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12571) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Fix typo in proxy config docs
