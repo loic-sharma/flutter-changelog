@@ -93,7 +93,7 @@
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Android treats link without URL semantics node as button<br />
-  <sub>[#176959](https://github.com/flutter/flutter/pull/176959) opened on on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176959) 27 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#176959](https://github.com/flutter/flutter/pull/176959) opened on on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176959) 28 additions and 1 deletion in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
   <sub>[#176976](https://github.com/flutter/flutter/pull/176976) opened on on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176976) 123 additions and 0 deletions in 3 files</sub><br />
@@ -113,9 +113,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html<br />
   <sub>[#177084](https://github.com/flutter/flutter/pull/177084) opened on on October 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177084) 8 additions and 0 deletions in 1 file</sub><br />
 
-* **[Alex Frei](https://github.com/hm21)** &mdash;  feat(table): add support for colSpan and rowSpan in TableCell<br />
-  <sub>[#177102](https://github.com/flutter/flutter/pull/177102) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177102) 1143 additions and 105 deletions in 5 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the x64 version of build_ios_framework_module_test<br />
   <sub>[#177136](https://github.com/flutter/flutter/pull/177136) opened on on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177136) 0 additions and 22 deletions in 1 file</sub><br />
 
@@ -127,9 +124,6 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add RoundedSuperellipseInputBorder<br />
   <sub>[#177220](https://github.com/flutter/flutter/pull/177220) opened on on October 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177220) 484 additions and 0 deletions in 4 files</sub><br />
-
-* **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add debug message when popping the last route in Navigator<br />
-  <sub>[#177244](https://github.com/flutter/flutter/pull/177244) opened on on October 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177244) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adds a new CI build for Linux host DDM-enabled artifacts<br />
   <sub>[#177252](https://github.com/flutter/flutter/pull/177252) opened on on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177252) 77 additions and 0 deletions in 2 files</sub><br />
@@ -153,5 +147,5 @@
   <sub>[#177340](https://github.com/flutter/flutter/pull/177340) opened on on October 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177340) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Changes default cache extent for scrollable<br />
-  <sub>[#177351](https://github.com/flutter/flutter/pull/177351) opened on on October 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177351) 19 additions and 15 deletions in 4 files</sub><br />
+  <sub>[#177351](https://github.com/flutter/flutter/pull/177351) opened on on October 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177351) 19 additions and 15 deletions in 4 files</sub><br />
 
