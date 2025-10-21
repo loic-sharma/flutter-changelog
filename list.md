@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-16 commits.
+18 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub>
@@ -30,6 +30,10 @@
   <sub>[#177026](https://github.com/flutter/flutter/pull/177026) merged on October 20, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/177026) over 5 days, 133 additions and 22 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbar doesn't crash i…
+  <sub>[#173964](https://github.com/flutter/flutter/pull/173964) merged on October 20, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173964) over 2 months, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BottomSheet doesn't crash in 0x0 environment
   <sub>[#172229](https://github.com/flutter/flutter/pull/172229) merged on October 20, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172229) over 3 months, 18 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -53,6 +57,10 @@
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Cleanup create_updated_flutter_deps.py a bit
   <sub>[#177162](https://github.com/flutter/flutter/pull/177162) merged on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177162) over 3 days, 231 additions and 39 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `FlutterSceneLifeCycleProvider.sceneLifeCycleDelegate` readonly
+  <sub>[#177240](https://github.com/flutter/flutter/pull/177240) merged on October 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177240) over 16 hours, 29 additions and 7 deletions in 4 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a NavigationDrawer doesn't crash in 0x0 environment
   <sub>[#176951](https://github.com/flutter/flutter/pull/176951) merged on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176951) over 1 week, 17 additions and 0 deletions in 1 file</sub>
