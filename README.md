@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-24 commits.
+25 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder<br />
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub><br />
@@ -53,6 +53,10 @@
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.<br />
   <sub>[#175376](https://github.com/flutter/flutter/pull/175376) merged on October 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175376) over 1 month, 58 additions and 2 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Enable deprecated_member_use_from_same_package for all packages containing tests of Dart fixes defined within the package<br />
+  <sub>[#177341](https://github.com/flutter/flutter/pull/177341) merged on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177341) over 53 minutes, 27 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Paul Berry](https://github.com/stereotype441)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the Fuchsia SDK to //third_party/fuchsia-sdk<br />
   <sub>[#177118](https://github.com/flutter/flutter/pull/177118) merged on October 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177118) over 4 days, 16 additions and 24 deletions in 9 files</sub><br />
