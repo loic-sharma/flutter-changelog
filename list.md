@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-20 commits.
+21 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub>
@@ -61,6 +61,10 @@
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Cleanup create_updated_flutter_deps.py a bit
   <sub>[#177162](https://github.com/flutter/flutter/pull/177162) merged on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177162) over 3 days, 231 additions and 39 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Output DTD URI for Flutter web applications
+  <sub>[#177310](https://github.com/flutter/flutter/pull/177310) merged on October 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177310) over 1 hour, 6 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Mayank Patke](https://github.com/fishythefish)** &mdash; Remove references to dart:_js_annotations
   <sub>[#176698](https://github.com/flutter/flutter/pull/176698) merged on October 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176698) over 1 week, 0 additions and 12 deletions in 2 files</sub>
