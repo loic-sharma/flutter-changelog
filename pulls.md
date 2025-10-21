@@ -158,3 +158,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Output DTD URI for Flutter web applications<br />
   <sub>[#177321](https://github.com/flutter/flutter/pull/177321) opened on on October 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177321) 8 additions and 3 deletions in 3 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Enhance PR template with changelog and impact details<br />
+  <sub>[#177333](https://github.com/flutter/flutter/pull/177333) opened on on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177333) 15 additions and 7 deletions in 1 file</sub><br />
+
