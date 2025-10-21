@@ -128,9 +128,6 @@
 * **[Alex Frei](https://github.com/hm21)** &mdash;  feat(table): add support for colSpan and rowSpan in TableCell<br />
   <sub>[#177102](https://github.com/flutter/flutter/pull/177102) opened on on October 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177102) 1143 additions and 105 deletions in 5 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the Fuchsia SDK to //third_party/fuchsia-sdk<br />
-  <sub>[#177118](https://github.com/flutter/flutter/pull/177118) opened on on October 16, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177118) 16 additions and 24 deletions in 9 files</sub><br />
-
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [CP-beta][Android] Refactor `ImageReaderSurfaceProducer` restoration after app resumes<br />
   <sub>[#177121](https://github.com/flutter/flutter/pull/177121) opened on on October 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177121) 51 additions and 55 deletions in 4 files</sub><br />
 
