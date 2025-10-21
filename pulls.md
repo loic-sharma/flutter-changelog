@@ -161,3 +161,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Output DTD URI for Flutter web applications<br />
   <sub>[#177310](https://github.com/flutter/flutter/pull/177310) opened on on October 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177310) 6 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix text input actions in DropdownMenu.<br />
+  <sub>[#177313](https://github.com/flutter/flutter/pull/177313) opened on on October 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177313) 133 additions and 44 deletions in 2 files</sub><br />
+
