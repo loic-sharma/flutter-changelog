@@ -661,9 +661,18 @@
 
 ## flutter/packages
 
+### October 18, 2025 to October 24, 2025
+
+1 commits.
+
+* **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] expand supported versions of analyzer, build and source_gen
+  <sub>[#10078](https://github.com/flutter/packages/pull/10078) merged on October 21, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10078) over 3 weeks, 42 additions and 23 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
+
 ### October 11, 2025 to October 17, 2025
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Adopt structured errors, and remove `useErrorDialogs`
   <sub>[#9981](https://github.com/flutter/packages/pull/9981) merged on October 16, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/packages/pull/9981) over 1 month, 124 additions and 198 deletions in 10 files</sub>
@@ -700,6 +709,8 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [various]fix information typo
   <sub>[#10246](https://github.com/flutter/packages/pull/10246) merged on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10246) over 22 hours, 27 additions and 27 deletions in 27 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+</details>
 
 ### October 4, 2025 to October 10, 2025
 
@@ -752,10 +763,14 @@
 
 ### October 18, 2025 to October 24, 2025
 
-3 commits.
+4 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Refactor Mockito example
   <sub>[#12558](https://github.com/flutter/website/pull/12558) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12558) over 4 days, 28 additions and 18 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Update platform-channels.md to remove 'dart:html' reference
+  <sub>[#12579](https://github.com/flutter/website/pull/12579) merged on October 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12579) over 5 hours, 1 addition and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Fix typo in proxy config docs
