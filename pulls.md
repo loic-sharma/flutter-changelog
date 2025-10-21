@@ -147,7 +147,7 @@
   <sub>[#177220](https://github.com/flutter/flutter/pull/177220) opened on on October 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177220) 484 additions and 0 deletions in 4 files</sub><br />
 
 * **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add debug message when popping the last route in Navigator<br />
-  <sub>[#177244](https://github.com/flutter/flutter/pull/177244) opened on on October 20, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177244) 39 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#177244](https://github.com/flutter/flutter/pull/177244) opened on on October 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177244) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adds a new CI build for Linux host DDM-enabled artifacts<br />
   <sub>[#177252](https://github.com/flutter/flutter/pull/177252) opened on on October 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177252) 77 additions and 0 deletions in 2 files</sub><br />
