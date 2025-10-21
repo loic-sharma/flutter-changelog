@@ -771,7 +771,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-7 commits.
+8 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Refactor Mockito example
   <sub>[#12558](https://github.com/flutter/website/pull/12558) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12558) over 4 days, 28 additions and 18 deletions in 3 files</sub>
@@ -791,6 +791,10 @@
 
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Fix link to Flutter's build modes documentation
   <sub>[#12571](https://github.com/flutter/website/pull/12571) merged on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12571) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; Update App Store Connect instructions for iOS deployment
+  <sub>[#12577](https://github.com/flutter/website/pull/12577) merged on October 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12577) over 17 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Fix typo in proxy config docs
