@@ -335,7 +335,7 @@
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Resolve resolve native Flutter dependencies in Android Studio (#167332)"<br />
-  <sub>[#177053](https://github.com/flutter/flutter/pull/177053) merged on October 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177053) over 1 day, 10 additions and 33 deletions in 1 file</sub><br />
+  <sub>[#177053](https://github.com/flutter/flutter/pull/177053) merged on October 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177053) over 1 day, 10 additions and 33 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 </details>
