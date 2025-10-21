@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-23 commits.
+24 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub>
@@ -97,6 +97,10 @@
 * **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Fix Image.network not using cache when headers are specified
   <sub>[#176831](https://github.com/flutter/flutter/pull/176831) merged on October 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176831) over 1 week, 62 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Price](https://github.com/gnprice), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Revert "[Android 16] Update `android_engine_vulkan_tests` to Test Against SDK 36 Emulator"
+  <sub>[#177292](https://github.com/flutter/flutter/pull/177292) merged on October 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177292) over 18 hours, 23 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 ### October 11, 2025 to October 17, 2025
 
@@ -767,7 +771,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-6 commits.
+7 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Refactor Mockito example
   <sub>[#12558](https://github.com/flutter/website/pull/12558) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12558) over 4 days, 28 additions and 18 deletions in 3 files</sub>
@@ -776,6 +780,10 @@
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Update platform-channels.md to remove 'dart:html' reference
   <sub>[#12579](https://github.com/flutter/website/pull/12579) merged on October 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12579) over 5 hours, 1 addition and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made sure to mention ClipRect's interaction with BackdropFilter after user feedback
+  <sub>[#12563](https://github.com/flutter/website/pull/12563) merged on October 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12563) over 3 days, 10 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Update links in impeller.md for documentation
   <sub>[#12574](https://github.com/flutter/website/pull/12574) merged on October 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12574) over 22 hours, 17 additions and 8 deletions in 1 file</sub>
