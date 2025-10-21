@@ -775,7 +775,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-8 commits.
+9 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Refactor Mockito example<br />
   <sub>[#12558](https://github.com/flutter/website/pull/12558) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12558) over 4 days, 28 additions and 18 deletions in 3 files</sub><br />
@@ -795,6 +795,10 @@
 
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Fix link to Flutter's build modes documentation<br />
   <sub>[#12571](https://github.com/flutter/website/pull/12571) merged on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12571) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Update firebase.json with design doc for Dart Oriented Flutter Plugin<br />
+  <sub>[#12581](https://github.com/flutter/website/pull/12581) merged on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12581) over 2 hours, 2 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; Update App Store Connect instructions for iOS deployment<br />
