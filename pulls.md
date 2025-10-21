@@ -80,9 +80,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Fix typo in overlay.dart documentation comment<br />
   <sub>[#176612](https://github.com/flutter/flutter/pull/176612) opened on on October 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176612) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix: remove final class modifier on MenuController<br />
-  <sub>[#176725](https://github.com/flutter/flutter/pull/176725) opened on on October 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176725) 50 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176825) 124 additions and 18 deletions in 2 files</sub><br />
 
