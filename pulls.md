@@ -113,9 +113,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove generated file from template manifest<br />
   <sub>[#177034](https://github.com/flutter/flutter/pull/177034) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177034) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Fixes `SettingsChannelTest` flake<br />
-  <sub>[#177061](https://github.com/flutter/flutter/pull/177061) opened on on October 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177061) 41 additions and 24 deletions in 1 file</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html<br />
   <sub>[#177084](https://github.com/flutter/flutter/pull/177084) opened on on October 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177084) 8 additions and 0 deletions in 1 file</sub><br />
 
@@ -129,7 +126,7 @@
   <sub>[#177136](https://github.com/flutter/flutter/pull/177136) opened on on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177136) 0 additions and 22 deletions in 1 file</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify Surface code between Skwasm and CanvasKit<br />
-  <sub>[#177138](https://github.com/flutter/flutter/pull/177138) opened on on October 16, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/177138) 1330 additions and 1096 deletions in 29 files</sub><br />
+  <sub>[#177138](https://github.com/flutter/flutter/pull/177138) opened on on October 16, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/177138) 1328 additions and 1096 deletions in 29 files</sub><br />
 
 * **[E-BlackTV](https://github.com/E-BlackTV)** &mdash; Add headers to proxy rules #173434<br />
   <sub>[#177176](https://github.com/flutter/flutter/pull/177176) opened on on October 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177176) 165 additions and 11 deletions in 3 files</sub><br />
