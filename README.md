@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-18 commits.
+19 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder<br />
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub><br />
@@ -57,6 +57,10 @@
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Cleanup create_updated_flutter_deps.py a bit<br />
   <sub>[#177162](https://github.com/flutter/flutter/pull/177162) merged on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177162) over 3 days, 231 additions and 39 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Mayank Patke](https://github.com/fishythefish)** &mdash; Remove references to dart:_js_annotations<br />
+  <sub>[#176698](https://github.com/flutter/flutter/pull/176698) merged on October 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176698) over 1 week, 0 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `FlutterSceneLifeCycleProvider.sceneLifeCycleDelegate` readonly<br />
   <sub>[#177240](https://github.com/flutter/flutter/pull/177240) merged on October 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177240) over 16 hours, 29 additions and 7 deletions in 4 files</sub><br />
