@@ -137,6 +137,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][CP-stable] Fix crash when NSAttributedString is passed to insertText on macOS<br />
   <sub>[#177401](https://github.com/flutter/flutter/pull/177401) opened on on October 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177401) 79 additions and 1 deletion in 2 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Bump Templates To Correct Versions<br />
-  <sub>[#177416](https://github.com/flutter/flutter/pull/177416) opened on on October 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177416) 11 additions and 9 deletions in 3 files</sub><br />
-
