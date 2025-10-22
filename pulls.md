@@ -128,9 +128,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Configure FfiNative resolver on dart:io<br />
   <sub>[#177308](https://github.com/flutter/flutter/pull/177308) opened on on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177308) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix text input actions in DropdownMenu.<br />
-  <sub>[#177313](https://github.com/flutter/flutter/pull/177313) opened on on October 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177313) 133 additions and 44 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Output DTD URI for Flutter web applications<br />
   <sub>[#177321](https://github.com/flutter/flutter/pull/177321) opened on on October 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177321) 8 additions and 3 deletions in 3 files</sub><br />
 
