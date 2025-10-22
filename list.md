@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-28 commits.
+29 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub>
@@ -61,6 +61,10 @@
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.
   <sub>[#175376](https://github.com/flutter/flutter/pull/175376) merged on October 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175376) over 1 month, 58 additions and 2 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup after -news_toolkit, +google_fonts, and some leftover `team-go_router`
+  <sub>[#176841](https://github.com/flutter/flutter/pull/176841) merged on October 22, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176841) over 1 week, 17 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Enable deprecated_member_use_from_same_package for all packages containing tests of Dart fixes defined within the package
   <sub>[#177341](https://github.com/flutter/flutter/pull/177341) merged on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177341) over 53 minutes, 27 additions and 0 deletions in 3 files</sub>
