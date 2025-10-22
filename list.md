@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-35 commits.
+36 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub>
@@ -30,9 +30,9 @@
   <sub>[#177196](https://github.com/flutter/flutter/pull/177196) merged on October 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177196) over 2 days, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets
-  <sub>[#177080](https://github.com/flutter/flutter/pull/177080) merged on October 22, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/177080) over 6 days, 366 additions and 229 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix ink features painting in TabBar.
+  <sub>[#177155](https://github.com/flutter/flutter/pull/177155) merged on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177155) over 3 days, 54 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Android treats link without URL semantics node as button
   <sub>[#176959](https://github.com/flutter/flutter/pull/176959) merged on October 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176959) over 1 week, 28 additions and 1 deletion in 2 files</sub>
@@ -50,13 +50,21 @@
   <sub>[#177086](https://github.com/flutter/flutter/pull/177086) merged on October 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177086) over 4 days, 26 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix ink features painting in TabBar.
-  <sub>[#177155](https://github.com/flutter/flutter/pull/177155) merged on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177155) over 3 days, 54 additions and 8 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets
+  <sub>[#177080](https://github.com/flutter/flutter/pull/177080) merged on October 22, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/177080) over 6 days, 366 additions and 229 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Fixed hot reload/restart crashes after closing browser tab on web-server device
   <sub>[#177026](https://github.com/flutter/flutter/pull/177026) merged on October 20, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/177026) over 5 days, 133 additions and 22 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Srujan Gaddam](https://github.com/srujzs)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbar doesn't crash i…
+  <sub>[#173964](https://github.com/flutter/flutter/pull/173964) merged on October 20, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173964) over 2 months, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.
+  <sub>[#175376](https://github.com/flutter/flutter/pull/175376) merged on October 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175376) over 1 month, 58 additions and 2 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a BottomSheet doesn't crash in 0x0 environment
   <sub>[#172229](https://github.com/flutter/flutter/pull/172229) merged on October 20, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/172229) over 3 months, 18 additions and 0 deletions in 1 file</sub>
@@ -64,14 +72,6 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that SimpleDialog and SimpleDialogOption do not crash in 0x0 environment
   <sub>[#174229](https://github.com/flutter/flutter/pull/174229) merged on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174229) over 2 months, 24 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.
-  <sub>[#175376](https://github.com/flutter/flutter/pull/175376) merged on October 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175376) over 1 month, 58 additions and 2 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDesktopTextSelectionToolbar doesn't crash i…
-  <sub>[#173964](https://github.com/flutter/flutter/pull/173964) merged on October 20, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/173964) over 2 months, 18 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Delete stray 'text' file
@@ -133,6 +133,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove redundant name field form `TargetPlatform` and `XCDeviceEventInterface` enums
   <sub>[#176890](https://github.com/flutter/flutter/pull/176890) merged on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176890) over 1 week, 4 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Tymur](https://github.com/cuteUtya)** &mdash; Move child parameter to end of RefreshIndicator constructor
+  <sub>[#177019](https://github.com/flutter/flutter/pull/177019) merged on October 22, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177019) over 1 week, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in comment about screen availibility 
   <sub>[#177168](https://github.com/flutter/flutter/pull/177168) merged on October 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177168) over 4 days, 1 addition and 1 deletion in 1 file</sub>
