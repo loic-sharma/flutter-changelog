@@ -116,9 +116,6 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state<br />
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) opened on on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) 73 additions and 42 deletions in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add RoundedSuperellipseInputBorder<br />
-  <sub>[#177220](https://github.com/flutter/flutter/pull/177220) opened on on October 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177220) 484 additions and 0 deletions in 4 files</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adds a new CI build for Linux host DDM-enabled artifacts<br />
   <sub>[#177252](https://github.com/flutter/flutter/pull/177252) opened on on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177252) 77 additions and 0 deletions in 2 files</sub><br />
 

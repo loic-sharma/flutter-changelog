@@ -363,7 +363,7 @@
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bump AGP, KGP, Gradle Templates<br />
-  <sub>[#176858](https://github.com/flutter/flutter/pull/176858) merged on October 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/176858) over 6 days, 15 additions and 12 deletions in 6 files</sub><br />
+  <sub>[#176858](https://github.com/flutter/flutter/pull/176858) merged on October 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/176858) over 6 days, 15 additions and 12 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a MenuAcceleratorLabel doesn't crash in 0x0 environment<br />
