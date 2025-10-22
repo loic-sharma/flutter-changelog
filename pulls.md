@@ -92,9 +92,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
   <sub>[#176976](https://github.com/flutter/flutter/pull/176976) opened on on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176976) 123 additions and 0 deletions in 3 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix accessibility events not being correctly translated to ATK<br />
-  <sub>[#176991](https://github.com/flutter/flutter/pull/176991) opened on on October 14, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/176991) 324 additions and 71 deletions in 5 files</sub><br />
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
   <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
 
@@ -141,5 +138,5 @@
   <sub>[#177401](https://github.com/flutter/flutter/pull/177401) opened on on October 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177401) 79 additions and 1 deletion in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bump Templates To Correct Versions<br />
-  <sub>[#177416](https://github.com/flutter/flutter/pull/177416) opened on on October 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177416) 9 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#177416](https://github.com/flutter/flutter/pull/177416) opened on on October 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177416) 11 additions and 9 deletions in 3 files</sub><br />
 
