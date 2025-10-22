@@ -719,7 +719,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-7 commits.
+8 commits.
 
 * **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] expand supported versions of analyzer, build and source_gen
   <sub>[#10078](https://github.com/flutter/packages/pull/10078) merged on October 21, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10078) over 3 weeks, 42 additions and 23 deletions in 4 files</sub>
@@ -740,6 +740,10 @@
 * **[Flop](https://github.com/hgraceb)** &mdash; [image_picker] Fix typos in error messages for android
   <sub>[#10188](https://github.com/flutter/packages/pull/10188) merged on October 22, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/10188) over 2 weeks, 72 additions and 17 deletions in 5 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci]Adds mechanism for packages to opt in to batched release
+  <sub>[#10237](https://github.com/flutter/packages/pull/10237) merged on October 22, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10237) over 6 days, 192 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [tool] Change gradle-check logic to enforce alignment of java versions and a minimum (17)
   <sub>[#10206](https://github.com/flutter/packages/pull/10206) merged on October 22, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10206) over 1 week, 151 additions and 17 deletions in 2 files</sub>
