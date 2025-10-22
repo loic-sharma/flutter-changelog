@@ -140,6 +140,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][CP-stable] Fix crash when NSAttributedString is passed to insertText on macOS<br />
   <sub>[#177401](https://github.com/flutter/flutter/pull/177401) opened on on October 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177401) 79 additions and 1 deletion in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds cache extent type to two_dimentional_viewport<br />
-  <sub>[#177411](https://github.com/flutter/flutter/pull/177411) opened on on October 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177411) 17 additions and 0 deletions in 1 file</sub><br />
-
