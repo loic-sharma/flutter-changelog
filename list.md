@@ -826,7 +826,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Fix typo in proxy config docs
-  <sub>[#12576](https://github.com/flutter/website/pull/12576) merged on October 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12576) over 20 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>[#12576](https://github.com/flutter/website/pull/12576) merged on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12576) over 20 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fixes a bad link in UIScene migration guide
