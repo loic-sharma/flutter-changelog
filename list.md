@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-31 commits.
+32 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub>
@@ -65,6 +65,10 @@
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to pass in texture type while creating textures.
   <sub>[#175376](https://github.com/flutter/flutter/pull/175376) merged on October 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175376) over 1 month, 58 additions and 2 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add the paint color to the key of the text shadow cache
+  <sub>[#177140](https://github.com/flutter/flutter/pull/177140) merged on October 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177140) over 5 days, 52 additions and 6 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll reclient to version 185
   <sub>[#177293](https://github.com/flutter/flutter/pull/177293) merged on October 22, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177293) over 1 day, 53 additions and 13 deletions in 3 files</sub>
@@ -823,7 +827,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-9 commits.
+10 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Refactor Mockito example
   <sub>[#12558](https://github.com/flutter/website/pull/12558) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12558) over 4 days, 28 additions and 18 deletions in 3 files</sub>
@@ -844,6 +848,10 @@
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Fix link to Flutter's build modes documentation
   <sub>[#12571](https://github.com/flutter/website/pull/12571) merged on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12571) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[hhh](https://github.com/huanghui1998hhh)** &mdash; Add `/go/go-router-v17-breaking-changes` redirect to `firebase.json`
+  <sub>[#12584](https://github.com/flutter/website/pull/12584) merged on October 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12584) over 8 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Update firebase.json with design doc for Dart Oriented Flutter Plugin
   <sub>[#12581](https://github.com/flutter/website/pull/12581) merged on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12581) over 2 hours, 2 additions and 1 deletion in 1 file</sub>
