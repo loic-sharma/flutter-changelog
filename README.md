@@ -695,7 +695,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-4 commits.
+5 commits.
 
 * **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] expand supported versions of analyzer, build and source_gen<br />
   <sub>[#10078](https://github.com/flutter/packages/pull/10078) merged on October 21, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10078) over 3 weeks, 42 additions and 23 deletions in 4 files</sub><br />
@@ -704,6 +704,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 1<br />
   <sub>[#10119](https://github.com/flutter/packages/pull/10119) merged on October 21, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/10119) over 3 weeks, 347 additions and 568 deletions in 29 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[David Martos](https://github.com/davidmartos96)** &mdash; [mustache_template] Emoji support<br />
+  <sub>[#10110](https://github.com/flutter/packages/pull/10110) merged on October 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10110) over 3 weeks, 23 additions and 5 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Flop](https://github.com/hgraceb)** &mdash; [image_picker] Fix typos in error messages for android<br />
   <sub>[#10188](https://github.com/flutter/packages/pull/10188) merged on October 22, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/10188) over 2 weeks, 72 additions and 17 deletions in 5 files</sub><br />
