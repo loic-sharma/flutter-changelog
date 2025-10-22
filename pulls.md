@@ -123,7 +123,7 @@
   <sub>[#177220](https://github.com/flutter/flutter/pull/177220) opened on on October 19, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177220) 484 additions and 0 deletions in 4 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adds a new CI build for Linux host DDM-enabled artifacts<br />
-  <sub>[#177252](https://github.com/flutter/flutter/pull/177252) opened on on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177252) 77 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#177252](https://github.com/flutter/flutter/pull/177252) opened on on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177252) 77 additions and 0 deletions in 2 files</sub><br />
 
 * **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
   <sub>[#177274](https://github.com/flutter/flutter/pull/177274) opened on on October 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177274) 12 additions and 12 deletions in 1 file</sub><br />
