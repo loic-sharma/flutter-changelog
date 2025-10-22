@@ -146,3 +146,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PaginatedDataTable doesn't crash in 0x0 environment<br />
   <sub>[#177389](https://github.com/flutter/flutter/pull/177389) opened on on October 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177389) 20 additions and 0 deletions in 1 file</sub><br />
 
+* **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
+  <sub>[#177397](https://github.com/flutter/flutter/pull/177397) opened on on October 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177397) 15 additions and 13 deletions in 1 file</sub><br />
+
