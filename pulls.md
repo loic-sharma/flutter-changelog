@@ -138,5 +138,5 @@
   <sub>[#177401](https://github.com/flutter/flutter/pull/177401) opened on on October 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177401) 79 additions and 1 deletion in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Re-land] Update `android_engine_vulkan_tests` to test against AVD 36         <br />
-  <sub>[#177422](https://github.com/flutter/flutter/pull/177422) opened on on October 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177422) 4 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#177422](https://github.com/flutter/flutter/pull/177422) opened on on October 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177422) 4 additions and 7 deletions in 1 file</sub><br />
 
