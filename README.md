@@ -4,7 +4,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-27 commits.
+28 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.decorationBuilder<br />
   <sub>[#176264](https://github.com/flutter/flutter/pull/176264) merged on October 20, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/176264) over 2 weeks, 296 additions and 43 deletions in 2 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix autofill context cleanup and view lifecycle management<br />
   <sub>[#173598](https://github.com/flutter/flutter/pull/173598) merged on October 20, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/173598) over 2 months, 138 additions and 24 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[emakar](https://github.com/emakar)** &mdash; don't break sheet's snap from physics<br />
+  <sub>[#171157](https://github.com/flutter/flutter/pull/171157) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/171157) over 3 months, 81 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix ink features painting in YearPicker.<br />
   <sub>[#177014](https://github.com/flutter/flutter/pull/177014) merged on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177014) over 6 days, 46 additions and 8 deletions in 2 files</sub><br />
