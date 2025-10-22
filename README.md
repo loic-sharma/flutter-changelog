@@ -719,7 +719,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-8 commits.
+9 commits.
 
 * **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] expand supported versions of analyzer, build and source_gen<br />
   <sub>[#10078](https://github.com/flutter/packages/pull/10078) merged on October 21, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10078) over 3 weeks, 42 additions and 23 deletions in 4 files</sub><br />
@@ -748,6 +748,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [tool] Change gradle-check logic to enforce alignment of java versions and a minimum (17)<br />
   <sub>[#10206](https://github.com/flutter/packages/pull/10206) merged on October 22, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10206) over 1 week, 151 additions and 17 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [go_router_builder] Ignore experimental features<br />
+  <sub>[#10275](https://github.com/flutter/packages/pull/10275) merged on October 22, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10275) over 19 hours, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Paul Berry](https://github.com/stereotype441), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Flop](https://github.com/hgraceb)** &mdash; [image_picker] Fix typos in error messages for platform interface<br />
   <sub>[#10211](https://github.com/flutter/packages/pull/10211) merged on October 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10211) over 1 week, 70 additions and 19 deletions in 7 files</sub><br />
