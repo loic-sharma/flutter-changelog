@@ -137,3 +137,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuDivider doesn't crash in 0x0 environment<br />
   <sub>[#177445](https://github.com/flutter/flutter/pull/177445) opened on on October 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177445) 9 additions and 0 deletions in 1 file</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DDM] enable host builds in the merge queue<br />
+  <sub>[#177446](https://github.com/flutter/flutter/pull/177446) opened on on October 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177446) 1 addition and 2 deletions in 1 file</sub><br />
+
