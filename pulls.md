@@ -140,3 +140,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DDM] enable host builds in the merge queue<br />
   <sub>[#177446](https://github.com/flutter/flutter/pull/177446) opened on on October 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177446) 1 addition and 2 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix default value for DateRangePickerDialog currentDate<br />
+  <sub>[#177448](https://github.com/flutter/flutter/pull/177448) opened on on October 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177448) 28 additions and 4 deletions in 2 files</sub><br />
+
