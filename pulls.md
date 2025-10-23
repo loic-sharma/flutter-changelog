@@ -134,3 +134,6 @@
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation<br />
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) opened on on October 23, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/177437) 320 additions and 0 deletions in 4 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuDivider doesn't crash in 0x0 environment<br />
+  <sub>[#177445](https://github.com/flutter/flutter/pull/177445) opened on on October 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177445) 9 additions and 0 deletions in 1 file</sub><br />
+
