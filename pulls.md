@@ -146,9 +146,6 @@
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Visual Studio 2026<br />
   <sub>[#177458](https://github.com/flutter/flutter/pull/177458) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177458) 34 additions and 0 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [WIP] test pr<br />
-  <sub>[#177459](https://github.com/flutter/flutter/pull/177459) opened on on October 23, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177459) 926 additions and 55 deletions in 14 files</sub><br />
-
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy png encoding/decoding in skp<br />
   <sub>[#177462](https://github.com/flutter/flutter/pull/177462) opened on on October 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177462) 3 additions and 0 deletions in 1 file</sub><br />
 
