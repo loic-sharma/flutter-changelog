@@ -146,3 +146,6 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy png encoding/decoding in skp<br />
   <sub>[#177462](https://github.com/flutter/flutter/pull/177462) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177462) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces<br />
+  <sub>[#177470](https://github.com/flutter/flutter/pull/177470) opened on on October 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177470) 123 additions and 30 deletions in 9 files</sub><br />
+
