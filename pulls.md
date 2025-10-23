@@ -104,9 +104,6 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state<br />
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) opened on on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) 73 additions and 42 deletions in 1 file</sub><br />
 
-* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [beta] CP: Fixes hot reload/restart crashes after closing browser tab on web-server device<br />
-  <sub>[#177280](https://github.com/flutter/flutter/pull/177280) opened on on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177280) 192 additions and 75 deletions in 11 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Configure FfiNative resolver on dart:io<br />
   <sub>[#177308](https://github.com/flutter/flutter/pull/177308) opened on on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177308) 3 additions and 0 deletions in 1 file</sub><br />
 
