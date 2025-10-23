@@ -132,5 +132,5 @@
   <sub>[#177422](https://github.com/flutter/flutter/pull/177422) opened on on October 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177422) 4 additions and 7 deletions in 1 file</sub><br />
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation<br />
-  <sub>[#177437](https://github.com/flutter/flutter/pull/177437) opened on on October 23, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/177437) 305 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#177437](https://github.com/flutter/flutter/pull/177437) opened on on October 23, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/177437) 320 additions and 0 deletions in 4 files</sub><br />
 
