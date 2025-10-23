@@ -137,3 +137,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Re-land] Update `android_engine_vulkan_tests` to test against AVD 36         <br />
   <sub>[#177422](https://github.com/flutter/flutter/pull/177422) opened on on October 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177422) 4 additions and 7 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix accessibility events not being correctly translated to ATK<br />
+  <sub>[#177427](https://github.com/flutter/flutter/pull/177427) opened on on October 23, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/177427) 324 additions and 71 deletions in 5 files</sub><br />
+
