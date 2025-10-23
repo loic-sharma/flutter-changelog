@@ -143,7 +143,7 @@
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [beta] CP: Fixes hot reload/restart crashes after closing browser tab on web-server device<br />
   <sub>[#177456](https://github.com/flutter/flutter/pull/177456) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177456) 133 additions and 22 deletions in 5 files</sub><br />
 
-* **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Visual Studio 2022<br />
+* **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Visual Studio 2026<br />
   <sub>[#177458](https://github.com/flutter/flutter/pull/177458) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177458) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [WIP] test pr<br />
