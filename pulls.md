@@ -104,9 +104,6 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state<br />
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) opened on on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) 73 additions and 42 deletions in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adds a new CI build for Linux host DDM-enabled artifacts<br />
-  <sub>[#177252](https://github.com/flutter/flutter/pull/177252) opened on on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177252) 77 additions and 0 deletions in 2 files</sub><br />
-
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [beta] CP: Fixes hot reload/restart crashes after closing browser tab on web-server device<br />
   <sub>[#177280](https://github.com/flutter/flutter/pull/177280) opened on on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177280) 192 additions and 75 deletions in 11 files</sub><br />
 
