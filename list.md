@@ -875,7 +875,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-10 commits.
+11 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Refactor Mockito example
   <sub>[#12558](https://github.com/flutter/website/pull/12558) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12558) over 4 days, 28 additions and 18 deletions in 3 files</sub>
@@ -884,6 +884,10 @@
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Update platform-channels.md to remove 'dart:html' reference
   <sub>[#12579](https://github.com/flutter/website/pull/12579) merged on October 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12579) over 5 hours, 1 addition and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove the link to the Q4 survey from the banner
+  <sub>[#12589](https://github.com/flutter/website/pull/12589) merged on October 23, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12589) over 6 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made sure to mention ClipRect's interaction with BackdropFilter after user feedback
   <sub>[#12563](https://github.com/flutter/website/pull/12563) merged on October 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12563) over 3 days, 10 additions and 5 deletions in 1 file</sub>
