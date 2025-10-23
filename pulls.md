@@ -75,7 +75,7 @@
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176825) 124 additions and 18 deletions in 2 files</sub><br />
 
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
-  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176832) 13 additions and 19 deletions in 1 file</sub><br />
+  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176832) 13 additions and 19 deletions in 1 file</sub><br />
 
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
