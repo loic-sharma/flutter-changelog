@@ -147,5 +147,5 @@
   <sub>[#177458](https://github.com/flutter/flutter/pull/177458) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177458) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy png encoding/decoding in skp<br />
-  <sub>[#177462](https://github.com/flutter/flutter/pull/177462) opened on on October 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177462) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#177462](https://github.com/flutter/flutter/pull/177462) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177462) 3 additions and 0 deletions in 1 file</sub><br />
 
