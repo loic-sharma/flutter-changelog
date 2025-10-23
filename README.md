@@ -22,6 +22,10 @@
   <sub>[#171157](https://github.com/flutter/flutter/pull/171157) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/171157) over 3 months, 81 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets<br />
+  <sub>[#177080](https://github.com/flutter/flutter/pull/177080) merged on October 22, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/177080) over 6 days, 366 additions and 229 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix ink features painting in YearPicker.<br />
   <sub>[#177014](https://github.com/flutter/flutter/pull/177014) merged on October 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177014) over 6 days, 46 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
@@ -37,10 +41,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix accessibility events not being correctly translated to ATK<br />
   <sub>[#176991](https://github.com/flutter/flutter/pull/176991) merged on October 22, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176991) over 1 week, 324 additions and 71 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Android treats link without URL semantics node as button<br />
-  <sub>[#176959](https://github.com/flutter/flutter/pull/176959) merged on October 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176959) over 1 week, 28 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDatePickerFormField does not inherit local InputDecorationTheme<br />
   <sub>[#177090](https://github.com/flutter/flutter/pull/177090) merged on October 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177090) over 5 days, 24 additions and 2 deletions in 2 files</sub><br />
@@ -62,9 +62,9 @@
   <sub>[#177338](https://github.com/flutter/flutter/pull/177338) merged on October 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177338) over 1 day, 78 additions and 25 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets<br />
-  <sub>[#177080](https://github.com/flutter/flutter/pull/177080) merged on October 22, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/177080) over 6 days, 366 additions and 229 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Android treats link without URL semantics node as button<br />
+  <sub>[#176959](https://github.com/flutter/flutter/pull/176959) merged on October 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176959) over 1 week, 28 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon)</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Fixed hot reload/restart crashes after closing browser tab on web-server device<br />
   <sub>[#177026](https://github.com/flutter/flutter/pull/177026) merged on October 20, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/177026) over 5 days, 133 additions and 22 deletions in 5 files</sub><br />
@@ -761,6 +761,10 @@
   <sub>[#10110](https://github.com/flutter/packages/pull/10110) merged on October 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10110) over 3 weeks, 23 additions and 5 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [go_router_builder] Ignore experimental features<br />
+  <sub>[#10275](https://github.com/flutter/packages/pull/10275) merged on October 22, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10275) over 19 hours, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Paul Berry](https://github.com/stereotype441), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Flop](https://github.com/hgraceb)** &mdash; [image_picker] Fix typos in error messages for android<br />
   <sub>[#10188](https://github.com/flutter/packages/pull/10188) merged on October 22, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/10188) over 2 weeks, 72 additions and 17 deletions in 5 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
@@ -772,10 +776,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [tool] Change gradle-check logic to enforce alignment of java versions and a minimum (17)<br />
   <sub>[#10206](https://github.com/flutter/packages/pull/10206) merged on October 22, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10206) over 1 week, 151 additions and 17 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [go_router_builder] Ignore experimental features<br />
-  <sub>[#10275](https://github.com/flutter/packages/pull/10275) merged on October 22, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10275) over 19 hours, 2 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Paul Berry](https://github.com/stereotype441), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Flop](https://github.com/hgraceb)** &mdash; [image_picker] Fix typos in error messages for platform interface<br />
   <sub>[#10211](https://github.com/flutter/packages/pull/10211) merged on October 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10211) over 1 week, 70 additions and 19 deletions in 7 files</sub><br />
