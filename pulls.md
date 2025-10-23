@@ -111,7 +111,7 @@
   <sub>[#177340](https://github.com/flutter/flutter/pull/177340) opened on on October 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177340) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use SkPathBuilder because SkPath is becoming immutable<br />
-  <sub>[#177343](https://github.com/flutter/flutter/pull/177343) opened on on October 21, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/177343) 203 additions and 134 deletions in 7 files</sub><br />
+  <sub>[#177343](https://github.com/flutter/flutter/pull/177343) opened on on October 21, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/177343) 224 additions and 133 deletions in 7 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Changes default cache extent for scrollable<br />
   <sub>[#177351](https://github.com/flutter/flutter/pull/177351) opened on on October 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177351) 45 additions and 21 deletions in 5 files</sub><br />
@@ -139,4 +139,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu filtering is broken<br />
   <sub>[#177450](https://github.com/flutter/flutter/pull/177450) opened on on October 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177450) 44 additions and 199 deletions in 2 files</sub><br />
+
+* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [beta] CP: Fixes hot reload/restart crashes after closing browser tab on web-server device<br />
+  <sub>[#177456](https://github.com/flutter/flutter/pull/177456) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177456) 133 additions and 22 deletions in 5 files</sub><br />
 
