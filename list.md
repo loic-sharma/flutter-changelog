@@ -7,7 +7,7 @@
 45 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add directional static members to AlignmentGeometry.
-  <sub>[#176571](https://github.com/flutter/flutter/pull/176571) merged on October 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/176571) over 2 weeks, 68 additions and 0 deletions in 2 files</sub>
+  <sub>[#176571](https://github.com/flutter/flutter/pull/176571) merged on October 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/176571) over 2 weeks, 68 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window
