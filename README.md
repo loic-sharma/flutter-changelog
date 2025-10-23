@@ -175,7 +175,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Enhance PR template with changelog and impact details<br />
-  <sub>[#177333](https://github.com/flutter/flutter/pull/177333) merged on October 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177333) over 1 day, 15 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#177333](https://github.com/flutter/flutter/pull/177333) merged on October 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177333) over 1 day, 15 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Fix Image.network not using cache when headers are specified<br />
