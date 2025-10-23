@@ -101,9 +101,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html<br />
   <sub>[#177084](https://github.com/flutter/flutter/pull/177084) opened on on October 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177084) 8 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the x64 version of build_ios_framework_module_test<br />
-  <sub>[#177136](https://github.com/flutter/flutter/pull/177136) opened on on October 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177136) 0 additions and 22 deletions in 1 file</sub><br />
-
 * **[E-BlackTV](https://github.com/E-BlackTV)** &mdash; Add headers to proxy rules #173434<br />
   <sub>[#177176](https://github.com/flutter/flutter/pull/177176) opened on on October 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177176) 165 additions and 11 deletions in 3 files</sub><br />
 
