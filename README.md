@@ -655,7 +655,7 @@
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Output `app.dtd` and `app.devTools` in machine mode<br />
-  <sub>[#176655](https://github.com/flutter/flutter/pull/176655) merged on October 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176655) over 4 hours, 189 additions and 49 deletions in 9 files</sub><br />
+  <sub>[#176655](https://github.com/flutter/flutter/pull/176655) merged on October 7, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/176655) over 4 hours, 189 additions and 49 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG` to include 3.35.6 notes<br />
@@ -903,7 +903,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-11 commits.
+12 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Refactor Mockito example<br />
   <sub>[#12558](https://github.com/flutter/website/pull/12558) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12558) over 4 days, 28 additions and 18 deletions in 3 files</sub><br />
@@ -927,6 +927,10 @@
 
 * **[Tirth Patel](https://github.com/tirth-patel-nc)** &mdash; Fix link to Flutter's build modes documentation<br />
   <sub>[#12571](https://github.com/flutter/website/pull/12571) merged on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12571) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add additional instructions to UIScene Migration<br />
+  <sub>[#12592](https://github.com/flutter/website/pull/12592) merged on October 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12592) over 1 hour, 67 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; Add `/go/go-router-v17-breaking-changes` redirect to `firebase.json`<br />
