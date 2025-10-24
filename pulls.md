@@ -152,3 +152,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Fix missing list indicators in CHANGELOG.md<br />
   <sub>[#177484](https://github.com/flutter/flutter/pull/177484) opened on on October 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177484) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Document DropdownMenu showTrailingIcon and decorationBuilder interaction<br />
+  <sub>[#177488](https://github.com/flutter/flutter/pull/177488) opened on on October 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177488) 4 additions and 1 deletion in 1 file</sub><br />
+
