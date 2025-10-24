@@ -6,6 +6,10 @@
 
 57 commits.
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window
+  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) merged on October 23, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176361) over 3 weeks, 3142 additions and 87 deletions in 46 files</sub>
+  <sub>Reviewed by: [Michał Sawicz](https://github.com/Saviq), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add directional static members to AlignmentGeometry.
   <sub>[#176571](https://github.com/flutter/flutter/pull/176571) merged on October 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/176571) over 2 weeks, 68 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
@@ -13,10 +17,6 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Implements engine-side declarative pointer event handling for semantics.
   <sub>[#176974](https://github.com/flutter/flutter/pull/176974) merged on October 23, 2025 &mdash; **Medium:** [66 comments](https://github.com/flutter/flutter/pull/176974) over 1 week, 376 additions and 15 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window
-  <sub>[#176361](https://github.com/flutter/flutter/pull/176361) merged on October 23, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176361) over 3 weeks, 3142 additions and 87 deletions in 46 files</sub>
-  <sub>Reviewed by: [Michał Sawicz](https://github.com/Saviq), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Material] Change default mouse cursor of buttons to basic arrow instead of click (except on web)
   <sub>[#171796](https://github.com/flutter/flutter/pull/171796) merged on October 23, 2025 &mdash; **Large:** [36 comments](https://github.com/flutter/flutter/pull/171796) over 3 months, 1067 additions and 198 deletions in 50 files</sub>
