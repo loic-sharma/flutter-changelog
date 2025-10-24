@@ -155,3 +155,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Document DropdownMenu showTrailingIcon and decorationBuilder interaction<br />
   <sub>[#177488](https://github.com/flutter/flutter/pull/177488) opened on on October 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177488) 4 additions and 1 deletion in 1 file</sub><br />
 
+* **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add assertion to Navigator.pop when stack is empty to improve developer experience<br />
+  <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177491) 91 additions and 22 deletions in 2 files</sub><br />
+
