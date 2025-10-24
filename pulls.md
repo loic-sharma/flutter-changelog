@@ -158,3 +158,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuButton doesn't crash in 0x0 environment<br />
   <sub>[#177493](https://github.com/flutter/flutter/pull/177493) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177493) 19 additions and 0 deletions in 1 file</sub><br />
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Push flutter checkout one level down<br />
+  <sub>[#177503](https://github.com/flutter/flutter/pull/177503) opened on on October 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177503) 133 additions and 133 deletions in 3 files</sub><br />
+

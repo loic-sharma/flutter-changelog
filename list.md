@@ -811,7 +811,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-12 commits.
+13 commits.
 
 * **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] expand supported versions of analyzer, build and source_gen
   <sub>[#10078](https://github.com/flutter/packages/pull/10078) merged on October 21, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10078) over 3 weeks, 42 additions and 23 deletions in 4 files</sub>
@@ -826,8 +826,8 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[alexskobozev](https://github.com/alexskobozev)** &mdash; [various] Migrate example Radio groups to new RadioGroup API
-  <sub>[#10155](https://github.com/flutter/packages/pull/10155) merged on October 22, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/10155) over 3 weeks, 132 additions and 124 deletions in 18 files</sub>
-  <sub>Reviewed by: [Eugene Kuleshov](https://github.com/ekuleshov), [Kate Lovett](https://github.com/Piinks), [Alexander Kobozev](https://github.com/alex-kobozev-talabat), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub>[#10155](https://github.com/flutter/packages/pull/10155) merged on October 22, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/10155) over 3 weeks, 132 additions and 124 deletions in 18 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Eugene Kuleshov](https://github.com/ekuleshov), [Kate Lovett](https://github.com/Piinks), [Alexander Kobozev](https://github.com/alex-kobozev-talabat), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 1
   <sub>[#10119](https://github.com/flutter/packages/pull/10119) merged on October 21, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/10119) over 3 weeks, 347 additions and 568 deletions in 29 files</sub>
@@ -860,6 +860,10 @@
 * **[Flop](https://github.com/hgraceb)** &mdash; [image_picker] Fix typos in error messages for platform interface
   <sub>[#10211](https://github.com/flutter/packages/pull/10211) merged on October 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10211) over 1 week, 70 additions and 19 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 2
+  <sub>[#10284](https://github.com/flutter/packages/pull/10284) merged on October 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10284) over 22 hours, 81 additions and 107 deletions in 14 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 ### October 11, 2025 to October 17, 2025
 
