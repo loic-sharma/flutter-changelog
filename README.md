@@ -823,7 +823,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-14 commits.
+15 commits.
 
 * **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] expand supported versions of analyzer, build and source_gen<br />
   <sub>[#10078](https://github.com/flutter/packages/pull/10078) merged on October 21, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10078) over 3 weeks, 42 additions and 23 deletions in 4 files</sub><br />
@@ -872,6 +872,10 @@
 * **[Flop](https://github.com/hgraceb)** &mdash; [image_picker] Fix typos in error messages for platform interface<br />
   <sub>[#10211](https://github.com/flutter/packages/pull/10211) merged on October 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10211) over 1 week, 70 additions and 19 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Auto-add triage labels for engine and framework<br />
+  <sub>[#10295](https://github.com/flutter/packages/pull/10295) merged on October 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10295) over 6 hours, 27 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 2<br />
   <sub>[#10284](https://github.com/flutter/packages/pull/10284) merged on October 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10284) over 22 hours, 81 additions and 107 deletions in 14 files</sub><br />
