@@ -159,7 +159,7 @@
   <sub>[#177508](https://github.com/flutter/flutter/pull/177508) opened on on October 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177508) 122 additions and 45 deletions in 56 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed RuntimeEffect interaction with ImageFilter.compose<br />
-  <sub>[#177510](https://github.com/flutter/flutter/pull/177510) opened on on October 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177510) 208 additions and 5 deletions in 5 files</sub><br />
+  <sub>[#177510](https://github.com/flutter/flutter/pull/177510) opened on on October 24, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/177510) 208 additions and 5 deletions in 5 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section<br />
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177523) 87 additions and 63 deletions in 1 file</sub><br />
