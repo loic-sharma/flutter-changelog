@@ -146,9 +146,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make a11y `computeChildGeometry` slightly faster<br />
-  <sub>[#177477](https://github.com/flutter/flutter/pull/177477) opened on on October 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177477) 182 additions and 83 deletions in 5 files</sub><br />
-
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Fix missing list indicators in CHANGELOG.md<br />
   <sub>[#177484](https://github.com/flutter/flutter/pull/177484) opened on on October 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177484) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -162,5 +159,5 @@
   <sub>[#177503](https://github.com/flutter/flutter/pull/177503) opened on on October 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177503) 133 additions and 133 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed RuntimeEffect interaction with ImageFilter.compose<br />
-  <sub>[#177510](https://github.com/flutter/flutter/pull/177510) opened on on October 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177510) 170 additions and 5 deletions in 5 files</sub><br />
+  <sub>[#177510](https://github.com/flutter/flutter/pull/177510) opened on on October 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177510) 170 additions and 5 deletions in 5 files</sub><br />
 
