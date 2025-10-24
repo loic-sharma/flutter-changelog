@@ -811,7 +811,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-13 commits.
+14 commits.
 
 * **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] expand supported versions of analyzer, build and source_gen
   <sub>[#10078](https://github.com/flutter/packages/pull/10078) merged on October 21, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10078) over 3 weeks, 42 additions and 23 deletions in 4 files</sub>
@@ -864,6 +864,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 2
   <sub>[#10284](https://github.com/flutter/packages/pull/10284) merged on October 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10284) over 22 hours, 81 additions and 107 deletions in 14 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 9f455d2486bc to adc901062556 (4 revisions)
+  <sub>[#10292](https://github.com/flutter/packages/pull/10292) merged on October 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10292) over 50 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### October 11, 2025 to October 17, 2025
 
