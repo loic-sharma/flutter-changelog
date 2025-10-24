@@ -159,5 +159,5 @@
   <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177491) 92 additions and 21 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuButton doesn't crash in 0x0 environment<br />
-  <sub>[#177493](https://github.com/flutter/flutter/pull/177493) opened on on October 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177493) 19 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#177493](https://github.com/flutter/flutter/pull/177493) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177493) 19 additions and 0 deletions in 1 file</sub><br />
 
