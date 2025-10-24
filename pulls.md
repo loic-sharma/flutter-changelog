@@ -149,3 +149,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make a11y `computeChildGeometry` slightly faster<br />
   <sub>[#177477](https://github.com/flutter/flutter/pull/177477) opened on on October 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177477) 182 additions and 83 deletions in 5 files</sub><br />
 
+* **[Alex Li](https://github.com/AlexV525)** &mdash; Fix missing list indicators in CHANGELOG.md<br />
+  <sub>[#177484](https://github.com/flutter/flutter/pull/177484) opened on on October 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177484) 2 additions and 2 deletions in 1 file</sub><br />
+
