@@ -156,5 +156,5 @@
   <sub>[#177493](https://github.com/flutter/flutter/pull/177493) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177493) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed RuntimeEffect interaction with ImageFilter.compose<br />
-  <sub>[#177510](https://github.com/flutter/flutter/pull/177510) opened on on October 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177510) 170 additions and 5 deletions in 5 files</sub><br />
+  <sub>[#177510](https://github.com/flutter/flutter/pull/177510) opened on on October 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177510) 170 additions and 5 deletions in 5 files</sub><br />
 
