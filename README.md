@@ -822,8 +822,8 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[alexskobozev](https://github.com/alexskobozev)** &mdash; [various] Migrate example Radio groups to new RadioGroup API<br />
-  <sub>[#10155](https://github.com/flutter/packages/pull/10155) merged on October 22, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10155) over 3 weeks, 132 additions and 124 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Alexander Kobozev](https://github.com/alex-kobozev-talabat), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub>[#10155](https://github.com/flutter/packages/pull/10155) merged on October 22, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/10155) over 3 weeks, 132 additions and 124 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Eugene Kuleshov](https://github.com/ekuleshov), [Kate Lovett](https://github.com/Piinks), [Alexander Kobozev](https://github.com/alex-kobozev-talabat), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 1<br />
   <sub>[#10119](https://github.com/flutter/packages/pull/10119) merged on October 21, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/10119) over 3 weeks, 347 additions and 568 deletions in 29 files</sub><br />
