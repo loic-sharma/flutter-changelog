@@ -599,7 +599,7 @@
   <sub>Reviewed by: [Eric Boren](https://github.com/erock2112), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Keyboard Animation Fix
-  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) merged on October 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176418) over 5 days, 105 additions and 7 deletions in 2 files</sub>
+  <sub>[#176418](https://github.com/flutter/flutter/pull/176418) merged on October 8, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/176418) over 5 days, 105 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix RadioButton is not vocalized as unselected by VoiceOver
