@@ -134,9 +134,6 @@
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [beta] CP: Fixes hot reload/restart crashes after closing browser tab on web-server device<br />
   <sub>[#177456](https://github.com/flutter/flutter/pull/177456) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177456) 133 additions and 22 deletions in 5 files</sub><br />
 
-* **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Visual Studio 2026<br />
-  <sub>[#177458](https://github.com/flutter/flutter/pull/177458) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177458) 34 additions and 0 deletions in 2 files</sub><br />
-
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy png encoding/decoding in skp<br />
   <sub>[#177462](https://github.com/flutter/flutter/pull/177462) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177462) 3 additions and 0 deletions in 1 file</sub><br />
 
@@ -163,4 +160,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section<br />
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177523) 87 additions and 63 deletions in 1 file</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuItem doesn't crash in 0x0 environment<br />
+  <sub>[#177533](https://github.com/flutter/flutter/pull/177533) opened on on October 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177533) 13 additions and 0 deletions in 1 file</sub><br />
 
