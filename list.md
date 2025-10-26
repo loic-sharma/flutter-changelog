@@ -835,7 +835,7 @@
 
 ### October 18, 2025 to October 24, 2025
 
-15 commits.
+16 commits.
 
 * **[Omar Khaled](https://github.com/omar-hanafy)** &mdash; [go_router] Support for top level `onEnter` callback.
   <sub>[#8339](https://github.com/flutter/packages/pull/8339) merged on October 22, 2025 &mdash; **Extra large:** [187 comments](https://github.com/flutter/packages/pull/8339) over 10 months, 2799 additions and 223 deletions in 10 files</sub>
@@ -883,6 +883,10 @@
 
 * **[Flop](https://github.com/hgraceb)** &mdash; [image_picker] Fix typos in error messages for platform interface
   <sub>[#10211](https://github.com/flutter/packages/pull/10211) merged on October 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10211) over 1 week, 70 additions and 19 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add validation of auto-labeler
+  <sub>[#10300](https://github.com/flutter/packages/pull/10300) merged on October 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10300) over 1 day, 181 additions and 77 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Auto-add triage labels for engine and framework
