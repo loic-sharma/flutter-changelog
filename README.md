@@ -837,13 +837,13 @@
 
 15 commits.
 
-* **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] expand supported versions of analyzer, build and source_gen<br />
-  <sub>[#10078](https://github.com/flutter/packages/pull/10078) merged on October 21, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10078) over 3 weeks, 42 additions and 23 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Omar Khaled](https://github.com/omar-hanafy)** &mdash; [go_router] Support for top level `onEnter` callback.<br />
   <sub>[#8339](https://github.com/flutter/packages/pull/8339) merged on October 22, 2025 &mdash; **Extra large:** [187 comments](https://github.com/flutter/packages/pull/8339) over 10 months, 2799 additions and 223 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Sebastien Delaherche](https://github.com/mew22), [August](https://github.com/Gustl22), [cedvdb](https://github.com/cedvdb), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/packages/pull/8339)</sub><br />
+
+* **[Ernesto Ramirez](https://github.com/NearTox)** &mdash; [go_router_builder] expand supported versions of analyzer, build and source_gen<br />
+  <sub>[#10078](https://github.com/flutter/packages/pull/10078) merged on October 21, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10078) over 3 weeks, 42 additions and 23 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Modify plugin to assume mp4 format for captured videos<br />
   <sub>[#10273](https://github.com/flutter/packages/pull/10273) merged on October 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10273) over 2 days, 29 additions and 25 deletions in 4 files</sub><br />
