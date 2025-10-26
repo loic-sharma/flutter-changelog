@@ -170,3 +170,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a GridTileBar doesn't crash in 0x0 environment<br />
   <sub>[#177546](https://github.com/flutter/flutter/pull/177546) opened on on October 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177546) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LinearProgressIndicator doesn't crash in 0x0 environ…<br />
+  <sub>[#177553](https://github.com/flutter/flutter/pull/177553) opened on on October 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177553) 9 additions and 0 deletions in 1 file</sub><br />
+
