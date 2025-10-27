@@ -113,9 +113,6 @@
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation<br />
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) opened on on October 23, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/177437) 320 additions and 0 deletions in 4 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DDM] enable host builds in the merge queue<br />
-  <sub>[#177446](https://github.com/flutter/flutter/pull/177446) opened on on October 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177446) 1 addition and 2 deletions in 1 file</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
@@ -145,4 +142,7 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Regenerated lockfiles for New Template Values<br />
   <sub>[#177617](https://github.com/flutter/flutter/pull/177617) opened on on October 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/177617) 2410 additions and 2324 deletions in 96 files</sub><br />
+
+* **[Safwen Barhoumi](https://github.com/safwenbarhoumi)** &mdash; Enhance error handling in setState method<br />
+  <sub>[#177619](https://github.com/flutter/flutter/pull/177619) opened on on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177619) 76 additions and 61 deletions in 1 file</sub><br />
 
