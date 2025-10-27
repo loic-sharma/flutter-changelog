@@ -179,9 +179,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RefreshProgressIndicator doesn't crash in 0x0 enviro…<br />
   <sub>[#177556](https://github.com/flutter/flutter/pull/177556) opened on on October 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177556) 9 additions and 0 deletions in 1 file</sub><br />
 
-* **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; Fix cubic subdivision estimation using correct Wang’s formula<br />
-  <sub>[#177566](https://github.com/flutter/flutter/pull/177566) opened on on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177566) 31 additions and 8 deletions in 4 files</sub><br />
-
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
   <sub>[#177570](https://github.com/flutter/flutter/pull/177570) opened on on October 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177570) 46 additions and 2 deletions in 5 files</sub><br />
 
