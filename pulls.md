@@ -144,5 +144,5 @@
   <sub>[#177619](https://github.com/flutter/flutter/pull/177619) opened on on October 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177619) 76 additions and 62 deletions in 1 file</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix for PR #174374 - Fix - TalkBack does not announce list information<br />
-  <sub>[#177622](https://github.com/flutter/flutter/pull/177622) opened on on October 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177622) 186 additions and 46 deletions in 2 files</sub><br />
+  <sub>[#177622](https://github.com/flutter/flutter/pull/177622) opened on on October 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177622) 186 additions and 46 deletions in 2 files</sub><br />
 
