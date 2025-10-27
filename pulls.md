@@ -140,9 +140,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix FilledButton.icon and FilledButton.tonalIcon break focus traversal and VoiceOver<br />
   <sub>[#177593](https://github.com/flutter/flutter/pull/177593) opened on on October 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177593) 247 additions and 168 deletions in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated withOpacity in `radio.1.dart` example<br />
-  <sub>[#177606](https://github.com/flutter/flutter/pull/177606) opened on on October 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177606) 4 additions and 4 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add guided error for precompiled cache error<br />
   <sub>[#177607](https://github.com/flutter/flutter/pull/177607) opened on on October 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177607) 70 additions and 0 deletions in 2 files</sub><br />
 
