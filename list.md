@@ -4,7 +4,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-14 commits.
+15 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set the font weight variation axis based on the text style's FontWeight
   <sub>[#175771](https://github.com/flutter/flutter/pull/175771) merged on October 27, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/175771) over 1 month, 304 additions and 169 deletions in 17 files</sub>
@@ -17,6 +17,11 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add gn flag to optimize builds for size
   <sub>[#176835](https://github.com/flutter/flutter/pull/176835) merged on October 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176835) over 2 weeks, 24 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct editable text and placeholder position in baseline aligned stack
+  <sub>[#177342](https://github.com/flutter/flutter/pull/177342) merged on October 27, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177342) over 6 days, 87 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Justin McCandless](https://github.com/justinmc)</sub>
+  <sub><details><summary>4 images...</summary><img width="436" height="327" alt="top b4" src="https://github.com/user-attachments/assets/39606c72-fb1f-4619-bfb2-ccaeaf502324" /><img width="436" height="327" alt="top" src="https://github.com/user-attachments/assets/faea26fc-c934-4660-bbee-e62effa44599" /><img width="436" height="327" alt="center" src="https://github.com/user-attachments/assets/2ee7004a-6f70-4af2-b33b-76293c8deac1" /><img width="436" height="327" alt="bottom" src="https://github.com/user-attachments/assets/69ba89fb-9f1c-456e-9889-216eb31d66b9" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in comment about `manifestFile` in `DeepLinkJsonFromManifestTaskHelper.kt‎`
   <sub>[#177538](https://github.com/flutter/flutter/pull/177538) merged on October 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177538) over 2 days, 1 addition and 1 deletion in 1 file</sub>
@@ -731,11 +736,15 @@
 
 ### October 25, 2025 to October 31, 2025
 
-4 commits.
+5 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update plugin migration instructions
   <sub>[#12591](https://github.com/flutter/website/pull/12591) merged on October 27, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12591) over 3 days, 134 additions and 118 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update horizontal list recipe
+  <sub>[#12599](https://github.com/flutter/website/pull/12599) merged on October 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12599) over 13 minutes, 41 additions and 46 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Format Dart code sample
   <sub>[#12595](https://github.com/flutter/website/pull/12595) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12595) over 2 days, 2 additions and 1 deletion in 1 file</sub>
