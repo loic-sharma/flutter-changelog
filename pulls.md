@@ -138,7 +138,7 @@
   <sub>[#177462](https://github.com/flutter/flutter/pull/177462) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177462) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces<br />
-  <sub>[#177470](https://github.com/flutter/flutter/pull/177470) opened on on October 23, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177470) 304 additions and 284 deletions in 23 files</sub><br />
+  <sub>[#177470](https://github.com/flutter/flutter/pull/177470) opened on on October 23, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177470) 304 additions and 284 deletions in 23 files</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
