@@ -140,32 +140,8 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section<br />
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177523) 87 additions and 63 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuItem doesn't crash in 0x0 environment<br />
-  <sub>[#177533](https://github.com/flutter/flutter/pull/177533) opened on on October 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177533) 13 additions and 0 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `interactive_viewer.constrained.0.dart`<br />
-  <sub>[#177540](https://github.com/flutter/flutter/pull/177540) opened on on October 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177540) 3 additions and 1 deletion in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `interactive_viewer.builder.0.dart`<br />
-  <sub>[#177541](https://github.com/flutter/flutter/pull/177541) opened on on October 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177541) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `focus_scope.0.dart‎` example <br />
   <sub>[#177542](https://github.com/flutter/flutter/pull/177542) opened on on October 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177542) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CheckedPopupMenuItem doesn't crash in 0x0 environment<br />
-  <sub>[#177545](https://github.com/flutter/flutter/pull/177545) opened on on October 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177545) 13 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a GridTileBar doesn't crash in 0x0 environment<br />
-  <sub>[#177546](https://github.com/flutter/flutter/pull/177546) opened on on October 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177546) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LinearProgressIndicator doesn't crash in 0x0 environ…<br />
-  <sub>[#177553](https://github.com/flutter/flutter/pull/177553) opened on on October 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177553) 9 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CircularProgressIndicator doesn't crash in 0x0 envir…<br />
-  <sub>[#177555](https://github.com/flutter/flutter/pull/177555) opened on on October 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177555) 9 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RefreshProgressIndicator doesn't crash in 0x0 enviro…<br />
-  <sub>[#177556](https://github.com/flutter/flutter/pull/177556) opened on on October 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177556) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
   <sub>[#177570](https://github.com/flutter/flutter/pull/177570) opened on on October 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177570) 46 additions and 2 deletions in 5 files</sub><br />
@@ -173,14 +149,8 @@
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
   <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177572) 191 additions and 25 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RadioListTile doesn't crash in 0x0 environment<br />
-  <sub>[#177576](https://github.com/flutter/flutter/pull/177576) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177576) 11 additions and 0 deletions in 1 file</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix ElevatedButton.icon breaks focus traversal and VoiceOver when toggling icon<br />
   <sub>[#177579](https://github.com/flutter/flutter/pull/177579) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177579) 139 additions and 102 deletions in 3 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Radio doesn't crash in 0x0 environment<br />
-  <sub>[#177580](https://github.com/flutter/flutter/pull/177580) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177580) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll dartdoc to 9.0.0<br />
   <sub>[#177590](https://github.com/flutter/flutter/pull/177590) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177590) 1 addition and 1 deletion in 1 file</sub><br />
