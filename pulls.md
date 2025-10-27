@@ -99,7 +99,7 @@
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) opened on on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) 73 additions and 42 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Output DTD URI for Flutter web applications<br />
-  <sub>[#177321](https://github.com/flutter/flutter/pull/177321) opened on on October 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177321) 8 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#177321](https://github.com/flutter/flutter/pull/177321) opened on on October 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177321) 6 additions and 1 deletion in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Changes default cache extent for scrollable<br />
   <sub>[#177351](https://github.com/flutter/flutter/pull/177351) opened on on October 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177351) 45 additions and 21 deletions in 5 files</sub><br />

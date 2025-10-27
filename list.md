@@ -4,7 +4,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-6 commits.
+7 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in comment about `manifestFile` in `DeepLinkJsonFromManifestTaskHelper.kt‎`
   <sub>[#177538](https://github.com/flutter/flutter/pull/177538) merged on October 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177538) over 2 days, 1 addition and 1 deletion in 1 file</sub>
@@ -14,6 +14,10 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix RoundedSuperellipse crashes for tiny corners
   <sub>[#177070](https://github.com/flutter/flutter/pull/177070) merged on October 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177070) over 1 week, 83 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Clean before building when framework headers change
+  <sub>[#177512](https://github.com/flutter/flutter/pull/177512) merged on October 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/177512) over 2 days, 497 additions and 11 deletions in 5 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces
   <sub>[#177470](https://github.com/flutter/flutter/pull/177470) merged on October 27, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177470) over 3 days, 304 additions and 284 deletions in 23 files</sub>
