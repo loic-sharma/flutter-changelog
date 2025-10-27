@@ -4,7 +4,11 @@
 
 ### October 25, 2025 to October 31, 2025
 
-8 commits.
+9 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed `RuntimeEffect` with `ImageFilter.compose`
+  <sub>[#177510](https://github.com/flutter/flutter/pull/177510) merged on October 27, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/177510) over 3 days, 223 additions and 9 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix typo in comment about `manifestFile` in `DeepLinkJsonFromManifestTaskHelper.kt‎`
   <sub>[#177538](https://github.com/flutter/flutter/pull/177538) merged on October 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177538) over 2 days, 1 addition and 1 deletion in 1 file</sub>
