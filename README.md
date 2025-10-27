@@ -654,9 +654,18 @@
 
 ## flutter/website
 
+### October 25, 2025 to October 31, 2025
+
+1 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix broken list<br />
+  <sub>[#12594](https://github.com/flutter/website/pull/12594) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12594) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### October 18, 2025 to October 24, 2025
 
-12 commits.
+<details>
+<summary>12 commits...</summary>
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Refactor Mockito example<br />
   <sub>[#12558](https://github.com/flutter/website/pull/12558) merged on October 21, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12558) over 4 days, 28 additions and 18 deletions in 3 files</sub><br />
@@ -705,6 +714,8 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fixes a bad link in UIScene migration guide<br />
   <sub>[#12570](https://github.com/flutter/website/pull/12570) merged on October 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12570) over 1 hour, 9 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### October 11, 2025 to October 17, 2025
 
