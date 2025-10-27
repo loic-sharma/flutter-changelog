@@ -182,3 +182,6 @@
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; Fix cubic subdivision estimation using correct Wang’s formula<br />
   <sub>[#177566](https://github.com/flutter/flutter/pull/177566) opened on on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177566) 28 additions and 5 deletions in 3 files</sub><br />
 
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
+  <sub>[#177569](https://github.com/flutter/flutter/pull/177569) opened on on October 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177569) 434 additions and 17 deletions in 16 files</sub><br />
+
