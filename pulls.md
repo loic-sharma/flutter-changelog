@@ -207,5 +207,5 @@
   <sub>[#177587](https://github.com/flutter/flutter/pull/177587) opened on on October 27, 2025 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/177587) 5965 additions and 1694 deletions in 118 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll dartdoc to 9.0.0<br />
-  <sub>[#177590](https://github.com/flutter/flutter/pull/177590) opened on on October 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177590) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#177590](https://github.com/flutter/flutter/pull/177590) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177590) 1 addition and 1 deletion in 1 file</sub><br />
 
