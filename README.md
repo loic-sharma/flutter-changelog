@@ -4,7 +4,11 @@
 
 ### October 25, 2025 to October 31, 2025
 
-9 commits.
+10 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set the font weight variation axis based on the text style's FontWeight<br />
+  <sub>[#175771](https://github.com/flutter/flutter/pull/175771) merged on October 27, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/175771) over 1 month, 304 additions and 169 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed `RuntimeEffect` with `ImageFilter.compose`<br />
   <sub>[#177510](https://github.com/flutter/flutter/pull/177510) merged on October 27, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/177510) over 3 days, 223 additions and 9 deletions in 5 files</sub><br />
