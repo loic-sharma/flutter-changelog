@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### October 25, 2025 to October 31, 2025
+
+1 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add guided error for precompiled cache error<br />
+  <sub>[#177327](https://github.com/flutter/flutter/pull/177327) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177327) over 5 days, 70 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 ### October 18, 2025 to October 24, 2025
 
-65 commits.
+<details>
+<summary>65 commits...</summary>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement regular window<br />
   <sub>[#176361](https://github.com/flutter/flutter/pull/176361) merged on October 23, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/176361) over 3 weeks, 3142 additions and 87 deletions in 46 files</sub><br />
@@ -265,6 +274,8 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Revert "[Android 16] Update `android_engine_vulkan_tests` to Test Against SDK 36 Emulator"<br />
   <sub>[#177292](https://github.com/flutter/flutter/pull/177292) merged on October 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177292) over 18 hours, 23 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+</details>
 
 ### October 11, 2025 to October 17, 2025
 
