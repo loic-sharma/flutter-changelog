@@ -731,7 +731,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-3 commits.
+4 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update plugin migration instructions<br />
   <sub>[#12591](https://github.com/flutter/website/pull/12591) merged on October 27, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12591) over 3 days, 134 additions and 118 deletions in 1 file</sub><br />
@@ -744,6 +744,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix broken list<br />
   <sub>[#12594](https://github.com/flutter/website/pull/12594) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12594) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Move MCP docs from Dart site to Flutter site<br />
+  <sub>[#12598](https://github.com/flutter/website/pull/12598) merged on October 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12598) over 30 minutes, 298 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 ### October 18, 2025 to October 24, 2025
 
