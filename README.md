@@ -4,7 +4,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-10 commits.
+11 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set the font weight variation axis based on the text style's FontWeight<br />
   <sub>[#175771](https://github.com/flutter/flutter/pull/175771) merged on October 27, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/175771) over 1 month, 304 additions and 169 deletions in 17 files</sub><br />
@@ -18,6 +18,10 @@
   <sub>[#177538](https://github.com/flutter/flutter/pull/177538) merged on October 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177538) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
   <sub><details><summary>1 image...</summary><img width="282" height="40" alt="cannot" src="https://github.com/user-attachments/assets/17ebe89d-59cc-45b7-9b89-85d6e77e8614" /></details></sub>
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Disable vulkan X11 support when building for minimal linux<br />
+  <sub>[#176697](https://github.com/flutter/flutter/pull/176697) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176697) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix RoundedSuperellipse crashes for tiny corners<br />
   <sub>[#177070](https://github.com/flutter/flutter/pull/177070) merged on October 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177070) over 1 week, 83 additions and 3 deletions in 2 files</sub><br />
