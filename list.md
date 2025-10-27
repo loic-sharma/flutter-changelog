@@ -128,7 +128,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bump Templates To Correct Versions
-  <sub>[#177416](https://github.com/flutter/flutter/pull/177416) merged on October 24, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/177416) over 1 day, 458 additions and 404 deletions in 22 files</sub>
+  <sub>[#177416](https://github.com/flutter/flutter/pull/177416) merged on October 24, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/177416) over 1 day, 458 additions and 404 deletions in 22 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; Fixed hot reload/restart crashes after closing browser tab on web-server device
