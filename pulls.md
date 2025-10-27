@@ -197,3 +197,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RadioListTile doesn't crash in 0x0 environment<br />
   <sub>[#177576](https://github.com/flutter/flutter/pull/177576) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177576) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Elevated.icon breaks focus traversal and VoiceOver when toggling …<br />
+  <sub>[#177579](https://github.com/flutter/flutter/pull/177579) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177579) 139 additions and 102 deletions in 3 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Radio doesn't crash in 0x0 environment<br />
+  <sub>[#177580](https://github.com/flutter/flutter/pull/177580) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177580) 11 additions and 0 deletions in 1 file</sub><br />
+
