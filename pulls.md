@@ -86,9 +86,6 @@
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Add macOS architecture option to build command and update tests<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add structured warning event for slow wireless debugging on iOS 26+ d…<br />
-  <sub>[#176976](https://github.com/flutter/flutter/pull/176976) opened on on October 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176976) 123 additions and 0 deletions in 3 files</sub><br />
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
   <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
 
@@ -101,11 +98,8 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state<br />
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) opened on on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) 73 additions and 42 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Configure FfiNative resolver on dart:io<br />
-  <sub>[#177308](https://github.com/flutter/flutter/pull/177308) opened on on October 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177308) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Output DTD URI for Flutter web applications<br />
-  <sub>[#177321](https://github.com/flutter/flutter/pull/177321) opened on on October 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177321) 8 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#177321](https://github.com/flutter/flutter/pull/177321) opened on on October 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177321) 8 additions and 3 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an OutlinedButton doesn't crash in 0x0 environment<br />
   <sub>[#177340](https://github.com/flutter/flutter/pull/177340) opened on on October 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177340) 13 additions and 0 deletions in 1 file</sub><br />
@@ -130,9 +124,6 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DDM] enable host builds in the merge queue<br />
   <sub>[#177446](https://github.com/flutter/flutter/pull/177446) opened on on October 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177446) 1 addition and 2 deletions in 1 file</sub><br />
-
-* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; [beta] CP: Fixes hot reload/restart crashes after closing browser tab on web-server device<br />
-  <sub>[#177456](https://github.com/flutter/flutter/pull/177456) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177456) 133 additions and 22 deletions in 5 files</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy png encoding/decoding in skp<br />
   <sub>[#177462](https://github.com/flutter/flutter/pull/177462) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177462) 3 additions and 0 deletions in 1 file</sub><br />
@@ -190,9 +181,6 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Radio doesn't crash in 0x0 environment<br />
   <sub>[#177580](https://github.com/flutter/flutter/pull/177580) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177580) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[wartono15](https://github.com/wartono15)** &mdash; Commit uts<br />
-  <sub>[#177587](https://github.com/flutter/flutter/pull/177587) opened on on October 27, 2025 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/177587) 5965 additions and 1694 deletions in 118 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll dartdoc to 9.0.0<br />
   <sub>[#177590](https://github.com/flutter/flutter/pull/177590) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177590) 1 addition and 1 deletion in 1 file</sub><br />
