@@ -183,5 +183,5 @@
   <sub>[#177566](https://github.com/flutter/flutter/pull/177566) opened on on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177566) 28 additions and 5 deletions in 3 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
-  <sub>[#177569](https://github.com/flutter/flutter/pull/177569) opened on on October 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177569) 434 additions and 17 deletions in 16 files</sub><br />
+  <sub>[#177570](https://github.com/flutter/flutter/pull/177570) opened on on October 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177570) 46 additions and 2 deletions in 5 files</sub><br />
 
