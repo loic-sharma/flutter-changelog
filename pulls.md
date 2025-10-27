@@ -180,8 +180,11 @@
   <sub>[#177556](https://github.com/flutter/flutter/pull/177556) opened on on October 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177556) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; Fix cubic subdivision estimation using correct Wang’s formula<br />
-  <sub>[#177566](https://github.com/flutter/flutter/pull/177566) opened on on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177566) 28 additions and 5 deletions in 3 files</sub><br />
+  <sub>[#177566](https://github.com/flutter/flutter/pull/177566) opened on on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177566) 31 additions and 8 deletions in 4 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
   <sub>[#177570](https://github.com/flutter/flutter/pull/177570) opened on on October 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177570) 46 additions and 2 deletions in 5 files</sub><br />
+
+* **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
+  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177572) 191 additions and 25 deletions in 2 files</sub><br />
 
