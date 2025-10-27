@@ -36,7 +36,7 @@
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
 * **[Shiv Shankar Tiwari](https://github.com/pythonsst)** &mdash; tool(ios): clarify code signing failure with actionable Xcode steps<br />
-  <sub>[#175483](https://github.com/flutter/flutter/pull/175483) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175483) 41 additions and 5 deletions in 4 files</sub><br />
+  <sub>[#175483](https://github.com/flutter/flutter/pull/175483) opened on on September 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175483) 41 additions and 5 deletions in 4 files</sub><br />
 
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README<br />
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
@@ -116,9 +116,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DDM] enable host builds in the merge queue<br />
   <sub>[#177446](https://github.com/flutter/flutter/pull/177446) opened on on October 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177446) 1 addition and 2 deletions in 1 file</sub><br />
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy png encoding/decoding in skp<br />
-  <sub>[#177462](https://github.com/flutter/flutter/pull/177462) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177462) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
@@ -142,9 +139,6 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix FilledButton.icon and FilledButton.tonalIcon break focus traversal and VoiceOver<br />
   <sub>[#177593](https://github.com/flutter/flutter/pull/177593) opened on on October 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177593) 247 additions and 168 deletions in 2 files</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Revert "Resolve resolve native Flutter dependencies in Android Studio…<br />
-  <sub>[#177605](https://github.com/flutter/flutter/pull/177605) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177605) 10 additions and 31 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add guided error for precompiled cache error<br />
   <sub>[#177607](https://github.com/flutter/flutter/pull/177607) opened on on October 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177607) 70 additions and 0 deletions in 2 files</sub><br />
