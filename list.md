@@ -541,9 +541,18 @@
 
 ## flutter/packages
 
+### October 25, 2025 to October 31, 2025
+
+1 commits.
+
+* **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Add audio track management support to platform interface
+  <sub>[#10171](https://github.com/flutter/packages/pull/10171) merged on October 27, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10171) over 3 weeks, 142 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
 ### October 18, 2025 to October 24, 2025
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Omar Khaled](https://github.com/omar-hanafy)** &mdash; [go_router] Support for top level `onEnter` callback.
   <sub>[#8339](https://github.com/flutter/packages/pull/8339) merged on October 22, 2025 &mdash; **Extra large:** [187 comments](https://github.com/flutter/packages/pull/8339) over 10 months, 2799 additions and 223 deletions in 10 files</sub>
@@ -608,6 +617,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 9f455d2486bc to adc901062556 (4 revisions)
   <sub>[#10292](https://github.com/flutter/packages/pull/10292) merged on October 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10292) over 50 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### October 11, 2025 to October 17, 2025
 
