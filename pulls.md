@@ -186,5 +186,5 @@
   <sub>[#177570](https://github.com/flutter/flutter/pull/177570) opened on on October 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177570) 46 additions and 2 deletions in 5 files</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
-  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177572) 191 additions and 25 deletions in 2 files</sub><br />
+  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177572) 191 additions and 25 deletions in 2 files</sub><br />
 
