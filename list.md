@@ -686,7 +686,11 @@
 
 ### October 25, 2025 to October 31, 2025
 
-2 commits.
+3 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update plugin migration instructions
+  <sub>[#12591](https://github.com/flutter/website/pull/12591) merged on October 27, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12591) over 3 days, 134 additions and 118 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Format Dart code sample
   <sub>[#12595](https://github.com/flutter/website/pull/12595) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12595) over 2 days, 2 additions and 1 deletion in 1 file</sub>

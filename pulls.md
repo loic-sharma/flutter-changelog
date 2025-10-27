@@ -117,10 +117,7 @@
   <sub>[#177422](https://github.com/flutter/flutter/pull/177422) opened on on October 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177422) 4 additions and 7 deletions in 1 file</sub><br />
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation<br />
-  <sub>[#177437](https://github.com/flutter/flutter/pull/177437) opened on on October 23, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/177437) 320 additions and 0 deletions in 4 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuDivider doesn't crash in 0x0 environment<br />
-  <sub>[#177445](https://github.com/flutter/flutter/pull/177445) opened on on October 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177445) 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#177437](https://github.com/flutter/flutter/pull/177437) opened on on October 23, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/177437) 320 additions and 0 deletions in 4 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DDM] enable host builds in the merge queue<br />
   <sub>[#177446](https://github.com/flutter/flutter/pull/177446) opened on on October 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177446) 1 addition and 2 deletions in 1 file</sub><br />
@@ -133,9 +130,6 @@
 
 * **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add assertion to Navigator.pop when stack is empty to improve developer experience<br />
   <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177491) 124 additions and 53 deletions in 6 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuButton doesn't crash in 0x0 environment<br />
-  <sub>[#177493](https://github.com/flutter/flutter/pull/177493) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177493) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section<br />
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177523) 87 additions and 63 deletions in 1 file</sub><br />
@@ -157,7 +151,4 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix FilledButton.icon and FilledButton.tonalIcon break focus traversal and VoiceOver<br />
   <sub>[#177593](https://github.com/flutter/flutter/pull/177593) opened on on October 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177593) 247 additions and 168 deletions in 2 files</sub><br />
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Workaround for lag when dragging window titlebar on Windows<br />
-  <sub>[#177597](https://github.com/flutter/flutter/pull/177597) opened on on October 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177597) 18 additions and 0 deletions in 1 file</sub><br />
 
