@@ -137,9 +137,6 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy png encoding/decoding in skp<br />
   <sub>[#177462](https://github.com/flutter/flutter/pull/177462) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177462) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces<br />
-  <sub>[#177470](https://github.com/flutter/flutter/pull/177470) opened on on October 23, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177470) 304 additions and 284 deletions in 23 files</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
@@ -151,9 +148,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Lockfile workaround <br />
   <sub>[#177508](https://github.com/flutter/flutter/pull/177508) opened on on October 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177508) 119 additions and 46 deletions in 56 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed `RuntimeEffect` with `ImageFilter.compose`<br />
-  <sub>[#177510](https://github.com/flutter/flutter/pull/177510) opened on on October 24, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/177510) 223 additions and 9 deletions in 5 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section<br />
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177523) 87 additions and 63 deletions in 1 file</sub><br />
