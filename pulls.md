@@ -101,14 +101,8 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Output DTD URI for Flutter web applications<br />
   <sub>[#177321](https://github.com/flutter/flutter/pull/177321) opened on on October 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177321) 8 additions and 3 deletions in 3 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an OutlinedButton doesn't crash in 0x0 environment<br />
-  <sub>[#177340](https://github.com/flutter/flutter/pull/177340) opened on on October 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177340) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Changes default cache extent for scrollable<br />
   <sub>[#177351](https://github.com/flutter/flutter/pull/177351) opened on on October 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177351) 45 additions and 21 deletions in 5 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PaginatedDataTable doesn't crash in 0x0 environment<br />
-  <sub>[#177389](https://github.com/flutter/flutter/pull/177389) opened on on October 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177389) 20 additions and 0 deletions in 1 file</sub><br />
 
 * **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
   <sub>[#177397](https://github.com/flutter/flutter/pull/177397) opened on on October 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177397) 14 additions and 13 deletions in 1 file</sub><br />
@@ -145,9 +139,6 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix ElevatedButton.icon breaks focus traversal and VoiceOver when toggling icon<br />
   <sub>[#177579](https://github.com/flutter/flutter/pull/177579) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177579) 139 additions and 102 deletions in 3 files</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll dartdoc to 9.0.0<br />
-  <sub>[#177590](https://github.com/flutter/flutter/pull/177590) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177590) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix FilledButton.icon and FilledButton.tonalIcon break focus traversal and VoiceOver<br />
   <sub>[#177593](https://github.com/flutter/flutter/pull/177593) opened on on October 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177593) 247 additions and 168 deletions in 2 files</sub><br />
