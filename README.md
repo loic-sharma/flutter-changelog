@@ -656,7 +656,11 @@
 
 ### October 25, 2025 to October 31, 2025
 
-1 commits.
+2 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Format Dart code sample<br />
+  <sub>[#12595](https://github.com/flutter/website/pull/12595) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12595) over 2 days, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix broken list<br />
   <sub>[#12594](https://github.com/flutter/website/pull/12594) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12594) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
