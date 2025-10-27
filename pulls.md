@@ -192,7 +192,7 @@
   <sub>[#177580](https://github.com/flutter/flutter/pull/177580) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177580) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[wartono15](https://github.com/wartono15)** &mdash; Commit uts<br />
-  <sub>[#177587](https://github.com/flutter/flutter/pull/177587) opened on on October 27, 2025 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/177587) 5965 additions and 1694 deletions in 118 files</sub><br />
+  <sub>[#177587](https://github.com/flutter/flutter/pull/177587) opened on on October 27, 2025 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/177587) 5965 additions and 1694 deletions in 118 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll dartdoc to 9.0.0<br />
   <sub>[#177590](https://github.com/flutter/flutter/pull/177590) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177590) 1 addition and 1 deletion in 1 file</sub><br />
@@ -201,5 +201,5 @@
   <sub>[#177593](https://github.com/flutter/flutter/pull/177593) opened on on October 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177593) 247 additions and 168 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Workaround for lag when dragging window titlebar on Windows<br />
-  <sub>[#177597](https://github.com/flutter/flutter/pull/177597) opened on on October 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177597) 21 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#177597](https://github.com/flutter/flutter/pull/177597) opened on on October 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177597) 18 additions and 0 deletions in 1 file</sub><br />
 
