@@ -146,9 +146,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuButton doesn't crash in 0x0 environment<br />
   <sub>[#177493](https://github.com/flutter/flutter/pull/177493) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177493) 19 additions and 0 deletions in 1 file</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Lockfile workaround <br />
-  <sub>[#177508](https://github.com/flutter/flutter/pull/177508) opened on on October 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177508) 119 additions and 46 deletions in 56 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section<br />
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177523) 87 additions and 63 deletions in 1 file</sub><br />
 
