@@ -4,7 +4,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-17 commits.
+18 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set the font weight variation axis based on the text style's FontWeight
   <sub>[#175771](https://github.com/flutter/flutter/pull/175771) merged on October 27, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/175771) over 1 month, 304 additions and 169 deletions in 17 files</sub>
@@ -59,6 +59,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add guided error for precompiled cache error
   <sub>[#177327](https://github.com/flutter/flutter/pull/177327) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177327) over 5 days, 70 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix Popup menu Semantics label for mismatched platforms
+  <sub>[#177049](https://github.com/flutter/flutter/pull/177049) merged on October 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177049) over 1 week, 53 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DDM] enable host builds in the merge queue
   <sub>[#177446](https://github.com/flutter/flutter/pull/177446) merged on October 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177446) over 4 days, 1 addition and 2 deletions in 1 file</sub>
