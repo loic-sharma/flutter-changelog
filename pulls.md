@@ -143,3 +143,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Fix Engine Deps<br />
   <sub>[#177623](https://github.com/flutter/flutter/pull/177623) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177623) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RangeSlider doesn't crash in 0x0 environment<br />
+  <sub>[#177642](https://github.com/flutter/flutter/pull/177642) opened on on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177642) 15 additions and 0 deletions in 1 file</sub><br />
+
