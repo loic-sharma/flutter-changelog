@@ -134,9 +134,6 @@
 * **[Safwen Barhoumi](https://github.com/safwenbarhoumi)** &mdash; Enhance error handling in setState method<br />
   <sub>[#177619](https://github.com/flutter/flutter/pull/177619) opened on on October 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177619) 76 additions and 62 deletions in 1 file</sub><br />
 
-* **[John Lilly](https://github.com/jwlilly)** &mdash; Fix for PR #174374 - Fix - TalkBack does not announce list information<br />
-  <sub>[#177622](https://github.com/flutter/flutter/pull/177622) opened on on October 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177622) 186 additions and 46 deletions in 2 files</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Fix Engine Deps<br />
   <sub>[#177623](https://github.com/flutter/flutter/pull/177623) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177623) 3 additions and 3 deletions in 1 file</sub><br />
 
@@ -160,4 +157,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't add webparagraph suite to CI<br />
   <sub>[#177681](https://github.com/flutter/flutter/pull/177681) opened on on October 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177681) 8 additions and 5 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused canvaskit utils<br />
+  <sub>[#177684](https://github.com/flutter/flutter/pull/177684) opened on on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177684) 0 additions and 85 deletions in 2 files</sub><br />
 

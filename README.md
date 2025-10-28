@@ -764,7 +764,11 @@
 
 ### October 25, 2025 to October 31, 2025
 
-6 commits.
+7 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate the site infrastructure to Jaspr and Jaspr Content<br />
+  <sub>[#12548](https://github.com/flutter/website/pull/12548) merged on October 28, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/website/pull/12548) over 2 weeks, 13943 additions and 14138 deletions in 1739 files</sub><br />
+  <sub>Reviewed by: [Kilian Schulte](https://github.com/schultek), [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update plugin migration instructions<br />
   <sub>[#12591](https://github.com/flutter/website/pull/12591) merged on October 27, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12591) over 3 days, 134 additions and 118 deletions in 1 file</sub><br />
