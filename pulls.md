@@ -161,3 +161,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update `engine.version` for 3.38.1 hotfix release<br />
   <sub>[#177675](https://github.com/flutter/flutter/pull/177675) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177675) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update Engine `ci.yaml` to test against Java 21<br />
+  <sub>[#177677](https://github.com/flutter/flutter/pull/177677) opened on on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177677) 3 additions and 3 deletions in 1 file</sub><br />
+

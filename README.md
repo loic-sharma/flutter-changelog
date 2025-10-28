@@ -628,7 +628,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-3 commits.
+4 commits.
 
 * **[Jamiu Akinyemi](https://github.com/blackorbs-dev)** &mdash; [camera] Implement setDescription with android camerax<br />
   <sub>[#10117](https://github.com/flutter/packages/pull/10117) merged on October 28, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/10117) over 4 weeks, 85 additions and 49 deletions in 7 files</sub><br />
@@ -637,6 +637,10 @@
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Add audio track management support to platform interface<br />
   <sub>[#10171](https://github.com/flutter/packages/pull/10171) merged on October 27, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10171) over 3 weeks, 142 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [image_picker_android] Inline sdk guard logic from internal `isSystemPickerAvailable$activity_release()`<br />
+  <sub>[#10314](https://github.com/flutter/packages/pull/10314) merged on October 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10314) over 37 minutes, 9 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fix Namespace Assignment Test<br />
   <sub>[#10289](https://github.com/flutter/packages/pull/10289) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10289) over 4 days, 5 additions and 2 deletions in 1 file</sub><br />
