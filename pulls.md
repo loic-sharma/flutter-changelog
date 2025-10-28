@@ -102,7 +102,7 @@
   <sub>[#177351](https://github.com/flutter/flutter/pull/177351) opened on on October 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177351) 45 additions and 21 deletions in 5 files</sub><br />
 
 * **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
-  <sub>[#177397](https://github.com/flutter/flutter/pull/177397) opened on on October 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177397) 14 additions and 13 deletions in 1 file</sub><br />
+  <sub>[#177397](https://github.com/flutter/flutter/pull/177397) opened on on October 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177397) 14 additions and 13 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Re-land] Update `android_engine_vulkan_tests` to test against AVD 36         <br />
   <sub>[#177422](https://github.com/flutter/flutter/pull/177422) opened on on October 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177422) 4 additions and 7 deletions in 1 file</sub><br />
@@ -157,4 +157,7 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update Engine `ci.yaml` to test against Java 21<br />
   <sub>[#177677](https://github.com/flutter/flutter/pull/177677) opened on on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177677) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't add webparagraph suite to CI<br />
+  <sub>[#177681](https://github.com/flutter/flutter/pull/177681) opened on on October 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177681) 8 additions and 5 deletions in 1 file</sub><br />
 
