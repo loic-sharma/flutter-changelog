@@ -119,9 +119,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section<br />
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177523) 87 additions and 63 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `focus_scope.0.dart‎` example <br />
-  <sub>[#177542](https://github.com/flutter/flutter/pull/177542) opened on on October 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177542) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
   <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/177572) 307 additions and 6 deletions in 2 files</sub><br />
 
