@@ -146,3 +146,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RangeSlider doesn't crash in 0x0 environment<br />
   <sub>[#177642](https://github.com/flutter/flutter/pull/177642) opened on on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177642) 15 additions and 0 deletions in 1 file</sub><br />
 
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add `soundEnabled` flag to CupertinoPicker<br />
+  <sub>[#177643](https://github.com/flutter/flutter/pull/177643) opened on on October 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177643) 59 additions and 1 deletion in 2 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RefreshIndicator doesn't crash in 0x0 environment<br />
+  <sub>[#177644](https://github.com/flutter/flutter/pull/177644) opened on on October 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177644) 16 additions and 0 deletions in 1 file</sub><br />
+
