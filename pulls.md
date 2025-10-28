@@ -161,3 +161,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix EditableText _justResumed is not accurate<br />
   <sub>[#177658](https://github.com/flutter/flutter/pull/177658) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177658) 96 additions and 9 deletions in 2 files</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
+  <sub>[#177669](https://github.com/flutter/flutter/pull/177669) opened on on October 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177669) 123 additions and 101 deletions in 10 files</sub><br />
+
