@@ -628,7 +628,11 @@
 
 ### October 25, 2025 to October 31, 2025
 
-2 commits.
+3 commits.
+
+* **[Jamiu Akinyemi](https://github.com/blackorbs-dev)** &mdash; [camera] Implement setDescription with android camerax
+  <sub>[#10117](https://github.com/flutter/packages/pull/10117) merged on October 28, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/10117) over 4 weeks, 85 additions and 49 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Add audio track management support to platform interface
   <sub>[#10171](https://github.com/flutter/packages/pull/10171) merged on October 27, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10171) over 3 weeks, 142 additions and 1 deletion in 4 files</sub>
