@@ -54,7 +54,7 @@
   <sub>[#175832](https://github.com/flutter/flutter/pull/175832) opened on on September 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175832) 33 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; Fix(tools): Rely on FLUTTER_ROOT in Xcode build scripts<br />
-  <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175846) 23 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175846) 23 additions and 10 deletions in 2 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Exit with code 1 when calling `flutter build` without arguments<br />
   <sub>[#175900](https://github.com/flutter/flutter/pull/175900) opened on on September 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175900) 30 additions and 1 deletion in 2 files</sub><br />
@@ -84,7 +84,7 @@
   <sub>[#176907](https://github.com/flutter/flutter/pull/176907) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176907) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Add macOS architecture option to build command and update tests<br />
-  <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
   <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
@@ -156,5 +156,5 @@
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
-  <sub>[#177669](https://github.com/flutter/flutter/pull/177669) opened on on October 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177669) 114 additions and 92 deletions in 10 files</sub><br />
+  <sub>[#177669](https://github.com/flutter/flutter/pull/177669) opened on on October 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177669) 114 additions and 92 deletions in 10 files</sub><br />
 
