@@ -155,9 +155,6 @@
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Allow apps to prefer high power GPUs<br />
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
-  <sub>[#177669](https://github.com/flutter/flutter/pull/177669) opened on on October 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177669) 111 additions and 89 deletions in 10 files</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update Engine `ci.yaml` to test against Java 21<br />
   <sub>[#177677](https://github.com/flutter/flutter/pull/177677) opened on on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177677) 3 additions and 3 deletions in 1 file</sub><br />
 
