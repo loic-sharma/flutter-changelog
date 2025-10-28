@@ -150,7 +150,7 @@
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update Engine `ci.yaml` to test against Java 21<br />
-  <sub>[#177677](https://github.com/flutter/flutter/pull/177677) opened on on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177677) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#177677](https://github.com/flutter/flutter/pull/177677) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177677) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't add webparagraph suite to CI<br />
   <sub>[#177681](https://github.com/flutter/flutter/pull/177681) opened on on October 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177681) 8 additions and 5 deletions in 1 file</sub><br />
