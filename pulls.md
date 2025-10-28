@@ -131,9 +131,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix FilledButton.icon and FilledButton.tonalIcon break focus traversal and VoiceOver<br />
   <sub>[#177593](https://github.com/flutter/flutter/pull/177593) opened on on October 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177593) 247 additions and 168 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add guided error for precompiled cache error<br />
-  <sub>[#177607](https://github.com/flutter/flutter/pull/177607) opened on on October 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177607) 70 additions and 0 deletions in 2 files</sub><br />
-
 * **[Safwen Barhoumi](https://github.com/safwenbarhoumi)** &mdash; Enhance error handling in setState method<br />
   <sub>[#177619](https://github.com/flutter/flutter/pull/177619) opened on on October 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177619) 76 additions and 62 deletions in 1 file</sub><br />
 
@@ -157,9 +154,6 @@
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Allow apps to prefer high power GPUs<br />
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix EditableText _justResumed is not accurate<br />
-  <sub>[#177658](https://github.com/flutter/flutter/pull/177658) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177658) 96 additions and 9 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
   <sub>[#177669](https://github.com/flutter/flutter/pull/177669) opened on on October 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177669) 123 additions and 101 deletions in 10 files</sub><br />
