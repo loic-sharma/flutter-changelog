@@ -137,9 +137,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add guided error for precompiled cache error<br />
   <sub>[#177607](https://github.com/flutter/flutter/pull/177607) opened on on October 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177607) 70 additions and 0 deletions in 2 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Regenerated lockfiles for New Template Values<br />
-  <sub>[#177617](https://github.com/flutter/flutter/pull/177617) opened on on October 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/177617) 2410 additions and 2324 deletions in 96 files</sub><br />
-
 * **[Safwen Barhoumi](https://github.com/safwenbarhoumi)** &mdash; Enhance error handling in setState method<br />
   <sub>[#177619](https://github.com/flutter/flutter/pull/177619) opened on on October 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177619) 76 additions and 62 deletions in 1 file</sub><br />
 

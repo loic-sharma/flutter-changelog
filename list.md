@@ -4,7 +4,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-15 commits.
+17 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set the font weight variation axis based on the text style's FontWeight
   <sub>[#175771](https://github.com/flutter/flutter/pull/175771) merged on October 27, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/175771) over 1 month, 304 additions and 169 deletions in 17 files</sub>
@@ -28,6 +28,10 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
   <sub><details><summary>1 image...</summary><img width="282" height="40" alt="cannot" src="https://github.com/user-attachments/assets/17ebe89d-59cc-45b7-9b89-85d6e77e8614" /></details></sub>
 
+* **[Huy](https://github.com/huycozy)** &mdash; Enhance DropdownMenuEntry's labelWidget docs
+  <sub>[#177160](https://github.com/flutter/flutter/pull/177160) merged on October 27, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/177160) over 1 week, 12 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; disable metal for crosscompile from mac to linux
   <sub>[#176639](https://github.com/flutter/flutter/pull/176639) merged on October 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176639) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -43,6 +47,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Clean before building when framework headers change
   <sub>[#177512](https://github.com/flutter/flutter/pull/177512) merged on October 27, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/177512) over 2 days, 497 additions and 11 deletions in 5 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Regenerated lockfiles for New Template Values
+  <sub>[#177617](https://github.com/flutter/flutter/pull/177617) merged on October 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/177617) over 1 hour, 2410 additions and 2324 deletions in 96 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces
   <sub>[#177470](https://github.com/flutter/flutter/pull/177470) merged on October 27, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177470) over 3 days, 304 additions and 284 deletions in 23 files</sub>
@@ -612,11 +620,15 @@
 
 ### October 25, 2025 to October 31, 2025
 
-1 commits.
+2 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Add audio track management support to platform interface
   <sub>[#10171](https://github.com/flutter/packages/pull/10171) merged on October 27, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10171) over 3 weeks, 142 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Fix Namespace Assignment Test
+  <sub>[#10289](https://github.com/flutter/packages/pull/10289) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10289) over 4 days, 5 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 ### October 18, 2025 to October 24, 2025
 
