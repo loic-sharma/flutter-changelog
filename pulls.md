@@ -143,3 +143,6 @@
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix for PR #174374 - Fix - TalkBack does not announce list information<br />
   <sub>[#177622](https://github.com/flutter/flutter/pull/177622) opened on on October 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177622) 186 additions and 46 deletions in 2 files</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Fix Engine Deps<br />
+  <sub>[#177623](https://github.com/flutter/flutter/pull/177623) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177623) 3 additions and 3 deletions in 1 file</sub><br />
+
