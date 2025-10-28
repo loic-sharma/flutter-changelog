@@ -123,7 +123,7 @@
   <sub>[#177542](https://github.com/flutter/flutter/pull/177542) opened on on October 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177542) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
-  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177572) 191 additions and 25 deletions in 2 files</sub><br />
+  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/177572) 307 additions and 6 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix ElevatedButton.icon breaks focus traversal and VoiceOver when toggling icon<br />
   <sub>[#177579](https://github.com/flutter/flutter/pull/177579) opened on on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177579) 139 additions and 102 deletions in 3 files</sub><br />
