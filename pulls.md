@@ -158,3 +158,6 @@
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Allow apps to prefer high power GPUs<br />
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix EditableText _justResumed is not accurate<br />
+  <sub>[#177658](https://github.com/flutter/flutter/pull/177658) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177658) 94 additions and 9 deletions in 2 files</sub><br />
+
