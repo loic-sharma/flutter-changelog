@@ -98,9 +98,6 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state<br />
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) opened on on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) 73 additions and 42 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Changes default cache extent for scrollable<br />
-  <sub>[#177351](https://github.com/flutter/flutter/pull/177351) opened on on October 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177351) 45 additions and 21 deletions in 5 files</sub><br />
-
 * **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
   <sub>[#177397](https://github.com/flutter/flutter/pull/177397) opened on on October 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177397) 14 additions and 13 deletions in 1 file</sub><br />
 
@@ -114,7 +111,7 @@
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
 * **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add assertion to Navigator.pop when stack is empty to improve developer experience<br />
-  <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177491) 124 additions and 53 deletions in 6 files</sub><br />
+  <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177491) 124 additions and 53 deletions in 6 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section<br />
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177523) 87 additions and 63 deletions in 1 file</sub><br />
