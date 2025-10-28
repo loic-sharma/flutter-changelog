@@ -4,7 +4,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-21 commits.
+24 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set the font weight variation axis based on the text style's FontWeight<br />
   <sub>[#175771](https://github.com/flutter/flutter/pull/175771) merged on October 27, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/175771) over 1 month, 304 additions and 169 deletions in 17 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add gn flag to optimize builds for size<br />
   <sub>[#176835](https://github.com/flutter/flutter/pull/176835) merged on October 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176835) over 2 weeks, 24 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextButton.icon breaks focus traversal and ink effect when toggling icon<br />
+  <sub>[#176579](https://github.com/flutter/flutter/pull/176579) merged on October 28, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/176579) over 3 weeks, 81 additions and 94 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct editable text and placeholder position in baseline aligned stack<br />
   <sub>[#177342](https://github.com/flutter/flutter/pull/177342) merged on October 27, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177342) over 6 days, 87 additions and 8 deletions in 2 files</sub><br />
@@ -83,6 +87,14 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Fix missing list indicators in CHANGELOG.md<br />
   <sub>[#177484](https://github.com/flutter/flutter/pull/177484) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177484) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update Engine `ci.yaml` to test against Java 21<br />
+  <sub>[#177677](https://github.com/flutter/flutter/pull/177677) merged on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177677) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `interactive_viewer.constrained.0.dart`<br />
+  <sub>[#177540](https://github.com/flutter/flutter/pull/177540) merged on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177540) over 3 days, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace opacity from random color in navigation bar test<br />
   <sub>[#177490](https://github.com/flutter/flutter/pull/177490) merged on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177490) over 4 days, 3 additions and 1 deletion in 1 file</sub><br />
