@@ -104,9 +104,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Re-land] Update `android_engine_vulkan_tests` to test against AVD 36         <br />
   <sub>[#177422](https://github.com/flutter/flutter/pull/177422) opened on on October 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177422) 4 additions and 7 deletions in 1 file</sub><br />
 
-* **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation<br />
-  <sub>[#177437](https://github.com/flutter/flutter/pull/177437) opened on on October 23, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/177437) 320 additions and 0 deletions in 4 files</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
@@ -124,9 +121,6 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix FilledButton.icon and FilledButton.tonalIcon break focus traversal and VoiceOver<br />
   <sub>[#177593](https://github.com/flutter/flutter/pull/177593) opened on on October 27, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/177593) 247 additions and 168 deletions in 2 files</sub><br />
-
-* **[Safwen Barhoumi](https://github.com/safwenbarhoumi)** &mdash; Enhance error handling in setState method<br />
-  <sub>[#177619](https://github.com/flutter/flutter/pull/177619) opened on on October 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177619) 76 additions and 62 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Fix Engine Deps<br />
   <sub>[#177623](https://github.com/flutter/flutter/pull/177623) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177623) 3 additions and 3 deletions in 1 file</sub><br />
@@ -154,7 +148,4 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused canvaskit utils<br />
   <sub>[#177684](https://github.com/flutter/flutter/pull/177684) opened on on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177684) 0 additions and 85 deletions in 2 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes RuntimeEffect when used with ImageFilter.compose and gaussian blur<br />
-  <sub>[#177687](https://github.com/flutter/flutter/pull/177687) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177687) 126 additions and 12 deletions in 5 files</sub><br />
 
