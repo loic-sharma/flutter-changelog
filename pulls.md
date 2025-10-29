@@ -110,9 +110,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't add webparagraph suite to CI<br />
   <sub>[#177681](https://github.com/flutter/flutter/pull/177681) opened on on October 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177681) 8 additions and 5 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused canvaskit utils<br />
-  <sub>[#177684](https://github.com/flutter/flutter/pull/177684) opened on on October 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177684) 0 additions and 85 deletions in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Scaffold doesn't crash in 0x0 environment<br />
   <sub>[#177722](https://github.com/flutter/flutter/pull/177722) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177722) 13 additions and 0 deletions in 1 file</sub><br />
 
