@@ -696,7 +696,7 @@
 5 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [cross_file] always set browser blob when constructing XFile from data
-  <sub>[#8611](https://github.com/flutter/packages/pull/8611) merged on October 29, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8611) over 8 months, 27 additions and 9 deletions in 5 files</sub>
+  <sub>[#8611](https://github.com/flutter/packages/pull/8611) merged on October 29, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8611) over 8 months, 27 additions and 9 deletions in 5 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Jamiu Akinyemi](https://github.com/blackorbs-dev)** &mdash; [camera] Implement setDescription with android camerax
