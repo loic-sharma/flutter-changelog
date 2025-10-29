@@ -141,5 +141,8 @@
   <sub>[#177721](https://github.com/flutter/flutter/pull/177721) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177721) 200 additions and 1 deletion in 8 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Scaffold doesn't crash in 0x0 environment<br />
-  <sub>[#177722](https://github.com/flutter/flutter/pull/177722) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177722) 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#177722](https://github.com/flutter/flutter/pull/177722) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177722) 13 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Scrollbar doesn't crash in 0x0 environment<br />
+  <sub>[#177724](https://github.com/flutter/flutter/pull/177724) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177724) 11 additions and 0 deletions in 1 file</sub><br />
 
