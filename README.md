@@ -4,7 +4,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-28 commits.
+29 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set the font weight variation axis based on the text style's FontWeight<br />
   <sub>[#175771](https://github.com/flutter/flutter/pull/175771) merged on October 27, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/175771) over 1 month, 304 additions and 169 deletions in 17 files</sub><br />
@@ -95,6 +95,10 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Fix missing list indicators in CHANGELOG.md<br />
   <sub>[#177484](https://github.com/flutter/flutter/pull/177484) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177484) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove generated file from template manifest<br />
+  <sub>[#177034](https://github.com/flutter/flutter/pull/177034) merged on October 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177034) over 2 weeks, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `focus_scope.0.dart‎` example <br />
   <sub>[#177542](https://github.com/flutter/flutter/pull/177542) merged on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177542) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
