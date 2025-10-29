@@ -4,7 +4,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-36 commits.
+37 commits.
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add `Navigator.popUntilWithResult`<br />
   <sub>[#169341](https://github.com/flutter/flutter/pull/169341) merged on October 29, 2025 &mdash; **Small:** [58 comments](https://github.com/flutter/flutter/pull/169341) over 5 months, 114 additions and 0 deletions in 2 files</sub><br />
@@ -45,12 +45,12 @@
   <sub>[#177160](https://github.com/flutter/flutter/pull/177160) merged on October 27, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/177160) over 1 week, 12 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; disable metal for crosscompile from mac to linux<br />
-  <sub>[#176639](https://github.com/flutter/flutter/pull/176639) merged on October 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176639) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Disable vulkan X11 support when building for minimal linux<br />
   <sub>[#176697](https://github.com/flutter/flutter/pull/176697) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176697) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; disable metal for crosscompile from mac to linux<br />
+  <sub>[#176639](https://github.com/flutter/flutter/pull/176639) merged on October 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176639) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix RoundedSuperellipse crashes for tiny corners<br />
@@ -89,6 +89,10 @@
   <sub>[#177327](https://github.com/flutter/flutter/pull/177327) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177327) over 5 days, 70 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable LTO in CI builder configurations for Linux targets<br />
+  <sub>[#177694](https://github.com/flutter/flutter/pull/177694) merged on October 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177694) over 22 hours, 13 additions and 3 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Huy](https://github.com/huycozy)** &mdash; Fix Popup menu Semantics label for mismatched platforms<br />
   <sub>[#177049](https://github.com/flutter/flutter/pull/177049) merged on October 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177049) over 1 week, 53 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -104,10 +108,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Fix missing list indicators in CHANGELOG.md<br />
   <sub>[#177484](https://github.com/flutter/flutter/pull/177484) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177484) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Deprecate --pwa-strategy<br />
-  <sub>[#177613](https://github.com/flutter/flutter/pull/177613) merged on October 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177613) over 1 day, 145 additions and 21 deletions in 12 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` with  `withValues` in `text_style.dart`<br />
   <sub>[#177537](https://github.com/flutter/flutter/pull/177537) merged on October 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177537) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
@@ -152,6 +152,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add discussion of federated plugin documentation<br />
   <sub>[#177659](https://github.com/flutter/flutter/pull/177659) merged on October 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177659) over 23 hours, 12 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Deprecate --pwa-strategy<br />
+  <sub>[#177613](https://github.com/flutter/flutter/pull/177613) merged on October 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177613) over 1 day, 145 additions and 21 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 ### October 18, 2025 to October 24, 2025
 
