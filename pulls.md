@@ -75,7 +75,7 @@
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/176825) 185 additions and 41 deletions in 2 files</sub><br />
 
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
-  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/176832) 13 additions and 19 deletions in 1 file</sub><br />
+  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/176832) 13 additions and 19 deletions in 1 file</sub><br />
 
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
@@ -136,9 +136,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused canvaskit utils<br />
   <sub>[#177684](https://github.com/flutter/flutter/pull/177684) opened on on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177684) 0 additions and 85 deletions in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add haptic notifications support.<br />
-  <sub>[#177721](https://github.com/flutter/flutter/pull/177721) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177721) 200 additions and 1 deletion in 8 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Scaffold doesn't crash in 0x0 environment<br />
   <sub>[#177722](https://github.com/flutter/flutter/pull/177722) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177722) 13 additions and 0 deletions in 1 file</sub><br />
