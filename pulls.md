@@ -125,6 +125,3 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SearchAnchor doesn't crash in 0x0 environment<br />
   <sub>[#177749](https://github.com/flutter/flutter/pull/177749) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177749) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed image links in //README.md<br />
-  <sub>[#177750](https://github.com/flutter/flutter/pull/177750) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177750) 3 additions and 3 deletions in 1 file</sub><br />
-
