@@ -869,7 +869,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-8 commits.
+10 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate the site infrastructure to Jaspr and Jaspr Content
   <sub>[#12548](https://github.com/flutter/website/pull/12548) merged on October 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/website/pull/12548) over 2 weeks, 13943 additions and 14138 deletions in 1739 files</sub>
@@ -878,6 +878,14 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update plugin migration instructions
   <sub>[#12591](https://github.com/flutter/website/pull/12591) merged on October 27, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12591) over 3 days, 134 additions and 118 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Tweak Inside Flutter wording
+  <sub>[#12607](https://github.com/flutter/website/pull/12607) merged on October 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12607) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds example glsl and opengles instructions for ImageFilter fragment shaders
+  <sub>[#12610](https://github.com/flutter/website/pull/12610) merged on October 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12610) over 10 minutes, 32 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update horizontal list recipe
   <sub>[#12599](https://github.com/flutter/website/pull/12599) merged on October 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12599) over 13 minutes, 41 additions and 46 deletions in 2 files</sub>
