@@ -134,3 +134,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SegmentedButton doesn't crash in 0x0 environment<br />
   <sub>[#177773](https://github.com/flutter/flutter/pull/177773) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177773) 18 additions and 0 deletions in 1 file</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; Update documentation tool reference in image.dart<br />
+  <sub>[#177782](https://github.com/flutter/flutter/pull/177782) opened on on October 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177782) 1 addition and 1 deletion in 1 file</sub><br />
+
