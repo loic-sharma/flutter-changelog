@@ -125,3 +125,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SearchBar doesn't crash in 0x0 environment<br />
   <sub>[#177761](https://github.com/flutter/flutter/pull/177761) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177761) 16 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SegmentedButton doesn't crash in 0x0 environment<br />
+  <sub>[#177773](https://github.com/flutter/flutter/pull/177773) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177773) 18 additions and 0 deletions in 1 file</sub><br />
+
