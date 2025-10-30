@@ -141,5 +141,8 @@
   <sub>[#177787](https://github.com/flutter/flutter/pull/177787) opened on on October 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177787) 0 additions and 6 deletions in 1 file</sub><br />
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Clean up links to docs website<br />
-  <sub>[#177792](https://github.com/flutter/flutter/pull/177792) opened on on October 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177792) 60 additions and 70 deletions in 39 files</sub><br />
+  <sub>[#177792](https://github.com/flutter/flutter/pull/177792) opened on on October 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177792) 71 additions and 82 deletions in 49 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the path used by the download_fuchsia_sdk.py script to //third_party/fuchsia-sdk<br />
+  <sub>[#177794](https://github.com/flutter/flutter/pull/177794) opened on on October 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177794) 4 additions and 5 deletions in 1 file</sub><br />
 
