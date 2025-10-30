@@ -140,3 +140,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Delete unused reportTimings instance variable<br />
   <sub>[#177787](https://github.com/flutter/flutter/pull/177787) opened on on October 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177787) 0 additions and 6 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow devicelab test to use more bots<br />
+  <sub>[#177791](https://github.com/flutter/flutter/pull/177791) opened on on October 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177791) 5 additions and 5 deletions in 1 file</sub><br />
+
