@@ -117,5 +117,5 @@
   <sub>[#177794](https://github.com/flutter/flutter/pull/177794) opened on on October 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177794) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Mark deprecated ios application lifecycle methods as such<br />
-  <sub>[#177807](https://github.com/flutter/flutter/pull/177807) opened on on October 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/177807) 48 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#177807](https://github.com/flutter/flutter/pull/177807) opened on on October 30, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/177807) 48 additions and 14 deletions in 2 files</sub><br />
 
