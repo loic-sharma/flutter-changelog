@@ -4,7 +4,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-43 commits.
+44 commits.
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add `Navigator.popUntilWithResult`<br />
   <sub>[#169341](https://github.com/flutter/flutter/pull/169341) merged on October 29, 2025 &mdash; **Small:** [58 comments](https://github.com/flutter/flutter/pull/169341) over 5 months, 114 additions and 0 deletions in 2 files</sub><br />
@@ -69,13 +69,17 @@
   <sub>[#177512](https://github.com/flutter/flutter/pull/177512) merged on October 27, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/177512) over 2 days, 497 additions and 11 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Copy symlinks when creating android cipd package, and update to package w/ symlinks<br />
+  <sub>[#177638](https://github.com/flutter/flutter/pull/177638) merged on October 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177638) over 1 day, 134 additions and 134 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Gradle 9] Fix Engine Deps<br />
   <sub>[#177623](https://github.com/flutter/flutter/pull/177623) merged on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177623) over 22 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Copy symlinks when creating android cipd package, and update to package w/ symlinks<br />
-  <sub>[#177638](https://github.com/flutter/flutter/pull/177638) merged on October 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177638) over 1 day, 134 additions and 134 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; impeller: allow setting image sampler uniforms by name<br />
+  <sub>[#176749](https://github.com/flutter/flutter/pull/176749) merged on October 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176749) over 3 weeks, 195 additions and 7 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix AppBar Semantics namesRoute for mismatched platforms<br />
   <sub>[#176694](https://github.com/flutter/flutter/pull/176694) merged on October 28, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176694) over 2 weeks, 145 additions and 1 deletion in 2 files</sub><br />
@@ -121,10 +125,6 @@
   <sub>[#177049](https://github.com/flutter/flutter/pull/177049) merged on October 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177049) over 1 week, 53 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; Fix missing list indicators in CHANGELOG.md<br />
-  <sub>[#177484](https://github.com/flutter/flutter/pull/177484) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177484) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll dartdoc to 9.0.0<br />
   <sub>[#177590](https://github.com/flutter/flutter/pull/177590) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177590) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
@@ -133,9 +133,9 @@
   <sub>[#177446](https://github.com/flutter/flutter/pull/177446) merged on October 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177446) over 4 days, 1 addition and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [sigmundch](https://github.com/sigmundch)</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `interactive_viewer.constrained.0.dart`<br />
-  <sub>[#177540](https://github.com/flutter/flutter/pull/177540) merged on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177540) over 3 days, 3 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[Alex Li](https://github.com/AlexV525)** &mdash; Fix missing list indicators in CHANGELOG.md<br />
+  <sub>[#177484](https://github.com/flutter/flutter/pull/177484) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177484) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace opacity from random color in navigation bar test<br />
   <sub>[#177490](https://github.com/flutter/flutter/pull/177490) merged on October 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177490) over 4 days, 3 additions and 1 deletion in 1 file</sub><br />
@@ -149,13 +149,13 @@
   <sub>[#177120](https://github.com/flutter/flutter/pull/177120) merged on October 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177120) over 1 week, 1 addition and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy png encoding/decoding in skp<br />
-  <sub>[#177462](https://github.com/flutter/flutter/pull/177462) merged on October 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177462) over 4 days, 3 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add discussion of federated plugin documentation<br />
   <sub>[#177659](https://github.com/flutter/flutter/pull/177659) merged on October 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177659) over 23 hours, 12 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy png encoding/decoding in skp<br />
+  <sub>[#177462](https://github.com/flutter/flutter/pull/177462) merged on October 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177462) over 4 days, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Deprecate --pwa-strategy<br />
   <sub>[#177613](https://github.com/flutter/flutter/pull/177613) merged on October 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177613) over 1 day, 145 additions and 21 deletions in 12 files</sub><br />
@@ -180,6 +180,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update Engine `ci.yaml` to test against Java 21<br />
   <sub>[#177677](https://github.com/flutter/flutter/pull/177677) merged on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177677) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `interactive_viewer.constrained.0.dart`<br />
+  <sub>[#177540](https://github.com/flutter/flutter/pull/177540) merged on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177540) over 3 days, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 ### October 18, 2025 to October 24, 2025
 
