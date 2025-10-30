@@ -126,5 +126,5 @@
   <sub>[#177758](https://github.com/flutter/flutter/pull/177758) opened on on October 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177758) 31 additions and 11 deletions in 4 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SearchBar doesn't crash in 0x0 environment<br />
-  <sub>[#177761](https://github.com/flutter/flutter/pull/177761) opened on on October 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177761) 16 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#177761](https://github.com/flutter/flutter/pull/177761) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177761) 16 additions and 0 deletions in 1 file</sub><br />
 
