@@ -122,9 +122,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SearchAnchor doesn't crash in 0x0 environment<br />
   <sub>[#177749](https://github.com/flutter/flutter/pull/177749) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177749) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[ColdPaleLight](https://github.com/ColdPaleLight)** &mdash; Fix cubic subdivision estimation using correct Wang’s formula<br />
-  <sub>[#177758](https://github.com/flutter/flutter/pull/177758) opened on on October 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177758) 31 additions and 11 deletions in 4 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SearchBar doesn't crash in 0x0 environment<br />
   <sub>[#177761](https://github.com/flutter/flutter/pull/177761) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177761) 16 additions and 0 deletions in 1 file</sub><br />
 
