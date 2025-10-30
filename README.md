@@ -869,11 +869,15 @@
 
 ### October 25, 2025 to October 31, 2025
 
-11 commits.
+13 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate the site infrastructure to Jaspr and Jaspr Content<br />
   <sub>[#12548](https://github.com/flutter/website/pull/12548) merged on October 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/website/pull/12548) over 2 weeks, 13943 additions and 14138 deletions in 1739 files</sub><br />
   <sub>Reviewed by: [Kilian Schulte](https://github.com/schultek), [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; Format all SCSS, Markdown, yaml, HTML files<br />
+  <sub>[#12609](https://github.com/flutter/website/pull/12609) merged on October 30, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/website/pull/12609) over 2 hours, 1758 additions and 1720 deletions in 289 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update plugin migration instructions<br />
   <sub>[#12591](https://github.com/flutter/website/pull/12591) merged on October 27, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12591) over 3 days, 134 additions and 118 deletions in 1 file</sub><br />
@@ -901,6 +905,10 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix broken list<br />
   <sub>[#12594](https://github.com/flutter/website/pull/12594) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12594) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Replacing no-longer-supported-verbage from the website<br />
+  <sub>[#12611](https://github.com/flutter/website/pull/12611) merged on October 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12611) over 43 minutes, 4 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Matthew Thomas](https://github.com/matthew-a-thomas)** &mdash; Remove spurious backtick from faq.md<br />
