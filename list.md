@@ -869,7 +869,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-7 commits.
+8 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate the site infrastructure to Jaspr and Jaspr Content
   <sub>[#12548](https://github.com/flutter/website/pull/12548) merged on October 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/website/pull/12548) over 2 weeks, 13943 additions and 14138 deletions in 1739 files</sub>
@@ -889,6 +889,10 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix broken list
   <sub>[#12594](https://github.com/flutter/website/pull/12594) merged on October 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12594) over 2 days, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Matthew Thomas](https://github.com/matthew-a-thomas)** &mdash; Remove spurious backtick from faq.md
+  <sub>[#12606](https://github.com/flutter/website/pull/12606) merged on October 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12606) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Alex Frei](https://github.com/hm21)** &mdash; Add go redirect for table-cell-span doc
