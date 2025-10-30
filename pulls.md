@@ -87,7 +87,7 @@
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177523) 87 additions and 63 deletions in 1 file</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
-  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/177572) 295 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/177572) 295 additions and 6 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix ElevatedButton.icon breaks focus traversal and VoiceOver when toggling icon<br />
   <sub>[#177579](https://github.com/flutter/flutter/pull/177579) opened on on October 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177579) 139 additions and 102 deletions in 3 files</sub><br />
@@ -113,12 +113,12 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Clean up links to docs website<br />
   <sub>[#177792](https://github.com/flutter/flutter/pull/177792) opened on on October 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177792) 72 additions and 82 deletions in 49 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the path used by the download_fuchsia_sdk.py script to //third_party/fuchsia-sdk<br />
-  <sub>[#177794](https://github.com/flutter/flutter/pull/177794) opened on on October 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177794) 5 additions and 5 deletions in 1 file</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Mark deprecated ios application lifecycle methods as such<br />
   <sub>[#177807](https://github.com/flutter/flutter/pull/177807) opened on on October 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/177807) 48 additions and 14 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes tab to allow child to have semantics role<br />
   <sub>[#177809](https://github.com/flutter/flutter/pull/177809) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177809) 38 additions and 11 deletions in 2 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove minimize API for dialogs<br />
+  <sub>[#177816](https://github.com/flutter/flutter/pull/177816) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177816) 0 additions and 34 deletions in 2 files</sub><br />
 
