@@ -893,7 +893,7 @@
 
 ### October 25, 2025 to October 31, 2025
 
-15 commits.
+16 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate the site infrastructure to Jaspr and Jaspr Content
   <sub>[#12548](https://github.com/flutter/website/pull/12548) merged on October 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/website/pull/12548) over 2 weeks, 13943 additions and 14138 deletions in 1739 files</sub>
@@ -902,6 +902,10 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Format all SCSS, Markdown, yaml, HTML files
   <sub>[#12609](https://github.com/flutter/website/pull/12609) merged on October 30, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/website/pull/12609) over 2 hours, 1758 additions and 1720 deletions in 289 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a breaking change page for FontWeight handling of variable fonts
+  <sub>[#12615](https://github.com/flutter/website/pull/12615) merged on October 30, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12615) over 1 hour, 88 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Show full Dart SDK version for beta releases in the archive
   <sub>[#12604](https://github.com/flutter/website/pull/12604) merged on October 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12604) over 1 day, 12 additions and 4 deletions in 3 files</sub>
