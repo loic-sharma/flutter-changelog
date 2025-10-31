@@ -122,3 +122,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove minimize API for dialogs<br />
   <sub>[#177816](https://github.com/flutter/flutter/pull/177816) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177816) 6 additions and 51 deletions in 3 files</sub><br />
 
+* **[kl2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
+  <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
+

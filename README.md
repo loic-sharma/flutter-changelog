@@ -927,6 +927,10 @@
   <sub>[#12604](https://github.com/flutter/website/pull/12604) merged on October 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12604) over 1 day, 12 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Tweak Inside Flutter wording<br />
+  <sub>[#12607](https://github.com/flutter/website/pull/12607) merged on October 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12607) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarifying definition of "allocated heap"<br />
   <sub>[#12612](https://github.com/flutter/website/pull/12612) merged on October 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12612) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
@@ -937,10 +941,6 @@
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Clean up remaining Medium blog references<br />
   <sub>[#12614](https://github.com/flutter/website/pull/12614) merged on October 30, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12614) over 1 hour, 184 additions and 184 deletions in 33 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Tweak Inside Flutter wording<br />
-  <sub>[#12607](https://github.com/flutter/website/pull/12607) merged on October 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12607) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds example glsl and opengles instructions for ImageFilter fragment shaders<br />
