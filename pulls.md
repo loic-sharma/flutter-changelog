@@ -57,7 +57,7 @@
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/176825) 185 additions and 41 deletions in 2 files</sub><br />
 
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
-  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/176832) 247 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176832) 247 additions and 8 deletions in 2 files</sub><br />
 
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
@@ -127,4 +127,7 @@
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Update CORS origin on api.flutter.dev for use in docs.<br />
   <sub>[#177841](https://github.com/flutter/flutter/pull/177841) opened on on October 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177841) 10 additions and 1 deletion in 1 file</sub><br />
+
+* **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: correct iOS signing log for manual code signing (CODE_SIGN_STYLE=Manual)<br />
+  <sub>[#177851](https://github.com/flutter/flutter/pull/177851) opened on on October 31, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/177851) 5998 additions and 1698 deletions in 120 files</sub><br />
 
