@@ -57,7 +57,7 @@
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/176825) 185 additions and 41 deletions in 2 files</sub><br />
 
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
-  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176832) 247 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/176832) 247 additions and 8 deletions in 2 files</sub><br />
 
 * **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
   <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
@@ -129,5 +129,5 @@
   <sub>[#177852](https://github.com/flutter/flutter/pull/177852) opened on on October 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177852) 33 additions and 4 deletions in 2 files</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Add Cyrillic keyboard layout support for flutter_tools terminal commands<br />
-  <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177855) 143 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177855) 144 additions and 21 deletions in 2 files</sub><br />
 
