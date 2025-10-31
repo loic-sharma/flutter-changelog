@@ -129,7 +129,7 @@
   <sub>[#177841](https://github.com/flutter/flutter/pull/177841) opened on on October 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177841) 10 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: correct iOS signing log for manual code signing (CODE_SIGN_STYLE=Manual)<br />
-  <sub>[#177852](https://github.com/flutter/flutter/pull/177852) opened on on October 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177852) 33 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#177852](https://github.com/flutter/flutter/pull/177852) opened on on October 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177852) 33 additions and 4 deletions in 2 files</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Add Cyrillic keyboard layout support for flutter_tools terminal commands<br />
   <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177855) 153 additions and 21 deletions in 2 files</sub><br />
