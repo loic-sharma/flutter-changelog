@@ -74,9 +74,6 @@
 * **[bufffun](https://github.com/bufffun)** &mdash; [flutter_tools] Replace copyDirectory with rsync in build macos-framework command for correct permissions<br />
   <sub>[#177397](https://github.com/flutter/flutter/pull/177397) opened on on October 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177397) 14 additions and 13 deletions in 1 file</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [Re-land] Update `android_engine_vulkan_tests` to test against AVD 36         <br />
-  <sub>[#177422](https://github.com/flutter/flutter/pull/177422) opened on on October 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177422) 4 additions and 7 deletions in 1 file</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
