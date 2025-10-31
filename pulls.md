@@ -129,5 +129,5 @@
   <sub>[#177852](https://github.com/flutter/flutter/pull/177852) opened on on October 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177852) 33 additions and 4 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update `linux_android_emu_unstable` to use avd rev 7<br />
-  <sub>[#177854](https://github.com/flutter/flutter/pull/177854) opened on on October 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177854) 14 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#177854](https://github.com/flutter/flutter/pull/177854) opened on on October 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177854) 14 additions and 1 deletion in 1 file</sub><br />
 
