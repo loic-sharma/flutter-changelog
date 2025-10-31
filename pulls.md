@@ -125,3 +125,6 @@
 * **[kl2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[abylaykhan](https://github.com/abikko)** &mdash; feat: added errorPadding property<br />
+  <sub>[#177826](https://github.com/flutter/flutter/pull/177826) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177826) 31 additions and 3 deletions in 1 file</sub><br />
+
