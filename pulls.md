@@ -119,6 +119,9 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes tab to allow child to have semantics role<br />
   <sub>[#177809](https://github.com/flutter/flutter/pull/177809) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177809) 38 additions and 11 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `switch.1.dart` example<br />
+  <sub>[#177811](https://github.com/flutter/flutter/pull/177811) opened on on October 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177811) 5 additions and 6 deletions in 1 file</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove minimize API for dialogs<br />
   <sub>[#177816](https://github.com/flutter/flutter/pull/177816) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177816) 6 additions and 51 deletions in 3 files</sub><br />
 
