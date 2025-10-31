@@ -95,6 +95,9 @@
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Document that `error` parameter must be initialized<br />
   <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Upgrade Chrome to 141 (for engine tests)<br />
+  <sub>[#177743](https://github.com/flutter/flutter/pull/177743) opened on on October 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177743) 69 additions and 56 deletions in 3 files</sub><br />
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [tool] Remove remaining usages of `package:usage`<br />
   <sub>[#177751](https://github.com/flutter/flutter/pull/177751) opened on on October 29, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/177751) 26 additions and 1665 deletions in 21 files</sub><br />
 
@@ -129,5 +132,5 @@
   <sub>[#177852](https://github.com/flutter/flutter/pull/177852) opened on on October 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177852) 33 additions and 4 deletions in 2 files</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Add Cyrillic keyboard layout support for flutter_tools terminal commands<br />
-  <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177855) 144 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177855) 153 additions and 21 deletions in 2 files</sub><br />
 
