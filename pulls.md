@@ -120,5 +120,5 @@
   <sub>[#177809](https://github.com/flutter/flutter/pull/177809) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177809) 38 additions and 11 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove minimize API for dialogs<br />
-  <sub>[#177816](https://github.com/flutter/flutter/pull/177816) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177816) 0 additions and 34 deletions in 2 files</sub><br />
+  <sub>[#177816](https://github.com/flutter/flutter/pull/177816) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177816) 6 additions and 51 deletions in 3 files</sub><br />
 
