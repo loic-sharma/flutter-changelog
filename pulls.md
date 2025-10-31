@@ -134,3 +134,6 @@
 * **[Илия](https://github.com/777genius)** &mdash; Add Cyrillic keyboard layout support for flutter_tools terminal commands<br />
   <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177855) 153 additions and 21 deletions in 2 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused futurize util<br />
+  <sub>[#177861](https://github.com/flutter/flutter/pull/177861) opened on on October 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177861) 2 additions and 113 deletions in 3 files</sub><br />
+
