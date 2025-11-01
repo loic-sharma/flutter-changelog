@@ -144,5 +144,5 @@
   <sub>[#177882](https://github.com/flutter/flutter/pull/177882) opened on on November 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177882) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177888) 619 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177888) 629 additions and 10 deletions in 3 files</sub><br />
 
