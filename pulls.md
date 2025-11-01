@@ -144,5 +144,5 @@
   <sub>[#177876](https://github.com/flutter/flutter/pull/177876) opened on on November 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177876) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Slider doesn't crash in 0x0 environment<br />
-  <sub>[#177882](https://github.com/flutter/flutter/pull/177882) opened on on November 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177882) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#177882](https://github.com/flutter/flutter/pull/177882) opened on on November 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177882) 13 additions and 0 deletions in 1 file</sub><br />
 
