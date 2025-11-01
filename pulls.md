@@ -138,5 +138,5 @@
   <sub>[#177861](https://github.com/flutter/flutter/pull/177861) opened on on October 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177861) 2 additions and 113 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SelectableText doesn't crash in 0x0 environment<br />
-  <sub>[#177875](https://github.com/flutter/flutter/pull/177875) opened on on November 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177875) 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#177875](https://github.com/flutter/flutter/pull/177875) opened on on November 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177875) 9 additions and 0 deletions in 1 file</sub><br />
 
