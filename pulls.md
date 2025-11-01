@@ -137,6 +137,3 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused futurize util<br />
   <sub>[#177861](https://github.com/flutter/flutter/pull/177861) opened on on October 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177861) 2 additions and 113 deletions in 3 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [engine,build] Fix Fuchsia RBE build<br />
-  <sub>[#177865](https://github.com/flutter/flutter/pull/177865) opened on on October 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177865) 24 additions and 17 deletions in 1 file</sub><br />
-
