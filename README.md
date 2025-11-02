@@ -133,6 +133,10 @@
   <sub>[#177758](https://github.com/flutter/flutter/pull/177758) merged on October 31, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/177758) over 1 day, 40 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Hide "waiting for customer" issues from text input triage<br />
+  <sub>[#177524](https://github.com/flutter/flutter/pull/177524) merged on October 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177524) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix default value for DateRangePickerDialog currentDate<br />
   <sub>[#177448](https://github.com/flutter/flutter/pull/177448) merged on October 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177448) over 1 week, 28 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -148,10 +152,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [engine,build] Fix Fuchsia RBE build<br />
   <sub>[#177865](https://github.com/flutter/flutter/pull/177865) merged on November 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177865) over 1 day, 24 additions and 17 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Hide "waiting for customer" issues from text input triage<br />
-  <sub>[#177524](https://github.com/flutter/flutter/pull/177524) merged on October 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177524) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the path used by the download_fuchsia_sdk.py script to //third_party/fuchsia-sdk<br />
   <sub>[#177794](https://github.com/flutter/flutter/pull/177794) merged on October 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177794) over 2 hours, 5 additions and 5 deletions in 1 file</sub><br />
