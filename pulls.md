@@ -140,6 +140,3 @@
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) opened on on November 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177895) 20 additions and 30 deletions in 9 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SnackBarAction doesn't crash in 0x0 environment<br />
-  <sub>[#177899](https://github.com/flutter/flutter/pull/177899) opened on on November 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177899) 13 additions and 0 deletions in 1 file</sub><br />
-
