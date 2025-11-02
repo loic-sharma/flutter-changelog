@@ -134,15 +134,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused futurize util<br />
   <sub>[#177861](https://github.com/flutter/flutter/pull/177861) opened on on October 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177861) 2 additions and 113 deletions in 3 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SelectableText doesn't crash in 0x0 environment<br />
-  <sub>[#177875](https://github.com/flutter/flutter/pull/177875) opened on on November 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177875) 9 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SelectionArea doesn't crash in 0x0 environment<br />
-  <sub>[#177876](https://github.com/flutter/flutter/pull/177876) opened on on November 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177876) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Slider doesn't crash in 0x0 environment<br />
-  <sub>[#177882](https://github.com/flutter/flutter/pull/177882) opened on on November 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177882) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177888) 630 additions and 10 deletions in 3 files</sub><br />
 
