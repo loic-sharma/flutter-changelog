@@ -4,7 +4,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-17 commits.
+18 commits.
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; fix(impeller): fix params to glDiscardFrameBufferEXT
   <sub>[#175589](https://github.com/flutter/flutter/pull/175589) merged on November 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175589) over 1 month, 150 additions and 6 deletions in 5 files</sub>
@@ -41,6 +41,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve Impeller's docs in the top-level docs folder
   <sub>[#177848](https://github.com/flutter/flutter/pull/177848) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177848) over 3 days, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SnackBarAction doesn't crash in 0x0 environment
+  <sub>[#177899](https://github.com/flutter/flutter/pull/177899) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177899) over 1 day, 13 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SelectionArea doesn't crash in 0x0 environment
   <sub>[#177876](https://github.com/flutter/flutter/pull/177876) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177876) over 2 days, 11 additions and 0 deletions in 1 file</sub>
@@ -706,9 +710,22 @@
 
 ## flutter/packages
 
+### November 1, 2025 to November 7, 2025
+
+2 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Remove use of OCMock
+  <sub>[#10290](https://github.com/flutter/packages/pull/10290) merged on November 3, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/10290) over 1 week, 985 additions and 333 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [interactive_media_ads] Pin iOS dependency maximum
+  <sub>[#10349](https://github.com/flutter/packages/pull/10349) merged on November 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10349) over 8 hours, 12 additions and 5 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### October 25, 2025 to October 31, 2025
 
-6 commits.
+<details>
+<summary>6 commits...</summary>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [cross_file] always set browser blob when constructing XFile from data
   <sub>[#8611](https://github.com/flutter/packages/pull/8611) merged on October 29, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8611) over 8 months, 27 additions and 9 deletions in 5 files</sub>
@@ -733,6 +750,8 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fix Namespace Assignment Test
   <sub>[#10289](https://github.com/flutter/packages/pull/10289) merged on October 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10289) over 4 days, 5 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+</details>
 
 ### October 18, 2025 to October 24, 2025
 
@@ -820,7 +839,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-3 commits.
+4 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking change index for 3.38
   <sub>[#12625](https://github.com/flutter/website/pull/12625) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12625) over 10 hours, 88 additions and 68 deletions in 8 files</sub>
@@ -833,6 +852,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added impellerc example for auditing fragment shaders
   <sub>[#12613](https://github.com/flutter/website/pull/12613) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12613) over 3 days, 23 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a note about "the great thread merge"
+  <sub>[#12627](https://github.com/flutter/website/pull/12627) merged on November 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12627) over 1 hour, 18 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Craig Labenz](https://github.com/craiglabenz), [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### October 25, 2025 to October 31, 2025
 
