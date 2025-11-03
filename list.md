@@ -778,9 +778,18 @@
 
 ## flutter/website
 
+### November 1, 2025 to November 7, 2025
+
+1 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added impellerc example for auditing fragment shaders
+  <sub>[#12613](https://github.com/flutter/website/pull/12613) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12613) over 3 days, 23 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### October 25, 2025 to October 31, 2025
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate the site infrastructure to Jaspr and Jaspr Content
   <sub>[#12548](https://github.com/flutter/website/pull/12548) merged on October 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/website/pull/12548) over 2 weeks, 13943 additions and 14138 deletions in 1739 files</sub>
@@ -845,6 +854,8 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Move MCP docs from Dart site to Flutter site
   <sub>[#12598](https://github.com/flutter/website/pull/12598) merged on October 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12598) over 30 minutes, 298 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### October 18, 2025 to October 24, 2025
 
