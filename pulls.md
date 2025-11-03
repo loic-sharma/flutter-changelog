@@ -125,6 +125,6 @@
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) opened on on November 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177895) 21 additions and 31 deletions in 9 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Speculative fix for android_verified_input_test<br />
-  <sub>[#177937](https://github.com/flutter/flutter/pull/177937) opened on on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177937) 2 additions and 0 deletions in 1 file</sub><br />
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
+  <sub>[#177939](https://github.com/flutter/flutter/pull/177939) opened on on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177939) 105 additions and 83 deletions in 10 files</sub><br />
 

@@ -4,7 +4,11 @@
 
 ### November 1, 2025 to November 7, 2025
 
-10 commits.
+11 commits.
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; fix(impeller): fix params to glDiscardFrameBufferEXT
+  <sub>[#175589](https://github.com/flutter/flutter/pull/175589) merged on November 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175589) over 1 month, 150 additions and 6 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) merged on November 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173600) over 2 months, 14 additions and 1 deletion in 2 files</sub>
