@@ -32,9 +32,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
   <sub>[#175664](https://github.com/flutter/flutter/pull/175664) opened on on September 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175664) 96 additions and 45 deletions in 2 files</sub><br />
 
-* **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
-  <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; Fix(tools): Rely on FLUTTER_ROOT in Xcode build scripts<br />
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175846) 23 additions and 10 deletions in 2 files</sub><br />
 
