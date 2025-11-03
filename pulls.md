@@ -47,9 +47,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
-* **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml<br />
-  <sub>[#176393](https://github.com/flutter/flutter/pull/176393) opened on on October 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/176393) 351 additions and 13 deletions in 9 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/176825) 185 additions and 41 deletions in 2 files</sub><br />
 
@@ -98,9 +95,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update documentation tool reference in image.dart<br />
   <sub>[#177782](https://github.com/flutter/flutter/pull/177782) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177782) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Delete unused reportTimings instance variable<br />
-  <sub>[#177787](https://github.com/flutter/flutter/pull/177787) opened on on October 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177787) 0 additions and 6 deletions in 1 file</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Mark deprecated ios application lifecycle methods as such<br />
   <sub>[#177807](https://github.com/flutter/flutter/pull/177807) opened on on October 30, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/177807) 48 additions and 14 deletions in 2 files</sub><br />
 
@@ -132,5 +126,5 @@
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177888) 630 additions and 10 deletions in 3 files</sub><br />
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
-  <sub>[#177895](https://github.com/flutter/flutter/pull/177895) opened on on November 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177895) 20 additions and 30 deletions in 9 files</sub><br />
+  <sub>[#177895](https://github.com/flutter/flutter/pull/177895) opened on on November 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177895) 21 additions and 31 deletions in 9 files</sub><br />
 
