@@ -4,7 +4,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-9 commits.
+10 commits.
 
 * **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5
   <sub>[#173600](https://github.com/flutter/flutter/pull/173600) merged on November 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173600) over 2 months, 14 additions and 1 deletion in 2 files</sub>
@@ -17,6 +17,10 @@
 * **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html
   <sub>[#177084](https://github.com/flutter/flutter/pull/177084) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177084) over 2 weeks, 8 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; wires up set application locale to web engine
+  <sub>[#177284](https://github.com/flutter/flutter/pull/177284) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177284) over 1 week, 51 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update `linux_android_emu_unstable` to use avd rev 7
   <sub>[#177854](https://github.com/flutter/flutter/pull/177854) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177854) over 2 days, 14 additions and 1 deletion in 1 file</sub>
