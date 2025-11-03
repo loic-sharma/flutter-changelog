@@ -4,7 +4,11 @@
 
 ### November 1, 2025 to November 7, 2025
 
-5 commits.
+6 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix the source rectangle used when rendering an AtlasContents with the strict mode for nine-patch images
+  <sub>[#177860](https://github.com/flutter/flutter/pull/177860) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177860) over 2 days, 25 additions and 5 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html
   <sub>[#177084](https://github.com/flutter/flutter/pull/177084) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177084) over 2 weeks, 8 additions and 0 deletions in 1 file</sub>
