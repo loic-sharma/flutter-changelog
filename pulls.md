@@ -128,3 +128,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
   <sub>[#177939](https://github.com/flutter/flutter/pull/177939) opened on on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177939) 105 additions and 83 deletions in 10 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `isHeif` crash<br />
+  <sub>[#177944](https://github.com/flutter/flutter/pull/177944) opened on on November 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177944) 10 additions and 2 deletions in 2 files</sub><br />
+
