@@ -4,7 +4,11 @@
 
 ### November 1, 2025 to November 7, 2025
 
-1 commits.
+2 commits.
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuButton doesn't crash in 0x0 environment
+  <sub>[#177493](https://github.com/flutter/flutter/pull/177493) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177493) over 1 week, 23 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CircularProgressIndicator doesn't crash in 0x0 envir…
   <sub>[#177555](https://github.com/flutter/flutter/pull/177555) merged on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177555) over 1 week, 9 additions and 0 deletions in 1 file</sub>
