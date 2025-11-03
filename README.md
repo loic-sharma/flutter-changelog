@@ -14,13 +14,13 @@
   <sub>[#177860](https://github.com/flutter/flutter/pull/177860) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177860) over 2 days, 25 additions and 5 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html<br />
-  <sub>[#177084](https://github.com/flutter/flutter/pull/177084) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177084) over 2 weeks, 8 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up set application locale to web engine<br />
   <sub>[#177284](https://github.com/flutter/flutter/pull/177284) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177284) over 1 week, 51 additions and 0 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html<br />
+  <sub>[#177084](https://github.com/flutter/flutter/pull/177084) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177084) over 2 weeks, 8 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Update `linux_android_emu_unstable` to use avd rev 7<br />
   <sub>[#177854](https://github.com/flutter/flutter/pull/177854) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177854) over 2 days, 14 additions and 1 deletion in 1 file</sub><br />

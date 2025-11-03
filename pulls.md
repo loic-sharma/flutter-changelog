@@ -125,3 +125,6 @@
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) opened on on November 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177895) 21 additions and 31 deletions in 9 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [wip] debug why verified input test passes locally but fails on ci<br />
+  <sub>[#177937](https://github.com/flutter/flutter/pull/177937) opened on on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177937) 2 additions and 0 deletions in 1 file</sub><br />
+
