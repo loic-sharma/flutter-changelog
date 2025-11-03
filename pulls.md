@@ -101,9 +101,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes tab to allow child to have semantics role<br />
   <sub>[#177809](https://github.com/flutter/flutter/pull/177809) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177809) 38 additions and 11 deletions in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove minimize API for dialogs<br />
-  <sub>[#177816](https://github.com/flutter/flutter/pull/177816) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177816) 6 additions and 51 deletions in 3 files</sub><br />
-
 * **[kl2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
@@ -117,7 +114,7 @@
   <sub>[#177852](https://github.com/flutter/flutter/pull/177852) opened on on October 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177852) 40 additions and 4 deletions in 2 files</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Add Cyrillic keyboard layout support for flutter_tools terminal commands<br />
-  <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177855) 153 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177855) 153 additions and 21 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused futurize util<br />
   <sub>[#177861](https://github.com/flutter/flutter/pull/177861) opened on on October 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177861) 5 additions and 118 deletions in 3 files</sub><br />
