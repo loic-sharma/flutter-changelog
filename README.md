@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 1, 2025 to November 7, 2025
+
+1 commits.
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CircularProgressIndicator doesn't crash in 0x0 envir…<br />
+  <sub>[#177555](https://github.com/flutter/flutter/pull/177555) merged on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177555) over 1 week, 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 ### October 25, 2025 to October 31, 2025
 
-82 commits.
+<details>
+<summary>82 commits...</summary>
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Add `Navigator.popUntilWithResult`<br />
   <sub>[#169341](https://github.com/flutter/flutter/pull/169341) merged on October 29, 2025 &mdash; **Small:** [58 comments](https://github.com/flutter/flutter/pull/169341) over 5 months, 114 additions and 0 deletions in 2 files</sub><br />
@@ -336,6 +345,8 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows windowing_test to be flaky<br />
   <sub>[#177716](https://github.com/flutter/flutter/pull/177716) merged on October 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177716) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+</details>
 
 ### October 18, 2025 to October 24, 2025
 
