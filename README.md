@@ -4,7 +4,11 @@
 
 ### November 1, 2025 to November 7, 2025
 
-3 commits.
+4 commits.
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a PopupMenuItem doesn't crash in 0x0 environment<br />
+  <sub>[#177533](https://github.com/flutter/flutter/pull/177533) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177533) over 1 week, 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RefreshProgressIndicator doesn't crash in 0x0 enviro…<br />
   <sub>[#177556](https://github.com/flutter/flutter/pull/177556) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177556) over 1 week, 9 additions and 0 deletions in 1 file</sub><br />
