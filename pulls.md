@@ -35,9 +35,6 @@
 * **[陈鹏杰](https://github.com/idcpj)** &mdash; Add Windows default interception requiring digital signature<br />
   <sub>[#175750](https://github.com/flutter/flutter/pull/175750) opened on on September 22, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175750) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define flag for template variable injection in Flutter web builds<br />
-  <sub>[#175805](https://github.com/flutter/flutter/pull/175805) opened on on September 22, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/175805) 388 additions and 2 deletions in 12 files</sub><br />
-
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; Fix(tools): Rely on FLUTTER_ROOT in Xcode build scripts<br />
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175846) 23 additions and 10 deletions in 2 files</sub><br />
 
