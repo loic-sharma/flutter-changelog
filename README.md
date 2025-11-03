@@ -808,7 +808,15 @@
 
 ### November 1, 2025 to November 7, 2025
 
-1 commits.
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking change index for 3.38<br />
+  <sub>[#12625](https://github.com/flutter/website/pull/12625) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12625) over 10 hours, 88 additions and 68 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Design doc - Decoupling framework tests<br />
+  <sub>[#12626](https://github.com/flutter/website/pull/12626) merged on November 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12626) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added impellerc example for auditing fragment shaders<br />
   <sub>[#12613](https://github.com/flutter/website/pull/12613) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12613) over 3 days, 23 additions and 0 deletions in 1 file</sub><br />
