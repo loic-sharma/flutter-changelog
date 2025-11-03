@@ -31,13 +31,13 @@
   <sub>[#173005](https://github.com/flutter/flutter/pull/173005) merged on October 29, 2025 &mdash; **Extra large:** [59 comments](https://github.com/flutter/flutter/pull/173005) over 3 months, 1428 additions and 510 deletions in 37 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [LouiseHsu](https://github.com/LouiseHsu), [chunhtai](https://github.com/chunhtai), [ash2moon](https://github.com/ash2moon)</sub>
 
-* **[Lewin Pauli](https://github.com/lewinpauli)** &mdash; Added computeDryBaseline implementation in RenderAligningShiftedBox
-  <sub>[#171250](https://github.com/flutter/flutter/pull/171250) merged on October 30, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/171250) over 4 months, 699 additions and 67 deletions in 11 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Bui Dai Duong](https://github.com/definev)** &mdash; Colored box optimization (#176028)
   <sub>[#176073](https://github.com/flutter/flutter/pull/176073) merged on November 2, 2025 &mdash; **Small:** [62 comments](https://github.com/flutter/flutter/pull/176073) over 1 month, 261 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Lewin Pauli](https://github.com/lewinpauli)** &mdash; Added computeDryBaseline implementation in RenderAligningShiftedBox
+  <sub>[#171250](https://github.com/flutter/flutter/pull/171250) merged on October 30, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/171250) over 4 months, 699 additions and 67 deletions in 11 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Set the font weight variation axis based on the text style's FontWeight
   <sub>[#175771](https://github.com/flutter/flutter/pull/175771) merged on October 27, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/175771) over 1 month, 304 additions and 169 deletions in 17 files</sub>
