@@ -4,7 +4,11 @@
 
 ### November 1, 2025 to November 7, 2025
 
-6 commits.
+7 commits.
+
+* **[Adam Spivak](https://github.com/Spivak-adam)** &mdash; Update pubspec.yaml.tmpl build version tracker on line 5<br />
+  <sub>[#173600](https://github.com/flutter/flutter/pull/173600) merged on November 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/173600) over 2 months, 14 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Felix Angelov](https://github.com/felangel), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix the source rectangle used when rendering an AtlasContents with the strict mode for nine-patch images<br />
   <sub>[#177860](https://github.com/flutter/flutter/pull/177860) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177860) over 2 days, 25 additions and 5 deletions in 5 files</sub><br />
