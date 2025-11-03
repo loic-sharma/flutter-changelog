@@ -4,7 +4,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-12 commits.
+13 commits.
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; fix(impeller): fix params to glDiscardFrameBufferEXT<br />
   <sub>[#175589](https://github.com/flutter/flutter/pull/175589) merged on November 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175589) over 1 month, 150 additions and 6 deletions in 5 files</sub><br />
@@ -21,6 +21,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up set application locale to web engine<br />
   <sub>[#177284](https://github.com/flutter/flutter/pull/177284) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177284) over 1 week, 51 additions and 0 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that GridTile doesn't crash in 0x0 environment<br />
+  <sub>[#175321](https://github.com/flutter/flutter/pull/175321) merged on November 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/175321) over 1 month, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html<br />
   <sub>[#177084](https://github.com/flutter/flutter/pull/177084) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177084) over 2 weeks, 8 additions and 0 deletions in 1 file</sub><br />
