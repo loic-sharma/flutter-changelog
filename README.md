@@ -4,7 +4,11 @@
 
 ### November 1, 2025 to November 7, 2025
 
-18 commits.
+19 commits.
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add blockAccessibilityFocus flag<br />
+  <sub>[#175551](https://github.com/flutter/flutter/pull/175551) merged on November 3, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/175551) over 1 month, 534 additions and 15 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; fix(impeller): fix params to glDiscardFrameBufferEXT<br />
   <sub>[#175589](https://github.com/flutter/flutter/pull/175589) merged on November 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175589) over 1 month, 150 additions and 6 deletions in 5 files</sub><br />

@@ -132,7 +132,7 @@
   <sub>[#177944](https://github.com/flutter/flutter/pull/177944) opened on on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177944) 10 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add analytic event that's reported when the previewer is opened<br />
-  <sub>[#177949](https://github.com/flutter/flutter/pull/177949) opened on on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177949) 51 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#177949](https://github.com/flutter/flutter/pull/177949) opened on on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177949) 46 additions and 1 deletion in 4 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Use inert attribute for platform view accessibility on web<br />
   <sub>[#177950](https://github.com/flutter/flutter/pull/177950) opened on on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177950) 114 additions and 5 deletions in 3 files</sub><br />
