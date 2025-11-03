@@ -77,6 +77,9 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section<br />
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) opened on on October 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177523) 87 additions and 63 deletions in 1 file</sub><br />
 
+* **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
+  <sub>[#177551](https://github.com/flutter/flutter/pull/177551) opened on on October 26, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/177551) 435 additions and 2 deletions in 22 files</sub><br />
+
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
   <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/177572) 295 additions and 6 deletions in 2 files</sub><br />
 
