@@ -9,7 +9,7 @@
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Remove dead code from snippet_generator<br />
-  <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
+  <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Add my name to AUTHORS.<br />
   <sub>[#175024](https://github.com/flutter/flutter/pull/175024) opened on on September 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175024) 1 addition and 0 deletions in 1 file</sub><br />
