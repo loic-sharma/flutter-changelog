@@ -144,5 +144,5 @@
   <sub>[#177994](https://github.com/flutter/flutter/pull/177994) opened on on November 4, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/177994) 304 additions and 284 deletions in 23 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu escape key does not close the menu<br />
-  <sub>[#178002](https://github.com/flutter/flutter/pull/178002) opened on on November 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178002) 120 additions and 25 deletions in 2 files</sub><br />
+  <sub>[#178002](https://github.com/flutter/flutter/pull/178002) opened on on November 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178002) 103 additions and 8 deletions in 2 files</sub><br />
 
