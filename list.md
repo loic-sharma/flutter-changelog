@@ -478,7 +478,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [Desktop] Propagate SemanticsNode::identifier to AXPlatformNodeDelegate::AuthorUniqueId
-  <sub>[#175405](https://github.com/flutter/flutter/pull/175405) merged on October 23, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/175405) over 1 month, 68 additions and 3 deletions in 15 files</sub>
+  <sub>[#175405](https://github.com/flutter/flutter/pull/175405) merged on October 23, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/175405) over 1 month, 68 additions and 3 deletions in 15 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets
@@ -855,7 +855,11 @@
 
 ### November 1, 2025 to November 7, 2025
 
-4 commits.
+5 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add searchable glossary
+  <sub>[#12608](https://github.com/flutter/website/pull/12608) merged on November 4, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12608) over 5 days, 673 additions and 11 deletions in 14 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking change index for 3.38
   <sub>[#12625](https://github.com/flutter/website/pull/12625) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12625) over 10 hours, 88 additions and 68 deletions in 8 files</sub>
