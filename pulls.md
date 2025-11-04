@@ -131,9 +131,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces<br />
   <sub>[#177994](https://github.com/flutter/flutter/pull/177994) opened on on November 4, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/177994) 304 additions and 284 deletions in 23 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Print reason for adb command failure in verified input test (attempt 3)<br />
-  <sub>[#178005](https://github.com/flutter/flutter/pull/178005) opened on on November 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178005) 5 additions and 1 deletion in 1 file</sub><br />
-
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Revert "Refactor OverlayPortal semantics (#173005)"<br />
   <sub>[#178007](https://github.com/flutter/flutter/pull/178007) opened on on November 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/178007) 510 additions and 1428 deletions in 37 files</sub><br />
 
