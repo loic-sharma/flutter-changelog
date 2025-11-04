@@ -864,7 +864,11 @@
 
 ### November 1, 2025 to November 7, 2025
 
-5 commits.
+7 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old implicit animation codelab with updated combined one<br />
+  <sub>[#12630](https://github.com/flutter/website/pull/12630) merged on November 4, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/12630) over 18 hours, 14 additions and 1664 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add searchable glossary<br />
   <sub>[#12608](https://github.com/flutter/website/pull/12608) merged on November 4, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12608) over 5 days, 673 additions and 11 deletions in 14 files</sub><br />
@@ -881,6 +885,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added impellerc example for auditing fragment shaders<br />
   <sub>[#12613](https://github.com/flutter/website/pull/12613) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12613) over 3 days, 23 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a note about flutter_ai_toolkit replacing previous AI packages<br />
+  <sub>[#12616](https://github.com/flutter/website/pull/12616) merged on November 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12616) over 4 days, 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Sells](https://github.com/csells), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a note about "the great thread merge"<br />
   <sub>[#12627](https://github.com/flutter/website/pull/12627) merged on November 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12627) over 1 hour, 18 additions and 9 deletions in 1 file</sub><br />
