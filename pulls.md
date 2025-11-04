@@ -105,7 +105,7 @@
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[abylaykhan](https://github.com/abikko)** &mdash; feat: added errorPadding property<br />
-  <sub>[#177826](https://github.com/flutter/flutter/pull/177826) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177826) 88 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#177826](https://github.com/flutter/flutter/pull/177826) opened on on October 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177826) 172 additions and 77 deletions in 3 files</sub><br />
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Update CORS origin on api.flutter.dev for use in docs.<br />
   <sub>[#177841](https://github.com/flutter/flutter/pull/177841) opened on on October 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177841) 10 additions and 1 deletion in 1 file</sub><br />
@@ -142,4 +142,7 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: Migrate Expansible animation properties to AnimationStyle for a less broad API surface<br />
   <sub>[#177966](https://github.com/flutter/flutter/pull/177966) opened on on November 4, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/177966) 434 additions and 9 deletions in 6 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSpellCheckSuggestionsToolbar doesn't crash …<br />
+  <sub>[#177978](https://github.com/flutter/flutter/pull/177978) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177978) 17 additions and 0 deletions in 1 file</sub><br />
 
