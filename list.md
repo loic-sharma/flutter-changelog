@@ -4,7 +4,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-20 commits.
+21 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add blockAccessibilityFocus flag
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) merged on November 3, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/175551) over 1 month, 534 additions and 15 deletions in 14 files</sub>
@@ -25,6 +25,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix the source rectangle used when rendering an AtlasContents with the strict mode for nine-patch images
   <sub>[#177860](https://github.com/flutter/flutter/pull/177860) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177860) over 2 days, 25 additions and 5 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add analytic event that's reported when the previewer is opened
+  <sub>[#177949](https://github.com/flutter/flutter/pull/177949) merged on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177949) over 3 hours, 46 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nicholas Shahan](https://github.com/nshahan)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Explicitly disable XPS backend
   <sub>[#177050](https://github.com/flutter/flutter/pull/177050) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177050) over 2 weeks, 1 addition and 0 deletions in 1 file</sub>
