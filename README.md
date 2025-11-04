@@ -146,7 +146,7 @@
   <sub><details><summary>1 image...</summary><img width="282" height="40" alt="cannot" src="https://github.com/user-attachments/assets/17ebe89d-59cc-45b7-9b89-85d6e77e8614" /></details></sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Correct editable text and placeholder position in baseline aligned stack<br />
-  <sub>[#177342](https://github.com/flutter/flutter/pull/177342) merged on October 27, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177342) over 6 days, 87 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#177342](https://github.com/flutter/flutter/pull/177342) merged on October 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/177342) over 6 days, 87 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>4 images...</summary><img width="436" height="327" alt="top b4" src="https://github.com/user-attachments/assets/39606c72-fb1f-4619-bfb2-ccaeaf502324" /><img width="436" height="327" alt="top" src="https://github.com/user-attachments/assets/faea26fc-c934-4660-bbee-e62effa44599" /><img width="436" height="327" alt="center" src="https://github.com/user-attachments/assets/2ee7004a-6f70-4af2-b33b-76293c8deac1" /><img width="436" height="327" alt="bottom" src="https://github.com/user-attachments/assets/69ba89fb-9f1c-456e-9889-216eb31d66b9" /></details></sub>
 
