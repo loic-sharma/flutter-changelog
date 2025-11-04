@@ -8,9 +8,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Remove dead code from snippet_generator<br />
-  <sub>[#174440](https://github.com/flutter/flutter/pull/174440) opened on on August 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/174440) 0 additions and 98 deletions in 1 file</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Add my name to AUTHORS.<br />
   <sub>[#175024](https://github.com/flutter/flutter/pull/175024) opened on on September 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175024) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -133,9 +130,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Add analytic event that's reported when the previewer is opened<br />
   <sub>[#177960](https://github.com/flutter/flutter/pull/177960) opened on on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177960) 46 additions and 1 deletion in 4 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test in CI (attempt 2)<br />
-  <sub>[#177961](https://github.com/flutter/flutter/pull/177961) opened on on November 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177961) 12 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SpellCheckSuggestionsToolbar doesn't crash in 0x0 en…<br />
   <sub>[#177965](https://github.com/flutter/flutter/pull/177965) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177965) 18 additions and 0 deletions in 1 file</sub><br />
