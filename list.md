@@ -741,11 +741,15 @@
 
 ### November 1, 2025 to November 7, 2025
 
-2 commits.
+3 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Remove use of OCMock
   <sub>[#10290](https://github.com/flutter/packages/pull/10290) merged on November 3, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/10290) over 1 week, 985 additions and 333 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [in_app_purchase] Remove use of Pigeon's Dart test generator
+  <sub>[#10328](https://github.com/flutter/packages/pull/10328) merged on November 4, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10328) over 5 days, 160 additions and 1429 deletions in 20 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [interactive_media_ads] Pin iOS dependency maximum
   <sub>[#10349](https://github.com/flutter/packages/pull/10349) merged on November 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10349) over 8 hours, 12 additions and 5 deletions in 6 files</sub>
