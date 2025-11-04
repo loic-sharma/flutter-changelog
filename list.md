@@ -482,7 +482,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [Desktop] Propagate SemanticsNode::identifier to AXPlatformNodeDelegate::AuthorUniqueId
-  <sub>[#175405](https://github.com/flutter/flutter/pull/175405) merged on October 23, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/175405) over 1 month, 68 additions and 3 deletions in 15 files</sub>
+  <sub>[#175405](https://github.com/flutter/flutter/pull/175405) merged on October 23, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/175405) over 1 month, 68 additions and 3 deletions in 15 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate OpenUpwardsPageTransitionsBuilder to widgets
