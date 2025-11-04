@@ -4,7 +4,12 @@
 
 ### November 1, 2025 to November 7, 2025
 
-25 commits.
+29 commits.
+
+* **[walley892](https://github.com/walley892)** &mdash; Replace rendering for solid color circles (both filled and stroked) to use SDFs
+  <sub>[#177482](https://github.com/flutter/flutter/pull/177482) merged on November 4, 2025 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/177482) over 1 week, 798 additions and 4 deletions in 21 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub>
+  <sub><details><summary>4 images...</summary><img width="236" height="245" alt="Screenshot 2025-10-23 at 4 26 18 PM" src="https://github.com/user-attachments/assets/566de15e-95d3-4b5d-963c-1cebba4aeb50" /><img width="383" height="394" alt="Screenshot 2025-10-23 at 4 29 32 PM" src="https://github.com/user-attachments/assets/7ca29be6-89f4-43e6-bd9a-c4ec4179ab1c" /><img width="383" height="394" alt="Screenshot 2025-10-23 at 8 48 17 PM" src="https://github.com/user-attachments/assets/f138bedc-edc3-4cba-a982-bd3020d9e44c" /><img width="236" height="245" alt="Screenshot 2025-10-23 at 4 24 44 PM" src="https://github.com/user-attachments/assets/6b5bec91-e3aa-4daa-9233-3a407b1f1378" /></details></sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add blockAccessibilityFocus flag
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) merged on November 3, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/175551) over 1 month, 534 additions and 15 deletions in 14 files</sub>
@@ -39,6 +44,10 @@
   <sub>[#177949](https://github.com/flutter/flutter/pull/177949) merged on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177949) over 3 hours, 46 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nicholas Shahan](https://github.com/nshahan)</sub>
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Remove dead code from snippet_generator
+  <sub>[#174440](https://github.com/flutter/flutter/pull/174440) merged on November 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/174440) over 2 months, 0 additions and 98 deletions in 1 file</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Explicitly disable XPS backend
   <sub>[#177050](https://github.com/flutter/flutter/pull/177050) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177050) over 2 weeks, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -54,6 +63,14 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `isHeif` crash
   <sub>[#177944](https://github.com/flutter/flutter/pull/177944) merged on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177944) over 5 hours, 10 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test in CI (attempt 2)
+  <sub>[#177961](https://github.com/flutter/flutter/pull/177961) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177961) over 16 hours, 12 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section
+  <sub>[#177523](https://github.com/flutter/flutter/pull/177523) merged on November 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177523) over 1 week, 87 additions and 63 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Speculative fix for android_verified_input_test
   <sub>[#177937](https://github.com/flutter/flutter/pull/177937) merged on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177937) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
