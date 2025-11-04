@@ -123,7 +123,7 @@
   <sub>[#177965](https://github.com/flutter/flutter/pull/177965) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177965) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: Migrate Expansible animation properties to AnimationStyle for a less broad API surface<br />
-  <sub>[#177966](https://github.com/flutter/flutter/pull/177966) opened on on November 4, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/177966) 434 additions and 9 deletions in 6 files</sub><br />
+  <sub>[#177966](https://github.com/flutter/flutter/pull/177966) opened on on November 4, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/177966) 434 additions and 9 deletions in 6 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSpellCheckSuggestionsToolbar doesn't crash …<br />
   <sub>[#177978](https://github.com/flutter/flutter/pull/177978) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177978) 17 additions and 0 deletions in 1 file</sub><br />
@@ -136,4 +136,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu escape key does not close the menu<br />
   <sub>[#178002](https://github.com/flutter/flutter/pull/178002) opened on on November 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178002) 103 additions and 8 deletions in 2 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Print reason for adb command failure in verified input test (attempt 3)<br />
+  <sub>[#178005](https://github.com/flutter/flutter/pull/178005) opened on on November 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178005) 5 additions and 1 deletion in 1 file</sub><br />
 
