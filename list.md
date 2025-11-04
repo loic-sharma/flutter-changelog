@@ -741,7 +741,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-7 commits.
+8 commits.
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Raise `MapUsedAfterWidgetDisposedError` when map controller used after map disposed
   <sub>[#9242](https://github.com/flutter/packages/pull/9242) merged on November 4, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9242) over 5 months, 98 additions and 1 deletion in 4 files</sub>
@@ -766,6 +766,10 @@
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [flutter_svg] Fixes typo of `allowDrawingOutsideViewBox` in doc comments.
   <sub>[#10256](https://github.com/flutter/packages/pull/10256) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10256) over 2 weeks, 11 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera_platform_interface] Adds support for video stabilization to camera_platform_interface
+  <sub>[#10337](https://github.com/flutter/packages/pull/10337) merged on November 4, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10337) over 3 days, 118 additions and 1 deletion in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [interactive_media_ads] Pin iOS dependency maximum
   <sub>[#10349](https://github.com/flutter/packages/pull/10349) merged on November 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10349) over 8 hours, 12 additions and 5 deletions in 6 files</sub>

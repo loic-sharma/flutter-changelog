@@ -131,9 +131,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSpellCheckSuggestionsToolbar doesn't crash …<br />
   <sub>[#177978](https://github.com/flutter/flutter/pull/177978) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177978) 17 additions and 0 deletions in 1 file</sub><br />
 
-* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Fixing broken link in engine readme<br />
-  <sub>[#177987](https://github.com/flutter/flutter/pull/177987) opened on on November 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177987) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-93.1.beta<br />
   <sub>[#177988](https://github.com/flutter/flutter/pull/177988) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177988) 1 addition and 1 deletion in 1 file</sub><br />
 
