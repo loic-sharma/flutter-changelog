@@ -741,7 +741,11 @@
 
 ### November 1, 2025 to November 7, 2025
 
-6 commits.
+7 commits.
+
+* **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Raise `MapUsedAfterWidgetDisposedError` when map controller used after map disposed
+  <sub>[#9242](https://github.com/flutter/packages/pull/9242) merged on November 4, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9242) over 5 months, 98 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Remove use of OCMock
   <sub>[#10290](https://github.com/flutter/packages/pull/10290) merged on November 3, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/10290) over 1 week, 985 additions and 333 deletions in 12 files</sub>
