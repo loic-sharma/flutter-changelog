@@ -123,7 +123,7 @@
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177888) 630 additions and 10 deletions in 3 files</sub><br />
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
-  <sub>[#177895](https://github.com/flutter/flutter/pull/177895) opened on on November 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177895) 21 additions and 31 deletions in 9 files</sub><br />
+  <sub>[#177895](https://github.com/flutter/flutter/pull/177895) opened on on November 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/177895) 21 additions and 31 deletions in 9 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
   <sub>[#177939](https://github.com/flutter/flutter/pull/177939) opened on on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177939) 87 additions and 87 deletions in 10 files</sub><br />
@@ -136,4 +136,10 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
   <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177954) 155 additions and 5 deletions in 12 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Add analytic event that's reported when the previewer is opened<br />
+  <sub>[#177960](https://github.com/flutter/flutter/pull/177960) opened on on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177960) 46 additions and 1 deletion in 4 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test in CI (attempt 2)<br />
+  <sub>[#177961](https://github.com/flutter/flutter/pull/177961) opened on on November 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/177961) 12 additions and 1 deletion in 2 files</sub><br />
 
