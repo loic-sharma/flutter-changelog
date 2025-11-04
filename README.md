@@ -4,7 +4,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-21 commits.
+22 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add blockAccessibilityFocus flag<br />
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) merged on November 3, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/175551) over 1 month, 534 additions and 15 deletions in 14 files</sub><br />
@@ -41,6 +41,10 @@
 * **[August](https://github.com/Gustl22)** &mdash; docs: Default Splash / Loading screen for web app in index.html<br />
   <sub>[#177084](https://github.com/flutter/flutter/pull/177084) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177084) over 2 weeks, 8 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `isHeif` crash<br />
+  <sub>[#177944](https://github.com/flutter/flutter/pull/177944) merged on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177944) over 5 hours, 10 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Speculative fix for android_verified_input_test<br />
   <sub>[#177937](https://github.com/flutter/flutter/pull/177937) merged on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177937) over 1 hour, 2 additions and 0 deletions in 1 file</sub><br />

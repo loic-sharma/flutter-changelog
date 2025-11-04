@@ -101,7 +101,7 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes tab to allow child to have semantics role<br />
   <sub>[#177809](https://github.com/flutter/flutter/pull/177809) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177809) 38 additions and 11 deletions in 2 files</sub><br />
 
-* **[kl2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
+* **[RONGALI MOHAN KRISHNA 2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[abylaykhan](https://github.com/abikko)** &mdash; feat: added errorPadding property<br />
@@ -127,9 +127,6 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
   <sub>[#177939](https://github.com/flutter/flutter/pull/177939) opened on on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177939) 87 additions and 87 deletions in 10 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `isHeif` crash<br />
-  <sub>[#177944](https://github.com/flutter/flutter/pull/177944) opened on on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177944) 10 additions and 2 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Use inert attribute for platform view accessibility on web<br />
   <sub>[#177950](https://github.com/flutter/flutter/pull/177950) opened on on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177950) 114 additions and 5 deletions in 3 files</sub><br />
