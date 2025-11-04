@@ -129,7 +129,7 @@
   <sub>[#177939](https://github.com/flutter/flutter/pull/177939) opened on on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177939) 87 additions and 87 deletions in 10 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Use inert attribute for platform view accessibility on web<br />
-  <sub>[#177950](https://github.com/flutter/flutter/pull/177950) opened on on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177950) 114 additions and 5 deletions in 3 files</sub><br />
+  <sub>[#177950](https://github.com/flutter/flutter/pull/177950) opened on on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177950) 111 additions and 5 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
   <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177954) 155 additions and 5 deletions in 12 files</sub><br />
