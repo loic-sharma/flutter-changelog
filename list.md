@@ -4,11 +4,16 @@
 
 ### November 1, 2025 to November 7, 2025
 
-23 commits.
+24 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add blockAccessibilityFocus flag
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) merged on November 3, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/175551) over 1 month, 534 additions and 15 deletions in 14 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated withOpacity in `chip_animation_style.0.dart‎`  example
+  <sub>[#177834](https://github.com/flutter/flutter/pull/177834) merged on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177834) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up set application locale to web engine
   <sub>[#177284](https://github.com/flutter/flutter/pull/177284) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177284) over 1 week, 51 additions and 0 deletions in 6 files</sub>

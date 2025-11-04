@@ -81,7 +81,7 @@
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't add webparagraph suite to CI<br />
-  <sub>[#177681](https://github.com/flutter/flutter/pull/177681) opened on on October 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177681) 8 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#177681](https://github.com/flutter/flutter/pull/177681) opened on on October 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177681) 8 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Document that `error` parameter must be initialized<br />
   <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
