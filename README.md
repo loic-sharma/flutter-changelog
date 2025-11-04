@@ -4,7 +4,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-24 commits.
+25 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add blockAccessibilityFocus flag<br />
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) merged on November 3, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/175551) over 1 month, 534 additions and 15 deletions in 14 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix the source rectangle used when rendering an AtlasContents with the strict mode for nine-patch images<br />
   <sub>[#177860](https://github.com/flutter/flutter/pull/177860) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177860) over 2 days, 25 additions and 5 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Upgrade Chrome to 141 (for engine tests)<br />
+  <sub>[#177743](https://github.com/flutter/flutter/pull/177743) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177743) over 5 days, 85 additions and 56 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add analytic event that's reported when the previewer is opened<br />
   <sub>[#177949](https://github.com/flutter/flutter/pull/177949) merged on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177949) over 3 hours, 46 additions and 1 deletion in 4 files</sub><br />

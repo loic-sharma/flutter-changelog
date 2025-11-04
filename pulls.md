@@ -86,9 +86,6 @@
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Document that `error` parameter must be initialized<br />
   <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Upgrade Chrome to 141 (for engine tests)<br />
-  <sub>[#177743](https://github.com/flutter/flutter/pull/177743) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177743) 85 additions and 56 deletions in 5 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update documentation tool reference in image.dart<br />
   <sub>[#177782](https://github.com/flutter/flutter/pull/177782) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177782) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -123,7 +120,7 @@
   <sub>[#177939](https://github.com/flutter/flutter/pull/177939) opened on on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177939) 87 additions and 87 deletions in 10 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
-  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177954) 155 additions and 5 deletions in 12 files</sub><br />
+  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177954) 149 additions and 5 deletions in 11 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Add analytic event that's reported when the previewer is opened<br />
   <sub>[#177960](https://github.com/flutter/flutter/pull/177960) opened on on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177960) 46 additions and 1 deletion in 4 files</sub><br />
@@ -138,11 +135,14 @@
   <sub>[#177978](https://github.com/flutter/flutter/pull/177978) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177978) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Fixing broken link in engine readme<br />
-  <sub>[#177987](https://github.com/flutter/flutter/pull/177987) opened on on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177987) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#177987](https://github.com/flutter/flutter/pull/177987) opened on on November 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177987) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-93.1.beta<br />
   <sub>[#177988](https://github.com/flutter/flutter/pull/177988) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177988) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces<br />
   <sub>[#177994](https://github.com/flutter/flutter/pull/177994) opened on on November 4, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/177994) 304 additions and 284 deletions in 23 files</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu escape key does not close the menu<br />
+  <sub>[#178002](https://github.com/flutter/flutter/pull/178002) opened on on November 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178002) 120 additions and 25 deletions in 2 files</sub><br />
 
