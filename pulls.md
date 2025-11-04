@@ -87,7 +87,7 @@
   <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Upgrade Chrome to 141 (for engine tests)<br />
-  <sub>[#177743](https://github.com/flutter/flutter/pull/177743) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177743) 69 additions and 56 deletions in 3 files</sub><br />
+  <sub>[#177743](https://github.com/flutter/flutter/pull/177743) opened on on October 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177743) 85 additions and 56 deletions in 5 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update documentation tool reference in image.dart<br />
   <sub>[#177782](https://github.com/flutter/flutter/pull/177782) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177782) 1 addition and 1 deletion in 1 file</sub><br />
@@ -112,9 +112,6 @@
 
 * **[Илия](https://github.com/777genius)** &mdash; Add Cyrillic keyboard layout support for flutter_tools terminal commands<br />
   <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177855) 153 additions and 21 deletions in 2 files</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused futurize util<br />
-  <sub>[#177861](https://github.com/flutter/flutter/pull/177861) opened on on October 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177861) 5 additions and 118 deletions in 3 files</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177888) 630 additions and 10 deletions in 3 files</sub><br />
@@ -147,5 +144,5 @@
   <sub>[#177988](https://github.com/flutter/flutter/pull/177988) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177988) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces<br />
-  <sub>[#177994](https://github.com/flutter/flutter/pull/177994) opened on on November 4, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/177994) 304 additions and 284 deletions in 23 files</sub><br />
+  <sub>[#177994](https://github.com/flutter/flutter/pull/177994) opened on on November 4, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/177994) 304 additions and 284 deletions in 23 files</sub><br />
 
