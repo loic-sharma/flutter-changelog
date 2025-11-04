@@ -134,9 +134,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces<br />
   <sub>[#177994](https://github.com/flutter/flutter/pull/177994) opened on on November 4, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/177994) 304 additions and 284 deletions in 23 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu escape key does not close the menu<br />
-  <sub>[#178002](https://github.com/flutter/flutter/pull/178002) opened on on November 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178002) 103 additions and 8 deletions in 2 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Print reason for adb command failure in verified input test (attempt 3)<br />
   <sub>[#178005](https://github.com/flutter/flutter/pull/178005) opened on on November 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178005) 5 additions and 1 deletion in 1 file</sub><br />
 
