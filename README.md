@@ -945,7 +945,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-7 commits.
+9 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old implicit animation codelab with updated combined one<br />
   <sub>[#12630](https://github.com/flutter/website/pull/12630) merged on November 4, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/12630) over 18 hours, 14 additions and 1664 deletions in 26 files</sub><br />
@@ -954,6 +954,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add searchable glossary<br />
   <sub>[#12608](https://github.com/flutter/website/pull/12608) merged on November 4, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12608) over 5 days, 673 additions and 11 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add /to/template link<br />
+  <sub>[#12635](https://github.com/flutter/website/pull/12635) merged on November 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12635) over 12 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking change index for 3.38<br />
   <sub>[#12625](https://github.com/flutter/website/pull/12625) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12625) over 10 hours, 88 additions and 68 deletions in 8 files</sub><br />
@@ -966,6 +970,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added impellerc example for auditing fragment shaders<br />
   <sub>[#12613](https://github.com/flutter/website/pull/12613) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12613) over 3 days, 23 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add doc for codeshare-tooltip<br />
+  <sub>[#12637](https://github.com/flutter/website/pull/12637) merged on November 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12637) over 8 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a note about flutter_ai_toolkit replacing previous AI packages<br />
   <sub>[#12616](https://github.com/flutter/website/pull/12616) merged on November 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12616) over 4 days, 9 additions and 0 deletions in 1 file</sub><br />
