@@ -4,16 +4,26 @@
 
 ### November 1, 2025 to November 7, 2025
 
-31 commits.
+34 commits.
 
 * **[walley892](https://github.com/walley892)** &mdash; Replace rendering for solid color circles (both filled and stroked) to use SDFs
   <sub>[#177482](https://github.com/flutter/flutter/pull/177482) merged on November 4, 2025 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/177482) over 1 week, 798 additions and 4 deletions in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub>
   <sub><details><summary>4 images...</summary><img width="236" height="245" alt="Screenshot 2025-10-23 at 4 26 18 PM" src="https://github.com/user-attachments/assets/566de15e-95d3-4b5d-963c-1cebba4aeb50" /><img width="383" height="394" alt="Screenshot 2025-10-23 at 4 29 32 PM" src="https://github.com/user-attachments/assets/7ca29be6-89f4-43e6-bd9a-c4ec4179ab1c" /><img width="383" height="394" alt="Screenshot 2025-10-23 at 8 48 17 PM" src="https://github.com/user-attachments/assets/f138bedc-edc3-4cba-a982-bd3020d9e44c" /><img width="236" height="245" alt="Screenshot 2025-10-23 at 4 24 44 PM" src="https://github.com/user-attachments/assets/6b5bec91-e3aa-4daa-9233-3a407b1f1378" /></details></sub>
 
+* **[Luke Memet](https://github.com/lukemmtt)** &mdash; Fix `ReorderableList` items jumping when drag direction reverses mid-animation
+  <sub>[#173241](https://github.com/flutter/flutter/pull/173241) merged on November 5, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/173241) over 3 months, 54 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+  <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/0efb250c-2960-4942-959f-59eccc20cefb" alt="demo2" width="250"><img src="https://github.com/user-attachments/assets/c24e4834-1c6b-41c1-8f44-17b4c79e0993" alt="demo2" width="250"></details></sub>
+
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add blockAccessibilityFocus flag
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) merged on November 3, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/175551) over 1 month, 534 additions and 15 deletions in 14 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `overflow_bar.0.dart‎` example
+  <sub>[#177813](https://github.com/flutter/flutter/pull/177813) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177813) over 5 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `data_table.1.dart‎` example
   <sub>[#177812](https://github.com/flutter/flutter/pull/177812) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177812) over 5 days, 2 additions and 2 deletions in 1 file</sub>
@@ -74,6 +84,10 @@
   <sub>[#177944](https://github.com/flutter/flutter/pull/177944) merged on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177944) over 5 hours, 10 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Print reason for adb command failure in verified input test (attempt 3)
+  <sub>[#178005](https://github.com/flutter/flutter/pull/178005) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178005) over 3 hours, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test in CI (attempt 2)
   <sub>[#177961](https://github.com/flutter/flutter/pull/177961) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177961) over 16 hours, 12 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
@@ -82,13 +96,13 @@
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) merged on November 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177523) over 1 week, 87 additions and 63 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Speculative fix for android_verified_input_test
-  <sub>[#177937](https://github.com/flutter/flutter/pull/177937) merged on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177937) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve Impeller's docs in the top-level docs folder
   <sub>[#177848](https://github.com/flutter/flutter/pull/177848) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177848) over 3 days, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Speculative fix for android_verified_input_test
+  <sub>[#177937](https://github.com/flutter/flutter/pull/177937) merged on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177937) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused futurize util
   <sub>[#177861](https://github.com/flutter/flutter/pull/177861) merged on November 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177861) over 3 days, 5 additions and 118 deletions in 3 files</sub>
