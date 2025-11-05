@@ -129,7 +129,7 @@
   <sub>[#177994](https://github.com/flutter/flutter/pull/177994) opened on on November 4, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/177994) 304 additions and 284 deletions in 23 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Revert "Refactor OverlayPortal semantics (#173005)"<br />
-  <sub>[#178007](https://github.com/flutter/flutter/pull/178007) opened on on November 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/178007) 510 additions and 1428 deletions in 37 files</sub><br />
+  <sub>[#178007](https://github.com/flutter/flutter/pull/178007) opened on on November 4, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/178007) 510 additions and 1428 deletions in 37 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [WIP] typography<br />
   <sub>[#178013](https://github.com/flutter/flutter/pull/178013) opened on on November 4, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/178013) 1115 additions and 19 deletions in 14 files</sub><br />
