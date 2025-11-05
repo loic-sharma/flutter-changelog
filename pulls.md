@@ -149,3 +149,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [DO NOT SUBMIT] Debugging skwasm flaky tests<br />
   <sub>[#178062](https://github.com/flutter/flutter/pull/178062) opened on on November 5, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/178062) 79 additions and 6921 deletions in 4 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Stepper doesn't crash in 0x0 environment<br />
+  <sub>[#178068](https://github.com/flutter/flutter/pull/178068) opened on on November 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178068) 20 additions and 0 deletions in 1 file</sub><br />
+
