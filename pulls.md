@@ -149,9 +149,6 @@
 * **[jacksonrl](https://github.com/jacksonrl)** &mdash; Add SliverIndexedVariedExtentList to support jumpToIndex<br />
   <sub>[#178021](https://github.com/flutter/flutter/pull/178021) opened on on November 5, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/178021) 1112 additions and 4 deletions in 6 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Add ninja / cmake deps to failing tests<br />
-  <sub>[#178054](https://github.com/flutter/flutter/pull/178054) opened on on November 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178054) 44 additions and 2 deletions in 1 file</sub><br />
-
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) opened on on November 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178057) 3 additions and 3 deletions in 3 files</sub><br />
 
