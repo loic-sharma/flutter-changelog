@@ -50,9 +50,6 @@
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
   <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/176832) 11 additions and 20 deletions in 2 files</sub><br />
 
-* **[Thong Doan](https://github.com/thongdoan)** &mdash; Fix random crash in Scaffold's persistent bottom sheet when popping a route<br />
-  <sub>[#176873](https://github.com/flutter/flutter/pull/176873) opened on on October 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176873) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Add macOS architecture option to build command and update tests<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
 
@@ -144,5 +141,5 @@
   <sub>[#178068](https://github.com/flutter/flutter/pull/178068) opened on on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178068) 20 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SwitchListTile doesn't crash in 0x0 environment<br />
-  <sub>[#178069](https://github.com/flutter/flutter/pull/178069) opened on on November 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178069) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178069](https://github.com/flutter/flutter/pull/178069) opened on on November 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178069) 13 additions and 0 deletions in 1 file</sub><br />
 
