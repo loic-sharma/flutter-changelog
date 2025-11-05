@@ -99,7 +99,7 @@
   <sub>[#177826](https://github.com/flutter/flutter/pull/177826) opened on on October 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177826) 172 additions and 77 deletions in 3 files</sub><br />
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Update CORS origin on api.flutter.dev for use in docs.<br />
-  <sub>[#177841](https://github.com/flutter/flutter/pull/177841) opened on on October 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177841) 10 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#177841](https://github.com/flutter/flutter/pull/177841) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177841) 10 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: correct iOS signing log for manual code signing (CODE_SIGN_STYLE=Manual)<br />
   <sub>[#177852](https://github.com/flutter/flutter/pull/177852) opened on on October 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177852) 40 additions and 4 deletions in 2 files</sub><br />
