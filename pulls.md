@@ -33,7 +33,7 @@
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175846) 23 additions and 10 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing<br />
-  <sub>[#176063](https://github.com/flutter/flutter/pull/176063) opened on on September 25, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/176063) 449 additions and 18 deletions in 20 files</sub><br />
+  <sub>[#176063](https://github.com/flutter/flutter/pull/176063) opened on on September 25, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176063) 449 additions and 18 deletions in 20 files</sub><br />
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing commit base expiration<br />
   <sub>[#176121](https://github.com/flutter/flutter/pull/176121) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176121) 1 addition and 0 deletions in 1 file</sub><br />
