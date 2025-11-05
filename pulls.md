@@ -95,9 +95,6 @@
 * **[RONGALI MOHAN KRISHNA 2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[abylaykhan](https://github.com/abikko)** &mdash; feat: added errorPadding property<br />
-  <sub>[#177826](https://github.com/flutter/flutter/pull/177826) opened on on October 31, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177826) 172 additions and 77 deletions in 3 files</sub><br />
-
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Update CORS origin on api.flutter.dev for use in docs.<br />
   <sub>[#177841](https://github.com/flutter/flutter/pull/177841) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177841) 10 additions and 1 deletion in 1 file</sub><br />
 
@@ -109,9 +106,6 @@
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177888) 630 additions and 10 deletions in 3 files</sub><br />
-
-* **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
-  <sub>[#177895](https://github.com/flutter/flutter/pull/177895) opened on on November 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/177895) 21 additions and 31 deletions in 9 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
   <sub>[#177939](https://github.com/flutter/flutter/pull/177939) opened on on November 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177939) 87 additions and 87 deletions in 10 files</sub><br />
@@ -131,9 +125,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces<br />
   <sub>[#177994](https://github.com/flutter/flutter/pull/177994) opened on on November 4, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/177994) 304 additions and 284 deletions in 23 files</sub><br />
 
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Revert "Refactor OverlayPortal semantics (#173005)"<br />
-  <sub>[#178007](https://github.com/flutter/flutter/pull/178007) opened on on November 4, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/178007) 510 additions and 1428 deletions in 37 files</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Expose text spacing preferences on the web<br />
   <sub>[#178014](https://github.com/flutter/flutter/pull/178014) opened on on November 4, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/178014) 598 additions and 0 deletions in 6 files</sub><br />
 
@@ -150,5 +141,8 @@
   <sub>[#178062](https://github.com/flutter/flutter/pull/178062) opened on on November 5, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/178062) 79 additions and 6921 deletions in 4 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Stepper doesn't crash in 0x0 environment<br />
-  <sub>[#178068](https://github.com/flutter/flutter/pull/178068) opened on on November 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178068) 20 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178068](https://github.com/flutter/flutter/pull/178068) opened on on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178068) 20 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SwitchListTile doesn't crash in 0x0 environment<br />
+  <sub>[#178069](https://github.com/flutter/flutter/pull/178069) opened on on November 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178069) 13 additions and 0 deletions in 1 file</sub><br />
 
