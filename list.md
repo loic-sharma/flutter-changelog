@@ -790,7 +790,11 @@
 
 ### November 1, 2025 to November 7, 2025
 
-10 commits.
+11 commits.
+
+* **[hhh](https://github.com/huanghui1998hhh)** &mdash; [go_router] ShellRoute will merge GoRouter's observers
+  <sub>[#9436](https://github.com/flutter/packages/pull/9436) merged on November 5, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/9436) over 4 months, 200 additions and 4 deletions in 8 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Raise `MapUsedAfterWidgetDisposedError` when map controller used after map disposed
   <sub>[#9242](https://github.com/flutter/packages/pull/9242) merged on November 4, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9242) over 5 months, 98 additions and 1 deletion in 4 files</sub>
