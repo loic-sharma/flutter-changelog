@@ -72,7 +72,7 @@
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) opened on on October 26, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/177551) 435 additions and 2 deletions in 22 files</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
-  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/177572) 295 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/177572) 295 additions and 6 deletions in 2 files</sub><br />
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Allow apps to prefer high power GPUs<br />
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
@@ -136,4 +136,7 @@
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Expose text spacing preferences on the web<br />
   <sub>[#178014](https://github.com/flutter/flutter/pull/178014) opened on on November 4, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/178014) 598 additions and 0 deletions in 6 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test failure in CI (attempt 4)<br />
+  <sub>[#178018](https://github.com/flutter/flutter/pull/178018) opened on on November 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178018) 6 additions and 4 deletions in 2 files</sub><br />
 
