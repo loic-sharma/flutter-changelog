@@ -957,7 +957,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-10 commits.
+11 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old implicit animation codelab with updated combined one<br />
   <sub>[#12630](https://github.com/flutter/website/pull/12630) merged on November 4, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/12630) over 18 hours, 14 additions and 1664 deletions in 26 files</sub><br />
@@ -986,6 +986,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added impellerc example for auditing fragment shaders<br />
   <sub>[#12613](https://github.com/flutter/website/pull/12613) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12613) over 3 days, 23 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Remove extra flags from Cursor configuration<br />
+  <sub>[#12634](https://github.com/flutter/website/pull/12634) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12634) over 22 hours, 3 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add doc for codeshare-tooltip<br />
   <sub>[#12637](https://github.com/flutter/website/pull/12637) merged on November 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12637) over 8 hours, 1 addition and 0 deletions in 1 file</sub><br />
