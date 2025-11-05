@@ -147,5 +147,5 @@
   <sub>[#178078](https://github.com/flutter/flutter/pull/178078) opened on on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178078) 0 additions and 32 deletions in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Listen to text spacing overrides on the web<br />
-  <sub>[#178081](https://github.com/flutter/flutter/pull/178081) opened on on November 5, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178081) 1289 additions and 40 deletions in 16 files</sub><br />
+  <sub>[#178081](https://github.com/flutter/flutter/pull/178081) opened on on November 5, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/178081) 1289 additions and 40 deletions in 16 files</sub><br />
 
