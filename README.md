@@ -4,7 +4,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-29 commits.
+31 commits.
 
 * **[walley892](https://github.com/walley892)** &mdash; Replace rendering for solid color circles (both filled and stroked) to use SDFs<br />
   <sub>[#177482](https://github.com/flutter/flutter/pull/177482) merged on November 4, 2025 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/177482) over 1 week, 798 additions and 4 deletions in 21 files</sub><br />
@@ -14,6 +14,16 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add blockAccessibilityFocus flag<br />
   <sub>[#175551](https://github.com/flutter/flutter/pull/175551) merged on November 3, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/175551) over 1 month, 534 additions and 15 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `data_table.1.dart‎` example<br />
+  <sub>[#177812](https://github.com/flutter/flutter/pull/177812) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177812) over 5 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `switch.1.dart` example<br />
+  <sub>[#177811](https://github.com/flutter/flutter/pull/177811) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177811) over 5 days, 5 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated withOpacity in `chip_animation_style.0.dart‎`  example<br />
   <sub>[#177834](https://github.com/flutter/flutter/pull/177834) merged on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177834) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
