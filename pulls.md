@@ -33,7 +33,7 @@
   <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175846) 23 additions and 10 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing<br />
-  <sub>[#176063](https://github.com/flutter/flutter/pull/176063) opened on on September 25, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/176063) 449 additions and 18 deletions in 20 files</sub><br />
+  <sub>[#176063](https://github.com/flutter/flutter/pull/176063) opened on on September 25, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/176063) 449 additions and 18 deletions in 20 files</sub><br />
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing commit base expiration<br />
   <sub>[#176121](https://github.com/flutter/flutter/pull/176121) opened on on September 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/176121) 1 addition and 0 deletions in 1 file</sub><br />
@@ -142,4 +142,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SwitchListTile doesn't crash in 0x0 environment<br />
   <sub>[#178069](https://github.com/flutter/flutter/pull/178069) opened on on November 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178069) 13 additions and 0 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove unnecessary android_sdk dep<br />
+  <sub>[#178078](https://github.com/flutter/flutter/pull/178078) opened on on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178078) 0 additions and 32 deletions in 1 file</sub><br />
 
