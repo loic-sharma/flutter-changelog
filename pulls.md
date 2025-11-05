@@ -149,6 +149,3 @@
 * **[jacksonrl](https://github.com/jacksonrl)** &mdash; Add SliverIndexedVariedExtentList to support jumpToIndex<br />
   <sub>[#178021](https://github.com/flutter/flutter/pull/178021) opened on on November 5, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/178021) 1112 additions and 4 deletions in 6 files</sub><br />
 
-* **[Roc Boronat](https://github.com/rocboronat)** &mdash; Format the links of the completed GitHub issues of version 3.35.7<br />
-  <sub>[#178039](https://github.com/flutter/flutter/pull/178039) opened on on November 5, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/178039) 5965 additions and 1694 deletions in 118 files</sub><br />
-
