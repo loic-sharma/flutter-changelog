@@ -4,7 +4,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-36 commits.
+37 commits.
 
 * **[walley892](https://github.com/walley892)** &mdash; Replace rendering for solid color circles (both filled and stroked) to use SDFs<br />
   <sub>[#177482](https://github.com/flutter/flutter/pull/177482) merged on November 4, 2025 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/177482) over 1 week, 798 additions and 4 deletions in 21 files</sub><br />
@@ -88,17 +88,21 @@
   <sub>[#177944](https://github.com/flutter/flutter/pull/177944) merged on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177944) over 5 hours, 10 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Add ninja / cmake deps to failing tests<br />
+  <sub>[#178054](https://github.com/flutter/flutter/pull/178054) merged on November 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178054) over 2 hours, 83 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Print reason for adb command failure in verified input test (attempt 3)<br />
   <sub>[#178005](https://github.com/flutter/flutter/pull/178005) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178005) over 3 hours, 5 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test in CI (attempt 2)<br />
-  <sub>[#177961](https://github.com/flutter/flutter/pull/177961) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177961) over 16 hours, 12 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve Impeller's docs in the top-level docs folder<br />
   <sub>[#177848](https://github.com/flutter/flutter/pull/177848) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177848) over 3 days, 3 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test in CI (attempt 2)<br />
+  <sub>[#177961](https://github.com/flutter/flutter/pull/177961) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177961) over 16 hours, 12 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Validate that platforms specified in .ci.yaml target names match the platforms defined in the platform_properties section<br />
   <sub>[#177523](https://github.com/flutter/flutter/pull/177523) merged on November 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177523) over 1 week, 87 additions and 63 deletions in 1 file</sub><br />
