@@ -138,7 +138,7 @@
   <sub>[#178007](https://github.com/flutter/flutter/pull/178007) opened on on November 4, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/178007) 510 additions and 1428 deletions in 37 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [WIP] typography<br />
-  <sub>[#178013](https://github.com/flutter/flutter/pull/178013) opened on on November 4, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178013) 1129 additions and 19 deletions in 14 files</sub><br />
+  <sub>[#178013](https://github.com/flutter/flutter/pull/178013) opened on on November 4, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178013) 1126 additions and 5 deletions in 14 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Expose text spacing preferences on the web<br />
   <sub>[#178014](https://github.com/flutter/flutter/pull/178014) opened on on November 4, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/178014) 598 additions and 0 deletions in 6 files</sub><br />

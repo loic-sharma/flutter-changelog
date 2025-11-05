@@ -790,7 +790,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-9 commits.
+10 commits.
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Raise `MapUsedAfterWidgetDisposedError` when map controller used after map disposed
   <sub>[#9242](https://github.com/flutter/packages/pull/9242) merged on November 4, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9242) over 5 months, 98 additions and 1 deletion in 4 files</sub>
@@ -799,6 +799,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Remove use of OCMock
   <sub>[#10290](https://github.com/flutter/packages/pull/10290) merged on November 3, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/10290) over 1 week, 985 additions and 333 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Dimitar Gyurov](https://github.com/dgyurov)** &mdash; [pigeon] Update analyzer version
+  <sub>[#10352](https://github.com/flutter/packages/pull/10352) merged on November 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10352) over 1 day, 7 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Replace containsKey with contains in Kotlin generator
   <sub>[#10274](https://github.com/flutter/packages/pull/10274) merged on November 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10274) over 1 week, 12 additions and 7 deletions in 9 files</sub>
