@@ -137,3 +137,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [WIP] typography<br />
   <sub>[#178013](https://github.com/flutter/flutter/pull/178013) opened on on November 4, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/178013) 1115 additions and 21 deletions in 14 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Expose text spacing preferences on the web<br />
+  <sub>[#178014](https://github.com/flutter/flutter/pull/178014) opened on on November 4, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/178014) 598 additions and 0 deletions in 6 files</sub><br />
+
