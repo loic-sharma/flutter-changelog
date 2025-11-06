@@ -1032,13 +1032,13 @@
   <sub>[#12608](https://github.com/flutter/website/pull/12608) merged on November 4, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/12608) over 5 days, 673 additions and 11 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Include page title and description in md output<br />
-  <sub>[#12639](https://github.com/flutter/website/pull/12639) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12639) over 7 hours, 26 additions and 7 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add /to/template link<br />
   <sub>[#12635](https://github.com/flutter/website/pull/12635) merged on November 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12635) over 12 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Include page title and description in md output<br />
+  <sub>[#12639](https://github.com/flutter/website/pull/12639) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12639) over 7 hours, 26 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking change index for 3.38<br />
   <sub>[#12625](https://github.com/flutter/website/pull/12625) merged on November 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12625) over 10 hours, 88 additions and 68 deletions in 8 files</sub><br />
