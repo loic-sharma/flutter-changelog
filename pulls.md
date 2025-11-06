@@ -66,7 +66,7 @@
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
 * **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add assertion to Navigator.pop when stack is empty to improve developer experience<br />
-  <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177491) 129 additions and 54 deletions in 7 files</sub><br />
+  <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177491) 132 additions and 55 deletions in 8 files</sub><br />
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) opened on on October 26, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/177551) 435 additions and 2 deletions in 22 files</sub><br />
