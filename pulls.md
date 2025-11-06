@@ -153,7 +153,7 @@
   <sub>[#178098](https://github.com/flutter/flutter/pull/178098) opened on on November 6, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178098) 1106 additions and 0 deletions in 7 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Allow label to be used to compute InputDecorator Intrinsic width<br />
-  <sub>[#178101](https://github.com/flutter/flutter/pull/178101) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178101) 128 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#178101](https://github.com/flutter/flutter/pull/178101) opened on on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178101) 129 additions and 14 deletions in 2 files</sub><br />
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Add missing flutter_lints dev dependencies<br />
   <sub>[#178105](https://github.com/flutter/flutter/pull/178105) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178105) 45 additions and 43 deletions in 6 files</sub><br />
