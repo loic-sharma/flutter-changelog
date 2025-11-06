@@ -129,7 +129,7 @@
   <sub>[#178077](https://github.com/flutter/flutter/pull/178077) opened on on November 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178077) 3 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove unnecessary android_sdk dep<br />
-  <sub>[#178078](https://github.com/flutter/flutter/pull/178078) opened on on November 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178078) 0 additions and 32 deletions in 1 file</sub><br />
+  <sub>[#178078](https://github.com/flutter/flutter/pull/178078) opened on on November 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178078) 0 additions and 32 deletions in 1 file</sub><br />
 
 * **[Job Guldemeester](https://github.com/Guldem)** &mdash; Adds property passthrough for CheckboxListTile, SwitchListTile and RadioListTile<br />
   <sub>[#178098](https://github.com/flutter/flutter/pull/178098) opened on on November 6, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178098) 1106 additions and 0 deletions in 7 files</sub><br />
