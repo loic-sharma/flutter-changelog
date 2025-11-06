@@ -869,6 +869,10 @@
   <sub>[#10352](https://github.com/flutter/packages/pull/10352) merged on November 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10352) over 1 day, 7 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add Linux CODEOWNERS
+  <sub>[#10235](https://github.com/flutter/packages/pull/10235) merged on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10235) over 3 weeks, 5 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub>
+
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Replace containsKey with contains in Kotlin generator
   <sub>[#10274](https://github.com/flutter/packages/pull/10274) merged on November 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10274) over 1 week, 12 additions and 7 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
@@ -876,10 +880,6 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [in_app_purchase] Remove use of Pigeon's Dart test generator
   <sub>[#10328](https://github.com/flutter/packages/pull/10328) merged on November 4, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10328) over 5 days, 160 additions and 1429 deletions in 20 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add Linux CODEOWNERS
-  <sub>[#10235](https://github.com/flutter/packages/pull/10235) merged on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10235) over 3 weeks, 5 additions and 5 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [video_player] Remove `package` in example `AndroidManifest.xml` file
   <sub>[#10245](https://github.com/flutter/packages/pull/10245) merged on November 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10245) over 2 weeks, 1 addition and 2 deletions in 1 file</sub>
