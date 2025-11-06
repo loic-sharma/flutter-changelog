@@ -102,7 +102,7 @@
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test failure in CI (attempt 4)<br />
-  <sub>[#178018](https://github.com/flutter/flutter/pull/178018) merged on November 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178018) over 19 hours, 6 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#178018](https://github.com/flutter/flutter/pull/178018) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178018) over 19 hours, 6 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Update more missing ninja deps<br />
