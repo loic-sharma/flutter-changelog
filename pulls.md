@@ -81,7 +81,7 @@
   <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Respect product flavor abiFilters by adding a `disable-abi-filtering` Android project flag.<br />
-  <sub>[#177753](https://github.com/flutter/flutter/pull/177753) opened on on October 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177753) 87 additions and 11 deletions in 3 files</sub><br />
+  <sub>[#177753](https://github.com/flutter/flutter/pull/177753) opened on on October 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177753) 86 additions and 10 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Mark deprecated ios application lifecycle methods as such<br />
   <sub>[#177807](https://github.com/flutter/flutter/pull/177807) opened on on October 30, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/177807) 88 additions and 14 deletions in 2 files</sub><br />
@@ -157,4 +157,7 @@
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Add missing flutter_lints dev dependencies<br />
   <sub>[#178105](https://github.com/flutter/flutter/pull/178105) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178105) 45 additions and 43 deletions in 6 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
+  <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/178116) 1288 additions and 108 deletions in 30 files</sub><br />
 
