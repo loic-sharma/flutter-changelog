@@ -155,3 +155,6 @@
 * **[Job Guldemeester](https://github.com/Guldem)** &mdash; Adds property passthrough for CheckboxListTile, SwitchListTile and RadioListTile<br />
   <sub>[#178098](https://github.com/flutter/flutter/pull/178098) opened on on November 6, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178098) 1106 additions and 0 deletions in 7 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Allow label to be used to compute InputDecorator Intrinsic width<br />
+  <sub>[#178101](https://github.com/flutter/flutter/pull/178101) opened on on November 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178101) 128 additions and 14 deletions in 2 files</sub><br />
+
