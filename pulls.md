@@ -81,7 +81,7 @@
   <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Respect product flavor abiFilters by adding a `disable-abi-filtering` Android project flag.<br />
-  <sub>[#177753](https://github.com/flutter/flutter/pull/177753) opened on on October 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177753) 86 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#177753](https://github.com/flutter/flutter/pull/177753) opened on on October 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177753) 86 additions and 10 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Mark deprecated ios application lifecycle methods as such<br />
   <sub>[#177807](https://github.com/flutter/flutter/pull/177807) opened on on October 30, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/177807) 88 additions and 14 deletions in 2 files</sub><br />
@@ -157,4 +157,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
   <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/178116) 1270 additions and 108 deletions in 30 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DefaultTabController doesn't crash in 0x0 environment<br />
+  <sub>[#178117](https://github.com/flutter/flutter/pull/178117) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178117) 11 additions and 0 deletions in 1 file</sub><br />
 
