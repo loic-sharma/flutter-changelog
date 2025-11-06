@@ -30,7 +30,7 @@
   <sub>[#175664](https://github.com/flutter/flutter/pull/175664) opened on on September 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175664) 96 additions and 45 deletions in 2 files</sub><br />
 
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; Fix(tools): Rely on FLUTTER_ROOT in Xcode build scripts<br />
-  <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175846) 23 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#175846](https://github.com/flutter/flutter/pull/175846) opened on on September 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175846) 23 additions and 10 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing<br />
   <sub>[#176063](https://github.com/flutter/flutter/pull/176063) opened on on September 25, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/176063) 449 additions and 17 deletions in 20 files</sub><br />
@@ -64,9 +64,6 @@
 
 * **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add assertion to Navigator.pop when stack is empty to improve developer experience<br />
   <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177491) 132 additions and 55 deletions in 8 files</sub><br />
-
-* **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
-  <sub>[#177551](https://github.com/flutter/flutter/pull/177551) opened on on October 26, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/177551) 435 additions and 2 deletions in 22 files</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
   <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/177572) 295 additions and 6 deletions in 2 files</sub><br />
@@ -112,9 +109,6 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSpellCheckSuggestionsToolbar doesn't crash …<br />
   <sub>[#177978](https://github.com/flutter/flutter/pull/177978) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177978) 17 additions and 0 deletions in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces<br />
-  <sub>[#177994](https://github.com/flutter/flutter/pull/177994) opened on on November 4, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/177994) 304 additions and 284 deletions in 23 files</sub><br />
 
 * **[jacksonrl](https://github.com/jacksonrl)** &mdash; Add SliverIndexedVariedExtentList to support jumpToIndex<br />
   <sub>[#178021](https://github.com/flutter/flutter/pull/178021) opened on on November 5, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178021) 1112 additions and 4 deletions in 6 files</sub><br />
