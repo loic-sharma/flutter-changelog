@@ -149,3 +149,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input integration test without breaking the rest of the devicelab tests (attempt 5)<br />
   <sub>[#178093](https://github.com/flutter/flutter/pull/178093) opened on on November 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178093) 26 additions and 7 deletions in 2 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland "Refactor OverlayPortal semantics (#173005)"<br />
+  <sub>[#178095](https://github.com/flutter/flutter/pull/178095) opened on on November 6, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/178095) 1428 additions and 510 deletions in 37 files</sub><br />
+
