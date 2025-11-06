@@ -122,9 +122,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Add `Stream.transformWithCallSite` to provide more useful stack traces<br />
   <sub>[#177994](https://github.com/flutter/flutter/pull/177994) opened on on November 4, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/177994) 304 additions and 284 deletions in 23 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Expose text spacing preferences on the web<br />
-  <sub>[#178014](https://github.com/flutter/flutter/pull/178014) opened on on November 4, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/178014) 598 additions and 0 deletions in 6 files</sub><br />
-
 * **[jacksonrl](https://github.com/jacksonrl)** &mdash; Add SliverIndexedVariedExtentList to support jumpToIndex<br />
   <sub>[#178021](https://github.com/flutter/flutter/pull/178021) opened on on November 5, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178021) 1112 additions and 4 deletions in 6 files</sub><br />
 
