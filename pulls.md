@@ -152,3 +152,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland "Refactor OverlayPortal semantics (#173005)"<br />
   <sub>[#178095](https://github.com/flutter/flutter/pull/178095) opened on on November 6, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/178095) 1428 additions and 510 deletions in 37 files</sub><br />
 
+* **[Job Guldemeester](https://github.com/Guldem)** &mdash; Adds property passthrough for CheckboxListTile, SwitchListTile and RadioListTile<br />
+  <sub>[#178098](https://github.com/flutter/flutter/pull/178098) opened on on November 6, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178098) 1106 additions and 0 deletions in 7 files</sub><br />
+
