@@ -34,7 +34,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update all uses of mutable SkPath methods to use SkPathBuilder
-  <sub>[#177738](https://github.com/flutter/flutter/pull/177738) merged on November 6, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/177738) over 1 week, 305 additions and 269 deletions in 18 files</sub>
+  <sub>[#177738](https://github.com/flutter/flutter/pull/177738) merged on November 6, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/177738) over 1 week, 305 additions and 269 deletions in 18 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `overflow_bar.0.dart‎` example
