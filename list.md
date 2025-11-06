@@ -142,7 +142,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Add ninja / cmake deps to failing tests
-  <sub>[#178054](https://github.com/flutter/flutter/pull/178054) merged on November 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178054) over 2 hours, 83 additions and 16 deletions in 1 file</sub>
+  <sub>[#178054](https://github.com/flutter/flutter/pull/178054) merged on November 5, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178054) over 2 hours, 83 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Update more missing ninja deps
@@ -851,7 +851,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-14 commits.
+15 commits.
 
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; [go_router] ShellRoute will merge GoRouter's observers
   <sub>[#9436](https://github.com/flutter/packages/pull/9436) merged on November 5, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/9436) over 4 months, 200 additions and 4 deletions in 8 files</sub>
@@ -868,6 +868,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Remove use of OCMock
   <sub>[#10290](https://github.com/flutter/packages/pull/10290) merged on November 3, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/10290) over 1 week, 985 additions and 333 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[devgianlu](https://github.com/devgianlu)** &mdash; [pigeon] Encode custom enum as long in Kotlin generator
+  <sub>[#10085](https://github.com/flutter/packages/pull/10085) merged on November 6, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10085) over 1 month, 70 additions and 35 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Dimitar Gyurov](https://github.com/dgyurov)** &mdash; [pigeon] Update analyzer version
   <sub>[#10352](https://github.com/flutter/packages/pull/10352) merged on November 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10352) over 1 day, 7 additions and 3 deletions in 3 files</sub>

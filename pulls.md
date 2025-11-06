@@ -78,13 +78,13 @@
   <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Respect product flavor abiFilters by adding a `disable-abi-filtering` Android project flag.<br />
-  <sub>[#177753](https://github.com/flutter/flutter/pull/177753) opened on on October 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177753) 86 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#177753](https://github.com/flutter/flutter/pull/177753) opened on on October 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177753) 86 additions and 10 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Mark deprecated ios application lifecycle methods as such<br />
   <sub>[#177807](https://github.com/flutter/flutter/pull/177807) opened on on October 30, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/177807) 88 additions and 14 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes tab to allow child to have semantics role<br />
-  <sub>[#177809](https://github.com/flutter/flutter/pull/177809) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177809) 38 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#177809](https://github.com/flutter/flutter/pull/177809) opened on on October 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177809) 38 additions and 11 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement dialog windows for the Linux platform<br />
   <sub>[#177817](https://github.com/flutter/flutter/pull/177817) opened on on October 30, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/177817) 217 additions and 3 deletions in 1 file</sub><br />
@@ -137,9 +137,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove unnecessary android_sdk dep<br />
   <sub>[#178078](https://github.com/flutter/flutter/pull/178078) opened on on November 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178078) 0 additions and 32 deletions in 1 file</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Listen to text spacing overrides on the web<br />
-  <sub>[#178081](https://github.com/flutter/flutter/pull/178081) opened on on November 5, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/178081) 1283 additions and 40 deletions in 16 files</sub><br />
-
 * **[Job Guldemeester](https://github.com/Guldem)** &mdash; Adds property passthrough for CheckboxListTile, SwitchListTile and RadioListTile<br />
   <sub>[#178098](https://github.com/flutter/flutter/pull/178098) opened on on November 6, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178098) 1106 additions and 0 deletions in 7 files</sub><br />
 
@@ -160,4 +157,10 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [CP-beta] Update .ci.yaml in flutter/flutter to use 15.5 (#177939)<br />
   <sub>[#178132](https://github.com/flutter/flutter/pull/178132) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178132) 87 additions and 87 deletions in 10 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update more missing ninja deps<br />
+  <sub>[#178134](https://github.com/flutter/flutter/pull/178134) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178134) 4 additions and 1 deletion in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update more missing ninja deps<br />
+  <sub>[#178135](https://github.com/flutter/flutter/pull/178135) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178135) 4 additions and 1 deletion in 1 file</sub><br />
 
