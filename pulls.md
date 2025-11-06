@@ -104,9 +104,6 @@
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177888) 630 additions and 10 deletions in 3 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
-  <sub>[#177939](https://github.com/flutter/flutter/pull/177939) opened on on November 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177939) 87 additions and 87 deletions in 10 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
   <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177954) 149 additions and 5 deletions in 11 files</sub><br />
 
