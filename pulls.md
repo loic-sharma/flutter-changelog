@@ -44,9 +44,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
-  <sub>[#176825](https://github.com/flutter/flutter/pull/176825) opened on on October 10, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/176825) 188 additions and 41 deletions in 2 files</sub><br />
-
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
   <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/176832) 11 additions and 20 deletions in 2 files</sub><br />
 
@@ -112,9 +109,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Add analytic event that's reported when the previewer is opened<br />
   <sub>[#177960](https://github.com/flutter/flutter/pull/177960) opened on on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177960) 46 additions and 1 deletion in 4 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SpellCheckSuggestionsToolbar doesn't crash in 0x0 en…<br />
-  <sub>[#177965](https://github.com/flutter/flutter/pull/177965) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177965) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSpellCheckSuggestionsToolbar doesn't crash …<br />
   <sub>[#177978](https://github.com/flutter/flutter/pull/177978) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177978) 17 additions and 0 deletions in 1 file</sub><br />
