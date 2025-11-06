@@ -827,7 +827,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-11 commits.
+12 commits.
 
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; [go_router] ShellRoute will merge GoRouter's observers<br />
   <sub>[#9436](https://github.com/flutter/packages/pull/9436) merged on November 5, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/9436) over 4 months, 200 additions and 4 deletions in 8 files</sub><br />
@@ -860,6 +860,10 @@
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [flutter_svg] Fixes typo of `allowDrawingOutsideViewBox` in doc comments.<br />
   <sub>[#10256](https://github.com/flutter/packages/pull/10256) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10256) over 2 weeks, 11 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Add missing deps<br />
+  <sub>[#10366](https://github.com/flutter/packages/pull/10366) merged on November 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10366) over 18 hours, 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Remove use of FETCH_HEAD<br />
   <sub>[#10357](https://github.com/flutter/packages/pull/10357) merged on November 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10357) over 21 hours, 6 additions and 5 deletions in 5 files</sub><br />
