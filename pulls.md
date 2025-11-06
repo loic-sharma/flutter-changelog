@@ -159,5 +159,5 @@
   <sub>[#178127](https://github.com/flutter/flutter/pull/178127) opened on on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178127) 87 additions and 87 deletions in 10 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [CP-beta] Update .ci.yaml in flutter/flutter to use 15.5 (#177939)<br />
-  <sub>[#178132](https://github.com/flutter/flutter/pull/178132) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178132) 87 additions and 87 deletions in 10 files</sub><br />
+  <sub>[#178132](https://github.com/flutter/flutter/pull/178132) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178132) 87 additions and 87 deletions in 10 files</sub><br />
 

@@ -851,7 +851,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-13 commits.
+14 commits.
 
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; [go_router] ShellRoute will merge GoRouter's observers<br />
   <sub>[#9436](https://github.com/flutter/packages/pull/9436) merged on November 5, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/9436) over 4 months, 200 additions and 4 deletions in 8 files</sub><br />
@@ -860,6 +860,10 @@
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Raise `MapUsedAfterWidgetDisposedError` when map controller used after map disposed<br />
   <sub>[#9242](https://github.com/flutter/packages/pull/9242) merged on November 4, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/9242) over 5 months, 98 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Ensure that all packages format with correct language version<br />
+  <sub>[#10374](https://github.com/flutter/packages/pull/10374) merged on November 6, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/10374) over 3 hours, 624 additions and 356 deletions in 28 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Remove use of OCMock<br />
   <sub>[#10290](https://github.com/flutter/packages/pull/10290) merged on November 3, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/10290) over 1 week, 985 additions and 333 deletions in 12 files</sub><br />
