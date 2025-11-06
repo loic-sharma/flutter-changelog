@@ -82,7 +82,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5<br />
-  <sub>[#177939](https://github.com/flutter/flutter/pull/177939) merged on November 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177939) over 2 days, 87 additions and 87 deletions in 10 files</sub><br />
+  <sub>[#177939](https://github.com/flutter/flutter/pull/177939) merged on November 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177939) over 2 days, 87 additions and 87 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu escape key does not close the menu<br />
