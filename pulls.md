@@ -159,5 +159,8 @@
   <sub>[#178135](https://github.com/flutter/flutter/pull/178135) opened on on November 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178135) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] clean up https cert configuration handling<br />
-  <sub>[#178139](https://github.com/flutter/flutter/pull/178139) opened on on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178139) 27 additions and 22 deletions in 3 files</sub><br />
+  <sub>[#178139](https://github.com/flutter/flutter/pull/178139) opened on on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178139) 92 additions and 82 deletions in 3 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Relax assertion for locale<br />
+  <sub>[#178140](https://github.com/flutter/flutter/pull/178140) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178140) 55 additions and 10 deletions in 4 files</sub><br />
 
