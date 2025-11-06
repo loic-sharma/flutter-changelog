@@ -87,7 +87,7 @@
   <sub>[#177809](https://github.com/flutter/flutter/pull/177809) opened on on October 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177809) 38 additions and 11 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement dialog windows for the Linux platform<br />
-  <sub>[#177817](https://github.com/flutter/flutter/pull/177817) opened on on October 30, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/177817) 212 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#177817](https://github.com/flutter/flutter/pull/177817) opened on on October 30, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/177817) 217 additions and 3 deletions in 1 file</sub><br />
 
 * **[RONGALI MOHAN KRISHNA 2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
