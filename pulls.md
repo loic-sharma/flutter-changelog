@@ -129,7 +129,7 @@
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) opened on on November 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178057) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [DO NOT SUBMIT] Debugging skwasm flaky tests<br />
-  <sub>[#178062](https://github.com/flutter/flutter/pull/178062) opened on on November 5, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/178062) 91 additions and 6924 deletions in 5 files</sub><br />
+  <sub>[#178062](https://github.com/flutter/flutter/pull/178062) opened on on November 5, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/178062) 94 additions and 6924 deletions in 6 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Stepper doesn't crash in 0x0 environment<br />
   <sub>[#178068](https://github.com/flutter/flutter/pull/178068) opened on on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178068) 20 additions and 0 deletions in 1 file</sub><br />
@@ -162,5 +162,5 @@
   <sub>[#178117](https://github.com/flutter/flutter/pull/178117) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178117) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tab doesn't crash in 0x0 environment<br />
-  <sub>[#178118](https://github.com/flutter/flutter/pull/178118) opened on on November 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178118) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178118](https://github.com/flutter/flutter/pull/178118) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178118) 13 additions and 0 deletions in 1 file</sub><br />
 
