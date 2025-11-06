@@ -831,7 +831,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-12 commits.
+13 commits.
 
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; [go_router] ShellRoute will merge GoRouter's observers<br />
   <sub>[#9436](https://github.com/flutter/packages/pull/9436) merged on November 5, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/9436) over 4 months, 200 additions and 4 deletions in 8 files</sub><br />
@@ -856,6 +856,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [in_app_purchase] Remove use of Pigeon's Dart test generator<br />
   <sub>[#10328](https://github.com/flutter/packages/pull/10328) merged on November 4, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10328) over 5 days, 160 additions and 1429 deletions in 20 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add Linux CODEOWNERS<br />
+  <sub>[#10235](https://github.com/flutter/packages/pull/10235) merged on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10235) over 3 weeks, 5 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [video_player] Remove `package` in example `AndroidManifest.xml` file<br />
   <sub>[#10245](https://github.com/flutter/packages/pull/10245) merged on November 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10245) over 2 weeks, 1 addition and 2 deletions in 1 file</sub><br />
