@@ -149,9 +149,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input integration test without breaking the rest of the devicelab tests (attempt 5)<br />
   <sub>[#178093](https://github.com/flutter/flutter/pull/178093) opened on on November 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178093) 26 additions and 7 deletions in 2 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland "Refactor OverlayPortal semantics (#173005)"<br />
-  <sub>[#178095](https://github.com/flutter/flutter/pull/178095) opened on on November 6, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/178095) 1731 additions and 513 deletions in 38 files</sub><br />
-
 * **[Job Guldemeester](https://github.com/Guldem)** &mdash; Adds property passthrough for CheckboxListTile, SwitchListTile and RadioListTile<br />
   <sub>[#178098](https://github.com/flutter/flutter/pull/178098) opened on on November 6, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178098) 1106 additions and 0 deletions in 7 files</sub><br />
 
@@ -159,5 +156,5 @@
   <sub>[#178101](https://github.com/flutter/flutter/pull/178101) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178101) 128 additions and 14 deletions in 2 files</sub><br />
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Add missing flutter_lints dev dependencies<br />
-  <sub>[#178105](https://github.com/flutter/flutter/pull/178105) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178105) 2 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#178105](https://github.com/flutter/flutter/pull/178105) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178105) 45 additions and 43 deletions in 6 files</sub><br />
 
