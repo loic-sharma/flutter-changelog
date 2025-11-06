@@ -147,5 +147,8 @@
   <sub>[#178078](https://github.com/flutter/flutter/pull/178078) opened on on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178078) 0 additions and 32 deletions in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Listen to text spacing overrides on the web<br />
-  <sub>[#178081](https://github.com/flutter/flutter/pull/178081) opened on on November 5, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/178081) 1291 additions and 40 deletions in 16 files</sub><br />
+  <sub>[#178081](https://github.com/flutter/flutter/pull/178081) opened on on November 5, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/178081) 1289 additions and 40 deletions in 16 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Fix IP parsing by using Uri constructor<br />
+  <sub>[#178083](https://github.com/flutter/flutter/pull/178083) opened on on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178083) 9 additions and 8 deletions in 1 file</sub><br />
 
