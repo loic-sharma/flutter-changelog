@@ -851,7 +851,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-15 commits.
+16 commits.
 
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; [go_router] ShellRoute will merge GoRouter's observers
   <sub>[#9436](https://github.com/flutter/packages/pull/9436) merged on November 5, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/9436) over 4 months, 200 additions and 4 deletions in 8 files</sub>
@@ -876,6 +876,10 @@
 * **[Dimitar Gyurov](https://github.com/dgyurov)** &mdash; [pigeon] Update analyzer version
   <sub>[#10352](https://github.com/flutter/packages/pull/10352) merged on November 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10352) over 1 day, 7 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run tests on macOS 15.5 or 15.7
+  <sub>[#10336](https://github.com/flutter/packages/pull/10336) merged on November 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10336) over 6 days, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add Linux CODEOWNERS
   <sub>[#10235](https://github.com/flutter/packages/pull/10235) merged on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10235) over 3 weeks, 5 additions and 5 deletions in 1 file</sub>

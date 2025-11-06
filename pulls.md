@@ -159,7 +159,7 @@
   <sub>[#178132](https://github.com/flutter/flutter/pull/178132) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178132) 87 additions and 87 deletions in 10 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update more missing ninja deps<br />
-  <sub>[#178134](https://github.com/flutter/flutter/pull/178134) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178134) 4 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#178134](https://github.com/flutter/flutter/pull/178134) opened on on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178134) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update more missing ninja deps<br />
   <sub>[#178135](https://github.com/flutter/flutter/pull/178135) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178135) 4 additions and 1 deletion in 1 file</sub><br />
