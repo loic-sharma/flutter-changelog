@@ -149,3 +149,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Listen to text spacing overrides on the web<br />
   <sub>[#178081](https://github.com/flutter/flutter/pull/178081) opened on on November 5, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/178081) 1289 additions and 40 deletions in 16 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input integration test without breaking the rest of the devicelab tests (attempt 5)<br />
+  <sub>[#178093](https://github.com/flutter/flutter/pull/178093) opened on on November 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178093) 26 additions and 7 deletions in 2 files</sub><br />
+
