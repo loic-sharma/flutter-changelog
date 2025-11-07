@@ -168,5 +168,5 @@
   <sub>[#178162](https://github.com/flutter/flutter/pull/178162) opened on on November 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178162) 29 additions and 8 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add an assert message when OverlayEntry.remove is called twice<br />
-  <sub>[#178163](https://github.com/flutter/flutter/pull/178163) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178163) 29 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#178163](https://github.com/flutter/flutter/pull/178163) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178163) 30 additions and 1 deletion in 2 files</sub><br />
 
