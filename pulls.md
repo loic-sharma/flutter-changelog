@@ -153,7 +153,7 @@
   <sub>[#178135](https://github.com/flutter/flutter/pull/178135) opened on on November 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178135) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relax assertion for adding semantics locale<br />
-  <sub>[#178140](https://github.com/flutter/flutter/pull/178140) opened on on November 6, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/178140) 747 additions and 556 deletions in 15 files</sub><br />
+  <sub>[#178140](https://github.com/flutter/flutter/pull/178140) opened on on November 6, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/178140) 729 additions and 544 deletions in 14 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [CP-stable] Update .ci.yaml in flutter/flutter to use 15.5 (#177939)<br />
   <sub>[#178143](https://github.com/flutter/flutter/pull/178143) opened on on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178143) 98 additions and 93 deletions in 12 files</sub><br />
@@ -169,4 +169,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178175](https://github.com/flutter/flutter/pull/178175) opened on on November 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178175) 27 additions and 6 deletions in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Group plugin Swift Packages per configuration<br />
+  <sub>[#178184](https://github.com/flutter/flutter/pull/178184) opened on on November 7, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/178184) 339 additions and 206 deletions in 12 files</sub><br />
 
