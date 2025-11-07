@@ -1101,6 +1101,14 @@
   <sub>[#12635](https://github.com/flutter/website/pull/12635) merged on November 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12635) over 12 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add glossary tooltip<br />
+  <sub>[#12654](https://github.com/flutter/website/pull/12654) merged on November 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12654) over 1 day, 257 additions and 3 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; remove dead footnote from architectural overview<br />
+  <sub>[#12658](https://github.com/flutter/website/pull/12658) merged on November 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12658) over 14 hours, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add release notes for DevTools 2.51.1<br />
   <sub>[#12659](https://github.com/flutter/website/pull/12659) merged on November 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12659) over 59 minutes, 47 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
@@ -1127,14 +1135,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Update documentation for Flutter 3.38 release<br />
   <sub>[#12649](https://github.com/flutter/website/pull/12649) merged on November 7, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/website/pull/12649) over 2 days, 281 additions and 72 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add glossary tooltip<br />
-  <sub>[#12654](https://github.com/flutter/website/pull/12654) merged on November 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12654) over 1 day, 257 additions and 3 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; remove dead footnote from architectural overview<br />
-  <sub>[#12658](https://github.com/flutter/website/pull/12658) merged on November 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12658) over 14 hours, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Remove extra flags from Cursor configuration<br />
