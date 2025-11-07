@@ -155,9 +155,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relax assertion for locale<br />
   <sub>[#178140](https://github.com/flutter/flutter/pull/178140) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178140) 55 additions and 10 deletions in 4 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Update all uses of mutable SkPath methods to use SkPathBuilder"<br />
-  <sub>[#178142](https://github.com/flutter/flutter/pull/178142) opened on on November 6, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/178142) 305 additions and 269 deletions in 18 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [CP-stable] Update .ci.yaml in flutter/flutter to use 15.5 (#177939)<br />
   <sub>[#178143](https://github.com/flutter/flutter/pull/178143) opened on on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178143) 98 additions and 93 deletions in 12 files</sub><br />
 
