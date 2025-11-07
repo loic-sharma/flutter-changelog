@@ -37,23 +37,23 @@
   <sub>[#177138](https://github.com/flutter/flutter/pull/177138) merged on November 5, 2025 &mdash; **Extra large:** [24 comments](https://github.com/flutter/flutter/pull/177138) over 2 weeks, 1706 additions and 1362 deletions in 35 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add haptic notifications support.<br />
+  <sub>[#177721](https://github.com/flutter/flutter/pull/177721) merged on November 6, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/177721) over 1 week, 221 additions and 1 deletion in 8 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Mouad Debbar](https://github.com/mdebbar), [Tong Mu](https://github.com/dkwingsmt), and [1 other](https://github.com/flutter/flutter/pull/177721)</sub><br />
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Allow label to be used to compute InputDecorator Intrinsic width<br />
   <sub>[#178101](https://github.com/flutter/flutter/pull/178101) merged on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178101) over 12 hours, 129 additions and 14 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>2 images...</summary><img width="126" height="71" alt="Screenshot 2025-11-05 at 20 16 43" src="https://github.com/user-attachments/assets/61d9f817-5c58-43f9-9307-976f9c124ec7" /><img width="126" height="71" alt="Screenshot 2025-11-05 at 20 16 09" src="https://github.com/user-attachments/assets/47360e17-3cde-4f05-8a6b-cc9e86644ffc" /></details></sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add haptic notifications support.<br />
-  <sub>[#177721](https://github.com/flutter/flutter/pull/177721) merged on November 6, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/177721) over 1 week, 221 additions and 1 deletion in 8 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Mouad Debbar](https://github.com/mdebbar), [Tong Mu](https://github.com/dkwingsmt), and [1 other](https://github.com/flutter/flutter/pull/177721)</sub><br />
-
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update all uses of mutable SkPath methods to use SkPathBuilder<br />
-  <sub>[#177738](https://github.com/flutter/flutter/pull/177738) merged on November 6, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/177738) over 1 week, 305 additions and 269 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `switch.1.dart` example<br />
   <sub>[#177811](https://github.com/flutter/flutter/pull/177811) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177811) over 5 days, 5 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update all uses of mutable SkPath methods to use SkPathBuilder<br />
+  <sub>[#177738](https://github.com/flutter/flutter/pull/177738) merged on November 6, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/177738) over 1 week, 305 additions and 269 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `overflow_bar.0.dart‎` example<br />
   <sub>[#177813](https://github.com/flutter/flutter/pull/177813) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177813) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />

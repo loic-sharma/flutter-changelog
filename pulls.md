@@ -162,7 +162,7 @@
   <sub>[#178143](https://github.com/flutter/flutter/pull/178143) opened on on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178143) 98 additions and 93 deletions in 12 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelector doesn't crash in 0x0 environment<br />
-  <sub>[#178156](https://github.com/flutter/flutter/pull/178156) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178156) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178156](https://github.com/flutter/flutter/pull/178156) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178156) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Sv/sv/177797 v1<br />
   <sub>[#178158](https://github.com/flutter/flutter/pull/178158) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178158) 24 additions and 24 deletions in 11 files</sub><br />
