@@ -168,5 +168,5 @@
   <sub>[#178158](https://github.com/flutter/flutter/pull/178158) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178158) 24 additions and 24 deletions in 11 files</sub><br />
 
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Dev proxy correctly copy query parameters from original request<br />
-  <sub>[#178162](https://github.com/flutter/flutter/pull/178162) opened on on November 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178162) 23 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#178162](https://github.com/flutter/flutter/pull/178162) opened on on November 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178162) 23 additions and 8 deletions in 2 files</sub><br />
 
