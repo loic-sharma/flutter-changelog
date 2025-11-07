@@ -63,7 +63,7 @@
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
 * **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add assertion to Navigator.pop when stack is empty to improve developer experience<br />
-  <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/177491) 3582 additions and 425 deletions in 112 files</sub><br />
+  <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/177491) 3590 additions and 425 deletions in 112 files</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
   <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/177572) 295 additions and 6 deletions in 2 files</sub><br />
