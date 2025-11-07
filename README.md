@@ -43,7 +43,7 @@
   <sub><details><summary>2 images...</summary><img width="126" height="71" alt="Screenshot 2025-11-05 at 20 16 43" src="https://github.com/user-attachments/assets/61d9f817-5c58-43f9-9307-976f9c124ec7" /><img width="126" height="71" alt="Screenshot 2025-11-05 at 20 16 09" src="https://github.com/user-attachments/assets/47360e17-3cde-4f05-8a6b-cc9e86644ffc" /></details></sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add haptic notifications support.<br />
-  <sub>[#177721](https://github.com/flutter/flutter/pull/177721) merged on November 6, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/177721) over 1 week, 221 additions and 1 deletion in 8 files</sub><br />
+  <sub>[#177721](https://github.com/flutter/flutter/pull/177721) merged on November 6, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/177721) over 1 week, 221 additions and 1 deletion in 8 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Mouad Debbar](https://github.com/mdebbar), [Tong Mu](https://github.com/dkwingsmt), and [1 other](https://github.com/flutter/flutter/pull/177721)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update all uses of mutable SkPath methods to use SkPathBuilder<br />
