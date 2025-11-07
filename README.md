@@ -1075,7 +1075,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-13 commits.
+14 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old implicit animation codelab with updated combined one<br />
   <sub>[#12630](https://github.com/flutter/website/pull/12630) merged on November 4, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/12630) over 18 hours, 14 additions and 1664 deletions in 26 files</sub><br />
@@ -1108,6 +1108,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added impellerc example for auditing fragment shaders<br />
   <sub>[#12613](https://github.com/flutter/website/pull/12613) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12613) over 3 days, 23 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add glossary tooltip<br />
+  <sub>[#12654](https://github.com/flutter/website/pull/12654) merged on November 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12654) over 1 day, 257 additions and 3 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; remove dead footnote from architectural overview<br />
   <sub>[#12658](https://github.com/flutter/website/pull/12658) merged on November 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12658) over 14 hours, 0 additions and 2 deletions in 1 file</sub><br />
