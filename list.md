@@ -4,7 +4,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-57 commits.
+58 commits.
 
 * **[walley892](https://github.com/walley892)** &mdash; Replace rendering for solid color circles (both filled and stroked) to use SDFs
   <sub>[#177482](https://github.com/flutter/flutter/pull/177482) merged on November 4, 2025 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/177482) over 1 week, 798 additions and 4 deletions in 21 files</sub>
@@ -38,31 +38,35 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary><img width="126" height="71" alt="Screenshot 2025-11-05 at 20 16 43" src="https://github.com/user-attachments/assets/61d9f817-5c58-43f9-9307-976f9c124ec7" /><img width="126" height="71" alt="Screenshot 2025-11-05 at 20 16 09" src="https://github.com/user-attachments/assets/47360e17-3cde-4f05-8a6b-cc9e86644ffc" /></details></sub>
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: findChildIndexCallback to take seperators into account for seperated named constructor in ListView and SliverList
+  <sub>[#174491](https://github.com/flutter/flutter/pull/174491) merged on November 7, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/174491) over 2 months, 173 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add haptic notifications support.
   <sub>[#177721](https://github.com/flutter/flutter/pull/177721) merged on November 6, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/177721) over 1 week, 221 additions and 1 deletion in 8 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Mouad Debbar](https://github.com/mdebbar), [Tong Mu](https://github.com/dkwingsmt), and [1 other](https://github.com/flutter/flutter/pull/177721)</sub>
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update all uses of mutable SkPath methods to use SkPathBuilder
+  <sub>[#177738](https://github.com/flutter/flutter/pull/177738) merged on November 6, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/177738) over 1 week, 305 additions and 269 deletions in 18 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `switch.1.dart` example
   <sub>[#177811](https://github.com/flutter/flutter/pull/177811) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177811) over 5 days, 5 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update all uses of mutable SkPath methods to use SkPathBuilder
-  <sub>[#177738](https://github.com/flutter/flutter/pull/177738) merged on November 6, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/177738) over 1 week, 305 additions and 269 deletions in 18 files</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `overflow_bar.0.dart‎` example
   <sub>[#177813](https://github.com/flutter/flutter/pull/177813) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177813) over 5 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `data_table.1.dart‎` example
-  <sub>[#177812](https://github.com/flutter/flutter/pull/177812) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177812) over 5 days, 2 additions and 2 deletions in 1 file</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated withOpacity in `chip_animation_style.0.dart‎`  example
+  <sub>[#177834](https://github.com/flutter/flutter/pull/177834) merged on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177834) over 4 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated withOpacity in `chip_animation_style.0.dart‎`  example
-  <sub>[#177834](https://github.com/flutter/flutter/pull/177834) merged on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177834) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `data_table.1.dart‎` example
+  <sub>[#177812](https://github.com/flutter/flutter/pull/177812) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177812) over 5 days, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
 
@@ -90,6 +94,10 @@
   <sub>[#177987](https://github.com/flutter/flutter/pull/177987) merged on November 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177987) over 10 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5
+  <sub>[#177939](https://github.com/flutter/flutter/pull/177939) merged on November 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177939) over 2 days, 87 additions and 87 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu escape key does not close the menu
   <sub>[#178002](https://github.com/flutter/flutter/pull/178002) merged on November 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178002) over 1 day, 99 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
@@ -97,10 +105,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Upgrade Chrome to 141 (for engine tests)
   <sub>[#177743](https://github.com/flutter/flutter/pull/177743) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177743) over 5 days, 85 additions and 56 deletions in 5 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
-
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use 15.5
-  <sub>[#177939](https://github.com/flutter/flutter/pull/177939) merged on November 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177939) over 2 days, 87 additions and 87 deletions in 10 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add analytic event that's reported when the previewer is opened
   <sub>[#177949](https://github.com/flutter/flutter/pull/177949) merged on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177949) over 3 hours, 46 additions and 1 deletion in 4 files</sub>
@@ -142,22 +146,6 @@
   <sub>[#178093](https://github.com/flutter/flutter/pull/178093) merged on November 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178093) over 14 hours, 26 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test in CI (attempt 2)
-  <sub>[#177961](https://github.com/flutter/flutter/pull/177961) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177961) over 16 hours, 12 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Print reason for adb command failure in verified input test (attempt 3)
-  <sub>[#178005](https://github.com/flutter/flutter/pull/178005) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178005) over 3 hours, 5 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test failure in CI (attempt 4)
-  <sub>[#178018](https://github.com/flutter/flutter/pull/178018) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178018) over 19 hours, 6 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve Impeller's docs in the top-level docs folder
-  <sub>[#177848](https://github.com/flutter/flutter/pull/177848) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177848) over 3 days, 3 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Update more missing ninja deps
   <sub>[#178079](https://github.com/flutter/flutter/pull/178079) merged on November 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178079) over 6 minutes, 4 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso), [Gray Mackall](https://github.com/gmackall)</sub>
@@ -170,33 +158,49 @@
   <sub>[#178054](https://github.com/flutter/flutter/pull/178054) merged on November 5, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178054) over 2 hours, 83 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test failure in CI (attempt 4)
+  <sub>[#178018](https://github.com/flutter/flutter/pull/178018) merged on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178018) over 19 hours, 6 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Speculative fix for android_verified_input_test
   <sub>[#177937](https://github.com/flutter/flutter/pull/177937) merged on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177937) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't add webparagraph suite to CI
-  <sub>[#177681](https://github.com/flutter/flutter/pull/177681) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177681) over 1 week, 5 additions and 5 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve Impeller's docs in the top-level docs folder
+  <sub>[#177848](https://github.com/flutter/flutter/pull/177848) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177848) over 3 days, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Print reason for adb command failure in verified input test (attempt 3)
+  <sub>[#178005](https://github.com/flutter/flutter/pull/178005) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178005) over 3 hours, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix verified input test in CI (attempt 2)
+  <sub>[#177961](https://github.com/flutter/flutter/pull/177961) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177961) over 16 hours, 12 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove unnecessary android_sdk dep
   <sub>[#178078](https://github.com/flutter/flutter/pull/178078) merged on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178078) over 1 day, 0 additions and 32 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Fix IP parsing by using Uri constructor
+  <sub>[#178083](https://github.com/flutter/flutter/pull/178083) merged on November 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178083) over 21 hours, 21 additions and 12 deletions in 3 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused futurize util
   <sub>[#177861](https://github.com/flutter/flutter/pull/177861) merged on November 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177861) over 3 days, 5 additions and 118 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Fix IP parsing by using Uri constructor
-  <sub>[#178083](https://github.com/flutter/flutter/pull/178083) merged on November 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178083) over 21 hours, 21 additions and 12 deletions in 3 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-93.1.beta
+  <sub>[#177988](https://github.com/flutter/flutter/pull/177988) merged on November 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177988) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Slider doesn't crash in 0x0 environment
   <sub>[#177882](https://github.com/flutter/flutter/pull/177882) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177882) over 2 days, 13 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-93.1.beta
-  <sub>[#177988](https://github.com/flutter/flutter/pull/177988) merged on November 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177988) over 2 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Camille Simon](https://github.com/camsim99)</sub>
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove WindowingOwner.hasTopLevelWindows
+  <sub>[#178033](https://github.com/flutter/flutter/pull/178033) merged on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178033) over 1 day, 1 addition and 89 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Add FAQ entry about our attempts to remove Skia image codecs.
   <sub>[#177947](https://github.com/flutter/flutter/pull/177947) merged on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177947) over 1 hour, 15 additions and 0 deletions in 1 file</sub>
@@ -210,9 +214,9 @@
   <sub>[#177545](https://github.com/flutter/flutter/pull/177545) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177545) over 1 week, 13 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove WindowingOwner.hasTopLevelWindows
-  <sub>[#178033](https://github.com/flutter/flutter/pull/178033) merged on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178033) over 1 day, 1 addition and 89 deletions in 8 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't add webparagraph suite to CI
+  <sub>[#177681](https://github.com/flutter/flutter/pull/177681) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177681) over 1 week, 5 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SnackBarAction doesn't crash in 0x0 environment
   <sub>[#177899](https://github.com/flutter/flutter/pull/177899) merged on November 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177899) over 1 day, 13 additions and 0 deletions in 1 file</sub>
