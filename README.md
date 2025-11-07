@@ -1075,7 +1075,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-11 commits.
+13 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old implicit animation codelab with updated combined one<br />
   <sub>[#12630](https://github.com/flutter/website/pull/12630) merged on November 4, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/12630) over 18 hours, 14 additions and 1664 deletions in 26 files</sub><br />
@@ -1088,6 +1088,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add /to/template link<br />
   <sub>[#12635](https://github.com/flutter/website/pull/12635) merged on November 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12635) over 12 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add release notes for DevTools 2.52.0<br />
+  <sub>[#12652](https://github.com/flutter/website/pull/12652) merged on November 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12652) over 1 day, 38 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Include page title and description in md output<br />
   <sub>[#12639](https://github.com/flutter/website/pull/12639) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12639) over 7 hours, 26 additions and 7 deletions in 3 files</sub><br />
@@ -1104,6 +1108,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added impellerc example for auditing fragment shaders<br />
   <sub>[#12613](https://github.com/flutter/website/pull/12613) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12613) over 3 days, 23 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; remove dead footnote from architectural overview<br />
+  <sub>[#12658](https://github.com/flutter/website/pull/12658) merged on November 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12658) over 14 hours, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Remove extra flags from Cursor configuration<br />
   <sub>[#12634](https://github.com/flutter/website/pull/12634) merged on November 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12634) over 22 hours, 3 additions and 5 deletions in 1 file</sub><br />
