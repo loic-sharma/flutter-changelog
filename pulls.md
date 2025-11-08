@@ -179,3 +179,6 @@
 * **[Kouki Badr](https://github.com/koukibadr)** &mdash; fix #178045: update expansible documentation for default  maintainSta…<br />
   <sub>[#178203](https://github.com/flutter/flutter/pull/178203) opened on on November 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178203) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kouki Badr](https://github.com/koukibadr)** &mdash; fix #178204: update textediting controller notifier on user tap on field<br />
+  <sub>[#178205](https://github.com/flutter/flutter/pull/178205) opened on on November 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178205) 3 additions and 1 deletion in 1 file</sub><br />
+
