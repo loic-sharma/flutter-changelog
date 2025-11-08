@@ -896,7 +896,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-19 commits.
+20 commits.
 
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; [go_router] ShellRoute will merge GoRouter's observers
   <sub>[#9436](https://github.com/flutter/packages/pull/9436) merged on November 5, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/9436) over 4 months, 200 additions and 4 deletions in 8 files</sub>
@@ -953,6 +953,10 @@
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; [flutter_svg] Fixes typo of `allowDrawingOutsideViewBox` in doc comments.
   <sub>[#10256](https://github.com/flutter/packages/pull/10256) merged on November 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10256) over 2 weeks, 11 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Replace deprecated methods
+  <sub>[#10377](https://github.com/flutter/packages/pull/10377) merged on November 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10377) over 1 day, 14 additions and 7 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Gradle Version Formatting Validation
   <sub>[#10326](https://github.com/flutter/packages/pull/10326) merged on November 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10326) over 1 week, 40 additions and 23 deletions in 2 files</sub>
