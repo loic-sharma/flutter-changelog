@@ -173,3 +173,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBar doesn't crash in 0x0 environment<br />
   <sub>[#178201](https://github.com/flutter/flutter/pull/178201) opened on on November 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178201) 17 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBarView doesn't crash in 0x0 environment<br />
+  <sub>[#178202](https://github.com/flutter/flutter/pull/178202) opened on on November 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178202) 17 additions and 0 deletions in 1 file</sub><br />
+
