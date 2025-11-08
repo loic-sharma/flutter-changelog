@@ -1095,7 +1095,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-18 commits.
+19 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old implicit animation codelab with updated combined one
   <sub>[#12630](https://github.com/flutter/website/pull/12630) merged on November 4, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/12630) over 18 hours, 14 additions and 1664 deletions in 26 files</sub>
@@ -1148,6 +1148,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added impellerc example for auditing fragment shaders
   <sub>[#12613](https://github.com/flutter/website/pull/12613) merged on November 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12613) over 3 days, 23 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[iakdis](https://github.com/iakdis)** &mdash; Fix broken link to `debugInvertOversizedImages` documentation
+  <sub>[#12662](https://github.com/flutter/website/pull/12662) merged on November 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12662) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Update documentation for Flutter 3.38 release
   <sub>[#12649](https://github.com/flutter/website/pull/12649) merged on November 7, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/website/pull/12649) over 2 days, 281 additions and 72 deletions in 6 files</sub>
