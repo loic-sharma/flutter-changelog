@@ -1095,7 +1095,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-17 commits.
+18 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old implicit animation codelab with updated combined one<br />
   <sub>[#12630](https://github.com/flutter/website/pull/12630) merged on November 4, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/12630) over 18 hours, 14 additions and 1664 deletions in 26 files</sub><br />
@@ -1111,6 +1111,10 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add /to/template link<br />
   <sub>[#12635](https://github.com/flutter/website/pull/12635) merged on November 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12635) over 12 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[iakdis](https://github.com/iakdis)** &mdash; Remove `skipTemplateRendering` from release notes front matter<br />
+  <sub>[#12661](https://github.com/flutter/website/pull/12661) merged on November 8, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12661) over 20 hours, 13 additions and 13 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add glossary tooltip<br />
