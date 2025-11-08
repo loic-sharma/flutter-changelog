@@ -896,7 +896,7 @@
 
 ### November 1, 2025 to November 7, 2025
 
-18 commits.
+19 commits.
 
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; [go_router] ShellRoute will merge GoRouter's observers<br />
   <sub>[#9436](https://github.com/flutter/packages/pull/9436) merged on November 5, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/9436) over 4 months, 200 additions and 4 deletions in 8 files</sub><br />
@@ -925,6 +925,10 @@
 * **[Flop](https://github.com/hgraceb)** &mdash; [go_router] Migrates test for leak testing<br />
   <sub>[#10276](https://github.com/flutter/packages/pull/10276) merged on November 6, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10276) over 2 weeks, 32 additions and 24 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Valentin Vignal](https://github.com/ValentinVignal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Remove use of Pigeon's Dart test generator<br />
+  <sub>[#10315](https://github.com/flutter/packages/pull/10315) merged on November 8, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/10315) over 1 week, 241 additions and 916 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run tests on macOS 15.5 or 15.7<br />
   <sub>[#10336](https://github.com/flutter/packages/pull/10336) merged on November 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10336) over 6 days, 2 additions and 2 deletions in 1 file</sub><br />
