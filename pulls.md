@@ -182,3 +182,6 @@
 * **[Kouki Badr](https://github.com/koukibadr)** &mdash; fix #178204: update textediting controller notifier on user tap on field<br />
   <sub>[#178205](https://github.com/flutter/flutter/pull/178205) opened on on November 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178205) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelectorIndicator doesn't crash in 0x0 enviro…<br />
+  <sub>[#178212](https://github.com/flutter/flutter/pull/178212) opened on on November 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178212) 19 additions and 0 deletions in 1 file</sub><br />
+
