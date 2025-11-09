@@ -186,5 +186,5 @@
   <sub>[#178213](https://github.com/flutter/flutter/pull/178213) opened on on November 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178213) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Fix division by zero in RenderTable intrinsic size methods<br />
-  <sub>[#178217](https://github.com/flutter/flutter/pull/178217) opened on on November 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178217) 36 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#178217](https://github.com/flutter/flutter/pull/178217) opened on on November 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178217) 31 additions and 0 deletions in 2 files</sub><br />
 
