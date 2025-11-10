@@ -194,3 +194,6 @@
 * **[Gautam Yadav](https://github.com/imgautam07)** &mdash; feat: add Brightness utility methods<br />
   <sub>[#178228](https://github.com/flutter/flutter/pull/178228) opened on on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178228) 13 additions and 1 deletion in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextField doesn't crash in 0x0 environment<br />
+  <sub>[#178232](https://github.com/flutter/flutter/pull/178232) opened on on November 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178232) 17 additions and 0 deletions in 1 file</sub><br />
+
