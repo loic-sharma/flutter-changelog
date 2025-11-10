@@ -619,7 +619,11 @@
 
 ### November 8, 2025 to November 14, 2025
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Remove unused web code
+  <sub>[#10376](https://github.com/flutter/packages/pull/10376) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10376) over 3 days, 0 additions and 38 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Daniel Ferreira](https://github.com/danferreira)** &mdash; [file_selector] Add canCreateDirectories to FileDialogOptions
   <sub>[#10317](https://github.com/flutter/packages/pull/10317) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10317) over 1 week, 102 additions and 8 deletions in 5 files</sub>

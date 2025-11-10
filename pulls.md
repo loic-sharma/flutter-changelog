@@ -95,9 +95,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
   <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177954) 153 additions and 5 deletions in 12 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Impeller: Allows R32G32B32A32_SFLOAT images<br />
-  <sub>[#177959](https://github.com/flutter/flutter/pull/177959) opened on on November 4, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/177959) 849 additions and 278 deletions in 25 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Add analytic event that's reported when the previewer is opened<br />
   <sub>[#177960](https://github.com/flutter/flutter/pull/177960) opened on on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177960) 46 additions and 1 deletion in 4 files</sub><br />
 
@@ -163,6 +160,9 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178175](https://github.com/flutter/flutter/pull/178175) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178175) 27 additions and 6 deletions in 2 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Added Proguard File Check<br />
+  <sub>[#178191](https://github.com/flutter/flutter/pull/178191) opened on on November 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178191) 7 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBar doesn't crash in 0x0 environment<br />
   <sub>[#178201](https://github.com/flutter/flutter/pull/178201) opened on on November 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178201) 17 additions and 0 deletions in 1 file</sub><br />
