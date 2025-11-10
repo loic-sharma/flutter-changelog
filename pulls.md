@@ -65,9 +65,6 @@
 * **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add assertion to Navigator.pop when stack is empty to improve developer experience<br />
   <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/177491) 3582 additions and 425 deletions in 112 files</sub><br />
 
-* **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
-  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) opened on on October 27, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/177572) 295 additions and 6 deletions in 2 files</sub><br />
-
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Allow apps to prefer high power GPUs<br />
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
@@ -202,4 +199,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextFormField doesn't crash in 0x0 environment<br />
   <sub>[#178233](https://github.com/flutter/flutter/pull/178233) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178233) 17 additions and 0 deletions in 1 file</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Deprecate onReorder callback<br />
+  <sub>[#178242](https://github.com/flutter/flutter/pull/178242) opened on on November 10, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/178242) 702 additions and 180 deletions in 11 files</sub><br />
 

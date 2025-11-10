@@ -617,9 +617,18 @@
 
 ## flutter/packages
 
+### November 8, 2025 to November 14, 2025
+
+1 commits.
+
+* **[Daniel Ferreira](https://github.com/danferreira)** &mdash; [file_selector] Add canCreateDirectories to FileDialogOptions<br />
+  <sub>[#10317](https://github.com/flutter/packages/pull/10317) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10317) over 1 week, 102 additions and 8 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 ### November 1, 2025 to November 7, 2025
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[hhh](https://github.com/huanghui1998hhh)** &mdash; [go_router] ShellRoute will merge GoRouter's observers<br />
   <sub>[#9436](https://github.com/flutter/packages/pull/9436) merged on November 5, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/9436) over 4 months, 200 additions and 4 deletions in 8 files</sub><br />
@@ -700,6 +709,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [interactive_media_ads] Pin iOS dependency maximum<br />
   <sub>[#10349](https://github.com/flutter/packages/pull/10349) merged on November 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10349) over 8 hours, 12 additions and 5 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+</details>
 
 ### October 25, 2025 to October 31, 2025
 
