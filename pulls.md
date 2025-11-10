@@ -125,9 +125,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relax assertion for adding semantics locale<br />
   <sub>[#178140](https://github.com/flutter/flutter/pull/178140) opened on on November 6, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/178140) 913 additions and 700 deletions in 11 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelector doesn't crash in 0x0 environment<br />
-  <sub>[#178156](https://github.com/flutter/flutter/pull/178156) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178156) 15 additions and 0 deletions in 1 file</sub><br />
-
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Corrects invalid Flutter wiki links<br />
   <sub>[#178158](https://github.com/flutter/flutter/pull/178158) opened on on November 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178158) 24 additions and 24 deletions in 11 files</sub><br />
 
@@ -140,32 +137,14 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178175](https://github.com/flutter/flutter/pull/178175) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178175) 27 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBar doesn't crash in 0x0 environment<br />
-  <sub>[#178201](https://github.com/flutter/flutter/pull/178201) opened on on November 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178201) 17 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBarView doesn't crash in 0x0 environment<br />
-  <sub>[#178202](https://github.com/flutter/flutter/pull/178202) opened on on November 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178202) 17 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kouki Badr](https://github.com/koukibadr)** &mdash; fix #178045: update expansible documentation for default  maintainSta…<br />
   <sub>[#178203](https://github.com/flutter/flutter/pull/178203) opened on on November 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178203) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelectorIndicator doesn't crash in 0x0 enviro…<br />
-  <sub>[#178212](https://github.com/flutter/flutter/pull/178212) opened on on November 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178212) 19 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextButton doesn't crash in 0x0 environment<br />
-  <sub>[#178213](https://github.com/flutter/flutter/pull/178213) opened on on November 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178213) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Fix division by zero in RenderTable intrinsic size methods<br />
   <sub>[#178217](https://github.com/flutter/flutter/pull/178217) opened on on November 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178217) 31 additions and 0 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Enable semantics via query parameter for automation testing<br />
   <sub>[#178224](https://github.com/flutter/flutter/pull/178224) opened on on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178224) 13 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextField doesn't crash in 0x0 environment<br />
-  <sub>[#178232](https://github.com/flutter/flutter/pull/178232) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178232) 17 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextFormField doesn't crash in 0x0 environment<br />
-  <sub>[#178233](https://github.com/flutter/flutter/pull/178233) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178233) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Deprecate onReorder callback<br />
   <sub>[#178242](https://github.com/flutter/flutter/pull/178242) opened on on November 10, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/178242) 702 additions and 180 deletions in 11 files</sub><br />
