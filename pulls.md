@@ -116,9 +116,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
   <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/178116) 1314 additions and 149 deletions in 31 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tab doesn't crash in 0x0 environment<br />
-  <sub>[#178118](https://github.com/flutter/flutter/pull/178118) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178118) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update .ci.yaml in flutter/flutter to use 15.5<br />
   <sub>[#178127](https://github.com/flutter/flutter/pull/178127) opened on on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178127) 87 additions and 87 deletions in 10 files</sub><br />
 
