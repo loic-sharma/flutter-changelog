@@ -164,6 +164,9 @@
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Dev proxy correctly copy query parameters from original request<br />
   <sub>[#178162](https://github.com/flutter/flutter/pull/178162) opened on on November 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178162) 29 additions and 8 deletions in 2 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove chrome_and_driver dependency where it's not needed<br />
+  <sub>[#178174](https://github.com/flutter/flutter/pull/178174) opened on on November 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178174) 1 addition and 52 deletions in 1 file</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178175](https://github.com/flutter/flutter/pull/178175) opened on on November 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178175) 27 additions and 6 deletions in 2 files</sub><br />
 
