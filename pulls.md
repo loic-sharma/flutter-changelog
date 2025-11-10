@@ -146,9 +146,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178175](https://github.com/flutter/flutter/pull/178175) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178175) 26 additions and 1 deletion in 2 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Added Proguard File Check<br />
-  <sub>[#178191](https://github.com/flutter/flutter/pull/178191) opened on on November 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178191) 7 additions and 4 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBar doesn't crash in 0x0 environment<br />
   <sub>[#178201](https://github.com/flutter/flutter/pull/178201) opened on on November 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178201) 17 additions and 0 deletions in 1 file</sub><br />
 
@@ -181,4 +178,7 @@
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [CP-Stable] Cherry-pick ninja+cmake deps<br />
   <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178243) 91 additions and 18 deletions in 1 file</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Dynamically set MinimumOSVersion in App.framework<br />
+  <sub>[#178253](https://github.com/flutter/flutter/pull/178253) opened on on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178253) 82 additions and 7 deletions in 4 files</sub><br />
 
