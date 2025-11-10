@@ -198,5 +198,5 @@
   <sub>[#178232](https://github.com/flutter/flutter/pull/178232) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178232) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextFormField doesn't crash in 0x0 environment<br />
-  <sub>[#178233](https://github.com/flutter/flutter/pull/178233) opened on on November 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178233) 17 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178233](https://github.com/flutter/flutter/pull/178233) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178233) 17 additions and 0 deletions in 1 file</sub><br />
 
