@@ -756,9 +756,18 @@
 
 ## flutter/website
 
+### November 8, 2025 to November 14, 2025
+
+1 commits.
+
+* **[Tadas Petra](https://github.com/tadaspetra)** &mdash; Added new Course<br />
+  <sub>[#12655](https://github.com/flutter/website/pull/12655) merged on November 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12655) over 4 days, 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### November 1, 2025 to November 7, 2025
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace old implicit animation codelab with updated combined one<br />
   <sub>[#12630](https://github.com/flutter/website/pull/12630) merged on November 4, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/12630) over 18 hours, 14 additions and 1664 deletions in 26 files</sub><br />
@@ -835,6 +844,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a note about "the great thread merge"<br />
   <sub>[#12627](https://github.com/flutter/website/pull/12627) merged on November 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12627) over 1 hour, 18 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Craig Labenz](https://github.com/craiglabenz), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### October 25, 2025 to October 31, 2025
 
