@@ -4,11 +4,23 @@
 
 ### November 8, 2025 to November 14, 2025
 
-2 commits.
+5 commits.
+
+* **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation<br />
+  <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Encode the original pointer count in messages that represent Android touch events<br />
+  <sub>[#178015](https://github.com/flutter/flutter/pull/178015) merged on November 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/178015) over 5 days, 84 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android TESTOWNERS<br />
   <sub>[#178182](https://github.com/flutter/flutter/pull/178182) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178182) over 2 days, 5 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SpellCheckSuggestionsToolbar doesn't crash in 0x0 en…<br />
+  <sub>[#177965](https://github.com/flutter/flutter/pull/177965) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177965) over 6 days, 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SwitchListTile doesn't crash in 0x0 environment<br />
   <sub>[#178069](https://github.com/flutter/flutter/pull/178069) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178069) over 5 days, 13 additions and 0 deletions in 1 file</sub><br />
