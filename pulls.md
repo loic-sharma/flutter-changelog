@@ -107,9 +107,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [DO NOT SUBMIT] Debugging skwasm flaky tests<br />
   <sub>[#178062](https://github.com/flutter/flutter/pull/178062) opened on on November 5, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/178062) 94 additions and 6924 deletions in 6 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix no op host debug builds doing work<br />
-  <sub>[#178077](https://github.com/flutter/flutter/pull/178077) opened on on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178077) 3 additions and 2 deletions in 2 files</sub><br />
-
 * **[Job Guldemeester](https://github.com/Guldem)** &mdash; Adds property passthrough for CheckboxListTile, SwitchListTile and RadioListTile<br />
   <sub>[#178098](https://github.com/flutter/flutter/pull/178098) opened on on November 6, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178098) 1106 additions and 0 deletions in 7 files</sub><br />
 
