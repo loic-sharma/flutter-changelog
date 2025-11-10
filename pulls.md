@@ -156,7 +156,7 @@
   <sub>[#178156](https://github.com/flutter/flutter/pull/178156) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178156) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Corrects invalid Flutter wiki links<br />
-  <sub>[#178158](https://github.com/flutter/flutter/pull/178158) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178158) 24 additions and 24 deletions in 11 files</sub><br />
+  <sub>[#178158](https://github.com/flutter/flutter/pull/178158) opened on on November 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178158) 24 additions and 24 deletions in 11 files</sub><br />
 
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Dev proxy correctly copy query parameters from original request<br />
   <sub>[#178162](https://github.com/flutter/flutter/pull/178162) opened on on November 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178162) 29 additions and 8 deletions in 2 files</sub><br />
@@ -199,4 +199,10 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Deprecate onReorder callback<br />
   <sub>[#178242](https://github.com/flutter/flutter/pull/178242) opened on on November 10, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/178242) 702 additions and 180 deletions in 11 files</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [CP-Stable] Cherry-pick ninja+cmake deps<br />
+  <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178243) 83 additions and 16 deletions in 1 file</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [CP-Beta] Cherry-pick ninja+cmake deps<br />
+  <sub>[#178244](https://github.com/flutter/flutter/pull/178244) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178244) 87 additions and 17 deletions in 1 file</sub><br />
 
