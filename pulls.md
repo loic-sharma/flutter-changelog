@@ -140,12 +140,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [CP-beta] Update .ci.yaml in flutter/flutter to use 15.5 (#177939)<br />
   <sub>[#178132](https://github.com/flutter/flutter/pull/178132) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178132) 87 additions and 87 deletions in 10 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update more missing ninja deps<br />
-  <sub>[#178134](https://github.com/flutter/flutter/pull/178134) opened on on November 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178134) 4 additions and 1 deletion in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update more missing ninja deps<br />
-  <sub>[#178135](https://github.com/flutter/flutter/pull/178135) opened on on November 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178135) 4 additions and 1 deletion in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relax assertion for adding semantics locale<br />
   <sub>[#178140](https://github.com/flutter/flutter/pull/178140) opened on on November 6, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/178140) 913 additions and 700 deletions in 11 files</sub><br />
 
@@ -165,7 +159,7 @@
   <sub>[#178174](https://github.com/flutter/flutter/pull/178174) opened on on November 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178174) 1 addition and 52 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
-  <sub>[#178175](https://github.com/flutter/flutter/pull/178175) opened on on November 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178175) 27 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#178175](https://github.com/flutter/flutter/pull/178175) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178175) 27 additions and 6 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBar doesn't crash in 0x0 environment<br />
   <sub>[#178201](https://github.com/flutter/flutter/pull/178201) opened on on November 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178201) 17 additions and 0 deletions in 1 file</sub><br />
