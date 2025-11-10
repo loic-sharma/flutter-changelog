@@ -152,3 +152,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [CP-Stable] Cherry-pick ninja+cmake deps<br />
   <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178243) 91 additions and 18 deletions in 1 file</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Retry 3.38 release stamp<br />
+  <sub>[#178256](https://github.com/flutter/flutter/pull/178256) opened on on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178256) 10 additions and 4 deletions in 2 files</sub><br />
+
