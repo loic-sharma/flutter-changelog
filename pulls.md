@@ -126,7 +126,7 @@
   <sub>[#178105](https://github.com/flutter/flutter/pull/178105) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178105) 45 additions and 43 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
-  <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/178116) 1270 additions and 108 deletions in 30 files</sub><br />
+  <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/178116) 1270 additions and 108 deletions in 30 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DefaultTabController doesn't crash in 0x0 environment<br />
   <sub>[#178117](https://github.com/flutter/flutter/pull/178117) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178117) 11 additions and 0 deletions in 1 file</sub><br />
