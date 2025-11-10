@@ -619,7 +619,11 @@
 
 ### November 8, 2025 to November 14, 2025
 
-2 commits.
+3 commits.
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; [camera_android_camerax] Fixes crash with unsupported operation exception
+  <sub>[#10342](https://github.com/flutter/packages/pull/10342) merged on November 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10342) over 1 week, 113 additions and 6 deletions in 6 files</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Remove unused web code
   <sub>[#10376](https://github.com/flutter/packages/pull/10376) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10376) over 3 days, 0 additions and 38 deletions in 1 file</sub>
