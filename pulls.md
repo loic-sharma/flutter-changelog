@@ -98,9 +98,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Add analytic event that's reported when the previewer is opened<br />
   <sub>[#177960](https://github.com/flutter/flutter/pull/177960) opened on on November 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177960) 46 additions and 1 deletion in 4 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSpellCheckSuggestionsToolbar doesn't crash …<br />
-  <sub>[#177978](https://github.com/flutter/flutter/pull/177978) opened on on November 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177978) 17 additions and 0 deletions in 1 file</sub><br />
-
 * **[jacksonrl](https://github.com/jacksonrl)** &mdash; Add SliverIndexedVariedExtentList to support jumpToIndex<br />
   <sub>[#178021](https://github.com/flutter/flutter/pull/178021) opened on on November 5, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178021) 1112 additions and 4 deletions in 6 files</sub><br />
 
@@ -109,12 +106,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [DO NOT SUBMIT] Debugging skwasm flaky tests<br />
   <sub>[#178062](https://github.com/flutter/flutter/pull/178062) opened on on November 5, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/178062) 94 additions and 6924 deletions in 6 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Stepper doesn't crash in 0x0 environment<br />
-  <sub>[#178068](https://github.com/flutter/flutter/pull/178068) opened on on November 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178068) 23 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SwitchListTile doesn't crash in 0x0 environment<br />
-  <sub>[#178069](https://github.com/flutter/flutter/pull/178069) opened on on November 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178069) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix no op host debug builds doing work<br />
   <sub>[#178077](https://github.com/flutter/flutter/pull/178077) opened on on November 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178077) 3 additions and 2 deletions in 2 files</sub><br />
@@ -127,9 +118,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
   <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/178116) 1314 additions and 148 deletions in 30 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DefaultTabController doesn't crash in 0x0 environment<br />
-  <sub>[#178117](https://github.com/flutter/flutter/pull/178117) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178117) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tab doesn't crash in 0x0 environment<br />
   <sub>[#178118](https://github.com/flutter/flutter/pull/178118) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178118) 13 additions and 0 deletions in 1 file</sub><br />
