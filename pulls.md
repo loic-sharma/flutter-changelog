@@ -198,8 +198,5 @@
   <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178243) 91 additions and 18 deletions in 1 file</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [CP-Beta] Cherry-pick ninja+cmake deps<br />
-  <sub>[#178244](https://github.com/flutter/flutter/pull/178244) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178244) 87 additions and 17 deletions in 1 file</sub><br />
-
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Update bringup tasks with ninja+cmake dpes<br />
-  <sub>[#178245](https://github.com/flutter/flutter/pull/178245) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178245) 8 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#178244](https://github.com/flutter/flutter/pull/178244) opened on on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178244) 87 additions and 17 deletions in 1 file</sub><br />
 
