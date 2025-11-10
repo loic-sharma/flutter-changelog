@@ -4,7 +4,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-8 commits.
+9 commits.
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub>
@@ -26,6 +26,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android TESTOWNERS
   <sub>[#178182](https://github.com/flutter/flutter/pull/178182) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178182) over 2 days, 5 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Update "Frame Capture with RenderDoc" docs with instructions for Android
+  <sub>[#178138](https://github.com/flutter/flutter/pull/178138) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178138) over 3 days, 26 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Check for devicectl launch logs from std and file
   <sub>[#178167](https://github.com/flutter/flutter/pull/178167) merged on November 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178167) over 3 days, 94 additions and 6 deletions in 2 files</sub>
