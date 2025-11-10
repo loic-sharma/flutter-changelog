@@ -152,6 +152,3 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [CP-Stable] Cherry-pick ninja+cmake deps<br />
   <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178243) 91 additions and 18 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Separate copying dsym into its own target<br />
-  <sub>[#178261](https://github.com/flutter/flutter/pull/178261) opened on on November 10, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/178261) 249 additions and 118 deletions in 8 files</sub><br />
-
