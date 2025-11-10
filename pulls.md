@@ -158,7 +158,7 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelector doesn't crash in 0x0 environment<br />
   <sub>[#178156](https://github.com/flutter/flutter/pull/178156) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178156) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Sv/sv/177797 v1<br />
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Corrects invalid Flutter wiki links<br />
   <sub>[#178158](https://github.com/flutter/flutter/pull/178158) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178158) 24 additions and 24 deletions in 11 files</sub><br />
 
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Dev proxy correctly copy query parameters from original request<br />
