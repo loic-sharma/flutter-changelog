@@ -188,3 +188,6 @@
 * **[Илия](https://github.com/777genius)** &mdash; Fix division by zero in RenderTable intrinsic size methods<br />
   <sub>[#178217](https://github.com/flutter/flutter/pull/178217) opened on on November 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178217) 31 additions and 0 deletions in 2 files</sub><br />
 
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Enable semantics via query parameter for automation testing<br />
+  <sub>[#178224](https://github.com/flutter/flutter/pull/178224) opened on on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178224) 13 additions and 0 deletions in 1 file</sub><br />
+
