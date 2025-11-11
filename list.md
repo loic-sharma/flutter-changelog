@@ -4,7 +4,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-24 commits.
+25 commits.
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub>
@@ -104,6 +104,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SwitchListTile doesn't crash in 0x0 environment
   <sub>[#178069](https://github.com/flutter/flutter/pull/178069) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178069) over 5 days, 13 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland "Refactor OverlayPortal semantics (#173005)"
+  <sub>[#178095](https://github.com/flutter/flutter/pull/178095) merged on November 11, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/178095) over 4 days, 1677 additions and 514 deletions in 38 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 ### November 1, 2025 to November 7, 2025
 
