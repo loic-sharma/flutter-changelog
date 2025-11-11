@@ -4,11 +4,15 @@
 
 ### November 8, 2025 to November 14, 2025
 
-31 commits.
+33 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add a11y for loading indicators
   <sub>[#165173](https://github.com/flutter/flutter/pull/165173) merged on November 11, 2025 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/165173) over 8 months, 501 additions and 35 deletions in 27 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [zhongliugo](https://github.com/flutter-zl)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Listen to text spacing overrides on the web
+  <sub>[#178081](https://github.com/flutter/flutter/pull/178081) merged on November 11, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/178081) over 5 days, 1287 additions and 42 deletions in 16 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong), [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), and [1 other](https://github.com/flutter/flutter/pull/178081)</sub>
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub>
@@ -80,6 +84,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android TESTOWNERS
   <sub>[#178182](https://github.com/flutter/flutter/pull/178182) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178182) over 2 days, 5 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Separate copying dsym into its own target
+  <sub>[#178261](https://github.com/flutter/flutter/pull/178261) merged on November 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/178261) over 20 hours, 245 additions and 118 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RefreshIndicator doesn't crash in 0x0 environment
   <sub>[#177644](https://github.com/flutter/flutter/pull/177644) merged on November 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177644) over 1 week, 24 additions and 0 deletions in 1 file</sub>

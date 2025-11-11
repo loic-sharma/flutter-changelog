@@ -137,3 +137,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
   <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable UIScene Migration and create templates<br />
+  <sub>[#178328](https://github.com/flutter/flutter/pull/178328) opened on on November 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178328) 119 additions and 22 deletions in 13 files</sub><br />
+
