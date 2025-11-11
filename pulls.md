@@ -6,7 +6,7 @@
   <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/170980) 47 additions and 24 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
-  <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mo Luo](https://github.com/moluopro)** &mdash; Fix: use 'exit' instead of 'return' for curlExitCode<br />
   <sub>[#175025](https://github.com/flutter/flutter/pull/175025) opened on on September 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175025) 1 addition and 1 deletion in 1 file</sub><br />
@@ -147,5 +147,5 @@
   <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178243) 91 additions and 18 deletions in 1 file</sub><br />
 
 * **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; Improve assertion messages in Tab widget for better clarity<br />
-  <sub>[#178295](https://github.com/flutter/flutter/pull/178295) opened on on November 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178295) 106 additions and 95 deletions in 1 file</sub><br />
+  <sub>[#178295](https://github.com/flutter/flutter/pull/178295) opened on on November 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178295) 106 additions and 95 deletions in 1 file</sub><br />
 
