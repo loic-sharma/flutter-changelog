@@ -14,13 +14,13 @@
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
-  <sub>[#176825](https://github.com/flutter/flutter/pull/176825) merged on November 10, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176825) over 1 month, 188 additions and 41 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: Migrate Expansible animation properties to AnimationStyle for a less broad API surface<br />
   <sub>[#177966](https://github.com/flutter/flutter/pull/177966) merged on November 11, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/177966) over 1 week, 462 additions and 9 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.<br />
+  <sub>[#176825](https://github.com/flutter/flutter/pull/176825) merged on November 10, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176825) over 1 month, 188 additions and 41 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `search_anchor.1.dart‎` example<br />
   <sub>[#178215](https://github.com/flutter/flutter/pull/178215) merged on November 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178215) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
