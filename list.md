@@ -4,7 +4,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-18 commits.
+20 commits.
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub>
@@ -33,9 +33,17 @@
   <sub>[#176917](https://github.com/flutter/flutter/pull/176917) merged on November 10, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176917) over 4 weeks, 13 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix VoiceOver does not announce state of ButtonSegment
+  <sub>[#175635](https://github.com/flutter/flutter/pull/175635) merged on November 10, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175635) over 1 month, 65 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix no op host debug builds doing work
   <sub>[#178077](https://github.com/flutter/flutter/pull/178077) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178077) over 5 days, 3 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't require 'flutter pub get' to be run in the root project
+  <sub>[#178175](https://github.com/flutter/flutter/pull/178175) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178175) over 3 days, 27 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Encode the original pointer count in messages that represent Android touch events
   <sub>[#178015](https://github.com/flutter/flutter/pull/178015) merged on November 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/178015) over 5 days, 84 additions and 8 deletions in 3 files</sub>
