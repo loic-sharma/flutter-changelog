@@ -920,7 +920,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-3 commits.
+4 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add FileTree component to docs
   <sub>[#12623](https://github.com/flutter/website/pull/12623) merged on November 11, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/website/pull/12623) over 1 week, 186 additions and 151 deletions in 13 files</sub>
@@ -929,6 +929,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Web dev config: clean up and add to sidenav
   <sub>[#12583](https://github.com/flutter/website/pull/12583) merged on November 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12583) over 2 weeks, 8 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[iakdis](https://github.com/iakdis)** &mdash; Fix broken link in `fragment-shaders.md`
+  <sub>[#12667](https://github.com/flutter/website/pull/12667) merged on November 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12667) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Tadas Petra](https://github.com/tadaspetra)** &mdash; Added new Course
   <sub>[#12655](https://github.com/flutter/website/pull/12655) merged on November 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12655) over 4 days, 4 additions and 2 deletions in 1 file</sub>
