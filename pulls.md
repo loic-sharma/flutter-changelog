@@ -87,7 +87,7 @@
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/177888) 630 additions and 10 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
-  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177954) 153 additions and 5 deletions in 12 files</sub><br />
+  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177954) 153 additions and 5 deletions in 12 files</sub><br />
 
 * **[jacksonrl](https://github.com/jacksonrl)** &mdash; Add SliverIndexedVariedExtentList to support jumpToIndex<br />
   <sub>[#178021](https://github.com/flutter/flutter/pull/178021) opened on on November 5, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178021) 1112 additions and 4 deletions in 6 files</sub><br />
