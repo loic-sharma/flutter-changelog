@@ -749,7 +749,11 @@
 
 ### November 8, 2025 to November 14, 2025
 
-8 commits.
+9 commits.
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event<br />
+  <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [misos1](https://github.com/misos1), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Remove use of Pigeon's Dart test generator<br />
   <sub>[#10323](https://github.com/flutter/packages/pull/10323) merged on November 11, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/10323) over 1 week, 121 additions and 572 deletions in 10 files</sub><br />
