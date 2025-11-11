@@ -4,11 +4,21 @@
 
 ### November 8, 2025 to November 14, 2025
 
-12 commits.
+14 commits.
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation<br />
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `search_anchor.1.dart‎` example<br />
+  <sub>[#178215](https://github.com/flutter/flutter/pull/178215) merged on November 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178215) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `cupertino_navigation_bar.0.dart‎` example<br />
+  <sub>[#177814](https://github.com/flutter/flutter/pull/177814) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177814) over 1 week, 5 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `hero.1.dart` example<br />
   <sub>[#177810](https://github.com/flutter/flutter/pull/177810) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177810) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
@@ -838,7 +848,15 @@
 
 ### November 8, 2025 to November 14, 2025
 
-1 commits.
+3 commits.
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add FileTree component to docs<br />
+  <sub>[#12623](https://github.com/flutter/website/pull/12623) merged on November 11, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/website/pull/12623) over 1 week, 186 additions and 151 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Web dev config: clean up and add to sidenav<br />
+  <sub>[#12583](https://github.com/flutter/website/pull/12583) merged on November 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12583) over 2 weeks, 8 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Amanda Fitch](https://github.com/antfitch)</sub><br />
 
 * **[Tadas Petra](https://github.com/tadaspetra)** &mdash; Added new Course<br />
   <sub>[#12655](https://github.com/flutter/website/pull/12655) merged on November 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12655) over 4 days, 4 additions and 2 deletions in 1 file</sub><br />
