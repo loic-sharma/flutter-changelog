@@ -761,11 +761,15 @@
 
 ### November 8, 2025 to November 14, 2025
 
-9 commits.
+10 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event
   <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub>
   <sub>Reviewed by: [misos1](https://github.com/misos1), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping CI to Test Against JDK 21
+  <sub>[#10193](https://github.com/flutter/packages/pull/10193) merged on November 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10193) over 1 month, 42 additions and 33 deletions in 21 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Remove use of Pigeon's Dart test generator
   <sub>[#10323](https://github.com/flutter/packages/pull/10323) merged on November 11, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/10323) over 1 week, 121 additions and 572 deletions in 10 files</sub>
