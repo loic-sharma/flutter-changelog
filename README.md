@@ -7,7 +7,7 @@
 30 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add a11y for loading indicators<br />
-  <sub>[#165173](https://github.com/flutter/flutter/pull/165173) merged on November 11, 2025 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/165173) over 8 months, 501 additions and 35 deletions in 27 files</sub><br />
+  <sub>[#165173](https://github.com/flutter/flutter/pull/165173) merged on November 11, 2025 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/165173) over 8 months, 501 additions and 35 deletions in 27 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [zhongliugo](https://github.com/flutter-zl)</sub><br />
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation<br />
