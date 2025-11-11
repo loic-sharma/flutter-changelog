@@ -4,11 +4,15 @@
 
 ### November 8, 2025 to November 14, 2025
 
-14 commits.
+18 commits.
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Update CupertinoSwitch thumb to snap to the sides on drag.
+  <sub>[#176825](https://github.com/flutter/flutter/pull/176825) merged on November 10, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176825) over 1 month, 188 additions and 41 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `search_anchor.1.dart‎` example
   <sub>[#178215](https://github.com/flutter/flutter/pull/178215) merged on November 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178215) over 1 day, 1 addition and 1 deletion in 1 file</sub>
@@ -24,6 +28,14 @@
   <sub>[#177810](https://github.com/flutter/flutter/pull/177810) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177810) over 1 week, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; support passing the arm cpu variant to the build system
+  <sub>[#176917](https://github.com/flutter/flutter/pull/176917) merged on November 10, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176917) over 4 weeks, 13 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix no op host debug builds doing work
+  <sub>[#178077](https://github.com/flutter/flutter/pull/178077) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178077) over 5 days, 3 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Encode the original pointer count in messages that represent Android touch events
   <sub>[#178015](https://github.com/flutter/flutter/pull/178015) merged on November 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/178015) over 5 days, 84 additions and 8 deletions in 3 files</sub>
@@ -44,6 +56,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android TESTOWNERS
   <sub>[#178182](https://github.com/flutter/flutter/pull/178182) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178182) over 2 days, 5 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SelectableText doesn't crash in 0x0 environment
+  <sub>[#177875](https://github.com/flutter/flutter/pull/177875) merged on November 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177875) over 1 week, 16 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Added Proguard File Check
   <sub>[#178191](https://github.com/flutter/flutter/pull/178191) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178191) over 2 days, 7 additions and 4 deletions in 1 file</sub>
