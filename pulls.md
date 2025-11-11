@@ -140,3 +140,6 @@
 * **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; Improve assertion messages in Tab widget for better clarity<br />
   <sub>[#178295](https://github.com/flutter/flutter/pull/178295) opened on on November 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178295) 120 additions and 95 deletions in 2 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
+  <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
+
