@@ -107,14 +107,8 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
   <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178116) 1312 additions and 147 deletions in 30 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update .ci.yaml in flutter/flutter to use 15.5<br />
-  <sub>[#178127](https://github.com/flutter/flutter/pull/178127) opened on on November 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178127) 87 additions and 87 deletions in 10 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relax assertion for adding semantics locale<br />
   <sub>[#178140](https://github.com/flutter/flutter/pull/178140) opened on on November 6, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/178140) 913 additions and 700 deletions in 11 files</sub><br />
-
-* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Corrects invalid Flutter wiki links<br />
-  <sub>[#178158](https://github.com/flutter/flutter/pull/178158) opened on on November 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178158) 25 additions and 25 deletions in 11 files</sub><br />
 
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Dev proxy correctly copy query parameters from original request<br />
   <sub>[#178162](https://github.com/flutter/flutter/pull/178162) opened on on November 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178162) 29 additions and 8 deletions in 2 files</sub><br />
