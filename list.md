@@ -4,7 +4,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-20 commits.
+23 commits.
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub>
@@ -64,6 +64,18 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android TESTOWNERS
   <sub>[#178182](https://github.com/flutter/flutter/pull/178182) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178182) over 2 days, 5 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelectorIndicator doesn't crash in 0x0 enviro…
+  <sub>[#178212](https://github.com/flutter/flutter/pull/178212) merged on November 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178212) over 1 day, 19 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextField doesn't crash in 0x0 environment
+  <sub>[#178232](https://github.com/flutter/flutter/pull/178232) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178232) over 14 hours, 17 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextButton doesn't crash in 0x0 environment
+  <sub>[#178213](https://github.com/flutter/flutter/pull/178213) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178213) over 1 day, 13 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SelectableText doesn't crash in 0x0 environment
   <sub>[#177875](https://github.com/flutter/flutter/pull/177875) merged on November 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177875) over 1 week, 16 additions and 0 deletions in 1 file</sub>
