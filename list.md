@@ -4,7 +4,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-27 commits.
+28 commits.
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub>
@@ -68,6 +68,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android TESTOWNERS
   <sub>[#178182](https://github.com/flutter/flutter/pull/178182) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178182) over 2 days, 5 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RefreshIndicator doesn't crash in 0x0 environment
+  <sub>[#177644](https://github.com/flutter/flutter/pull/177644) merged on November 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177644) over 1 week, 24 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextFormField doesn't crash in 0x0 environment
   <sub>[#178233](https://github.com/flutter/flutter/pull/178233) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178233) over 14 hours, 17 additions and 0 deletions in 1 file</sub>
