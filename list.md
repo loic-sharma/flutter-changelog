@@ -4,7 +4,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-28 commits.
+29 commits.
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub>
@@ -56,6 +56,10 @@
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom
   <sub>[#177572](https://github.com/flutter/flutter/pull/177572) merged on November 10, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/177572) over 2 weeks, 295 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Update bringup tasks with ninja+cmake dpes
+  <sub>[#178245](https://github.com/flutter/flutter/pull/178245) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178245) over 8 hours, 8 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Delete unused reportTimings instance variable
   <sub>[#177787](https://github.com/flutter/flutter/pull/177787) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177787) over 1 week, 0 additions and 6 deletions in 1 file</sub>
