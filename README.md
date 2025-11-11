@@ -749,7 +749,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Remove use of Pigeon's Dart test generator<br />
   <sub>[#10323](https://github.com/flutter/packages/pull/10323) merged on November 11, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/10323) over 1 week, 121 additions and 572 deletions in 10 files</sub><br />
@@ -766,6 +766,10 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [camera_android_camerax] Fixes crash with unsupported operation exception<br />
   <sub>[#10342](https://github.com/flutter/packages/pull/10342) merged on November 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10342) over 1 week, 113 additions and 6 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android package CODEOWNERS<br />
+  <sub>[#10386](https://github.com/flutter/packages/pull/10386) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10386) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Remove unused dartHostTestHandler<br />
   <sub>[#10324](https://github.com/flutter/packages/pull/10324) merged on November 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10324) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
