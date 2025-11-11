@@ -147,5 +147,5 @@
   <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178243) 91 additions and 18 deletions in 1 file</sub><br />
 
 * **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; Improve assertion messages in Tab widget for better clarity<br />
-  <sub>[#178295](https://github.com/flutter/flutter/pull/178295) opened on on November 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178295) 106 additions and 95 deletions in 1 file</sub><br />
+  <sub>[#178295](https://github.com/flutter/flutter/pull/178295) opened on on November 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178295) 120 additions and 95 deletions in 2 files</sub><br />
 
