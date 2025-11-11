@@ -105,7 +105,7 @@
   <sub>[#178062](https://github.com/flutter/flutter/pull/178062) opened on on November 5, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/178062) 94 additions and 6924 deletions in 6 files</sub><br />
 
 * **[Job Guldemeester](https://github.com/Guldem)** &mdash; Adds property passthrough for CheckboxListTile, SwitchListTile and RadioListTile<br />
-  <sub>[#178098](https://github.com/flutter/flutter/pull/178098) opened on on November 6, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/178098) 1106 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#178098](https://github.com/flutter/flutter/pull/178098) opened on on November 6, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/178098) 1106 additions and 0 deletions in 7 files</sub><br />
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Add missing flutter_lints dev dependencies<br />
   <sub>[#178105](https://github.com/flutter/flutter/pull/178105) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178105) 45 additions and 43 deletions in 6 files</sub><br />

@@ -4,7 +4,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-10 commits.
+12 commits.
 
 * **[Tomoo Kikuchi](https://github.com/KikuchiTomo)** &mdash; Add DeviceOrientationBuilder widget by MediaQuery orientation<br />
   <sub>[#177437](https://github.com/flutter/flutter/pull/177437) merged on November 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/177437) over 2 weeks, 307 additions and 0 deletions in 2 files</sub><br />
@@ -19,6 +19,10 @@
   <sub>[#178015](https://github.com/flutter/flutter/pull/178015) merged on November 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/178015) over 5 days, 84 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
+* **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom<br />
+  <sub>[#177572](https://github.com/flutter/flutter/pull/177572) merged on November 10, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/177572) over 2 weeks, 295 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Delete unused reportTimings instance variable<br />
   <sub>[#177787](https://github.com/flutter/flutter/pull/177787) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177787) over 1 week, 0 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -30,6 +34,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android TESTOWNERS<br />
   <sub>[#178182](https://github.com/flutter/flutter/pull/178182) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178182) over 2 days, 5 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Added Proguard File Check<br />
+  <sub>[#178191](https://github.com/flutter/flutter/pull/178191) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178191) over 2 days, 7 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Update "Frame Capture with RenderDoc" docs with instructions for Android<br />
   <sub>[#178138](https://github.com/flutter/flutter/pull/178138) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178138) over 3 days, 26 additions and 1 deletion in 1 file</sub><br />
@@ -667,11 +675,27 @@
 
 ### November 8, 2025 to November 14, 2025
 
-3 commits.
+7 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Remove use of Pigeon's Dart test generator<br />
+  <sub>[#10323](https://github.com/flutter/packages/pull/10323) merged on November 11, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/10323) over 1 week, 121 additions and 572 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [image_picker] Remove use of Pigeon's Dart test generator<br />
+  <sub>[#10320](https://github.com/flutter/packages/pull/10320) merged on November 11, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/10320) over 1 week, 348 additions and 2028 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Remove use of Pigeon's Dart test generator<br />
+  <sub>[#10325](https://github.com/flutter/packages/pull/10325) merged on November 11, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/10325) over 1 week, 74 additions and 621 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [camera_android_camerax] Fixes crash with unsupported operation exception<br />
   <sub>[#10342](https://github.com/flutter/packages/pull/10342) merged on November 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10342) over 1 week, 113 additions and 6 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Remove unused dartHostTestHandler<br />
+  <sub>[#10324](https://github.com/flutter/packages/pull/10324) merged on November 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10324) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Remove unused web code<br />
   <sub>[#10376](https://github.com/flutter/packages/pull/10376) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10376) over 3 days, 0 additions and 38 deletions in 1 file</sub><br />
