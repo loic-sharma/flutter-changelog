@@ -45,7 +45,7 @@
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
-  <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state<br />
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) opened on on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) 73 additions and 42 deletions in 1 file</sub><br />
@@ -127,9 +127,6 @@
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [CP-Stable] Cherry-pick ninja+cmake deps<br />
   <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178243) 91 additions and 18 deletions in 1 file</sub><br />
-
-* **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; Improve assertion messages in Tab widget for better clarity<br />
-  <sub>[#178295](https://github.com/flutter/flutter/pull/178295) opened on on November 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178295) 120 additions and 95 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
   <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
