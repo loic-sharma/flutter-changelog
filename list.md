@@ -981,11 +981,15 @@
 
 ### November 8, 2025 to November 14, 2025
 
-5 commits.
+6 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add FileTree component to docs
   <sub>[#12623](https://github.com/flutter/website/pull/12623) merged on November 11, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/website/pull/12623) over 1 week, 186 additions and 151 deletions in 13 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Theme flicker on page change
+  <sub>[#12673](https://github.com/flutter/website/pull/12673) merged on November 12, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12673) over 4 hours, 18 additions and 18 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Web dev config: clean up and add to sidenav
   <sub>[#12583](https://github.com/flutter/website/pull/12583) merged on November 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12583) over 2 weeks, 8 additions and 5 deletions in 2 files</sub>
