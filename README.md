@@ -981,7 +981,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-6 commits.
+7 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add FileTree component to docs<br />
   <sub>[#12623](https://github.com/flutter/website/pull/12623) merged on November 11, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/website/pull/12623) over 1 week, 186 additions and 151 deletions in 13 files</sub><br />
@@ -994,6 +994,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Web dev config: clean up and add to sidenav<br />
   <sub>[#12583](https://github.com/flutter/website/pull/12583) merged on November 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12583) over 2 weeks, 8 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Amanda Fitch](https://github.com/antfitch)</sub><br />
+
+* **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; Update Cursor rules file and documentation link<br />
+  <sub>[#12653](https://github.com/flutter/website/pull/12653) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12653) over 6 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the banner<br />
   <sub>[#12671](https://github.com/flutter/website/pull/12671) merged on November 11, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12671) over 1 hour, 4 additions and 4 deletions in 1 file</sub><br />
