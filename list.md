@@ -4,7 +4,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-48 commits.
+49 commits.
 
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) merged on November 11, 2025 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/176393) over 1 month, 515 additions and 45 deletions in 16 files</sub>
@@ -130,6 +130,10 @@
   <sub>[#178182](https://github.com/flutter/flutter/pull/178182) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178182) over 2 days, 5 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Preserve whitelisted files when removed from build system outputs
+  <sub>[#178396](https://github.com/flutter/flutter/pull/178396) merged on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178396) over 3 hours, 91 additions and 13 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[b-luk](https://github.com/b-luk)** &mdash; Update "Frame Capture with RenderDoc" docs with instructions for Android
   <sub>[#178138](https://github.com/flutter/flutter/pull/178138) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178138) over 3 days, 26 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -146,6 +150,10 @@
   <sub>[#178261](https://github.com/flutter/flutter/pull/178261) merged on November 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/178261) over 20 hours, 245 additions and 118 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SelectableText doesn't crash in 0x0 environment
+  <sub>[#177875](https://github.com/flutter/flutter/pull/177875) merged on November 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177875) over 1 week, 16 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a RefreshIndicator doesn't crash in 0x0 environment
   <sub>[#177644](https://github.com/flutter/flutter/pull/177644) merged on November 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177644) over 1 week, 24 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -158,10 +166,6 @@
   <sub>[#178233](https://github.com/flutter/flutter/pull/178233) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178233) over 14 hours, 17 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBarView doesn't crash in 0x0 environment
-  <sub>[#178202](https://github.com/flutter/flutter/pull/178202) merged on November 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178202) over 4 days, 18 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tab doesn't crash in 0x0 environment
   <sub>[#178118](https://github.com/flutter/flutter/pull/178118) merged on November 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178118) over 4 days, 13 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -170,25 +174,25 @@
   <sub>[#178212](https://github.com/flutter/flutter/pull/178212) merged on November 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178212) over 1 day, 19 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextField doesn't crash in 0x0 environment
-  <sub>[#178232](https://github.com/flutter/flutter/pull/178232) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178232) over 14 hours, 17 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Check for devicectl launch logs from std and file
   <sub>[#178167](https://github.com/flutter/flutter/pull/178167) merged on November 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178167) over 3 days, 94 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextButton doesn't crash in 0x0 environment
-  <sub>[#178213](https://github.com/flutter/flutter/pull/178213) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178213) over 1 day, 13 additions and 0 deletions in 1 file</sub>
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextField doesn't crash in 0x0 environment
+  <sub>[#178232](https://github.com/flutter/flutter/pull/178232) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178232) over 14 hours, 17 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SpellCheckSuggestionsToolbar doesn't crash in 0x0 en…
   <sub>[#177965](https://github.com/flutter/flutter/pull/177965) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177965) over 6 days, 18 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SelectableText doesn't crash in 0x0 environment
-  <sub>[#177875](https://github.com/flutter/flutter/pull/177875) merged on November 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177875) over 1 week, 16 additions and 0 deletions in 1 file</sub>
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextButton doesn't crash in 0x0 environment
+  <sub>[#178213](https://github.com/flutter/flutter/pull/178213) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178213) over 1 day, 13 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBarView doesn't crash in 0x0 environment
+  <sub>[#178202](https://github.com/flutter/flutter/pull/178202) merged on November 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178202) over 4 days, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Pin package:dwds to 26.1.0
   <sub>[#178327](https://github.com/flutter/flutter/pull/178327) merged on November 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178327) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
