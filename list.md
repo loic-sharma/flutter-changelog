@@ -997,7 +997,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-10 commits.
+11 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub>
@@ -1018,6 +1018,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Web dev config: clean up and add to sidenav
   <sub>[#12583](https://github.com/flutter/website/pull/12583) merged on November 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12583) over 2 weeks, 8 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.38] Update SDK constraints and documented version
+  <sub>[#12669](https://github.com/flutter/website/pull/12669) merged on November 12, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12669) over 22 hours, 170 additions and 161 deletions in 159 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a more flexible banner format
   <sub>[#12676](https://github.com/flutter/website/pull/12676) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12676) over 23 minutes, 17 additions and 50 deletions in 4 files</sub>

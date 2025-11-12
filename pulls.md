@@ -56,9 +56,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
-* **[Masrafi Anam](https://github.com/Masrafi)** &mdash; Add assertion to Navigator.pop when stack is empty to improve developer experience<br />
-  <sub>[#177491](https://github.com/flutter/flutter/pull/177491) opened on on October 24, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/177491) 3582 additions and 425 deletions in 112 files</sub><br />
-
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Allow apps to prefer high power GPUs<br />
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
@@ -92,9 +89,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [DO NOT SUBMIT] Debugging skwasm flaky tests<br />
   <sub>[#178062](https://github.com/flutter/flutter/pull/178062) opened on on November 5, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/178062) 94 additions and 6924 deletions in 6 files</sub><br />
 
-* **[Job Guldemeester](https://github.com/Guldem)** &mdash; Adds property passthrough for CheckboxListTile, SwitchListTile and RadioListTile<br />
-  <sub>[#178098](https://github.com/flutter/flutter/pull/178098) opened on on November 6, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/178098) 1102 additions and 0 deletions in 7 files</sub><br />
-
 * **[Pierre](https://github.com/guidezpl)** &mdash; Add missing flutter_lints dev dependencies<br />
   <sub>[#178105](https://github.com/flutter/flutter/pull/178105) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178105) 45 additions and 43 deletions in 6 files</sub><br />
 
@@ -116,20 +110,11 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove the hack used to get the `runtimeType` without using an additional class in `key.dart`<br />
   <sub>[#178219](https://github.com/flutter/flutter/pull/178219) opened on on November 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178219) 2 additions and 6 deletions in 1 file</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Deprecate onReorder callback<br />
-  <sub>[#178242](https://github.com/flutter/flutter/pull/178242) opened on on November 10, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/178242) 702 additions and 180 deletions in 11 files</sub><br />
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [CP-Stable] Cherry-pick ninja+cmake deps<br />
   <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178243) 91 additions and 18 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
   <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
-
-* **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; Fix trainhoppinganimation status<br />
-  <sub>[#178350](https://github.com/flutter/flutter/pull/178350) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178350) 56 additions and 6 deletions in 4 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix InkDecoration painting in Visibility replacement.<br />
-  <sub>[#178368](https://github.com/flutter/flutter/pull/178368) opened on on November 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178368) 80 additions and 5 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix train hopping animation status listeners<br />
   <sub>[#178372](https://github.com/flutter/flutter/pull/178372) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178372) 29 additions and 1 deletion in 2 files</sub><br />
@@ -150,8 +135,8 @@
   <sub>[#178394](https://github.com/flutter/flutter/pull/178394) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178394) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Preserve whitelisted files when removed from build system outputs<br />
-  <sub>[#178396](https://github.com/flutter/flutter/pull/178396) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178396) 92 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#178396](https://github.com/flutter/flutter/pull/178396) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178396) 91 additions and 13 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore modifications to files in ephemeral directories<br />
-  <sub>[#178398](https://github.com/flutter/flutter/pull/178398) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178398) 146 additions and 9 deletions in 7 files</sub><br />
+  <sub>[#178398](https://github.com/flutter/flutter/pull/178398) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178398) 145 additions and 9 deletions in 7 files</sub><br />
 
