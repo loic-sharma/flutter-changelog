@@ -54,7 +54,7 @@
   <sub>[#177397](https://github.com/flutter/flutter/pull/177397) opened on on October 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177397) 14 additions and 13 deletions in 1 file</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
-  <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
+  <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Allow apps to prefer high power GPUs<br />
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
@@ -94,6 +94,9 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
   <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178116) 1312 additions and 147 deletions in 30 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
+  <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relax assertion for adding semantics locale<br />
   <sub>[#178140](https://github.com/flutter/flutter/pull/178140) opened on on November 6, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/178140) 913 additions and 700 deletions in 11 files</sub><br />
