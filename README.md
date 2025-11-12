@@ -790,7 +790,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-10 commits.
+11 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event<br />
   <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub><br />
@@ -819,6 +819,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android package CODEOWNERS<br />
   <sub>[#10386](https://github.com/flutter/packages/pull/10386) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10386) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [pigeon] Deprecate dartHostTestHandler<br />
+  <sub>[#10403](https://github.com/flutter/packages/pull/10403) merged on November 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10403) over 8 hours, 16 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Remove unused dartHostTestHandler<br />
   <sub>[#10324](https://github.com/flutter/packages/pull/10324) merged on November 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10324) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
