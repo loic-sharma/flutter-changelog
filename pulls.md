@@ -57,7 +57,7 @@
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Document that `error` parameter must be initialized<br />
-  <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [64 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
+  <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [65 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Mark deprecated ios application lifecycle methods as such<br />
   <sub>[#177807](https://github.com/flutter/flutter/pull/177807) opened on on October 30, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/177807) 88 additions and 14 deletions in 2 files</sub><br />
