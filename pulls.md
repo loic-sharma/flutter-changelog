@@ -122,9 +122,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix train hopping animation status listeners<br />
   <sub>[#178372](https://github.com/flutter/flutter/pull/178372) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178372) 29 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LateInitializationError in didChangeTextScaleFactor code example.<br />
-  <sub>[#178375](https://github.com/flutter/flutter/pull/178375) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178375) 10 additions and 5 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178393](https://github.com/flutter/flutter/pull/178393) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178393) 27 additions and 2 deletions in 2 files</sub><br />
 
@@ -132,5 +129,5 @@
   <sub>[#178394](https://github.com/flutter/flutter/pull/178394) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178394) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore modifications to files in ephemeral directories<br />
-  <sub>[#178398](https://github.com/flutter/flutter/pull/178398) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178398) 145 additions and 9 deletions in 7 files</sub><br />
+  <sub>[#178398](https://github.com/flutter/flutter/pull/178398) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178398) 145 additions and 9 deletions in 7 files</sub><br />
 
