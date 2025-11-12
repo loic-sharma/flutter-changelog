@@ -610,7 +610,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Visual Studio 2026
-  <sub>[#177458](https://github.com/flutter/flutter/pull/177458) merged on November 1, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177458) over 1 week, 34 additions and 0 deletions in 2 files</sub>
+  <sub>[#177458](https://github.com/flutter/flutter/pull/177458) merged on November 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177458) over 1 week, 34 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add guided error for precompiled cache error
@@ -798,11 +798,15 @@
 
 ### November 8, 2025 to November 14, 2025
 
-13 commits.
+14 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event
   <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub>
   <sub>Reviewed by: [misos1](https://github.com/misos1), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update repo for 3.38
+  <sub>[#10405](https://github.com/flutter/packages/pull/10405) merged on November 12, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10405) over 2 hours, 9279 additions and 9819 deletions in 605 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker), [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole), and [2 others](https://github.com/flutter/packages/pull/10405)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumping CI to Test Against JDK 21
   <sub>[#10193](https://github.com/flutter/packages/pull/10193) merged on November 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10193) over 1 month, 42 additions and 33 deletions in 21 files</sub>
