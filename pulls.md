@@ -128,3 +128,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore modifications to files in ephemeral directories<br />
   <sub>[#178398](https://github.com/flutter/flutter/pull/178398) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178398) 145 additions and 9 deletions in 7 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
+  <sub>[#178411](https://github.com/flutter/flutter/pull/178411) opened on on November 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178411) 96 additions and 45 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
+  <sub>[#178412](https://github.com/flutter/flutter/pull/178412) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178412) 96 additions and 45 deletions in 2 files</sub><br />
+
