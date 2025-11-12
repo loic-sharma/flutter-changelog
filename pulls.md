@@ -60,7 +60,7 @@
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Document that `error` parameter must be initialized<br />
-  <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
+  <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [64 comments](https://github.com/flutter/flutter/pull/177730) 55 additions and 54 deletions in 23 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Mark deprecated ios application lifecycle methods as such<br />
   <sub>[#177807](https://github.com/flutter/flutter/pull/177807) opened on on October 30, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/177807) 88 additions and 14 deletions in 2 files</sub><br />
@@ -119,14 +119,8 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix train hopping animation status listeners<br />
   <sub>[#178372](https://github.com/flutter/flutter/pull/178372) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178372) 29 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextSelectionToolbarTextButton doesn't crash in 0x0 …<br />
-  <sub>[#178374](https://github.com/flutter/flutter/pull/178374) opened on on November 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178374) 15 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LateInitializationError in didChangeTextScaleFactor code example.<br />
   <sub>[#178375](https://github.com/flutter/flutter/pull/178375) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178375) 10 additions and 5 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Theme doesn't crash in 0x0 environment<br />
-  <sub>[#178376](https://github.com/flutter/flutter/pull/178376) opened on on November 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178376) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178393](https://github.com/flutter/flutter/pull/178393) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178393) 27 additions and 2 deletions in 2 files</sub><br />
