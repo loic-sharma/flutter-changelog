@@ -4,15 +4,19 @@
 
 ### November 8, 2025 to November 14, 2025
 
-38 commits.
+40 commits.
 
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml<br />
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) merged on November 11, 2025 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/176393) over 1 month, 515 additions and 45 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [copilot-pull-request-reviewer](https://github.com/apps/copilot-pull-request-reviewer), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add a11y for loading indicators<br />
-  <sub>[#165173](https://github.com/flutter/flutter/pull/165173) merged on November 11, 2025 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/165173) over 8 months, 501 additions and 35 deletions in 27 files</sub><br />
+  <sub>[#165173](https://github.com/flutter/flutter/pull/165173) merged on November 11, 2025 &mdash; **Large:** [54 comments](https://github.com/flutter/flutter/pull/165173) over 8 months, 501 additions and 35 deletions in 27 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [zhongliugo](https://github.com/flutter-zl)</sub><br />
+
+* **[Thomas Guerin](https://github.com/tguerin)** &mdash; [Animation] Add granular frame forcing to animations<br />
+  <sub>[#173862](https://github.com/flutter/flutter/pull/173862) merged on November 11, 2025 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/173862) over 2 months, 559 additions and 23 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Listen to text spacing overrides on the web<br />
   <sub>[#178081](https://github.com/flutter/flutter/pull/178081) merged on November 11, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/178081) over 5 days, 1287 additions and 42 deletions in 16 files</sub><br />
@@ -30,6 +34,11 @@
   <sub>[#176825](https://github.com/flutter/flutter/pull/176825) merged on November 10, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176825) over 1 month, 188 additions and 41 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `hero.1.dart` example<br />
+  <sub>[#177810](https://github.com/flutter/flutter/pull/177810) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177810) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `reorderable_list_view.reorderable_list_view_builder.0.dart‎` example<br />
   <sub>[#178214](https://github.com/flutter/flutter/pull/178214) merged on November 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178214) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -45,11 +54,6 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `hero.1.dart` example<br />
-  <sub>[#177810](https://github.com/flutter/flutter/pull/177810) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177810) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-  <sub><details><summary>1 image...</summary><img width="859" height="148" alt="Screenshot 2025-10-27 at 20 09 35" src="https://github.com/user-attachments/assets/daf13a7b-a157-410a-9feb-dc466128c5a1" /></details></sub>
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; support passing the arm cpu variant to the build system<br />
   <sub>[#176917](https://github.com/flutter/flutter/pull/176917) merged on November 10, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176917) over 4 weeks, 13 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -57,6 +61,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Clean before building when framework headers change<br />
   <sub>[#177671](https://github.com/flutter/flutter/pull/177671) merged on November 11, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/177671) over 2 weeks, 499 additions and 11 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; Add my name to AUTHORS.<br />
+  <sub>[#175024](https://github.com/flutter/flutter/pull/175024) merged on November 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175024) over 2 months, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix VoiceOver does not announce state of ButtonSegment<br />
   <sub>[#175635](https://github.com/flutter/flutter/pull/175635) merged on November 10, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175635) over 1 month, 65 additions and 10 deletions in 2 files</sub><br />
@@ -66,9 +74,9 @@
   <sub>[#178077](https://github.com/flutter/flutter/pull/178077) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178077) over 5 days, 3 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Add my name to AUTHORS.<br />
-  <sub>[#175024](https://github.com/flutter/flutter/pull/175024) merged on November 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175024) over 2 months, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Kouki Badr](https://github.com/koukibadr)** &mdash; fix #178045: update expansible documentation for default  maintainSta…<br />
+  <sub>[#178203](https://github.com/flutter/flutter/pull/178203) merged on November 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178203) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178175](https://github.com/flutter/flutter/pull/178175) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178175) over 3 days, 27 additions and 2 deletions in 2 files</sub><br />
@@ -104,14 +112,6 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DefaultTabController doesn't crash in 0x0 environment<br />
   <sub>[#178117](https://github.com/flutter/flutter/pull/178117) merged on November 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178117) over 5 days, 25 additions and 16 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SpellCheckSuggestionsToolbar doesn't crash in 0x0 en…<br />
-  <sub>[#177965](https://github.com/flutter/flutter/pull/177965) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177965) over 6 days, 18 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelectorIndicator doesn't crash in 0x0 enviro…<br />
-  <sub>[#178212](https://github.com/flutter/flutter/pull/178212) merged on November 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178212) over 1 day, 19 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextField doesn't crash in 0x0 environment<br />
@@ -152,6 +152,14 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tab doesn't crash in 0x0 environment<br />
   <sub>[#178118](https://github.com/flutter/flutter/pull/178118) merged on November 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178118) over 4 days, 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SpellCheckSuggestionsToolbar doesn't crash in 0x0 en…<br />
+  <sub>[#177965](https://github.com/flutter/flutter/pull/177965) merged on November 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/177965) over 6 days, 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelectorIndicator doesn't crash in 0x0 enviro…<br />
+  <sub>[#178212](https://github.com/flutter/flutter/pull/178212) merged on November 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178212) over 1 day, 19 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SwitchListTile doesn't crash in 0x0 environment<br />
