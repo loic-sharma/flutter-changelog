@@ -137,3 +137,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore modifications to files in ephemeral directories<br />
   <sub>[#178398](https://github.com/flutter/flutter/pull/178398) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178398) 145 additions and 9 deletions in 7 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update DEPS with stable dart version<br />
+  <sub>[#178401](https://github.com/flutter/flutter/pull/178401) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178401) 1 addition and 1 deletion in 1 file</sub><br />
+
