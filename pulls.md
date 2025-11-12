@@ -152,3 +152,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Preserve whitelisted files when removed from build system outputs<br />
   <sub>[#178396](https://github.com/flutter/flutter/pull/178396) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178396) 92 additions and 12 deletions in 4 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore modifications to files in ephemeral directories<br />
+  <sub>[#178398](https://github.com/flutter/flutter/pull/178398) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178398) 146 additions and 9 deletions in 7 files</sub><br />
+

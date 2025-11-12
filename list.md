@@ -4,7 +4,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-42 commits.
+43 commits.
 
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) merged on November 11, 2025 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/176393) over 1 month, 515 additions and 45 deletions in 16 files</sub>
@@ -66,17 +66,17 @@
   <sub>[#177671](https://github.com/flutter/flutter/pull/177671) merged on November 11, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/177671) over 2 weeks, 499 additions and 11 deletions in 5 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[yim](https://github.com/yiiim)** &mdash; Add my name to AUTHORS.
-  <sub>[#175024](https://github.com/flutter/flutter/pull/175024) merged on November 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175024) over 2 months, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: infra out of resources
+  <sub>[#178387](https://github.com/flutter/flutter/pull/178387) merged on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178387) over 7 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix no op host debug builds doing work
   <sub>[#178077](https://github.com/flutter/flutter/pull/178077) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178077) over 5 days, 3 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: infra out of resources
-  <sub>[#178387](https://github.com/flutter/flutter/pull/178387) merged on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178387) over 7 minutes, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso), [Victoria Ashworth](https://github.com/vashworth)</sub>
+* **[yim](https://github.com/yiiim)** &mdash; Add my name to AUTHORS.
+  <sub>[#175024](https://github.com/flutter/flutter/pull/175024) merged on November 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175024) over 2 months, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix VoiceOver does not announce state of ButtonSegment
   <sub>[#175635](https://github.com/flutter/flutter/pull/175635) merged on November 10, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175635) over 1 month, 65 additions and 10 deletions in 2 files</sub>
@@ -85,6 +85,10 @@
 * **[Kouki Badr](https://github.com/koukibadr)** &mdash; fix #178045: update expansible documentation for default  maintainSta…
   <sub>[#178203](https://github.com/flutter/flutter/pull/178203) merged on November 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178203) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Only process a single unhandled tool exception
+  <sub>[#178335](https://github.com/flutter/flutter/pull/178335) merged on November 12, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178335) over 19 hours, 124 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Don't require 'flutter pub get' to be run in the root project
   <sub>[#178175](https://github.com/flutter/flutter/pull/178175) merged on November 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178175) over 3 days, 27 additions and 2 deletions in 2 files</sub>
@@ -120,10 +124,6 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SwitchListTile doesn't crash in 0x0 environment
   <sub>[#178069](https://github.com/flutter/flutter/pull/178069) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178069) over 5 days, 13 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextField doesn't crash in 0x0 environment
-  <sub>[#178232](https://github.com/flutter/flutter/pull/178232) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178232) over 14 hours, 17 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextButton doesn't crash in 0x0 environment
@@ -172,6 +172,10 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelectorIndicator doesn't crash in 0x0 enviro…
   <sub>[#178212](https://github.com/flutter/flutter/pull/178212) merged on November 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178212) over 1 day, 19 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextField doesn't crash in 0x0 environment
+  <sub>[#178232](https://github.com/flutter/flutter/pull/178232) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178232) over 14 hours, 17 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland "Refactor OverlayPortal semantics (#173005)"
@@ -989,7 +993,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-9 commits.
+10 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub>
@@ -1010,6 +1014,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Web dev config: clean up and add to sidenav
   <sub>[#12583](https://github.com/flutter/website/pull/12583) merged on November 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12583) over 2 weeks, 8 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a more flexible banner format
+  <sub>[#12676](https://github.com/flutter/website/pull/12676) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12676) over 23 minutes, 17 additions and 50 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; Update Cursor rules file and documentation link
   <sub>[#12653](https://github.com/flutter/website/pull/12653) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12653) over 6 days, 2 additions and 2 deletions in 1 file</sub>
