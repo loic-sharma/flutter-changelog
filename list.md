@@ -1017,7 +1017,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-11 commits.
+12 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub>
@@ -1030,6 +1030,10 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.38 release notes
   <sub>[#12621](https://github.com/flutter/website/pull/12621) merged on November 12, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12621) over 1 week, 856 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update what's new on the site since the 3.35 release
+  <sub>[#12656](https://github.com/flutter/website/pull/12656) merged on November 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12656) over 5 days, 151 additions and 67 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Theme flicker on page change
   <sub>[#12673](https://github.com/flutter/website/pull/12673) merged on November 12, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12673) over 4 hours, 18 additions and 18 deletions in 2 files</sub>
