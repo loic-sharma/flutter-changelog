@@ -120,7 +120,7 @@
   <sub>[#178219](https://github.com/flutter/flutter/pull/178219) opened on on November 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178219) 2 additions and 6 deletions in 1 file</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Enable semantics via query parameter for automation testing<br />
-  <sub>[#178224](https://github.com/flutter/flutter/pull/178224) opened on on November 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178224) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178224](https://github.com/flutter/flutter/pull/178224) opened on on November 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178224) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Deprecate onReorder callback<br />
   <sub>[#178242](https://github.com/flutter/flutter/pull/178242) opened on on November 10, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/178242) 702 additions and 180 deletions in 11 files</sub><br />
