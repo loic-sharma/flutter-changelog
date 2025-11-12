@@ -794,7 +794,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-12 commits.
+13 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event
   <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub>
@@ -823,6 +823,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android package CODEOWNERS
   <sub>[#10386](https://github.com/flutter/packages/pull/10386) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10386) over 3 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[이조다 • Joash](https://github.com/zhoda-lii)** &mdash; [google_sign_in_android] Fix typos in README.md
+  <sub>[#10402](https://github.com/flutter/packages/pull/10402) merged on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10402) over 16 hours, 7 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [image_picker] Fixes README description of plugin suggesting that only Android and iOS is supported.
   <sub>[#10385](https://github.com/flutter/packages/pull/10385) merged on November 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/10385) over 4 days, 4 additions and 4 deletions in 3 files</sub>
