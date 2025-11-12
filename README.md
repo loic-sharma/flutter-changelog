@@ -1017,7 +1017,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-12 commits.
+13 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE<br />
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub><br />
@@ -1030,6 +1030,10 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.38 release notes<br />
   <sub>[#12621](https://github.com/flutter/website/pull/12621) merged on November 12, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12621) over 1 week, 856 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back transition breaking change announcement<br />
+  <sub>[#12268](https://github.com/flutter/website/pull/12268) merged on November 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12268) over 3 months, 217 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update what's new on the site since the 3.35 release<br />
   <sub>[#12656](https://github.com/flutter/website/pull/12656) merged on November 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12656) over 5 days, 151 additions and 67 deletions in 3 files</sub><br />
