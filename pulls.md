@@ -128,3 +128,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
   <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
 
+* **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; Fix trainhoppinganimation status<br />
+  <sub>[#178350](https://github.com/flutter/flutter/pull/178350) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178350) 56 additions and 6 deletions in 4 files</sub><br />
+
