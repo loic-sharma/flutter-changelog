@@ -131,3 +131,6 @@
 * **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; Fix trainhoppinganimation status<br />
   <sub>[#178350](https://github.com/flutter/flutter/pull/178350) opened on on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178350) 56 additions and 6 deletions in 4 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix InkDecoration painting in Visibility replacement.<br />
+  <sub>[#178368](https://github.com/flutter/flutter/pull/178368) opened on on November 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178368) 80 additions and 5 deletions in 3 files</sub><br />
+
