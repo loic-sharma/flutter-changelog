@@ -137,3 +137,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178471](https://github.com/flutter/flutter/pull/178471) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178471) 27 additions and 2 deletions in 2 files</sub><br />
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Reland] Gradle Lockfile workaround<br />
+  <sub>[#178485](https://github.com/flutter/flutter/pull/178485) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178485) 115 additions and 35 deletions in 26 files</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Add 3.38 stable release section to `CHANGELOG`<br />
+  <sub>[#178487](https://github.com/flutter/flutter/pull/178487) opened on on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178487) 6 additions and 0 deletions in 1 file</sub><br />
+
