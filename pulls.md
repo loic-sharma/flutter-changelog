@@ -110,9 +110,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
   <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore modifications to files in ephemeral directories<br />
-  <sub>[#178398](https://github.com/flutter/flutter/pull/178398) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178398) 145 additions and 9 deletions in 7 files</sub><br />
-
 * **[Hark Singh [SSW]](https://github.com/0xharkirat)** &mdash; ✨ Add `flutter generate` command for scaffolding widgets and screens<br />
   <sub>[#178444](https://github.com/flutter/flutter/pull/178444) opened on on November 13, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/178444) 570 additions and 9 deletions in 2 files</sub><br />
 
