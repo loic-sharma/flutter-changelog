@@ -131,3 +131,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
   <sub>[#178412](https://github.com/flutter/flutter/pull/178412) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178412) 96 additions and 45 deletions in 2 files</sub><br />
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Update gradle lockfiles for new exifinterface dep<br />
+  <sub>[#178417](https://github.com/flutter/flutter/pull/178417) opened on on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178417) 154 additions and 77 deletions in 42 files</sub><br />
+
