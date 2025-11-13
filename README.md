@@ -614,7 +614,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Visual Studio 2026<br />
-  <sub>[#177458](https://github.com/flutter/flutter/pull/177458) merged on November 1, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/177458) over 1 week, 34 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#177458](https://github.com/flutter/flutter/pull/177458) merged on November 1, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/177458) over 1 week, 34 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete unused canvaskit utils<br />
