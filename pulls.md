@@ -137,3 +137,6 @@
 * **[Hark Singh [SSW]](https://github.com/0xharkirat)** &mdash; ✨ Add `flutter generate` command for scaffolding widgets and screens<br />
   <sub>[#178444](https://github.com/flutter/flutter/pull/178444) opened on on November 13, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/178444) 570 additions and 9 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add support for Visual Studio 2026<br />
+  <sub>[#178450](https://github.com/flutter/flutter/pull/178450) opened on on November 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178450) 34 additions and 0 deletions in 2 files</sub><br />
+
