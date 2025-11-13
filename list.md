@@ -102,6 +102,10 @@
   <sub>[#178203](https://github.com/flutter/flutter/pull/178203) merged on November 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178203) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] clean up https cert configuration handling
+  <sub>[#178139](https://github.com/flutter/flutter/pull/178139) merged on November 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178139) over 6 days, 102 additions and 23 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [David Iglesias](https://github.com/ditman)</sub>
+
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Migrate `packages/flutter_tools/templates/plugin` templates to Kotlin DSL
   <sub>[#173993](https://github.com/flutter/flutter/pull/173993) merged on November 12, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/173993) over 2 months, 103 additions and 88 deletions in 8 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -117,10 +121,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Encode the original pointer count in messages that represent Android touch events
   <sub>[#178015](https://github.com/flutter/flutter/pull/178015) merged on November 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/178015) over 5 days, 84 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] clean up https cert configuration handling
-  <sub>[#178139](https://github.com/flutter/flutter/pull/178139) merged on November 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178139) over 6 days, 102 additions and 23 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: gesture blocked in android webview after zoom
   <sub>[#177572](https://github.com/flutter/flutter/pull/177572) merged on November 10, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/177572) over 2 weeks, 295 additions and 6 deletions in 2 files</sub>
@@ -1041,7 +1041,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-13 commits.
+15 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub>
@@ -1056,8 +1056,12 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back transition breaking change announcement
-  <sub>[#12268](https://github.com/flutter/website/pull/12268) merged on November 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12268) over 3 months, 217 additions and 0 deletions in 2 files</sub>
+  <sub>[#12268](https://github.com/flutter/website/pull/12268) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12268) over 3 months, 217 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Document how to determine if an app is a flutter app
+  <sub>[#12668](https://github.com/flutter/website/pull/12668) merged on November 13, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12668) over 1 day, 44 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update what's new on the site since the 3.35 release
   <sub>[#12656](https://github.com/flutter/website/pull/12656) merged on November 12, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12656) over 5 days, 151 additions and 67 deletions in 3 files</sub>
@@ -1078,6 +1082,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a more flexible banner format
   <sub>[#12676](https://github.com/flutter/website/pull/12676) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12676) over 23 minutes, 17 additions and 50 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Update abiFiltering documentation with new flag to disable
+  <sub>[#12670](https://github.com/flutter/website/pull/12670) merged on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12670) over 1 day, 12 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; Update Cursor rules file and documentation link
   <sub>[#12653](https://github.com/flutter/website/pull/12653) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12653) over 6 days, 2 additions and 2 deletions in 1 file</sub>

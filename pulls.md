@@ -36,7 +36,7 @@
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
-  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/176832) 11 additions and 20 deletions in 2 files</sub><br />
+  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/176832) 11 additions and 20 deletions in 2 files</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Add macOS architecture option to build command and update tests<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/176948) 142 additions and 3 deletions in 3 files</sub><br />
@@ -66,7 +66,7 @@
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: correct iOS signing log for manual code signing (CODE_SIGN_STYLE=Manual)<br />
-  <sub>[#177852](https://github.com/flutter/flutter/pull/177852) opened on on October 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/177852) 40 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#177852](https://github.com/flutter/flutter/pull/177852) opened on on October 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177852) 40 additions and 4 deletions in 2 files</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Add Cyrillic keyboard layout support for flutter_tools terminal commands<br />
   <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177855) 153 additions and 21 deletions in 2 files</sub><br />
@@ -84,7 +84,7 @@
   <sub>[#178062](https://github.com/flutter/flutter/pull/178062) opened on on November 5, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/178062) 94 additions and 6924 deletions in 6 files</sub><br />
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Add missing flutter_lints dev dependencies<br />
-  <sub>[#178105](https://github.com/flutter/flutter/pull/178105) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178105) 45 additions and 43 deletions in 6 files</sub><br />
+  <sub>[#178105](https://github.com/flutter/flutter/pull/178105) opened on on November 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178105) 4 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
   <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178116) 1312 additions and 147 deletions in 30 files</sub><br />
