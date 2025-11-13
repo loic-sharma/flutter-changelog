@@ -141,8 +141,11 @@
   <sub>[#178450](https://github.com/flutter/flutter/pull/178450) opened on on November 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178450) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TimePickerDialog doesn't crash in 0x0 environment<br />
-  <sub>[#178451](https://github.com/flutter/flutter/pull/178451) opened on on November 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178451) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178451](https://github.com/flutter/flutter/pull/178451) opened on on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178451) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
-  <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ToggleButtons doesn't crash in 0x0 environment<br />
+  <sub>[#178454](https://github.com/flutter/flutter/pull/178454) opened on on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178454) 16 additions and 0 deletions in 1 file</sub><br />
 
