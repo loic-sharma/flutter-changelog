@@ -834,7 +834,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-15 commits.
+16 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event
   <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub>
@@ -867,6 +867,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android package CODEOWNERS
   <sub>[#10386](https://github.com/flutter/packages/pull/10386) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10386) over 3 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Added Tooling For AGP Bulk Update
+  <sub>[#10394](https://github.com/flutter/packages/pull/10394) merged on November 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10394) over 2 days, 180 additions and 27 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[이조다 • Joash](https://github.com/zhoda-lii)** &mdash; [google_sign_in_android] Fix typos in README.md
   <sub>[#10402](https://github.com/flutter/packages/pull/10402) merged on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10402) over 16 hours, 7 additions and 3 deletions in 3 files</sub>
