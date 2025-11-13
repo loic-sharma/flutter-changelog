@@ -134,3 +134,6 @@
 * **[KANAKALA SAI KIRAN](https://github.com/saikirankanakala)** &mdash; Document forceSingleThreadedSkwasm configuration option for Flutter Web<br />
   <sub>[#178433](https://github.com/flutter/flutter/pull/178433) opened on on November 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178433) 22 additions and 0 deletions in 2 files</sub><br />
 
+* **[Hark Singh [SSW]](https://github.com/0xharkirat)** &mdash; Add `flutter generate` command for scaffolding widgets and screens<br />
+  <sub>[#178444](https://github.com/flutter/flutter/pull/178444) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178444) 272 additions and 9 deletions in 1 file</sub><br />
+
