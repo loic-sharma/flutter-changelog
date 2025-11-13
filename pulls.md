@@ -113,9 +113,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore modifications to files in ephemeral directories<br />
   <sub>[#178398](https://github.com/flutter/flutter/pull/178398) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178398) 145 additions and 9 deletions in 7 files</sub><br />
 
-* **[KANAKALA SAI KIRAN](https://github.com/saikirankanakala)** &mdash; Document forceSingleThreadedSkwasm configuration option for Flutter Web<br />
-  <sub>[#178433](https://github.com/flutter/flutter/pull/178433) opened on on November 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178433) 22 additions and 0 deletions in 2 files</sub><br />
-
 * **[Hark Singh [SSW]](https://github.com/0xharkirat)** &mdash; ✨ Add `flutter generate` command for scaffolding widgets and screens<br />
   <sub>[#178444](https://github.com/flutter/flutter/pull/178444) opened on on November 13, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/178444) 570 additions and 9 deletions in 2 files</sub><br />
 
@@ -129,7 +126,7 @@
   <sub>[#178454](https://github.com/flutter/flutter/pull/178454) opened on on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178454) 16 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tooltip doesn't crash in 0x0 environment<br />
-  <sub>[#178461](https://github.com/flutter/flutter/pull/178461) opened on on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178461) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178461](https://github.com/flutter/flutter/pull/178461) opened on on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178461) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu width when decorationBuilder provides label<br />
   <sub>[#178465](https://github.com/flutter/flutter/pull/178465) opened on on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178465) 43 additions and 2 deletions in 2 files</sub><br />
@@ -138,8 +135,5 @@
   <sub>[#178471](https://github.com/flutter/flutter/pull/178471) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178471) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Reland] Gradle Lockfile workaround<br />
-  <sub>[#178485](https://github.com/flutter/flutter/pull/178485) opened on on November 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178485) 115 additions and 35 deletions in 26 files</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Add 3.38 stable release section to `CHANGELOG`<br />
-  <sub>[#178487](https://github.com/flutter/flutter/pull/178487) opened on on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178487) 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178485](https://github.com/flutter/flutter/pull/178485) opened on on November 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178485) 127 additions and 44 deletions in 27 files</sub><br />
 
