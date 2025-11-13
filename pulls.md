@@ -111,7 +111,7 @@
   <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
 
 * **[Hark Singh [SSW]](https://github.com/0xharkirat)** &mdash; ✨ Add `flutter generate` command for scaffolding widgets and screens<br />
-  <sub>[#178444](https://github.com/flutter/flutter/pull/178444) opened on on November 13, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/178444) 570 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#178444](https://github.com/flutter/flutter/pull/178444) opened on on November 13, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/178444) 570 additions and 9 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TimePickerDialog doesn't crash in 0x0 environment<br />
   <sub>[#178451](https://github.com/flutter/flutter/pull/178451) opened on on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178451) 13 additions and 0 deletions in 1 file</sub><br />
@@ -130,7 +130,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178471](https://github.com/flutter/flutter/pull/178471) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178471) 27 additions and 2 deletions in 2 files</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Reland] Gradle Lockfile workaround<br />
-  <sub>[#178485](https://github.com/flutter/flutter/pull/178485) opened on on November 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178485) 127 additions and 44 deletions in 27 files</sub><br />
 
