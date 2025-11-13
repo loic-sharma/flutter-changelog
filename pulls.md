@@ -116,20 +116,11 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
   <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
-  <sub>[#178393](https://github.com/flutter/flutter/pull/178393) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178393) 27 additions and 2 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178394](https://github.com/flutter/flutter/pull/178394) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178394) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore modifications to files in ephemeral directories<br />
   <sub>[#178398](https://github.com/flutter/flutter/pull/178398) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178398) 145 additions and 9 deletions in 7 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
-  <sub>[#178411](https://github.com/flutter/flutter/pull/178411) opened on on November 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178411) 96 additions and 45 deletions in 2 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`<br />
-  <sub>[#178412](https://github.com/flutter/flutter/pull/178412) opened on on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178412) 96 additions and 45 deletions in 2 files</sub><br />
 
 * **[KANAKALA SAI KIRAN](https://github.com/saikirankanakala)** &mdash; Document forceSingleThreadedSkwasm configuration option for Flutter Web<br />
   <sub>[#178433](https://github.com/flutter/flutter/pull/178433) opened on on November 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178433) 22 additions and 0 deletions in 2 files</sub><br />
