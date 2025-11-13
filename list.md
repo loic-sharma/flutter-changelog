@@ -866,7 +866,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-16 commits.
+17 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event
   <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub>
@@ -927,6 +927,10 @@
 * **[Daniel Ferreira](https://github.com/danferreira)** &mdash; [file_selector] Add canCreateDirectories to FileDialogOptions
   <sub>[#10317](https://github.com/flutter/packages/pull/10317) merged on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10317) over 1 week, 102 additions and 8 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from a0e9b9dbf78c to b45fa18946ec (3 revisions)
+  <sub>[#10420](https://github.com/flutter/packages/pull/10420) merged on November 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10420) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from adc901062556 to a0e9b9dbf78c (1232 revisions)
   <sub>[#10409](https://github.com/flutter/packages/pull/10409) merged on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10409) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
