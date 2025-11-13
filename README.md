@@ -1077,7 +1077,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-15 commits.
+16 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE<br />
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub><br />
@@ -1118,6 +1118,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a more flexible banner format<br />
   <sub>[#12676](https://github.com/flutter/website/pull/12676) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12676) over 23 minutes, 17 additions and 50 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Remove old link that no longer works<br />
+  <sub>[#12683](https://github.com/flutter/website/pull/12683) merged on November 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12683) over 1 hour, 1 addition and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Update abiFiltering documentation with new flag to disable<br />
   <sub>[#12670](https://github.com/flutter/website/pull/12670) merged on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12670) over 1 day, 12 additions and 0 deletions in 2 files</sub><br />
