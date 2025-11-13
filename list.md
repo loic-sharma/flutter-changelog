@@ -1111,6 +1111,10 @@
   <sub>[#12673](https://github.com/flutter/website/pull/12673) merged on November 12, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12673) over 4 hours, 18 additions and 18 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the banner
+  <sub>[#12671](https://github.com/flutter/website/pull/12671) merged on November 11, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12671) over 1 hour, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Web dev config: clean up and add to sidenav
   <sub>[#12583](https://github.com/flutter/website/pull/12583) merged on November 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12583) over 2 weeks, 8 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Amanda Fitch](https://github.com/antfitch)</sub>
@@ -1134,10 +1138,6 @@
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; Update Cursor rules file and documentation link
   <sub>[#12653](https://github.com/flutter/website/pull/12653) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12653) over 6 days, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
-
-* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the banner
-  <sub>[#12671](https://github.com/flutter/website/pull/12671) merged on November 11, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12671) over 1 hour, 4 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[iakdis](https://github.com/iakdis)** &mdash; Fix broken link in `fragment-shaders.md`
   <sub>[#12667](https://github.com/flutter/website/pull/12667) merged on November 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12667) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
