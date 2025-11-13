@@ -143,7 +143,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Update gradle lockfiles for new exifinterface dep<br />
-  <sub>[#178417](https://github.com/flutter/flutter/pull/178417) merged on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178417) over 4 hours, 154 additions and 77 deletions in 42 files</sub><br />
+  <sub>[#178417](https://github.com/flutter/flutter/pull/178417) merged on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178417) over 4 hours, 154 additions and 77 deletions in 42 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a SwitchListTile doesn't crash in 0x0 environment<br />
