@@ -31,7 +31,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Gradle Lockfile workaround and Android Embedder dependency change for ExifInterface<br />
-  <sub>[#177508](https://github.com/flutter/flutter/pull/177508) merged on November 12, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/177508) over 2 weeks, 126 additions and 50 deletions in 32 files</sub><br />
+  <sub>[#177508](https://github.com/flutter/flutter/pull/177508) merged on November 12, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/177508) over 2 weeks, 126 additions and 50 deletions in 32 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: Migrate Expansible animation properties to AnimationStyle for a less broad API surface<br />
