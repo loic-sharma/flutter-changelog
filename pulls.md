@@ -60,7 +60,7 @@
   <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [67 comments](https://github.com/flutter/flutter/pull/177730) 57 additions and 54 deletions in 23 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement dialog windows for the Linux platform<br />
-  <sub>[#177817](https://github.com/flutter/flutter/pull/177817) opened on on October 30, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/177817) 217 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#177817](https://github.com/flutter/flutter/pull/177817) opened on on October 30, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/177817) 222 additions and 13 deletions in 2 files</sub><br />
 
 * **[RONGALI MOHAN KRISHNA 2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
@@ -105,7 +105,7 @@
   <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
 
 * **[Hark Singh [SSW]](https://github.com/0xharkirat)** &mdash; ✨ Add `flutter generate` command for scaffolding widgets and screens<br />
-  <sub>[#178444](https://github.com/flutter/flutter/pull/178444) opened on on November 13, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/178444) 570 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#178444](https://github.com/flutter/flutter/pull/178444) opened on on November 13, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/178444) 570 additions and 9 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TimePickerDialog doesn't crash in 0x0 environment<br />
   <sub>[#178451](https://github.com/flutter/flutter/pull/178451) opened on on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178451) 13 additions and 0 deletions in 1 file</sub><br />
