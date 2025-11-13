@@ -59,9 +59,6 @@
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Document that `error` parameter must be initialized<br />
   <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [67 comments](https://github.com/flutter/flutter/pull/177730) 57 additions and 54 deletions in 23 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Mark deprecated ios application lifecycle methods as such<br />
-  <sub>[#177807](https://github.com/flutter/flutter/pull/177807) opened on on October 30, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/177807) 88 additions and 14 deletions in 2 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement dialog windows for the Linux platform<br />
   <sub>[#177817](https://github.com/flutter/flutter/pull/177817) opened on on October 30, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/177817) 217 additions and 3 deletions in 1 file</sub><br />
 
