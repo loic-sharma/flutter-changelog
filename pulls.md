@@ -152,3 +152,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tooltip doesn't crash in 0x0 environment<br />
   <sub>[#178461](https://github.com/flutter/flutter/pull/178461) opened on on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178461) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu width when decorationBuilder provides label<br />
+  <sub>[#178465](https://github.com/flutter/flutter/pull/178465) opened on on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178465) 43 additions and 2 deletions in 2 files</sub><br />
+
