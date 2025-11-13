@@ -149,3 +149,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ToggleButtons doesn't crash in 0x0 environment<br />
   <sub>[#178454](https://github.com/flutter/flutter/pull/178454) opened on on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178454) 16 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tooltip doesn't crash in 0x0 environment<br />
+  <sub>[#178461](https://github.com/flutter/flutter/pull/178461) opened on on November 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178461) 11 additions and 0 deletions in 1 file</sub><br />
+
