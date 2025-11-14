@@ -1093,7 +1093,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-17 commits.
+19 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE<br />
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub><br />
@@ -1131,12 +1131,20 @@
   <sub>[#12583](https://github.com/flutter/website/pull/12583) merged on November 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12583) over 2 weeks, 8 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Amanda Fitch](https://github.com/antfitch)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Exclude secondary Markdown files from sitemap<br />
+  <sub>[#12685](https://github.com/flutter/website/pull/12685) merged on November 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12685) over 15 hours, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.38] Update SDK constraints and documented version<br />
   <sub>[#12669](https://github.com/flutter/website/pull/12669) merged on November 12, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12669) over 22 hours, 170 additions and 161 deletions in 159 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a more flexible banner format<br />
   <sub>[#12676](https://github.com/flutter/website/pull/12676) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12676) over 23 minutes, 17 additions and 50 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Andrew Brogdon](https://github.com/redbrogdon)** &mdash; Updates videos on docs landing page<br />
+  <sub>[#12684](https://github.com/flutter/website/pull/12684) merged on November 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12684) over 16 hours, 7 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update site banner to link to umbrella blog post for Flutter.<br />
