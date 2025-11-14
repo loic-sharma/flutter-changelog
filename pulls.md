@@ -129,5 +129,5 @@
   <sub>[#178550](https://github.com/flutter/flutter/pull/178550) opened on on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178550) 189 additions and 63 deletions in 4 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/text selection android anchor<br />
-  <sub>[#178551](https://github.com/flutter/flutter/pull/178551) opened on on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178551) 115 additions and 11 deletions in 13 files</sub><br />
+  <sub>[#178551](https://github.com/flutter/flutter/pull/178551) opened on on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178551) 114 additions and 11 deletions in 13 files</sub><br />
 
