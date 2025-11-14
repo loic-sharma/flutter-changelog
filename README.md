@@ -1089,7 +1089,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-16 commits.
+17 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE<br />
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub><br />
@@ -1134,6 +1134,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a more flexible banner format<br />
   <sub>[#12676](https://github.com/flutter/website/pull/12676) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12676) over 23 minutes, 17 additions and 50 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update site banner to link to umbrella blog post for Flutter.<br />
+  <sub>[#12687](https://github.com/flutter/website/pull/12687) merged on November 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12687) over 34 minutes, 2 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Emma Twersky](https://github.com/twerske), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Remove old link that no longer works<br />
   <sub>[#12683](https://github.com/flutter/website/pull/12683) merged on November 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12683) over 1 hour, 1 addition and 3 deletions in 1 file</sub><br />
