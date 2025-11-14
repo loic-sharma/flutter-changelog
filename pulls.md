@@ -128,3 +128,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Separate copying dsym into its own target (#178261)"<br />
   <sub>[#178545](https://github.com/flutter/flutter/pull/178545) opened on on November 14, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/178545) 118 additions and 245 deletions in 8 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Gracefully handle unexpected analysis context disposal<br />
+  <sub>[#178550](https://github.com/flutter/flutter/pull/178550) opened on on November 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178550) 189 additions and 63 deletions in 4 files</sub><br />
+
