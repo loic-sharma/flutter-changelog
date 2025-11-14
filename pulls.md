@@ -140,3 +140,6 @@
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: check both pointer count and action before reusing MotionEvent<br />
   <sub>[#178528](https://github.com/flutter/flutter/pull/178528) opened on on November 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178528) 108 additions and 6 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Throw `ToolExit` if Flutter Web is not enabled<br />
+  <sub>[#178532](https://github.com/flutter/flutter/pull/178532) opened on on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178532) 41 additions and 0 deletions in 2 files</sub><br />
+
