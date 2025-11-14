@@ -890,7 +890,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-19 commits.
+20 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event<br />
   <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub><br />
@@ -931,6 +931,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android package CODEOWNERS<br />
   <sub>[#10386](https://github.com/flutter/packages/pull/10386) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10386) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Adil Hanney](https://github.com/adil192)** &mdash; [animations] Clarify that onClosed is called before transition<br />
+  <sub>[#10400](https://github.com/flutter/packages/pull/10400) merged on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10400) over 3 days, 5 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Added Tooling For AGP Bulk Update<br />
   <sub>[#10394](https://github.com/flutter/packages/pull/10394) merged on November 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10394) over 2 days, 180 additions and 27 deletions in 2 files</sub><br />
