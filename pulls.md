@@ -131,3 +131,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Throw `ToolExit` if Flutter Web is not enabled<br />
   <sub>[#178500](https://github.com/flutter/flutter/pull/178500) opened on on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178500) 41 additions and 0 deletions in 2 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration<br />
+  <sub>[#178512](https://github.com/flutter/flutter/pull/178512) opened on on November 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178512) 9 additions and 11 deletions in 1 file</sub><br />
+
