@@ -138,5 +138,8 @@
   <sub>[#178516](https://github.com/flutter/flutter/pull/178516) opened on on November 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178516) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; Fix Windows Enter key after focus loss<br />
-  <sub>[#178523](https://github.com/flutter/flutter/pull/178523) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178523) 52 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#178523](https://github.com/flutter/flutter/pull/178523) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178523) 70 additions and 20 deletions in 4 files</sub><br />
+
+* **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale<br />
+  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) opened on on November 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178526) 55 additions and 0 deletions in 2 files</sub><br />
 
