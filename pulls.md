@@ -104,17 +104,11 @@
 * **[Hark Singh [SSW]](https://github.com/0xharkirat)** &mdash; ✨ Add `flutter generate` command for scaffolding widgets and screens<br />
   <sub>[#178444](https://github.com/flutter/flutter/pull/178444) opened on on November 13, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/178444) 570 additions and 9 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TimePickerDialog doesn't crash in 0x0 environment<br />
-  <sub>[#178451](https://github.com/flutter/flutter/pull/178451) opened on on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178451) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ToggleButtons doesn't crash in 0x0 environment<br />
-  <sub>[#178454](https://github.com/flutter/flutter/pull/178454) opened on on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178454) 16 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tooltip doesn't crash in 0x0 environment<br />
-  <sub>[#178461](https://github.com/flutter/flutter/pull/178461) opened on on November 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178461) 17 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178461](https://github.com/flutter/flutter/pull/178461) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178461) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu width when decorationBuilder provides label<br />
   <sub>[#178465](https://github.com/flutter/flutter/pull/178465) opened on on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178465) 43 additions and 2 deletions in 2 files</sub><br />
