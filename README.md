@@ -1129,7 +1129,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-20 commits.
+21 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE<br />
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub><br />
@@ -1177,6 +1177,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a more flexible banner format<br />
   <sub>[#12676](https://github.com/flutter/website/pull/12676) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12676) over 23 minutes, 17 additions and 50 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[autorejecttop](https://github.com/autorejecttop)** &mdash; Fix typo in state-management.md<br />
+  <sub>[#12677](https://github.com/flutter/website/pull/12677) merged on November 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12677) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Minho Jang](https://github.com/miinhho)** &mdash; Update deprecated `activeColor` to `activeThumbColor` in Learn Flutter example code<br />
