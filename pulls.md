@@ -128,3 +128,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Allow empty dart defines in `flutter assemble`<br />
   <sub>[#178542](https://github.com/flutter/flutter/pull/178542) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178542) 37 additions and 3 deletions in 3 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Separate copying dsym into its own target (#178261)"<br />
+  <sub>[#178545](https://github.com/flutter/flutter/pull/178545) opened on on November 14, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/178545) 118 additions and 245 deletions in 8 files</sub><br />
+
