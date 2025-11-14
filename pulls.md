@@ -125,9 +125,9 @@
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: check both pointer count and action before reusing MotionEvent<br />
   <sub>[#178528](https://github.com/flutter/flutter/pull/178528) opened on on November 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178528) 108 additions and 6 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Separate copying dsym into its own target (#178261)"<br />
-  <sub>[#178545](https://github.com/flutter/flutter/pull/178545) opened on on November 14, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/178545) 118 additions and 245 deletions in 8 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Gracefully handle unexpected analysis context disposal<br />
-  <sub>[#178550](https://github.com/flutter/flutter/pull/178550) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178550) 189 additions and 63 deletions in 4 files</sub><br />
+  <sub>[#178550](https://github.com/flutter/flutter/pull/178550) opened on on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178550) 189 additions and 63 deletions in 4 files</sub><br />
+
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/text selection android anchor<br />
+  <sub>[#178551](https://github.com/flutter/flutter/pull/178551) opened on on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178551) 115 additions and 11 deletions in 13 files</sub><br />
 
