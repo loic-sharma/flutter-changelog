@@ -123,7 +123,7 @@
   <sub>[#178471](https://github.com/flutter/flutter/pull/178471) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178471) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Potentially fixing the flakiness in win32 windowing tests, but it needs some running<br />
-  <sub>[#178499](https://github.com/flutter/flutter/pull/178499) opened on on November 13, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/178499) 251 additions and 156 deletions in 2 files</sub><br />
+  <sub>[#178499](https://github.com/flutter/flutter/pull/178499) opened on on November 13, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/178499) 257 additions and 158 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Throw `ToolExit` if Flutter Web is not enabled<br />
   <sub>[#178500](https://github.com/flutter/flutter/pull/178500) opened on on November 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178500) 41 additions and 0 deletions in 2 files</sub><br />
