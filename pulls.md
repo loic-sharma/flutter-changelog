@@ -74,9 +74,6 @@
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) opened on on November 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178057) 3 additions and 3 deletions in 3 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [DO NOT SUBMIT] Debugging skwasm flaky tests<br />
-  <sub>[#178062](https://github.com/flutter/flutter/pull/178062) opened on on November 5, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/178062) 94 additions and 6924 deletions in 6 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
   <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178116) 1312 additions and 147 deletions in 30 files</sub><br />
 
@@ -119,9 +116,6 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Potentially fixing the flakiness in win32 windowing tests, but it needs some running<br />
   <sub>[#178499](https://github.com/flutter/flutter/pull/178499) opened on on November 13, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/178499) 242 additions and 156 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration<br />
-  <sub>[#178512](https://github.com/flutter/flutter/pull/178512) opened on on November 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178512) 9 additions and 11 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a UserAccountsDrawerHeader doesn't crash in 0x0 enviro…<br />
   <sub>[#178516](https://github.com/flutter/flutter/pull/178516) opened on on November 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178516) 15 additions and 0 deletions in 1 file</sub><br />
 
@@ -133,4 +127,7 @@
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: check both pointer count and action before reusing MotionEvent<br />
   <sub>[#178528](https://github.com/flutter/flutter/pull/178528) opened on on November 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178528) 108 additions and 6 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Allow empty dart defines in `flutter assemble`<br />
+  <sub>[#178542](https://github.com/flutter/flutter/pull/178542) opened on on November 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178542) 37 additions and 3 deletions in 3 files</sub><br />
 
