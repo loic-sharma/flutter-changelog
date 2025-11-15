@@ -1156,6 +1156,10 @@
   <sub>[#12268](https://github.com/flutter/website/pull/12268) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12268) over 3 months, 217 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
+* **[Andrew Brogdon](https://github.com/redbrogdon)** &mdash; Updates videos on docs landing page
+  <sub>[#12684](https://github.com/flutter/website/pull/12684) merged on November 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12684) over 16 hours, 7 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Document how to determine if an app is a flutter app
   <sub>[#12668](https://github.com/flutter/website/pull/12668) merged on November 13, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12668) over 1 day, 44 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
@@ -1194,10 +1198,6 @@
 
 * **[Minho Jang](https://github.com/miinhho)** &mdash; Update deprecated `activeColor` to `activeThumbColor` in Learn Flutter example code
   <sub>[#12691](https://github.com/flutter/website/pull/12691) merged on November 14, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12691) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
-* **[Andrew Brogdon](https://github.com/redbrogdon)** &mdash; Updates videos on docs landing page
-  <sub>[#12684](https://github.com/flutter/website/pull/12684) merged on November 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12684) over 16 hours, 7 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update site banner to link to umbrella blog post for Flutter.
