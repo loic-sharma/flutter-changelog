@@ -915,7 +915,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-21 commits.
+22 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event
   <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub>
@@ -956,6 +956,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Android package CODEOWNERS
   <sub>[#10386](https://github.com/flutter/packages/pull/10386) merged on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10386) over 3 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update Flutter version for `release`
+  <sub>[#10425](https://github.com/flutter/packages/pull/10425) merged on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10425) over 1 day, 2 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Remove mustache_template from allowed external deps
   <sub>[#10427](https://github.com/flutter/packages/pull/10427) merged on November 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10427) over 5 hours, 0 additions and 4 deletions in 1 file</sub>
