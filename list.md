@@ -1129,7 +1129,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-21 commits.
+22 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub>
@@ -1138,6 +1138,10 @@
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add FileTree component to docs
   <sub>[#12623](https://github.com/flutter/website/pull/12623) merged on November 11, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/website/pull/12623) over 1 week, 186 additions and 151 deletions in 13 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added example for toImageSync + setImageSampler
+  <sub>[#12686](https://github.com/flutter/website/pull/12686) merged on November 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12686) over 1 day, 42 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.38 release notes
   <sub>[#12621](https://github.com/flutter/website/pull/12621) merged on November 12, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12621) over 1 week, 856 additions and 3 deletions in 2 files</sub>
