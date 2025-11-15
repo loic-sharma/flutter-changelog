@@ -134,3 +134,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoLinearActivityIndicator doesn't crash in 0x…<br />
   <sub>[#178566](https://github.com/flutter/flutter/pull/178566) opened on on November 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178566) 13 additions and 0 deletions in 1 file</sub><br />
 
+* **[Илия](https://github.com/777genius)** &mdash; Suppress deprecation warning for AChoreographer_postFrameCallback<br />
+  <sub>[#178580](https://github.com/flutter/flutter/pull/178580) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178580) 3 additions and 0 deletions in 1 file</sub><br />
+
