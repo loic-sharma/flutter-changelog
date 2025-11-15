@@ -63,7 +63,7 @@
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Add Cyrillic keyboard layout support for flutter_tools terminal commands<br />
-  <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/177855) 388 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/177855) 388 additions and 21 deletions in 2 files</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/177888) 439 additions and 10 deletions in 4 files</sub><br />
@@ -126,7 +126,7 @@
   <sub>[#178551](https://github.com/flutter/flutter/pull/178551) opened on on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178551) 114 additions and 11 deletions in 13 files</sub><br />
 
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Shift-Delete, Ctrl-Insert and Shift-Insert<br />
-  <sub>[#178561](https://github.com/flutter/flutter/pull/178561) opened on on November 15, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178561) 101 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#178561](https://github.com/flutter/flutter/pull/178561) opened on on November 15, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178561) 129 additions and 9 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoActivityIndicator doesn't crash in 0x0 envi…<br />
   <sub>[#178565](https://github.com/flutter/flutter/pull/178565) opened on on November 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178565) 11 additions and 0 deletions in 1 file</sub><br />
