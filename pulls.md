@@ -143,3 +143,6 @@
 * **[Илия](https://github.com/777genius)** &mdash; Fix supportedLocales not updating resolved locale<br />
   <sub>[#178583](https://github.com/flutter/flutter/pull/178583) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178583) 63 additions and 3 deletions in 2 files</sub><br />
 
+* **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15<br />
+  <sub>[#178601](https://github.com/flutter/flutter/pull/178601) opened on on November 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178601) 9 additions and 2 deletions in 8 files</sub><br />
+
