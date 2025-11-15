@@ -131,3 +131,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoActivityIndicator doesn't crash in 0x0 envi…<br />
   <sub>[#178565](https://github.com/flutter/flutter/pull/178565) opened on on November 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178565) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoLinearActivityIndicator doesn't crash in 0x…<br />
+  <sub>[#178566](https://github.com/flutter/flutter/pull/178566) opened on on November 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178566) 13 additions and 0 deletions in 1 file</sub><br />
+
