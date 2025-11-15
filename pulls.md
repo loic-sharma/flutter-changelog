@@ -125,3 +125,6 @@
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/text selection android anchor<br />
   <sub>[#178551](https://github.com/flutter/flutter/pull/178551) opened on on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178551) 114 additions and 11 deletions in 13 files</sub><br />
 
+* **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Shift-Delete, Ctrl-Insert and Shift-Insert<br />
+  <sub>[#178561](https://github.com/flutter/flutter/pull/178561) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178561) 17 additions and 0 deletions in 1 file</sub><br />
+
