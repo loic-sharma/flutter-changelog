@@ -919,11 +919,15 @@
 
 ### November 8, 2025 to November 14, 2025
 
-22 commits.
+23 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event
   <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub>
   <sub>Reviewed by: [misos1](https://github.com/misos1), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 3
+  <sub>[#10293](https://github.com/flutter/packages/pull/10293) merged on November 16, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/10293) over 3 weeks, 363 additions and 688 deletions in 26 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Set properties before adding maps objects
   <sub>[#10347](https://github.com/flutter/packages/pull/10347) merged on November 13, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/packages/pull/10347) over 1 week, 1143 additions and 420 deletions in 28 files</sub>
