@@ -1146,7 +1146,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-22 commits.
+23 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub>
@@ -1163,6 +1163,10 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.38 release notes
   <sub>[#12621](https://github.com/flutter/website/pull/12621) merged on November 12, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12621) over 1 week, 856 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Derek Xu](https://github.com/derekxu16)** &mdash; [3.38] Document the `--profile-startup` Dart / Flutter CLI flags
+  <sub>[#12272](https://github.com/flutter/website/pull/12272) merged on November 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12272) over 3 months, 9 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back transition breaking change announcement
   <sub>[#12268](https://github.com/flutter/website/pull/12268) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12268) over 3 months, 217 additions and 0 deletions in 2 files</sub>
