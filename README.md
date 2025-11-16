@@ -1146,11 +1146,16 @@
 
 ### November 8, 2025 to November 14, 2025
 
-23 commits.
+24 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE<br />
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add ProgressRing component for FWE<br />
+  <sub>[#12674](https://github.com/flutter/website/pull/12674) merged on November 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12674) over 4 days, 163 additions and 1 deletion in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="271" height="149" alt="Bildschirmfoto 2025-11-12 um 15 37 30" src="https://github.com/user-attachments/assets/b73a96ed-d8a1-46e2-bedf-bf56c6335646" /></details></sub>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add FileTree component to docs<br />
   <sub>[#12623](https://github.com/flutter/website/pull/12623) merged on November 11, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/website/pull/12623) over 1 week, 186 additions and 151 deletions in 13 files</sub><br />
