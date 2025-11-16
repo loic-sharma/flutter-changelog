@@ -143,6 +143,9 @@
 * **[Илия](https://github.com/777genius)** &mdash; Fix supportedLocales not updating resolved locale<br />
   <sub>[#178583](https://github.com/flutter/flutter/pull/178583) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178583) 63 additions and 3 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `equals("")` with `isEmpty` in `SpellCheckPlugin.java‎`<br />
+  <sub>[#178596](https://github.com/flutter/flutter/pull/178596) opened on on November 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178596) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15<br />
   <sub>[#178601](https://github.com/flutter/flutter/pull/178601) opened on on November 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178601) 9 additions and 2 deletions in 8 files</sub><br />
 
