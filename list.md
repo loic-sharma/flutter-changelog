@@ -1146,7 +1146,7 @@
 
 ### November 8, 2025 to November 14, 2025
 
-24 commits.
+25 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub>
@@ -1212,6 +1212,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a more flexible banner format
   <sub>[#12676](https://github.com/flutter/website/pull/12676) merged on November 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12676) over 23 minutes, 17 additions and 50 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor comment for clarity in user-input.md
+  <sub>[#12678](https://github.com/flutter/website/pull/12678) merged on November 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12678) over 3 days, 2 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Fix typo in state-management.md
   <sub>[#12677](https://github.com/flutter/website/pull/12677) merged on November 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12677) over 1 day, 1 addition and 1 deletion in 1 file</sub>
