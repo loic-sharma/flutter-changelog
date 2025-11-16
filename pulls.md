@@ -92,6 +92,9 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [CP-Stable] Cherry-pick ninja+cmake deps<br />
   <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178243) 91 additions and 18 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `activeColor` in `switch.0.dart` example<br />
+  <sub>[#178293](https://github.com/flutter/flutter/pull/178293) opened on on November 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178293) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
   <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
 
@@ -142,9 +145,6 @@
 
 * **[Илия](https://github.com/777genius)** &mdash; Fix supportedLocales not updating resolved locale<br />
   <sub>[#178583](https://github.com/flutter/flutter/pull/178583) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178583) 63 additions and 3 deletions in 2 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `equals("")` with `isEmpty` in `SpellCheckPlugin.java‎`<br />
-  <sub>[#178596](https://github.com/flutter/flutter/pull/178596) opened on on November 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178596) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15<br />
   <sub>[#178601](https://github.com/flutter/flutter/pull/178601) opened on on November 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178601) 9 additions and 2 deletions in 8 files</sub><br />
