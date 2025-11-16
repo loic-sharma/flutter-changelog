@@ -146,3 +146,6 @@
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15<br />
   <sub>[#178601](https://github.com/flutter/flutter/pull/178601) opened on on November 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178601) 9 additions and 2 deletions in 8 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoApp doesn't crash in 0x0 environment<br />
+  <sub>[#178610](https://github.com/flutter/flutter/pull/178610) opened on on November 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178610) 10 additions and 1 deletion in 2 files</sub><br />
+
