@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-4 commits.
+5 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable UIScene Migration and update create templates
   <sub>[#178328](https://github.com/flutter/flutter/pull/178328) merged on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178328) over 5 days, 127 additions and 22 deletions in 15 files</sub>
@@ -13,6 +13,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration
   <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `Metadata.java‎` to use `getBytes` in a static context
+  <sub>[#178587](https://github.com/flutter/flutter/pull/178587) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178587) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Reduce Skwasm test shards to 2
   <sub>[#178239](https://github.com/flutter/flutter/pull/178239) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178239) over 1 week, 8 additions and 150 deletions in 2 files</sub>
