@@ -4,7 +4,12 @@
 
 ### November 15, 2025 to November 21, 2025
 
-17 commits.
+18 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu width when decorationBuilder provides label<br />
+  <sub>[#178465](https://github.com/flutter/flutter/pull/178465) merged on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178465) over 4 days, 43 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="225" height="63" alt="Image" src="https://github.com/user-attachments/assets/47dbec7d-c59c-4379-8f22-792c844f6ac4" /><img width="225" height="63" alt="Image" src="https://github.com/user-attachments/assets/d4223e56-2b3f-4e12-893a-284ceb3b8ea4" /></details></sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LateInitializationError in didChangeTextScaleFactor code example.<br />
   <sub>[#178375](https://github.com/flutter/flutter/pull/178375) merged on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178375) over 5 days, 10 additions and 5 deletions in 1 file</sub><br />

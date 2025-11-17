@@ -159,5 +159,5 @@
   <sub>[#178686](https://github.com/flutter/flutter/pull/178686) opened on on November 17, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/178686) 39947 additions and 0 deletions in 130 files</sub><br />
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Link branch cleanup<br />
-  <sub>[#178688](https://github.com/flutter/flutter/pull/178688) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178688) 67 additions and 72 deletions in 36 files</sub><br />
+  <sub>[#178688](https://github.com/flutter/flutter/pull/178688) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178688) 72 additions and 77 deletions in 40 files</sub><br />
 
