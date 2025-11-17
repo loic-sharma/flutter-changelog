@@ -51,7 +51,7 @@
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Document that `error` parameter must be initialized<br />
-  <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [69 comments](https://github.com/flutter/flutter/pull/177730) 164 additions and 55 deletions in 23 files</sub><br />
+  <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [70 comments](https://github.com/flutter/flutter/pull/177730) 164 additions and 55 deletions in 23 files</sub><br />
 
 * **[RONGALI MOHAN KRISHNA 2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
@@ -94,9 +94,6 @@
 
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tooltip doesn't crash in 0x0 environment<br />
-  <sub>[#178461](https://github.com/flutter/flutter/pull/178461) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178461) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Widget Preview ] Don't require 'flutter pub get' to be run in the root project<br />
   <sub>[#178471](https://github.com/flutter/flutter/pull/178471) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178471) 27 additions and 2 deletions in 2 files</sub><br />
@@ -159,7 +156,7 @@
   <sub>[#178630](https://github.com/flutter/flutter/pull/178630) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178630) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix deprecation warning in some API examples using RadioListTile<br />
-  <sub>[#178635](https://github.com/flutter/flutter/pull/178635) opened on on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178635) 66 additions and 82 deletions in 3 files</sub><br />
+  <sub>[#178635](https://github.com/flutter/flutter/pull/178635) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178635) 66 additions and 82 deletions in 3 files</sub><br />
 
 * **[Jon Mountjoy](https://github.com/jonmountjoy)** &mdash; Add RouteSettings to showCupertinoSheet<br />
   <sub>[#178643](https://github.com/flutter/flutter/pull/178643) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178643) 78 additions and 4 deletions in 2 files</sub><br />
@@ -178,4 +175,7 @@
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
+
+* **[Flutter Painter](https://github.com/flutter-painter)** &mdash; Add native support for x43 languages<br />
+  <sub>[#178686](https://github.com/flutter/flutter/pull/178686) opened on on November 17, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/178686) 39947 additions and 0 deletions in 130 files</sub><br />
 

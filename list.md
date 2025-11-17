@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-15 commits.
+16 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LateInitializationError in didChangeTextScaleFactor code example.
   <sub>[#178375](https://github.com/flutter/flutter/pull/178375) merged on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178375) over 5 days, 10 additions and 5 deletions in 1 file</sub>
@@ -34,6 +34,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration
   <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanup in `AndroidTouchProcessor.java‎`
+  <sub>[#178574](https://github.com/flutter/flutter/pull/178574) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178574) over 2 days, 1 addition and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `final` modifier in `StandardMessageCodec.java‎`
   <sub>[#178598](https://github.com/flutter/flutter/pull/178598) merged on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178598) over 2 days, 12 additions and 13 deletions in 1 file</sub>
@@ -729,11 +733,15 @@
 
 ### November 15, 2025 to November 21, 2025
 
-2 commits.
+3 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update all packages to Pigeon 26
   <sub>[#10450](https://github.com/flutter/packages/pull/10450) merged on November 17, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10450) over 1 hour, 7840 additions and 1147 deletions in 168 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Split dependabot gradle plugin
+  <sub>[#10454](https://github.com/flutter/packages/pull/10454) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10454) over 40 minutes, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Kgp bulk update
   <sub>[#10412](https://github.com/flutter/packages/pull/10412) merged on November 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10412) over 4 days, 188 additions and 14 deletions in 2 files</sub>
