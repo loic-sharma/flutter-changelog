@@ -892,7 +892,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-3 commits.
+4 commits.
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub>
@@ -901,6 +901,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraint for stable 3.38 release
   <sub>[#12701](https://github.com/flutter/website/pull/12701) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12701) over 20 hours, 149 additions and 149 deletions in 149 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Add link to GPU texture compression proposal
+  <sub>[#12704](https://github.com/flutter/website/pull/12704) merged on November 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12704) over 9 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Update Android package setup instructions to include build.gradle.kts
   <sub>[#12699](https://github.com/flutter/website/pull/12699) merged on November 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12699) over 2 days, 3 additions and 2 deletions in 1 file</sub>

@@ -182,3 +182,6 @@
 * **[Aleksey Kornienko](https://github.com/inself)** &mdash; Allow release and profile mode builds on iOS Simulator<br />
   <sub>[#178650](https://github.com/flutter/flutter/pull/178650) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178650) 66 additions and 20 deletions in 6 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `widget_preview_scaffold/.dart_tool` doesn't exist<br />
+  <sub>[#178662](https://github.com/flutter/flutter/pull/178662) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178662) 47 additions and 4 deletions in 3 files</sub><br />
+
