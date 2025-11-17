@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-16 commits.
+17 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LateInitializationError in didChangeTextScaleFactor code example.<br />
   <sub>[#178375](https://github.com/flutter/flutter/pull/178375) merged on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178375) over 5 days, 10 additions and 5 deletions in 1 file</sub><br />
@@ -34,6 +34,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration<br />
   <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField.decorationBuilder<br />
+  <sub>[#178640](https://github.com/flutter/flutter/pull/178640) merged on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178640) over 8 hours, 32 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanup in `AndroidTouchProcessor.java‎`<br />
   <sub>[#178574](https://github.com/flutter/flutter/pull/178574) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178574) over 2 days, 1 addition and 3 deletions in 1 file</sub><br />

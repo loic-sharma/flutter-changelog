@@ -101,14 +101,11 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Potentially fixing the flakiness in win32 windowing tests, but it needs some running<br />
   <sub>[#178499](https://github.com/flutter/flutter/pull/178499) opened on on November 13, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/178499) 242 additions and 156 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a UserAccountsDrawerHeader doesn't crash in 0x0 enviro…<br />
-  <sub>[#178516](https://github.com/flutter/flutter/pull/178516) opened on on November 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178516) 15 additions and 0 deletions in 1 file</sub><br />
-
 * **[DoLT](https://github.com/letrungdo)** &mdash; Fix Windows Enter key after focus loss<br />
   <sub>[#178523](https://github.com/flutter/flutter/pull/178523) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178523) 70 additions and 20 deletions in 4 files</sub><br />
 
 * **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale<br />
-  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) opened on on November 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178526) 55 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178526) 55 additions and 0 deletions in 2 files</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: check both pointer count and action before reusing MotionEvent<br />
   <sub>[#178528](https://github.com/flutter/flutter/pull/178528) opened on on November 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178528) 112 additions and 8 deletions in 2 files</sub><br />
@@ -119,26 +116,14 @@
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Shift-Delete, Ctrl-Insert and Shift-Insert<br />
   <sub>[#178561](https://github.com/flutter/flutter/pull/178561) opened on on November 15, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178561) 129 additions and 9 deletions in 3 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoActivityIndicator doesn't crash in 0x0 envi…<br />
-  <sub>[#178565](https://github.com/flutter/flutter/pull/178565) opened on on November 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178565) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoLinearActivityIndicator doesn't crash in 0x…<br />
-  <sub>[#178566](https://github.com/flutter/flutter/pull/178566) opened on on November 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178566) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `_CircularProgressIndicatorState` to use `transform` directly<br />
-  <sub>[#178569](https://github.com/flutter/flutter/pull/178569) opened on on November 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178569) 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#178569](https://github.com/flutter/flutter/pull/178569) opened on on November 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178569) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Fix supportedLocales not updating resolved locale<br />
   <sub>[#178583](https://github.com/flutter/flutter/pull/178583) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178583) 63 additions and 3 deletions in 2 files</sub><br />
 
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15<br />
   <sub>[#178601](https://github.com/flutter/flutter/pull/178601) opened on on November 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178601) 9 additions and 2 deletions in 8 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoApp doesn't crash in 0x0 environment<br />
-  <sub>[#178610](https://github.com/flutter/flutter/pull/178610) opened on on November 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178610) 10 additions and 1 deletion in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTabBar doesn't crash in 0x0 environment<br />
-  <sub>[#178613](https://github.com/flutter/flutter/pull/178613) opened on on November 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178613) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `BuildContext` docs to make it easier to understand<br />
   <sub>[#178616](https://github.com/flutter/flutter/pull/178616) opened on on November 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178616) 6 additions and 5 deletions in 1 file</sub><br />
@@ -151,9 +136,6 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoButton doesn't crash in 0x0 environment<br />
   <sub>[#178629](https://github.com/flutter/flutter/pull/178629) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178629) 13 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoCheckbox doesn't crash in 0x0 environment<br />
-  <sub>[#178630](https://github.com/flutter/flutter/pull/178630) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178630) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix deprecation warning in some API examples using RadioListTile<br />
   <sub>[#178635](https://github.com/flutter/flutter/pull/178635) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178635) 66 additions and 82 deletions in 3 files</sub><br />
@@ -180,5 +162,5 @@
   <sub>[#178686](https://github.com/flutter/flutter/pull/178686) opened on on November 17, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/178686) 39947 additions and 0 deletions in 130 files</sub><br />
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Link branch cleanup<br />
-  <sub>[#178688](https://github.com/flutter/flutter/pull/178688) opened on on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178688) 67 additions and 71 deletions in 36 files</sub><br />
+  <sub>[#178688](https://github.com/flutter/flutter/pull/178688) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178688) 67 additions and 72 deletions in 36 files</sub><br />
 
