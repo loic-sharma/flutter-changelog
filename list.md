@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 15, 2025 to November 21, 2025
+
+1 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Reduce Skwasm test shards to 2
+  <sub>[#178239](https://github.com/flutter/flutter/pull/178239) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178239) over 1 week, 8 additions and 150 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 ### November 8, 2025 to November 14, 2025
 
-72 commits.
+<details>
+<summary>72 commits...</summary>
 
 * **[Alex Frei](https://github.com/hm21)** &mdash; feat(assets): add platform-specific asset filtering in pubspec.yaml
   <sub>[#176393](https://github.com/flutter/flutter/pull/176393) merged on November 11, 2025 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/176393) over 1 month, 515 additions and 45 deletions in 16 files</sub>
@@ -298,6 +307,8 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Reland] Generate ignore lockfiles and Update Android Embedder Dependencies
   <sub>[#178538](https://github.com/flutter/flutter/pull/178538) merged on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178538) over 2 hours, 43 additions and 11 deletions in 33 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
+
+</details>
 
 ### November 1, 2025 to November 7, 2025
 

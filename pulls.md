@@ -146,9 +146,6 @@
 * **[Илия](https://github.com/777genius)** &mdash; Fix supportedLocales not updating resolved locale<br />
   <sub>[#178583](https://github.com/flutter/flutter/pull/178583) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178583) 63 additions and 3 deletions in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace the hardcoded link with an actual link tag in `PlatformChannel.java‎` docs<br />
-  <sub>[#178588](https://github.com/flutter/flutter/pull/178588) opened on on November 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178588) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15<br />
   <sub>[#178601](https://github.com/flutter/flutter/pull/178601) opened on on November 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178601) 9 additions and 2 deletions in 8 files</sub><br />
 
@@ -187,9 +184,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Gracefully handle unexpected analysis context disposal<br />
   <sub>[#178645](https://github.com/flutter/flutter/pull/178645) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178645) 189 additions and 63 deletions in 4 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Gracefully handle unexpected analysis context disposal<br />
-  <sub>[#178646](https://github.com/flutter/flutter/pull/178646) opened on on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178646) 189 additions and 63 deletions in 4 files</sub><br />
 
 * **[Aleksey Kornienko](https://github.com/inself)** &mdash; Allow release and profile mode builds on iOS Simulator<br />
   <sub>[#178650](https://github.com/flutter/flutter/pull/178650) opened on on November 17, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/178650) 591 additions and 180 deletions in 5 files</sub><br />
