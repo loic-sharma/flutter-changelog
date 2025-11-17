@@ -176,3 +176,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoCheckbox doesn't crash in 0x0 environment<br />
   <sub>[#178630](https://github.com/flutter/flutter/pull/178630) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178630) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix deprecation warning in some API examples using RadioListTile<br />
+  <sub>[#178635](https://github.com/flutter/flutter/pull/178635) opened on on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178635) 66 additions and 82 deletions in 3 files</sub><br />
+
