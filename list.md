@@ -659,9 +659,18 @@
 
 ## flutter/packages
 
+### November 15, 2025 to November 21, 2025
+
+1 commits.
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Kgp bulk update
+  <sub>[#10412](https://github.com/flutter/packages/pull/10412) merged on November 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10412) over 4 days, 188 additions and 14 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
+
 ### November 8, 2025 to November 14, 2025
 
-23 commits.
+<details>
+<summary>23 commits...</summary>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [video_player_avfoundation] removes unnecessary duration and size check before sending the initialized event
   <sub>[#9534](https://github.com/flutter/packages/pull/9534) merged on November 11, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/9534) over 4 months, 206 additions and 143 deletions in 11 files</sub>
@@ -754,6 +763,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from adc901062556 to a0e9b9dbf78c (1232 revisions)
   <sub>[#10409](https://github.com/flutter/packages/pull/10409) merged on November 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10409) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### November 1, 2025 to November 7, 2025
 
