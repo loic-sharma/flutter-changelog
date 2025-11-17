@@ -188,3 +188,9 @@
 * **[Jon Mountjoy](https://github.com/jonmountjoy)** &mdash; Add RouteSettings to showCupertinoSheet<br />
   <sub>[#178643](https://github.com/flutter/flutter/pull/178643) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178643) 78 additions and 4 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Gracefully handle unexpected analysis context disposal<br />
+  <sub>[#178645](https://github.com/flutter/flutter/pull/178645) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178645) 189 additions and 63 deletions in 4 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Gracefully handle unexpected analysis context disposal<br />
+  <sub>[#178646](https://github.com/flutter/flutter/pull/178646) opened on on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178646) 189 additions and 63 deletions in 4 files</sub><br />
+
