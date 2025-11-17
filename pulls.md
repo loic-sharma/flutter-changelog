@@ -179,3 +179,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Revert "[ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean` (#175664)"<br />
   <sub>[#178672](https://github.com/flutter/flutter/pull/178672) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178672) 45 additions and 96 deletions in 2 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove semantics geometry shortcircuit<br />
+  <sub>[#178680](https://github.com/flutter/flutter/pull/178680) opened on on November 17, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/178680) 223 additions and 197 deletions in 6 files</sub><br />
+
