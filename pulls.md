@@ -162,7 +162,7 @@
   <sub>[#178620](https://github.com/flutter/flutter/pull/178620) opened on on November 16, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/178620) 119780 additions and 339 deletions in 388 files</sub><br />
 
 * **[sutes-work](https://github.com/sutes-work)** &mdash; [fuchsia] Add wrapper for zx_iob_writev<br />
-  <sub>[#178626](https://github.com/flutter/flutter/pull/178626) opened on on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178626) 35 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#178626](https://github.com/flutter/flutter/pull/178626) opened on on November 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178626) 35 additions and 8 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoButton doesn't crash in 0x0 environment<br />
   <sub>[#178629](https://github.com/flutter/flutter/pull/178629) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178629) 13 additions and 0 deletions in 1 file</sub><br />
