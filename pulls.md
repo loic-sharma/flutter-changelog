@@ -153,7 +153,7 @@
   <sub>[#178620](https://github.com/flutter/flutter/pull/178620) opened on on November 16, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/178620) 119780 additions and 339 deletions in 388 files</sub><br />
 
 * **[sutes-work](https://github.com/sutes-work)** &mdash; [fuchsia] Add wrapper for zx_iob_writev<br />
-  <sub>[#178626](https://github.com/flutter/flutter/pull/178626) opened on on November 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178626) 35 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#178626](https://github.com/flutter/flutter/pull/178626) opened on on November 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178626) 35 additions and 8 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoButton doesn't crash in 0x0 environment<br />
   <sub>[#178629](https://github.com/flutter/flutter/pull/178629) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178629) 13 additions and 0 deletions in 1 file</sub><br />
@@ -180,5 +180,8 @@
   <sub>[#178672](https://github.com/flutter/flutter/pull/178672) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178672) 45 additions and 96 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove semantics geometry shortcircuit<br />
-  <sub>[#178680](https://github.com/flutter/flutter/pull/178680) opened on on November 17, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/178680) 223 additions and 197 deletions in 6 files</sub><br />
+  <sub>[#178680](https://github.com/flutter/flutter/pull/178680) opened on on November 17, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/178680) 223 additions and 197 deletions in 6 files</sub><br />
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; remove unnecessary virtual destructor from VertexDescriptor<br />
+  <sub>[#178682](https://github.com/flutter/flutter/pull/178682) opened on on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178682) 1 addition and 1 deletion in 1 file</sub><br />
 

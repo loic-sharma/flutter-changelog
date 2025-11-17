@@ -4,12 +4,16 @@
 
 ### November 15, 2025 to November 21, 2025
 
-12 commits.
+13 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LateInitializationError in didChangeTextScaleFactor code example.<br />
   <sub>[#178375](https://github.com/flutter/flutter/pull/178375) merged on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178375) over 5 days, 10 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1179" height="2556" alt="before" src="https://github.com/user-attachments/assets/c9dec896-049c-4712-ba86-d610fcbc5497" /><img width="1179" height="2556" alt="after" src="https://github.com/user-attachments/assets/d2dc9ddc-354b-48f7-8635-e8e30b612637" /></details></sub>
+
+* **[William Oprandi](https://github.com/woprandi)** &mdash; Dev proxy correctly copy query parameters from original request<br />
+  <sub>[#178162](https://github.com/flutter/flutter/pull/178162) merged on November 17, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/178162) over 1 week, 27 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable UIScene Migration and update create templates<br />
   <sub>[#178328](https://github.com/flutter/flutter/pull/178328) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178328) over 5 days, 127 additions and 22 deletions in 15 files</sub><br />
