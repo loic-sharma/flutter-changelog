@@ -159,7 +159,7 @@
   <sub>[#178613](https://github.com/flutter/flutter/pull/178613) opened on on November 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178613) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Flutter Painter](https://github.com/flutter-painter)** &mdash; added x47 entries in the language_subtag_registry<br />
-  <sub>[#178620](https://github.com/flutter/flutter/pull/178620) opened on on November 16, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/178620) 119780 additions and 339 deletions in 388 files</sub><br />
+  <sub>[#178620](https://github.com/flutter/flutter/pull/178620) opened on on November 16, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/178620) 119780 additions and 339 deletions in 388 files</sub><br />
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Fix layout for macOS frameworks for code assets<br />
   <sub>[#178625](https://github.com/flutter/flutter/pull/178625) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178625) 7 additions and 2 deletions in 1 file</sub><br />
