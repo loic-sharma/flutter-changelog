@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-11 commits.
+12 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LateInitializationError in didChangeTextScaleFactor code example.
   <sub>[#178375](https://github.com/flutter/flutter/pull/178375) merged on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178375) over 5 days, 10 additions and 5 deletions in 1 file</sub>
@@ -26,6 +26,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration
   <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality `FlutterViewTest.java` 
+  <sub>[#178594](https://github.com/flutter/flutter/pull/178594) merged on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178594) over 2 days, 10 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small refactor in `DartMessenger.java` to use method reference
   <sub>[#178584](https://github.com/flutter/flutter/pull/178584) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178584) over 2 days, 2 additions and 8 deletions in 1 file</sub>
@@ -913,11 +917,15 @@
 
 ### November 15, 2025 to November 21, 2025
 
-6 commits.
+7 commits.
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Fix links on FWE index page
+  <sub>[#12707](https://github.com/flutter/website/pull/12707) merged on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12707) over 12 minutes, 21 additions and 17 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraint for stable 3.38 release
   <sub>[#12701](https://github.com/flutter/website/pull/12701) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12701) over 20 hours, 149 additions and 149 deletions in 149 files</sub>
