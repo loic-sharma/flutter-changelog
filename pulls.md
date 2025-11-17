@@ -89,9 +89,6 @@
 * **[Илия](https://github.com/777genius)** &mdash; Fix division by zero in RenderTable intrinsic size methods<br />
   <sub>[#178217](https://github.com/flutter/flutter/pull/178217) opened on on November 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178217) 31 additions and 0 deletions in 2 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [CP-Stable] Cherry-pick ninja+cmake deps<br />
-  <sub>[#178243](https://github.com/flutter/flutter/pull/178243) opened on on November 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178243) 91 additions and 18 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `activeColor` in `switch.0.dart` example<br />
   <sub>[#178293](https://github.com/flutter/flutter/pull/178293) opened on on November 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178293) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -183,5 +180,5 @@
   <sub>[#178643](https://github.com/flutter/flutter/pull/178643) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178643) 78 additions and 4 deletions in 2 files</sub><br />
 
 * **[Aleksey Kornienko](https://github.com/inself)** &mdash; Allow release and profile mode builds on iOS Simulator<br />
-  <sub>[#178650](https://github.com/flutter/flutter/pull/178650) opened on on November 17, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/178650) 591 additions and 180 deletions in 5 files</sub><br />
+  <sub>[#178650](https://github.com/flutter/flutter/pull/178650) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178650) 66 additions and 20 deletions in 6 files</sub><br />
 
