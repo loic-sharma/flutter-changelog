@@ -855,9 +855,18 @@
 
 ## flutter/website
 
+### November 15, 2025 to November 21, 2025
+
+1 commits.
+
+* **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup<br />
+  <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
 ### November 8, 2025 to November 14, 2025
 
-25 commits.
+<details>
+<summary>25 commits...</summary>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add quiz component for FWE<br />
   <sub>[#12648](https://github.com/flutter/website/pull/12648) merged on November 12, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/website/pull/12648) over 1 week, 489 additions and 4 deletions in 11 files</sub><br />
@@ -959,6 +968,8 @@
 * **[Tadas Petra](https://github.com/tadaspetra)** &mdash; Added new Course<br />
   <sub>[#12655](https://github.com/flutter/website/pull/12655) merged on November 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12655) over 4 days, 4 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### November 1, 2025 to November 7, 2025
 
