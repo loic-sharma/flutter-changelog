@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-6 commits.
+8 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable UIScene Migration and update create templates
   <sub>[#178328](https://github.com/flutter/flutter/pull/178328) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178328) over 5 days, 127 additions and 22 deletions in 15 files</sub>
@@ -13,6 +13,14 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration
   <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small refactor in `DartMessenger.java` to use method reference
+  <sub>[#178584](https://github.com/flutter/flutter/pull/178584) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178584) over 2 days, 2 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `PlatformChannel.java‎` docs
+  <sub>[#178589](https://github.com/flutter/flutter/pull/178589) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178589) over 2 days, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `‎ListenableEditingState.java‎`
   <sub>[#178597](https://github.com/flutter/flutter/pull/178597) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178597) over 2 days, 1 addition and 1 deletion in 1 file</sub>
@@ -125,7 +133,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean`
-  <sub>[#175664](https://github.com/flutter/flutter/pull/175664) merged on November 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175664) over 1 month, 96 additions and 45 deletions in 2 files</sub>
+  <sub>[#175664](https://github.com/flutter/flutter/pull/175664) merged on November 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175664) over 1 month, 96 additions and 45 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] API to customize semantics placeholder message
