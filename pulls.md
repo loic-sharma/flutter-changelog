@@ -191,3 +191,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Gracefully handle unexpected analysis context disposal<br />
   <sub>[#178646](https://github.com/flutter/flutter/pull/178646) opened on on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178646) 189 additions and 63 deletions in 4 files</sub><br />
 
+* **[Aleksey Kornienko](https://github.com/inself)** &mdash; Allow release and profile mode builds on iOS Simulator<br />
+  <sub>[#178650](https://github.com/flutter/flutter/pull/178650) opened on on November 17, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/178650) 239 additions and 74 deletions in 5 files</sub><br />
+
