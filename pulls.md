@@ -170,17 +170,11 @@
 * **[Aleksey Kornienko](https://github.com/inself)** &mdash; Allow release and profile mode builds on iOS Simulator<br />
   <sub>[#178650](https://github.com/flutter/flutter/pull/178650) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178650) 66 additions and 20 deletions in 6 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `widget_preview_scaffold/.dart_tool` doesn't exist<br />
-  <sub>[#178662](https://github.com/flutter/flutter/pull/178662) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178662) 51 additions and 8 deletions in 3 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
   <sub>[#178666](https://github.com/flutter/flutter/pull/178666) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178666) 87 additions and 87 deletions in 10 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Revert "[ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean` (#175664)"<br />
   <sub>[#178672](https://github.com/flutter/flutter/pull/178672) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178672) 45 additions and 96 deletions in 2 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove semantics geometry shortcircuit<br />
-  <sub>[#178680](https://github.com/flutter/flutter/pull/178680) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178680) 35 additions and 11 deletions in 2 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; remove unnecessary virtual destructor from VertexDescriptor<br />
   <sub>[#178682](https://github.com/flutter/flutter/pull/178682) opened on on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178682) 1 addition and 1 deletion in 1 file</sub><br />
