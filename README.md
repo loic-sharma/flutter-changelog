@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-5 commits.
+6 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable UIScene Migration and update create templates<br />
   <sub>[#178328](https://github.com/flutter/flutter/pull/178328) merged on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178328) over 5 days, 127 additions and 22 deletions in 15 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration<br />
   <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `‎ListenableEditingState.java‎`<br />
+  <sub>[#178597](https://github.com/flutter/flutter/pull/178597) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178597) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `Metadata.java‎` to use `getBytes` in a static context<br />
   <sub>[#178587](https://github.com/flutter/flutter/pull/178587) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178587) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -688,7 +692,11 @@
 
 ### November 15, 2025 to November 21, 2025
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update all packages to Pigeon 26<br />
+  <sub>[#10450](https://github.com/flutter/packages/pull/10450) merged on November 17, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10450) over 1 hour, 7840 additions and 1147 deletions in 168 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Kgp bulk update<br />
   <sub>[#10412](https://github.com/flutter/packages/pull/10412) merged on November 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10412) over 4 days, 188 additions and 14 deletions in 2 files</sub><br />
