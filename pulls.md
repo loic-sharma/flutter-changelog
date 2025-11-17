@@ -131,9 +131,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `_CircularProgressIndicatorState` to use `transform` directly<br />
   <sub>[#178569](https://github.com/flutter/flutter/pull/178569) opened on on November 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178569) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Илия](https://github.com/777genius)** &mdash; Suppress deprecation warning for AChoreographer_postFrameCallback<br />
-  <sub>[#178580](https://github.com/flutter/flutter/pull/178580) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178580) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Илия](https://github.com/777genius)** &mdash; Fix supportedLocales not updating resolved locale<br />
   <sub>[#178583](https://github.com/flutter/flutter/pull/178583) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178583) 63 additions and 3 deletions in 2 files</sub><br />
 
