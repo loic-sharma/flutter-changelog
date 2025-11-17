@@ -180,7 +180,7 @@
   <sub>[#178672](https://github.com/flutter/flutter/pull/178672) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178672) 45 additions and 96 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove semantics geometry shortcircuit<br />
-  <sub>[#178680](https://github.com/flutter/flutter/pull/178680) opened on on November 17, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/178680) 223 additions and 197 deletions in 6 files</sub><br />
+  <sub>[#178680](https://github.com/flutter/flutter/pull/178680) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178680) 35 additions and 11 deletions in 2 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; remove unnecessary virtual destructor from VertexDescriptor<br />
   <sub>[#178682](https://github.com/flutter/flutter/pull/178682) opened on on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178682) 1 addition and 1 deletion in 1 file</sub><br />
