@@ -892,7 +892,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-5 commits.
+6 commits.
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup<br />
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub><br />
@@ -900,6 +900,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraint for stable 3.38 release<br />
   <sub>[#12701](https://github.com/flutter/website/pull/12701) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12701) over 20 hours, 149 additions and 149 deletions in 149 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Vicente Russo](https://github.com/vicenterusso)** &mdash; Add Isar Community as a non-relational database option<br />
+  <sub>[#12695](https://github.com/flutter/website/pull/12695) merged on November 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12695) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Correct escape character in user-input.md<br />
