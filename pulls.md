@@ -182,3 +182,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Roll dartdoc to 9.0.0<br />
   <sub>[#178638](https://github.com/flutter/flutter/pull/178638) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178638) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField.decorationBuilder<br />
+  <sub>[#178640](https://github.com/flutter/flutter/pull/178640) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178640) 32 additions and 0 deletions in 2 files</sub><br />
+
