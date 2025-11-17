@@ -165,5 +165,5 @@
   <sub>[#178625](https://github.com/flutter/flutter/pull/178625) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178625) 7 additions and 2 deletions in 1 file</sub><br />
 
 * **[sutes-work](https://github.com/sutes-work)** &mdash; [fuchsia] Add wrapper for zx_iob_writev<br />
-  <sub>[#178626](https://github.com/flutter/flutter/pull/178626) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178626) 35 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#178626](https://github.com/flutter/flutter/pull/178626) opened on on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178626) 35 additions and 8 deletions in 3 files</sub><br />
 
