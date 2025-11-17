@@ -9,13 +9,13 @@
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mo Luo](https://github.com/moluopro)** &mdash; Fix: use 'exit' instead of 'return' for curlExitCode<br />
-  <sub>[#175025](https://github.com/flutter/flutter/pull/175025) opened on on September 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/175025) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#175025](https://github.com/flutter/flutter/pull/175025) opened on on September 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175025) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[eevanlai-stack](https://github.com/eevanlai-stack)** &mdash; Create devcontainer.json<br />
-  <sub>[#175475](https://github.com/flutter/flutter/pull/175475) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175475) 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#175475](https://github.com/flutter/flutter/pull/175475) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175475) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[eevanlai-stack](https://github.com/eevanlai-stack)** &mdash; Create devcontainer.json<br />
-  <sub>[#175477](https://github.com/flutter/flutter/pull/175477) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175477) 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#175477](https://github.com/flutter/flutter/pull/175477) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175477) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
@@ -148,9 +148,6 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor SnackBar behavior selection example to use `RadioGroup`<br />
   <sub>[#178618](https://github.com/flutter/flutter/pull/178618) opened on on November 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178618) 21 additions and 25 deletions in 1 file</sub><br />
-
-* **[Flutter Painter](https://github.com/flutter-painter)** &mdash; added x47 entries in the language_subtag_registry<br />
-  <sub>[#178620](https://github.com/flutter/flutter/pull/178620) opened on on November 16, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/178620) 119780 additions and 339 deletions in 388 files</sub><br />
 
 * **[sutes-work](https://github.com/sutes-work)** &mdash; [fuchsia] Add wrapper for zx_iob_writev<br />
   <sub>[#178626](https://github.com/flutter/flutter/pull/178626) opened on on November 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178626) 35 additions and 8 deletions in 3 files</sub><br />
