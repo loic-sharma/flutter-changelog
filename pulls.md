@@ -179,3 +179,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix deprecation warning in some API examples using RadioListTile<br />
   <sub>[#178635](https://github.com/flutter/flutter/pull/178635) opened on on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178635) 66 additions and 82 deletions in 3 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Roll dartdoc to 9.0.0<br />
+  <sub>[#178638](https://github.com/flutter/flutter/pull/178638) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178638) 1 addition and 1 deletion in 1 file</sub><br />
+
