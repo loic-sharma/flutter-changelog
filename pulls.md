@@ -51,7 +51,7 @@
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) opened on on October 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177653) 69 additions and 10 deletions in 6 files</sub><br />
 
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Document that `error` parameter must be initialized<br />
-  <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [70 comments](https://github.com/flutter/flutter/pull/177730) 164 additions and 55 deletions in 23 files</sub><br />
+  <sub>[#177730](https://github.com/flutter/flutter/pull/177730) opened on on October 29, 2025 &mdash; **Small:** [71 comments](https://github.com/flutter/flutter/pull/177730) 164 additions and 55 deletions in 23 files</sub><br />
 
 * **[RONGALI MOHAN KRISHNA 2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
@@ -178,4 +178,7 @@
 
 * **[Flutter Painter](https://github.com/flutter-painter)** &mdash; Add native support for x43 languages<br />
   <sub>[#178686](https://github.com/flutter/flutter/pull/178686) opened on on November 17, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/178686) 39947 additions and 0 deletions in 130 files</sub><br />
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; Link branch cleanup<br />
+  <sub>[#178688](https://github.com/flutter/flutter/pull/178688) opened on on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178688) 67 additions and 71 deletions in 36 files</sub><br />
 
