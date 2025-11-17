@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-14 commits.
+15 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LateInitializationError in didChangeTextScaleFactor code example.
   <sub>[#178375](https://github.com/flutter/flutter/pull/178375) merged on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178375) over 5 days, 10 additions and 5 deletions in 1 file</sub>
@@ -34,6 +34,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration
   <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `final` modifier in `StandardMessageCodec.java‎`
+  <sub>[#178598](https://github.com/flutter/flutter/pull/178598) merged on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178598) over 2 days, 12 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality `FlutterViewTest.java` 
   <sub>[#178594](https://github.com/flutter/flutter/pull/178594) merged on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178594) over 2 days, 10 additions and 10 deletions in 1 file</sub>
