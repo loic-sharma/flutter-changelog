@@ -176,3 +176,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
   <sub>[#178666](https://github.com/flutter/flutter/pull/178666) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178666) 87 additions and 87 deletions in 10 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Revert "[ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean` (#175664)"<br />
+  <sub>[#178672](https://github.com/flutter/flutter/pull/178672) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178672) 45 additions and 96 deletions in 2 files</sub><br />
+
