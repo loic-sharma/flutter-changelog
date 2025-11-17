@@ -185,3 +185,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `widget_preview_scaffold/.dart_tool` doesn't exist<br />
   <sub>[#178662](https://github.com/flutter/flutter/pull/178662) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178662) 47 additions and 4 deletions in 3 files</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
+  <sub>[#178666](https://github.com/flutter/flutter/pull/178666) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178666) 86 additions and 86 deletions in 10 files</sub><br />
+
