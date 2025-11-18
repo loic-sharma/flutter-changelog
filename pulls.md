@@ -105,7 +105,7 @@
   <sub>[#178551](https://github.com/flutter/flutter/pull/178551) opened on on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178551) 114 additions and 11 deletions in 13 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `_CircularProgressIndicatorState` to use `transform` directly<br />
-  <sub>[#178569](https://github.com/flutter/flutter/pull/178569) opened on on November 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178569) 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#178569](https://github.com/flutter/flutter/pull/178569) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178569) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Fix supportedLocales not updating resolved locale<br />
   <sub>[#178583](https://github.com/flutter/flutter/pull/178583) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178583) 63 additions and 3 deletions in 2 files</sub><br />
