@@ -967,7 +967,12 @@
 
 ### November 15, 2025 to November 21, 2025
 
-8 commits.
+9 commits.
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks
+  <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+  <sub><details><summary>3 images...</summary><img width="913" height="364" alt="Bildschirmfoto 2025-11-13 um 13 13 29" src="https://github.com/user-attachments/assets/ee555fe4-8a4a-4fe1-9ee3-bf441a184d86" /><img width="912" height="743" alt="Bildschirmfoto 2025-11-13 um 13 13 40" src="https://github.com/user-attachments/assets/f5580204-3e2f-473d-81df-b74209a52bbb" /><img width="910" height="756" alt="Bildschirmfoto 2025-11-13 um 13 14 02" src="https://github.com/user-attachments/assets/14bd0c6b-b7b9-49d9-8b30-94b7eda32f1f" /></details></sub>
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub>
