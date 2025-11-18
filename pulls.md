@@ -126,7 +126,7 @@
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Flutter Painter](https://github.com/flutter-painter)** &mdash; Add native support for x43 languages<br />
-  <sub>[#178686](https://github.com/flutter/flutter/pull/178686) opened on on November 17, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/178686) 39947 additions and 0 deletions in 130 files</sub><br />
+  <sub>[#178686](https://github.com/flutter/flutter/pull/178686) opened on on November 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/178686) 39947 additions and 0 deletions in 130 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Restore OpenGL state modified by fl_compositor_opengl_present_layers<br />
   <sub>[#178697](https://github.com/flutter/flutter/pull/178697) opened on on November 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178697) 67 additions and 4 deletions in 3 files</sub><br />
