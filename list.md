@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-27 commits.
+30 commits.
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute
   <sub>[#177570](https://github.com/flutter/flutter/pull/177570) merged on November 18, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/177570) over 3 weeks, 214 additions and 65 deletions in 9 files</sub>
@@ -53,6 +53,10 @@
   <sub>[#178626](https://github.com/flutter/flutter/pull/178626) merged on November 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178626) over 20 hours, 35 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Restore OpenGL state modified by fl_compositor_opengl_present_layers
+  <sub>[#178697](https://github.com/flutter/flutter/pull/178697) merged on November 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178697) over 18 hours, 67 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub>
+
 * **[Pierre](https://github.com/guidezpl)** &mdash; Add missing flutter_lints dev dependencies
   <sub>[#178105](https://github.com/flutter/flutter/pull/178105) merged on November 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178105) over 1 week, 4 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -68,6 +72,14 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration
   <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Further cleanup of proxy logic
+  <sub>[#178683](https://github.com/flutter/flutter/pull/178683) merged on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178683) over 22 hours, 29 additions and 32 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `equals("")` with `isEmpty` in `SpellCheckPlugin.java‎`
+  <sub>[#178596](https://github.com/flutter/flutter/pull/178596) merged on November 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178596) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable UIScene Migration and update create templates
   <sub>[#178700](https://github.com/flutter/flutter/pull/178700) merged on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178700) over 14 hours, 176 additions and 22 deletions in 16 files</sub>
@@ -995,7 +1007,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-13 commits.
+16 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub>
@@ -1009,6 +1021,18 @@
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Simplify design systems section on widget catalog index page
+  <sub>[#12711](https://github.com/flutter/website/pull/12711) merged on November 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12711) over 17 hours, 18 additions and 19 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Adjust cards on index page
+  <sub>[#12710](https://github.com/flutter/website/pull/12710) merged on November 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12710) over 17 hours, 17 additions and 19 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Adjust and format GenUI SDK docs
+  <sub>[#12721](https://github.com/flutter/website/pull/12721) merged on November 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12721) over 9 minutes, 188 additions and 93 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update AI rules by environment table
   <sub>[#12718](https://github.com/flutter/website/pull/12718) merged on November 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12718) over 46 minutes, 36 additions and 24 deletions in 1 file</sub>
