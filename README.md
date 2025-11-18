@@ -127,13 +127,13 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1509" height="649" alt="diff" src="https://github.com/user-attachments/assets/cd961ddc-3b79-4ffd-8e9a-a806d5743f17" /></details></sub>
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add a11y for loading indicators<br />
-  <sub>[#165173](https://github.com/flutter/flutter/pull/165173) merged on November 11, 2025 &mdash; **Large:** [54 comments](https://github.com/flutter/flutter/pull/165173) over 8 months, 501 additions and 35 deletions in 27 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [zhongliugo](https://github.com/flutter-zl)</sub><br />
-
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [Animation] Add granular frame forcing to animations<br />
   <sub>[#173862](https://github.com/flutter/flutter/pull/173862) merged on November 11, 2025 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/173862) over 2 months, 559 additions and 23 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add a11y for loading indicators<br />
+  <sub>[#165173](https://github.com/flutter/flutter/pull/165173) merged on November 11, 2025 &mdash; **Large:** [54 comments](https://github.com/flutter/flutter/pull/165173) over 8 months, 501 additions and 35 deletions in 27 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [zhongliugo](https://github.com/flutter-zl)</sub><br />
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Add focus support for CupertinoActionSheetAction #166398<br />
   <sub>[#167119](https://github.com/flutter/flutter/pull/167119) merged on November 12, 2025 &mdash; **Large:** [98 comments](https://github.com/flutter/flutter/pull/167119) over 7 months, 976 additions and 59 deletions in 5 files</sub><br />
