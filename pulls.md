@@ -32,9 +32,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
-* **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
-  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/176832) 11 additions and 20 deletions in 2 files</sub><br />
-
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Pass EXCLUDED_ARCHS from Xcode project to xcodebuild for macOS builds<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176948) 138 additions and 3 deletions in 3 files</sub><br />
 
@@ -151,4 +148,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoContextMenu doesn't crash in 0x0 environment<br />
   <sub>[#178722](https://github.com/flutter/flutter/pull/178722) opened on on November 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178722) 17 additions and 1 deletion in 2 files</sub><br />
+
+* **[Youssef Shamass](https://github.com/yshamass9)** &mdash; [ Tool ] Assemble: Improper validation error when dealing with base64 encoded dart-define value <br />
+  <sub>[#178737](https://github.com/flutter/flutter/pull/178737) opened on on November 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178737) 39 additions and 11 deletions in 2 files</sub><br />
 

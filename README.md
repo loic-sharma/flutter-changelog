@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-25 commits.
+26 commits.
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
   <sub>[#177570](https://github.com/flutter/flutter/pull/177570) merged on November 18, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/177570) over 3 weeks, 214 additions and 65 deletions in 9 files</sub><br />
@@ -36,6 +36,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable UIScene Migration and update create templates<br />
   <sub>[#178328](https://github.com/flutter/flutter/pull/178328) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178328) over 5 days, 127 additions and 22 deletions in 15 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
+  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) merged on November 18, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/176832) over 1 month, 11 additions and 20 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Corrects invalid Flutter wiki links<br />
   <sub>[#178158](https://github.com/flutter/flutter/pull/178158) merged on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178158) over 1 week, 25 additions and 25 deletions in 11 files</sub><br />
@@ -979,12 +983,16 @@
 
 ### November 15, 2025 to November 21, 2025
 
-9 commits.
+10 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks<br />
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
   <sub><details><summary>3 images...</summary><img width="913" height="364" alt="Bildschirmfoto 2025-11-13 um 13 13 29" src="https://github.com/user-attachments/assets/ee555fe4-8a4a-4fe1-9ee3-bf441a184d86" /><img width="912" height="743" alt="Bildschirmfoto 2025-11-13 um 13 13 40" src="https://github.com/user-attachments/assets/f5580204-3e2f-473d-81df-b74209a52bbb" /><img width="910" height="756" alt="Bildschirmfoto 2025-11-13 um 13 14 02" src="https://github.com/user-attachments/assets/14bd0c6b-b7b9-49d9-8b30-94b7eda32f1f" /></details></sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; GenUI for SDK docs<br />
+  <sub>[#12696](https://github.com/flutter/website/pull/12696) merged on November 18, 2025 &mdash; **Large:** [33 comments](https://github.com/flutter/website/pull/12696) over 3 days, 720 additions and 6 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup<br />
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub><br />
