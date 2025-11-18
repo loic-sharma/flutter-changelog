@@ -991,7 +991,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-11 commits.
+13 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks<br />
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub><br />
@@ -1005,6 +1005,14 @@
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup<br />
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update AI rules by environment table<br />
+  <sub>[#12718](https://github.com/flutter/website/pull/12718) merged on November 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12718) over 46 minutes, 36 additions and 24 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Rely on `dart pub add` in GenUI getting started<br />
+  <sub>[#12720](https://github.com/flutter/website/pull/12720) merged on November 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12720) over 14 minutes, 12 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Fix links on FWE index page<br />
   <sub>[#12707](https://github.com/flutter/website/pull/12707) merged on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12707) over 12 minutes, 21 additions and 17 deletions in 1 file</sub><br />
