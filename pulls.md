@@ -152,3 +152,9 @@
 * **[walley892](https://github.com/walley892)** &mdash; Only call glCheckFrameBufferStatus in the render pass in debug builds<br />
   <sub>[#178707](https://github.com/flutter/flutter/pull/178707) opened on on November 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178707) 31 additions and 3 deletions in 4 files</sub><br />
 
+* **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; [ Tool ] Add support riscv64 architecture<br />
+  <sub>[#178711](https://github.com/flutter/flutter/pull/178711) opened on on November 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178711) 75 additions and 7 deletions in 21 files</sub><br />
+
+* **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178712) 171 additions and 2 deletions in 6 files</sub><br />
+
