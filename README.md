@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-22 commits.
+23 commits.
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
   <sub>[#177570](https://github.com/flutter/flutter/pull/177570) merged on November 18, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/177570) over 3 weeks, 214 additions and 65 deletions in 9 files</sub><br />
@@ -18,6 +18,11 @@
   <sub>[#178465](https://github.com/flutter/flutter/pull/178465) merged on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178465) over 4 days, 43 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
   <sub><details><summary>2 images...</summary><img width="225" height="63" alt="Image" src="https://github.com/user-attachments/assets/47dbec7d-c59c-4379-8f22-792c844f6ac4" /><img width="225" height="63" alt="Image" src="https://github.com/user-attachments/assets/d4223e56-2b3f-4e12-893a-284ceb3b8ea4" /></details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor SnackBar behavior selection example to use `RadioGroup`<br />
+  <sub>[#178618](https://github.com/flutter/flutter/pull/178618) merged on November 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178618) over 1 day, 21 additions and 25 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Huy](https://github.com/huycozy)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="951" height="141" alt="Screenshot 2025-11-16 at 22 02 12" src="https://github.com/user-attachments/assets/3aae6cfe-b5f4-41d9-a1f5-4a658894a007" /></details></sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix LateInitializationError in didChangeTextScaleFactor code example.<br />
   <sub>[#178375](https://github.com/flutter/flutter/pull/178375) merged on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178375) over 5 days, 10 additions and 5 deletions in 1 file</sub><br />
