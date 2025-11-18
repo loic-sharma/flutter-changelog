@@ -771,7 +771,11 @@
 
 ### November 15, 2025 to November 21, 2025
 
-3 commits.
+4 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove `dart:html` and `drawImageScaled` usages
+  <sub>[#10411](https://github.com/flutter/packages/pull/10411) merged on November 18, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10411) over 5 days, 18 additions and 14 deletions in 11 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update all packages to Pigeon 26
   <sub>[#10450](https://github.com/flutter/packages/pull/10450) merged on November 17, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10450) over 1 hour, 7840 additions and 1147 deletions in 168 files</sub>
