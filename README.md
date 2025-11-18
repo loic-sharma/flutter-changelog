@@ -4,7 +4,11 @@
 
 ### November 15, 2025 to November 21, 2025
 
-21 commits.
+22 commits.
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
+  <sub>[#177570](https://github.com/flutter/flutter/pull/177570) merged on November 18, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/177570) over 3 weeks, 214 additions and 65 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make a11y `computeChildGeometry` slightly faster<br />
   <sub>[#177477](https://github.com/flutter/flutter/pull/177477) merged on November 17, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/177477) over 3 weeks, 191 additions and 186 deletions in 5 files</sub><br />
