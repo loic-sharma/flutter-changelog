@@ -33,7 +33,7 @@
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.<br />
-  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/176832) 11 additions and 20 deletions in 2 files</sub><br />
+  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) opened on on October 10, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/176832) 11 additions and 20 deletions in 2 files</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Pass EXCLUDED_ARCHS from Xcode project to xcodebuild for macOS builds<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) opened on on October 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176948) 138 additions and 3 deletions in 3 files</sub><br />
@@ -96,7 +96,7 @@
   <sub>[#178523](https://github.com/flutter/flutter/pull/178523) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178523) 70 additions and 20 deletions in 4 files</sub><br />
 
 * **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale<br />
-  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178526) 55 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178526) 56 additions and 0 deletions in 2 files</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: check both pointer count and action before reusing MotionEvent<br />
   <sub>[#178528](https://github.com/flutter/flutter/pull/178528) opened on on November 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178528) 112 additions and 8 deletions in 2 files</sub><br />
@@ -118,9 +118,6 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoButton doesn't crash in 0x0 environment<br />
   <sub>[#178629](https://github.com/flutter/flutter/pull/178629) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178629) 13 additions and 0 deletions in 1 file</sub><br />
-
-* **[Huy](https://github.com/huycozy)** &mdash; Fix deprecation warning in some API examples using RadioListTile<br />
-  <sub>[#178635](https://github.com/flutter/flutter/pull/178635) opened on on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178635) 66 additions and 82 deletions in 3 files</sub><br />
 
 * **[Jon Mountjoy](https://github.com/jonmountjoy)** &mdash; Add RouteSettings to showCupertinoSheet<br />
   <sub>[#178643](https://github.com/flutter/flutter/pull/178643) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178643) 78 additions and 4 deletions in 2 files</sub><br />
@@ -147,7 +144,7 @@
   <sub>[#178688](https://github.com/flutter/flutter/pull/178688) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178688) 72 additions and 77 deletions in 40 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Restore OpenGL state modified by fl_compositor_opengl_present_layers<br />
-  <sub>[#178697](https://github.com/flutter/flutter/pull/178697) opened on on November 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178697) 67 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#178697](https://github.com/flutter/flutter/pull/178697) opened on on November 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178697) 67 additions and 4 deletions in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable UIScene Migration and update create templates<br />
   <sub>[#178700](https://github.com/flutter/flutter/pull/178700) opened on on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178700) 176 additions and 22 deletions in 16 files</sub><br />

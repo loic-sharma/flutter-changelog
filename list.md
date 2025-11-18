@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-20 commits.
+21 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make a11y `computeChildGeometry` slightly faster
   <sub>[#177477](https://github.com/flutter/flutter/pull/177477) merged on November 17, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/177477) over 3 weeks, 191 additions and 186 deletions in 5 files</sub>
@@ -39,6 +39,10 @@
 * **[sutes-work](https://github.com/sutes-work)** &mdash; [fuchsia] Add wrapper for zx_iob_writev
   <sub>[#178626](https://github.com/flutter/flutter/pull/178626) merged on November 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178626) over 20 hours, 35 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix deprecation warning in some API examples using RadioListTile
+  <sub>[#178635](https://github.com/flutter/flutter/pull/178635) merged on November 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178635) over 16 hours, 66 additions and 82 deletions in 3 files</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Roll customer tests
   <sub>[#178652](https://github.com/flutter/flutter/pull/178652) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178652) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
