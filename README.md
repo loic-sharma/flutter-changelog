@@ -4,7 +4,11 @@
 
 ### November 15, 2025 to November 21, 2025
 
-18 commits.
+19 commits.
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make a11y `computeChildGeometry` slightly faster<br />
+  <sub>[#177477](https://github.com/flutter/flutter/pull/177477) merged on November 17, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/177477) over 3 weeks, 191 additions and 186 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu width when decorationBuilder provides label<br />
   <sub>[#178465](https://github.com/flutter/flutter/pull/178465) merged on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178465) over 4 days, 43 additions and 2 deletions in 2 files</sub><br />
