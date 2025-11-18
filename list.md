@@ -779,7 +779,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-5 commits.
+6 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove `dart:html` and `drawImageScaled` usages
   <sub>[#10411](https://github.com/flutter/packages/pull/10411) merged on November 18, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10411) over 5 days, 18 additions and 14 deletions in 11 files</sub>
@@ -792,6 +792,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Split dependabot gradle plugin
   <sub>[#10454](https://github.com/flutter/packages/pull/10454) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10454) over 40 minutes, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [pigeon] Update analyzer range to 8-9
+  <sub>[#10466](https://github.com/flutter/packages/pull/10466) merged on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10466) over 33 minutes, 18 additions and 17 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [in_app_purchase] Rename Swift Pigeon output file
   <sub>[#10465](https://github.com/flutter/packages/pull/10465) merged on November 18, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10465) over 59 minutes, 38 additions and 39 deletions in 2 files</sub>
