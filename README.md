@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-24 commits.
+25 commits.
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
   <sub>[#177570](https://github.com/flutter/flutter/pull/177570) merged on November 18, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/177570) over 3 weeks, 214 additions and 65 deletions in 9 files</sub><br />
@@ -100,6 +100,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Reduce Skwasm test shards to 2<br />
   <sub>[#178239](https://github.com/flutter/flutter/pull/178239) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178239) over 1 week, 8 additions and 150 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Revert "[ Tool ] Don't delete `.dart_tool/widget_preview_scaffold` during `flutter clean` (#175664)"<br />
+  <sub>[#178672](https://github.com/flutter/flutter/pull/178672) merged on November 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178672) over 13 hours, 45 additions and 96 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Separate copying dsym into its own target (#178261)"<br />
   <sub>[#178545](https://github.com/flutter/flutter/pull/178545) merged on November 17, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178545) over 2 days, 118 additions and 245 deletions in 8 files</sub><br />
