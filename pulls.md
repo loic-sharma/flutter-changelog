@@ -152,3 +152,6 @@
 * **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
   <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/178701) 176 additions and 1 deletion in 2 files</sub><br />
 
+* **[walley892](https://github.com/walley892)** &mdash; Only call glCheckFrameBufferStatus in the render pass in debug builds<br />
+  <sub>[#178707](https://github.com/flutter/flutter/pull/178707) opened on on November 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178707) 29 additions and 3 deletions in 4 files</sub><br />
+
