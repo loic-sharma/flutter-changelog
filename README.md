@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-19 commits.
+20 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make a11y `computeChildGeometry` slightly faster<br />
   <sub>[#177477](https://github.com/flutter/flutter/pull/177477) merged on November 17, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/177477) over 3 weeks, 191 additions and 186 deletions in 5 files</sub><br />
@@ -35,6 +35,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `widget_preview_scaffold/.dart_tool` doesn't exist<br />
   <sub>[#178662](https://github.com/flutter/flutter/pull/178662) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178662) over 2 hours, 51 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+
+* **[sutes-work](https://github.com/sutes-work)** &mdash; [fuchsia] Add wrapper for zx_iob_writev<br />
+  <sub>[#178626](https://github.com/flutter/flutter/pull/178626) merged on November 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178626) over 20 hours, 35 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Roll customer tests<br />
   <sub>[#178652](https://github.com/flutter/flutter/pull/178652) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178652) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
