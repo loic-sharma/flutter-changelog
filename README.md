@@ -987,7 +987,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-10 commits.
+11 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks<br />
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub><br />
@@ -1009,6 +1009,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraint for stable 3.38 release<br />
   <sub>[#12701](https://github.com/flutter/website/pull/12701) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12701) over 20 hours, 149 additions and 149 deletions in 149 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Amos](https://github.com/AmosHuKe)** &mdash; fix: generate '/f/devtools-releases.json' on the Windows platform<br />
+  <sub>[#12716](https://github.com/flutter/website/pull/12716) merged on November 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12716) over 1 hour, 11 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fixing a misdirected link in the scrolling page<br />
   <sub>[#12706](https://github.com/flutter/website/pull/12706) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12706) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
