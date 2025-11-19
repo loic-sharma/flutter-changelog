@@ -110,9 +110,6 @@
 * **[Jon Mountjoy](https://github.com/jonmountjoy)** &mdash; Add RouteSettings to showCupertinoSheet<br />
   <sub>[#178643](https://github.com/flutter/flutter/pull/178643) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178643) 78 additions and 4 deletions in 2 files</sub><br />
 
-* **[Aleksey Kornienko](https://github.com/inself)** &mdash; Allow release and profile mode builds on iOS Simulator<br />
-  <sub>[#178650](https://github.com/flutter/flutter/pull/178650) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178650) 66 additions and 20 deletions in 6 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
   <sub>[#178666](https://github.com/flutter/flutter/pull/178666) opened on on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178666) 87 additions and 87 deletions in 10 files</sub><br />
 
