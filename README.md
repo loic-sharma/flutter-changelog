@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-32 commits.
+33 commits.
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
   <sub>[#177570](https://github.com/flutter/flutter/pull/177570) merged on November 18, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/177570) over 3 weeks, 214 additions and 65 deletions in 9 files</sub><br />
@@ -72,6 +72,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration<br />
   <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelector doesn't crash in 0x0 environment<br />
+  <sub>[#178156](https://github.com/flutter/flutter/pull/178156) merged on November 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178156) over 1 week, 16 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanup in `DeferredComponentManager.java‎`<br />
   <sub>[#178585](https://github.com/flutter/flutter/pull/178585) merged on November 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/178585) over 3 days, 10 additions and 9 deletions in 1 file</sub><br />
