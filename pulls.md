@@ -81,7 +81,7 @@
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; Fix Windows Enter key after focus loss<br />
-  <sub>[#178523](https://github.com/flutter/flutter/pull/178523) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178523) 70 additions and 20 deletions in 4 files</sub><br />
+  <sub>[#178523](https://github.com/flutter/flutter/pull/178523) opened on on November 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178523) 70 additions and 20 deletions in 4 files</sub><br />
 
 * **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale<br />
   <sub>[#178526](https://github.com/flutter/flutter/pull/178526) opened on on November 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178526) 61 additions and 1 deletion in 2 files</sub><br />
@@ -116,12 +116,12 @@
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics<br />
-  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) opened on on November 19, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178817) 335 additions and 66 deletions in 14 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Skip flaky service worker test<br />
   <sub>[#178820](https://github.com/flutter/flutter/pull/178820) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178820) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Improve Container color/decoration error message clarity<br />
   <sub>[#178823](https://github.com/flutter/flutter/pull/178823) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178823) 3 additions and 2 deletions in 1 file</sub><br />
+
+* **[Илия](https://github.com/777genius)** &mdash; Add contentTextStyle support to SimpleDialog<br />
+  <sub>[#178824](https://github.com/flutter/flutter/pull/178824) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178824) 18 additions and 2 deletions in 1 file</sub><br />
 
