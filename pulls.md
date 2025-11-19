@@ -132,7 +132,7 @@
   <sub>[#178686](https://github.com/flutter/flutter/pull/178686) opened on on November 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/178686) 39947 additions and 0 deletions in 130 files</sub><br />
 
 * **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
-  <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178701) 176 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/178701) 176 additions and 1 deletion in 2 files</sub><br />
 
 * **[walley892](https://github.com/walley892)** &mdash; Only call glCheckFrameBufferStatus in the render pass in debug builds<br />
   <sub>[#178707](https://github.com/flutter/flutter/pull/178707) opened on on November 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178707) 31 additions and 3 deletions in 4 files</sub><br />
