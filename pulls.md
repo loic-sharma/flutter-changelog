@@ -105,7 +105,7 @@
   <sub>[#178643](https://github.com/flutter/flutter/pull/178643) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178643) 78 additions and 4 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
-  <sub>[#178666](https://github.com/flutter/flutter/pull/178666) opened on on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178666) 87 additions and 87 deletions in 10 files</sub><br />
+  <sub>[#178666](https://github.com/flutter/flutter/pull/178666) opened on on November 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178666) 86 additions and 86 deletions in 10 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; remove unnecessary virtual destructor from VertexDescriptor<br />
   <sub>[#178682](https://github.com/flutter/flutter/pull/178682) opened on on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178682) 1 addition and 1 deletion in 1 file</sub><br />
@@ -119,9 +119,6 @@
 * **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
   <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/178701) 176 additions and 1 deletion in 2 files</sub><br />
 
-* **[walley892](https://github.com/walley892)** &mdash; Only call glCheckFrameBufferStatus in the render pass in debug builds<br />
-  <sub>[#178707](https://github.com/flutter/flutter/pull/178707) opened on on November 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178707) 31 additions and 3 deletions in 4 files</sub><br />
-
 * **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; [ Tool ] Add support riscv64 architecture<br />
   <sub>[#178711](https://github.com/flutter/flutter/pull/178711) opened on on November 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178711) 76 additions and 10 deletions in 22 files</sub><br />
 
@@ -131,9 +128,9 @@
 * **[Youssef Shamass](https://github.com/yshamass9)** &mdash; [ Tool ] Assemble: "Improper" validation error when dealing with base64 encoded dart-define value <br />
   <sub>[#178737](https://github.com/flutter/flutter/pull/178737) opened on on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178737) 39 additions and 11 deletions in 2 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Fix dialog dismissal and platform view pointer events via hitTestBehavior<br />
-  <sub>[#178778](https://github.com/flutter/flutter/pull/178778) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178778) 171 additions and 1 deletion in 8 files</sub><br />
-
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics<br />
+  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178817) 253 additions and 6 deletions in 12 files</sub><br />
 
