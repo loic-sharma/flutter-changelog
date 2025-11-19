@@ -143,3 +143,6 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Fix dialog dismissal and platform view pointer events via hitTestBehavior<br />
   <sub>[#178778](https://github.com/flutter/flutter/pull/178778) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178778) 169 additions and 45 deletions in 9 files</sub><br />
 
+* **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
+  <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
+
