@@ -80,9 +80,6 @@
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Potentially fixing the flakiness in win32 windowing tests, but it needs some running<br />
-  <sub>[#178499](https://github.com/flutter/flutter/pull/178499) opened on on November 13, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/178499) 242 additions and 156 deletions in 2 files</sub><br />
-
 * **[DoLT](https://github.com/letrungdo)** &mdash; Fix Windows Enter key after focus loss<br />
   <sub>[#178523](https://github.com/flutter/flutter/pull/178523) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178523) 70 additions and 20 deletions in 4 files</sub><br />
 
@@ -91,9 +88,6 @@
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: check both pointer count and action before reusing MotionEvent<br />
   <sub>[#178528](https://github.com/flutter/flutter/pull/178528) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178528) 112 additions and 8 deletions in 2 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `_CircularProgressIndicatorState` to use `transform` directly<br />
-  <sub>[#178569](https://github.com/flutter/flutter/pull/178569) opened on on November 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178569) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15<br />
   <sub>[#178601](https://github.com/flutter/flutter/pull/178601) opened on on November 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178601) 9 additions and 2 deletions in 8 files</sub><br />
@@ -123,7 +117,7 @@
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics<br />
-  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) opened on on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178817) 259 additions and 6 deletions in 13 files</sub><br />
+  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) opened on on November 19, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178817) 335 additions and 66 deletions in 14 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Skip flaky service worker test<br />
   <sub>[#178820](https://github.com/flutter/flutter/pull/178820) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178820) 2 additions and 1 deletion in 1 file</sub><br />
