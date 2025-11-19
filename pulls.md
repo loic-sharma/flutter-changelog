@@ -146,3 +146,6 @@
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use WidgetsBinding.instance.platformDispatcher in windowing instead of PlatformDispatcher.instance<br />
+  <sub>[#178799](https://github.com/flutter/flutter/pull/178799) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178799) 26 additions and 18 deletions in 3 files</sub><br />
+
