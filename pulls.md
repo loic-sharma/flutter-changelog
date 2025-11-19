@@ -123,5 +123,5 @@
   <sub>[#178823](https://github.com/flutter/flutter/pull/178823) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178823) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Add contentTextStyle support to SimpleDialog<br />
-  <sub>[#178824](https://github.com/flutter/flutter/pull/178824) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178824) 18 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#178824](https://github.com/flutter/flutter/pull/178824) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178824) 34 additions and 2 deletions in 2 files</sub><br />
 
