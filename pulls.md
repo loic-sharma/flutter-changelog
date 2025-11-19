@@ -129,5 +129,5 @@
   <sub>[#178826](https://github.com/flutter/flutter/pull/178826) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178826) 78 additions and 2 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the documentation of `Card`<br />
-  <sub>[#178834](https://github.com/flutter/flutter/pull/178834) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178834) 22 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#178834](https://github.com/flutter/flutter/pull/178834) opened on on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178834) 22 additions and 6 deletions in 1 file</sub><br />
 
