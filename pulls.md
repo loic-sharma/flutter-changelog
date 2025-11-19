@@ -125,3 +125,6 @@
 * **[Илия](https://github.com/777genius)** &mdash; Add contentTextStyle support to SimpleDialog<br />
   <sub>[#178824](https://github.com/flutter/flutter/pull/178824) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178824) 34 additions and 2 deletions in 2 files</sub><br />
 
+* **[Илия](https://github.com/777genius)** &mdash; Fix #117755: Fix divider color inconsistencies in M2/M3<br />
+  <sub>[#178826](https://github.com/flutter/flutter/pull/178826) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178826) 70 additions and 2 deletions in 2 files</sub><br />
+
