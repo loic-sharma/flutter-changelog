@@ -811,7 +811,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-7 commits.
+8 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove `dart:html` and `drawImageScaled` usages<br />
   <sub>[#10411](https://github.com/flutter/packages/pull/10411) merged on November 18, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10411) over 5 days, 18 additions and 14 deletions in 11 files</sub><br />
@@ -820,6 +820,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update all packages to Pigeon 26<br />
   <sub>[#10450](https://github.com/flutter/packages/pull/10450) merged on November 17, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10450) over 1 hour, 7840 additions and 1147 deletions in 168 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; [rfw] Update broken links in rfw's README.md<br />
+  <sub>[#9796](https://github.com/flutter/packages/pull/9796) merged on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9796) over 3 months, 7 additions and 6 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Split dependabot gradle plugin<br />
   <sub>[#10454](https://github.com/flutter/packages/pull/10454) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10454) over 40 minutes, 3 additions and 1 deletion in 1 file</sub><br />
