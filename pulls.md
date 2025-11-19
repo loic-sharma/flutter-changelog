@@ -122,6 +122,12 @@
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics<br />
+  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) opened on on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178817) 259 additions and 6 deletions in 13 files</sub><br />
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Skip flaky service worker test<br />
   <sub>[#178820](https://github.com/flutter/flutter/pull/178820) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178820) 2 additions and 1 deletion in 1 file</sub><br />
+
+* **[Илия](https://github.com/777genius)** &mdash; Improve Container color/decoration error message clarity<br />
+  <sub>[#178823](https://github.com/flutter/flutter/pull/178823) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178823) 3 additions and 2 deletions in 1 file</sub><br />
 
