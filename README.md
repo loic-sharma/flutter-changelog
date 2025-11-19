@@ -811,7 +811,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-8 commits.
+9 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove `dart:html` and `drawImageScaled` usages<br />
   <sub>[#10411](https://github.com/flutter/packages/pull/10411) merged on November 18, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10411) over 5 days, 18 additions and 14 deletions in 11 files</sub><br />
@@ -820,6 +820,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update all packages to Pigeon 26<br />
   <sub>[#10450](https://github.com/flutter/packages/pull/10450) merged on November 17, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10450) over 1 hour, 7840 additions and 1147 deletions in 168 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera] Remove deprecated feature from Windows example<br />
+  <sub>[#10380](https://github.com/flutter/packages/pull/10380) merged on November 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10380) over 1 week, 20 additions and 67 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; [rfw] Update broken links in rfw's README.md<br />
   <sub>[#9796](https://github.com/flutter/packages/pull/9796) merged on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/9796) over 3 months, 7 additions and 6 deletions in 3 files</sub><br />
