@@ -147,5 +147,5 @@
   <sub>[#178773](https://github.com/flutter/flutter/pull/178773) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178773) 20 additions and 1 deletion in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Fix dialog dismissal and platform view pointer events via hitTestBehavior<br />
-  <sub>[#178778](https://github.com/flutter/flutter/pull/178778) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178778) 169 additions and 45 deletions in 9 files</sub><br />
+  <sub>[#178778](https://github.com/flutter/flutter/pull/178778) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178778) 163 additions and 1 deletion in 7 files</sub><br />
 
