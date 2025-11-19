@@ -791,7 +791,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-6 commits.
+7 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove `dart:html` and `drawImageScaled` usages<br />
   <sub>[#10411](https://github.com/flutter/packages/pull/10411) merged on November 18, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10411) over 5 days, 18 additions and 14 deletions in 11 files</sub><br />
@@ -804,6 +804,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Split dependabot gradle plugin<br />
   <sub>[#10454](https://github.com/flutter/packages/pull/10454) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10454) over 40 minutes, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Upgrade AGP to 8.9.1<br />
+  <sub>[#10458](https://github.com/flutter/packages/pull/10458) merged on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10458) over 1 day, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [pigeon] Update analyzer range to 8-9<br />
   <sub>[#10466](https://github.com/flutter/packages/pull/10466) merged on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10466) over 33 minutes, 18 additions and 17 deletions in 5 files</sub><br />
