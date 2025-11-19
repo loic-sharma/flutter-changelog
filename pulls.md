@@ -11,9 +11,6 @@
 * **[Mo Luo](https://github.com/moluopro)** &mdash; Fix: use 'exit' instead of 'return' for curlExitCode<br />
   <sub>[#175025](https://github.com/flutter/flutter/pull/175025) opened on on September 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175025) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Initial Impeller on Web implementation.<br />
-  <sub>[#175442](https://github.com/flutter/flutter/pull/175442) opened on on September 16, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/175442) 1366 additions and 759 deletions in 54 files</sub><br />
-
 * **[eevanlai-stack](https://github.com/eevanlai-stack)** &mdash; Create devcontainer.json<br />
   <sub>[#175475](https://github.com/flutter/flutter/pull/175475) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175475) 18 additions and 0 deletions in 1 file</sub><br />
 
@@ -126,7 +123,7 @@
   <sub>[#178707](https://github.com/flutter/flutter/pull/178707) opened on on November 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178707) 31 additions and 3 deletions in 4 files</sub><br />
 
 * **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; [ Tool ] Add support riscv64 architecture<br />
-  <sub>[#178711](https://github.com/flutter/flutter/pull/178711) opened on on November 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178711) 76 additions and 10 deletions in 22 files</sub><br />
+  <sub>[#178711](https://github.com/flutter/flutter/pull/178711) opened on on November 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178711) 76 additions and 10 deletions in 22 files</sub><br />
 
 * **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
