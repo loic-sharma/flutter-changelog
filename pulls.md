@@ -140,9 +140,6 @@
 * **[Youssef Shamass](https://github.com/yshamass9)** &mdash; [ Tool ] Assemble: "Improper" validation error when dealing with base64 encoded dart-define value <br />
   <sub>[#178737](https://github.com/flutter/flutter/pull/178737) opened on on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178737) 39 additions and 11 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoFocusHalo doesn't crash in 0x0 environment<br />
-  <sub>[#178773](https://github.com/flutter/flutter/pull/178773) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178773) 20 additions and 1 deletion in 2 files</sub><br />
-
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Fix dialog dismissal and platform view pointer events via hitTestBehavior<br />
   <sub>[#178778](https://github.com/flutter/flutter/pull/178778) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178778) 169 additions and 45 deletions in 9 files</sub><br />
 
