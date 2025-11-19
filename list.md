@@ -815,7 +815,11 @@
 
 ### November 15, 2025 to November 21, 2025
 
-9 commits.
+10 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds github action for creating batch release
+  <sub>[#10298](https://github.com/flutter/packages/pull/10298) merged on November 19, 2025 &mdash; **Large:** [100 comments](https://github.com/flutter/packages/pull/10298) over 3 weeks, 1092 additions and 1 deletion in 8 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove `dart:html` and `drawImageScaled` usages
   <sub>[#10411](https://github.com/flutter/packages/pull/10411) merged on November 18, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10411) over 5 days, 18 additions and 14 deletions in 11 files</sub>
@@ -1043,7 +1047,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-16 commits.
+17 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub>
@@ -1085,6 +1089,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraint for stable 3.38 release
   <sub>[#12701](https://github.com/flutter/website/pull/12701) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12701) over 20 hours, 149 additions and 149 deletions in 149 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding info about genui_a2ui
+  <sub>[#12722](https://github.com/flutter/website/pull/12722) merged on November 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12722) over 19 hours, 241 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[Amos](https://github.com/AmosHuKe)** &mdash; fix: generate '/f/devtools-releases.json' on the Windows platform
   <sub>[#12716](https://github.com/flutter/website/pull/12716) merged on November 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12716) over 1 hour, 11 additions and 5 deletions in 1 file</sub>

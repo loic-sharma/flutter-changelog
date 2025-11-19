@@ -135,5 +135,5 @@
   <sub>[#178817](https://github.com/flutter/flutter/pull/178817) opened on on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178817) 259 additions and 6 deletions in 13 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Skip flaky service worker test<br />
-  <sub>[#178820](https://github.com/flutter/flutter/pull/178820) opened on on November 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178820) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#178820](https://github.com/flutter/flutter/pull/178820) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178820) 2 additions and 1 deletion in 1 file</sub><br />
 
