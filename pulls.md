@@ -132,5 +132,5 @@
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics<br />
-  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) opened on on November 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178817) 253 additions and 6 deletions in 12 files</sub><br />
+  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) opened on on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178817) 253 additions and 6 deletions in 12 files</sub><br />
 
