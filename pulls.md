@@ -107,9 +107,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[Flutter Painter](https://github.com/flutter-painter)** &mdash; Add native support for x43 languages<br />
-  <sub>[#178686](https://github.com/flutter/flutter/pull/178686) opened on on November 17, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/178686) 39947 additions and 0 deletions in 130 files</sub><br />
-
 * **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
   <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/178701) 176 additions and 1 deletion in 2 files</sub><br />
 
@@ -124,9 +121,6 @@
 
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
-
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics<br />
-  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) opened on on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178817) 259 additions and 6 deletions in 13 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Skip flaky service worker test<br />
   <sub>[#178820](https://github.com/flutter/flutter/pull/178820) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178820) 2 additions and 1 deletion in 1 file</sub><br />

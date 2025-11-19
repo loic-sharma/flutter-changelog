@@ -1047,7 +1047,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-17 commits.
+18 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks<br />
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub><br />
@@ -1061,6 +1061,10 @@
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup<br />
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix formatting of some code alongside image cases<br />
+  <sub>[#12723](https://github.com/flutter/website/pull/12723) merged on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12723) over 16 hours, 73 additions and 74 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Simplify design systems section on widget catalog index page<br />
   <sub>[#12711](https://github.com/flutter/website/pull/12711) merged on November 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12711) over 17 hours, 18 additions and 19 deletions in 2 files</sub><br />
