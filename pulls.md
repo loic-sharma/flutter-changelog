@@ -132,5 +132,5 @@
   <sub>[#178837](https://github.com/flutter/flutter/pull/178837) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178837) 36 additions and 11 deletions in 2 files</sub><br />
 
 * **[Aleksey Kornienko](https://github.com/inself)** &mdash; Allow release and profile mode builds on iOS Simulator<br />
-  <sub>[#178854](https://github.com/flutter/flutter/pull/178854) opened on on November 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178854) 65 additions and 19 deletions in 5 files</sub><br />
+  <sub>[#178854](https://github.com/flutter/flutter/pull/178854) opened on on November 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178854) 107 additions and 54 deletions in 5 files</sub><br />
 
