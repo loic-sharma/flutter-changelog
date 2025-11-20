@@ -1099,7 +1099,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-23 commits.
+24 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks<br />
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub><br />
@@ -1125,6 +1125,10 @@
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup<br />
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix a few unmigrated Liquid usages<br />
+  <sub>[#12708](https://github.com/flutter/website/pull/12708) merged on November 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12708) over 2 days, 24 additions and 17 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix embedded videos on implicit animation page<br />
   <sub>[#12709](https://github.com/flutter/website/pull/12709) merged on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12709) over 1 day, 26 additions and 14 deletions in 2 files</sub><br />
