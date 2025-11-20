@@ -126,7 +126,7 @@
   <sub>[#178826](https://github.com/flutter/flutter/pull/178826) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178826) 78 additions and 2 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the documentation of `Card`<br />
-  <sub>[#178834](https://github.com/flutter/flutter/pull/178834) opened on on November 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178834) 32 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#178834](https://github.com/flutter/flutter/pull/178834) opened on on November 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178834) 32 additions and 9 deletions in 1 file</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove geometry calculation shortcircuit<br />
   <sub>[#178837](https://github.com/flutter/flutter/pull/178837) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178837) 36 additions and 11 deletions in 2 files</sub><br />
