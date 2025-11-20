@@ -851,7 +851,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-12 commits.
+14 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Convert iOS/macOS to FFI package<br />
   <sub>[#9762](https://github.com/flutter/packages/pull/9762) merged on November 20, 2025 &mdash; **Extra large:** [28 comments](https://github.com/flutter/packages/pull/9762) over 3 months, 1414 additions and 916 deletions in 26 files</sub><br />
@@ -880,6 +880,14 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Split dependabot gradle plugin<br />
   <sub>[#10454](https://github.com/flutter/packages/pull/10454) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10454) over 40 minutes, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Replace deprecated Color.value<br />
+  <sub>[#10480](https://github.com/flutter/packages/pull/10480) merged on November 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10480) over 4 hours, 27 additions and 14 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Replace deprecated color APIs in platform interface<br />
+  <sub>[#10477](https://github.com/flutter/packages/pull/10477) merged on November 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10477) over 5 hours, 28 additions and 21 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Upgrade AGP to 8.9.1<br />
   <sub>[#10458](https://github.com/flutter/packages/pull/10458) merged on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10458) over 1 day, 4 additions and 4 deletions in 3 files</sub><br />
