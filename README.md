@@ -851,7 +851,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-14 commits.
+15 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Convert iOS/macOS to FFI package<br />
   <sub>[#9762](https://github.com/flutter/packages/pull/9762) merged on November 20, 2025 &mdash; **Extra large:** [28 comments](https://github.com/flutter/packages/pull/9762) over 3 months, 1414 additions and 916 deletions in 26 files</sub><br />
@@ -880,6 +880,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Split dependabot gradle plugin<br />
   <sub>[#10454](https://github.com/flutter/packages/pull/10454) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10454) over 40 minutes, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes compilation error with unbounded type parameter for InstanceManager<br />
+  <sub>[#10483](https://github.com/flutter/packages/pull/10483) merged on November 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10483) over 4 hours, 39 additions and 5 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Replace deprecated Color.value<br />
   <sub>[#10480](https://github.com/flutter/packages/pull/10480) merged on November 20, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10480) over 4 hours, 27 additions and 14 deletions in 13 files</sub><br />
