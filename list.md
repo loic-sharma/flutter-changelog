@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-42 commits.
+43 commits.
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute
   <sub>[#177570](https://github.com/flutter/flutter/pull/177570) merged on November 18, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/177570) over 3 weeks, 214 additions and 65 deletions in 9 files</sub>
@@ -57,25 +57,29 @@
   <sub>[#178662](https://github.com/flutter/flutter/pull/178662) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178662) over 2 hours, 51 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
-* **[walley892](https://github.com/walley892)** &mdash; Only call glCheckFrameBufferStatus in the render pass in debug builds
-  <sub>[#178707](https://github.com/flutter/flutter/pull/178707) merged on November 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178707) over 1 day, 31 additions and 3 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Skip flaky service worker test
   <sub>[#178820](https://github.com/flutter/flutter/pull/178820) merged on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178820) over 3 hours, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[walley892](https://github.com/walley892)** &mdash; Only call glCheckFrameBufferStatus in the render pass in debug builds
+  <sub>[#178707](https://github.com/flutter/flutter/pull/178707) merged on November 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178707) over 1 day, 31 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Manual pub roll
   <sub>[#178687](https://github.com/flutter/flutter/pull/178687) merged on November 19, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178687) over 1 day, 230 additions and 192 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ReorderableListView doesn't crash in 0x0 environment
+  <sub>[#177646](https://github.com/flutter/flutter/pull/177646) merged on November 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177646) over 3 weeks, 19 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[sutes-work](https://github.com/sutes-work)** &mdash; [fuchsia] Add wrapper for zx_iob_writev
   <sub>[#178626](https://github.com/flutter/flutter/pull/178626) merged on November 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178626) over 20 hours, 35 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ReorderableListView doesn't crash in 0x0 environment
-  <sub>[#177646](https://github.com/flutter/flutter/pull/177646) merged on November 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177646) over 3 weeks, 19 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Deny-list Adreno 640 and 650 for Vulkan eligibility.
+  <sub>[#178833](https://github.com/flutter/flutter/pull/178833) merged on November 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178833) over 2 hours, 22 additions and 18 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Fix layout for macOS frameworks for code assets
   <sub>[#178625](https://github.com/flutter/flutter/pull/178625) merged on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178625) over 2 days, 21 additions and 2 deletions in 2 files</sub>
@@ -109,21 +113,17 @@
   <sub>[#178584](https://github.com/flutter/flutter/pull/178584) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178584) over 2 days, 2 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `PlatformChannel.java‎` docs
-  <sub>[#178589](https://github.com/flutter/flutter/pull/178589) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178589) over 2 days, 3 additions and 3 deletions in 1 file</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `‎ListenableEditingState.java‎`
+  <sub>[#178597](https://github.com/flutter/flutter/pull/178597) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178597) over 2 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `Metadata.java‎` to use `getBytes` in a static context
-  <sub>[#178587](https://github.com/flutter/flutter/pull/178587) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178587) over 2 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `equals("")` with `isEmpty` in `SpellCheckPlugin.java‎`
+  <sub>[#178596](https://github.com/flutter/flutter/pull/178596) merged on November 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178596) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Reduce Skwasm test shards to 2
   <sub>[#178239](https://github.com/flutter/flutter/pull/178239) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178239) over 1 week, 8 additions and 150 deletions in 2 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField.decorationBuilder
-  <sub>[#178640](https://github.com/flutter/flutter/pull/178640) merged on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178640) over 8 hours, 32 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanup in `AndroidTouchProcessor.java‎`
   <sub>[#178574](https://github.com/flutter/flutter/pull/178574) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178574) over 2 days, 1 addition and 3 deletions in 1 file</sub>
@@ -153,21 +153,25 @@
   <sub>[#178592](https://github.com/flutter/flutter/pull/178592) merged on November 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178592) over 3 days, 6 additions and 22 deletions in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `‎ListenableEditingState.java‎`
-  <sub>[#178597](https://github.com/flutter/flutter/pull/178597) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178597) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `PlatformChannel.java‎` docs
+  <sub>[#178589](https://github.com/flutter/flutter/pull/178589) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178589) over 2 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Further cleanup of proxy logic
   <sub>[#178683](https://github.com/flutter/flutter/pull/178683) merged on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178683) over 22 hours, 29 additions and 32 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `equals("")` with `isEmpty` in `SpellCheckPlugin.java‎`
-  <sub>[#178596](https://github.com/flutter/flutter/pull/178596) merged on November 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178596) over 3 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `Metadata.java‎` to use `getBytes` in a static context
+  <sub>[#178587](https://github.com/flutter/flutter/pull/178587) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178587) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable UIScene Migration and update create templates
   <sub>[#178700](https://github.com/flutter/flutter/pull/178700) merged on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178700) over 14 hours, 176 additions and 22 deletions in 16 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField.decorationBuilder
+  <sub>[#178640](https://github.com/flutter/flutter/pull/178640) merged on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178640) over 8 hours, 32 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Separate copying dsym into its own target (#178261)"
   <sub>[#178545](https://github.com/flutter/flutter/pull/178545) merged on November 17, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178545) over 2 days, 118 additions and 245 deletions in 8 files</sub>
