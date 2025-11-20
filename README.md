@@ -65,17 +65,17 @@
   <sub>[#178820](https://github.com/flutter/flutter/pull/178820) merged on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178820) over 3 hours, 2 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ReorderableListView doesn't crash in 0x0 environment<br />
-  <sub>[#177646](https://github.com/flutter/flutter/pull/177646) merged on November 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177646) over 3 weeks, 19 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Manual pub roll<br />
+  <sub>[#178687](https://github.com/flutter/flutter/pull/178687) merged on November 19, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178687) over 1 day, 230 additions and 192 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[sutes-work](https://github.com/sutes-work)** &mdash; [fuchsia] Add wrapper for zx_iob_writev<br />
   <sub>[#178626](https://github.com/flutter/flutter/pull/178626) merged on November 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178626) over 20 hours, 35 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Manual pub roll<br />
-  <sub>[#178687](https://github.com/flutter/flutter/pull/178687) merged on November 19, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178687) over 1 day, 230 additions and 192 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ReorderableListView doesn't crash in 0x0 environment<br />
+  <sub>[#177646](https://github.com/flutter/flutter/pull/177646) merged on November 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177646) over 3 weeks, 19 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Fix layout for macOS frameworks for code assets<br />
   <sub>[#178625](https://github.com/flutter/flutter/pull/178625) merged on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178625) over 2 days, 21 additions and 2 deletions in 2 files</sub><br />
