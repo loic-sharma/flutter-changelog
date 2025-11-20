@@ -140,3 +140,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoAlertDialog doesn't crash in 0x0 environment<br />
   <sub>[#178858](https://github.com/flutter/flutter/pull/178858) opened on on November 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178858) 9 additions and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenuEntry.style not resolved when entry is highlighted<br />
+  <sub>[#178873](https://github.com/flutter/flutter/pull/178873) opened on on November 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178873) 66 additions and 1 deletion in 2 files</sub><br />
+

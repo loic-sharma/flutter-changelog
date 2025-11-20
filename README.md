@@ -1087,7 +1087,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-20 commits.
+21 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks<br />
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub><br />
@@ -1097,6 +1097,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; GenUI for SDK docs<br />
   <sub>[#12696](https://github.com/flutter/website/pull/12696) merged on November 18, 2025 &mdash; **Large:** [33 comments](https://github.com/flutter/website/pull/12696) over 3 days, 720 additions and 6 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Refactor to more idiomatic Jaspr code<br />
+  <sub>[#12726](https://github.com/flutter/website/pull/12726) merged on November 20, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12726) over 1 day, 727 additions and 525 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup<br />
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub><br />
