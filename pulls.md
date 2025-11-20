@@ -131,3 +131,9 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove geometry calculation shortcircuit<br />
   <sub>[#178837](https://github.com/flutter/flutter/pull/178837) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178837) 36 additions and 11 deletions in 2 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTimerPicker doesn't crash in 0x0 environment<br />
+  <sub>[#178857](https://github.com/flutter/flutter/pull/178857) opened on on November 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178857) 11 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoAlertDialog doesn't crash in 0x0 environment<br />
+  <sub>[#178858](https://github.com/flutter/flutter/pull/178858) opened on on November 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178858) 9 additions and 0 deletions in 1 file</sub><br />
+
