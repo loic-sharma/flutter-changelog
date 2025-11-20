@@ -1091,7 +1091,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-21 commits.
+22 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub>
@@ -1105,6 +1105,10 @@
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Refactor to more idiomatic Jaspr code
   <sub>[#12726](https://github.com/flutter/website/pull/12726) merged on November 20, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12726) over 1 day, 727 additions and 525 deletions in 26 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add Antigravity configuration instructions
+  <sub>[#12730](https://github.com/flutter/website/pull/12730) merged on November 20, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12730) over 8 hours, 22 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub>
