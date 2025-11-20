@@ -53,6 +53,10 @@
   <sub>[#176832](https://github.com/flutter/flutter/pull/176832) merged on November 18, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/176832) over 1 month, 11 additions and 20 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Manual pub roll
+  <sub>[#178687](https://github.com/flutter/flutter/pull/178687) merged on November 19, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178687) over 1 day, 230 additions and 192 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Corrects invalid Flutter wiki links
   <sub>[#178158](https://github.com/flutter/flutter/pull/178158) merged on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178158) over 1 week, 25 additions and 25 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
@@ -69,25 +73,21 @@
   <sub>[#178662](https://github.com/flutter/flutter/pull/178662) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178662) over 2 hours, 51 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Manual pub roll
-  <sub>[#178687](https://github.com/flutter/flutter/pull/178687) merged on November 19, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178687) over 1 day, 230 additions and 192 deletions in 7 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[sutes-work](https://github.com/sutes-work)** &mdash; [fuchsia] Add wrapper for zx_iob_writev
-  <sub>[#178626](https://github.com/flutter/flutter/pull/178626) merged on November 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178626) over 20 hours, 35 additions and 8 deletions in 3 files</sub>
-  <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Simon Binder](https://github.com/simolus3)** &mdash; Fix layout for macOS frameworks for code assets
+  <sub>[#178625](https://github.com/flutter/flutter/pull/178625) merged on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178625) over 2 days, 21 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ReorderableListView doesn't crash in 0x0 environment
   <sub>[#177646](https://github.com/flutter/flutter/pull/177646) merged on November 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177646) over 3 weeks, 19 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[sutes-work](https://github.com/sutes-work)** &mdash; [fuchsia] Add wrapper for zx_iob_writev
+  <sub>[#178626](https://github.com/flutter/flutter/pull/178626) merged on November 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178626) over 20 hours, 35 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Deny-list Adreno 640 and 650 for Vulkan eligibility.
   <sub>[#178833](https://github.com/flutter/flutter/pull/178833) merged on November 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178833) over 2 hours, 22 additions and 18 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Simon Binder](https://github.com/simolus3)** &mdash; Fix layout for macOS frameworks for code assets
-  <sub>[#178625](https://github.com/flutter/flutter/pull/178625) merged on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178625) over 2 days, 21 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Restore OpenGL state modified by fl_compositor_opengl_present_layers
   <sub>[#178697](https://github.com/flutter/flutter/pull/178697) merged on November 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178697) over 18 hours, 67 additions and 4 deletions in 3 files</sub>
@@ -1106,16 +1106,16 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
   <sub><details><summary>3 images...</summary><img width="913" height="364" alt="Bildschirmfoto 2025-11-13 um 13 13 29" src="https://github.com/user-attachments/assets/ee555fe4-8a4a-4fe1-9ee3-bf441a184d86" /><img width="912" height="743" alt="Bildschirmfoto 2025-11-13 um 13 13 40" src="https://github.com/user-attachments/assets/f5580204-3e2f-473d-81df-b74209a52bbb" /><img width="910" height="756" alt="Bildschirmfoto 2025-11-13 um 13 14 02" src="https://github.com/user-attachments/assets/14bd0c6b-b7b9-49d9-8b30-94b7eda32f1f" /></details></sub>
 
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Refactor to more idiomatic Jaspr code
+  <sub>[#12726](https://github.com/flutter/website/pull/12726) merged on November 20, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12726) over 1 day, 727 additions and 525 deletions in 26 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; GenUI for SDK docs
   <sub>[#12696](https://github.com/flutter/website/pull/12696) merged on November 18, 2025 &mdash; **Large:** [33 comments](https://github.com/flutter/website/pull/12696) over 3 days, 720 additions and 6 deletions in 5 files</sub>
   <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Flutter Linux merged threads migration annoucement
   <sub>[#12534](https://github.com/flutter/website/pull/12534) merged on November 20, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12534) over 1 month, 55 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
-
-* **[Kilian Schulte](https://github.com/schultek)** &mdash; Refactor to more idiomatic Jaspr code
-  <sub>[#12726](https://github.com/flutter/website/pull/12726) merged on November 20, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12726) over 1 day, 727 additions and 525 deletions in 26 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add Antigravity configuration instructions
