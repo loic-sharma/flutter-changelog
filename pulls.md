@@ -149,3 +149,6 @@
 * **[StepSecurity Bot](https://github.com/step-security-bot)** &mdash; Fix GitHub Actions not pinned by hash<br />
   <sub>[#178917](https://github.com/flutter/flutter/pull/178917) opened on on November 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178917) 5 additions and 5 deletions in 4 files</sub><br />
 
+* **[Pierre](https://github.com/guidezpl)** &mdash; Update workflow permissions in easy-cp.yml<br />
+  <sub>[#178919](https://github.com/flutter/flutter/pull/178919) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178919) 3 additions and 1 deletion in 1 file</sub><br />
+
