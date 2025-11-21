@@ -122,12 +122,6 @@
 * **[Илия](https://github.com/777genius)** &mdash; Fix #117755: Fix divider color inconsistencies in M2/M3<br />
   <sub>[#178826](https://github.com/flutter/flutter/pull/178826) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178826) 78 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTimerPicker doesn't crash in 0x0 environment<br />
-  <sub>[#178857](https://github.com/flutter/flutter/pull/178857) opened on on November 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178857) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoAlertDialog doesn't crash in 0x0 environment<br />
-  <sub>[#178858](https://github.com/flutter/flutter/pull/178858) opened on on November 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178858) 9 additions and 0 deletions in 1 file</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) opened on on November 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178895) 74 additions and 13 deletions in 1 file</sub><br />
 
@@ -145,9 +139,6 @@
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
   <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/178922) 322 additions and 235 deletions in 7 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPopupSurface doesn't crash in 0x0 environment<br />
-  <sub>[#178929](https://github.com/flutter/flutter/pull/178929) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178929) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Restore OpenGL state modified by fl_compositor_opengl_present_layers<br />
   <sub>[#178937](https://github.com/flutter/flutter/pull/178937) opened on on November 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178937) 67 additions and 4 deletions in 3 files</sub><br />
