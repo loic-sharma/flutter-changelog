@@ -153,5 +153,5 @@
   <sub>[#178929](https://github.com/flutter/flutter/pull/178929) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178929) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Restore OpenGL state modified by fl_compositor_opengl_present_layers<br />
-  <sub>[#178937](https://github.com/flutter/flutter/pull/178937) opened on on November 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178937) 67 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#178937](https://github.com/flutter/flutter/pull/178937) opened on on November 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178937) 67 additions and 4 deletions in 3 files</sub><br />
 
