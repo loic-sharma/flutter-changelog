@@ -51,7 +51,7 @@
   <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/177855) 388 additions and 21 deletions in 2 files</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/177888) 439 additions and 10 deletions in 4 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/177888) 439 additions and 10 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
   <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177954) 153 additions and 5 deletions in 12 files</sub><br />
@@ -130,9 +130,6 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) opened on on November 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178895) 74 additions and 13 deletions in 1 file</sub><br />
-
-* **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter material samples<br />
-  <sub>[#178907](https://github.com/flutter/flutter/pull/178907) opened on on November 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178907) 146 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `_isLabel` method in `stepper.dart` to use `any` for better readablity<br />
   <sub>[#178909](https://github.com/flutter/flutter/pull/178909) opened on on November 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178909) 1 addition and 6 deletions in 1 file</sub><br />
