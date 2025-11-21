@@ -140,3 +140,6 @@
 * **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter material samples<br />
   <sub>[#178907](https://github.com/flutter/flutter/pull/178907) opened on on November 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178907) 146 additions and 0 deletions in 1 file</sub><br />
 
+* **[Pierre](https://github.com/guidezpl)** &mdash; Add missing permissions key to workflows<br />
+  <sub>[#178911](https://github.com/flutter/flutter/pull/178911) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178911) 8 additions and 0 deletions in 2 files</sub><br />
+
