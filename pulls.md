@@ -152,3 +152,6 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Update workflow permissions in easy-cp.yml<br />
   <sub>[#178919](https://github.com/flutter/flutter/pull/178919) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178919) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
+  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/178922) 322 additions and 235 deletions in 7 files</sub><br />
+
