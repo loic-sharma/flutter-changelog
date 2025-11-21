@@ -1124,12 +1124,17 @@
 
 ### November 15, 2025 to November 21, 2025
 
-24 commits.
+25 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks<br />
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
   <sub><details><summary>3 images...</summary><img width="913" height="364" alt="Bildschirmfoto 2025-11-13 um 13 13 29" src="https://github.com/user-attachments/assets/ee555fe4-8a4a-4fe1-9ee3-bf441a184d86" /><img width="912" height="743" alt="Bildschirmfoto 2025-11-13 um 13 13 40" src="https://github.com/user-attachments/assets/f5580204-3e2f-473d-81df-b74209a52bbb" /><img width="910" height="756" alt="Bildschirmfoto 2025-11-13 um 13 14 02" src="https://github.com/user-attachments/assets/14bd0c6b-b7b9-49d9-8b30-94b7eda32f1f" /></details></sub>
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add SummaryCard component for FWE<br />
+  <sub>[#12714](https://github.com/flutter/website/pull/12714) merged on November 21, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12714) over 3 days, 283 additions and 0 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="912" height="276" alt="Bildschirmfoto 2025-11-18 um 09 03 22" src="https://github.com/user-attachments/assets/d5ba43fc-e985-4aa3-8763-c6db058bd2b4" /><img width="910" height="372" alt="Bildschirmfoto 2025-11-18 um 09 03 51" src="https://github.com/user-attachments/assets/9ead7ce9-944f-42d8-b900-7f7503ec440e" /></details></sub>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Refactor to more idiomatic Jaspr code<br />
   <sub>[#12726](https://github.com/flutter/website/pull/12726) merged on November 20, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12726) over 1 day, 727 additions and 525 deletions in 26 files</sub><br />
