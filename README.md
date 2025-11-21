@@ -1148,7 +1148,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-27 commits.
+28 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add CodePreview component<br />
   <sub>[#12731](https://github.com/flutter/website/pull/12731) merged on November 21, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/website/pull/12731) over 22 hours, 925 additions and 787 deletions in 9 files</sub><br />
@@ -1180,6 +1180,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add Antigravity configuration instructions<br />
   <sub>[#12730](https://github.com/flutter/website/pull/12730) merged on November 20, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12730) over 8 hours, 22 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a page on the Flutter extension for Gemini CLI<br />
+  <sub>[#12734](https://github.com/flutter/website/pull/12734) merged on November 21, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12734) over 20 hours, 222 additions and 18 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup<br />
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub><br />
