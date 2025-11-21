@@ -146,3 +146,6 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Add missing permissions key to workflows<br />
   <sub>[#178911](https://github.com/flutter/flutter/pull/178911) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178911) 8 additions and 0 deletions in 2 files</sub><br />
 
+* **[StepSecurity Bot](https://github.com/step-security-bot)** &mdash; Fix GitHub Actions not pinned by hash<br />
+  <sub>[#178917](https://github.com/flutter/flutter/pull/178917) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178917) 5 additions and 5 deletions in 4 files</sub><br />
+
