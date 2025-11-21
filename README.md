@@ -1148,7 +1148,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-26 commits.
+27 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add CodePreview component<br />
   <sub>[#12731](https://github.com/flutter/website/pull/12731) merged on November 21, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/website/pull/12731) over 22 hours, 925 additions and 787 deletions in 9 files</sub><br />
@@ -1227,6 +1227,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraint for stable 3.38 release<br />
   <sub>[#12701](https://github.com/flutter/website/pull/12701) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12701) over 20 hours, 149 additions and 149 deletions in 149 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Daniel Duvanå](https://github.com/Daniel-BD)** &mdash; Correct EdgeInsets mislabeled as widget in Flutter example<br />
+  <sub>[#12735](https://github.com/flutter/website/pull/12735) merged on November 21, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12735) over 9 hours, 5 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding info about genui_a2ui<br />
