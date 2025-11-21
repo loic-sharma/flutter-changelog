@@ -135,5 +135,5 @@
   <sub>[#178858](https://github.com/flutter/flutter/pull/178858) opened on on November 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178858) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
-  <sub>[#178895](https://github.com/flutter/flutter/pull/178895) opened on on November 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178895) 99 additions and 53 deletions in 1 file</sub><br />
+  <sub>[#178895](https://github.com/flutter/flutter/pull/178895) opened on on November 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178895) 74 additions and 13 deletions in 1 file</sub><br />
 
