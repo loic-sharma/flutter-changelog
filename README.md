@@ -794,13 +794,13 @@
   <sub>[#176073](https://github.com/flutter/flutter/pull/176073) merged on November 2, 2025 &mdash; **Small:** [62 comments](https://github.com/flutter/flutter/pull/176073) over 1 month, 261 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
-* **[Pierre](https://github.com/guidezpl)** &mdash; Clean up links to docs website<br />
-  <sub>[#177792](https://github.com/flutter/flutter/pull/177792) merged on November 1, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/177792) over 1 day, 74 additions and 83 deletions in 50 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Parker Lougheed](https://github.com/parlough)</sub><br />
-
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Visual Studio 2026<br />
   <sub>[#177458](https://github.com/flutter/flutter/pull/177458) merged on November 1, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/177458) over 1 week, 34 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; Clean up links to docs website<br />
+  <sub>[#177792](https://github.com/flutter/flutter/pull/177792) merged on November 1, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/177792) over 1 day, 74 additions and 83 deletions in 50 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CheckboxListTile doesn't crash in 0x0 environment<br />
   <sub>[#173151](https://github.com/flutter/flutter/pull/173151) merged on November 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/173151) over 3 months, 17 additions and 0 deletions in 1 file</sub><br />
