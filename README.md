@@ -1128,7 +1128,12 @@
 
 ### November 15, 2025 to November 21, 2025
 
-25 commits.
+26 commits.
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add CodePreview component<br />
+  <sub>[#12731](https://github.com/flutter/website/pull/12731) merged on November 21, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/website/pull/12731) over 22 hours, 925 additions and 787 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="933" height="573" alt="Bildschirmfoto 2025-11-20 um 14 03 53" src="https://github.com/user-attachments/assets/3da0cf76-c41f-46cc-92c6-b29f81f9e845" /><img width="936" height="587" alt="Bildschirmfoto 2025-11-20 um 14 03 42" src="https://github.com/user-attachments/assets/4a3e7775-9cde-48c1-9a2c-da6cf1b5bae5" /></details></sub>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks<br />
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub><br />
