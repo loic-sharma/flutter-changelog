@@ -92,9 +92,6 @@
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15<br />
   <sub>[#178601](https://github.com/flutter/flutter/pull/178601) opened on on November 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178601) 9 additions and 2 deletions in 8 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
-  <sub>[#178666](https://github.com/flutter/flutter/pull/178666) opened on on November 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178666) 86 additions and 86 deletions in 10 files</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; remove unnecessary virtual destructor from VertexDescriptor<br />
   <sub>[#178682](https://github.com/flutter/flutter/pull/178682) opened on on November 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178682) 1 addition and 1 deletion in 1 file</sub><br />
 
