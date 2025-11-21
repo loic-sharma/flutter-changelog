@@ -876,7 +876,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-16 commits.
+17 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Convert iOS/macOS to FFI package
   <sub>[#9762](https://github.com/flutter/packages/pull/9762) merged on November 20, 2025 &mdash; **Extra large:** [28 comments](https://github.com/flutter/packages/pull/9762) over 3 months, 1414 additions and 916 deletions in 26 files</sub>
@@ -889,6 +889,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove `dart:html` and `drawImageScaled` usages
   <sub>[#10411](https://github.com/flutter/packages/pull/10411) merged on November 18, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/10411) over 5 days, 18 additions and 14 deletions in 11 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Daniel Ferreira](https://github.com/danferreira)** &mdash; [file_selector] Implement canCreateDirectories on macos and linux
+  <sub>[#10443](https://github.com/flutter/packages/pull/10443) merged on November 21, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/10443) over 4 days, 542 additions and 31 deletions in 24 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Robert Ancell](https://github.com/robert-ancell), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update all packages to Pigeon 26
   <sub>[#10450](https://github.com/flutter/packages/pull/10450) merged on November 17, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10450) over 1 hour, 7840 additions and 1147 deletions in 168 files</sub>
