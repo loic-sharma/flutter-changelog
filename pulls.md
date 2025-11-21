@@ -152,3 +152,6 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
   <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/178922) 322 additions and 235 deletions in 7 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPopupSurface doesn't crash in 0x0 environment<br />
+  <sub>[#178929](https://github.com/flutter/flutter/pull/178929) opened on on November 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178929) 11 additions and 0 deletions in 1 file</sub><br />
+
