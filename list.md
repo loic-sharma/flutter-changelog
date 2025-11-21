@@ -884,7 +884,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-17 commits.
+18 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Convert iOS/macOS to FFI package
   <sub>[#9762](https://github.com/flutter/packages/pull/9762) merged on November 20, 2025 &mdash; **Extra large:** [28 comments](https://github.com/flutter/packages/pull/9762) over 3 months, 1414 additions and 916 deletions in 26 files</sub>
@@ -949,6 +949,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Kgp bulk update
   <sub>[#10412](https://github.com/flutter/packages/pull/10412) merged on November 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10412) over 4 days, 188 additions and 14 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from f5a8537f90d1 to 19074d12f7ea (2 revisions)
+  <sub>[#10489](https://github.com/flutter/packages/pull/10489) merged on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10489) over 52 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from b45fa18946ec to f5a8537f90d1 (12 revisions)
   <sub>[#10478](https://github.com/flutter/packages/pull/10478) merged on November 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10478) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
