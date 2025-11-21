@@ -51,7 +51,7 @@
   <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/177855) 388 additions and 21 deletions in 2 files</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/177888) 3382091 additions and 174988 deletions in 15681 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/177888) 376 additions and 43 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
   <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177954) 153 additions and 5 deletions in 12 files</sub><br />
@@ -151,4 +151,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Restore OpenGL state modified by fl_compositor_opengl_present_layers<br />
   <sub>[#178937](https://github.com/flutter/flutter/pull/178937) opened on on November 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178937) 67 additions and 4 deletions in 3 files</sub><br />
+
+* **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter Material samples<br />
+  <sub>[#178948](https://github.com/flutter/flutter/pull/178948) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178948) 144 additions and 0 deletions in 1 file</sub><br />
 
