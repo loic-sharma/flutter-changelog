@@ -137,3 +137,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) opened on on November 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178895) 74 additions and 13 deletions in 1 file</sub><br />
 
+* **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter material samples<br />
+  <sub>[#178907](https://github.com/flutter/flutter/pull/178907) opened on on November 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178907) 146 additions and 0 deletions in 1 file</sub><br />
+
