@@ -4,7 +4,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-60 commits.
+63 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [ios] Dynamic Content Resizing<br />
   <sub>[#177410](https://github.com/flutter/flutter/pull/177410) merged on November 22, 2025 &mdash; **Large:** [62 comments](https://github.com/flutter/flutter/pull/177410) over 1 month, 512 additions and 6 deletions in 16 files</sub><br />
@@ -78,6 +78,10 @@
   <sub>[#178707](https://github.com/flutter/flutter/pull/178707) merged on November 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178707) over 1 day, 31 additions and 3 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
+  <sub>[#178666](https://github.com/flutter/flutter/pull/178666) merged on November 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178666) over 3 days, 86 additions and 86 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Skip flaky service worker test<br />
   <sub>[#178820](https://github.com/flutter/flutter/pull/178820) merged on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178820) over 3 hours, 2 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
@@ -86,13 +90,13 @@
   <sub>[#178662](https://github.com/flutter/flutter/pull/178662) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178662) over 2 hours, 51 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
-  <sub>[#178666](https://github.com/flutter/flutter/pull/178666) merged on November 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178666) over 3 days, 86 additions and 86 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Fix layout for macOS frameworks for code assets<br />
   <sub>[#178625](https://github.com/flutter/flutter/pull/178625) merged on November 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178625) over 2 days, 21 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use interactive mode with `devicectl` to redirect stdout<br />
+  <sub>[#178405](https://github.com/flutter/flutter/pull/178405) merged on November 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178405) over 1 week, 79 additions and 98 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSpellCheckSuggestionsToolbar doesn't crash …<br />
   <sub>[#177978](https://github.com/flutter/flutter/pull/177978) merged on November 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177978) over 2 weeks, 18 additions and 0 deletions in 1 file</sub><br />
@@ -102,13 +106,13 @@
   <sub>[#178626](https://github.com/flutter/flutter/pull/178626) merged on November 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178626) over 20 hours, 35 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use interactive mode with `devicectl` to redirect stdout<br />
-  <sub>[#178405](https://github.com/flutter/flutter/pull/178405) merged on November 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178405) over 1 week, 79 additions and 98 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ReorderableListView doesn't crash in 0x0 environment<br />
   <sub>[#177646](https://github.com/flutter/flutter/pull/177646) merged on November 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177646) over 3 weeks, 19 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; Add missing flutter_lints dev dependencies<br />
+  <sub>[#178105](https://github.com/flutter/flutter/pull/178105) merged on November 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178105) over 1 week, 4 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Deny-list Adreno 640 and 650 for Vulkan eligibility.<br />
   <sub>[#178833](https://github.com/flutter/flutter/pull/178833) merged on November 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178833) over 2 hours, 22 additions and 18 deletions in 2 files</sub><br />
@@ -117,6 +121,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Restore OpenGL state modified by fl_compositor_opengl_present_layers<br />
   <sub>[#178697](https://github.com/flutter/flutter/pull/178697) merged on November 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178697) over 18 hours, 67 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration<br />
+  <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [ Tool ] Use a separate output directory when the native hooks run the build system<br />
   <sub>[#178840](https://github.com/flutter/flutter/pull/178840) merged on November 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178840) over 1 day, 94 additions and 2 deletions in 3 files</sub><br />
@@ -130,13 +138,13 @@
   <sub>[#178635](https://github.com/flutter/flutter/pull/178635) merged on November 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178635) over 16 hours, 66 additions and 82 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reduce the data copying in CanvasPath related to the SkPathBuilder API migration<br />
-  <sub>[#178512](https://github.com/flutter/flutter/pull/178512) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178512) over 3 days, 9 additions and 11 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoLinearActivityIndicator doesn't crash in 0x…<br />
+  <sub>[#178566](https://github.com/flutter/flutter/pull/178566) merged on November 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178566) over 6 days, 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Pierre](https://github.com/guidezpl)** &mdash; Add missing flutter_lints dev dependencies<br />
-  <sub>[#178105](https://github.com/flutter/flutter/pull/178105) merged on November 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178105) over 1 week, 4 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TimePickerDialog doesn't crash in 0x0 environment<br />
+  <sub>[#178451](https://github.com/flutter/flutter/pull/178451) merged on November 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178451) over 1 week, 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoContextMenu doesn't crash in 0x0 environment<br />
   <sub>[#178722](https://github.com/flutter/flutter/pull/178722) merged on November 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178722) over 3 days, 16 additions and 0 deletions in 1 file</sub><br />
@@ -150,81 +158,61 @@
   <sub>[#178584](https://github.com/flutter/flutter/pull/178584) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178584) over 2 days, 2 additions and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `PlatformChannel.java‎` docs<br />
-  <sub>[#178589](https://github.com/flutter/flutter/pull/178589) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178589) over 2 days, 3 additions and 3 deletions in 1 file</sub><br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `‎ListenableEditingState.java‎`<br />
+  <sub>[#178597](https://github.com/flutter/flutter/pull/178597) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178597) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `Metadata.java‎` to use `getBytes` in a static context<br />
   <sub>[#178587](https://github.com/flutter/flutter/pull/178587) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178587) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Sort entries in TESTOWNERS<br />
-  <sub>[#178939](https://github.com/flutter/flutter/pull/178939) merged on November 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178939) over 5 hours, 48 additions and 48 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
-
-* **[b-luk](https://github.com/b-luk)** &mdash; Update .ci.yaml and TESTOWNERS for arc macrobenchmark tests<br />
-  <sub>[#178891](https://github.com/flutter/flutter/pull/178891) merged on November 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178891) over 16 hours, 44 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Reduce Skwasm test shards to 2<br />
-  <sub>[#178239](https://github.com/flutter/flutter/pull/178239) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178239) over 1 week, 8 additions and 150 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTabBar doesn't crash in 0x0 environment<br />
+  <sub>[#178613](https://github.com/flutter/flutter/pull/178613) merged on November 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178613) over 5 days, 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TextSelectionToolbarTextButton doesn't crash in 0x0 …<br />
   <sub>[#178374](https://github.com/flutter/flutter/pull/178374) merged on November 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178374) over 1 week, 15 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelector doesn't crash in 0x0 environment<br />
-  <sub>[#178156](https://github.com/flutter/flutter/pull/178156) merged on November 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178156) over 1 week, 16 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `final` modifier in `StandardMessageCodec.java‎`<br />
-  <sub>[#178598](https://github.com/flutter/flutter/pull/178598) merged on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178598) over 2 days, 12 additions and 13 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanup in `DeferredComponentManager.java‎`<br />
-  <sub>[#178585](https://github.com/flutter/flutter/pull/178585) merged on November 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/178585) over 3 days, 10 additions and 9 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanup in `AndroidTouchProcessor.java‎`<br />
-  <sub>[#178574](https://github.com/flutter/flutter/pull/178574) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178574) over 2 days, 1 addition and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `TextInputChannel.java`<br />
-  <sub>[#178592](https://github.com/flutter/flutter/pull/178592) merged on November 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178592) over 3 days, 6 additions and 22 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Further cleanup of proxy logic<br />
-  <sub>[#178683](https://github.com/flutter/flutter/pull/178683) merged on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178683) over 22 hours, 29 additions and 32 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ToggleButtons doesn't crash in 0x0 environment<br />
-  <sub>[#178454](https://github.com/flutter/flutter/pull/178454) merged on November 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178454) over 1 week, 16 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Reduce Skwasm test shards to 2<br />
+  <sub>[#178239](https://github.com/flutter/flutter/pull/178239) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178239) over 1 week, 8 additions and 150 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality `FlutterViewTest.java` <br />
   <sub>[#178594](https://github.com/flutter/flutter/pull/178594) merged on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178594) over 2 days, 10 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use WidgetsBinding.instance.platformDispatcher in windowing instead of PlatformDispatcher.instance<br />
-  <sub>[#178799](https://github.com/flutter/flutter/pull/178799) merged on November 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178799) over 12 hours, 26 additions and 17 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBar doesn't crash in 0x0 environment<br />
+  <sub>[#178201](https://github.com/flutter/flutter/pull/178201) merged on November 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178201) over 1 week, 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable UIScene Migration and update create templates<br />
   <sub>[#178700](https://github.com/flutter/flutter/pull/178700) merged on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178700) over 14 hours, 176 additions and 22 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `_CircularProgressIndicatorState` to use `transform` directly<br />
-  <sub>[#178569](https://github.com/flutter/flutter/pull/178569) merged on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178569) over 4 days, 4 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanup in `DeferredComponentManager.java‎`<br />
+  <sub>[#178585](https://github.com/flutter/flutter/pull/178585) merged on November 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/178585) over 3 days, 10 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix train hopping animation status listeners<br />
-  <sub>[#178372](https://github.com/flutter/flutter/pull/178372) merged on November 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178372) over 6 days, 29 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[b-luk](https://github.com/b-luk)** &mdash; Sort entries in TESTOWNERS<br />
+  <sub>[#178939](https://github.com/flutter/flutter/pull/178939) merged on November 22, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178939) over 5 hours, 48 additions and 48 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `equals("")` with `isEmpty` in `SpellCheckPlugin.java‎`<br />
-  <sub>[#178596](https://github.com/flutter/flutter/pull/178596) merged on November 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178596) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `TextInputChannel.java`<br />
+  <sub>[#178592](https://github.com/flutter/flutter/pull/178592) merged on November 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178592) over 3 days, 6 additions and 22 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `final` modifier in `StandardMessageCodec.java‎`<br />
+  <sub>[#178598](https://github.com/flutter/flutter/pull/178598) merged on November 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178598) over 2 days, 12 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Update .ci.yaml and TESTOWNERS for arc macrobenchmark tests<br />
+  <sub>[#178891](https://github.com/flutter/flutter/pull/178891) merged on November 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178891) over 16 hours, 44 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanup in `AndroidTouchProcessor.java‎`<br />
+  <sub>[#178574](https://github.com/flutter/flutter/pull/178574) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178574) over 2 days, 1 addition and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; Fix Windows Enter key after focus loss<br />
   <sub>[#178523](https://github.com/flutter/flutter/pull/178523) merged on November 21, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178523) over 1 week, 70 additions and 20 deletions in 4 files</sub><br />
@@ -234,13 +222,37 @@
   <sub>[#178796](https://github.com/flutter/flutter/pull/178796) merged on November 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178796) over 1 day, 11 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [strattonn](https://github.com/strattonn), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `‎ListenableEditingState.java‎`<br />
-  <sub>[#178597](https://github.com/flutter/flutter/pull/178597) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178597) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use WidgetsBinding.instance.platformDispatcher in windowing instead of PlatformDispatcher.instance<br />
+  <sub>[#178799](https://github.com/flutter/flutter/pull/178799) merged on November 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178799) over 12 hours, 26 additions and 17 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace `equals("")` with `isEmpty` in `SpellCheckPlugin.java‎`<br />
+  <sub>[#178596](https://github.com/flutter/flutter/pull/178596) merged on November 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178596) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabBar doesn't crash in 0x0 environment<br />
-  <sub>[#178201](https://github.com/flutter/flutter/pull/178201) merged on November 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178201) over 1 week, 18 additions and 0 deletions in 1 file</sub><br />
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix train hopping animation status listeners<br />
+  <sub>[#178372](https://github.com/flutter/flutter/pull/178372) merged on November 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178372) over 6 days, 29 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Further cleanup of proxy logic<br />
+  <sub>[#178683](https://github.com/flutter/flutter/pull/178683) merged on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178683) over 22 hours, 29 additions and 32 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `PlatformChannel.java‎` docs<br />
+  <sub>[#178589](https://github.com/flutter/flutter/pull/178589) merged on November 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178589) over 2 days, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a TabPageSelector doesn't crash in 0x0 environment<br />
+  <sub>[#178156](https://github.com/flutter/flutter/pull/178156) merged on November 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178156) over 1 week, 16 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ToggleButtons doesn't crash in 0x0 environment<br />
+  <sub>[#178454](https://github.com/flutter/flutter/pull/178454) merged on November 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178454) over 1 week, 16 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `_CircularProgressIndicatorState` to use `transform` directly<br />
+  <sub>[#178569](https://github.com/flutter/flutter/pull/178569) merged on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178569) over 4 days, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Separate copying dsym into its own target (#178261)"<br />
   <sub>[#178545](https://github.com/flutter/flutter/pull/178545) merged on November 17, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178545) over 2 days, 118 additions and 245 deletions in 8 files</sub><br />
