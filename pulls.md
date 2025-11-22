@@ -146,3 +146,6 @@
 * **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter Material samples<br />
   <sub>[#178948](https://github.com/flutter/flutter/pull/178948) opened on on November 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178948) 144 additions and 0 deletions in 1 file</sub><br />
 
+* **[Simon Binder](https://github.com/simolus3)** &mdash; Build hooks: Don't require toolchain for unit tests<br />
+  <sub>[#178954](https://github.com/flutter/flutter/pull/178954) opened on on November 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178954) 202 additions and 35 deletions in 6 files</sub><br />
+
