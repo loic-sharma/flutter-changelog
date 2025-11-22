@@ -162,5 +162,5 @@
   <sub>[#178959](https://github.com/flutter/flutter/pull/178959) opened on on November 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178959) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated activeColor in `dynamic_content_color.0.dart`‎ example<br />
-  <sub>[#178961](https://github.com/flutter/flutter/pull/178961) opened on on November 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178961) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#178961](https://github.com/flutter/flutter/pull/178961) opened on on November 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178961) 1 addition and 1 deletion in 1 file</sub><br />
 
