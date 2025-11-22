@@ -150,8 +150,8 @@
   <sub>[#178954](https://github.com/flutter/flutter/pull/178954) opened on on November 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178954) 220 additions and 36 deletions in 6 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoActionSheetAction doesn't crash in 0x0 envi…<br />
-  <sub>[#178955](https://github.com/flutter/flutter/pull/178955) opened on on November 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178955) 22 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178955](https://github.com/flutter/flutter/pull/178955) opened on on November 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178955) 22 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDialogAction doesn't crash in 0x0 environment<br />
-  <sub>[#178956](https://github.com/flutter/flutter/pull/178956) opened on on November 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178956) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178956](https://github.com/flutter/flutter/pull/178956) opened on on November 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178956) 11 additions and 0 deletions in 1 file</sub><br />
 
