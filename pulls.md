@@ -138,7 +138,7 @@
   <sub>[#178919](https://github.com/flutter/flutter/pull/178919) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178919) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
-  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/178922) 367 additions and 235 deletions in 7 files</sub><br />
+  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/178922) 367 additions and 235 deletions in 7 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Restore OpenGL state modified by fl_compositor_opengl_present_layers<br />
   <sub>[#178937](https://github.com/flutter/flutter/pull/178937) opened on on November 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178937) 67 additions and 4 deletions in 3 files</sub><br />
@@ -156,7 +156,7 @@
   <sub>[#178956](https://github.com/flutter/flutter/pull/178956) opened on on November 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178956) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "[ios] Dynamic Content Resizing"<br />
-  <sub>[#178958](https://github.com/flutter/flutter/pull/178958) opened on on November 22, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/178958) 6 additions and 512 deletions in 16 files</sub><br />
+  <sub>[#178958](https://github.com/flutter/flutter/pull/178958) opened on on November 22, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/178958) 6 additions and 512 deletions in 16 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `activeColor` in `decorated_sliver.1.dart‎` example<br />
   <sub>[#178959](https://github.com/flutter/flutter/pull/178959) opened on on November 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178959) 1 addition and 1 deletion in 1 file</sub><br />
