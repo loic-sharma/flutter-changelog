@@ -10,13 +10,13 @@
   <sub>[#177410](https://github.com/flutter/flutter/pull/177410) merged on November 22, 2025 &mdash; **Large:** [62 comments](https://github.com/flutter/flutter/pull/177410) over 1 month, 512 additions and 6 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
-  <sub>[#177570](https://github.com/flutter/flutter/pull/177570) merged on November 18, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/177570) over 3 weeks, 214 additions and 65 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manually roll material_color_utilities<br />
   <sub>[#170000](https://github.com/flutter/flutter/pull/170000) merged on November 21, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/170000) over 5 months, 23 additions and 27 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support for Semantics widget and apply to ModalRoute<br />
+  <sub>[#177570](https://github.com/flutter/flutter/pull/177570) merged on November 18, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/177570) over 3 weeks, 214 additions and 65 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Adds support for r32float textures<br />
   <sub>[#178418](https://github.com/flutter/flutter/pull/178418) merged on November 20, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/178418) over 1 week, 360 additions and 53 deletions in 17 files</sub><br />
