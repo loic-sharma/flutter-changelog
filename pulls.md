@@ -158,3 +158,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "[ios] Dynamic Content Resizing"<br />
   <sub>[#178958](https://github.com/flutter/flutter/pull/178958) opened on on November 22, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/178958) 6 additions and 512 deletions in 16 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `activeColor` in `decorated_sliver.1.dart‎` example<br />
+  <sub>[#178959](https://github.com/flutter/flutter/pull/178959) opened on on November 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178959) 1 addition and 1 deletion in 1 file</sub><br />
+
