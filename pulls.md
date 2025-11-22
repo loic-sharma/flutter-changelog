@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/170980) 47 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/170980) 47 additions and 24 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
@@ -144,5 +144,5 @@
   <sub>[#178937](https://github.com/flutter/flutter/pull/178937) opened on on November 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178937) 67 additions and 4 deletions in 3 files</sub><br />
 
 * **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter Material samples<br />
-  <sub>[#178948](https://github.com/flutter/flutter/pull/178948) opened on on November 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178948) 144 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#178948](https://github.com/flutter/flutter/pull/178948) opened on on November 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178948) 144 additions and 0 deletions in 1 file</sub><br />
 
