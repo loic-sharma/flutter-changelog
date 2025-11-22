@@ -105,7 +105,7 @@
   <sub>[#178711](https://github.com/flutter/flutter/pull/178711) opened on on November 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178711) 76 additions and 10 deletions in 22 files</sub><br />
 
 * **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Youssef Shamass](https://github.com/yshamass9)** &mdash; [ Tool ] Assemble: "Improper" validation error when dealing with base64 encoded dart-define value <br />
   <sub>[#178737](https://github.com/flutter/flutter/pull/178737) opened on on November 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178737) 39 additions and 11 deletions in 2 files</sub><br />
