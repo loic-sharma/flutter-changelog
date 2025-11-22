@@ -155,3 +155,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDialogAction doesn't crash in 0x0 environment<br />
   <sub>[#178956](https://github.com/flutter/flutter/pull/178956) opened on on November 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178956) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; Revert "[ios] Dynamic Content Resizing"<br />
+  <sub>[#178958](https://github.com/flutter/flutter/pull/178958) opened on on November 22, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/178958) 6 additions and 512 deletions in 16 files</sub><br />
+
