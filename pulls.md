@@ -84,7 +84,7 @@
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale<br />
-  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) opened on on November 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178526) 61 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) opened on on November 14, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/178526) 61 additions and 1 deletion in 2 files</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: check both pointer count and action before reusing MotionEvent<br />
   <sub>[#178528](https://github.com/flutter/flutter/pull/178528) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178528) 112 additions and 8 deletions in 2 files</sub><br />
@@ -99,7 +99,7 @@
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
-  <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/178701) 176 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/178701) 176 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; [ Tool ] Add support riscv64 architecture<br />
   <sub>[#178711](https://github.com/flutter/flutter/pull/178711) opened on on November 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178711) 76 additions and 10 deletions in 22 files</sub><br />
