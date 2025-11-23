@@ -161,3 +161,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated activeColor in `dynamic_content_color.0.dart`‎ example<br />
   <sub>[#178961](https://github.com/flutter/flutter/pull/178961) opened on on November 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178961) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoExpansionTile doesn't crash in 0x0 environment<br />
+  <sub>[#178978](https://github.com/flutter/flutter/pull/178978) opened on on November 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178978) 21 additions and 0 deletions in 1 file</sub><br />
+
