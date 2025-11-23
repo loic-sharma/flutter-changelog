@@ -1216,7 +1216,7 @@
 
 ### November 15, 2025 to November 21, 2025
 
-30 commits.
+31 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add DownloadableSnippet component<br />
   <sub>[#12733](https://github.com/flutter/website/pull/12733) merged on November 23, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12733) over 2 days, 463 additions and 129 deletions in 14 files</sub><br />
@@ -1261,6 +1261,10 @@
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Refactor user input radio buttons to use RadioGroup<br />
   <sub>[#12679](https://github.com/flutter/website/pull/12679) merged on November 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12679) over 3 days, 24 additions and 36 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in ListView.builder reference<br />
+  <sub>[#12738](https://github.com/flutter/website/pull/12738) merged on November 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12738) over 3 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix a few unmigrated Liquid usages<br />
   <sub>[#12708](https://github.com/flutter/website/pull/12708) merged on November 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12708) over 2 days, 24 additions and 17 deletions in 4 files</sub><br />
