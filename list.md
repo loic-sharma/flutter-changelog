@@ -1216,12 +1216,17 @@
 
 ### November 15, 2025 to November 21, 2025
 
-28 commits.
+30 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add CodePreview component
   <sub>[#12731](https://github.com/flutter/website/pull/12731) merged on November 21, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/website/pull/12731) over 22 hours, 925 additions and 787 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
   <sub><details><summary>2 images...</summary><img width="933" height="573" alt="Bildschirmfoto 2025-11-20 um 14 03 53" src="https://github.com/user-attachments/assets/3da0cf76-c41f-46cc-92c6-b29f81f9e845" /><img width="936" height="587" alt="Bildschirmfoto 2025-11-20 um 14 03 42" src="https://github.com/user-attachments/assets/4a3e7775-9cde-48c1-9a2c-da6cf1b5bae5" /></details></sub>
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add DownloadableSnippet component
+  <sub>[#12733](https://github.com/flutter/website/pull/12733) merged on November 23, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12733) over 2 days, 463 additions and 129 deletions in 14 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+  <sub><details><summary>1 image...</summary><img width="939" height="260" alt="Bildschirmfoto 2025-11-21 um 15 24 22" src="https://github.com/user-attachments/assets/c0ef5e2a-7a8a-4022-a513-baf5c19100d4" /></details></sub>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add folding support to code blocks
   <sub>[#12680](https://github.com/flutter/website/pull/12680) merged on November 18, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12680) over 4 days, 293 additions and 56 deletions in 5 files</sub>
@@ -1300,6 +1305,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraint for stable 3.38 release
   <sub>[#12701](https://github.com/flutter/website/pull/12701) merged on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12701) over 20 hours, 149 additions and 149 deletions in 149 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Nest code in tabs, publish change as available on stable
+  <sub>[#12737](https://github.com/flutter/website/pull/12737) merged on November 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12737) over 1 day, 112 additions and 28 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Daniel Duvanå](https://github.com/Daniel-BD)** &mdash; Correct EdgeInsets mislabeled as widget in Flutter example
   <sub>[#12735](https://github.com/flutter/website/pull/12735) merged on November 21, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12735) over 9 hours, 5 additions and 5 deletions in 1 file</sub>
