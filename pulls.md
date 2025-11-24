@@ -167,6 +167,3 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix PinnedHeaderSliver semantics focus capture<br />
   <sub>[#179023](https://github.com/flutter/flutter/pull/179023) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179023) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Roll pub manually, pick up flutter_lints in examples/api<br />
-  <sub>[#179030](https://github.com/flutter/flutter/pull/179030) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179030) 151 additions and 139 deletions in 11 files</sub><br />
-
