@@ -143,9 +143,6 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix PinnedHeaderSliver semantics focus capture<br />
   <sub>[#179023](https://github.com/flutter/flutter/pull/179023) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179023) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP`<br />
-  <sub>[#179039](https://github.com/flutter/flutter/pull/179039) opened on on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179039) 163 additions and 94 deletions in 13 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Fix crash when `widget_preview_scaffold/.dart_tool` doesn't exist<br />
   <sub>[#179042](https://github.com/flutter/flutter/pull/179042) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179042) 51 additions and 8 deletions in 3 files</sub><br />
 
