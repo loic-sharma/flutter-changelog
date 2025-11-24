@@ -134,26 +134,11 @@
 * **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter Material samples<br />
   <sub>[#178948](https://github.com/flutter/flutter/pull/178948) opened on on November 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178948) 193 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoActionSheetAction doesn't crash in 0x0 envi…<br />
-  <sub>[#178955](https://github.com/flutter/flutter/pull/178955) opened on on November 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178955) 23 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDialogAction doesn't crash in 0x0 environment<br />
-  <sub>[#178956](https://github.com/flutter/flutter/pull/178956) opened on on November 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178956) 11 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `activeColor` in `decorated_sliver.1.dart‎` example<br />
   <sub>[#178959](https://github.com/flutter/flutter/pull/178959) opened on on November 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178959) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated activeColor in `dynamic_content_color.0.dart`‎ example<br />
   <sub>[#178961](https://github.com/flutter/flutter/pull/178961) opened on on November 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178961) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoExpansionTile doesn't crash in 0x0 environment<br />
-  <sub>[#178978](https://github.com/flutter/flutter/pull/178978) opened on on November 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178978) 21 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoFormRow doesn't crash in 0x0 environment<br />
-  <sub>[#178979](https://github.com/flutter/flutter/pull/178979) opened on on November 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178979) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoFormSection doesn't crash in 0x0 environment<br />
-  <sub>[#179001](https://github.com/flutter/flutter/pull/179001) opened on on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179001) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Add SliverClipRect and SliverClipRRect<br />
   <sub>[#179003](https://github.com/flutter/flutter/pull/179003) opened on on November 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/179003) 1049 additions and 0 deletions in 4 files</sub><br />
@@ -162,5 +147,8 @@
   <sub>[#179023](https://github.com/flutter/flutter/pull/179023) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179023) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP`<br />
-  <sub>[#179039](https://github.com/flutter/flutter/pull/179039) opened on on November 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179039) 161 additions and 92 deletions in 12 files</sub><br />
+  <sub>[#179039](https://github.com/flutter/flutter/pull/179039) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179039) 161 additions and 92 deletions in 12 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Restore OpenGL state modified by fl_compositor_opengl_present_layers<br />
+  <sub>[#179040](https://github.com/flutter/flutter/pull/179040) opened on on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179040) 67 additions and 4 deletions in 3 files</sub><br />
 
