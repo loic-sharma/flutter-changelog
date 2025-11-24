@@ -795,9 +795,19 @@
 
 ## flutter/website
 
+### November 22, 2025 to November 28, 2025
+
+1 commits.
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE<br />
+  <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="852" height="715" alt="Bildschirmfoto 2025-11-13 um 13 33 50" src="https://github.com/user-attachments/assets/cc9476f1-7f6c-4133-bd67-7789551f7ace" /></details></sub>
+
 ### November 15, 2025 to November 21, 2025
 
-31 commits.
+<details>
+<summary>31 commits...</summary>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add DownloadableSnippet component<br />
   <sub>[#12733](https://github.com/flutter/website/pull/12733) merged on November 23, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12733) over 2 days, 463 additions and 129 deletions in 14 files</sub><br />
@@ -926,6 +936,8 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Update Android package setup instructions to include build.gradle.kts<br />
   <sub>[#12699](https://github.com/flutter/website/pull/12699) merged on November 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12699) over 2 days, 3 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### November 8, 2025 to November 14, 2025
 
