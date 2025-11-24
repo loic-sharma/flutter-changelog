@@ -827,12 +827,16 @@
 
 ### November 22, 2025 to November 28, 2025
 
-1 commits.
+2 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE<br />
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
   <sub><details><summary>1 image...</summary><img width="852" height="715" alt="Bildschirmfoto 2025-11-13 um 13 33 50" src="https://github.com/user-attachments/assets/cc9476f1-7f6c-4133-bd67-7789551f7ace" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove a few more Liquid usages<br />
+  <sub>[#12741](https://github.com/flutter/website/pull/12741) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12741) over 16 hours, 13 additions and 20 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 ### November 15, 2025 to November 21, 2025
 
