@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-4 commits.
+5 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Pass EXCLUDED_ARCHS from Xcode project to xcodebuild for macOS builds<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) merged on November 24, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/176948) over 1 month, 133 additions and 3 deletions in 3 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Roll pub manually, pick up flutter_lints in examples/api<br />
   <sub>[#179030](https://github.com/flutter/flutter/pull/179030) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179030) over 1 hour, 151 additions and 139 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update CHANGELOG.md for Flutter 3.38.3<br />
+  <sub>[#178935](https://github.com/flutter/flutter/pull/178935) merged on November 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178935) over 3 days, 7 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `SettingsChannel.java‎`<br />
   <sub>[#178590](https://github.com/flutter/flutter/pull/178590) merged on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178590) over 1 week, 4 additions and 4 deletions in 1 file</sub><br />
