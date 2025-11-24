@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-8 commits.
+9 commits.
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings<br />
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Potentially fixing the flakiness in win32 windowing tests, but it needs some running<br />
   <sub>[#178499](https://github.com/flutter/flutter/pull/178499) merged on November 24, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/178499) over 1 week, 242 additions and 156 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated licenses_cpp readme<br />
+  <sub>[#178874](https://github.com/flutter/flutter/pull/178874) merged on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178874) over 4 days, 2 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Roll pub manually, pick up flutter_lints in examples/api<br />
   <sub>[#179030](https://github.com/flutter/flutter/pull/179030) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179030) over 1 hour, 151 additions and 139 deletions in 11 files</sub><br />
