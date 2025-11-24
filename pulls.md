@@ -167,3 +167,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoFormSection doesn't crash in 0x0 environment<br />
   <sub>[#179001](https://github.com/flutter/flutter/pull/179001) opened on on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179001) 13 additions and 0 deletions in 1 file</sub><br />
 
+* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Add SliverClipRect and SliverClipRRect<br />
+  <sub>[#179003](https://github.com/flutter/flutter/pull/179003) opened on on November 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/179003) 1049 additions and 0 deletions in 4 files</sub><br />
+
+* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix PinnedHeaderSliver semantics focus capture<br />
+  <sub>[#179023](https://github.com/flutter/flutter/pull/179023) opened on on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179023) 6 additions and 0 deletions in 1 file</sub><br />
+
