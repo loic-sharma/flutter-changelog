@@ -63,7 +63,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Javalia(Minsuk Jung)](https://github.com/garrettjavalia)** &mdash; Fix #160622: change containsWatchConpanion function to detect companion watch apps defined by only the project info file.
-  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) merged on November 18, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/176832) over 1 month, 11 additions and 20 deletions in 2 files</sub>
+  <sub>[#176832](https://github.com/flutter/flutter/pull/176832) merged on November 18, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/176832) over 1 month, 11 additions and 20 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Manual pub roll
