@@ -80,9 +80,6 @@
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale<br />
-  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) opened on on November 14, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/178526) 79 additions and 9 deletions in 3 files</sub><br />
-
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: check both pointer count and action before reusing MotionEvent<br />
   <sub>[#178528](https://github.com/flutter/flutter/pull/178528) opened on on November 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178528) 112 additions and 8 deletions in 2 files</sub><br />
 
