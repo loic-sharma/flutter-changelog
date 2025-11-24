@@ -158,3 +158,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Delete unecessary lockfile<br />
   <sub>[#179052](https://github.com/flutter/flutter/pull/179052) opened on on November 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179052) 0 additions and 105 deletions in 1 file</sub><br />
 
+* **[bungeman](https://github.com/bungeman)** &mdash; Explicitly use FreeType font scanner with Fuchsia<br />
+  <sub>[#179055](https://github.com/flutter/flutter/pull/179055) opened on on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179055) 3 additions and 1 deletion in 1 file</sub><br />
+
