@@ -4,7 +4,11 @@
 
 ### November 22, 2025 to November 28, 2025
 
-6 commits.
+7 commits.
+
+* **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings
+  <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Pass EXCLUDED_ARCHS from Xcode project to xcodebuild for macOS builds
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) merged on November 24, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/176948) over 1 month, 133 additions and 3 deletions in 3 files</sub>
