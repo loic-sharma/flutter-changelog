@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 22, 2025 to November 28, 2025
+
+1 commits.
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Potentially fixing the flakiness in win32 windowing tests, but it needs some running<br />
+  <sub>[#178499](https://github.com/flutter/flutter/pull/178499) merged on November 24, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/178499) over 1 week, 242 additions and 156 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 ### November 15, 2025 to November 21, 2025
 
-68 commits.
+<details>
+<summary>68 commits...</summary>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [ios] Dynamic Content Resizing<br />
   <sub>[#177410](https://github.com/flutter/flutter/pull/177410) merged on November 22, 2025 &mdash; **Large:** [62 comments](https://github.com/flutter/flutter/pull/177410) over 1 month, 512 additions and 6 deletions in 16 files</sub><br />
@@ -281,6 +290,8 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Separate copying dsym into its own target (#178261)"<br />
   <sub>[#178545](https://github.com/flutter/flutter/pull/178545) merged on November 17, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/178545) over 2 days, 118 additions and 245 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+</details>
 
 ### November 8, 2025 to November 14, 2025
 
