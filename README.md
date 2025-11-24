@@ -610,9 +610,18 @@
 
 ## flutter/packages
 
+### November 22, 2025 to November 28, 2025
+
+1 commits.
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Bump Packages to Robolectric 4.16<br />
+  <sub>[#10492](https://github.com/flutter/packages/pull/10492) merged on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10492) over 2 days, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### November 15, 2025 to November 21, 2025
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Convert iOS/macOS to FFI package<br />
   <sub>[#9762](https://github.com/flutter/packages/pull/9762) merged on November 20, 2025 &mdash; **Extra large:** [28 comments](https://github.com/flutter/packages/pull/9762) over 3 months, 1414 additions and 916 deletions in 26 files</sub><br />
@@ -693,6 +702,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from b45fa18946ec to f5a8537f90d1 (12 revisions)<br />
   <sub>[#10478](https://github.com/flutter/packages/pull/10478) merged on November 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10478) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### November 8, 2025 to November 14, 2025
 
