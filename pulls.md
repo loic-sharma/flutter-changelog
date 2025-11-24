@@ -137,9 +137,6 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
   <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/178922) 367 additions and 235 deletions in 7 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Restore OpenGL state modified by fl_compositor_opengl_present_layers<br />
-  <sub>[#178937](https://github.com/flutter/flutter/pull/178937) opened on on November 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178937) 67 additions and 4 deletions in 3 files</sub><br />
-
 * **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter Material samples<br />
   <sub>[#178948](https://github.com/flutter/flutter/pull/178948) opened on on November 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178948) 193 additions and 0 deletions in 2 files</sub><br />
 
@@ -172,4 +169,7 @@
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix PinnedHeaderSliver semantics focus capture<br />
   <sub>[#179023](https://github.com/flutter/flutter/pull/179023) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179023) 6 additions and 0 deletions in 1 file</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Roll pub manually, pick up flutter_lints in examples/api<br />
+  <sub>[#179030](https://github.com/flutter/flutter/pull/179030) opened on on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179030) 36 additions and 35 deletions in 7 files</sub><br />
 
