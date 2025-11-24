@@ -168,5 +168,5 @@
   <sub>[#178993](https://github.com/flutter/flutter/pull/178993) opened on on November 23, 2025 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/178993) 6043 additions and 1578 deletions in 261 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoFormSection doesn't crash in 0x0 environment<br />
-  <sub>[#179001](https://github.com/flutter/flutter/pull/179001) opened on on November 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179001) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179001](https://github.com/flutter/flutter/pull/179001) opened on on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179001) 13 additions and 0 deletions in 1 file</sub><br />
 
