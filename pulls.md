@@ -146,9 +146,6 @@
 * **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter Material samples<br />
   <sub>[#178948](https://github.com/flutter/flutter/pull/178948) opened on on November 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178948) 193 additions and 0 deletions in 2 files</sub><br />
 
-* **[Simon Binder](https://github.com/simolus3)** &mdash; Build hooks: Don't require toolchain for unit tests<br />
-  <sub>[#178954](https://github.com/flutter/flutter/pull/178954) opened on on November 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178954) 220 additions and 36 deletions in 6 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoActionSheetAction doesn't crash in 0x0 envi…<br />
   <sub>[#178955](https://github.com/flutter/flutter/pull/178955) opened on on November 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178955) 23 additions and 0 deletions in 1 file</sub><br />
 
