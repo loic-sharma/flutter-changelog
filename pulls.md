@@ -8,9 +8,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
 
-* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot. [reland]<br />
-  <sub>[#174870](https://github.com/flutter/flutter/pull/174870) opened on on September 3, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/174870) 111 additions and 328 deletions in 4 files</sub><br />
-
 * **[Mo Luo](https://github.com/moluopro)** &mdash; Fix: use 'exit' instead of 'return' for curlExitCode<br />
   <sub>[#175025](https://github.com/flutter/flutter/pull/175025) opened on on September 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175025) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -171,7 +168,7 @@
   <sub>[#179001](https://github.com/flutter/flutter/pull/179001) opened on on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179001) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Use a separate output directory when the native hooks run the build system<br />
-  <sub>[#179015](https://github.com/flutter/flutter/pull/179015) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179015) 94 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#179015](https://github.com/flutter/flutter/pull/179015) opened on on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179015) 94 additions and 2 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Tool ] Use a separate output directory when the native hooks run the build system<br />
   <sub>[#179016](https://github.com/flutter/flutter/pull/179016) opened on on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179016) 94 additions and 2 deletions in 3 files</sub><br />
