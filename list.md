@@ -640,7 +640,11 @@
 
 ### November 22, 2025 to November 28, 2025
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [all] Omit obvious local types
+  <sub>[#10511](https://github.com/flutter/packages/pull/10511) merged on November 24, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/10511) over 5 hours, 38564 additions and 36641 deletions in 1010 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Parker Lougheed](https://github.com/parlough), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Bump Packages to Robolectric 4.16
   <sub>[#10492](https://github.com/flutter/packages/pull/10492) merged on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10492) over 2 days, 2 additions and 2 deletions in 2 files</sub>
