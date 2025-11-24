@@ -152,6 +152,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP` (#179039)<br />
   <sub>[#179051](https://github.com/flutter/flutter/pull/179051) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179051) 165 additions and 65 deletions in 13 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Delete unecessary lockfile<br />
-  <sub>[#179052](https://github.com/flutter/flutter/pull/179052) opened on on November 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179052) 0 additions and 105 deletions in 1 file</sub><br />
-
