@@ -113,9 +113,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) opened on on November 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178895) 74 additions and 13 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `_isLabel` method in `stepper.dart` to use `any` for better readablity<br />
-  <sub>[#178909](https://github.com/flutter/flutter/pull/178909) opened on on November 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178909) 1 addition and 6 deletions in 1 file</sub><br />
-
 * **[Pierre](https://github.com/guidezpl)** &mdash; Add missing permissions key to workflows<br />
   <sub>[#178911](https://github.com/flutter/flutter/pull/178911) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178911) 8 additions and 0 deletions in 2 files</sub><br />
 
@@ -157,7 +154,4 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Delete unecessary lockfile<br />
   <sub>[#179052](https://github.com/flutter/flutter/pull/179052) opened on on November 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179052) 0 additions and 105 deletions in 1 file</sub><br />
-
-* **[bungeman](https://github.com/bungeman)** &mdash; Explicitly use FreeType font scanner with Fuchsia<br />
-  <sub>[#179055](https://github.com/flutter/flutter/pull/179055) opened on on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179055) 3 additions and 1 deletion in 1 file</sub><br />
 

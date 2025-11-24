@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-7 commits.
+8 commits.
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub>
@@ -25,6 +25,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Roll pub manually, pick up flutter_lints in examples/api
   <sub>[#179030](https://github.com/flutter/flutter/pull/179030) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179030) over 1 hour, 151 additions and 139 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `_isLabel` method in `stepper.dart` to use `any` for better readablity
+  <sub>[#178909](https://github.com/flutter/flutter/pull/178909) merged on November 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178909) over 3 days, 1 addition and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update CHANGELOG.md for Flutter 3.38.3
   <sub>[#178935](https://github.com/flutter/flutter/pull/178935) merged on November 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178935) over 3 days, 7 additions and 0 deletions in 2 files</sub>
