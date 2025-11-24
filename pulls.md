@@ -149,6 +149,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP`<br />
   <sub>[#179039](https://github.com/flutter/flutter/pull/179039) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179039) 161 additions and 92 deletions in 12 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Restore OpenGL state modified by fl_compositor_opengl_present_layers<br />
-  <sub>[#179040](https://github.com/flutter/flutter/pull/179040) opened on on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179040) 67 additions and 4 deletions in 3 files</sub><br />
-
