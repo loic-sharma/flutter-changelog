@@ -170,3 +170,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoFormSection doesn't crash in 0x0 environment<br />
   <sub>[#179001](https://github.com/flutter/flutter/pull/179001) opened on on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179001) 13 additions and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update some comments to reflect theme normalization<br />
+  <sub>[#179013](https://github.com/flutter/flutter/pull/179013) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179013) 29 additions and 37 deletions in 3 files</sub><br />
+
