@@ -147,5 +147,5 @@
   <sub>[#179023](https://github.com/flutter/flutter/pull/179023) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179023) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP`<br />
-  <sub>[#179039](https://github.com/flutter/flutter/pull/179039) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179039) 161 additions and 92 deletions in 12 files</sub><br />
+  <sub>[#179039](https://github.com/flutter/flutter/pull/179039) opened on on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179039) 163 additions and 94 deletions in 13 files</sub><br />
 

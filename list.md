@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-3 commits.
+4 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Pass EXCLUDED_ARCHS from Xcode project to xcodebuild for macOS builds
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) merged on November 24, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/176948) over 1 month, 133 additions and 3 deletions in 3 files</sub>
@@ -17,6 +17,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Roll pub manually, pick up flutter_lints in examples/api
   <sub>[#179030](https://github.com/flutter/flutter/pull/179030) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179030) over 1 hour, 151 additions and 139 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `SettingsChannel.java‎`
+  <sub>[#178590](https://github.com/flutter/flutter/pull/178590) merged on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178590) over 1 week, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub>
 
 ### November 15, 2025 to November 21, 2025
 
@@ -835,7 +839,7 @@
   <sub><details><summary>1 image...</summary><img width="852" height="715" alt="Bildschirmfoto 2025-11-13 um 13 33 50" src="https://github.com/user-attachments/assets/cc9476f1-7f6c-4133-bd67-7789551f7ace" /></details></sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update the material 3 design token docs
-  <sub>[#12125](https://github.com/flutter/website/pull/12125) merged on November 24, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/12125) over 5 months, 45 additions and 0 deletions in 2 files</sub>
+  <sub>[#12125](https://github.com/flutter/website/pull/12125) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12125) over 5 months, 45 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove a few more Liquid usages
