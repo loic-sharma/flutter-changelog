@@ -155,6 +155,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP` (#179039)<br />
   <sub>[#179051](https://github.com/flutter/flutter/pull/179051) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179051) 164 additions and 65 deletions in 13 files</sub><br />
 
-* **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual Dart SDK roll to 015e6b08739<br />
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Delete unecessary lockfile<br />
+  <sub>[#179052](https://github.com/flutter/flutter/pull/179052) opened on on November 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179052) 0 additions and 105 deletions in 1 file</sub><br />
+
+* **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual Dart SDK roll to 3.11.0-169.0.dev<br />
   <sub>[#179054](https://github.com/flutter/flutter/pull/179054) opened on on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179054) 2 additions and 2 deletions in 1 file</sub><br />
 
