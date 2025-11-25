@@ -668,11 +668,19 @@
 
 ### November 22, 2025 to November 28, 2025
 
-2 commits.
+4 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [all] Omit obvious local types
   <sub>[#10511](https://github.com/flutter/packages/pull/10511) merged on November 24, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/10511) over 5 hours, 38564 additions and 36641 deletions in 1010 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Parker Lougheed](https://github.com/parlough), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Replace deprecated APIs
+  <sub>[#10474](https://github.com/flutter/packages/pull/10474) merged on November 25, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/10474) over 5 days, 742 additions and 418 deletions in 53 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Remove code analysis from podspec-check
+  <sub>[#10484](https://github.com/flutter/packages/pull/10484) merged on November 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10484) over 4 days, 11 additions and 99 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Bump Packages to Robolectric 4.16
   <sub>[#10492](https://github.com/flutter/packages/pull/10492) merged on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10492) over 2 days, 2 additions and 2 deletions in 2 files</sub>

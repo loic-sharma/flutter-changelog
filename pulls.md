@@ -152,6 +152,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListSection doesn't crash in 0x0 environment<br />
   <sub>[#179068](https://github.com/flutter/flutter/pull/179068) opened on on November 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179068) 11 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; WIP: Update lints<br />
-  <sub>[#179089](https://github.com/flutter/flutter/pull/179089) opened on on November 25, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/179089) 32313 additions and 35635 deletions in 2010 files</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints<br />
+  <sub>[#179089](https://github.com/flutter/flutter/pull/179089) opened on on November 25, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/179089) 32313 additions and 35635 deletions in 2010 files</sub><br />
 
