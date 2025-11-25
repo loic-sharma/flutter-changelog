@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-13 commits.
+14 commits.
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings<br />
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP`<br />
   <sub>[#179039](https://github.com/flutter/flutter/pull/179039) merged on November 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179039) over 1 hour, 163 additions and 94 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove semantics geometry shortcircuit<br />
+  <sub>[#178680](https://github.com/flutter/flutter/pull/178680) merged on November 25, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/178680) over 1 week, 176 additions and 97 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump Dart to 3.9<br />
   <sub>[#179041](https://github.com/flutter/flutter/pull/179041) merged on November 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179041) over 4 hours, 132 additions and 135 deletions in 132 files</sub><br />
