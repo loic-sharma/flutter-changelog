@@ -4,7 +4,11 @@
 
 ### November 22, 2025 to November 28, 2025
 
-15 commits.
+16 commits.
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add tooltip windows to the windowing API alongside the window positioning logic
+  <sub>[#177404](https://github.com/flutter/flutter/pull/177404) merged on November 25, 2025 &mdash; **Extra large:** [99 comments](https://github.com/flutter/flutter/pull/177404) over 1 month, 1753 additions and 0 deletions in 11 files</sub>
+  <sub>Reviewed by: [Michał Sawicz](https://github.com/Saviq), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub>
