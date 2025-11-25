@@ -7,7 +7,7 @@
 17 commits.
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics
-  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) merged on November 25, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/178817) over 5 days, 407 additions and 88 deletions in 14 files</sub>
+  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) merged on November 25, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/178817) over 5 days, 407 additions and 88 deletions in 14 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add tooltip windows to the windowing API alongside the window positioning logic
@@ -899,7 +899,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-6 commits.
+7 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub>
@@ -909,6 +909,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update the material 3 design token docs
   <sub>[#12125](https://github.com/flutter/website/pull/12125) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12125) over 5 months, 45 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add redirect from `/download` to `/install`
+  <sub>[#12750](https://github.com/flutter/website/pull/12750) merged on November 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12750) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add more exposure to antigravity in ai overview
   <sub>[#12749](https://github.com/flutter/website/pull/12749) merged on November 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12749) over 39 minutes, 23 additions and 5 deletions in 1 file</sub>

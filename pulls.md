@@ -50,9 +50,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
   <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177954) 163 additions and 4 deletions in 12 files</sub><br />
 
-* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
-  <sub>[#178057](https://github.com/flutter/flutter/pull/178057) opened on on November 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178057) 3 additions and 3 deletions in 3 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
   <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178116) 1312 additions and 147 deletions in 30 files</sub><br />
 
@@ -124,12 +121,6 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated activeColor in `dynamic_content_color.0.dart`‎ example<br />
   <sub>[#178961](https://github.com/flutter/flutter/pull/178961) opened on on November 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178961) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Add SliverClipRect and SliverClipRRect<br />
-  <sub>[#179003](https://github.com/flutter/flutter/pull/179003) opened on on November 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/179003) 1049 additions and 0 deletions in 4 files</sub><br />
-
-* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix PinnedHeaderSliver semantics focus capture<br />
-  <sub>[#179023](https://github.com/flutter/flutter/pull/179023) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179023) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Fix crash when `widget_preview_scaffold/.dart_tool` doesn't exist<br />
   <sub>[#179043](https://github.com/flutter/flutter/pull/179043) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179043) 51 additions and 8 deletions in 3 files</sub><br />
