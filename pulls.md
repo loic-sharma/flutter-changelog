@@ -120,7 +120,7 @@
   <sub>[#178919](https://github.com/flutter/flutter/pull/178919) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178919) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
-  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/178922) 367 additions and 235 deletions in 7 files</sub><br />
+  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/178922) 2601 additions and 351 deletions in 121 files</sub><br />
 
 * **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter Material samples<br />
   <sub>[#178948](https://github.com/flutter/flutter/pull/178948) opened on on November 21, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178948) 193 additions and 0 deletions in 2 files</sub><br />
