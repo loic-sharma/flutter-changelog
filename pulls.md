@@ -48,7 +48,7 @@
   <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/177855) 388 additions and 21 deletions in 2 files</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [31 comments](https://github.com/flutter/flutter/pull/177888) 437 additions and 43 deletions in 4 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/177888) 437 additions and 43 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
   <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177954) 163 additions and 4 deletions in 12 files</sub><br />
