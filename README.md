@@ -7,7 +7,7 @@
 17 commits.
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics<br />
-  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) merged on November 25, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/178817) over 5 days, 407 additions and 88 deletions in 14 files</sub><br />
+  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) merged on November 25, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/178817) over 5 days, 407 additions and 88 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add tooltip windows to the windowing API alongside the window positioning logic<br />
