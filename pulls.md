@@ -137,14 +137,8 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix PinnedHeaderSliver semantics focus capture<br />
   <sub>[#179023](https://github.com/flutter/flutter/pull/179023) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179023) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Fix crash when `widget_preview_scaffold/.dart_tool` doesn't exist<br />
-  <sub>[#179042](https://github.com/flutter/flutter/pull/179042) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179042) 51 additions and 8 deletions in 3 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Fix crash when `widget_preview_scaffold/.dart_tool` doesn't exist<br />
   <sub>[#179043](https://github.com/flutter/flutter/pull/179043) opened on on November 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179043) 51 additions and 8 deletions in 3 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Widget Preview ] Always generate scaffold under `$TMP` (#179039)<br />
-  <sub>[#179050](https://github.com/flutter/flutter/pull/179050) opened on on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179050) 130 additions and 66 deletions in 13 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Widget Preview ] Always generate scaffold under `$TMP` (#179039)<br />
   <sub>[#179051](https://github.com/flutter/flutter/pull/179051) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179051) 165 additions and 65 deletions in 13 files</sub><br />

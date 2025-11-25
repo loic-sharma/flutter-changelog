@@ -672,11 +672,15 @@
 
 ### November 22, 2025 to November 28, 2025
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [all] Omit obvious local types<br />
   <sub>[#10511](https://github.com/flutter/packages/pull/10511) merged on November 24, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/10511) over 5 hours, 38564 additions and 36641 deletions in 1010 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Parker Lougheed](https://github.com/parlough), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Revert iOS/macOS to plugin-based implementation<br />
+  <sub>[#10517](https://github.com/flutter/packages/pull/10517) merged on November 25, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/10517) over 44 minutes, 905 additions and 1408 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Replace deprecated APIs<br />
   <sub>[#10474](https://github.com/flutter/packages/pull/10474) merged on November 25, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/10474) over 5 days, 742 additions and 418 deletions in 53 files</sub><br />
@@ -895,7 +899,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-5 commits.
+6 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE<br />
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub><br />
@@ -905,6 +909,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update the material 3 design token docs<br />
   <sub>[#12125](https://github.com/flutter/website/pull/12125) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12125) over 5 months, 45 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add more exposure to antigravity in ai overview<br />
+  <sub>[#12749](https://github.com/flutter/website/pull/12749) merged on November 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12749) over 39 minutes, 23 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding slivers to the glossary<br />
   <sub>[#12744](https://github.com/flutter/website/pull/12744) merged on November 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12744) over 17 hours, 41 additions and 0 deletions in 1 file</sub><br />
