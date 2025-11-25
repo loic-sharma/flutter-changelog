@@ -149,3 +149,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP` (#179039)<br />
   <sub>[#179051](https://github.com/flutter/flutter/pull/179051) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179051) 165 additions and 65 deletions in 13 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListSection doesn't crash in 0x0 environment<br />
+  <sub>[#179068](https://github.com/flutter/flutter/pull/179068) opened on on November 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179068) 11 additions and 0 deletions in 1 file</sub><br />
+
