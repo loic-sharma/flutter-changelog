@@ -51,7 +51,7 @@
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/177888) 376 additions and 43 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
-  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177954) 153 additions and 5 deletions in 12 files</sub><br />
+  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177954) 163 additions and 4 deletions in 12 files</sub><br />
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) opened on on November 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178057) 3 additions and 3 deletions in 3 files</sub><br />
