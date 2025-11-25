@@ -6,6 +6,10 @@
 
 17 commits.
 
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics<br />
+  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) merged on November 25, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/178817) over 5 days, 407 additions and 88 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add tooltip windows to the windowing API alongside the window positioning logic<br />
   <sub>[#177404](https://github.com/flutter/flutter/pull/177404) merged on November 25, 2025 &mdash; **Extra large:** [99 comments](https://github.com/flutter/flutter/pull/177404) over 1 month, 1753 additions and 0 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Michał Sawicz](https://github.com/Saviq), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -13,10 +17,6 @@
 * **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings<br />
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics<br />
-  <sub>[#178817](https://github.com/flutter/flutter/pull/178817) merged on November 25, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/178817) over 5 days, 407 additions and 88 deletions in 14 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Dynamically set MinimumOSVersion in App.framework<br />
   <sub>[#178253](https://github.com/flutter/flutter/pull/178253) merged on November 25, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/178253) over 2 weeks, 305 additions and 9 deletions in 7 files</sub><br />
