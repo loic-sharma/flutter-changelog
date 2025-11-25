@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-14 commits.
+15 commits.
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings<br />
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub><br />
@@ -49,6 +49,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated licenses_cpp readme<br />
   <sub>[#178874](https://github.com/flutter/flutter/pull/178874) merged on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178874) over 4 days, 2 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; FlutterWindowsView::SendWindowMetrics now reliably sends the display_id<br />
+  <sub>[#179053](https://github.com/flutter/flutter/pull/179053) merged on November 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179053) over 16 hours, 26 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor `_isLabel` method in `stepper.dart` to use `any` for better readablity<br />
   <sub>[#178909](https://github.com/flutter/flutter/pull/178909) merged on November 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178909) over 3 days, 1 addition and 6 deletions in 1 file</sub><br />
