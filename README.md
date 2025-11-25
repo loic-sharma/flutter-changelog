@@ -4,11 +4,15 @@
 
 ### November 22, 2025 to November 28, 2025
 
-11 commits.
+12 commits.
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings<br />
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Dynamically set MinimumOSVersion in App.framework<br />
+  <sub>[#178253](https://github.com/flutter/flutter/pull/178253) merged on November 25, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/178253) over 2 weeks, 305 additions and 9 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Pass EXCLUDED_ARCHS from Xcode project to xcodebuild for macOS builds<br />
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) merged on November 24, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/176948) over 1 month, 133 additions and 3 deletions in 3 files</sub><br />
