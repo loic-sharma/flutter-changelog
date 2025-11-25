@@ -89,9 +89,6 @@
 * **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
-* **[Youssef Shamass](https://github.com/yshamass9)** &mdash; [ Tool ] Assemble: "Improper" validation error when dealing with base64 encoded dart-define value <br />
-  <sub>[#178737](https://github.com/flutter/flutter/pull/178737) opened on on November 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178737) 39 additions and 11 deletions in 2 files</sub><br />
-
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
@@ -144,7 +141,7 @@
   <sub>[#179068](https://github.com/flutter/flutter/pull/179068) opened on on November 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179068) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints<br />
-  <sub>[#179089](https://github.com/flutter/flutter/pull/179089) opened on on November 25, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/179089) 32313 additions and 35635 deletions in 2010 files</sub><br />
+  <sub>[#179089](https://github.com/flutter/flutter/pull/179089) opened on on November 25, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/179089) 38493 additions and 42424 deletions in 2493 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Replace dropdown button with dropdown menu<br />
   <sub>[#179095](https://github.com/flutter/flutter/pull/179095) opened on on November 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179095) 1 addition and 1 deletion in 1 file</sub><br />
