@@ -883,7 +883,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-3 commits.
+4 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE<br />
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub><br />
@@ -893,6 +893,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update the material 3 design token docs<br />
   <sub>[#12125](https://github.com/flutter/website/pull/12125) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12125) over 5 months, 45 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding slivers to the glossary<br />
+  <sub>[#12744](https://github.com/flutter/website/pull/12744) merged on November 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12744) over 17 hours, 41 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove a few more Liquid usages<br />
   <sub>[#12741](https://github.com/flutter/website/pull/12741) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12741) over 16 hours, 13 additions and 20 deletions in 6 files</sub><br />
