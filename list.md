@@ -895,7 +895,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-4 commits.
+5 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub>
@@ -909,6 +909,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding slivers to the glossary
   <sub>[#12744](https://github.com/flutter/website/pull/12744) merged on November 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12744) over 17 hours, 41 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Antigravity MCP setup instructions
+  <sub>[#12748](https://github.com/flutter/website/pull/12748) merged on November 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12748) over 58 minutes, 49 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53), [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove a few more Liquid usages
   <sub>[#12741](https://github.com/flutter/website/pull/12741) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12741) over 16 hours, 13 additions and 20 deletions in 6 files</sub>
