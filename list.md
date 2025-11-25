@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-9 commits.
+11 commits.
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub>
@@ -20,6 +20,14 @@
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Potentially fixing the flakiness in win32 windowing tests, but it needs some running
   <sub>[#178499](https://github.com/flutter/flutter/pull/178499) merged on November 24, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/178499) over 1 week, 242 additions and 156 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual Dart SDK roll to 3.11.0-169.0.dev
+  <sub>[#179054](https://github.com/flutter/flutter/pull/179054) merged on November 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179054) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump Dart to 3.9
+  <sub>[#179041](https://github.com/flutter/flutter/pull/179041) merged on November 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179041) over 4 hours, 132 additions and 135 deletions in 132 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated licenses_cpp readme
