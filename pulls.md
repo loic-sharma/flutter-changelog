@@ -44,9 +44,6 @@
 * **[RONGALI MOHAN KRISHNA 2400033266](https://github.com/kl2400033266)** &mdash; Fix grammar and punctuation in README.md<br />
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Илия](https://github.com/777genius)** &mdash; Add Cyrillic keyboard layout support for flutter_tools terminal commands<br />
-  <sub>[#177855](https://github.com/flutter/flutter/pull/177855) opened on on October 31, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/177855) 388 additions and 21 deletions in 2 files</sub><br />
-
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/177888) 437 additions and 43 deletions in 4 files</sub><br />
 
