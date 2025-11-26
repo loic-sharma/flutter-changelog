@@ -915,7 +915,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-9 commits.
+11 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE<br />
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub><br />
@@ -926,9 +926,17 @@
   <sub>[#12125](https://github.com/flutter/website/pull/12125) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12125) over 5 months, 45 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add glossary entries for hot reload and hot restart<br />
+  <sub>[#12757](https://github.com/flutter/website/pull/12757) merged on November 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12757) over 57 minutes, 53 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
+
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add redirect from `/download` to `/install`<br />
   <sub>[#12750](https://github.com/flutter/website/pull/12750) merged on November 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12750) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Ecraindrop](https://github.com/Ecraindrop)** &mdash; Add forceSingleThreadedSkwasm option to Flutter web loader (#178406)<br />
+  <sub>[#12712](https://github.com/flutter/website/pull/12712) merged on November 26, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12712) over 1 week, 24 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add more exposure to antigravity in ai overview<br />
   <sub>[#12749](https://github.com/flutter/website/pull/12749) merged on November 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12749) over 39 minutes, 23 additions and 5 deletions in 1 file</sub><br />

@@ -131,12 +131,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Widget Preview ] Always generate scaffold under `$TMP` (#179039)<br />
   <sub>[#179051](https://github.com/flutter/flutter/pull/179051) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179051) 165 additions and 65 deletions in 13 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add flutter_lints to samples<br />
-  <sub>[#179091](https://github.com/flutter/flutter/pull/179091) opened on on November 25, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/179091) 13033 additions and 5926 deletions in 1004 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Replace dropdown button with dropdown menu<br />
-  <sub>[#179095](https://github.com/flutter/flutter/pull/179095) opened on on November 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179095) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Refactor GetShaderClipDepth for clarity<br />
   <sub>[#179110](https://github.com/flutter/flutter/pull/179110) opened on on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179110) 1 addition and 2 deletions in 1 file</sub><br />
 
