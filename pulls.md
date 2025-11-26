@@ -134,3 +134,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Replace dropdown button with dropdown menu<br />
   <sub>[#179095](https://github.com/flutter/flutter/pull/179095) opened on on November 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179095) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTile doesn't crash in 0x0 environment<br />
+  <sub>[#179109](https://github.com/flutter/flutter/pull/179109) opened on on November 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179109) 11 additions and 0 deletions in 1 file</sub><br />
+
