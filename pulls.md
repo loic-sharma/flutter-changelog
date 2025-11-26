@@ -132,7 +132,7 @@
   <sub>[#179068](https://github.com/flutter/flutter/pull/179068) opened on on November 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179068) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints<br />
-  <sub>[#179089](https://github.com/flutter/flutter/pull/179089) opened on on November 25, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/179089) 38493 additions and 42424 deletions in 2493 files</sub><br />
+  <sub>[#179089](https://github.com/flutter/flutter/pull/179089) opened on on November 25, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/179089) 38512 additions and 42443 deletions in 2494 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Replace dropdown button with dropdown menu<br />
   <sub>[#179095](https://github.com/flutter/flutter/pull/179095) opened on on November 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179095) 1 addition and 1 deletion in 1 file</sub><br />
