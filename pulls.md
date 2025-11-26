@@ -90,7 +90,7 @@
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Allow SliverMainAxisGroup children to remain pinned<br />
-  <sub>[#178809](https://github.com/flutter/flutter/pull/178809) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178809) 187 additions and 65 deletions in 4 files</sub><br />
+  <sub>[#178809](https://github.com/flutter/flutter/pull/178809) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178809) 186 additions and 64 deletions in 4 files</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Improve Container color/decoration error message clarity<br />
   <sub>[#178823](https://github.com/flutter/flutter/pull/178823) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178823) 3 additions and 2 deletions in 1 file</sub><br />
@@ -145,4 +145,7 @@
 
 * **[Amir Bazarchi](https://github.com/RoboMaxir)** &mdash; Cash flow<br />
   <sub>[#179112](https://github.com/flutter/flutter/pull/179112) opened on on November 26, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/179112) 3548 additions and 1563 deletions in 111 files</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue with pinned headers in nested SliverMainAxisGroup.<br />
+  <sub>[#179132](https://github.com/flutter/flutter/pull/179132) opened on on November 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179132) 62 additions and 5 deletions in 2 files</sub><br />
 
