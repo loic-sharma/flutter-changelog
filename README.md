@@ -680,7 +680,11 @@
 
 ### November 22, 2025 to November 28, 2025
 
-8 commits.
+9 commits.
+
+* **[Danang Rahmatullah](https://github.com/dasyad00)** &mdash; [camera_android_camerax] use MediaSettings::fps for image preview, streaming, and video recording<br />
+  <sub>[#10301](https://github.com/flutter/packages/pull/10301) merged on November 26, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/10301) over 1 month, 397 additions and 43 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [all] Omit obvious local types<br />
   <sub>[#10511](https://github.com/flutter/packages/pull/10511) merged on November 24, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/10511) over 5 hours, 38564 additions and 36641 deletions in 1010 files</sub><br />
