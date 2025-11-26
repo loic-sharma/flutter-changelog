@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-19 commits.
+20 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints<br />
   <sub>[#179089](https://github.com/flutter/flutter/pull/179089) merged on November 26, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/179089) over 8 hours, 38512 additions and 42443 deletions in 2494 files</sub><br />
@@ -41,6 +41,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP`<br />
   <sub>[#179039](https://github.com/flutter/flutter/pull/179039) merged on November 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179039) over 1 hour, 163 additions and 94 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add flutter_lints to samples<br />
+  <sub>[#179091](https://github.com/flutter/flutter/pull/179091) merged on November 26, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/179091) over 1 day, 13033 additions and 5930 deletions in 1004 files</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove semantics geometry shortcircuit<br />
   <sub>[#178680](https://github.com/flutter/flutter/pull/178680) merged on November 25, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/178680) over 1 week, 176 additions and 97 deletions in 5 files</sub><br />
