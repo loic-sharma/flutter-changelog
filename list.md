@@ -680,7 +680,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-6 commits.
+7 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [all] Omit obvious local types
   <sub>[#10511](https://github.com/flutter/packages/pull/10511) merged on November 24, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/10511) over 5 hours, 38564 additions and 36641 deletions in 1010 files</sub>
@@ -697,6 +697,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Remove code analysis from podspec-check
   <sub>[#10484](https://github.com/flutter/packages/pull/10484) merged on November 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10484) over 4 days, 11 additions and 99 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[agra](https://github.com/agrapine)** &mdash; [camera] fix RECORD_AUDIO permission on Android when there is no permission
+  <sub>[#10424](https://github.com/flutter/packages/pull/10424) merged on November 26, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/10424) over 1 week, 39 additions and 10 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player_avfoundation] Create a Dart player instance
   <sub>[#10490](https://github.com/flutter/packages/pull/10490) merged on November 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10490) over 4 days, 152 additions and 101 deletions in 5 files</sub>
@@ -911,7 +915,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-7 commits.
+8 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub>
@@ -941,6 +945,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove a few more Liquid usages
   <sub>[#12741](https://github.com/flutter/website/pull/12741) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12741) over 16 hours, 13 additions and 20 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Fix style of leading console token in code blocks
+  <sub>[#12752](https://github.com/flutter/website/pull/12752) merged on November 26, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12752) over 3 hours, 42 additions and 7 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### November 15, 2025 to November 21, 2025
 
