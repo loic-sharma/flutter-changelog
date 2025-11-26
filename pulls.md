@@ -95,12 +95,6 @@
 * **[Илия](https://github.com/777genius)** &mdash; Improve Container color/decoration error message clarity<br />
   <sub>[#178823](https://github.com/flutter/flutter/pull/178823) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178823) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[Илия](https://github.com/777genius)** &mdash; Add contentTextStyle support to SimpleDialog<br />
-  <sub>[#178824](https://github.com/flutter/flutter/pull/178824) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178824) 34 additions and 2 deletions in 2 files</sub><br />
-
-* **[Илия](https://github.com/777genius)** &mdash; Fix #117755: Fix divider color inconsistencies in M2/M3<br />
-  <sub>[#178826](https://github.com/flutter/flutter/pull/178826) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178826) 78 additions and 2 deletions in 2 files</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) opened on on November 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178895) 74 additions and 13 deletions in 1 file</sub><br />
 
