@@ -680,7 +680,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [all] Omit obvious local types
   <sub>[#10511](https://github.com/flutter/packages/pull/10511) merged on November 24, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/10511) over 5 hours, 38564 additions and 36641 deletions in 1010 files</sub>
@@ -697,6 +697,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Remove code analysis from podspec-check
   <sub>[#10484](https://github.com/flutter/packages/pull/10484) merged on November 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10484) over 4 days, 11 additions and 99 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Update READMEs to reflect current OS support
+  <sub>[#10470](https://github.com/flutter/packages/pull/10470) merged on November 26, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10470) over 1 week, 98 additions and 46 deletions in 45 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[agra](https://github.com/agrapine)** &mdash; [camera] fix RECORD_AUDIO permission on Android when there is no permission
   <sub>[#10424](https://github.com/flutter/packages/pull/10424) merged on November 26, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/10424) over 1 week, 39 additions and 10 deletions in 4 files</sub>
