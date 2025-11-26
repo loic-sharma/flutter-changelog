@@ -915,7 +915,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-8 commits.
+9 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub>
@@ -945,6 +945,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove a few more Liquid usages
   <sub>[#12741](https://github.com/flutter/website/pull/12741) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12741) over 16 hours, 13 additions and 20 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add `WidgetCatalogCategories` component
+  <sub>[#12755](https://github.com/flutter/website/pull/12755) merged on November 26, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12755) over 2 hours, 77 additions and 15 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Fix style of leading console token in code blocks
   <sub>[#12752](https://github.com/flutter/website/pull/12752) merged on November 26, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12752) over 3 hours, 42 additions and 7 deletions in 3 files</sub>
