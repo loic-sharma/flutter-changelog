@@ -35,7 +35,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fix for win32 embedder failing to send all alt key downs to the flutter app
-  <sub>[#179097](https://github.com/flutter/flutter/pull/179097) merged on November 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179097) over 18 hours, 69 additions and 6 deletions in 4 files</sub>
+  <sub>[#179097](https://github.com/flutter/flutter/pull/179097) merged on November 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179097) over 18 hours, 69 additions and 6 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP`

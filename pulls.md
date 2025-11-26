@@ -146,6 +146,3 @@
 * **[Amir Bazarchi](https://github.com/RoboMaxir)** &mdash; Cash flow<br />
   <sub>[#179112](https://github.com/flutter/flutter/pull/179112) opened on on November 26, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/179112) 3548 additions and 1563 deletions in 111 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix the issue with pinned headers in nested SliverMainAxisGroup.<br />
-  <sub>[#179132](https://github.com/flutter/flutter/pull/179132) opened on on November 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179132) 62 additions and 5 deletions in 2 files</sub><br />
-
