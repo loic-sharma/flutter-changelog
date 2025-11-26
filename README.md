@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-17 commits.
+18 commits.
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Add framework-side hitTestBehavior support to Semantics<br />
   <sub>[#178817](https://github.com/flutter/flutter/pull/178817) merged on November 25, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/178817) over 5 days, 407 additions and 88 deletions in 14 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add tooltip windows to the windowing API alongside the window positioning logic<br />
   <sub>[#177404](https://github.com/flutter/flutter/pull/177404) merged on November 25, 2025 &mdash; **Extra large:** [99 comments](https://github.com/flutter/flutter/pull/177404) over 1 month, 1753 additions and 0 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Michał Sawicz](https://github.com/Saviq), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints<br />
+  <sub>[#179089](https://github.com/flutter/flutter/pull/179089) merged on November 26, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/179089) over 8 hours, 38512 additions and 42443 deletions in 2494 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Disposes test restoration manager when accessed by bindings<br />
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub><br />
