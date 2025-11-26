@@ -137,3 +137,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTile doesn't crash in 0x0 environment<br />
   <sub>[#179109](https://github.com/flutter/flutter/pull/179109) opened on on November 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179109) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; Refactor GetShaderClipDepth for clarity<br />
+  <sub>[#179110](https://github.com/flutter/flutter/pull/179110) opened on on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179110) 1 addition and 2 deletions in 1 file</sub><br />
+
