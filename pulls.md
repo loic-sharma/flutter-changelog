@@ -140,3 +140,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Refactor GetShaderClipDepth for clarity<br />
   <sub>[#179110](https://github.com/flutter/flutter/pull/179110) opened on on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179110) 1 addition and 2 deletions in 1 file</sub><br />
 
+* **[Amir Bazarchi](https://github.com/RoboMaxir)** &mdash; Cash flow<br />
+  <sub>[#179112](https://github.com/flutter/flutter/pull/179112) opened on on November 26, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/179112) 3548 additions and 1563 deletions in 111 files</sub><br />
+
