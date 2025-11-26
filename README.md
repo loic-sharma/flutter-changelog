@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-18 commits.
+19 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints<br />
   <sub>[#179089](https://github.com/flutter/flutter/pull/179089) merged on November 26, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/179089) over 8 hours, 38512 additions and 42443 deletions in 2494 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add an assert message when OverlayEntry.remove is called twice<br />
   <sub>[#178163](https://github.com/flutter/flutter/pull/178163) merged on November 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178163) over 2 weeks, 26 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fix for win32 embedder failing to send all alt key downs to the flutter app<br />
+  <sub>[#179097](https://github.com/flutter/flutter/pull/179097) merged on November 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179097) over 18 hours, 69 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP`<br />
   <sub>[#179039](https://github.com/flutter/flutter/pull/179039) merged on November 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179039) over 1 hour, 163 additions and 94 deletions in 13 files</sub><br />
