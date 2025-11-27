@@ -143,3 +143,6 @@
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; docs: front-load Impeller usage requirements for ImageFilter.shader and isShaderFilterSupported<br />
   <sub>[#179187](https://github.com/flutter/flutter/pull/179187) opened on on November 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179187) 18 additions and 4 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.selectOnly<br />
+  <sub>[#179189](https://github.com/flutter/flutter/pull/179189) opened on on November 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179189) 253 additions and 17 deletions in 2 files</sub><br />
+
