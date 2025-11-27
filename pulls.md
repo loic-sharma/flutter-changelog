@@ -150,5 +150,5 @@
   <sub>[#179191](https://github.com/flutter/flutter/pull/179191) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179191) 14 additions and 4 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Tool ] Remove --no-sandbox when launching web apps on Chrome device<br />
-  <sub>[#179192](https://github.com/flutter/flutter/pull/179192) opened on on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179192) 14 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#179192](https://github.com/flutter/flutter/pull/179192) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179192) 14 additions and 4 deletions in 3 files</sub><br />
 
