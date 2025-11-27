@@ -152,3 +152,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Tool ] Remove --no-sandbox when launching web apps on Chrome device<br />
   <sub>[#179192](https://github.com/flutter/flutter/pull/179192) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179192) 14 additions and 4 deletions in 3 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't try to reattach when attach target disappears<br />
+  <sub>[#179193](https://github.com/flutter/flutter/pull/179193) opened on on November 27, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/179193) 206 additions and 182 deletions in 5 files</sub><br />
+
