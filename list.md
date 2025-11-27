@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-22 commits.
+24 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints
   <sub>[#179089](https://github.com/flutter/flutter/pull/179089) merged on November 26, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/179089) over 8 hours, 38512 additions and 42443 deletions in 2494 files</sub>
@@ -73,6 +73,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated licenses_cpp readme
   <sub>[#178874](https://github.com/flutter/flutter/pull/178874) merged on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178874) over 4 days, 2 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated activeColor in `dynamic_content_color.0.dart`‎ example
+  <sub>[#178961](https://github.com/flutter/flutter/pull/178961) merged on November 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178961) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [supakitk56](https://github.com/supakitk56), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `activeColor` in `decorated_sliver.1.dart‎` example
+  <sub>[#178959](https://github.com/flutter/flutter/pull/178959) merged on November 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178959) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small refactor in `PlayStoreDeferredComponentManager.java‎`
   <sub>[#178586](https://github.com/flutter/flutter/pull/178586) merged on November 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178586) over 1 week, 10 additions and 9 deletions in 1 file</sub>
