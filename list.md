@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-24 commits.
+25 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints
   <sub>[#179089](https://github.com/flutter/flutter/pull/179089) merged on November 26, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/179089) over 8 hours, 38512 additions and 42443 deletions in 2494 files</sub>
@@ -49,6 +49,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add flutter_lints to samples
   <sub>[#179091](https://github.com/flutter/flutter/pull/179091) merged on November 26, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/179091) over 1 day, 13033 additions and 5930 deletions in 1004 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add more templates that the UIScene migrator can match against
+  <sub>[#179044](https://github.com/flutter/flutter/pull/179044) merged on November 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179044) over 2 days, 57 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove semantics geometry shortcircuit
   <sub>[#178680](https://github.com/flutter/flutter/pull/178680) merged on November 25, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/178680) over 1 week, 176 additions and 97 deletions in 5 files</sub>
