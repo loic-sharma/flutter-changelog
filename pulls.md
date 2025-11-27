@@ -90,7 +90,7 @@
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Allow SliverMainAxisGroup children to remain pinned<br />
-  <sub>[#178809](https://github.com/flutter/flutter/pull/178809) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178809) 186 additions and 64 deletions in 4 files</sub><br />
+  <sub>[#178809](https://github.com/flutter/flutter/pull/178809) opened on on November 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178809) 183 additions and 63 deletions in 3 files</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Improve Container color/decoration error message clarity<br />
   <sub>[#178823](https://github.com/flutter/flutter/pull/178823) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178823) 3 additions and 2 deletions in 1 file</sub><br />
