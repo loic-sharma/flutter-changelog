@@ -134,3 +134,6 @@
 * **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Allow ExpansionPanel null body which hides expand/collapse (#179167)<br />
   <sub>[#179168](https://github.com/flutter/flutter/pull/179168) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179168) 19 additions and 13 deletions in 1 file</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix draggable scrollable sheet example drag speed is off <br />
+  <sub>[#179179](https://github.com/flutter/flutter/pull/179179) opened on on November 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179179) 23 additions and 26 deletions in 1 file</sub><br />
+
