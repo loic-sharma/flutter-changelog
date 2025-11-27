@@ -125,9 +125,6 @@
 * **[Mulla Arsiya Tasleem](https://github.com/ArsiyaTasleem90250)** &mdash; Add unit tests for isEven utility function<br />
   <sub>[#179145](https://github.com/flutter/flutter/pull/179145) opened on on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179145) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Handle changes to unexpected pubspec.yaml files gracefully<br />
-  <sub>[#179157](https://github.com/flutter/flutter/pull/179157) opened on on November 26, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/179157) 427 additions and 170 deletions in 12 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTileChevron doesn't crash in 0x0 enviro…<br />
   <sub>[#179165](https://github.com/flutter/flutter/pull/179165) opened on on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179165) 9 additions and 0 deletions in 1 file</sub><br />
 
@@ -145,4 +142,13 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't try to reattach when attach target disappears<br />
   <sub>[#179193](https://github.com/flutter/flutter/pull/179193) opened on on November 27, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/179193) 207 additions and 183 deletions in 6 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Handle changes to unexpected pubspec.yaml files gracefully<br />
+  <sub>[#179197](https://github.com/flutter/flutter/pull/179197) opened on on November 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179197) 427 additions and 170 deletions in 12 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Handle changes to unexpected pubspec.yaml files gracefully<br />
+  <sub>[#179198](https://github.com/flutter/flutter/pull/179198) opened on on November 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179198) 427 additions and 170 deletions in 12 files</sub><br />
+
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix Scrollbar drag behavior<br />
+  <sub>[#179199](https://github.com/flutter/flutter/pull/179199) opened on on November 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179199) 34 additions and 1 deletion in 2 files</sub><br />
 
