@@ -144,7 +144,7 @@
   <sub>[#179187](https://github.com/flutter/flutter/pull/179187) opened on on November 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179187) 18 additions and 4 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.selectOnly<br />
-  <sub>[#179189](https://github.com/flutter/flutter/pull/179189) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179189) 253 additions and 17 deletions in 2 files</sub><br />
+  <sub>[#179189](https://github.com/flutter/flutter/pull/179189) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179189) 257 additions and 18 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Remove --no-sandbox when launching web apps on Chrome device<br />
   <sub>[#179191](https://github.com/flutter/flutter/pull/179191) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179191) 14 additions and 4 deletions in 3 files</sub><br />
