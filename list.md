@@ -6,13 +6,13 @@
 
 34 commits.
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add shared Darwin implementation for plugins
-  <sub>[#176495](https://github.com/flutter/flutter/pull/176495) merged on November 26, 2025 &mdash; **Large:** [37 comments](https://github.com/flutter/flutter/pull/176495) over 1 month, 685 additions and 31 deletions in 18 files</sub>
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints
   <sub>[#179089](https://github.com/flutter/flutter/pull/179089) merged on November 26, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/179089) over 8 hours, 38512 additions and 42443 deletions in 2494 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add shared Darwin implementation for plugins
+  <sub>[#176495](https://github.com/flutter/flutter/pull/176495) merged on November 26, 2025 &mdash; **Large:** [37 comments](https://github.com/flutter/flutter/pull/176495) over 1 month, 685 additions and 31 deletions in 18 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix error when generating pt_BR localizations
   <sub>[#175832](https://github.com/flutter/flutter/pull/175832) merged on November 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175832) over 2 months, 66 additions and 29 deletions in 2 files</sub>

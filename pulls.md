@@ -131,3 +131,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTileChevron doesn't crash in 0x0 enviro…<br />
   <sub>[#179165](https://github.com/flutter/flutter/pull/179165) opened on on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179165) 9 additions and 0 deletions in 1 file</sub><br />
 
+* **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Allow ExpansionPanel null body which hides expand/collapse (#179167)<br />
+  <sub>[#179168](https://github.com/flutter/flutter/pull/179168) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179168) 19 additions and 13 deletions in 1 file</sub><br />
+
