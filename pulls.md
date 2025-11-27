@@ -152,3 +152,6 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix Scrollbar drag behavior<br />
   <sub>[#179199](https://github.com/flutter/flutter/pull/179199) opened on on November 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179199) 34 additions and 1 deletion in 2 files</sub><br />
 
+* **[Michel Feinstein](https://github.com/feinstein)** &mdash; Fix typo<br />
+  <sub>[#179200](https://github.com/flutter/flutter/pull/179200) opened on on November 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179200) 1 addition and 1 deletion in 1 file</sub><br />
+
