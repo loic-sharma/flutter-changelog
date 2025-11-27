@@ -135,7 +135,7 @@
   <sub>[#179168](https://github.com/flutter/flutter/pull/179168) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179168) 19 additions and 13 deletions in 1 file</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix draggable scrollable sheet example drag speed is off <br />
-  <sub>[#179179](https://github.com/flutter/flutter/pull/179179) opened on on November 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179179) 23 additions and 26 deletions in 1 file</sub><br />
+  <sub>[#179179](https://github.com/flutter/flutter/pull/179179) opened on on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179179) 23 additions and 26 deletions in 1 file</sub><br />
 
 * **[maple](https://github.com/maplepy)** &mdash; Fix typos and improve wording in Roadmap.md<br />
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
@@ -144,5 +144,5 @@
   <sub>[#179186](https://github.com/flutter/flutter/pull/179186) opened on on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179186) 5 additions and 7 deletions in 2 files</sub><br />
 
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; docs: front-load Impeller usage requirements for ImageFilter.shader and isShaderFilterSupported<br />
-  <sub>[#179187](https://github.com/flutter/flutter/pull/179187) opened on on November 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179187) 16 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#179187](https://github.com/flutter/flutter/pull/179187) opened on on November 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179187) 18 additions and 4 deletions in 1 file</sub><br />
 
