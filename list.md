@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-25 commits.
+28 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints
   <sub>[#179089](https://github.com/flutter/flutter/pull/179089) merged on November 26, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/179089) over 8 hours, 38512 additions and 42443 deletions in 2494 files</sub>
@@ -34,6 +34,10 @@
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) merged on November 24, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/176948) over 1 month, 133 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Documents and fixes behavior when clipping background filter fragment shader
+  <sub>[#178940](https://github.com/flutter/flutter/pull/178940) merged on November 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178940) over 5 days, 185 additions and 3 deletions in 9 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add an assert message when OverlayEntry.remove is called twice
   <sub>[#178163](https://github.com/flutter/flutter/pull/178163) merged on November 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178163) over 2 weeks, 26 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
@@ -53,6 +57,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add more templates that the UIScene migrator can match against
   <sub>[#179044](https://github.com/flutter/flutter/pull/179044) merged on November 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179044) over 2 days, 57 additions and 10 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Bump minimum iOS version from 12 to 13
+  <sub>[#179079](https://github.com/flutter/flutter/pull/179079) merged on November 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179079) over 1 day, 7 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove semantics geometry shortcircuit
   <sub>[#178680](https://github.com/flutter/flutter/pull/178680) merged on November 25, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/178680) over 1 week, 176 additions and 97 deletions in 5 files</sub>
@@ -77,6 +85,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated licenses_cpp readme
   <sub>[#178874](https://github.com/flutter/flutter/pull/178874) merged on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178874) over 4 days, 2 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace the hardcoded link with an actual link tag in `PlatformChannel.java‎` docs
+  <sub>[#178588](https://github.com/flutter/flutter/pull/178588) merged on November 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178588) over 1 week, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated activeColor in `dynamic_content_color.0.dart`‎ example
   <sub>[#178961](https://github.com/flutter/flutter/pull/178961) merged on November 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178961) over 4 days, 1 addition and 1 deletion in 1 file</sub>
