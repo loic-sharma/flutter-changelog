@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-21 commits.
+22 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints<br />
   <sub>[#179089](https://github.com/flutter/flutter/pull/179089) merged on November 26, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/179089) over 8 hours, 38512 additions and 42443 deletions in 2494 files</sub><br />
@@ -73,6 +73,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated licenses_cpp readme<br />
   <sub>[#178874](https://github.com/flutter/flutter/pull/178874) merged on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178874) over 4 days, 2 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small refactor in `PlayStoreDeferredComponentManager.java‎`<br />
+  <sub>[#178586](https://github.com/flutter/flutter/pull/178586) merged on November 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178586) over 1 week, 10 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; FlutterWindowsView::SendWindowMetrics now reliably sends the display_id<br />
   <sub>[#179053](https://github.com/flutter/flutter/pull/179053) merged on November 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179053) over 16 hours, 26 additions and 0 deletions in 2 files</sub><br />

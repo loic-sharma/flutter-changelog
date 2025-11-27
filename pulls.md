@@ -81,7 +81,7 @@
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
-  <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/178701) 73 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/178701) 73 additions and 3 deletions in 2 files</sub><br />
 
 * **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
