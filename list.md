@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-31 commits.
+33 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints
   <sub>[#179089](https://github.com/flutter/flutter/pull/179089) merged on November 26, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/179089) over 8 hours, 38512 additions and 42443 deletions in 2494 files</sub>
@@ -30,6 +30,10 @@
   <sub>[#178253](https://github.com/flutter/flutter/pull/178253) merged on November 25, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/178253) over 2 weeks, 305 additions and 9 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove --no-sandbox when launching web apps on Chrome device
+  <sub>[#178670](https://github.com/flutter/flutter/pull/178670) merged on November 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178670) over 1 week, 14 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Jessy Yameogo](https://github.com/jyameo)</sub>
+
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Pass EXCLUDED_ARCHS from Xcode project to xcodebuild for macOS builds
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) merged on November 24, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/176948) over 1 month, 133 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -53,6 +57,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add flutter_lints to samples
   <sub>[#179091](https://github.com/flutter/flutter/pull/179091) merged on November 26, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/179091) over 1 day, 13033 additions and 5930 deletions in 1004 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale
+  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) merged on November 26, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/178526) over 1 week, 82 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add more templates that the UIScene migrator can match against
   <sub>[#179044](https://github.com/flutter/flutter/pull/179044) merged on November 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179044) over 2 days, 57 additions and 10 deletions in 3 files</sub>
