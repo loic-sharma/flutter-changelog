@@ -128,3 +128,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Handle changes to unexpected pubspec.yaml files gracefully<br />
   <sub>[#179157](https://github.com/flutter/flutter/pull/179157) opened on on November 26, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/179157) 370 additions and 121 deletions in 11 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTileChevron doesn't crash in 0x0 enviro…<br />
+  <sub>[#179165](https://github.com/flutter/flutter/pull/179165) opened on on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179165) 9 additions and 0 deletions in 1 file</sub><br />
+

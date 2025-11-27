@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-28 commits.
+31 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Modernize framework lints<br />
   <sub>[#179089](https://github.com/flutter/flutter/pull/179089) merged on November 26, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/179089) over 8 hours, 38512 additions and 42443 deletions in 2494 files</sub><br />
@@ -74,6 +74,10 @@
   <sub>[#179030](https://github.com/flutter/flutter/pull/179030) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179030) over 1 hour, 151 additions and 139 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
+* **[Simon Binder](https://github.com/simolus3)** &mdash; Build hooks: Don't require toolchain for unit tests<br />
+  <sub>[#178954](https://github.com/flutter/flutter/pull/178954) merged on November 26, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178954) over 4 days, 218 additions and 36 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Potentially fixing the flakiness in win32 windowing tests, but it needs some running<br />
   <sub>[#178499](https://github.com/flutter/flutter/pull/178499) merged on November 24, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/178499) over 1 week, 242 additions and 156 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
@@ -85,6 +89,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated licenses_cpp readme<br />
   <sub>[#178874](https://github.com/flutter/flutter/pull/178874) merged on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178874) over 4 days, 2 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix a small typo in `HandlerCompat.java` docs<br />
+  <sub>[#178595](https://github.com/flutter/flutter/pull/178595) merged on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178595) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoActivityIndicator doesn't crash in 0x0 envi…<br />
+  <sub>[#178565](https://github.com/flutter/flutter/pull/178565) merged on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178565) over 1 week, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace the hardcoded link with an actual link tag in `PlatformChannel.java‎` docs<br />
   <sub>[#178588](https://github.com/flutter/flutter/pull/178588) merged on November 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178588) over 1 week, 3 additions and 3 deletions in 1 file</sub><br />
