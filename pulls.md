@@ -131,12 +131,6 @@
 * **[maple](https://github.com/maplepy)** &mdash; Fix typos and improve wording in Roadmap.md<br />
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Handle changes to unexpected pubspec.yaml files gracefully<br />
-  <sub>[#179197](https://github.com/flutter/flutter/pull/179197) opened on on November 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179197) 427 additions and 170 deletions in 12 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Handle changes to unexpected pubspec.yaml files gracefully<br />
-  <sub>[#179198](https://github.com/flutter/flutter/pull/179198) opened on on November 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179198) 427 additions and 170 deletions in 12 files</sub><br />
-
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix Scrollbar drag behavior<br />
   <sub>[#179199](https://github.com/flutter/flutter/pull/179199) opened on on November 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179199) 34 additions and 1 deletion in 2 files</sub><br />
 

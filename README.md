@@ -67,7 +67,7 @@
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't try to reattach when attach target disappears<br />
-  <sub>[#179193](https://github.com/flutter/flutter/pull/179193) merged on November 28, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/179193) over 1 day, 207 additions and 183 deletions in 6 files</sub><br />
+  <sub>[#179193](https://github.com/flutter/flutter/pull/179193) merged on November 28, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/179193) over 1 day, 207 additions and 183 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale<br />
