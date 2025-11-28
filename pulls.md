@@ -101,12 +101,6 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Add missing permissions key to workflows<br />
   <sub>[#178911](https://github.com/flutter/flutter/pull/178911) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178911) 8 additions and 0 deletions in 2 files</sub><br />
 
-* **[StepSecurity Bot](https://github.com/step-security-bot)** &mdash; Fix GitHub Actions not pinned by hash<br />
-  <sub>[#178917](https://github.com/flutter/flutter/pull/178917) opened on on November 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178917) 5 additions and 5 deletions in 4 files</sub><br />
-
-* **[Pierre](https://github.com/guidezpl)** &mdash; Update workflow permissions in easy-cp.yml<br />
-  <sub>[#178919](https://github.com/flutter/flutter/pull/178919) opened on on November 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178919) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
   <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/178922) 2601 additions and 351 deletions in 121 files</sub><br />
 
