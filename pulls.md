@@ -132,7 +132,7 @@
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't try to reattach when attach target disappears<br />
-  <sub>[#179193](https://github.com/flutter/flutter/pull/179193) opened on on November 27, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/179193) 207 additions and 183 deletions in 6 files</sub><br />
+  <sub>[#179193](https://github.com/flutter/flutter/pull/179193) opened on on November 27, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/179193) 207 additions and 183 deletions in 6 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Handle changes to unexpected pubspec.yaml files gracefully<br />
   <sub>[#179197](https://github.com/flutter/flutter/pull/179197) opened on on November 27, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179197) 427 additions and 170 deletions in 12 files</sub><br />
@@ -156,5 +156,5 @@
   <sub>[#179224](https://github.com/flutter/flutter/pull/179224) opened on on November 28, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/179224) 567 additions and 77 deletions in 5 files</sub><br />
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 167114 add keyboard focus support for cupertino context menu action<br />
-  <sub>[#179225](https://github.com/flutter/flutter/pull/179225) opened on on November 28, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179225) 618 additions and 107 deletions in 8 files</sub><br />
+  <sub>[#179225](https://github.com/flutter/flutter/pull/179225) opened on on November 28, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179225) 663 additions and 107 deletions in 8 files</sub><br />
 
