@@ -998,13 +998,13 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
   <sub><details><summary>1 image...</summary><img width="852" height="715" alt="Bildschirmfoto 2025-11-13 um 13 33 50" src="https://github.com/user-attachments/assets/cc9476f1-7f6c-4133-bd67-7789551f7ace" /></details></sub>
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update the material 3 design token docs
-  <sub>[#12125](https://github.com/flutter/website/pull/12125) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12125) over 5 months, 45 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add page navigation and prefetching to the tutorial
   <sub>[#12754](https://github.com/flutter/website/pull/12754) merged on November 28, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12754) over 1 day, 272 additions and 56 deletions in 24 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update the material 3 design token docs
+  <sub>[#12125](https://github.com/flutter/website/pull/12125) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12125) over 5 months, 45 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add glossary entries for hot reload and hot restart
   <sub>[#12757](https://github.com/flutter/website/pull/12757) merged on November 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12757) over 57 minutes, 53 additions and 3 deletions in 3 files</sub>
