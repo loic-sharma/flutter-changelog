@@ -999,7 +999,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-12 commits.
+13 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE<br />
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub><br />
@@ -1008,6 +1008,10 @@
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add page navigation and prefetching to the tutorial<br />
   <sub>[#12754](https://github.com/flutter/website/pull/12754) merged on November 28, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12754) over 1 day, 272 additions and 56 deletions in 24 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Refactor widget catalog pages to generate from data<br />
+  <sub>[#12760](https://github.com/flutter/website/pull/12760) merged on November 28, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/website/pull/12760) over 10 hours, 392 additions and 486 deletions in 23 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update the material 3 design token docs<br />
