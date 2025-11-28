@@ -131,9 +131,6 @@
 * **[maple](https://github.com/maplepy)** &mdash; Fix typos and improve wording in Roadmap.md<br />
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.selectOnly<br />
-  <sub>[#179189](https://github.com/flutter/flutter/pull/179189) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179189) 263 additions and 18 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't try to reattach when attach target disappears<br />
   <sub>[#179193](https://github.com/flutter/flutter/pull/179193) opened on on November 27, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/179193) 207 additions and 183 deletions in 6 files</sub><br />
 
