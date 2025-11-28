@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-36 commits.
+37 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add shared Darwin implementation for plugins<br />
   <sub>[#176495](https://github.com/flutter/flutter/pull/176495) merged on November 26, 2025 &mdash; **Large:** [37 comments](https://github.com/flutter/flutter/pull/176495) over 1 month, 685 additions and 31 deletions in 18 files</sub><br />
@@ -98,13 +98,17 @@
   <sub>[#178499](https://github.com/flutter/flutter/pull/178499) merged on November 24, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/178499) over 1 week, 242 additions and 156 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make tree green again by fixing lints<br />
-  <sub>[#179186](https://github.com/flutter/flutter/pull/179186) merged on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179186) over 52 minutes, 5 additions and 7 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
+* **[Pierre](https://github.com/guidezpl)** &mdash; Update workflow permissions in easy-cp.yml<br />
+  <sub>[#178919](https://github.com/flutter/flutter/pull/178919) merged on November 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178919) over 1 week, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated licenses_cpp readme<br />
   <sub>[#178874](https://github.com/flutter/flutter/pull/178874) merged on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178874) over 4 days, 2 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make tree green again by fixing lints<br />
+  <sub>[#179186](https://github.com/flutter/flutter/pull/179186) merged on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179186) over 52 minutes, 5 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual Dart SDK roll to 3.11.0-169.0.dev<br />
   <sub>[#179054](https://github.com/flutter/flutter/pull/179054) merged on November 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179054) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
