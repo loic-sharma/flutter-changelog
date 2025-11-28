@@ -146,3 +146,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoMagnifier doesn't crash in 0x0 environment<br />
   <sub>[#179206](https://github.com/flutter/flutter/pull/179206) opened on on November 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179206) 9 additions and 0 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Build hooks: Don't require toolchain for unit tests<br />
+  <sub>[#179211](https://github.com/flutter/flutter/pull/179211) opened on on November 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179211) 218 additions and 36 deletions in 6 files</sub><br />
+

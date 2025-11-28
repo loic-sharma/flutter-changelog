@@ -71,7 +71,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Build hooks: Don't require toolchain for unit tests<br />
-  <sub>[#178954](https://github.com/flutter/flutter/pull/178954) merged on November 26, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/178954) over 4 days, 218 additions and 36 deletions in 6 files</sub><br />
+  <sub>[#178954](https://github.com/flutter/flutter/pull/178954) merged on November 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/178954) over 4 days, 218 additions and 36 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add more templates that the UIScene migrator can match against<br />
@@ -991,7 +991,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-11 commits.
+12 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE<br />
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub><br />
@@ -1001,6 +1001,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update the material 3 design token docs<br />
   <sub>[#12125](https://github.com/flutter/website/pull/12125) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/12125) over 5 months, 45 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; add page navigation and prefetching to the tutorial<br />
+  <sub>[#12754](https://github.com/flutter/website/pull/12754) merged on November 28, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12754) over 1 day, 272 additions and 56 deletions in 24 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add glossary entries for hot reload and hot restart<br />
   <sub>[#12757](https://github.com/flutter/website/pull/12757) merged on November 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12757) over 57 minutes, 53 additions and 3 deletions in 3 files</sub><br />
