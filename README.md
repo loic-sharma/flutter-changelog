@@ -4,7 +4,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-38 commits.
+39 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add shared Darwin implementation for plugins<br />
   <sub>[#176495](https://github.com/flutter/flutter/pull/176495) merged on November 26, 2025 &mdash; **Large:** [37 comments](https://github.com/flutter/flutter/pull/176495) over 1 month, 685 additions and 31 deletions in 18 files</sub><br />
@@ -46,17 +46,17 @@
   <sub>[#179157](https://github.com/flutter/flutter/pull/179157) merged on November 27, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/179157) over 1 day, 427 additions and 170 deletions in 12 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add an assert message when OverlayEntry.remove is called twice<br />
-  <sub>[#178163](https://github.com/flutter/flutter/pull/178163) merged on November 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178163) over 2 weeks, 26 additions and 3 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Documents and fixes behavior when clipping background filter fragment shader<br />
+  <sub>[#178940](https://github.com/flutter/flutter/pull/178940) merged on November 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178940) over 5 days, 185 additions and 3 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add flutter_lints to samples<br />
   <sub>[#179091](https://github.com/flutter/flutter/pull/179091) merged on November 26, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/179091) over 1 day, 13033 additions and 5930 deletions in 1004 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Documents and fixes behavior when clipping background filter fragment shader<br />
-  <sub>[#178940](https://github.com/flutter/flutter/pull/178940) merged on November 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178940) over 5 days, 185 additions and 3 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add an assert message when OverlayEntry.remove is called twice<br />
+  <sub>[#178163](https://github.com/flutter/flutter/pull/178163) merged on November 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178163) over 2 weeks, 26 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fix for win32 embedder failing to send all alt key downs to the flutter app<br />
   <sub>[#179097](https://github.com/flutter/flutter/pull/179097) merged on November 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179097) over 18 hours, 69 additions and 6 deletions in 4 files</sub><br />
@@ -65,6 +65,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP`<br />
   <sub>[#179039](https://github.com/flutter/flutter/pull/179039) merged on November 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179039) over 1 hour, 163 additions and 94 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't try to reattach when attach target disappears<br />
+  <sub>[#179193](https://github.com/flutter/flutter/pull/179193) merged on November 28, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/179193) over 1 day, 207 additions and 183 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale<br />
   <sub>[#178526](https://github.com/flutter/flutter/pull/178526) merged on November 26, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/178526) over 1 week, 82 additions and 10 deletions in 3 files</sub><br />
@@ -102,21 +106,17 @@
   <sub>[#178919](https://github.com/flutter/flutter/pull/178919) merged on November 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178919) over 1 week, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated licenses_cpp readme<br />
-  <sub>[#178874](https://github.com/flutter/flutter/pull/178874) merged on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178874) over 4 days, 2 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make tree green again by fixing lints<br />
+  <sub>[#179186](https://github.com/flutter/flutter/pull/179186) merged on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179186) over 52 minutes, 5 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual Dart SDK roll to 3.11.0-169.0.dev<br />
   <sub>[#179054](https://github.com/flutter/flutter/pull/179054) merged on November 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179054) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make tree green again by fixing lints<br />
-  <sub>[#179186](https://github.com/flutter/flutter/pull/179186) merged on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179186) over 52 minutes, 5 additions and 7 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace the hardcoded link with an actual link tag in `PlatformChannel.java‎` docs<br />
-  <sub>[#178588](https://github.com/flutter/flutter/pull/178588) merged on November 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178588) over 1 week, 3 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated licenses_cpp readme<br />
+  <sub>[#178874](https://github.com/flutter/flutter/pull/178874) merged on November 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178874) over 4 days, 2 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated activeColor in `dynamic_content_color.0.dart`‎ example<br />
   <sub>[#178961](https://github.com/flutter/flutter/pull/178961) merged on November 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178961) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -138,6 +138,10 @@
   <sub>[#178909](https://github.com/flutter/flutter/pull/178909) merged on November 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178909) over 3 days, 1 addition and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[StepSecurity Bot](https://github.com/step-security-bot)** &mdash; Fix GitHub Actions not pinned by hash<br />
+  <sub>[#178917](https://github.com/flutter/flutter/pull/178917) merged on November 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178917) over 1 week, 5 additions and 5 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update CHANGELOG.md for Flutter 3.38.3<br />
   <sub>[#178935](https://github.com/flutter/flutter/pull/178935) merged on November 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178935) over 3 days, 7 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub><br />
@@ -146,10 +150,6 @@
   <sub>[#178590](https://github.com/flutter/flutter/pull/178590) merged on November 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178590) over 1 week, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
 
-* **[StepSecurity Bot](https://github.com/step-security-bot)** &mdash; Fix GitHub Actions not pinned by hash<br />
-  <sub>[#178917](https://github.com/flutter/flutter/pull/178917) merged on November 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178917) over 1 week, 5 additions and 5 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix a small typo in `HandlerCompat.java` docs<br />
   <sub>[#178595](https://github.com/flutter/flutter/pull/178595) merged on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178595) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
@@ -157,6 +157,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoActivityIndicator doesn't crash in 0x0 envi…<br />
   <sub>[#178565](https://github.com/flutter/flutter/pull/178565) merged on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178565) over 1 week, 11 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace the hardcoded link with an actual link tag in `PlatformChannel.java‎` docs<br />
+  <sub>[#178588](https://github.com/flutter/flutter/pull/178588) merged on November 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178588) over 1 week, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 ### November 15, 2025 to November 21, 2025
 
