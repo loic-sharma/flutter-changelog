@@ -147,7 +147,7 @@
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[StepSecurity Bot](https://github.com/step-security-bot)** &mdash; Fix GitHub Actions not pinned by hash<br />
-  <sub>[#178917](https://github.com/flutter/flutter/pull/178917) merged on November 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178917) over 1 week, 5 additions and 5 deletions in 4 files</sub><br />
+  <sub>[#178917](https://github.com/flutter/flutter/pull/178917) merged on November 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178917) over 1 week, 5 additions and 5 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix a small typo in `HandlerCompat.java` docs<br />
