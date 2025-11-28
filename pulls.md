@@ -147,5 +147,5 @@
   <sub>[#179206](https://github.com/flutter/flutter/pull/179206) opened on on November 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179206) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [CP-stable] Build hooks: Don't require toolchain for unit tests<br />
-  <sub>[#179214](https://github.com/flutter/flutter/pull/179214) opened on on November 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179214) 244 additions and 49 deletions in 6 files</sub><br />
+  <sub>[#179214](https://github.com/flutter/flutter/pull/179214) opened on on November 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179214) 244 additions and 49 deletions in 6 files</sub><br />
 
