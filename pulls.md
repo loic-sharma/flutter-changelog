@@ -152,3 +152,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [CP-stable] Build hooks: Don't require toolchain for unit tests<br />
   <sub>[#179214](https://github.com/flutter/flutter/pull/179214) opened on on November 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179214) 244 additions and 49 deletions in 6 files</sub><br />
 
+* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 165977 add keyboard focus support for cupertino alert dialog action<br />
+  <sub>[#179224](https://github.com/flutter/flutter/pull/179224) opened on on November 28, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/179224) 568 additions and 77 deletions in 5 files</sub><br />
+
