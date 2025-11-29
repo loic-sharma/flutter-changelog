@@ -30,13 +30,13 @@
   <sub>[#176519](https://github.com/flutter/flutter/pull/176519) merged on November 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/176519) over 1 month, 31 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Dynamically set MinimumOSVersion in App.framework
-  <sub>[#178253](https://github.com/flutter/flutter/pull/178253) merged on November 25, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/178253) over 2 weeks, 305 additions and 9 deletions in 7 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove --no-sandbox when launching web apps on Chrome device
   <sub>[#178670](https://github.com/flutter/flutter/pull/178670) merged on November 26, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178670) over 1 week, 14 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Jessy Yameogo](https://github.com/jyameo)</sub>
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Dynamically set MinimumOSVersion in App.framework
+  <sub>[#178253](https://github.com/flutter/flutter/pull/178253) merged on November 25, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/178253) over 2 weeks, 305 additions and 9 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; Pass EXCLUDED_ARCHS from Xcode project to xcodebuild for macOS builds
   <sub>[#176948](https://github.com/flutter/flutter/pull/176948) merged on November 24, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/176948) over 1 month, 133 additions and 3 deletions in 3 files</sub>
