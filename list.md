@@ -1003,12 +1003,17 @@
 
 ### November 22, 2025 to November 28, 2025
 
-13 commits.
+14 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
   <sub><details><summary>1 image...</summary><img width="852" height="715" alt="Bildschirmfoto 2025-11-13 um 13 33 50" src="https://github.com/user-attachments/assets/cc9476f1-7f6c-4133-bd67-7789551f7ace" /></details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix errors in `RadialExpansion class` example
+  <sub>[#12762](https://github.com/flutter/website/pull/12762) merged on November 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12762) over 1 day, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+  <sub><details><summary>2 images...</summary><img width="722" height="78" alt="err_1" src="https://github.com/user-attachments/assets/cd1aef4b-2d3f-4987-a23f-b7592b4d2ebf" /><img width="623" height="40" alt="err_2" src="https://github.com/user-attachments/assets/447e89e6-e5cf-4847-ba82-56a3bdf6e742" /></details></sub>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add page navigation and prefetching to the tutorial
   <sub>[#12754](https://github.com/flutter/website/pull/12754) merged on November 28, 2025 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/12754) over 1 day, 272 additions and 56 deletions in 24 files</sub>
