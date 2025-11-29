@@ -67,7 +67,7 @@
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't try to reattach when attach target disappears
-  <sub>[#179193](https://github.com/flutter/flutter/pull/179193) merged on November 28, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/179193) over 1 day, 207 additions and 183 deletions in 6 files</sub>
+  <sub>[#179193](https://github.com/flutter/flutter/pull/179193) merged on November 28, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/179193) over 1 day, 207 additions and 183 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale
@@ -75,7 +75,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Build hooks: Don't require toolchain for unit tests
-  <sub>[#178954](https://github.com/flutter/flutter/pull/178954) merged on November 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/178954) over 4 days, 218 additions and 36 deletions in 6 files</sub>
+  <sub>[#178954](https://github.com/flutter/flutter/pull/178954) merged on November 26, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178954) over 4 days, 218 additions and 36 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add more templates that the UIScene migrator can match against
@@ -103,7 +103,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Update workflow permissions in easy-cp.yml
-  <sub>[#178919](https://github.com/flutter/flutter/pull/178919) merged on November 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178919) over 1 week, 3 additions and 1 deletion in 1 file</sub>
+  <sub>[#178919](https://github.com/flutter/flutter/pull/178919) merged on November 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178919) over 1 week, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make tree green again by fixing lints
@@ -139,7 +139,7 @@
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[StepSecurity Bot](https://github.com/step-security-bot)** &mdash; Fix GitHub Actions not pinned by hash
-  <sub>[#178917](https://github.com/flutter/flutter/pull/178917) merged on November 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178917) over 1 week, 5 additions and 5 deletions in 4 files</sub>
+  <sub>[#178917](https://github.com/flutter/flutter/pull/178917) merged on November 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178917) over 1 week, 5 additions and 5 deletions in 4 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update CHANGELOG.md for Flutter 3.38.3
@@ -240,7 +240,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …
-  <sub>[#178666](https://github.com/flutter/flutter/pull/178666) merged on November 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178666) over 3 days, 86 additions and 86 deletions in 10 files</sub>
+  <sub>[#178666](https://github.com/flutter/flutter/pull/178666) merged on November 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178666) over 3 days, 86 additions and 86 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Skip flaky service worker test
@@ -468,7 +468,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add a11y for loading indicators
-  <sub>[#165173](https://github.com/flutter/flutter/pull/165173) merged on November 11, 2025 &mdash; **Large:** [54 comments](https://github.com/flutter/flutter/pull/165173) over 8 months, 501 additions and 35 deletions in 27 files</sub>
+  <sub>[#165173](https://github.com/flutter/flutter/pull/165173) merged on November 11, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/165173) over 8 months, 501 additions and 35 deletions in 27 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [zhongliugo](https://github.com/flutter-zl)</sub>
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Add focus support for CupertinoActionSheetAction #166398
