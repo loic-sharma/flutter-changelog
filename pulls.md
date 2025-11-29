@@ -126,7 +126,7 @@
   <sub>[#179168](https://github.com/flutter/flutter/pull/179168) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179168) 19 additions and 13 deletions in 1 file</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix draggable scrollable sheet example drag speed is off <br />
-  <sub>[#179179](https://github.com/flutter/flutter/pull/179179) opened on on November 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179179) 20 additions and 26 deletions in 1 file</sub><br />
+  <sub>[#179179](https://github.com/flutter/flutter/pull/179179) opened on on November 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179179) 20 additions and 26 deletions in 1 file</sub><br />
 
 * **[maple](https://github.com/maplepy)** &mdash; Fix typos and improve wording in Roadmap.md<br />
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
