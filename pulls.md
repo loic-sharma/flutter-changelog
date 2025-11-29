@@ -152,3 +152,6 @@
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 167114 add keyboard focus support for cupertino context menu action<br />
   <sub>[#179225](https://github.com/flutter/flutter/pull/179225) opened on on November 28, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/179225) 663 additions and 107 deletions in 8 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that CupertinoNavigationBar doesn't crash in 0x0 environment<br />
+  <sub>[#179235](https://github.com/flutter/flutter/pull/179235) opened on on November 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179235) 9 additions and 0 deletions in 1 file</sub><br />
+
