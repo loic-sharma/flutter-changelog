@@ -158,9 +158,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPageScaffold doesn't crash in 0x0 environment<br />
   <sub>[#179245](https://github.com/flutter/flutter/pull/179245) opened on on November 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179245) 11 additions and 0 deletions in 1 file</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
-  <sub>[#179249](https://github.com/flutter/flutter/pull/179249) opened on on November 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/179249) 134 additions and 28 deletions in 3 files</sub><br />
-
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Don't embed unreferenced assets<br />
   <sub>[#179251](https://github.com/flutter/flutter/pull/179251) opened on on November 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179251) 69 additions and 44 deletions in 1 file</sub><br />
 
