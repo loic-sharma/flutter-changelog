@@ -760,7 +760,7 @@
 
 ### November 22, 2025 to November 28, 2025
 
-9 commits.
+10 commits.
 
 * **[Danang Rahmatullah](https://github.com/dasyad00)** &mdash; [camera_android_camerax] use MediaSettings::fps for image preview, streaming, and video recording<br />
   <sub>[#10301](https://github.com/flutter/packages/pull/10301) merged on November 26, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/10301) over 1 month, 397 additions and 43 deletions in 16 files</sub><br />
@@ -773,6 +773,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Revert iOS/macOS to plugin-based implementation<br />
   <sub>[#10517](https://github.com/flutter/packages/pull/10517) merged on November 25, 2025 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/10517) over 44 minutes, 905 additions and 1408 deletions in 25 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [go_router_builder] Add `analyzer` 9 compatibility<br />
+  <sub>[#10526](https://github.com/flutter/packages/pull/10526) merged on November 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10526) over 3 days, 65 additions and 74 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Replace deprecated APIs<br />
   <sub>[#10474](https://github.com/flutter/packages/pull/10474) merged on November 25, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/10474) over 5 days, 742 additions and 418 deletions in 53 files</sub><br />
