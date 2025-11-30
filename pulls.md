@@ -161,3 +161,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) opened on on November 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/179249) 83 additions and 27 deletions in 2 files</sub><br />
 
+* **[Simon Binder](https://github.com/simolus3)** &mdash; Don't embed unreferenced assets<br />
+  <sub>[#179251](https://github.com/flutter/flutter/pull/179251) opened on on November 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179251) 69 additions and 44 deletions in 1 file</sub><br />
+
