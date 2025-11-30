@@ -159,5 +159,5 @@
   <sub>[#179245](https://github.com/flutter/flutter/pull/179245) opened on on November 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179245) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
-  <sub>[#179249](https://github.com/flutter/flutter/pull/179249) opened on on November 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179249) 81 additions and 30 deletions in 2 files</sub><br />
+  <sub>[#179249](https://github.com/flutter/flutter/pull/179249) opened on on November 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179249) 81 additions and 30 deletions in 2 files</sub><br />
 
