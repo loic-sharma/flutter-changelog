@@ -156,5 +156,5 @@
   <sub>[#179235](https://github.com/flutter/flutter/pull/179235) opened on on November 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179235) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPageScaffold doesn't crash in 0x0 environment<br />
-  <sub>[#179245](https://github.com/flutter/flutter/pull/179245) opened on on November 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179245) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179245](https://github.com/flutter/flutter/pull/179245) opened on on November 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179245) 11 additions and 0 deletions in 1 file</sub><br />
 
