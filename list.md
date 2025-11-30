@@ -58,21 +58,21 @@
   <sub>[#178163](https://github.com/flutter/flutter/pull/178163) merged on November 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178163) over 2 weeks, 26 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fix for win32 embedder failing to send all alt key downs to the flutter app
-  <sub>[#179097](https://github.com/flutter/flutter/pull/179097) merged on November 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179097) over 18 hours, 69 additions and 6 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale
+  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) merged on November 26, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/178526) over 1 week, 82 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Always generate scaffold under `$TMP`
   <sub>[#179039](https://github.com/flutter/flutter/pull/179039) merged on November 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179039) over 1 hour, 163 additions and 94 deletions in 13 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fix for win32 embedder failing to send all alt key downs to the flutter app
+  <sub>[#179097](https://github.com/flutter/flutter/pull/179097) merged on November 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179097) over 18 hours, 69 additions and 6 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't try to reattach when attach target disappears
   <sub>[#179193](https://github.com/flutter/flutter/pull/179193) merged on November 28, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/179193) over 1 day, 207 additions and 183 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
-
-* **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; Fixed changing supportedLocales fails to update the locale
-  <sub>[#178526](https://github.com/flutter/flutter/pull/178526) merged on November 26, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/178526) over 1 week, 82 additions and 10 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Build hooks: Don't require toolchain for unit tests
   <sub>[#178954](https://github.com/flutter/flutter/pull/178954) merged on November 26, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178954) over 4 days, 218 additions and 36 deletions in 6 files</sub>
