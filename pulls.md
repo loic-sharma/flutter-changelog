@@ -116,9 +116,6 @@
 * **[Mulla Arsiya Tasleem](https://github.com/ArsiyaTasleem90250)** &mdash; Add unit tests for isEven utility function<br />
   <sub>[#179145](https://github.com/flutter/flutter/pull/179145) opened on on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179145) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTileChevron doesn't crash in 0x0 enviro…<br />
-  <sub>[#179165](https://github.com/flutter/flutter/pull/179165) opened on on November 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179165) 9 additions and 0 deletions in 1 file</sub><br />
-
 * **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Allow ExpansionPanel null body which hides expand/collapse (#179167)<br />
   <sub>[#179168](https://github.com/flutter/flutter/pull/179168) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179168) 19 additions and 13 deletions in 1 file</sub><br />
 
@@ -129,7 +126,7 @@
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix Scrollbar drag behavior<br />
-  <sub>[#179199](https://github.com/flutter/flutter/pull/179199) opened on on November 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179199) 34 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#179199](https://github.com/flutter/flutter/pull/179199) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179199) 34 additions and 1 deletion in 2 files</sub><br />
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix pinned header in NestedScrollView<br />
   <sub>[#179210](https://github.com/flutter/flutter/pull/179210) opened on on November 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179210) 70 additions and 1 deletion in 2 files</sub><br />
@@ -157,4 +154,7 @@
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add default-linux-sysroot to gn frontend args<br />
   <sub>[#179303](https://github.com/flutter/flutter/pull/179303) opened on on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179303) 17 additions and 0 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace use of eglCreateImage with eglCreateImageKHR to reduce EGL requirement<br />
+  <sub>[#179310](https://github.com/flutter/flutter/pull/179310) opened on on December 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179310) 16 additions and 16 deletions in 4 files</sub><br />
 
