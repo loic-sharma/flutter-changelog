@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-4 commits.
+5 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link specified as plain text `FlutterApplication.java‎`
   <sub>[#178573](https://github.com/flutter/flutter/pull/178573) merged on December 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178573) over 2 weeks, 2 additions and 2 deletions in 1 file</sub>
@@ -14,6 +14,10 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Resolving and piping the view ID  through the WidgetController and the TestPointer so that clicks wind up on the right view
   <sub>[#178941](https://github.com/flutter/flutter/pull/178941) merged on December 1, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/178941) over 1 week, 171 additions and 46 deletions in 3 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Delete unecessary lockfile
+  <sub>[#179052](https://github.com/flutter/flutter/pull/179052) merged on December 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179052) over 6 days, 0 additions and 105 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update some comments to reflect theme normalization
   <sub>[#179013](https://github.com/flutter/flutter/pull/179013) merged on December 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179013) over 1 week, 29 additions and 37 deletions in 3 files</sub>
