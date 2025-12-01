@@ -167,9 +167,6 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy image decoders<br />
   <sub>[#179277](https://github.com/flutter/flutter/pull/179277) opened on on December 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179277) 1 addition and 4 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore changes under `ios/.symlinks`<br />
-  <sub>[#179290](https://github.com/flutter/flutter/pull/179290) opened on on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179290) 2 additions and 0 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Tool ] Don't try to reattach when attach target disappears (#179193)<br />
   <sub>[#179291](https://github.com/flutter/flutter/pull/179291) opened on on December 1, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/179291) 207 additions and 183 deletions in 6 files</sub><br />
 
