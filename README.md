@@ -615,12 +615,12 @@
 
 2 commits.
 
-* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; PR comments: add try catch while accessing theme from localStorage<br />
-  <sub>[#12682](https://github.com/flutter/website/pull/12682) merged on December 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12682) over 2 weeks, 81 additions and 37 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix formatting and spacing in ui-layer.md<br />
   <sub>[#12764](https://github.com/flutter/website/pull/12764) merged on December 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12764) over 3 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; PR comments: add try catch while accessing theme from localStorage<br />
+  <sub>[#12682](https://github.com/flutter/website/pull/12682) merged on December 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12682) over 2 weeks, 81 additions and 37 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 ### November 22, 2025 to November 28, 2025
