@@ -463,9 +463,18 @@
 
 ## flutter/packages
 
+### November 29, 2025 to December 5, 2025
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene
+  <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 ### November 22, 2025 to November 28, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[Danang Rahmatullah](https://github.com/dasyad00)** &mdash; [camera_android_camerax] use MediaSettings::fps for image preview, streaming, and video recording
   <sub>[#10301](https://github.com/flutter/packages/pull/10301) merged on November 26, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/10301) over 1 month, 397 additions and 43 deletions in 16 files</sub>
@@ -506,6 +515,8 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Bump Packages to Robolectric 4.16
   <sub>[#10492](https://github.com/flutter/packages/pull/10492) merged on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10492) over 2 days, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+</details>
 
 ### November 15, 2025 to November 21, 2025
 
