@@ -161,3 +161,6 @@
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Don't embed unreferenced assets<br />
   <sub>[#179251](https://github.com/flutter/flutter/pull/179251) opened on on November 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179251) 69 additions and 44 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPicker doesn't crash in 0x0 environment<br />
+  <sub>[#179258](https://github.com/flutter/flutter/pull/179258) opened on on December 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179258) 17 additions and 0 deletions in 1 file</sub><br />
+
