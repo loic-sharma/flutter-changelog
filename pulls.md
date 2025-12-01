@@ -170,3 +170,6 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy image decoders<br />
   <sub>[#179277](https://github.com/flutter/flutter/pull/179277) opened on on December 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179277) 1 addition and 4 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore changes under `ios/.symlinks`<br />
+  <sub>[#179290](https://github.com/flutter/flutter/pull/179290) opened on on December 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179290) 2 additions and 0 deletions in 2 files</sub><br />
+
