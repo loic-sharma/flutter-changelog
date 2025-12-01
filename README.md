@@ -611,9 +611,18 @@
 
 ## flutter/website
 
+### November 29, 2025 to December 5, 2025
+
+1 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix formatting and spacing in ui-layer.md<br />
+  <sub>[#12764](https://github.com/flutter/website/pull/12764) merged on December 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12764) over 3 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### November 22, 2025 to November 28, 2025
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add stepper component for FWE<br />
   <sub>[#12675](https://github.com/flutter/website/pull/12675) merged on November 24, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/website/pull/12675) over 1 week, 406 additions and 0 deletions in 6 files</sub><br />
@@ -672,6 +681,8 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove a few more Liquid usages<br />
   <sub>[#12741](https://github.com/flutter/website/pull/12741) merged on November 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12741) over 16 hours, 13 additions and 20 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### November 15, 2025 to November 21, 2025
 
