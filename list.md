@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 29, 2025 to December 5, 2025
+
+1 commits.
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Explicitly use FreeType font scanner with Fuchsia
+  <sub>[#179055](https://github.com/flutter/flutter/pull/179055) merged on December 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179055) over 6 days, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 ### November 22, 2025 to November 28, 2025
 
-39 commits.
+<details>
+<summary>39 commits...</summary>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add shared Darwin implementation for plugins
   <sub>[#176495](https://github.com/flutter/flutter/pull/176495) merged on November 26, 2025 &mdash; **Large:** [37 comments](https://github.com/flutter/flutter/pull/176495) over 1 month, 685 additions and 31 deletions in 18 files</sub>
@@ -161,6 +170,8 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace the hardcoded link with an actual link tag in `PlatformChannel.java‎` docs
   <sub>[#178588](https://github.com/flutter/flutter/pull/178588) merged on November 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178588) over 1 week, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
+
+</details>
 
 ### November 15, 2025 to November 21, 2025
 
