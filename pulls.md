@@ -164,3 +164,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPicker doesn't crash in 0x0 environment<br />
   <sub>[#179258](https://github.com/flutter/flutter/pull/179258) opened on on December 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179258) 17 additions and 0 deletions in 1 file</sub><br />
 
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; make sysroot build variable an absolute path<br />
+  <sub>[#179266](https://github.com/flutter/flutter/pull/179266) opened on on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179266) 4 additions and 4 deletions in 1 file</sub><br />
+
