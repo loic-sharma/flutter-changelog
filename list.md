@@ -4,7 +4,11 @@
 
 ### November 29, 2025 to December 5, 2025
 
-1 commits.
+2 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update some comments to reflect theme normalization
+  <sub>[#179013](https://github.com/flutter/flutter/pull/179013) merged on December 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179013) over 1 week, 29 additions and 37 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Explicitly use FreeType font scanner with Fuchsia
   <sub>[#179055](https://github.com/flutter/flutter/pull/179055) merged on December 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179055) over 6 days, 3 additions and 1 deletion in 1 file</sub>
@@ -643,7 +647,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-2 commits.
+3 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix formatting and spacing in ui-layer.md
   <sub>[#12764](https://github.com/flutter/website/pull/12764) merged on December 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12764) over 3 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -651,6 +655,10 @@
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; PR comments: add try catch while accessing theme from localStorage
   <sub>[#12682](https://github.com/flutter/website/pull/12682) merged on December 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12682) over 2 weeks, 81 additions and 37 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[M](https://github.com/channel101)** &mdash; Remove outdated --explicit-package-dependencies flag from i18n migration docs
+  <sub>[#12763](https://github.com/flutter/website/pull/12763) merged on December 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12763) over 1 day, 1 addition and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### November 22, 2025 to November 28, 2025
