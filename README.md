@@ -4,7 +4,11 @@
 
 ### November 29, 2025 to December 5, 2025
 
-8 commits.
+9 commits.
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Support round caps for the fast arc stroke generator<br />
+  <sub>[#178269](https://github.com/flutter/flutter/pull/178269) merged on December 1, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/178269) over 2 weeks, 189 additions and 68 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link specified as plain text `FlutterApplication.java‎`<br />
   <sub>[#178573](https://github.com/flutter/flutter/pull/178573) merged on December 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178573) over 2 weeks, 2 additions and 2 deletions in 1 file</sub><br />
