@@ -647,7 +647,11 @@
 
 ### November 29, 2025 to December 5, 2025
 
-3 commits.
+6 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Initial FWE cleanup and fixes
+  <sub>[#12765](https://github.com/flutter/website/pull/12765) merged on December 1, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/website/pull/12765) over 17 hours, 1014 additions and 934 deletions in 17 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix formatting and spacing in ui-layer.md
   <sub>[#12764](https://github.com/flutter/website/pull/12764) merged on December 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12764) over 3 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -659,6 +663,14 @@
 
 * **[M](https://github.com/channel101)** &mdash; Remove outdated --explicit-package-dependencies flag from i18n migration docs
   <sub>[#12763](https://github.com/flutter/website/pull/12763) merged on December 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12763) over 1 day, 1 addition and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add collapsed code-block support for tutorial challenges
+  <sub>[#12767](https://github.com/flutter/website/pull/12767) merged on December 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12767) over 3 hours, 9 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a glossary entry for jank
+  <sub>[#12759](https://github.com/flutter/website/pull/12759) merged on December 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12759) over 4 days, 27 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### November 22, 2025 to November 28, 2025
