@@ -170,3 +170,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Tool ] Don't try to reattach when attach target disappears (#179193)<br />
   <sub>[#179291](https://github.com/flutter/flutter/pull/179291) opened on on December 1, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/179291) 207 additions and 183 deletions in 6 files</sub><br />
 
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add default-linux-sysroot to gn frontend args<br />
+  <sub>[#179303](https://github.com/flutter/flutter/pull/179303) opened on on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179303) 17 additions and 0 deletions in 1 file</sub><br />
+
