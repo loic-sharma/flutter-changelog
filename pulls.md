@@ -167,3 +167,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; make sysroot build variable an absolute path<br />
   <sub>[#179266](https://github.com/flutter/flutter/pull/179266) opened on on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179266) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy image decoders<br />
+  <sub>[#179277](https://github.com/flutter/flutter/pull/179277) opened on on December 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179277) 1 addition and 4 deletions in 1 file</sub><br />
+
