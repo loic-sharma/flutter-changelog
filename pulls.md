@@ -135,7 +135,7 @@
   <sub>[#179214](https://github.com/flutter/flutter/pull/179214) opened on on November 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179214) 244 additions and 49 deletions in 6 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for `LocalHistoryEntry` class<br />
-  <sub>[#179223](https://github.com/flutter/flutter/pull/179223) opened on on November 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179223) 92 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179223](https://github.com/flutter/flutter/pull/179223) opened on on November 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179223) 90 additions and 0 deletions in 1 file</sub><br />
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 165977 Add focus support for CupertinoAlertDialogAction<br />
   <sub>[#179224](https://github.com/flutter/flutter/pull/179224) opened on on November 28, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179224) 567 additions and 77 deletions in 5 files</sub><br />
