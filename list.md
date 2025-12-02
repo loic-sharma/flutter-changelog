@@ -704,7 +704,12 @@
 
 ### November 29, 2025 to December 5, 2025
 
-7 commits.
+8 commits.
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Add optional page navigation to top toc dropdown (for FWE)
+  <sub>[#12715](https://github.com/flutter/website/pull/12715) merged on December 2, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/website/pull/12715) over 2 weeks, 552 additions and 199 deletions in 32 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+  <sub><details><summary>1 image...</summary><img width="369" height="786" alt="Bildschirmfoto 2025-11-18 um 14 04 38" src="https://github.com/user-attachments/assets/b85d3a07-cb01-4d39-9bce-f5f6f9828fca" /></details></sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Initial FWE cleanup and fixes
   <sub>[#12765](https://github.com/flutter/website/pull/12765) merged on December 1, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/website/pull/12765) over 17 hours, 1014 additions and 934 deletions in 17 files</sub>
