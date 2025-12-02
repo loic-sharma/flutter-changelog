@@ -23,9 +23,6 @@
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README<br />
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing commit base expiration<br />
-  <sub>[#176121](https://github.com/flutter/flutter/pull/176121) opened on on September 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/176121) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
 
@@ -76,6 +73,9 @@
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Test cross import lint<br />
+  <sub>[#178693](https://github.com/flutter/flutter/pull/178693) opened on on November 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/178693) 819 additions and 0 deletions in 2 files</sub><br />
 
 * **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
   <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/178701) 73 additions and 3 deletions in 2 files</sub><br />
@@ -160,7 +160,4 @@
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Revise README for link updates and terminology changes<br />
   <sub>[#179357](https://github.com/flutter/flutter/pull/179357) opened on on December 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179357) 13 additions and 13 deletions in 1 file</sub><br />
-
-* **[Jaime Wren](https://github.com/jwren)** &mdash; Add project-specific analysis and suggestions to flutter doctor<br />
-  <sub>[#179359](https://github.com/flutter/flutter/pull/179359) opened on on December 2, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/179359) 774 additions and 1 deletion in 3 files</sub><br />
 
