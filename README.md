@@ -549,11 +549,15 @@
 
 ### November 29, 2025 to December 5, 2025
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene<br />
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove `no_adjacent_strings_in_list` from enabled lint rules.<br />
+  <sub>[#7878](https://github.com/flutter/packages/pull/7878) merged on December 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7878) over 13 months, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [two_dimensional_scrollables] Update test for deprecation<br />
   <sub>[#10525](https://github.com/flutter/packages/pull/10525) merged on December 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10525) over 5 days, 4 additions and 4 deletions in 1 file</sub><br />
