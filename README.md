@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-13 commits.
+14 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer tests<br />
   <sub>[#179309](https://github.com/flutter/flutter/pull/179309) merged on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179309) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Huy](https://github.com/huycozy)** &mdash; Unfocus search anchor bar when the view is closed<br />
+  <sub>[#178910](https://github.com/flutter/flutter/pull/178910) merged on December 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178910) over 1 week, 75 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore changes under `ios/.symlinks`<br />
   <sub>[#179290](https://github.com/flutter/flutter/pull/179290) merged on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179290) over 1 hour, 2 additions and 0 deletions in 2 files</sub><br />
