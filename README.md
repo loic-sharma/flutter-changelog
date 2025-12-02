@@ -201,8 +201,8 @@
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[StepSecurity Bot](https://github.com/step-security-bot)** &mdash; Fix GitHub Actions not pinned by hash<br />
-  <sub>[#178917](https://github.com/flutter/flutter/pull/178917) merged on November 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178917) over 1 week, 5 additions and 5 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+  <sub>[#178917](https://github.com/flutter/flutter/pull/178917) merged on November 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178917) over 1 week, 5 additions and 5 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update CHANGELOG.md for Flutter 3.38.3<br />
   <sub>[#178935](https://github.com/flutter/flutter/pull/178935) merged on November 24, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178935) over 3 days, 7 additions and 0 deletions in 2 files</sub><br />
