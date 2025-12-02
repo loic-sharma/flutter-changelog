@@ -692,7 +692,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-6 commits.
+7 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Initial FWE cleanup and fixes<br />
   <sub>[#12765](https://github.com/flutter/website/pull/12765) merged on December 1, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/website/pull/12765) over 17 hours, 1014 additions and 934 deletions in 17 files</sub><br />
@@ -704,6 +704,10 @@
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; PR comments: add try catch while accessing theme from localStorage<br />
   <sub>[#12682](https://github.com/flutter/website/pull/12682) merged on December 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12682) over 2 weeks, 81 additions and 37 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Refactor architecture recommendation tables to Jaspr component<br />
+  <sub>[#12768](https://github.com/flutter/website/pull/12768) merged on December 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12768) over 17 hours, 147 additions and 71 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[M](https://github.com/channel101)** &mdash; Remove outdated --explicit-package-dependencies flag from i18n migration docs<br />
