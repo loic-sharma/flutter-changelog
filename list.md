@@ -529,11 +529,15 @@
 
 ### November 29, 2025 to December 5, 2025
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [two_dimensional_scrollables] Update test for deprecation
+  <sub>[#10525](https://github.com/flutter/packages/pull/10525) merged on December 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10525) over 5 days, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Romeo 49](https://github.com/romeo4934)** &mdash; [camera_web] Fix camera initialization failure on Firefox Android
   <sub>[#10341](https://github.com/flutter/packages/pull/10341) merged on December 1, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/10341) over 4 weeks, 19 additions and 3 deletions in 4 files</sub>
