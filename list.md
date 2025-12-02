@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-9 commits.
+10 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Support round caps for the fast arc stroke generator
   <sub>[#178269](https://github.com/flutter/flutter/pull/178269) merged on December 1, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/178269) over 2 weeks, 189 additions and 68 deletions in 3 files</sub>
@@ -26,6 +26,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore changes under `ios/.symlinks`
   <sub>[#179290](https://github.com/flutter/flutter/pull/179290) merged on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179290) over 1 hour, 2 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
+
+* **[Michel Feinstein](https://github.com/feinstein)** &mdash; Fix typo
+  <sub>[#179200](https://github.com/flutter/flutter/pull/179200) merged on December 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179200) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanup in `‎AccessibilityBridge.java‎`
   <sub>[#179226](https://github.com/flutter/flutter/pull/179226) merged on December 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179226) over 2 days, 8 additions and 10 deletions in 1 file</sub>
