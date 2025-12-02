@@ -4,11 +4,15 @@
 
 ### November 29, 2025 to December 5, 2025
 
-18 commits.
+19 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds format argument to Picture.toImageSync<br />
+  <sub>[#178691](https://github.com/flutter/flutter/pull/178691) merged on December 2, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/178691) over 2 weeks, 537 additions and 263 deletions in 37 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Support round caps for the fast arc stroke generator<br />
   <sub>[#178269](https://github.com/flutter/flutter/pull/178269) merged on December 1, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/178269) over 2 weeks, 189 additions and 68 deletions in 3 files</sub><br />
