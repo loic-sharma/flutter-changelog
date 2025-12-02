@@ -149,9 +149,6 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy image decoders<br />
   <sub>[#179277](https://github.com/flutter/flutter/pull/179277) opened on on December 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179277) 1 addition and 4 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Tool ] Don't try to reattach when attach target disappears (#179193)<br />
-  <sub>[#179291](https://github.com/flutter/flutter/pull/179291) opened on on December 1, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/179291) 207 additions and 183 deletions in 6 files</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add default-linux-sysroot to gn frontend args<br />
   <sub>[#179303](https://github.com/flutter/flutter/pull/179303) opened on on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179303) 17 additions and 0 deletions in 1 file</sub><br />
 
@@ -159,7 +156,7 @@
   <sub>[#179310](https://github.com/flutter/flutter/pull/179310) opened on on December 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179310) 16 additions and 16 deletions in 4 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField.errorBuilder<br />
-  <sub>[#179345](https://github.com/flutter/flutter/pull/179345) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179345) 91 additions and 30 deletions in 2 files</sub><br />
+  <sub>[#179345](https://github.com/flutter/flutter/pull/179345) opened on on December 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179345) 91 additions and 30 deletions in 2 files</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update SkSerialProcs to use new type<br />
   <sub>[#179347](https://github.com/flutter/flutter/pull/179347) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179347) 11 additions and 7 deletions in 3 files</sub><br />
