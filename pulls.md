@@ -162,5 +162,5 @@
   <sub>[#179357](https://github.com/flutter/flutter/pull/179357) opened on on December 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179357) 13 additions and 13 deletions in 1 file</sub><br />
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; Add project-specific analysis and suggestions to flutter doctor<br />
-  <sub>[#179359](https://github.com/flutter/flutter/pull/179359) opened on on December 2, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/179359) 836 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#179359](https://github.com/flutter/flutter/pull/179359) opened on on December 2, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/179359) 774 additions and 1 deletion in 3 files</sub><br />
 
