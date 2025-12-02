@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-20 commits.
+21 commits.
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Adds Impellerc flatbuffer format versioning.<br />
   <sub>[#175470](https://github.com/flutter/flutter/pull/175470) merged on December 2, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/175470) over 2 months, 195 additions and 53 deletions in 22 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer tests<br />
   <sub>[#179309](https://github.com/flutter/flutter/pull/179309) merged on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179309) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix crash when text editing value changes between scrolls<br />
+  <sub>[#179163](https://github.com/flutter/flutter/pull/179163) merged on December 2, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/179163) over 5 days, 350 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [ios] Reland Dynamic Content Resizing<br />
   <sub>[#179153](https://github.com/flutter/flutter/pull/179153) merged on December 2, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179153) over 5 days, 500 additions and 6 deletions in 16 files</sub><br />

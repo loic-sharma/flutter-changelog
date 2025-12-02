@@ -161,6 +161,3 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Revise README for link updates and terminology changes<br />
   <sub>[#179357](https://github.com/flutter/flutter/pull/179357) opened on on December 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179357) 13 additions and 13 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Surface fragment shader errors<br />
-  <sub>[#179363](https://github.com/flutter/flutter/pull/179363) opened on on December 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/179363) 205 additions and 125 deletions in 14 files</sub><br />
-
