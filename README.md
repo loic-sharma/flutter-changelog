@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-10 commits.
+11 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Support round caps for the fast arc stroke generator<br />
   <sub>[#178269](https://github.com/flutter/flutter/pull/178269) merged on December 1, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/178269) over 2 weeks, 189 additions and 68 deletions in 3 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Resolving and piping the view ID  through the WidgetController and the TestPointer so that clicks wind up on the right view<br />
   <sub>[#178941](https://github.com/flutter/flutter/pull/178941) merged on December 1, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/178941) over 1 week, 171 additions and 46 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer tests<br />
+  <sub>[#179309](https://github.com/flutter/flutter/pull/179309) merged on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179309) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore changes under `ios/.symlinks`<br />
   <sub>[#179290](https://github.com/flutter/flutter/pull/179290) merged on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179290) over 1 hour, 2 additions and 0 deletions in 2 files</sub><br />
@@ -166,7 +170,7 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated activeColor in `dynamic_content_color.0.dart`‎ example<br />
   <sub>[#178961](https://github.com/flutter/flutter/pull/178961) merged on November 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178961) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [supakitk56](https://github.com/supakitk56), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub>Reviewed by: [StobBK56](https://github.com/supakitk56), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `activeColor` in `decorated_sliver.1.dart‎` example<br />
   <sub>[#178959](https://github.com/flutter/flutter/pull/178959) merged on November 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178959) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
