@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-15 commits.
+16 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer tests<br />
   <sub>[#179309](https://github.com/flutter/flutter/pull/179309) merged on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179309) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [ios] Reland Dynamic Content Resizing<br />
+  <sub>[#179153](https://github.com/flutter/flutter/pull/179153) merged on December 2, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179153) over 5 days, 500 additions and 6 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix onTextScaleFactorChanged not getting called.<br />
   <sub>[#178862](https://github.com/flutter/flutter/pull/178862) merged on December 2, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178862) over 1 week, 107 additions and 59 deletions in 2 files</sub><br />
