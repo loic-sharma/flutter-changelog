@@ -158,3 +158,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace use of eglCreateImage with eglCreateImageKHR to reduce EGL requirement<br />
   <sub>[#179310](https://github.com/flutter/flutter/pull/179310) opened on on December 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179310) 16 additions and 16 deletions in 4 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField.errorBuilder<br />
+  <sub>[#179345](https://github.com/flutter/flutter/pull/179345) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179345) 91 additions and 30 deletions in 2 files</sub><br />
+
