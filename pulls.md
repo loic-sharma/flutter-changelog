@@ -168,5 +168,8 @@
   <sub>[#179348](https://github.com/flutter/flutter/pull/179348) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179348) 151 additions and 18 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPickerDefaultSelectionOverlay doesn't crash…<br />
-  <sub>[#179351](https://github.com/flutter/flutter/pull/179351) opened on on December 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179351) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179351](https://github.com/flutter/flutter/pull/179351) opened on on December 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179351) 11 additions and 0 deletions in 1 file</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Add framework-side hitTestBehavior support to Semantics (#178817)<br />
+  <sub>[#179352](https://github.com/flutter/flutter/pull/179352) opened on on December 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/179352) 407 additions and 88 deletions in 14 files</sub><br />
 
