@@ -110,9 +110,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Widget Preview ] Always generate scaffold under `$TMP` (#179039)<br />
   <sub>[#179051](https://github.com/flutter/flutter/pull/179051) opened on on November 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179051) 165 additions and 65 deletions in 13 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Refactor GetShaderClipDepth for clarity<br />
-  <sub>[#179110](https://github.com/flutter/flutter/pull/179110) opened on on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179110) 1 addition and 2 deletions in 1 file</sub><br />
-
 * **[Mulla Arsiya Tasleem](https://github.com/ArsiyaTasleem90250)** &mdash; Add unit tests for isEven utility function<br />
   <sub>[#179145](https://github.com/flutter/flutter/pull/179145) opened on on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179145) 15 additions and 0 deletions in 1 file</sub><br />
 
@@ -130,9 +127,6 @@
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix pinned header in NestedScrollView<br />
   <sub>[#179210](https://github.com/flutter/flutter/pull/179210) opened on on November 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179210) 70 additions and 1 deletion in 2 files</sub><br />
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [CP-stable] Build hooks: Don't require toolchain for unit tests<br />
-  <sub>[#179214](https://github.com/flutter/flutter/pull/179214) opened on on November 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179214) 244 additions and 49 deletions in 6 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for `LocalHistoryEntry` class<br />
   <sub>[#179223](https://github.com/flutter/flutter/pull/179223) opened on on November 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179223) 90 additions and 0 deletions in 1 file</sub><br />
