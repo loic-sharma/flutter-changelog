@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-16 commits.
+18 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -39,6 +39,10 @@
   <sub>[#179153](https://github.com/flutter/flutter/pull/179153) merged on December 2, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179153) over 5 days, 500 additions and 6 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
+  <sub>[#178313](https://github.com/flutter/flutter/pull/178313) merged on December 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178313) over 3 weeks, 1 addition and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
 * **[Huy](https://github.com/huycozy)** &mdash; Unfocus search anchor bar when the view is closed<br />
   <sub>[#178910](https://github.com/flutter/flutter/pull/178910) merged on December 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178910) over 1 week, 75 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
@@ -46,6 +50,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore changes under `ios/.symlinks`<br />
   <sub>[#179290](https://github.com/flutter/flutter/pull/179290) merged on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179290) over 1 hour, 2 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; Delete disabled workflow and add missing permissions key to workflow<br />
+  <sub>[#178911](https://github.com/flutter/flutter/pull/178911) merged on December 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178911) over 1 week, 3 additions and 41 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Michel Feinstein](https://github.com/feinstein)** &mdash; Fix typo<br />
   <sub>[#179200](https://github.com/flutter/flutter/pull/179200) merged on December 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179200) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />

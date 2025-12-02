@@ -65,9 +65,6 @@
 * **[Илия](https://github.com/777genius)** &mdash; Fix division by zero in RenderTable intrinsic size methods<br />
   <sub>[#178217](https://github.com/flutter/flutter/pull/178217) opened on on November 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178217) 31 additions and 0 deletions in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
-  <sub>[#178313](https://github.com/flutter/flutter/pull/178313) opened on on November 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178313) 1 addition and 3 deletions in 2 files</sub><br />
-
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
 
