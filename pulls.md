@@ -167,3 +167,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump Dart version to 3.10.3 for Flutter 3.38.4<br />
   <sub>[#179373](https://github.com/flutter/flutter/pull/179373) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179373) 21 additions and 21 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoRadio doesn't crash in 0x0 environment<br />
+  <sub>[#179378](https://github.com/flutter/flutter/pull/179378) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179378) 9 additions and 0 deletions in 1 file</sub><br />
+
