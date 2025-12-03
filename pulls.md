@@ -158,6 +158,3 @@
 * **[narunblog](https://github.com/narunblog)** &mdash; 【WIP】Add arrow key repeat movement<br />
   <sub>[#179405](https://github.com/flutter/flutter/pull/179405) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179405) 247 additions and 12 deletions in 2 files</sub><br />
 
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Fix filename typo<br />
-  <sub>[#179427](https://github.com/flutter/flutter/pull/179427) opened on on December 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179427) 4 additions and 4 deletions in 5 files</sub><br />
-
