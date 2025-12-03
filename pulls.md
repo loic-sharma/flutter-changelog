@@ -167,9 +167,6 @@
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-200.1.beta<br />
   <sub>[#179399](https://github.com/flutter/flutter/pull/179399) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179399) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update some BottomNavigationBar comments to reflect theme normalization<br />
-  <sub>[#179404](https://github.com/flutter/flutter/pull/179404) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179404) 6 additions and 2 deletions in 1 file</sub><br />
-
 * **[narunblog](https://github.com/narunblog)** &mdash; 【WIP】Add arrow key repeat movement<br />
   <sub>[#179405](https://github.com/flutter/flutter/pull/179405) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179405) 247 additions and 12 deletions in 2 files</sub><br />
 
