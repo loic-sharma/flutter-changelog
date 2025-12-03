@@ -6,13 +6,13 @@
 
 23 commits.
 
-* **[Tim Maffett](https://github.com/timmaffett)** &mdash; Adds Impellerc flatbuffer format versioning.<br />
-  <sub>[#175470](https://github.com/flutter/flutter/pull/175470) merged on December 2, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/175470) over 2 months, 195 additions and 53 deletions in 22 files</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Tim Maffett](https://github.com/timmaffett)** &mdash; Adds Impellerc flatbuffer format versioning.<br />
+  <sub>[#175470](https://github.com/flutter/flutter/pull/175470) merged on December 2, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/175470) over 2 months, 195 additions and 53 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Nebojša Cvetković](https://github.com/nebkat)** &mdash; feat: Add `mainAxisExtent` parameter to `GridView` constructors<br />
   <sub>[#176927](https://github.com/flutter/flutter/pull/176927) merged on December 3, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/176927) over 1 month, 52 additions and 0 deletions in 2 files</sub><br />
