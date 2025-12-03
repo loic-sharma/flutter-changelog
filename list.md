@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-21 commits.
+22 commits.
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Adds Impellerc flatbuffer format versioning.
   <sub>[#175470](https://github.com/flutter/flutter/pull/175470) merged on December 2, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/175470) over 2 months, 195 additions and 53 deletions in 22 files</sub>
@@ -13,6 +13,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Nebojša Cvetković](https://github.com/nebkat)** &mdash; feat: Add `mainAxisExtent` parameter to `GridView` constructors
+  <sub>[#176927](https://github.com/flutter/flutter/pull/176927) merged on December 3, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/176927) over 1 month, 52 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds format argument to Picture.toImageSync
   <sub>[#178691](https://github.com/flutter/flutter/pull/178691) merged on December 2, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/178691) over 2 weeks, 537 additions and 263 deletions in 37 files</sub>
