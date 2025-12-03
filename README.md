@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-26 commits.
+27 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -74,6 +74,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Ignore changes under `ios/.symlinks`<br />
   <sub>[#179290](https://github.com/flutter/flutter/pull/179290) merged on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179290) over 1 hour, 2 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Abseil to 564023aa5376<br />
+  <sub>[#179421](https://github.com/flutter/flutter/pull/179421) merged on December 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179421) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate samples and docs to RadioGroup<br />
   <sub>[#179158](https://github.com/flutter/flutter/pull/179158) merged on December 3, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/179158) over 6 days, 111 additions and 264 deletions in 7 files</sub><br />

@@ -111,7 +111,7 @@
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix Scrollbar drag behavior<br />
-  <sub>[#179199](https://github.com/flutter/flutter/pull/179199) opened on on November 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179199) 41 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#179199](https://github.com/flutter/flutter/pull/179199) opened on on November 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/179199) 96 additions and 1 deletion in 2 files</sub><br />
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix pinned header in NestedScrollView<br />
   <sub>[#179210](https://github.com/flutter/flutter/pull/179210) opened on on November 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179210) 70 additions and 1 deletion in 2 files</sub><br />
