@@ -159,13 +159,10 @@
   <sub>[#179357](https://github.com/flutter/flutter/pull/179357) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179357) 13 additions and 13 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump Dart version to 3.10.3 for Flutter 3.38.4<br />
-  <sub>[#179373](https://github.com/flutter/flutter/pull/179373) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179373) 21 additions and 21 deletions in 1 file</sub><br />
+  <sub>[#179373](https://github.com/flutter/flutter/pull/179373) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179373) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoRadio doesn't crash in 0x0 environment<br />
   <sub>[#179378](https://github.com/flutter/flutter/pull/179378) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179378) 9 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-200.1.beta<br />
-  <sub>[#179399](https://github.com/flutter/flutter/pull/179399) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179399) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[narunblog](https://github.com/narunblog)** &mdash; 【WIP】Add arrow key repeat movement<br />
   <sub>[#179405](https://github.com/flutter/flutter/pull/179405) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179405) 247 additions and 12 deletions in 2 files</sub><br />
