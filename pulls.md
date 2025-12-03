@@ -167,3 +167,6 @@
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; docs: Impeller usage requirements for ImageFilter.shader and isShader…<br />
   <sub>[#179387](https://github.com/flutter/flutter/pull/179387) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179387) 18 additions and 4 deletions in 1 file</sub><br />
 
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-200.1.beta<br />
+  <sub>[#179399](https://github.com/flutter/flutter/pull/179399) opened on on December 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179399) 1 addition and 1 deletion in 1 file</sub><br />
+
