@@ -577,7 +577,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub>
@@ -598,6 +598,10 @@
 * **[Romeo 49](https://github.com/romeo4934)** &mdash; [camera_web] Fix camera initialization failure on Firefox Android
   <sub>[#10341](https://github.com/flutter/packages/pull/10341) merged on December 1, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/10341) over 4 weeks, 19 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Redistribute iOS CODEOWNERS
+  <sub>[#10520](https://github.com/flutter/packages/pull/10520) merged on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10520) over 1 week, 14 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [go_router_builder] Require analyzer 8.2
   <sub>[#10546](https://github.com/flutter/packages/pull/10546) merged on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10546) over 1 hour, 10 additions and 5 deletions in 3 files</sub>
