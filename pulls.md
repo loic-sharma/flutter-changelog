@@ -45,7 +45,7 @@
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/177888) 437 additions and 43 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
-  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/177954) 165 additions and 5 deletions in 12 files</sub><br />
+  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/177954) 164 additions and 5 deletions in 12 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
   <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178116) 1312 additions and 147 deletions in 30 files</sub><br />
@@ -58,9 +58,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove chrome_and_driver dependency where it's not needed<br />
   <sub>[#178174](https://github.com/flutter/flutter/pull/178174) opened on on November 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178174) 1 addition and 52 deletions in 1 file</sub><br />
-
-* **[Илия](https://github.com/777genius)** &mdash; Fix division by zero in RenderTable intrinsic size methods<br />
-  <sub>[#178217](https://github.com/flutter/flutter/pull/178217) opened on on November 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178217) 31 additions and 0 deletions in 2 files</sub><br />
 
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
@@ -160,6 +157,9 @@
 
 * **[narunblog](https://github.com/narunblog)** &mdash; 【WIP】Add arrow key repeat movement<br />
   <sub>[#179405](https://github.com/flutter/flutter/pull/179405) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179405) 247 additions and 12 deletions in 2 files</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Use depth buffer to implement geometry overdraw protection<br />
+  <sub>[#179426](https://github.com/flutter/flutter/pull/179426) opened on on December 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179426) 7 additions and 110 deletions in 5 files</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Fix filename typo<br />
   <sub>[#179427](https://github.com/flutter/flutter/pull/179427) opened on on December 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179427) 4 additions and 4 deletions in 5 files</sub><br />
