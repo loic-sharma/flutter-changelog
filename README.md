@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-23 commits.
+24 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -74,6 +74,10 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Delete disabled workflow and add missing permissions key to workflow<br />
   <sub>[#178911](https://github.com/flutter/flutter/pull/178911) merged on December 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178911) over 1 week, 3 additions and 41 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-200.1.beta<br />
+  <sub>[#179399](https://github.com/flutter/flutter/pull/179399) merged on December 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179399) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Michel Feinstein](https://github.com/feinstein)** &mdash; Fix typo<br />
   <sub>[#179200](https://github.com/flutter/flutter/pull/179200) merged on December 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179200) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
