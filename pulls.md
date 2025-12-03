@@ -45,7 +45,7 @@
   <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/177888) 437 additions and 43 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
-  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/177954) 165 additions and 5 deletions in 12 files</sub><br />
+  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/177954) 165 additions and 5 deletions in 12 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
   <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/178116) 1312 additions and 147 deletions in 30 files</sub><br />
@@ -73,9 +73,6 @@
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Test cross import lint<br />
-  <sub>[#178693](https://github.com/flutter/flutter/pull/178693) opened on on November 18, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/178693) 826 additions and 0 deletions in 3 files</sub><br />
 
 * **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
   <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/178701) 73 additions and 3 deletions in 2 files</sub><br />
