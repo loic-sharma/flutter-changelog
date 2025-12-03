@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-25 commits.
+26 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -34,6 +34,10 @@
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix for PR #174374 - Fix - TalkBack does not announce list information<br />
   <sub>[#177622](https://github.com/flutter/flutter/pull/177622) merged on December 1, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/177622) over 1 month, 220 additions and 46 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made wide gamut tests give more information in their failure<br />
+  <sub>[#179415](https://github.com/flutter/flutter/pull/179415) merged on December 3, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/179415) over 3 hours, 86 additions and 25 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [b-luk](https://github.com/b-luk), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Resolving and piping the view ID  through the WidgetController and the TestPointer so that clicks wind up on the right view<br />
   <sub>[#178941](https://github.com/flutter/flutter/pull/178941) merged on December 1, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/178941) over 1 week, 171 additions and 46 deletions in 3 files</sub><br />
