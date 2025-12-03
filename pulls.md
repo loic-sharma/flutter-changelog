@@ -75,7 +75,7 @@
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Test cross import lint<br />
-  <sub>[#178693](https://github.com/flutter/flutter/pull/178693) opened on on November 18, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/178693) 826 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#178693](https://github.com/flutter/flutter/pull/178693) opened on on November 18, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/178693) 826 additions and 0 deletions in 3 files</sub><br />
 
 * **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
   <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/178701) 73 additions and 3 deletions in 2 files</sub><br />

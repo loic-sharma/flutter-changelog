@@ -7,7 +7,7 @@
 21 commits.
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; Adds Impellerc flatbuffer format versioning.
-  <sub>[#175470](https://github.com/flutter/flutter/pull/175470) merged on December 2, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/175470) over 2 months, 195 additions and 53 deletions in 22 files</sub>
+  <sub>[#175470](https://github.com/flutter/flutter/pull/175470) merged on December 2, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/175470) over 2 months, 195 additions and 53 deletions in 22 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer
@@ -15,7 +15,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds format argument to Picture.toImageSync
-  <sub>[#178691](https://github.com/flutter/flutter/pull/178691) merged on December 2, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/178691) over 2 weeks, 537 additions and 263 deletions in 37 files</sub>
+  <sub>[#178691](https://github.com/flutter/flutter/pull/178691) merged on December 2, 2025 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/178691) over 2 weeks, 537 additions and 263 deletions in 37 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Support round caps for the fast arc stroke generator
@@ -48,7 +48,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [ios] Reland Dynamic Content Resizing
-  <sub>[#179153](https://github.com/flutter/flutter/pull/179153) merged on December 2, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179153) over 5 days, 500 additions and 6 deletions in 16 files</sub>
+  <sub>[#179153](https://github.com/flutter/flutter/pull/179153) merged on December 2, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/179153) over 5 days, 500 additions and 6 deletions in 16 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings
