@@ -63,7 +63,7 @@
   <sub>[#178217](https://github.com/flutter/flutter/pull/178217) opened on on November 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178217) 31 additions and 0 deletions in 2 files</sub><br />
 
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
-  <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[DoLT](https://github.com/letrungdo)** &mdash; fix: check both pointer count and action before reusing MotionEvent<br />
   <sub>[#178528](https://github.com/flutter/flutter/pull/178528) opened on on November 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178528) 112 additions and 8 deletions in 2 files</sub><br />
@@ -171,5 +171,5 @@
   <sub>[#179399](https://github.com/flutter/flutter/pull/179399) opened on on December 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179399) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update some BottomNavigationBar comments to reflect theme normalization<br />
-  <sub>[#179404](https://github.com/flutter/flutter/pull/179404) opened on on December 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179404) 6 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#179404](https://github.com/flutter/flutter/pull/179404) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179404) 6 additions and 2 deletions in 1 file</sub><br />
 
