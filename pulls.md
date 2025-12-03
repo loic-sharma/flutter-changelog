@@ -168,5 +168,5 @@
   <sub>[#179378](https://github.com/flutter/flutter/pull/179378) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179378) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; docs: Impeller usage requirements for ImageFilter.shader and isShader…<br />
-  <sub>[#179387](https://github.com/flutter/flutter/pull/179387) opened on on December 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179387) 18 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#179387](https://github.com/flutter/flutter/pull/179387) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179387) 18 additions and 4 deletions in 1 file</sub><br />
 
