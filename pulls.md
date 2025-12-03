@@ -161,3 +161,6 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Revise README for link updates and terminology changes<br />
   <sub>[#179357](https://github.com/flutter/flutter/pull/179357) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179357) 13 additions and 13 deletions in 1 file</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump Dart version to 3.10.3 for Flutter 3.38.4<br />
+  <sub>[#179373](https://github.com/flutter/flutter/pull/179373) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179373) 21 additions and 21 deletions in 1 file</sub><br />
+
