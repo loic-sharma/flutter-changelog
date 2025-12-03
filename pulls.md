@@ -171,5 +171,5 @@
   <sub>[#179419](https://github.com/flutter/flutter/pull/179419) opened on on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179419) 2 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add changelog for flutter 3.38.4<br />
-  <sub>[#179420](https://github.com/flutter/flutter/pull/179420) opened on on December 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179420) 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179420](https://github.com/flutter/flutter/pull/179420) opened on on December 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179420) 11 additions and 0 deletions in 1 file</sub><br />
 
