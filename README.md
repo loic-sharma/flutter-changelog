@@ -844,7 +844,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-11 commits.
+12 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add optional page navigation to top toc dropdown (for FWE)<br />
   <sub>[#12715](https://github.com/flutter/website/pull/12715) merged on December 2, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/website/pull/12715) over 2 weeks, 552 additions and 199 deletions in 32 files</sub><br />
@@ -877,6 +877,10 @@
 
 * **[M](https://github.com/channel101)** &mdash; Remove outdated --explicit-package-dependencies flag from i18n migration docs<br />
   <sub>[#12763](https://github.com/flutter/website/pull/12763) merged on December 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12763) over 1 day, 1 addition and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: clarify ImageFilter shader support is Impeller-only<br />
+  <sub>[#12778](https://github.com/flutter/website/pull/12778) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12778) over 20 hours, 5 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Design doc - Decoupling design from text<br />
