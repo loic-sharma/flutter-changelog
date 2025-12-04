@@ -135,7 +135,7 @@
   <sub>[#179347](https://github.com/flutter/flutter/pull/179347) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179347) 11 additions and 7 deletions in 3 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update InputDatePickerFormField callbacks (onDateSubmitted, onDateSaved)<br />
-  <sub>[#179348](https://github.com/flutter/flutter/pull/179348) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179348) 151 additions and 18 deletions in 3 files</sub><br />
+  <sub>[#179348](https://github.com/flutter/flutter/pull/179348) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179348) 151 additions and 19 deletions in 3 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [engine] Fix bold font fallback for non-Latin scripts on iOS<br />
   <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179350) 121 additions and 1 deletion in 2 files</sub><br />
