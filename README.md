@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-34 commits.
+35 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -43,9 +43,9 @@
   <sub>[#178941](https://github.com/flutter/flutter/pull/178941) merged on December 1, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/178941) over 1 week, 171 additions and 46 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix onTextScaleFactorChanged not getting called.<br />
-  <sub>[#178862](https://github.com/flutter/flutter/pull/178862) merged on December 2, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/178862) over 1 week, 107 additions and 59 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer tests<br />
+  <sub>[#179309](https://github.com/flutter/flutter/pull/179309) merged on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179309) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Refactor GetShaderClipDepth for clarity<br />
   <sub>[#179110](https://github.com/flutter/flutter/pull/179110) merged on December 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179110) over 6 days, 1 addition and 2 deletions in 1 file</sub><br />
@@ -55,9 +55,9 @@
   <sub>[#179160](https://github.com/flutter/flutter/pull/179160) merged on December 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179160) over 1 week, 69 additions and 3 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer tests<br />
-  <sub>[#179309](https://github.com/flutter/flutter/pull/179309) merged on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179309) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix onTextScaleFactorChanged not getting called.<br />
+  <sub>[#178862](https://github.com/flutter/flutter/pull/178862) merged on December 2, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/178862) over 1 week, 107 additions and 59 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace use of eglCreateImage with eglCreateImageKHR to reduce EGL requirement<br />
   <sub>[#179310](https://github.com/flutter/flutter/pull/179310) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179310) over 2 days, 16 additions and 16 deletions in 4 files</sub><br />
@@ -74,6 +74,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [ios] Reland Dynamic Content Resizing<br />
   <sub>[#179153](https://github.com/flutter/flutter/pull/179153) merged on December 2, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/179153) over 5 days, 500 additions and 6 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.selectOnly<br />
+  <sub>[#179189](https://github.com/flutter/flutter/pull/179189) merged on December 4, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/179189) over 6 days, 266 additions and 22 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Allow apps to prefer high power GPUs<br />
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) merged on December 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177653) over 1 month, 69 additions and 10 deletions in 6 files</sub><br />
