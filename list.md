@@ -812,7 +812,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-10 commits.
+11 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add optional page navigation to top toc dropdown (for FWE)
   <sub>[#12715](https://github.com/flutter/website/pull/12715) merged on December 2, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/website/pull/12715) over 2 weeks, 552 additions and 199 deletions in 32 files</sub>
@@ -846,6 +846,10 @@
 * **[M](https://github.com/channel101)** &mdash; Remove outdated --explicit-package-dependencies flag from i18n migration docs
   <sub>[#12763](https://github.com/flutter/website/pull/12763) merged on December 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12763) over 1 day, 1 addition and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Design doc - Decoupling design from text
+  <sub>[#12774](https://github.com/flutter/website/pull/12774) merged on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/12774) over 1 day, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add collapsed code-block support for tutorial challenges
   <sub>[#12767](https://github.com/flutter/website/pull/12767) merged on December 1, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12767) over 3 hours, 9 additions and 3 deletions in 3 files</sub>
