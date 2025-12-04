@@ -153,5 +153,5 @@
   <sub>[#179405](https://github.com/flutter/flutter/pull/179405) opened on on December 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179405) 247 additions and 12 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoScrollbar doesn't crash in 0x0 environment<br />
-  <sub>[#179442](https://github.com/flutter/flutter/pull/179442) opened on on December 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179442) 10 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179442](https://github.com/flutter/flutter/pull/179442) opened on on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179442) 10 additions and 0 deletions in 1 file</sub><br />
 
