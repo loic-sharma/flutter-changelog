@@ -48,7 +48,7 @@
   <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/177954) 165 additions and 5 deletions in 12 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add embedded Widget Inspector support<br />
-  <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/178116) 1314 additions and 147 deletions in 30 files</sub><br />
+  <sub>[#178116](https://github.com/flutter/flutter/pull/178116) opened on on November 6, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/178116) 1314 additions and 147 deletions in 30 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
@@ -159,5 +159,5 @@
   <sub>[#179458](https://github.com/flutter/flutter/pull/179458) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179458) 8 additions and 8 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Unpin `package:dwds` dependency<br />
-  <sub>[#179462](https://github.com/flutter/flutter/pull/179462) opened on on December 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179462) 3 additions and 5 deletions in 3 files</sub><br />
+  <sub>[#179462](https://github.com/flutter/flutter/pull/179462) opened on on December 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179462) 3 additions and 5 deletions in 3 files</sub><br />
 
