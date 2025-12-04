@@ -165,5 +165,8 @@
   <sub>[#179462](https://github.com/flutter/flutter/pull/179462) opened on on December 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179462) 3 additions and 5 deletions in 3 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Do not merge - validating Gold<br />
-  <sub>[#179465](https://github.com/flutter/flutter/pull/179465) opened on on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179465) 11 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#179465](https://github.com/flutter/flutter/pull/179465) opened on on December 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179465) 11 additions and 2 deletions in 4 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump engine.version.<br />
+  <sub>[#179467](https://github.com/flutter/flutter/pull/179467) opened on on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179467) 1 addition and 1 deletion in 1 file</sub><br />
 
