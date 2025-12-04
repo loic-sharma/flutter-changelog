@@ -164,3 +164,6 @@
 * **[bungeman](https://github.com/bungeman)** &mdash; Move target_cpu into use_rbe block in Fuchsia build<br />
   <sub>[#179458](https://github.com/flutter/flutter/pull/179458) opened on on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179458) 8 additions and 8 deletions in 1 file</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Commit release-candidate-branch.version file.<br />
+  <sub>[#179459](https://github.com/flutter/flutter/pull/179459) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179459) 1 addition and 0 deletions in 1 file</sub><br />
+
