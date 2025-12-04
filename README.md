@@ -617,7 +617,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-12 commits.
+13 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene<br />
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub><br />
@@ -634,6 +634,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes crash when running `WKNavigationResponse` tests on Xcode 26<br />
   <sub>[#10316](https://github.com/flutter/packages/pull/10316) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10316) over 1 month, 11 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Removes internal native library Dart proxy<br />
+  <sub>[#10527](https://github.com/flutter/packages/pull/10527) merged on December 4, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/10527) over 1 week, 1809 additions and 2879 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes crash that occurs when an object that is removed from the instance manager  calls to Dart<br />
   <sub>[#10552](https://github.com/flutter/packages/pull/10552) merged on December 4, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10552) over 21 hours, 1291 additions and 746 deletions in 11 files</sub><br />

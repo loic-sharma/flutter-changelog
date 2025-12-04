@@ -164,3 +164,6 @@
 * **[bungeman](https://github.com/bungeman)** &mdash; Move target_cpu into use_rbe block in Fuchsia build<br />
   <sub>[#179458](https://github.com/flutter/flutter/pull/179458) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179458) 8 additions and 8 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Unpin `package:dwds` dependency<br />
+  <sub>[#179462](https://github.com/flutter/flutter/pull/179462) opened on on December 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179462) 3 additions and 5 deletions in 3 files</sub><br />
+
