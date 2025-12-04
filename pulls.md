@@ -158,12 +158,12 @@
 * **[Roman Laptev](https://github.com/Carapacik)** &mdash; Manually roll characters<br />
   <sub>[#179447](https://github.com/flutter/flutter/pull/179447) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179447) 8 additions and 8 deletions in 4 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Udpate several comments related to theme normalization<br />
-  <sub>[#179457](https://github.com/flutter/flutter/pull/179457) opened on on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179457) 34 additions and 29 deletions in 8 files</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update several comments related to theme normalization<br />
+  <sub>[#179457](https://github.com/flutter/flutter/pull/179457) opened on on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179457) 37 additions and 29 deletions in 8 files</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Move target_cpu into use_rbe block in Fuchsia build<br />
   <sub>[#179458](https://github.com/flutter/flutter/pull/179458) opened on on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179458) 8 additions and 8 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Commit release-candidate-branch.version file.<br />
-  <sub>[#179459](https://github.com/flutter/flutter/pull/179459) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179459) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#179459](https://github.com/flutter/flutter/pull/179459) opened on on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179459) 2 additions and 0 deletions in 2 files</sub><br />
 
