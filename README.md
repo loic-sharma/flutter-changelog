@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-27 commits.
+29 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -55,6 +55,10 @@
   <sub>[#179309](https://github.com/flutter/flutter/pull/179309) merged on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179309) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Infra ] Shard `Windows tool_tests_commands`<br />
+  <sub>[#179409](https://github.com/flutter/flutter/pull/179409) merged on December 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179409) over 8 hours, 46 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix crash when text editing value changes between scrolls<br />
   <sub>[#179163](https://github.com/flutter/flutter/pull/179163) merged on December 2, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/179163) over 5 days, 350 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
@@ -86,6 +90,10 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Delete disabled workflow and add missing permissions key to workflow<br />
   <sub>[#178911](https://github.com/flutter/flutter/pull/178911) merged on December 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178911) over 1 week, 3 additions and 41 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Fix filename typo<br />
+  <sub>[#179427](https://github.com/flutter/flutter/pull/179427) merged on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179427) over 1 hour, 4 additions and 4 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-200.1.beta<br />
   <sub>[#179399](https://github.com/flutter/flutter/pull/179399) merged on December 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179399) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -581,7 +589,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-8 commits.
+9 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene<br />
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub><br />
@@ -590,6 +598,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Update for UIScene compatibility<br />
   <sub>[#10549](https://github.com/flutter/packages/pull/10549) merged on December 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10549) over 1 day, 151 additions and 53 deletions in 12 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes crash when running `WKNavigationResponse` tests on Xcode 26<br />
+  <sub>[#10316](https://github.com/flutter/packages/pull/10316) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10316) over 1 month, 11 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove `no_adjacent_strings_in_list` from enabled lint rules.<br />
   <sub>[#7878](https://github.com/flutter/packages/pull/7878) merged on December 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7878) over 13 months, 1 addition and 1 deletion in 1 file</sub><br />
