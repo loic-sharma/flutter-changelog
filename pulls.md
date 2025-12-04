@@ -138,7 +138,7 @@
   <sub>[#179348](https://github.com/flutter/flutter/pull/179348) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179348) 151 additions and 18 deletions in 3 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [engine] Fix bold font fallback for non-Latin scripts on iOS<br />
-  <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179350) 121 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179350) 121 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPickerDefaultSelectionOverlay doesn't crash…<br />
   <sub>[#179351](https://github.com/flutter/flutter/pull/179351) opened on on December 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179351) 11 additions and 0 deletions in 1 file</sub><br />
