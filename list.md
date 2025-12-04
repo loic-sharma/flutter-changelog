@@ -812,7 +812,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-8 commits.
+9 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add optional page navigation to top toc dropdown (for FWE)
   <sub>[#12715](https://github.com/flutter/website/pull/12715) merged on December 2, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/website/pull/12715) over 2 weeks, 552 additions and 199 deletions in 32 files</sub>
@@ -830,6 +830,10 @@
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; PR comments: add try catch while accessing theme from localStorage
   <sub>[#12682](https://github.com/flutter/website/pull/12682) merged on December 1, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12682) over 2 weeks, 81 additions and 37 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add DevTools release notes for version 2.53.0
+  <sub>[#12773](https://github.com/flutter/website/pull/12773) merged on December 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12773) over 1 day, 34 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Refactor architecture recommendation tables to Jaspr component
   <sub>[#12768](https://github.com/flutter/website/pull/12768) merged on December 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12768) over 17 hours, 147 additions and 71 deletions in 4 files</sub>
