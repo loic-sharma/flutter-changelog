@@ -81,7 +81,7 @@
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Allow SliverMainAxisGroup children to remain pinned<br />
-  <sub>[#178809](https://github.com/flutter/flutter/pull/178809) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178809) 183 additions and 63 deletions in 3 files</sub><br />
+  <sub>[#178809](https://github.com/flutter/flutter/pull/178809) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178809) 183 additions and 63 deletions in 3 files</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Improve Container color/decoration error message clarity<br />
   <sub>[#178823](https://github.com/flutter/flutter/pull/178823) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178823) 3 additions and 2 deletions in 1 file</sub><br />
@@ -114,7 +114,7 @@
   <sub>[#179199](https://github.com/flutter/flutter/pull/179199) opened on on November 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/179199) 96 additions and 1 deletion in 2 files</sub><br />
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix pinned header in NestedScrollView<br />
-  <sub>[#179210](https://github.com/flutter/flutter/pull/179210) opened on on November 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179210) 70 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#179210](https://github.com/flutter/flutter/pull/179210) opened on on November 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179210) 70 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for `LocalHistoryEntry` class<br />
   <sub>[#179223](https://github.com/flutter/flutter/pull/179223) opened on on November 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179223) 90 additions and 0 deletions in 1 file</sub><br />

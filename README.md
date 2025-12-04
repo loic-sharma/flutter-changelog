@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-32 commits.
+33 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -102,6 +102,10 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Delete disabled workflow and add missing permissions key to workflow<br />
   <sub>[#178911](https://github.com/flutter/flutter/pull/178911) merged on December 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178911) over 1 week, 3 additions and 41 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update some BottomNavigationBar comments to reflect theme normalization<br />
+  <sub>[#179404](https://github.com/flutter/flutter/pull/179404) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179404) over 17 hours, 6 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Fix filename typo<br />
   <sub>[#179427](https://github.com/flutter/flutter/pull/179427) merged on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179427) over 1 hour, 4 additions and 4 deletions in 5 files</sub><br />
