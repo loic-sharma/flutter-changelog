@@ -597,7 +597,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-10 commits.
+11 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub>
@@ -626,6 +626,10 @@
 * **[Romeo 49](https://github.com/romeo4934)** &mdash; [camera_web] Fix camera initialization failure on Firefox Android
   <sub>[#10341](https://github.com/flutter/packages/pull/10341) merged on December 1, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/10341) over 4 weeks, 19 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes error from constructor parameter sharing name with attached field for a ProxyApi
+  <sub>[#10541](https://github.com/flutter/packages/pull/10541) merged on December 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/10541) over 3 days, 41 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Redistribute iOS CODEOWNERS
   <sub>[#10520](https://github.com/flutter/packages/pull/10520) merged on December 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10520) over 1 week, 14 additions and 14 deletions in 1 file</sub>
