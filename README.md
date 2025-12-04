@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-31 commits.
+32 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -58,6 +58,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer tests<br />
   <sub>[#179309](https://github.com/flutter/flutter/pull/179309) merged on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179309) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace use of eglCreateImage with eglCreateImageKHR to reduce EGL requirement<br />
+  <sub>[#179310](https://github.com/flutter/flutter/pull/179310) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179310) over 2 days, 16 additions and 16 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Infra ] Shard `Windows tool_tests_commands`<br />
   <sub>[#179409](https://github.com/flutter/flutter/pull/179409) merged on December 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179409) over 8 hours, 46 additions and 11 deletions in 2 files</sub><br />

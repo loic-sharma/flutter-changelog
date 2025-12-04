@@ -131,9 +131,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add default-linux-sysroot to gn frontend args<br />
   <sub>[#179303](https://github.com/flutter/flutter/pull/179303) opened on on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179303) 17 additions and 0 deletions in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace use of eglCreateImage with eglCreateImageKHR to reduce EGL requirement<br />
-  <sub>[#179310](https://github.com/flutter/flutter/pull/179310) opened on on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179310) 16 additions and 16 deletions in 4 files</sub><br />
-
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update SkSerialProcs to use new type<br />
   <sub>[#179347](https://github.com/flutter/flutter/pull/179347) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179347) 11 additions and 7 deletions in 3 files</sub><br />
 
