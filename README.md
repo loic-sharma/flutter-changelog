@@ -629,7 +629,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-14 commits.
+15 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene<br />
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub><br />
@@ -646,6 +646,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes crash when running `WKNavigationResponse` tests on Xcode 26<br />
   <sub>[#10316](https://github.com/flutter/packages/pull/10316) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10316) over 1 month, 11 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Removes internal native library Dart proxy<br />
+  <sub>[#10537](https://github.com/flutter/packages/pull/10537) merged on December 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/10537) over 4 days, 2706 additions and 3562 deletions in 47 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Removes internal native library Dart proxy<br />
   <sub>[#10528](https://github.com/flutter/packages/pull/10528) merged on December 4, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10528) over 1 week, 1768 additions and 2416 deletions in 22 files</sub><br />
