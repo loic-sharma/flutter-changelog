@@ -153,7 +153,7 @@
   <sub>[#179442](https://github.com/flutter/flutter/pull/179442) opened on on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179442) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Roman Laptev](https://github.com/Carapacik)** &mdash; Manually roll characters<br />
-  <sub>[#179447](https://github.com/flutter/flutter/pull/179447) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179447) 8 additions and 8 deletions in 4 files</sub><br />
+  <sub>[#179447](https://github.com/flutter/flutter/pull/179447) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179447) 10 additions and 10 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Unpin `package:dwds` dependency<br />
   <sub>[#179462](https://github.com/flutter/flutter/pull/179462) opened on on December 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179462) 3 additions and 5 deletions in 3 files</sub><br />
