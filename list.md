@@ -597,7 +597,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-11 commits.
+12 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub>
@@ -614,6 +614,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes crash when running `WKNavigationResponse` tests on Xcode 26
   <sub>[#10316](https://github.com/flutter/packages/pull/10316) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10316) over 1 month, 11 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes crash that occurs when an object that is removed from the instance manager  calls to Dart
+  <sub>[#10552](https://github.com/flutter/packages/pull/10552) merged on December 4, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10552) over 21 hours, 1291 additions and 746 deletions in 11 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove `no_adjacent_strings_in_list` from enabled lint rules.
   <sub>[#7878](https://github.com/flutter/packages/pull/7878) merged on December 2, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7878) over 13 months, 1 addition and 1 deletion in 1 file</sub>
