@@ -158,3 +158,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Unpin `package:dwds` dependency<br />
   <sub>[#179462](https://github.com/flutter/flutter/pull/179462) opened on on December 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179462) 3 additions and 5 deletions in 3 files</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [reland] Unify canvas creation and Surface code in Skwasm and CanvasKit<br />
+  <sub>[#179473](https://github.com/flutter/flutter/pull/179473) opened on on December 4, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/179473) 1685 additions and 1349 deletions in 35 files</sub><br />
+
