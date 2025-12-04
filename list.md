@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-29 commits.
+31 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub>
@@ -43,6 +43,10 @@
   <sub>[#178941](https://github.com/flutter/flutter/pull/178941) merged on December 1, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/178941) over 1 week, 171 additions and 46 deletions in 3 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impellerc] adds entry prefix flag to avoid shader collisions
+  <sub>[#179160](https://github.com/flutter/flutter/pull/179160) merged on December 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179160) over 1 week, 69 additions and 3 deletions in 14 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Tirth](https://github.com/piedcipher)** &mdash; Refactor GetShaderClipDepth for clarity
   <sub>[#179110](https://github.com/flutter/flutter/pull/179110) merged on December 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179110) over 6 days, 1 addition and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
@@ -66,6 +70,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [ios] Reland Dynamic Content Resizing
   <sub>[#179153](https://github.com/flutter/flutter/pull/179153) merged on December 2, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/179153) over 5 days, 500 additions and 6 deletions in 16 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Allow apps to prefer high power GPUs
+  <sub>[#177653](https://github.com/flutter/flutter/pull/177653) merged on December 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177653) over 1 month, 69 additions and 10 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings
   <sub>[#178313](https://github.com/flutter/flutter/pull/178313) merged on December 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178313) over 3 weeks, 1 addition and 3 deletions in 2 files</sub>
@@ -589,11 +597,15 @@
 
 ### November 29, 2025 to December 5, 2025
 
-9 commits.
+10 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; fix[image_picker_ios]: Prevent transcoding on video selection
+  <sub>[#10559](https://github.com/flutter/packages/pull/10559) merged on December 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10559) over 4 hours, 30 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Update for UIScene compatibility
   <sub>[#10549](https://github.com/flutter/packages/pull/10549) merged on December 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10549) over 1 day, 151 additions and 53 deletions in 12 files</sub>
