@@ -137,17 +137,11 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [engine] Fix bold font fallback for non-Latin scripts on iOS<br />
   <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179350) 121 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPickerDefaultSelectionOverlay doesn't crash…<br />
-  <sub>[#179351](https://github.com/flutter/flutter/pull/179351) opened on on December 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179351) 11 additions and 0 deletions in 1 file</sub><br />
-
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Add framework-side hitTestBehavior support to Semantics (#178817)<br />
   <sub>[#179352](https://github.com/flutter/flutter/pull/179352) opened on on December 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/179352) 407 additions and 88 deletions in 14 files</sub><br />
 
 * **[narunblog](https://github.com/narunblog)** &mdash; 【WIP】Add arrow key repeat movement<br />
   <sub>[#179405](https://github.com/flutter/flutter/pull/179405) opened on on December 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179405) 247 additions and 12 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoScrollbar doesn't crash in 0x0 environment<br />
-  <sub>[#179442](https://github.com/flutter/flutter/pull/179442) opened on on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179442) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Roman Laptev](https://github.com/Carapacik)** &mdash; Manually roll characters<br />
   <sub>[#179447](https://github.com/flutter/flutter/pull/179447) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179447) 10 additions and 10 deletions in 5 files</sub><br />
