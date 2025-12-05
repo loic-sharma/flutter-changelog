@@ -152,3 +152,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement flutter/accessibility channel<br />
   <sub>[#179484](https://github.com/flutter/flutter/pull/179484) opened on on December 5, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179484) 558 additions and 1 deletion in 9 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSearchTextField doesn't crash in 0x0 enviro…<br />
+  <sub>[#179487](https://github.com/flutter/flutter/pull/179487) opened on on December 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179487) 15 additions and 0 deletions in 1 file</sub><br />
+
