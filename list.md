@@ -661,7 +661,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-15 commits.
+16 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub>
@@ -722,6 +722,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_fonts] Replace deprecated FontWeight.index
   <sub>[#10544](https://github.com/flutter/packages/pull/10544) merged on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10544) over 1 hour, 7 additions and 6 deletions in 4 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 19074d12f7ea to 66dd93f9a27f (12 revisions)
+  <sub>[#10573](https://github.com/flutter/packages/pull/10573) merged on December 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10573) over 54 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### November 22, 2025 to November 28, 2025
 
