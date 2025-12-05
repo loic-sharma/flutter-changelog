@@ -156,5 +156,5 @@
   <sub>[#179501](https://github.com/flutter/flutter/pull/179501) opened on on December 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179501) 141 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; ListTile fix MinIntrinsicHeight calculation<br />
-  <sub>[#179515](https://github.com/flutter/flutter/pull/179515) opened on on December 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179515) 47 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#179515](https://github.com/flutter/flutter/pull/179515) opened on on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179515) 47 additions and 4 deletions in 2 files</sub><br />
 
