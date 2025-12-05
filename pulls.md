@@ -66,7 +66,7 @@
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
-  <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/178701) 73 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/178701) 73 additions and 3 deletions in 2 files</sub><br />
 
 * **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
@@ -103,9 +103,6 @@
 
 * **[maple](https://github.com/maplepy)** &mdash; Fix typos and improve wording in Roadmap.md<br />
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
-
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix Scrollbar drag behavior<br />
-  <sub>[#179199](https://github.com/flutter/flutter/pull/179199) opened on on November 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/179199) 96 additions and 1 deletion in 2 files</sub><br />
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix pinned header in NestedScrollView<br />
   <sub>[#179210](https://github.com/flutter/flutter/pull/179210) opened on on November 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179210) 70 additions and 1 deletion in 2 files</sub><br />
@@ -151,9 +148,6 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement flutter/accessibility channel<br />
   <sub>[#179484](https://github.com/flutter/flutter/pull/179484) opened on on December 5, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/179484) 558 additions and 1 deletion in 9 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSearchTextField doesn't crash in 0x0 enviro…<br />
-  <sub>[#179487](https://github.com/flutter/flutter/pull/179487) opened on on December 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179487) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.<br />
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) opened on on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179493) 87 additions and 0 deletions in 2 files</sub><br />
