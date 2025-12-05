@@ -65,9 +65,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[Soshi Morita](https://github.com/moritasoshi)** &mdash; Add an option to RefreshIndicator to use the actual viewport dimensions.<br />
-  <sub>[#178701](https://github.com/flutter/flutter/pull/178701) opened on on November 18, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/178701) 73 additions and 3 deletions in 2 files</sub><br />
-
 * **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
@@ -85,6 +82,9 @@
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
   <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/178922) 2601 additions and 351 deletions in 121 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
+  <sub>[#178931](https://github.com/flutter/flutter/pull/178931) opened on on November 21, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/178931) 2169 additions and 376 deletions in 25 files</sub><br />
 
 * **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter Material samples<br />
   <sub>[#178948](https://github.com/flutter/flutter/pull/178948) opened on on November 21, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178948) 193 additions and 0 deletions in 2 files</sub><br />
