@@ -158,3 +158,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.<br />
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) opened on on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179493) 87 additions and 0 deletions in 2 files</sub><br />
 
+* **[wm-jenildgohel](https://github.com/wm-jenildgohel)** &mdash; Add size validation and warnings for Picture.toImage to prevent GPU t…<br />
+  <sub>[#179501](https://github.com/flutter/flutter/pull/179501) opened on on December 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179501) 141 additions and 0 deletions in 3 files</sub><br />
+
