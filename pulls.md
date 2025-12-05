@@ -135,7 +135,7 @@
   <sub>[#179447](https://github.com/flutter/flutter/pull/179447) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179447) 10 additions and 10 deletions in 5 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [reland] Unify canvas creation and Surface code in Skwasm and CanvasKit<br />
-  <sub>[#179473](https://github.com/flutter/flutter/pull/179473) opened on on December 4, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/179473) 1700 additions and 1346 deletions in 37 files</sub><br />
+  <sub>[#179473](https://github.com/flutter/flutter/pull/179473) opened on on December 4, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/179473) 1709 additions and 1346 deletions in 38 files</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - Semantics focus does not move outside viewport when moving up or down<br />
   <sub>[#179480](https://github.com/flutter/flutter/pull/179480) opened on on December 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179480) 32 additions and 8 deletions in 2 files</sub><br />
