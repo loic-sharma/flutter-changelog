@@ -114,7 +114,7 @@
   <sub>[#179210](https://github.com/flutter/flutter/pull/179210) opened on on November 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179210) 70 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for `LocalHistoryEntry` class<br />
-  <sub>[#179223](https://github.com/flutter/flutter/pull/179223) opened on on November 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179223) 90 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179223](https://github.com/flutter/flutter/pull/179223) opened on on November 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/179223) 90 additions and 0 deletions in 1 file</sub><br />
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 165977 Add focus support for CupertinoAlertDialogAction<br />
   <sub>[#179224](https://github.com/flutter/flutter/pull/179224) opened on on November 28, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179224) 567 additions and 77 deletions in 5 files</sub><br />
@@ -150,5 +150,5 @@
   <sub>[#179462](https://github.com/flutter/flutter/pull/179462) opened on on December 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179462) 3 additions and 5 deletions in 3 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [reland] Unify canvas creation and Surface code in Skwasm and CanvasKit<br />
-  <sub>[#179473](https://github.com/flutter/flutter/pull/179473) opened on on December 4, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/179473) 1685 additions and 1349 deletions in 35 files</sub><br />
+  <sub>[#179473](https://github.com/flutter/flutter/pull/179473) opened on on December 4, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/179473) 1700 additions and 1346 deletions in 37 files</sub><br />
 
