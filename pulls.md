@@ -158,6 +158,3 @@
 * **[Zakaria Ahmed Mahad](https://github.com/ENG-MAXAAD)** &mdash; Add full Somali (so) localization to Material and Cupertino libraries<br />
   <sub>[#179535](https://github.com/flutter/flutter/pull/179535) opened on on December 6, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/179535) 927 additions and 0 deletions in 4 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; win32: Do not flood message loop with wake up messages<br />
-  <sub>[#179538](https://github.com/flutter/flutter/pull/179538) opened on on December 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179538) 12 additions and 17 deletions in 2 files</sub><br />
-
