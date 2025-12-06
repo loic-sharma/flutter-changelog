@@ -152,3 +152,6 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; ListTile fix MinIntrinsicHeight calculation<br />
   <sub>[#179515](https://github.com/flutter/flutter/pull/179515) opened on on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179515) 47 additions and 4 deletions in 2 files</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Remove unused optional argument in _followDiagnosticableChain<br />
+  <sub>[#179525](https://github.com/flutter/flutter/pull/179525) opened on on December 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179525) 2 additions and 6 deletions in 1 file</sub><br />
+
