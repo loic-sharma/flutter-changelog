@@ -4,7 +4,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-60 commits.
+63 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer<br />
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub><br />
@@ -95,6 +95,10 @@
   <sub>[#179153](https://github.com/flutter/flutter/pull/179153) merged on December 2, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/179153) over 5 days, 500 additions and 6 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Infra ] Shard `Windows tool_tests_commands`<br />
+  <sub>[#179409](https://github.com/flutter/flutter/pull/179409) merged on December 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179409) over 8 hours, 46 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace use of eglCreateImage with eglCreateImageKHR to reduce EGL requirement<br />
   <sub>[#179310](https://github.com/flutter/flutter/pull/179310) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179310) over 2 days, 16 additions and 16 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
@@ -103,17 +107,9 @@
   <sub>[#179462](https://github.com/flutter/flutter/pull/179462) merged on December 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179462) over 7 hours, 3 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Infra ] Shard `Windows tool_tests_commands`<br />
-  <sub>[#179409](https://github.com/flutter/flutter/pull/179409) merged on December 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179409) over 8 hours, 46 additions and 11 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenu.selectOnly<br />
   <sub>[#179189](https://github.com/flutter/flutter/pull/179189) merged on December 4, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/179189) over 6 days, 266 additions and 22 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoButton doesn't crash in 0x0 environment<br />
-  <sub>[#178629](https://github.com/flutter/flutter/pull/178629) merged on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178629) over 2 weeks, 13 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTimerPicker doesn't crash in 0x0 environment<br />
   <sub>[#178857](https://github.com/flutter/flutter/pull/178857) merged on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178857) over 2 weeks, 11 additions and 0 deletions in 1 file</sub><br />
@@ -127,6 +123,10 @@
   <sub>[#177653](https://github.com/flutter/flutter/pull/177653) merged on December 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/177653) over 1 month, 69 additions and 10 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoContextMenuAction doesn't crash in 0x0 envi…<br />
+  <sub>[#178721](https://github.com/flutter/flutter/pull/178721) merged on December 5, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178721) over 2 weeks, 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoCheckbox doesn't crash in 0x0 environment<br />
   <sub>[#178630](https://github.com/flutter/flutter/pull/178630) merged on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178630) over 2 weeks, 11 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -137,6 +137,10 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoApp doesn't crash in 0x0 environment<br />
   <sub>[#178610](https://github.com/flutter/flutter/pull/178610) merged on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178610) over 2 weeks, 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoButton doesn't crash in 0x0 environment<br />
+  <sub>[#178629](https://github.com/flutter/flutter/pull/178629) merged on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178629) over 2 weeks, 13 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix some gn warnings<br />
@@ -159,17 +163,25 @@
   <sub>[#179357](https://github.com/flutter/flutter/pull/179357) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179357) over 1 day, 13 additions and 13 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
-* **[Pierre](https://github.com/guidezpl)** &mdash; Delete disabled workflow and add missing permissions key to workflow<br />
-  <sub>[#178911](https://github.com/flutter/flutter/pull/178911) merged on December 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178911) over 1 week, 3 additions and 41 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Abseil to 564023aa5376<br />
   <sub>[#179421](https://github.com/flutter/flutter/pull/179421) merged on December 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179421) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Pierre](https://github.com/guidezpl)** &mdash; Delete disabled workflow and add missing permissions key to workflow<br />
+  <sub>[#178911](https://github.com/flutter/flutter/pull/178911) merged on December 2, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178911) over 1 week, 3 additions and 41 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate samples and docs to RadioGroup<br />
   <sub>[#179158](https://github.com/flutter/flutter/pull/179158) merged on December 3, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/179158) over 6 days, 111 additions and 264 deletions in 7 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Huy](https://github.com/huycozy)</sub><br />
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Move target_cpu into use_rbe block in Fuchsia build<br />
+  <sub>[#179458](https://github.com/flutter/flutter/pull/179458) merged on December 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179458) over 21 hours, 8 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-200.1.beta<br />
+  <sub>[#179399](https://github.com/flutter/flutter/pull/179399) merged on December 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179399) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 16] Use AVD With New Android Renderer<br />
   <sub>[#179306](https://github.com/flutter/flutter/pull/179306) merged on December 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179306) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -187,9 +199,9 @@
   <sub>[#179404](https://github.com/flutter/flutter/pull/179404) merged on December 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179404) over 17 hours, 6 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Fix filename typo<br />
-  <sub>[#179427](https://github.com/flutter/flutter/pull/179427) merged on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179427) over 1 hour, 4 additions and 4 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSearchTextField doesn't crash in 0x0 enviro…<br />
+  <sub>[#179487](https://github.com/flutter/flutter/pull/179487) merged on December 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179487) over 17 hours, 15 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPicker doesn't crash in 0x0 environment<br />
   <sub>[#179258](https://github.com/flutter/flutter/pull/179258) merged on December 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179258) over 4 days, 17 additions and 0 deletions in 1 file</sub><br />
@@ -207,33 +219,33 @@
   <sub>[#179200](https://github.com/flutter/flutter/pull/179200) merged on December 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179200) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Fix filename typo<br />
+  <sub>[#179427](https://github.com/flutter/flutter/pull/179427) merged on December 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179427) over 1 hour, 4 additions and 4 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Replace dropdown button with dropdown menu<br />
   <sub>[#179095](https://github.com/flutter/flutter/pull/179095) merged on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179095) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-200.1.beta<br />
-  <sub>[#179399](https://github.com/flutter/flutter/pull/179399) merged on December 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179399) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanup in `‎AccessibilityBridge.java‎`<br />
   <sub>[#179226](https://github.com/flutter/flutter/pull/179226) merged on December 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179226) over 2 days, 8 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoScrollbar doesn't crash in 0x0 environment<br />
-  <sub>[#179442](https://github.com/flutter/flutter/pull/179442) merged on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179442) over 1 day, 11 additions and 0 deletions in 1 file</sub><br />
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoRadio doesn't crash in 0x0 environment<br />
+  <sub>[#179378](https://github.com/flutter/flutter/pull/179378) merged on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179378) over 2 days, 9 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Delete unecessary lockfile<br />
   <sub>[#179052](https://github.com/flutter/flutter/pull/179052) merged on December 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179052) over 6 days, 0 additions and 105 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoScrollbar doesn't crash in 0x0 environment<br />
+  <sub>[#179442](https://github.com/flutter/flutter/pull/179442) merged on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179442) over 1 day, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update several comments related to theme normalization<br />
   <sub>[#179457](https://github.com/flutter/flutter/pull/179457) merged on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179457) over 1 day, 37 additions and 29 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
-* **[bungeman](https://github.com/bungeman)** &mdash; Move target_cpu into use_rbe block in Fuchsia build<br />
-  <sub>[#179458](https://github.com/flutter/flutter/pull/179458) merged on December 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179458) over 21 hours, 8 additions and 8 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update some comments to reflect theme normalization<br />
   <sub>[#179013](https://github.com/flutter/flutter/pull/179013) merged on December 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179013) over 1 week, 29 additions and 37 deletions in 3 files</sub><br />
