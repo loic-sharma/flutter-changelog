@@ -51,7 +51,7 @@
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relax assertion for adding semantics locale<br />
-  <sub>[#178140](https://github.com/flutter/flutter/pull/178140) opened on on November 6, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/178140) 913 additions and 700 deletions in 11 files</sub><br />
+  <sub>[#178140](https://github.com/flutter/flutter/pull/178140) opened on on November 6, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/178140) 913 additions and 700 deletions in 11 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove chrome_and_driver dependency where it's not needed<br />
   <sub>[#178174](https://github.com/flutter/flutter/pull/178174) opened on on November 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178174) 1 addition and 52 deletions in 1 file</sub><br />
@@ -123,7 +123,7 @@
   <sub>[#179348](https://github.com/flutter/flutter/pull/179348) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179348) 151 additions and 19 deletions in 3 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [engine] Fix bold font fallback for non-Latin scripts on iOS<br />
-  <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179350) 121 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179350) 121 additions and 1 deletion in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Add framework-side hitTestBehavior support to Semantics (#178817)<br />
   <sub>[#179352](https://github.com/flutter/flutter/pull/179352) opened on on December 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/179352) 407 additions and 88 deletions in 14 files</sub><br />
