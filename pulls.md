@@ -153,5 +153,5 @@
   <sub>[#179515](https://github.com/flutter/flutter/pull/179515) opened on on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179515) 47 additions and 4 deletions in 2 files</sub><br />
 
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
-  <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
 
