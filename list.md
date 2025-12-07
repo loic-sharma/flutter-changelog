@@ -948,7 +948,7 @@
 
 ### November 29, 2025 to December 5, 2025
 
-13 commits.
+14 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add optional page navigation to top toc dropdown (for FWE)
   <sub>[#12715](https://github.com/flutter/website/pull/12715) merged on December 2, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/website/pull/12715) over 2 weeks, 552 additions and 199 deletions in 32 files</sub>
@@ -981,6 +981,10 @@
 
 * **[M](https://github.com/channel101)** &mdash; Remove outdated --explicit-package-dependencies flag from i18n migration docs
   <sub>[#12763](https://github.com/flutter/website/pull/12763) merged on December 1, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12763) over 1 day, 1 addition and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Add `/go/flutter-file-system` design doc redirect
+  <sub>[#12784](https://github.com/flutter/website/pull/12784) merged on December 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12784) over 1 day, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Update developing-packages.md to the proper definition of a federated plugin
