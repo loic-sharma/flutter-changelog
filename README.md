@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-4 commits.
+5 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of `TestWindowingOwner` for testing multi-window<br />
   <sub>[#179355](https://github.com/flutter/flutter/pull/179355) merged on December 8, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179355) over 5 days, 633 additions and 4 deletions in 5 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPopupSurface doesn't crash in 0x0 environment<br />
   <sub>[#178929](https://github.com/flutter/flutter/pull/178929) merged on December 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178929) over 2 weeks, 11 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Redistribute TESTOWNERS for Android team<br />
+  <sub>[#179464](https://github.com/flutter/flutter/pull/179464) merged on December 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179464) over 4 days, 6 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTile doesn't crash in 0x0 environment<br />
   <sub>[#179109](https://github.com/flutter/flutter/pull/179109) merged on December 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179109) over 1 week, 13 additions and 0 deletions in 1 file</sub><br />
@@ -632,7 +636,20 @@
 
 ### December 6, 2025 to December 12, 2025
 
-1 commits.
+4 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add wrapped page header and utility button<br />
+  <sub>[#12797](https://github.com/flutter/website/pull/12797) merged on December 8, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12797) over 1 hour, 397 additions and 125 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="835" height="215" alt="Screenshot of wrapped page header" src="https://github.com/user-attachments/assets/1f34b9a7-6c3c-4bb0-b30f-d6e5872eac18" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce liquid templating usages on mirrors page<br />
+  <sub>[#12798](https://github.com/flutter/website/pull/12798) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12798) over 1 hour, 55 additions and 60 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace accidental tabs with spaces in FWE code blocks<br />
+  <sub>[#12789](https://github.com/flutter/website/pull/12789) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12789) over 2 days, 25 additions and 25 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix #12729: Clarify recommendation against named routes<br />
   <sub>[#12783](https://github.com/flutter/website/pull/12783) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12783) over 3 days, 7 additions and 3 deletions in 1 file</sub><br />

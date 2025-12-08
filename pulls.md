@@ -107,9 +107,6 @@
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 167114 add keyboard focus support for cupertino context menu action<br />
   <sub>[#179225](https://github.com/flutter/flutter/pull/179225) opened on on November 28, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/179225) 663 additions and 107 deletions in 8 files</sub><br />
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update SkSerialProcs to use new type<br />
-  <sub>[#179347](https://github.com/flutter/flutter/pull/179347) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179347) 11 additions and 7 deletions in 3 files</sub><br />
-
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update InputDatePickerFormField callbacks (onDateSubmitted, onDateSaved)<br />
   <sub>[#179348](https://github.com/flutter/flutter/pull/179348) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179348) 151 additions and 19 deletions in 3 files</sub><br />
 
@@ -125,9 +122,6 @@
 * **[Roman Laptev](https://github.com/Carapacik)** &mdash; Manually roll characters<br />
   <sub>[#179447](https://github.com/flutter/flutter/pull/179447) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179447) 10 additions and 10 deletions in 5 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Redistribute TESTOWNERS for Android team<br />
-  <sub>[#179464](https://github.com/flutter/flutter/pull/179464) opened on on December 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179464) 6 additions and 6 deletions in 1 file</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [reland] Unify canvas creation and Surface code in Skwasm and CanvasKit<br />
   <sub>[#179473](https://github.com/flutter/flutter/pull/179473) opened on on December 4, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/179473) 1709 additions and 1346 deletions in 38 files</sub><br />
 
@@ -139,9 +133,6 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.<br />
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) opened on on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179493) 87 additions and 0 deletions in 2 files</sub><br />
-
-* **[wm-jenildgohel](https://github.com/wm-jenildgohel)** &mdash; Add size validation and warnings for Picture.toImage to prevent GPU t…<br />
-  <sub>[#179501](https://github.com/flutter/flutter/pull/179501) opened on on December 5, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179501) 141 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; ListTile fix MinIntrinsicHeight calculation<br />
   <sub>[#179515](https://github.com/flutter/flutter/pull/179515) opened on on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179515) 42 additions and 4 deletions in 2 files</sub><br />
