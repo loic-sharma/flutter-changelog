@@ -158,6 +158,3 @@
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
   <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; MatrixUtils.forceToPoint - simplify and optimize<br />
-  <sub>[#179546](https://github.com/flutter/flutter/pull/179546) opened on on December 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179546) 9 additions and 3 deletions in 1 file</sub><br />
-
