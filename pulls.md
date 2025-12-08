@@ -134,6 +134,9 @@
 * **[Roman Laptev](https://github.com/Carapacik)** &mdash; Manually roll characters<br />
   <sub>[#179447](https://github.com/flutter/flutter/pull/179447) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179447) 10 additions and 10 deletions in 5 files</sub><br />
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Redistribute TESTOWNERS for Android team<br />
+  <sub>[#179464](https://github.com/flutter/flutter/pull/179464) opened on on December 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179464) 6 additions and 6 deletions in 1 file</sub><br />
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [reland] Unify canvas creation and Surface code in Skwasm and CanvasKit<br />
   <sub>[#179473](https://github.com/flutter/flutter/pull/179473) opened on on December 4, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/179473) 1709 additions and 1346 deletions in 38 files</sub><br />
 
@@ -141,7 +144,7 @@
   <sub>[#179480](https://github.com/flutter/flutter/pull/179480) opened on on December 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179480) 32 additions and 8 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement flutter/accessibility channel<br />
-  <sub>[#179484](https://github.com/flutter/flutter/pull/179484) opened on on December 5, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/179484) 589 additions and 1 deletion in 9 files</sub><br />
+  <sub>[#179484](https://github.com/flutter/flutter/pull/179484) opened on on December 5, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/179484) 589 additions and 1 deletion in 9 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.<br />
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) opened on on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179493) 87 additions and 0 deletions in 2 files</sub><br />
