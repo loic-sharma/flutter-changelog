@@ -508,11 +508,15 @@
 
 ### December 6, 2025 to December 12, 2025
 
-1 commits.
+2 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Removes internal native library Dart proxy
   <sub>[#10536](https://github.com/flutter/packages/pull/10536) merged on December 8, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10536) over 1 week, 2051 additions and 5739 deletions in 10 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Use manual trigger for go_router_batch workflow for testing purp…
+  <sub>[#10475](https://github.com/flutter/packages/pull/10475) merged on December 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10475) over 2 weeks, 9 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 ### November 29, 2025 to December 5, 2025
 
