@@ -164,3 +164,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; MatrixUtils.forceToPoint - simplify and optimize<br />
   <sub>[#179546](https://github.com/flutter/flutter/pull/179546) opened on on December 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179546) 9 additions and 3 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSlider doesn't crash in 0x0 environment<br />
+  <sub>[#179566](https://github.com/flutter/flutter/pull/179566) opened on on December 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179566) 11 additions and 0 deletions in 1 file</sub><br />
+
