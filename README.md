@@ -636,12 +636,16 @@
 
 ### December 6, 2025 to December 12, 2025
 
-4 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add wrapped page header and utility button<br />
   <sub>[#12797](https://github.com/flutter/website/pull/12797) merged on December 8, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12797) over 1 hour, 397 additions and 125 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
   <sub><details><summary>1 image...</summary><img width="835" height="215" alt="Screenshot of wrapped page header" src="https://github.com/user-attachments/assets/1f34b9a7-6c3c-4bb0-b30f-d6e5872eac18" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce new `Icon` component usable from Markdown<br />
+  <sub>[#12794](https://github.com/flutter/website/pull/12794) merged on December 8, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/website/pull/12794) over 4 hours, 168 additions and 148 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce liquid templating usages on mirrors page<br />
   <sub>[#12798](https://github.com/flutter/website/pull/12798) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12798) over 1 hour, 55 additions and 60 deletions in 3 files</sub><br />
