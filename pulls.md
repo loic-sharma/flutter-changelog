@@ -158,12 +158,6 @@
 * **[Zakaria Ahmed Mahad](https://github.com/ENG-MAXAAD)** &mdash; Add full Somali (so) localization to Material and Cupertino libraries<br />
   <sub>[#179535](https://github.com/flutter/flutter/pull/179535) opened on on December 6, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/179535) 927 additions and 0 deletions in 4 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSegmentedControl doesn't crash in 0x0 envir…<br />
-  <sub>[#179544](https://github.com/flutter/flutter/pull/179544) opened on on December 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179544) 16 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; MatrixUtils.forceToPoint - simplify and optimize<br />
   <sub>[#179546](https://github.com/flutter/flutter/pull/179546) opened on on December 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179546) 9 additions and 3 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSlider doesn't crash in 0x0 environment<br />
-  <sub>[#179566](https://github.com/flutter/flutter/pull/179566) opened on on December 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179566) 11 additions and 0 deletions in 1 file</sub><br />
 
