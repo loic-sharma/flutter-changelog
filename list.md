@@ -4,7 +4,11 @@
 
 ### December 6, 2025 to December 12, 2025
 
-5 commits.
+6 commits.
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing
+  <sub>[#176063](https://github.com/flutter/flutter/pull/176063) merged on December 8, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/176063) over 2 months, 439 additions and 17 deletions in 21 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of `TestWindowingOwner` for testing multi-window
   <sub>[#179355](https://github.com/flutter/flutter/pull/179355) merged on December 8, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179355) over 5 days, 633 additions and 4 deletions in 5 files</sub>
