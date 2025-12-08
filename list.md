@@ -490,9 +490,18 @@
 
 ## flutter/packages
 
+### December 6, 2025 to December 12, 2025
+
+1 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Removes internal native library Dart proxy
+  <sub>[#10536](https://github.com/flutter/packages/pull/10536) merged on December 8, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10536) over 1 week, 2051 additions and 5739 deletions in 10 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
 ### November 29, 2025 to December 5, 2025
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Migrate to UIScene
   <sub>[#10429](https://github.com/flutter/packages/pull/10429) merged on December 1, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/10429) over 2 weeks, 60 additions and 19 deletions in 6 files</sub>
@@ -557,6 +566,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 19074d12f7ea to 66dd93f9a27f (12 revisions)
   <sub>[#10573](https://github.com/flutter/packages/pull/10573) merged on December 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10573) over 54 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### November 22, 2025 to November 28, 2025
 
