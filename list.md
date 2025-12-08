@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 6, 2025 to December 12, 2025
+
+1 commits.
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of `TestWindowingOwner` for testing multi-window
+  <sub>[#179355](https://github.com/flutter/flutter/pull/179355) merged on December 8, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179355) over 5 days, 633 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 ### November 29, 2025 to December 5, 2025
 
-64 commits.
+<details>
+<summary>64 commits...</summary>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Replace threadpool timer with custom background thread timer
   <sub>[#179249](https://github.com/flutter/flutter/pull/179249) merged on December 2, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/179249) over 1 day, 133 additions and 30 deletions in 3 files</sub>
@@ -262,6 +271,8 @@
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot. [reland]
   <sub>[#174870](https://github.com/flutter/flutter/pull/174870) merged on December 2, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/174870) over 2 months, 111 additions and 328 deletions in 4 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+</details>
 
 ### November 22, 2025 to November 28, 2025
 
