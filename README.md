@@ -618,9 +618,18 @@
 
 ## flutter/website
 
+### December 6, 2025 to December 12, 2025
+
+1 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix #12729: Clarify recommendation against named routes<br />
+  <sub>[#12783](https://github.com/flutter/website/pull/12783) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12783) over 3 days, 7 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### November 29, 2025 to December 5, 2025
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Add optional page navigation to top toc dropdown (for FWE)<br />
   <sub>[#12715](https://github.com/flutter/website/pull/12715) merged on December 2, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/website/pull/12715) over 2 weeks, 552 additions and 199 deletions in 32 files</sub><br />
@@ -678,6 +687,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a glossary entry for jank<br />
   <sub>[#12759](https://github.com/flutter/website/pull/12759) merged on December 1, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12759) over 4 days, 27 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### November 22, 2025 to November 28, 2025
 
