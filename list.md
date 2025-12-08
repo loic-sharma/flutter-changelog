@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-3 commits.
+4 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of `TestWindowingOwner` for testing multi-window
   <sub>[#179355](https://github.com/flutter/flutter/pull/179355) merged on December 8, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179355) over 5 days, 633 additions and 4 deletions in 5 files</sub>
@@ -16,6 +16,10 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPopupSurface doesn't crash in 0x0 environment
   <sub>[#178929](https://github.com/flutter/flutter/pull/178929) merged on December 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178929) over 2 weeks, 11 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTile doesn't crash in 0x0 environment
+  <sub>[#179109](https://github.com/flutter/flutter/pull/179109) merged on December 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179109) over 1 week, 13 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 ### November 29, 2025 to December 5, 2025

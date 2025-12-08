@@ -27,10 +27,10 @@
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
-  <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
-  <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state<br />
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) opened on on October 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) 73 additions and 42 deletions in 1 file</sub><br />
@@ -58,9 +58,6 @@
 
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15<br />
-  <sub>[#178601](https://github.com/flutter/flutter/pull/178601) opened on on November 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178601) 9 additions and 2 deletions in 8 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
@@ -109,12 +106,6 @@
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 167114 add keyboard focus support for cupertino context menu action<br />
   <sub>[#179225](https://github.com/flutter/flutter/pull/179225) opened on on November 28, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/179225) 663 additions and 107 deletions in 8 files</sub><br />
-
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy image decoders<br />
-  <sub>[#179277](https://github.com/flutter/flutter/pull/179277) opened on on December 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179277) 1 addition and 4 deletions in 1 file</sub><br />
-
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add default-linux-sysroot to gn frontend args<br />
-  <sub>[#179303](https://github.com/flutter/flutter/pull/179303) opened on on December 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179303) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update SkSerialProcs to use new type<br />
   <sub>[#179347](https://github.com/flutter/flutter/pull/179347) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179347) 11 additions and 7 deletions in 3 files</sub><br />
