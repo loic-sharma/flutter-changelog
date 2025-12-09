@@ -62,9 +62,6 @@
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Allow SliverMainAxisGroup children to remain pinned<br />
-  <sub>[#178809](https://github.com/flutter/flutter/pull/178809) opened on on November 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178809) 183 additions and 63 deletions in 3 files</sub><br />
-
 * **[Илия](https://github.com/777genius)** &mdash; Improve Container color/decoration error message clarity<br />
   <sub>[#178823](https://github.com/flutter/flutter/pull/178823) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178823) 3 additions and 2 deletions in 1 file</sub><br />
 
@@ -89,9 +86,6 @@
 * **[maple](https://github.com/maplepy)** &mdash; Fix typos and improve wording in Roadmap.md<br />
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix pinned header in NestedScrollView<br />
-  <sub>[#179210](https://github.com/flutter/flutter/pull/179210) opened on on November 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179210) 70 additions and 1 deletion in 2 files</sub><br />
-
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 165977 Add focus support for CupertinoAlertDialogAction<br />
   <sub>[#179224](https://github.com/flutter/flutter/pull/179224) opened on on November 28, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179224) 567 additions and 77 deletions in 5 files</sub><br />
 
@@ -106,12 +100,6 @@
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Add framework-side hitTestBehavior support to Semantics (#178817)<br />
   <sub>[#179352](https://github.com/flutter/flutter/pull/179352) opened on on December 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/179352) 407 additions and 88 deletions in 14 files</sub><br />
-
-* **[narunblog](https://github.com/narunblog)** &mdash; 【WIP】Add arrow key repeat movement<br />
-  <sub>[#179405](https://github.com/flutter/flutter/pull/179405) opened on on December 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179405) 247 additions and 12 deletions in 2 files</sub><br />
-
-* **[Roman Laptev](https://github.com/Carapacik)** &mdash; Manually roll characters<br />
-  <sub>[#179447](https://github.com/flutter/flutter/pull/179447) opened on on December 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179447) 10 additions and 10 deletions in 5 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [reland] Unify canvas creation and Surface code in Skwasm and CanvasKit<br />
   <sub>[#179473](https://github.com/flutter/flutter/pull/179473) opened on on December 4, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/179473) 1709 additions and 1346 deletions in 38 files</sub><br />
