@@ -108,7 +108,7 @@
   <sub>[#179348](https://github.com/flutter/flutter/pull/179348) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179348) 151 additions and 19 deletions in 3 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [engine] Fix bold font fallback for non-Latin scripts on iOS<br />
-  <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179350) 176 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179350) 176 additions and 1 deletion in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Add framework-side hitTestBehavior support to Semantics (#178817)<br />
   <sub>[#179352](https://github.com/flutter/flutter/pull/179352) opened on on December 2, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/179352) 407 additions and 88 deletions in 14 files</sub><br />
