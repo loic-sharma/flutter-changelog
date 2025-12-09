@@ -548,7 +548,11 @@
 
 ### December 6, 2025 to December 12, 2025
 
-3 commits.
+4 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates pigeon generation to prevent crash when objects call to Dart after a hot restart
+  <sub>[#10571](https://github.com/flutter/packages/pull/10571) merged on December 9, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10571) over 4 days, 871 additions and 1095 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Removes internal native library Dart proxy
   <sub>[#10536](https://github.com/flutter/packages/pull/10536) merged on December 8, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10536) over 1 week, 2051 additions and 5739 deletions in 10 files</sub>
