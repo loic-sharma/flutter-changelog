@@ -134,3 +134,6 @@
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
   <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Fix: Restore CLI precedence over web_dev_config.yaml<br />
+  <sub>[#179639](https://github.com/flutter/flutter/pull/179639) opened on on December 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179639) 41 additions and 9 deletions in 3 files</sub><br />
+
