@@ -18,6 +18,10 @@
   <sub>[#179292](https://github.com/flutter/flutter/pull/179292) merged on December 8, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179292) over 1 week, 112 additions and 23 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
+* **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - Semantics focus does not move outside viewport when moving up or down<br />
+  <sub>[#179480](https://github.com/flutter/flutter/pull/179480) merged on December 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/179480) over 4 days, 32 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoActionSheetAction doesn't crash in 0x0 envi…<br />
   <sub>[#178955](https://github.com/flutter/flutter/pull/178955) merged on December 9, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178955) over 2 weeks, 23 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -41,10 +45,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Remove unused optional argument in _followDiagnosticableChain<br />
   <sub>[#179525](https://github.com/flutter/flutter/pull/179525) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179525) over 3 days, 2 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
-
-* **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - Semantics focus does not move outside viewport when moving up or down<br />
-  <sub>[#179480](https://github.com/flutter/flutter/pull/179480) merged on December 9, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179480) over 4 days, 32 additions and 8 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPickerDefaultSelectionOverlay doesn't crash…<br />
   <sub>[#179351](https://github.com/flutter/flutter/pull/179351) merged on December 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179351) over 6 days, 11 additions and 0 deletions in 1 file</sub><br />
