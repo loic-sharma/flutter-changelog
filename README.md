@@ -688,7 +688,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-10 commits.
+11 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add wrapped page header and utility button<br />
   <sub>[#12797](https://github.com/flutter/website/pull/12797) merged on December 8, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12797) over 1 hour, 397 additions and 125 deletions in 11 files</sub><br />
@@ -698,6 +698,10 @@
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Redesign supported platform cards<br />
   <sub>[#12772](https://github.com/flutter/website/pull/12772) merged on December 9, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/website/pull/12772) over 6 days, 311 additions and 58 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: add migration guide for findChildIndexCallback of separated builder<br />
+  <sub>[#12636](https://github.com/flutter/website/pull/12636) merged on December 9, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/website/pull/12636) over 1 month, 160 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: add Engine glossary entry<br />
   <sub>[#12780](https://github.com/flutter/website/pull/12780) merged on December 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12780) over 4 days, 34 additions and 8 deletions in 2 files</sub><br />
