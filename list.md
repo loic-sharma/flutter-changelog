@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-14 commits.
+15 commits.
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing
   <sub>[#176063](https://github.com/flutter/flutter/pull/176063) merged on December 8, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/176063) over 2 months, 439 additions and 17 deletions in 21 files</sub>
@@ -17,6 +17,10 @@
 * **[b-luk](https://github.com/b-luk)** &mdash; Change GenerateFilledArcStrip to use non-overlapping triangles
   <sub>[#179292](https://github.com/flutter/flutter/pull/179292) merged on December 8, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179292) over 1 week, 112 additions and 23 deletions in 3 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoActionSheetAction doesn't crash in 0x0 envi…
+  <sub>[#178955](https://github.com/flutter/flutter/pull/178955) merged on December 9, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178955) over 2 weeks, 23 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoExpansionTile doesn't crash in 0x0 environment
   <sub>[#178978](https://github.com/flutter/flutter/pull/178978) merged on December 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178978) over 2 weeks, 21 additions and 0 deletions in 1 file</sub>
