@@ -137,3 +137,6 @@
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
   <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update some comments related to theme normalization<br />
+  <sub>[#179624](https://github.com/flutter/flutter/pull/179624) opened on on December 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179624) 52 additions and 22 deletions in 8 files</sub><br />
+
