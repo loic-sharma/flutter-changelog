@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/170980) 47 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/170980) 47 additions and 24 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
@@ -61,12 +61,6 @@
 
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
-
-* **[Илия](https://github.com/777genius)** &mdash; Improve Container color/decoration error message clarity<br />
-  <sub>[#178823](https://github.com/flutter/flutter/pull/178823) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178823) 3 additions and 2 deletions in 1 file</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
-  <sub>[#178895](https://github.com/flutter/flutter/pull/178895) opened on on November 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178895) 74 additions and 13 deletions in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
   <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/178922) 2601 additions and 351 deletions in 121 files</sub><br />
