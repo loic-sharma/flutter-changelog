@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-8 commits.
+9 commits.
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing<br />
   <sub>[#176063](https://github.com/flutter/flutter/pull/176063) merged on December 8, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/176063) over 2 months, 439 additions and 17 deletions in 21 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTile doesn't crash in 0x0 environment<br />
   <sub>[#179109](https://github.com/flutter/flutter/pull/179109) merged on December 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179109) over 1 week, 13 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_arm64_mokey run_release_test to be flaky<br />
+  <sub>[#177372](https://github.com/flutter/flutter/pull/177372) merged on December 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177372) over 1 month, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 ### November 29, 2025 to December 5, 2025
 
