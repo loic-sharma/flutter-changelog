@@ -576,7 +576,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-4 commits.
+5 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates pigeon generation to prevent crash when objects call to Dart after a hot restart<br />
   <sub>[#10571](https://github.com/flutter/packages/pull/10571) merged on December 9, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10571) over 4 days, 871 additions and 1095 deletions in 4 files</sub><br />
@@ -593,6 +593,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Use manual trigger for go_router_batch workflow for testing purp…<br />
   <sub>[#10475](https://github.com/flutter/packages/pull/10475) merged on December 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10475) over 2 weeks, 9 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Redistribute package ownership among Android team<br />
+  <sub>[#10569](https://github.com/flutter/packages/pull/10569) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10569) over 5 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 ### November 29, 2025 to December 5, 2025
 
