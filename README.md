@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-13 commits.
+14 commits.
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing<br />
   <sub>[#176063](https://github.com/flutter/flutter/pull/176063) merged on December 8, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/176063) over 2 months, 439 additions and 17 deletions in 21 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Remove unused optional argument in _followDiagnosticableChain<br />
   <sub>[#179525](https://github.com/flutter/flutter/pull/179525) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179525) over 3 days, 2 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPickerDefaultSelectionOverlay doesn't crash…<br />
+  <sub>[#179351](https://github.com/flutter/flutter/pull/179351) merged on December 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179351) over 6 days, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update SkSerialProcs to use new type<br />
   <sub>[#179347](https://github.com/flutter/flutter/pull/179347) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179347) over 6 days, 11 additions and 7 deletions in 3 files</sub><br />
