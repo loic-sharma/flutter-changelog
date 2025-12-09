@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-16 commits.
+17 commits.
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing<br />
   <sub>[#176063](https://github.com/flutter/flutter/pull/176063) merged on December 8, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/176063) over 2 months, 439 additions and 17 deletions in 21 files</sub><br />
@@ -17,6 +17,10 @@
 * **[b-luk](https://github.com/b-luk)** &mdash; Change GenerateFilledArcStrip to use non-overlapping triangles<br />
   <sub>[#179292](https://github.com/flutter/flutter/pull/179292) merged on December 8, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179292) over 1 week, 112 additions and 23 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix Scrollbar drag behavior<br />
+  <sub>[#179199](https://github.com/flutter/flutter/pull/179199) merged on December 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/179199) over 1 week, 97 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[John Lilly](https://github.com/jwlilly)** &mdash; Fix - Semantics focus does not move outside viewport when moving up or down<br />
   <sub>[#179480](https://github.com/flutter/flutter/pull/179480) merged on December 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/179480) over 4 days, 32 additions and 8 deletions in 2 files</sub><br />
