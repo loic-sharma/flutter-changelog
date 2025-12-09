@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-9 commits.
+10 commits.
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing
   <sub>[#176063](https://github.com/flutter/flutter/pull/176063) merged on December 8, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/176063) over 2 months, 439 additions and 17 deletions in 21 files</sub>
@@ -40,6 +40,10 @@
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_arm64_mokey run_release_test to be flaky
   <sub>[#177372](https://github.com/flutter/flutter/pull/177372) merged on December 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177372) over 1 month, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_mokey flutter_engine_group_performance to be flaky
+  <sub>[#179115](https://github.com/flutter/flutter/pull/179115) merged on December 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179115) over 1 week, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 ### November 29, 2025 to December 5, 2025
