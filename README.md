@@ -672,7 +672,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-8 commits.
+10 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add wrapped page header and utility button<br />
   <sub>[#12797](https://github.com/flutter/website/pull/12797) merged on December 8, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12797) over 1 hour, 397 additions and 125 deletions in 11 files</sub><br />
@@ -706,6 +706,14 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace accidental tabs with spaces in FWE code blocks<br />
   <sub>[#12789](https://github.com/flutter/website/pull/12789) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12789) over 2 days, 25 additions and 25 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix #12781: Add troubleshooting for PowerShell Invoke-Expression error<br />
+  <sub>[#12782](https://github.com/flutter/website/pull/12782) merged on December 9, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12782) over 3 days, 32 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update steps for Dart MCP Server & Antigravity<br />
+  <sub>[#12802](https://github.com/flutter/website/pull/12802) merged on December 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12802) over 16 hours, 29 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 ### November 29, 2025 to December 5, 2025
 
