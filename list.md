@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-21 commits.
+22 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Initial Impeller on Web implementation.
   <sub>[#175442](https://github.com/flutter/flutter/pull/175442) merged on December 9, 2025 &mdash; **Extra large:** [95 comments](https://github.com/flutter/flutter/pull/175442) over 2 months, 1473 additions and 814 deletions in 58 files</sub>
@@ -21,6 +21,10 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of `TestWindowingOwner` for testing multi-window
   <sub>[#179355](https://github.com/flutter/flutter/pull/179355) merged on December 8, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179355) over 5 days, 633 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for `LocalHistoryEntry` class
+  <sub>[#179223](https://github.com/flutter/flutter/pull/179223) merged on December 9, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/179223) over 1 week, 121 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relax assertion for adding semantics locale
   <sub>[#178140](https://github.com/flutter/flutter/pull/178140) merged on December 9, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/178140) over 1 month, 913 additions and 700 deletions in 11 files</sub>

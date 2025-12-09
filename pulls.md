@@ -92,9 +92,6 @@
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix pinned header in NestedScrollView<br />
   <sub>[#179210](https://github.com/flutter/flutter/pull/179210) opened on on November 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179210) 70 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for `LocalHistoryEntry` class<br />
-  <sub>[#179223](https://github.com/flutter/flutter/pull/179223) opened on on November 28, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/179223) 121 additions and 0 deletions in 3 files</sub><br />
-
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 165977 Add focus support for CupertinoAlertDialogAction<br />
   <sub>[#179224](https://github.com/flutter/flutter/pull/179224) opened on on November 28, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179224) 567 additions and 77 deletions in 5 files</sub><br />
 
@@ -120,7 +117,7 @@
   <sub>[#179473](https://github.com/flutter/flutter/pull/179473) opened on on December 4, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/179473) 1709 additions and 1346 deletions in 38 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement flutter/accessibility channel<br />
-  <sub>[#179484](https://github.com/flutter/flutter/pull/179484) opened on on December 5, 2025 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/179484) 591 additions and 1 deletion in 9 files</sub><br />
+  <sub>[#179484](https://github.com/flutter/flutter/pull/179484) opened on on December 5, 2025 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/179484) 661 additions and 2 deletions in 9 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; ListTile fix MinIntrinsicHeight calculation<br />
   <sub>[#179515](https://github.com/flutter/flutter/pull/179515) opened on on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179515) 42 additions and 4 deletions in 2 files</sub><br />
