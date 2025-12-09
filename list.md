@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-17 commits.
+18 commits.
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing
   <sub>[#176063](https://github.com/flutter/flutter/pull/176063) merged on December 8, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/176063) over 2 months, 439 additions and 17 deletions in 21 files</sub>
@@ -13,6 +13,10 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of `TestWindowingOwner` for testing multi-window
   <sub>[#179355](https://github.com/flutter/flutter/pull/179355) merged on December 8, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179355) over 5 days, 633 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Relax assertion for adding semantics locale
+  <sub>[#178140](https://github.com/flutter/flutter/pull/178140) merged on December 9, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/178140) over 1 month, 913 additions and 700 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Change GenerateFilledArcStrip to use non-overlapping triangles
   <sub>[#179292](https://github.com/flutter/flutter/pull/179292) merged on December 8, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179292) over 1 week, 112 additions and 23 deletions in 3 files</sub>
