@@ -131,9 +131,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement flutter/accessibility channel<br />
   <sub>[#179484](https://github.com/flutter/flutter/pull/179484) opened on on December 5, 2025 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/179484) 591 additions and 1 deletion in 9 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.<br />
-  <sub>[#179493](https://github.com/flutter/flutter/pull/179493) opened on on December 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179493) 87 additions and 0 deletions in 2 files</sub><br />
-
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; ListTile fix MinIntrinsicHeight calculation<br />
   <sub>[#179515](https://github.com/flutter/flutter/pull/179515) opened on on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179515) 42 additions and 4 deletions in 2 files</sub><br />
 
