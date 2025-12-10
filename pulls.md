@@ -74,17 +74,8 @@
 * **[Mulla Arsiya Tasleem](https://github.com/ArsiyaTasleem90250)** &mdash; Add unit tests for isEven utility function<br />
   <sub>[#179145](https://github.com/flutter/flutter/pull/179145) opened on on November 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179145) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Allow ExpansionPanel null body which hides expand/collapse (#179167)<br />
-  <sub>[#179168](https://github.com/flutter/flutter/pull/179168) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179168) 19 additions and 13 deletions in 1 file</sub><br />
-
 * **[maple](https://github.com/maplepy)** &mdash; Fix typos and improve wording in Roadmap.md<br />
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
-
-* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 165977 Add focus support for CupertinoAlertDialogAction<br />
-  <sub>[#179224](https://github.com/flutter/flutter/pull/179224) opened on on November 28, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179224) 567 additions and 77 deletions in 5 files</sub><br />
-
-* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 167114 add keyboard focus support for cupertino context menu action<br />
-  <sub>[#179225](https://github.com/flutter/flutter/pull/179225) opened on on November 28, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/179225) 663 additions and 107 deletions in 8 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [engine] Fix bold font fallback for non-Latin scripts on iOS<br />
   <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179350) 176 additions and 1 deletion in 2 files</sub><br />
