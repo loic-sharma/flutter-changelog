@@ -83,17 +83,11 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [reland] Unify canvas creation and Surface code in Skwasm and CanvasKit<br />
   <sub>[#179473](https://github.com/flutter/flutter/pull/179473) opened on on December 4, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/179473) 1692 additions and 1341 deletions in 38 files</sub><br />
 
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; ListTile fix MinIntrinsicHeight calculation<br />
-  <sub>[#179515](https://github.com/flutter/flutter/pull/179515) opened on on December 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179515) 42 additions and 4 deletions in 2 files</sub><br />
-
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
   <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Fix: Restore CLI precedence over web_dev_config.yaml<br />
   <sub>[#179639](https://github.com/flutter/flutter/pull/179639) opened on on December 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179639) 41 additions and 9 deletions in 3 files</sub><br />
-
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; docs: clarify dropdown menu text clearing<br />
-  <sub>[#179676](https://github.com/flutter/flutter/pull/179676) opened on on December 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179676) 33 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jan Jaap de Groot](https://github.com/JJdeGroot)** &mdash; Set heading semantics for `Flag.IS_HEADER`<br />
   <sub>[#179681](https://github.com/flutter/flutter/pull/179681) opened on on December 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179681) 16 additions and 1 deletion in 2 files</sub><br />
