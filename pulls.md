@@ -110,3 +110,6 @@
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; docs: clarify dropdown menu text clearing<br />
   <sub>[#179676](https://github.com/flutter/flutter/pull/179676) opened on on December 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179676) 33 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jan Jaap de Groot](https://github.com/JJdeGroot)** &mdash; Set heading semantics for `Flag.IS_HEADER`<br />
+  <sub>[#179681](https://github.com/flutter/flutter/pull/179681) opened on on December 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179681) 16 additions and 1 deletion in 2 files</sub><br />
+
