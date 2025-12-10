@@ -637,7 +637,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-8 commits.
+9 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates pigeon generation to prevent crash when objects call to Dart after a hot restart
   <sub>[#10571](https://github.com/flutter/packages/pull/10571) merged on December 9, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10571) over 4 days, 871 additions and 1095 deletions in 4 files</sub>
@@ -650,6 +650,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Removes internal native library Dart proxy
   <sub>[#10536](https://github.com/flutter/packages/pull/10536) merged on December 8, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10536) over 1 week, 2051 additions and 5739 deletions in 10 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Arin Abdulmajeed](https://github.com/ArinFaraj)** &mdash; [go_router] Fixes an issue where `onEnter` blocking causes navigation stack loss (stale state restoration)
+  <sub>[#10476](https://github.com/flutter/packages/pull/10476) merged on December 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10476) over 2 weeks, 76 additions and 8 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences_tool] Update dependencies and fix deprecation
   <sub>[#10560](https://github.com/flutter/packages/pull/10560) merged on December 9, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/10560) over 5 days, 10 additions and 32 deletions in 10 files</sub>
