@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-36 commits.
+37 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Initial Impeller on Web implementation.<br />
   <sub>[#175442](https://github.com/flutter/flutter/pull/175442) merged on December 9, 2025 &mdash; **Extra large:** [95 comments](https://github.com/flutter/flutter/pull/175442) over 2 months, 1473 additions and 814 deletions in 58 files</sub><br />
@@ -51,13 +51,13 @@
   <sub>[#179292](https://github.com/flutter/flutter/pull/179292) merged on December 8, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179292) over 1 week, 112 additions and 23 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDialogAction doesn't crash in 0x0 environment<br />
-  <sub>[#178956](https://github.com/flutter/flutter/pull/178956) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178956) over 2 weeks, 11 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Make SettingsChannel configuration queue not static<br />
   <sub>[#179636](https://github.com/flutter/flutter/pull/179636) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179636) over 4 hours, 46 additions and 14 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDialogAction doesn't crash in 0x0 environment<br />
+  <sub>[#178956](https://github.com/flutter/flutter/pull/178956) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178956) over 2 weeks, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tooltip doesn't crash in 0x0 environment<br />
   <sub>[#178461](https://github.com/flutter/flutter/pull/178461) merged on December 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178461) over 3 weeks, 18 additions and 0 deletions in 1 file</sub><br />
@@ -98,6 +98,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Check for a null cached image in SingleFrameCodec::getNextFrame<br />
   <sub>[#179483](https://github.com/flutter/flutter/pull/179483) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179483) over 5 days, 109 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue with pinned headers in nested SliverMainAxisGroup.<br />
+  <sub>[#179132](https://github.com/flutter/flutter/pull/179132) merged on December 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179132) over 2 weeks, 76 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Remove unused optional argument in _followDiagnosticableChain<br />
   <sub>[#179525](https://github.com/flutter/flutter/pull/179525) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179525) over 3 days, 2 additions and 6 deletions in 1 file</sub><br />
@@ -633,7 +637,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates pigeon generation to prevent crash when objects call to Dart after a hot restart<br />
   <sub>[#10571](https://github.com/flutter/packages/pull/10571) merged on December 9, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10571) over 4 days, 871 additions and 1095 deletions in 4 files</sub><br />
@@ -654,6 +658,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Use manual trigger for go_router_batch workflow for testing purp…<br />
   <sub>[#10475](https://github.com/flutter/packages/pull/10475) merged on December 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10475) over 2 weeks, 9 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Update Linux example for deprecations<br />
+  <sub>[#10542](https://github.com/flutter/packages/pull/10542) merged on December 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10542) over 1 week, 6 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Rewrites branch exists without external dependencies<br />
   <sub>[#10594](https://github.com/flutter/packages/pull/10594) merged on December 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10594) over 21 hours, 6 additions and 3 deletions in 1 file</sub><br />
