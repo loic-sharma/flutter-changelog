@@ -620,7 +620,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-6 commits.
+7 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates pigeon generation to prevent crash when objects call to Dart after a hot restart
   <sub>[#10571](https://github.com/flutter/packages/pull/10571) merged on December 9, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10571) over 4 days, 871 additions and 1095 deletions in 4 files</sub>
@@ -640,6 +640,10 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Use manual trigger for go_router_batch workflow for testing purp…
   <sub>[#10475](https://github.com/flutter/packages/pull/10475) merged on December 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10475) over 2 weeks, 9 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Rewrites branch exists without external dependencies
+  <sub>[#10594](https://github.com/flutter/packages/pull/10594) merged on December 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10594) over 21 hours, 6 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Redistribute package ownership among Android team
