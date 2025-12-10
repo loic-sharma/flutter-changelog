@@ -98,3 +98,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add the existing compute unit tests to the build<br />
   <sub>[#179689](https://github.com/flutter/flutter/pull/179689) opened on on December 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179689) 18 additions and 12 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Ensure that the engine converts std::filesystem::path objects to UTF-8 strings on Windows<br />
+  <sub>[#179707](https://github.com/flutter/flutter/pull/179707) opened on on December 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179707) 22 additions and 6 deletions in 6 files</sub><br />
+
