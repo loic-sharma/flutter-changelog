@@ -101,6 +101,3 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add the existing compute unit tests to the build<br />
   <sub>[#179689](https://github.com/flutter/flutter/pull/179689) opened on on December 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179689) 18 additions and 12 deletions in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update flutter 3.38 to use dart 3.10.4 <br />
-  <sub>[#179701](https://github.com/flutter/flutter/pull/179701) opened on on December 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179701) 5 additions and 1 deletion in 2 files</sub><br />
-
