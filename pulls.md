@@ -107,3 +107,6 @@
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Fix: Restore CLI precedence over web_dev_config.yaml<br />
   <sub>[#179639](https://github.com/flutter/flutter/pull/179639) opened on on December 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179639) 41 additions and 9 deletions in 3 files</sub><br />
 
+* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; docs: clarify dropdown menu text clearing<br />
+  <sub>[#179676](https://github.com/flutter/flutter/pull/179676) opened on on December 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179676) 33 additions and 1 deletion in 1 file</sub><br />
+
