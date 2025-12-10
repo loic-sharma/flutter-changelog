@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-22 commits.
+28 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Initial Impeller on Web implementation.
   <sub>[#175442](https://github.com/flutter/flutter/pull/175442) merged on December 9, 2025 &mdash; **Extra large:** [95 comments](https://github.com/flutter/flutter/pull/175442) over 2 months, 1473 additions and 814 deletions in 58 files</sub>
@@ -38,6 +38,14 @@
   <sub>[#179292](https://github.com/flutter/flutter/pull/179292) merged on December 8, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179292) over 1 week, 112 additions and 23 deletions in 3 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoFormSection doesn't crash in 0x0 environment
+  <sub>[#179001](https://github.com/flutter/flutter/pull/179001) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179001) over 2 weeks, 13 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tooltip doesn't crash in 0x0 environment
+  <sub>[#178461](https://github.com/flutter/flutter/pull/178461) merged on December 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178461) over 3 weeks, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) over 1 month, 73 additions and 42 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
@@ -69,6 +77,22 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Remove unused optional argument in _followDiagnosticableChain
   <sub>[#179525](https://github.com/flutter/flutter/pull/179525) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179525) over 3 days, 2 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoMagnifier doesn't crash in 0x0 environment
+  <sub>[#179206](https://github.com/flutter/flutter/pull/179206) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179206) over 1 week, 9 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSegmentedControl doesn't crash in 0x0 envir…
+  <sub>[#179544](https://github.com/flutter/flutter/pull/179544) merged on December 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179544) over 2 days, 16 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSlider doesn't crash in 0x0 environment
+  <sub>[#179566](https://github.com/flutter/flutter/pull/179566) merged on December 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179566) over 1 day, 11 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPageScaffold doesn't crash in 0x0 environment
+  <sub>[#179245](https://github.com/flutter/flutter/pull/179245) merged on December 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179245) over 1 week, 11 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoPickerDefaultSelectionOverlay doesn't crash…
   <sub>[#179351](https://github.com/flutter/flutter/pull/179351) merged on December 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179351) over 6 days, 11 additions and 0 deletions in 1 file</sub>
