@@ -616,11 +616,15 @@
 
 ### December 6, 2025 to December 12, 2025
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates pigeon generation to prevent crash when objects call to Dart after a hot restart<br />
   <sub>[#10571](https://github.com/flutter/packages/pull/10571) merged on December 9, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10571) over 4 days, 871 additions and 1095 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[BottlePumpkin](https://github.com/BottlePumpkin)** &mdash; [rfw] Add Flexible widget support to core widgets<br />
+  <sub>[#9750](https://github.com/flutter/packages/pull/9750) merged on December 10, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/9750) over 4 months, 203 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Removes internal native library Dart proxy<br />
   <sub>[#10536](https://github.com/flutter/packages/pull/10536) merged on December 8, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10536) over 1 week, 2051 additions and 5739 deletions in 10 files</sub><br />
