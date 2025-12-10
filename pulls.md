@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Pacific](https://github.com/prash4931)** &mdash; Fixed RenderFlex overflow in RouteObserver Example<br />
-  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/170980) 52 additions and 29 deletions in 2 files</sub><br />
+  <sub>[#170980](https://github.com/flutter/flutter/pull/170980) opened on on June 22, 2025 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/170980) 51 additions and 29 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
   <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
@@ -85,9 +85,6 @@
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; 167114 add keyboard focus support for cupertino context menu action<br />
   <sub>[#179225](https://github.com/flutter/flutter/pull/179225) opened on on November 28, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/179225) 663 additions and 107 deletions in 8 files</sub><br />
-
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update InputDatePickerFormField callbacks (onDateSubmitted, onDateSaved)<br />
-  <sub>[#179348](https://github.com/flutter/flutter/pull/179348) opened on on December 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179348) 151 additions and 19 deletions in 3 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [engine] Fix bold font fallback for non-Latin scripts on iOS<br />
   <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179350) 176 additions and 1 deletion in 2 files</sub><br />
