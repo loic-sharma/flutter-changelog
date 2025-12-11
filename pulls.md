@@ -98,9 +98,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete windowing channel<br />
   <sub>[#179718](https://github.com/flutter/flutter/pull/179718) opened on on December 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/179718) 0 additions and 1378 deletions in 10 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add FloatingActionButtonTheme<br />
-  <sub>[#179736](https://github.com/flutter/flutter/pull/179736) opened on on December 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179736) 149 additions and 10 deletions in 3 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSwitch doesn't crash in 0x0 environment<br />
   <sub>[#179748](https://github.com/flutter/flutter/pull/179748) opened on on December 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179748) 11 additions and 0 deletions in 1 file</sub><br />
 
