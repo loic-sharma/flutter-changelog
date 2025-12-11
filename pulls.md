@@ -98,9 +98,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete windowing channel<br />
   <sub>[#179718](https://github.com/flutter/flutter/pull/179718) opened on on December 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/179718) 0 additions and 1378 deletions in 10 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: fresh install of windows support<br />
-  <sub>[#179720](https://github.com/flutter/flutter/pull/179720) opened on on December 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179720) 18 additions and 5 deletions in 3 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add FloatingActionButtonTheme<br />
   <sub>[#179736](https://github.com/flutter/flutter/pull/179736) opened on on December 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179736) 149 additions and 10 deletions in 3 files</sub><br />
 
