@@ -674,7 +674,11 @@
 
 ### December 6, 2025 to December 12, 2025
 
-9 commits.
+10 commits.
+
+* **[Haidar Mehsen](https://github.com/Haidar0096)** &mdash; [in_app_purchase_storekit] Add Transaction.unfinished API and expose appAccountToken<br />
+  <sub>[#10439](https://github.com/flutter/packages/pull/10439) merged on December 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10439) over 3 weeks, 162 additions and 7 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax] Updates pigeon generation to prevent crash when objects call to Dart after a hot restart<br />
   <sub>[#10571](https://github.com/flutter/packages/pull/10571) merged on December 9, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10571) over 4 days, 871 additions and 1095 deletions in 4 files</sub><br />
