@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-41 commits.
+42 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Initial Impeller on Web implementation.<br />
   <sub>[#175442](https://github.com/flutter/flutter/pull/175442) merged on December 9, 2025 &mdash; **Extra large:** [95 comments](https://github.com/flutter/flutter/pull/175442) over 2 months, 1473 additions and 814 deletions in 58 files</sub><br />
@@ -56,13 +56,13 @@
   <sub>[#179546](https://github.com/flutter/flutter/pull/179546) merged on December 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179546) over 1 day, 9 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix Scrollbar drag behavior<br />
-  <sub>[#179199](https://github.com/flutter/flutter/pull/179199) merged on December 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/179199) over 1 week, 97 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state<br />
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) over 1 month, 73 additions and 42 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Fix Scrollbar drag behavior<br />
+  <sub>[#179199](https://github.com/flutter/flutter/pull/179199) merged on December 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/179199) over 1 week, 97 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Add framework-side hitTestBehavior support to Semantics (#178817)<br />
   <sub>[#179352](https://github.com/flutter/flutter/pull/179352) merged on December 10, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179352) over 1 week, 330 additions and 28 deletions in 13 files</sub><br />
@@ -148,12 +148,12 @@
   <sub>[#179464](https://github.com/flutter/flutter/pull/179464) merged on December 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179464) over 4 days, 6 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [jesswrd](https://github.com/jesswrd)</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTile doesn't crash in 0x0 environment<br />
-  <sub>[#179109](https://github.com/flutter/flutter/pull/179109) merged on December 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179109) over 1 week, 13 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoMagnifier doesn't crash in 0x0 environment<br />
   <sub>[#179206](https://github.com/flutter/flutter/pull/179206) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179206) over 1 week, 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoListTile doesn't crash in 0x0 environment<br />
+  <sub>[#179109](https://github.com/flutter/flutter/pull/179109) merged on December 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179109) over 1 week, 13 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSegmentedControl doesn't crash in 0x0 envir…<br />
@@ -167,6 +167,10 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_arm64_mokey run_release_test to be flaky<br />
   <sub>[#177372](https://github.com/flutter/flutter/pull/177372) merged on December 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/177372) over 1 month, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Revert "Android implementation of content sizing"<br />
+  <sub>[#179698](https://github.com/flutter/flutter/pull/179698) merged on December 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/179698) over 22 hours, 17 additions and 439 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_mokey flutter_engine_group_performance to be flaky<br />
   <sub>[#179115](https://github.com/flutter/flutter/pull/179115) merged on December 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179115) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
