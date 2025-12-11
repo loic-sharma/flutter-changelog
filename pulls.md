@@ -104,3 +104,6 @@
 * **[Dharmarajsinh Jethva ](https://github.com/Goku-kun)** &mdash; Add clipboard-write permission to DartPad iframe in docs<br />
   <sub>[#179755](https://github.com/flutter/flutter/pull/179755) opened on on December 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179755) 3 additions and 2 deletions in 1 file</sub><br />
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Add FilterQuality parameter to FragmentShader.setImageSampler<br />
+  <sub>[#179760](https://github.com/flutter/flutter/pull/179760) opened on on December 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179760) 139 additions and 14 deletions in 10 files</sub><br />
+
