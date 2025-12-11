@@ -101,3 +101,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Ensure that the engine converts std::filesystem::path objects to UTF-8 strings on Windows<br />
   <sub>[#179707](https://github.com/flutter/flutter/pull/179707) opened on on December 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179707) 22 additions and 6 deletions in 6 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete windowing channel<br />
+  <sub>[#179718](https://github.com/flutter/flutter/pull/179718) opened on on December 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/179718) 0 additions and 1378 deletions in 10 files</sub><br />
+
