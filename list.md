@@ -859,7 +859,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-15 commits.
+17 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add support for top nav buttons for segmenting site
   <sub>[#12804](https://github.com/flutter/website/pull/12804) merged on December 12, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/12804) over 3 days, 334 additions and 136 deletions in 9 files</sub>
@@ -896,6 +896,10 @@
   <sub>[#12783](https://github.com/flutter/website/pull/12783) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12783) over 3 days, 7 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
+* **[Pierre](https://github.com/guidezpl)** &mdash; Update learning resources links and descriptions
+  <sub>[#12812](https://github.com/flutter/website/pull/12812) merged on December 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12812) over 16 hours, 10 additions and 10 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow code font in titles
   <sub>[#12796](https://github.com/flutter/website/pull/12796) merged on December 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12796) over 5 hours, 3 additions and 25 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
@@ -911,6 +915,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace accidental tabs with spaces in FWE code blocks
   <sub>[#12789](https://github.com/flutter/website/pull/12789) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12789) over 2 days, 25 additions and 25 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; sync changes from dart-lang/site-www
+  <sub>[#12814](https://github.com/flutter/website/pull/12814) merged on December 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12814) over 5 hours, 22 additions and 18 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Emma Twersky](https://github.com/twerske)** &mdash; Remove filled role
   <sub>[#12809](https://github.com/flutter/website/pull/12809) merged on December 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12809) over 1 hour, 0 additions and 109 deletions in 2 files</sub>

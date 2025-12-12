@@ -96,7 +96,7 @@
   <sub>[#179707](https://github.com/flutter/flutter/pull/179707) opened on on December 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179707) 22 additions and 6 deletions in 6 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete windowing channel<br />
-  <sub>[#179718](https://github.com/flutter/flutter/pull/179718) opened on on December 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/179718) 0 additions and 1378 deletions in 10 files</sub><br />
+  <sub>[#179718](https://github.com/flutter/flutter/pull/179718) opened on on December 11, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179718) 0 additions and 1378 deletions in 10 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSwitch doesn't crash in 0x0 environment<br />
   <sub>[#179748](https://github.com/flutter/flutter/pull/179748) opened on on December 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179748) 11 additions and 0 deletions in 1 file</sub><br />
@@ -115,4 +115,7 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate CupertinoPageTransitionsBuilder to cupertino folder<br />
   <sub>[#179776](https://github.com/flutter/flutter/pull/179776) opened on on December 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179776) 46 additions and 42 deletions in 6 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add documentation for what to do when bumping the minimum sdk version supported by flutter<br />
+  <sub>[#179795](https://github.com/flutter/flutter/pull/179795) opened on on December 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179795) 59 additions and 0 deletions in 1 file</sub><br />
 
