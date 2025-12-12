@@ -119,3 +119,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
   <sub>[#179799](https://github.com/flutter/flutter/pull/179799) opened on on December 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179799) 86 additions and 86 deletions in 10 files</sub><br />
 
+* **[Emmanuel](https://github.com/zemanux)** &mdash; Fix decorated box<br />
+  <sub>[#179802](https://github.com/flutter/flutter/pull/179802) opened on on December 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179802) 65 additions and 19 deletions in 2 files</sub><br />
+
