@@ -859,7 +859,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-14 commits.
+15 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add support for top nav buttons for segmenting site
   <sub>[#12804](https://github.com/flutter/website/pull/12804) merged on December 12, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/12804) over 3 days, 334 additions and 136 deletions in 9 files</sub>
@@ -874,6 +874,11 @@
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Redesign supported platform cards
   <sub>[#12772](https://github.com/flutter/website/pull/12772) merged on December 9, 2025 &mdash; **Medium:** [29 comments](https://github.com/flutter/website/pull/12772) over 6 days, 311 additions and 58 deletions in 7 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; Add icon support to top-level sidenav sections
+  <sub>[#12813](https://github.com/flutter/website/pull/12813) merged on December 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12813) over 15 hours, 81 additions and 16 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+  <sub><details><summary>2 images...</summary><img width="190" height="879" alt="image" src="https://github.com/user-attachments/assets/cea6e631-a113-444e-80fa-d0f6f8593f0c" /><img width="187" height="879" alt="image" src="https://github.com/user-attachments/assets/b60a7402-5223-4a3f-94ce-f45b253701c3" /></details></sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: add migration guide for findChildIndexCallback of separated builder
   <sub>[#12636](https://github.com/flutter/website/pull/12636) merged on December 9, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/website/pull/12636) over 1 month, 160 additions and 0 deletions in 2 files</sub>
