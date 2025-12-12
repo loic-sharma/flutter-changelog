@@ -102,7 +102,7 @@
   <sub>[#179748](https://github.com/flutter/flutter/pull/179748) opened on on December 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179748) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Revert "Revert "Android implementation of content sizing""<br />
-  <sub>[#179753](https://github.com/flutter/flutter/pull/179753) opened on on December 11, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/179753) 418 additions and 16 deletions in 21 files</sub><br />
+  <sub>[#179753](https://github.com/flutter/flutter/pull/179753) opened on on December 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/179753) 418 additions and 16 deletions in 21 files</sub><br />
 
 * **[Dharmarajsinh Jethva ](https://github.com/Goku-kun)** &mdash; Add clipboard-write permission to DartPad iframe in docs<br />
   <sub>[#179755](https://github.com/flutter/flutter/pull/179755) opened on on December 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179755) 3 additions and 2 deletions in 1 file</sub><br />
