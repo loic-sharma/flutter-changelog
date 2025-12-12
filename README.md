@@ -859,7 +859,12 @@
 
 ### December 6, 2025 to December 12, 2025
 
-13 commits.
+14 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add support for top nav buttons for segmenting site<br />
+  <sub>[#12804](https://github.com/flutter/website/pull/12804) merged on December 12, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/12804) over 3 days, 334 additions and 136 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="320" alt="Screenshot of the wide-screen version of the new menu items" src="https://github.com/user-attachments/assets/49c289f0-8c87-4d49-b4a9-54a177ae460e" /><img width="320" alt="Screenshot of the narrow-screen version of the new menu items" src="https://github.com/user-attachments/assets/ad4c1ca7-f2f3-4b0a-b41d-5562b2e8e33e" /></details></sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add wrapped page header and utility button<br />
   <sub>[#12797](https://github.com/flutter/website/pull/12797) merged on December 8, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/12797) over 1 hour, 397 additions and 125 deletions in 11 files</sub><br />
