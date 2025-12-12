@@ -122,3 +122,6 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Fix decorated box<br />
   <sub>[#179802](https://github.com/flutter/flutter/pull/179802) opened on on December 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179802) 68 additions and 19 deletions in 2 files</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
+  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/179810) 167 additions and 167 deletions in 9 files</sub><br />
+
