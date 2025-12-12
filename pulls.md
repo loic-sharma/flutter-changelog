@@ -113,3 +113,6 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Fix crash in FlutterJSONMessageCodec when decoding invalid Unicode<br />
   <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate CupertinoPageTransitionsBuilder to cupertino folder<br />
+  <sub>[#179776](https://github.com/flutter/flutter/pull/179776) opened on on December 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179776) 46 additions and 42 deletions in 6 files</sub><br />
+
