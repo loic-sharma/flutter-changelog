@@ -859,7 +859,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-17 commits.
+18 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add support for top nav buttons for segmenting site
   <sub>[#12804](https://github.com/flutter/website/pull/12804) merged on December 12, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/12804) over 3 days, 334 additions and 136 deletions in 9 files</sub>
@@ -895,6 +895,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix #12729: Clarify recommendation against named routes
   <sub>[#12783](https://github.com/flutter/website/pull/12783) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12783) over 3 days, 7 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Move fwe content into new learn/tutorial directory
+  <sub>[#12811](https://github.com/flutter/website/pull/12811) merged on December 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12811) over 20 hours, 39 additions and 25 deletions in 22 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Update learning resources links and descriptions
   <sub>[#12812](https://github.com/flutter/website/pull/12812) merged on December 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12812) over 16 hours, 10 additions and 10 deletions in 4 files</sub>
