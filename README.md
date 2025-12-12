@@ -11,7 +11,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Analysis ] Added initial implementation of the `flutter_analyzer_plugin`<br />
-  <sub>[#175679](https://github.com/flutter/flutter/pull/175679) merged on December 11, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/175679) over 2 months, 1361 additions and 14 deletions in 27 files</sub><br />
+  <sub>[#175679](https://github.com/flutter/flutter/pull/175679) merged on December 11, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/175679) over 2 months, 1361 additions and 14 deletions in 27 files</sub><br />
   <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Use kPreventOverdraw for arcs with overlapping stroke caps<br />
