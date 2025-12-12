@@ -116,6 +116,3 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate CupertinoPageTransitionsBuilder to cupertino folder<br />
   <sub>[#179776](https://github.com/flutter/flutter/pull/179776) opened on on December 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179776) 46 additions and 42 deletions in 6 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][pv] accept/reject gesture based on hitTest (with new widget API)<br />
-  <sub>[#179780](https://github.com/flutter/flutter/pull/179780) opened on on December 12, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179780) 1055 additions and 66 deletions in 38 files</sub><br />
-
