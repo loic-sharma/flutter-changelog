@@ -117,5 +117,5 @@
   <sub>[#179776](https://github.com/flutter/flutter/pull/179776) opened on on December 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179776) 46 additions and 42 deletions in 6 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add documentation for what to do when bumping the minimum sdk version supported by flutter<br />
-  <sub>[#179795](https://github.com/flutter/flutter/pull/179795) opened on on December 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179795) 58 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179795](https://github.com/flutter/flutter/pull/179795) opened on on December 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/179795) 58 additions and 0 deletions in 1 file</sub><br />
 
