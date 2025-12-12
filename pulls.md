@@ -81,7 +81,7 @@
   <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmodified android sdk bundle<br />
-  <sub>[#179647](https://github.com/flutter/flutter/pull/179647) opened on on December 10, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179647) 260 additions and 419 deletions in 46 files</sub><br />
+  <sub>[#179647](https://github.com/flutter/flutter/pull/179647) opened on on December 10, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/179647) 260 additions and 419 deletions in 46 files</sub><br />
 
 * **[Jan Jaap de Groot](https://github.com/JJdeGroot)** &mdash; Set heading semantics for `Flag.IS_HEADER`<br />
   <sub>[#179681](https://github.com/flutter/flutter/pull/179681) opened on on December 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179681) 16 additions and 1 deletion in 2 files</sub><br />
@@ -126,5 +126,5 @@
   <sub>[#179802](https://github.com/flutter/flutter/pull/179802) opened on on December 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179802) 68 additions and 19 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/179810) 167 additions and 167 deletions in 9 files</sub><br />
+  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/179810) 169 additions and 169 deletions in 10 files</sub><br />
 

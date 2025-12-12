@@ -4,7 +4,7 @@
 
 ### December 6, 2025 to December 12, 2025
 
-55 commits.
+56 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Initial Impeller on Web implementation.
   <sub>[#175442](https://github.com/flutter/flutter/pull/175442) merged on December 9, 2025 &mdash; **Extra large:** [95 comments](https://github.com/flutter/flutter/pull/175442) over 2 months, 1473 additions and 814 deletions in 58 files</sub>
@@ -57,6 +57,10 @@
   <sub>[#179484](https://github.com/flutter/flutter/pull/179484) merged on December 10, 2025 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/179484) over 4 days, 670 additions and 2 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Use depth buffer to implement geometry overdraw protection
+  <sub>[#179426](https://github.com/flutter/flutter/pull/179426) merged on December 12, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/179426) over 1 week, 39 additions and 114 deletions in 5 files</sub>
+  <sub>Reviewed by: [ColdPaleLight](https://github.com/ColdPaleLight), [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub>
+
 * **[akashefrath](https://github.com/akashefrath)** &mdash; added onUserInteractionIfError for form
   <sub>[#175515](https://github.com/flutter/flutter/pull/175515) merged on December 10, 2025 &mdash; **Small:** [60 comments](https://github.com/flutter/flutter/pull/175515) over 2 months, 180 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
@@ -73,10 +77,6 @@
   <sub>[#175900](https://github.com/flutter/flutter/pull/175900) merged on December 12, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175900) over 2 months, 40 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; MatrixUtils.forceToPoint - simplify and optimize
-  <sub>[#179546](https://github.com/flutter/flutter/pull/179546) merged on December 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179546) over 1 day, 9 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
 * **[b-luk](https://github.com/b-luk)** &mdash; Change GenerateFilledArcStrip to use non-overlapping triangles
   <sub>[#179292](https://github.com/flutter/flutter/pull/179292) merged on December 8, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179292) over 1 week, 112 additions and 23 deletions in 3 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
@@ -85,17 +85,29 @@
   <sub>[#179795](https://github.com/flutter/flutter/pull/179795) merged on December 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/179795) over 1 hour, 58 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; MatrixUtils.forceToPoint - simplify and optimize
+  <sub>[#179546](https://github.com/flutter/flutter/pull/179546) merged on December 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179546) over 1 day, 9 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Do not flood message loop with wake up messages
   <sub>[#179538](https://github.com/flutter/flutter/pull/179538) merged on December 12, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/179538) over 6 days, 56 additions and 17 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Make SettingsChannel configuration queue not static
+  <sub>[#179636](https://github.com/flutter/flutter/pull/179636) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179636) over 4 hours, 46 additions and 14 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoFormSection doesn't crash in 0x0 environment
+  <sub>[#179001](https://github.com/flutter/flutter/pull/179001) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179001) over 2 weeks, 13 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tooltip doesn't crash in 0x0 environment
+  <sub>[#178461](https://github.com/flutter/flutter/pull/178461) merged on December 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178461) over 3 weeks, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; Reland: Add framework-side hitTestBehavior support to Semantics (#178817)
   <sub>[#179352](https://github.com/flutter/flutter/pull/179352) merged on December 10, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179352) over 1 week, 330 additions and 28 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDialogAction doesn't crash in 0x0 environment
-  <sub>[#178956](https://github.com/flutter/flutter/pull/178956) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178956) over 2 weeks, 11 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the doc on Google Testing to reflect the current state
   <sub>[#177187](https://github.com/flutter/flutter/pull/177187) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/177187) over 1 month, 73 additions and 42 deletions in 1 file</sub>
@@ -117,12 +129,8 @@
   <sub>[#178978](https://github.com/flutter/flutter/pull/178978) merged on December 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178978) over 2 weeks, 21 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Make SettingsChannel configuration queue not static
-  <sub>[#179636](https://github.com/flutter/flutter/pull/179636) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179636) over 4 hours, 46 additions and 14 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoFormSection doesn't crash in 0x0 environment
-  <sub>[#179001](https://github.com/flutter/flutter/pull/179001) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179001) over 2 weeks, 13 additions and 0 deletions in 1 file</sub>
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoDialogAction doesn't crash in 0x0 environment
+  <sub>[#178956](https://github.com/flutter/flutter/pull/178956) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178956) over 2 weeks, 11 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoFocusHalo doesn't crash in 0x0 environment
@@ -133,10 +141,6 @@
   <sub>[#178929](https://github.com/flutter/flutter/pull/178929) merged on December 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178929) over 2 weeks, 11 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Tooltip doesn't crash in 0x0 environment
-  <sub>[#178461](https://github.com/flutter/flutter/pull/178461) merged on December 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178461) over 3 weeks, 18 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ensure that the engine converts std::filesystem::path objects to UTF-8 strings on Windows
   <sub>[#179528](https://github.com/flutter/flutter/pull/179528) merged on December 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179528) over 4 days, 22 additions and 6 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -145,21 +149,21 @@
   <sub>[#179483](https://github.com/flutter/flutter/pull/179483) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179483) over 5 days, 109 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: fresh install of windows support
-  <sub>[#179720](https://github.com/flutter/flutter/pull/179720) merged on December 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179720) over 13 hours, 18 additions and 5 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Remove unused optional argument in _followDiagnosticableChain
+  <sub>[#179525](https://github.com/flutter/flutter/pull/179525) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179525) over 3 days, 2 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue with pinned headers in nested SliverMainAxisGroup.
   <sub>[#179132](https://github.com/flutter/flutter/pull/179132) merged on December 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179132) over 2 weeks, 76 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: fresh install of windows support
+  <sub>[#179720](https://github.com/flutter/flutter/pull/179720) merged on December 11, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179720) over 13 hours, 18 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: linux fuchsia tests are flaking
   <sub>[#179744](https://github.com/flutter/flutter/pull/179744) merged on December 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179744) over 42 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso), [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Remove unused optional argument in _followDiagnosticableChain
-  <sub>[#179525](https://github.com/flutter/flutter/pull/179525) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179525) over 3 days, 2 additions and 6 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoMagnifier doesn't crash in 0x0 environment
   <sub>[#179206](https://github.com/flutter/flutter/pull/179206) merged on December 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179206) over 1 week, 9 additions and 0 deletions in 1 file</sub>
