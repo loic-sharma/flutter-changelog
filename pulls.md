@@ -137,3 +137,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTabScaffold doesn't crash in 0x0 environment<br />
   <sub>[#179824](https://github.com/flutter/flutter/pull/179824) opened on on December 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179824) 16 additions and 0 deletions in 1 file</sub><br />
 
+* **[ThinkMars](https://github.com/ThinkMars)** &mdash; Fix frequent clipboard access in TextField by adding status check<br />
+  <sub>[#179837](https://github.com/flutter/flutter/pull/179837) opened on on December 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179837) 5 additions and 1 deletion in 1 file</sub><br />
+
