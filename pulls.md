@@ -134,3 +134,6 @@
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTabScaffold doesn't crash in 0x0 environment<br />
+  <sub>[#179824](https://github.com/flutter/flutter/pull/179824) opened on on December 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179824) 16 additions and 0 deletions in 1 file</sub><br />
+
