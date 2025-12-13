@@ -78,7 +78,7 @@
   <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/179350) 78 additions and 0 deletions in 1 file</sub><br />
 
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
-  <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmodified android sdk bundle<br />
   <sub>[#179647](https://github.com/flutter/flutter/pull/179647) opened on on December 10, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/179647) 259 additions and 420 deletions in 46 files</sub><br />
@@ -101,9 +101,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete windowing channel<br />
   <sub>[#179718](https://github.com/flutter/flutter/pull/179718) opened on on December 11, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179718) 0 additions and 1378 deletions in 10 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSwitch doesn't crash in 0x0 environment<br />
-  <sub>[#179748](https://github.com/flutter/flutter/pull/179748) opened on on December 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179748) 11 additions and 0 deletions in 1 file</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Revert "Revert "Android implementation of content sizing""<br />
   <sub>[#179753](https://github.com/flutter/flutter/pull/179753) opened on on December 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/179753) 418 additions and 16 deletions in 21 files</sub><br />
 
@@ -115,9 +112,6 @@
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Fix crash in FlutterJSONMessageCodec when decoding invalid Unicode<br />
   <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate CupertinoPageTransitionsBuilder to cupertino folder<br />
-  <sub>[#179776](https://github.com/flutter/flutter/pull/179776) opened on on December 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179776) 46 additions and 42 deletions in 6 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
   <sub>[#179799](https://github.com/flutter/flutter/pull/179799) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179799) 86 additions and 86 deletions in 10 files</sub><br />
@@ -136,4 +130,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
   <sub>[#179821](https://github.com/flutter/flutter/pull/179821) opened on on December 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179821) 77 additions and 22 deletions in 8 files</sub><br />
+
+* **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
+  <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
