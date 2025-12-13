@@ -924,16 +924,20 @@
   <sub>[#12780](https://github.com/flutter/website/pull/12780) merged on December 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12780) over 4 days, 34 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add code of conduct short link<br />
+  <sub>[#12815](https://github.com/flutter/website/pull/12815) merged on December 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12815) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; sync changes from dart-lang/site-www<br />
+  <sub>[#12814](https://github.com/flutter/website/pull/12814) merged on December 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12814) over 5 hours, 22 additions and 18 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix #12729: Clarify recommendation against named routes<br />
   <sub>[#12783](https://github.com/flutter/website/pull/12783) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12783) over 3 days, 7 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Update firebase.json with Automatic PointerInterceptor doc<br />
   <sub>[#12816](https://github.com/flutter/website/pull/12816) merged on December 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12816) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add code of conduct short link<br />
-  <sub>[#12815](https://github.com/flutter/website/pull/12815) merged on December 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12815) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Move fwe content into new learn/tutorial directory<br />
@@ -959,10 +963,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace accidental tabs with spaces in FWE code blocks<br />
   <sub>[#12789](https://github.com/flutter/website/pull/12789) merged on December 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12789) over 2 days, 25 additions and 25 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[Kilian Schulte](https://github.com/schultek)** &mdash; sync changes from dart-lang/site-www<br />
-  <sub>[#12814](https://github.com/flutter/website/pull/12814) merged on December 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12814) over 5 hours, 22 additions and 18 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Emma Twersky](https://github.com/twerske)** &mdash; Remove filled role<br />
   <sub>[#12809](https://github.com/flutter/website/pull/12809) merged on December 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12809) over 1 hour, 0 additions and 109 deletions in 2 files</sub><br />
