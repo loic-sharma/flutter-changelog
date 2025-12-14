@@ -150,7 +150,7 @@
   <sub>[#179845](https://github.com/flutter/flutter/pull/179845) opened on on December 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179845) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Fix DecoratedSliver sample to avoid antialiasing gap<br />
-  <sub>[#179848](https://github.com/flutter/flutter/pull/179848) opened on on December 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179848) 70 additions and 62 deletions in 2 files</sub><br />
+  <sub>[#179848](https://github.com/flutter/flutter/pull/179848) opened on on December 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179848) 89 additions and 82 deletions in 2 files</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Fix web proxy incorrectly merging Set-Cookie headers<br />
   <sub>[#179849](https://github.com/flutter/flutter/pull/179849) opened on on December 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179849) 161 additions and 1 deletion in 2 files</sub><br />
