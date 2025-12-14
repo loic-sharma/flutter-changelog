@@ -149,3 +149,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTabView doesn't crash in 0x0 environment<br />
   <sub>[#179845](https://github.com/flutter/flutter/pull/179845) opened on on December 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179845) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Fix DecoratedSliver sample to avoid antialiasing gap<br />
+  <sub>[#179848](https://github.com/flutter/flutter/pull/179848) opened on on December 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179848) 45 additions and 66 deletions in 2 files</sub><br />
+
