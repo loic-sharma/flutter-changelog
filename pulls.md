@@ -146,3 +146,6 @@
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; Improve assertions in Tab widget constructor to provide clearer errors<br />
   <sub>[#179844](https://github.com/flutter/flutter/pull/179844) opened on on December 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179844) 5 additions and 2 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTabView doesn't crash in 0x0 environment<br />
+  <sub>[#179845](https://github.com/flutter/flutter/pull/179845) opened on on December 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179845) 11 additions and 0 deletions in 1 file</sub><br />
+
