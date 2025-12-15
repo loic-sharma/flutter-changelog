@@ -83,14 +83,8 @@
 * **[Jan Jaap de Groot](https://github.com/JJdeGroot)** &mdash; Set heading semantics for `Flag.IS_HEADER`<br />
   <sub>[#179681](https://github.com/flutter/flutter/pull/179681) opened on on December 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179681) 16 additions and 1 deletion in 2 files</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Enable unit tests for compilation of compute shaders on non-metal backends<br />
-  <sub>[#179683](https://github.com/flutter/flutter/pull/179683) opened on on December 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179683) 14 additions and 7 deletions in 3 files</sub><br />
-
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy non-const SkData APIs<br />
   <sub>[#179684](https://github.com/flutter/flutter/pull/179684) opened on on December 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179684) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add the existing compute unit tests to the build<br />
-  <sub>[#179689](https://github.com/flutter/flutter/pull/179689) opened on on December 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179689) 18 additions and 12 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Ensure that the engine converts std::filesystem::path objects to UTF-8 strings on Windows<br />
   <sub>[#179707](https://github.com/flutter/flutter/pull/179707) opened on on December 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179707) 22 additions and 6 deletions in 6 files</sub><br />
@@ -130,9 +124,6 @@
 
 * **[ThinkMars](https://github.com/ThinkMars)** &mdash; Fix frequent clipboard access in TextField by adding status check<br />
   <sub>[#179840](https://github.com/flutter/flutter/pull/179840) opened on on December 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179840) 8 additions and 2 deletions in 1 file</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Switch to js_interop for web import configuration<br />
-  <sub>[#179841](https://github.com/flutter/flutter/pull/179841) opened on on December 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179841) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; Improve assertions in Tab widget constructor to provide clearer errors<br />
   <sub>[#179844](https://github.com/flutter/flutter/pull/179844) opened on on December 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179844) 5 additions and 2 deletions in 1 file</sub><br />
