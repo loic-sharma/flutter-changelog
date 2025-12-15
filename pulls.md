@@ -167,6 +167,3 @@
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout<br />
   <sub>[#179881](https://github.com/flutter/flutter/pull/179881) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179881) 4 additions and 5 deletions in 2 files</sub><br />
 
-* **[shindonghwi](https://github.com/shindonghwi)** &mdash; Filter out FrameEvents/updateAcquireFence log spam from adb logcat<br />
-  <sub>[#179884](https://github.com/flutter/flutter/pull/179884) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179884) 37 additions and 0 deletions in 2 files</sub><br />
-
