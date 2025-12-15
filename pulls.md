@@ -170,3 +170,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
   <sub>[#179888](https://github.com/flutter/flutter/pull/179888) opened on on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179888) 77 additions and 22 deletions in 8 files</sub><br />
 
+* **[shindonghwi](https://github.com/shindonghwi)** &mdash; Suppress deprecated AChoreographer_postFrameCallback warning<br />
+  <sub>[#179891](https://github.com/flutter/flutter/pull/179891) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179891) 7 additions and 0 deletions in 1 file</sub><br />
+
