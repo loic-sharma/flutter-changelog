@@ -664,11 +664,15 @@
 
 ### December 13, 2025 to December 19, 2025
 
-1 commits.
+2 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add initial preview and review cards to FWE<br />
   <sub>[#12821](https://github.com/flutter/website/pull/12821) merged on December 15, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12821) over 21 hours, 624 additions and 5 deletions in 17 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Flutter iOS role<br />
+  <sub>[#12817](https://github.com/flutter/website/pull/12817) merged on December 15, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12817) over 2 days, 101 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 ### December 6, 2025 to December 12, 2025
 
