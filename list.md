@@ -4,15 +4,23 @@
 
 ### December 13, 2025 to December 19, 2025
 
-3 commits.
+5 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Bump minSdk to `24` in `engine`
   <sub>[#175508](https://github.com/flutter/flutter/pull/175508) merged on December 15, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/175508) over 2 months, 38 additions and 108 deletions in 15 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Delete GLES framebuffer objects only on the thread where they were created
+  <sub>[#179768](https://github.com/flutter/flutter/pull/179768) merged on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179768) over 3 days, 58 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Pass DTD URI as a constant in a generated file
   <sub>[#179821](https://github.com/flutter/flutter/pull/179821) merged on December 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179821) over 2 days, 77 additions and 22 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Convert paths in ImpellerC command line flags to std::filesystem::path objects
+  <sub>[#179717](https://github.com/flutter/flutter/pull/179717) merged on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179717) over 4 days, 64 additions and 61 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary unboxing in `FlutterLoader.java‎`
   <sub>[#179869](https://github.com/flutter/flutter/pull/179869) merged on December 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179869) over 6 hours, 1 addition and 1 deletion in 1 file</sub>
