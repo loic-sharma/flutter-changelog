@@ -123,7 +123,7 @@
   <sub>[#179817](https://github.com/flutter/flutter/pull/179817) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179817) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
-  <sub>[#179821](https://github.com/flutter/flutter/pull/179821) opened on on December 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179821) 77 additions and 22 deletions in 8 files</sub><br />
+  <sub>[#179821](https://github.com/flutter/flutter/pull/179821) opened on on December 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179821) 77 additions and 22 deletions in 8 files</sub><br />
 
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
@@ -168,5 +168,5 @@
   <sub>[#179881](https://github.com/flutter/flutter/pull/179881) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179881) 4 additions and 5 deletions in 2 files</sub><br />
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Filter out FrameEvents/updateAcquireFence log spam from adb logcat<br />
-  <sub>[#179884](https://github.com/flutter/flutter/pull/179884) opened on on December 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179884) 37 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#179884](https://github.com/flutter/flutter/pull/179884) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179884) 37 additions and 0 deletions in 2 files</sub><br />
 
