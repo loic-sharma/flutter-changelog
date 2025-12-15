@@ -4,11 +4,15 @@
 
 ### December 13, 2025 to December 19, 2025
 
-1 commits.
+2 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Bump minSdk to `24` in `engine`<br />
   <sub>[#175508](https://github.com/flutter/flutter/pull/175508) merged on December 15, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/175508) over 2 months, 38 additions and 108 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
+  <sub>[#179821](https://github.com/flutter/flutter/pull/179821) merged on December 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179821) over 2 days, 77 additions and 22 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
 
 ### December 6, 2025 to December 12, 2025
 

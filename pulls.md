@@ -122,9 +122,6 @@
 * **[Jaime Wren](https://github.com/jwren)** &mdash; Add table detailing AI rule file character limits for various tools<br />
   <sub>[#179817](https://github.com/flutter/flutter/pull/179817) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179817) 17 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
-  <sub>[#179821](https://github.com/flutter/flutter/pull/179821) opened on on December 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179821) 77 additions and 22 deletions in 8 files</sub><br />
-
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
@@ -166,4 +163,10 @@
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout<br />
   <sub>[#179881](https://github.com/flutter/flutter/pull/179881) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179881) 4 additions and 5 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
+  <sub>[#179887](https://github.com/flutter/flutter/pull/179887) opened on on December 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179887) 77 additions and 22 deletions in 8 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
+  <sub>[#179888](https://github.com/flutter/flutter/pull/179888) opened on on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179888) 77 additions and 22 deletions in 8 files</sub><br />
 
