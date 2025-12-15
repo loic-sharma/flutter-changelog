@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 13, 2025 to December 19, 2025
+
+1 commits.
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Bump minSdk to `24` in `engine`<br />
+  <sub>[#175508](https://github.com/flutter/flutter/pull/175508) merged on December 15, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/175508) over 2 months, 38 additions and 108 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### December 6, 2025 to December 12, 2025
 
-60 commits.
+<details>
+<summary>60 commits...</summary>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Initial Impeller on Web implementation.<br />
   <sub>[#175442](https://github.com/flutter/flutter/pull/175442) merged on December 9, 2025 &mdash; **Extra large:** [95 comments](https://github.com/flutter/flutter/pull/175442) over 2 months, 1473 additions and 814 deletions in 58 files</sub><br />
@@ -248,6 +257,8 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_mokey flutter_engine_group_performance to be flaky<br />
   <sub>[#179115](https://github.com/flutter/flutter/pull/179115) merged on December 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179115) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+</details>
 
 ### November 29, 2025 to December 5, 2025
 
