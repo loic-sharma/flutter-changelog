@@ -165,5 +165,5 @@
   <sub>[#179897](https://github.com/flutter/flutter/pull/179897) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179897) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clamps input value for progress indicator<br />
-  <sub>[#179898](https://github.com/flutter/flutter/pull/179898) opened on on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179898) 115 additions and 19 deletions in 2 files</sub><br />
+  <sub>[#179898](https://github.com/flutter/flutter/pull/179898) opened on on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179898) 106 additions and 19 deletions in 2 files</sub><br />
 

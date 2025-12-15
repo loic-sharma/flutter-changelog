@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-8 commits.
+9 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix `resizeToAvoidBottomInset` on Android web<br />
   <sub>[#179581](https://github.com/flutter/flutter/pull/179581) merged on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179581) over 1 week, 95 additions and 39 deletions in 2 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Илия](https://github.com/777genius)** &mdash; Suppress deprecation warning for AChoreographer_postFrameCallback<br />
   <sub>[#178580](https://github.com/flutter/flutter/pull/178580) merged on December 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178580) over 1 month, 34 additions and 29 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmodified android sdk bundle<br />
+  <sub>[#179647](https://github.com/flutter/flutter/pull/179647) merged on December 15, 2025 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/179647) over 5 days, 265 additions and 421 deletions in 46 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; remove unnecessary virtual destructor from VertexDescriptor<br />
   <sub>[#178682](https://github.com/flutter/flutter/pull/178682) merged on December 15, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178682) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
