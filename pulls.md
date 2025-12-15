@@ -111,7 +111,7 @@
   <sub>[#179799](https://github.com/flutter/flutter/pull/179799) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179799) 86 additions and 86 deletions in 10 files</sub><br />
 
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Fix decorated box<br />
-  <sub>[#179802](https://github.com/flutter/flutter/pull/179802) opened on on December 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179802) 68 additions and 19 deletions in 2 files</sub><br />
+  <sub>[#179802](https://github.com/flutter/flutter/pull/179802) opened on on December 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179802) 174 additions and 21 deletions in 3 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/179810) 169 additions and 169 deletions in 10 files</sub><br />
@@ -166,4 +166,7 @@
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout<br />
   <sub>[#179881](https://github.com/flutter/flutter/pull/179881) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179881) 4 additions and 5 deletions in 2 files</sub><br />
+
+* **[shindonghwi](https://github.com/shindonghwi)** &mdash; Filter out FrameEvents/updateAcquireFence log spam from adb logcat<br />
+  <sub>[#179884](https://github.com/flutter/flutter/pull/179884) opened on on December 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179884) 37 additions and 0 deletions in 2 files</sub><br />
 
