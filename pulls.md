@@ -54,7 +54,7 @@
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Valentin HAUDIQUET](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
@@ -75,7 +75,7 @@
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [engine] Fix bold font fallback for non-Latin scripts on iOS<br />
-  <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/179350) 78 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179350](https://github.com/flutter/flutter/pull/179350) opened on on December 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179350) 78 additions and 0 deletions in 1 file</sub><br />
 
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
   <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
@@ -99,7 +99,7 @@
   <sub>[#179765](https://github.com/flutter/flutter/pull/179765) opened on on December 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179765) 129 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Fix crash in FlutterJSONMessageCodec when decoding invalid Unicode<br />
-  <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
   <sub>[#179799](https://github.com/flutter/flutter/pull/179799) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179799) 86 additions and 86 deletions in 10 files</sub><br />
@@ -160,7 +160,4 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
   <sub>[#179888](https://github.com/flutter/flutter/pull/179888) opened on on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179888) 77 additions and 22 deletions in 8 files</sub><br />
-
-* **[shindonghwi](https://github.com/shindonghwi)** &mdash; Suppress deprecated AChoreographer_postFrameCallback warning<br />
-  <sub>[#179891](https://github.com/flutter/flutter/pull/179891) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179891) 7 additions and 0 deletions in 1 file</sub><br />
 
