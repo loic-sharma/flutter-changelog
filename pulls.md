@@ -155,3 +155,6 @@
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Forward proxy 404 responses to client<br />
   <sub>[#179858](https://github.com/flutter/flutter/pull/179858) opened on on December 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179858) 41 additions and 4 deletions in 2 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update window settings as they change rather than the more outdated "Apply" pattern.<br />
+  <sub>[#179861](https://github.com/flutter/flutter/pull/179861) opened on on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179861) 23 additions and 13 deletions in 1 file</sub><br />
+
