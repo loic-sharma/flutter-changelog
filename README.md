@@ -662,9 +662,18 @@
 
 ## flutter/website
 
+### December 13, 2025 to December 19, 2025
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add initial preview and review cards to FWE<br />
+  <sub>[#12821](https://github.com/flutter/website/pull/12821) merged on December 15, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12821) over 21 hours, 624 additions and 5 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
+
 ### December 6, 2025 to December 12, 2025
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add support for top nav buttons for segmenting site<br />
   <sub>[#12804](https://github.com/flutter/website/pull/12804) merged on December 12, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/12804) over 3 days, 334 additions and 136 deletions in 9 files</sub><br />
@@ -748,6 +757,8 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update steps for Dart MCP Server & Antigravity<br />
   <sub>[#12802](https://github.com/flutter/website/pull/12802) merged on December 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12802) over 16 hours, 29 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### November 29, 2025 to December 5, 2025
 

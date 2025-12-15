@@ -132,7 +132,7 @@
   <sub>[#179840](https://github.com/flutter/flutter/pull/179840) opened on on December 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179840) 8 additions and 2 deletions in 1 file</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Switch to js_interop for web import configuration<br />
-  <sub>[#179841](https://github.com/flutter/flutter/pull/179841) opened on on December 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179841) 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#179841](https://github.com/flutter/flutter/pull/179841) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179841) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; Improve assertions in Tab widget constructor to provide clearer errors<br />
   <sub>[#179844](https://github.com/flutter/flutter/pull/179844) opened on on December 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179844) 5 additions and 2 deletions in 1 file</sub><br />
