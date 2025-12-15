@@ -164,3 +164,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clamps input value for progress indicator<br />
   <sub>[#179898](https://github.com/flutter/flutter/pull/179898) opened on on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179898) 106 additions and 19 deletions in 2 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moved high bitrate texture tests to engine<br />
+  <sub>[#179906](https://github.com/flutter/flutter/pull/179906) opened on on December 15, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179906) 287 additions and 501 deletions in 17 files</sub><br />
+
