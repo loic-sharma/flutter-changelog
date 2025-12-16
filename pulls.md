@@ -155,9 +155,6 @@
 * **[Roman Laptev](https://github.com/Carapacik)** &mdash; Update `google_mobile_ads` and `webview_flutter_android`<br />
   <sub>[#179949](https://github.com/flutter/flutter/pull/179949) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179949) 12 additions and 13 deletions in 4 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix update-packages not accounting for path dependencies<br />
-  <sub>[#179951](https://github.com/flutter/flutter/pull/179951) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179951) 106 additions and 54 deletions in 3 files</sub><br />
-
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Update link to FlutterTest font generation script<br />
   <sub>[#179957](https://github.com/flutter/flutter/pull/179957) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179957) 1 addition and 1 deletion in 1 file</sub><br />
 

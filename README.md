@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-26 commits.
+27 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub><br />
@@ -54,6 +54,10 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; ListTile fix MinIntrinsicHeight calculation<br />
   <sub>[#179515](https://github.com/flutter/flutter/pull/179515) merged on December 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179515) over 1 week, 42 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix update-packages not accounting for path dependencies<br />
+  <sub>[#179951](https://github.com/flutter/flutter/pull/179951) merged on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179951) over 2 hours, 106 additions and 54 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "[ios][pv] accept/reject gesture based on hitTest (with new wi…<br />
   <sub>[#179895](https://github.com/flutter/flutter/pull/179895) merged on December 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179895) over 1 day, 66 additions and 1055 deletions in 38 files</sub><br />
