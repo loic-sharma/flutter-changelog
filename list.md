@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-13 commits.
+14 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix `resizeToAvoidBottomInset` on Android web
   <sub>[#179581](https://github.com/flutter/flutter/pull/179581) merged on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179581) over 1 week, 95 additions and 39 deletions in 2 files</sub>
@@ -41,6 +41,10 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add default-linux-sysroot to gn frontend args
   <sub>[#179303](https://github.com/flutter/flutter/pull/179303) merged on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179303) over 2 weeks, 17 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; `flutter update-packages --force-upgrade --update-hashes`
+  <sub>[#179950](https://github.com/flutter/flutter/pull/179950) merged on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179950) over 40 minutes, 12 additions and 12 deletions in 4 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Convert paths in ImpellerC command line flags to std::filesystem::path objects
   <sub>[#179717](https://github.com/flutter/flutter/pull/179717) merged on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179717) over 4 days, 64 additions and 61 deletions in 11 files</sub>
