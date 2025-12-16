@@ -4,12 +4,16 @@
 
 ### December 13, 2025 to December 19, 2025
 
-20 commits.
+21 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
   <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/229c82a0-70de-4e23-841e-2cbea92cc79f" height="600"><img src="https://github.com/user-attachments/assets/537f4215-5f0f-4cd6-aa09-e058d133e8ac" height="600"></details></sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add top gap for cupertino sheet<br />
+  <sub>[#171348](https://github.com/flutter/flutter/pull/171348) merged on December 16, 2025 &mdash; **Medium:** [45 comments](https://github.com/flutter/flutter/pull/171348) over 5 months, 437 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Alim](https://github.com/erkinovalim), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix `resizeToAvoidBottomInset` on Android web<br />
   <sub>[#179581](https://github.com/flutter/flutter/pull/179581) merged on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179581) over 1 week, 95 additions and 39 deletions in 2 files</sub><br />
