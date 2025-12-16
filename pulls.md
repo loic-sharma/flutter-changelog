@@ -164,3 +164,6 @@
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: text selection two handles directionality.<br />
   <sub>[#179928](https://github.com/flutter/flutter/pull/179928) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179928) 190 additions and 11 deletions in 2 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTextFormFieldRow doesn't crash in 0x0 envir…<br />
+  <sub>[#179932](https://github.com/flutter/flutter/pull/179932) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179932) 15 additions and 0 deletions in 1 file</sub><br />
+
