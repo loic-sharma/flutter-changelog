@@ -164,3 +164,6 @@
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Update link to FlutterTest font generation script<br />
   <sub>[#179957](https://github.com/flutter/flutter/pull/179957) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179957) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Add drag handle to CupertinoSheet<br />
+  <sub>[#179962](https://github.com/flutter/flutter/pull/179962) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179962) 109 additions and 7 deletions in 3 files</sub><br />
+
