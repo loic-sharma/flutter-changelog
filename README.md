@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-22 commits.
+23 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmodified android sdk bundle<br />
   <sub>[#179647](https://github.com/flutter/flutter/pull/179647) merged on December 15, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179647) over 5 days, 265 additions and 421 deletions in 46 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Илия](https://github.com/777genius)** &mdash; Add Cyrillic keyboard layout support for flutter_tools terminal commands<br />
+  <sub>[#177855](https://github.com/flutter/flutter/pull/177855) merged on December 16, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/177855) over 1 month, 357 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Suppress deprecation warning for AChoreographer_postFrameCallback<br />
   <sub>[#178580](https://github.com/flutter/flutter/pull/178580) merged on December 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178580) over 1 month, 34 additions and 29 deletions in 1 file</sub><br />
