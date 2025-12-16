@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-11 commits.
+12 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix `resizeToAvoidBottomInset` on Android web
   <sub>[#179581](https://github.com/flutter/flutter/pull/179581) merged on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179581) over 1 week, 95 additions and 39 deletions in 2 files</sub>
@@ -37,6 +37,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Pass DTD URI as a constant in a generated file
   <sub>[#179821](https://github.com/flutter/flutter/pull/179821) merged on December 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179821) over 2 days, 77 additions and 22 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub>
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add default-linux-sysroot to gn frontend args
+  <sub>[#179303](https://github.com/flutter/flutter/pull/179303) merged on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179303) over 2 weeks, 17 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Convert paths in ImpellerC command line flags to std::filesystem::path objects
   <sub>[#179717](https://github.com/flutter/flutter/pull/179717) merged on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179717) over 4 days, 64 additions and 61 deletions in 11 files</sub>
