@@ -156,5 +156,5 @@
   <sub>[#179949](https://github.com/flutter/flutter/pull/179949) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179949) 12 additions and 13 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix update-packages not accounting for path dependencies<br />
-  <sub>[#179951](https://github.com/flutter/flutter/pull/179951) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179951) 117 additions and 65 deletions in 6 files</sub><br />
+  <sub>[#179951](https://github.com/flutter/flutter/pull/179951) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179951) 106 additions and 54 deletions in 3 files</sub><br />
 
