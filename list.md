@@ -719,7 +719,11 @@
 
 ### December 13, 2025 to December 19, 2025
 
-3 commits.
+4 commits.
+
+* **[Chris Sells](https://github.com/csells)** &mdash; Refactor AI Toolkit documentation to update LLM provider references a…
+  <sub>[#12787](https://github.com/flutter/website/pull/12787) merged on December 16, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/website/pull/12787) over 1 week, 501 additions and 560 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add initial preview and review cards to FWE
   <sub>[#12821](https://github.com/flutter/website/pull/12821) merged on December 15, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12821) over 21 hours, 624 additions and 5 deletions in 17 files</sub>
