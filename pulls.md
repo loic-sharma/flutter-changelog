@@ -92,9 +92,6 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Fix crash in FlutterJSONMessageCodec when decoding invalid Unicode<br />
   <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
-  <sub>[#179799](https://github.com/flutter/flutter/pull/179799) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179799) 86 additions and 86 deletions in 10 files</sub><br />
-
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Fix decorated box<br />
   <sub>[#179802](https://github.com/flutter/flutter/pull/179802) opened on on December 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179802) 173 additions and 21 deletions in 3 files</sub><br />
 
@@ -158,6 +155,9 @@
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
   <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179935) 43 additions and 2 deletions in 7 files</sub><br />
 
+* **[Roman Laptev](https://github.com/Carapacik)** &mdash; Try to update google_mobile_ads and webview_flutter_android<br />
+  <sub>[#179949](https://github.com/flutter/flutter/pull/179949) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179949) 12 additions and 13 deletions in 4 files</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix update-packages not accounting for path dependencies<br />
-  <sub>[#179951](https://github.com/flutter/flutter/pull/179951) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179951) 115 additions and 65 deletions in 6 files</sub><br />
+  <sub>[#179951](https://github.com/flutter/flutter/pull/179951) opened on on December 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179951) 117 additions and 65 deletions in 6 files</sub><br />
 
