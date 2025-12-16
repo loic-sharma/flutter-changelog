@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-18 commits.
+19 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Delete GLES framebuffer objects only on the thread where they were created<br />
   <sub>[#179768](https://github.com/flutter/flutter/pull/179768) merged on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179768) over 3 days, 58 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "[ios][pv] accept/reject gesture based on hitTest (with new wi…<br />
+  <sub>[#179895](https://github.com/flutter/flutter/pull/179895) merged on December 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179895) over 1 day, 66 additions and 1055 deletions in 38 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
   <sub>[#179821](https://github.com/flutter/flutter/pull/179821) merged on December 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179821) over 2 days, 77 additions and 22 deletions in 8 files</sub><br />
