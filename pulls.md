@@ -105,7 +105,7 @@
   <sub>[#179802](https://github.com/flutter/flutter/pull/179802) opened on on December 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179802) 173 additions and 21 deletions in 3 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/179810) 169 additions and 169 deletions in 10 files</sub><br />
+  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/179810) 169 additions and 169 deletions in 10 files</sub><br />
 
 * **[Ahmed Atef Fathi](https://github.com/Ahmedatef5O5)** &mdash; Update use-reliable-links.md<br />
   <sub>[#179816](https://github.com/flutter/flutter/pull/179816) opened on on December 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179816) 18 additions and 1 deletion in 1 file</sub><br />
