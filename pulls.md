@@ -96,7 +96,7 @@
   <sub>[#179765](https://github.com/flutter/flutter/pull/179765) opened on on December 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179765) 129 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Fix crash in FlutterJSONMessageCodec when decoding invalid Unicode<br />
-  <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update .ci.yaml in flutter/flutter to use either macOS 15.5 or macOS …<br />
   <sub>[#179799](https://github.com/flutter/flutter/pull/179799) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179799) 86 additions and 86 deletions in 10 files</sub><br />
