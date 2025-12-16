@@ -77,9 +77,6 @@
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
   <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Jan Jaap de Groot](https://github.com/JJdeGroot)** &mdash; Set heading semantics for `Flag.IS_HEADER`<br />
-  <sub>[#179681](https://github.com/flutter/flutter/pull/179681) opened on on December 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179681) 16 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy non-const SkData APIs<br />
   <sub>[#179684](https://github.com/flutter/flutter/pull/179684) opened on on December 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179684) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -144,7 +141,7 @@
   <sub>[#179898](https://github.com/flutter/flutter/pull/179898) opened on on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179898) 106 additions and 19 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moved high bitrate texture tests to engine<br />
-  <sub>[#179906](https://github.com/flutter/flutter/pull/179906) opened on on December 15, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179906) 287 additions and 501 deletions in 17 files</sub><br />
+  <sub>[#179906](https://github.com/flutter/flutter/pull/179906) opened on on December 15, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179906) 287 additions and 502 deletions in 18 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: text selection two handles directionality.<br />
   <sub>[#179928](https://github.com/flutter/flutter/pull/179928) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179928) 190 additions and 11 deletions in 2 files</sub><br />
@@ -155,7 +152,7 @@
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
   <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179935) 43 additions and 2 deletions in 7 files</sub><br />
 
-* **[Roman Laptev](https://github.com/Carapacik)** &mdash; Try to update google_mobile_ads and webview_flutter_android<br />
+* **[Roman Laptev](https://github.com/Carapacik)** &mdash; Update `google_mobile_ads` and `webview_flutter_android`<br />
   <sub>[#179949](https://github.com/flutter/flutter/pull/179949) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179949) 12 additions and 13 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix update-packages not accounting for path dependencies<br />
