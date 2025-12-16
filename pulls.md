@@ -167,3 +167,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTextFormFieldRow doesn't crash in 0x0 envir…<br />
   <sub>[#179932](https://github.com/flutter/flutter/pull/179932) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179932) 15 additions and 0 deletions in 1 file</sub><br />
 
+* **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
+  <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179935) 43 additions and 2 deletions in 7 files</sub><br />
+
