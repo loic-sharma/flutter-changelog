@@ -143,9 +143,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Platform View Hide/Show Integration test<br />
   <sub>[#179902](https://github.com/flutter/flutter/pull/179902) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179902) 152 additions and 0 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moved high bitrate texture tests to engine<br />
-  <sub>[#179906](https://github.com/flutter/flutter/pull/179906) opened on on December 15, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/179906) 285 additions and 502 deletions in 17 files</sub><br />
-
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: text selection two handles directionality.<br />
   <sub>[#179928](https://github.com/flutter/flutter/pull/179928) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179928) 190 additions and 11 deletions in 2 files</sub><br />
 

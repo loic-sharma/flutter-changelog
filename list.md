@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-25 commits.
+26 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub>
@@ -50,6 +50,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Delete GLES framebuffer objects only on the thread where they were created
   <sub>[#179768](https://github.com/flutter/flutter/pull/179768) merged on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179768) over 3 days, 58 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; ListTile fix MinIntrinsicHeight calculation
+  <sub>[#179515](https://github.com/flutter/flutter/pull/179515) merged on December 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179515) over 1 week, 42 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "[ios][pv] accept/reject gesture based on hitTest (with new wi…
   <sub>[#179895](https://github.com/flutter/flutter/pull/179895) merged on December 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179895) over 1 day, 66 additions and 1055 deletions in 38 files</sub>
