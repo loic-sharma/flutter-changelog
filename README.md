@@ -55,7 +55,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Revert "chore: linux fuchsia tests are flaking"<br />
-  <sub>[#179897](https://github.com/flutter/flutter/pull/179897) merged on December 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179897) over 8 hours, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#179897](https://github.com/flutter/flutter/pull/179897) merged on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179897) over 8 hours, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 ### December 6, 2025 to December 12, 2025

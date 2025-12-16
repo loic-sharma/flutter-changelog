@@ -92,9 +92,6 @@
 * **[Dharmarajsinh Jethva ](https://github.com/Goku-kun)** &mdash; Add clipboard-write permission to DartPad iframe in docs<br />
   <sub>[#179755](https://github.com/flutter/flutter/pull/179755) opened on on December 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179755) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Added Flutter Errors<br />
-  <sub>[#179765](https://github.com/flutter/flutter/pull/179765) opened on on December 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179765) 129 additions and 0 deletions in 2 files</sub><br />
-
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Fix crash in FlutterJSONMessageCodec when decoding invalid Unicode<br />
   <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
 
