@@ -156,7 +156,7 @@
   <sub>[#179888](https://github.com/flutter/flutter/pull/179888) opened on on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179888) 77 additions and 22 deletions in 8 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Revert "chore: linux fuchsia tests are flaking"<br />
-  <sub>[#179897](https://github.com/flutter/flutter/pull/179897) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179897) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#179897](https://github.com/flutter/flutter/pull/179897) opened on on December 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179897) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clamps input value for progress indicator<br />
   <sub>[#179898](https://github.com/flutter/flutter/pull/179898) opened on on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179898) 106 additions and 19 deletions in 2 files</sub><br />
