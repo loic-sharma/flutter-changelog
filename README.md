@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-14 commits.
+15 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix `resizeToAvoidBottomInset` on Android web<br />
   <sub>[#179581](https://github.com/flutter/flutter/pull/179581) merged on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179581) over 1 week, 95 additions and 39 deletions in 2 files</sub><br />
@@ -49,6 +49,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Convert paths in ImpellerC command line flags to std::filesystem::path objects<br />
   <sub>[#179717](https://github.com/flutter/flutter/pull/179717) merged on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179717) over 4 days, 64 additions and 61 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[shindonghwi](https://github.com/shindonghwi)** &mdash; Filter out FrameEvents/updateAcquireFence log spam from adb logcat<br />
+  <sub>[#179884](https://github.com/flutter/flutter/pull/179884) merged on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179884) over 1 day, 37 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update window settings as they change rather than the more outdated "Apply" pattern.<br />
   <sub>[#179861](https://github.com/flutter/flutter/pull/179861) merged on December 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179861) over 18 hours, 36 additions and 13 deletions in 1 file</sub><br />
