@@ -4,7 +4,12 @@
 
 ### December 13, 2025 to December 19, 2025
 
-16 commits.
+17 commits.
+
+* **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)
+  <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+  <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/229c82a0-70de-4e23-841e-2cbea92cc79f" height="600"><img src="https://github.com/user-attachments/assets/537f4215-5f0f-4cd6-aa09-e058d133e8ac" height="600"></details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix `resizeToAvoidBottomInset` on Android web
   <sub>[#179581](https://github.com/flutter/flutter/pull/179581) merged on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179581) over 1 week, 95 additions and 39 deletions in 2 files</sub>
@@ -67,7 +72,7 @@
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Revert "chore: linux fuchsia tests are flaking"
-  <sub>[#179897](https://github.com/flutter/flutter/pull/179897) merged on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179897) over 8 hours, 0 additions and 1 deletion in 1 file</sub>
+  <sub>[#179897](https://github.com/flutter/flutter/pull/179897) merged on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179897) over 8 hours, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 ### December 6, 2025 to December 12, 2025
