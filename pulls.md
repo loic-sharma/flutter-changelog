@@ -83,9 +83,6 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy non-const SkData APIs<br />
   <sub>[#179684](https://github.com/flutter/flutter/pull/179684) opened on on December 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179684) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Ensure that the engine converts std::filesystem::path objects to UTF-8 strings on Windows<br />
-  <sub>[#179707](https://github.com/flutter/flutter/pull/179707) opened on on December 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179707) 22 additions and 6 deletions in 6 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Revert "Revert "Android implementation of content sizing""<br />
   <sub>[#179753](https://github.com/flutter/flutter/pull/179753) opened on on December 11, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/179753) 418 additions and 16 deletions in 21 files</sub><br />
 
@@ -146,12 +143,6 @@
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout<br />
   <sub>[#179881](https://github.com/flutter/flutter/pull/179881) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179881) 4 additions and 5 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
-  <sub>[#179887](https://github.com/flutter/flutter/pull/179887) opened on on December 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179887) 77 additions and 22 deletions in 8 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Widget Preview ] Pass DTD URI as a constant in a generated file<br />
-  <sub>[#179888](https://github.com/flutter/flutter/pull/179888) opened on on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179888) 77 additions and 22 deletions in 8 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clamps input value for progress indicator<br />
   <sub>[#179898](https://github.com/flutter/flutter/pull/179898) opened on on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179898) 106 additions and 19 deletions in 2 files</sub><br />
 
@@ -166,4 +157,7 @@
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
   <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179935) 43 additions and 2 deletions in 7 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix update-packages not accounting for path dependencies<br />
+  <sub>[#179951](https://github.com/flutter/flutter/pull/179951) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179951) 115 additions and 65 deletions in 6 files</sub><br />
 
