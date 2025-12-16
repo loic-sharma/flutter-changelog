@@ -141,10 +141,10 @@
   <sub>[#179898](https://github.com/flutter/flutter/pull/179898) opened on on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179898) 106 additions and 19 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Platform View Hide/Show Integration test<br />
-  <sub>[#179902](https://github.com/flutter/flutter/pull/179902) opened on on December 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179902) 156 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#179902](https://github.com/flutter/flutter/pull/179902) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179902) 149 additions and 0 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moved high bitrate texture tests to engine<br />
-  <sub>[#179906](https://github.com/flutter/flutter/pull/179906) opened on on December 15, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179906) 285 additions and 502 deletions in 17 files</sub><br />
+  <sub>[#179906](https://github.com/flutter/flutter/pull/179906) opened on on December 15, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/179906) 285 additions and 502 deletions in 17 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: text selection two handles directionality.<br />
   <sub>[#179928](https://github.com/flutter/flutter/pull/179928) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179928) 190 additions and 11 deletions in 2 files</sub><br />
@@ -165,5 +165,5 @@
   <sub>[#179957](https://github.com/flutter/flutter/pull/179957) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179957) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Add drag handle to CupertinoSheet<br />
-  <sub>[#179962](https://github.com/flutter/flutter/pull/179962) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179962) 109 additions and 7 deletions in 3 files</sub><br />
+  <sub>[#179962](https://github.com/flutter/flutter/pull/179962) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179962) 114 additions and 7 deletions in 3 files</sub><br />
 
