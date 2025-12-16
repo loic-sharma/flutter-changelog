@@ -161,6 +161,3 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moved high bitrate texture tests to engine<br />
   <sub>[#179906](https://github.com/flutter/flutter/pull/179906) opened on on December 15, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179906) 287 additions and 501 deletions in 17 files</sub><br />
 
-* **[walley892](https://github.com/walley892)** &mdash; Allow setting vector uniforms by name.<br />
-  <sub>[#179927](https://github.com/flutter/flutter/pull/179927) opened on on December 16, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/179927) 411 additions and 45 deletions in 9 files</sub><br />
-
