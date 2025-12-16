@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-23 commits.
+24 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub>
@@ -74,6 +74,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Convert paths in ImpellerC command line flags to std::filesystem::path objects
   <sub>[#179717](https://github.com/flutter/flutter/pull/179717) merged on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179717) over 4 days, 64 additions and 61 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update some comments related to theme normalization
+  <sub>[#179624](https://github.com/flutter/flutter/pull/179624) merged on December 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179624) over 1 week, 52 additions and 22 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Align `Build.API_LEVELS` usage in `FlutterImageDecoder.java‎` with existing usage
   <sub>[#179868](https://github.com/flutter/flutter/pull/179868) merged on December 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179868) over 1 day, 5 additions and 3 deletions in 1 file</sub>
