@@ -574,9 +574,18 @@
 
 ## flutter/packages
 
+### December 13, 2025 to December 19, 2025
+
+1 commits.
+
+* **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(android): add audio track selection for ExoPlayer<br />
+  <sub>[#10312](https://github.com/flutter/packages/pull/10312) merged on December 16, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/10312) over 1 month, 1635 additions and 15 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
 ### December 6, 2025 to December 12, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[Haidar Mehsen](https://github.com/Haidar0096)** &mdash; [in_app_purchase_storekit] Add Transaction.unfinished API and expose appAccountToken<br />
   <sub>[#10439](https://github.com/flutter/packages/pull/10439) merged on December 11, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10439) over 3 weeks, 162 additions and 7 deletions in 10 files</sub><br />
@@ -617,6 +626,8 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Redistribute package ownership among Android team<br />
   <sub>[#10569](https://github.com/flutter/packages/pull/10569) merged on December 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10569) over 5 days, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
+
+</details>
 
 ### November 29, 2025 to December 5, 2025
 
