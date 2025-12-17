@@ -128,8 +128,8 @@
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
   <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179935) 45 additions and 2 deletions in 9 files</sub><br />
 
-* **[Roman Laptev](https://github.com/Carapacik)** &mdash; Update `google_mobile_ads` and `webview_flutter_android`<br />
-  <sub>[#179949](https://github.com/flutter/flutter/pull/179949) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179949) 11 additions and 12 deletions in 3 files</sub><br />
+* **[Roman Laptev](https://github.com/Carapacik)** &mdash; Roll `google_mobile_ads` and `webview_flutter_android`<br />
+  <sub>[#179949](https://github.com/flutter/flutter/pull/179949) opened on on December 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179949) 11 additions and 12 deletions in 3 files</sub><br />
 
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Update link to FlutterTest font generation script<br />
   <sub>[#179957](https://github.com/flutter/flutter/pull/179957) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179957) 1 addition and 1 deletion in 1 file</sub><br />
