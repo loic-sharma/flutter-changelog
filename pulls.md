@@ -144,5 +144,5 @@
   <sub>[#180013](https://github.com/flutter/flutter/pull/180013) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180013) 98 additions and 13 deletions in 3 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add explicit `--cross-origin-isolation` flag to `flutter run`.<br />
-  <sub>[#180026](https://github.com/flutter/flutter/pull/180026) opened on on December 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180026) 187 additions and 4 deletions in 10 files</sub><br />
+  <sub>[#180026](https://github.com/flutter/flutter/pull/180026) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180026) 187 additions and 4 deletions in 10 files</sub><br />
 
