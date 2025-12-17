@@ -158,3 +158,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add SnackBarTheme<br />
   <sub>[#180001](https://github.com/flutter/flutter/pull/180001) opened on on December 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180001) 198 additions and 30 deletions in 4 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Bump `engine.version` for 3.40.0-0.2.pre release<br />
+  <sub>[#180004](https://github.com/flutter/flutter/pull/180004) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180004) 1 addition and 1 deletion in 1 file</sub><br />
+
