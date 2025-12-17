@@ -120,7 +120,7 @@
   <sub>[#179870](https://github.com/flutter/flutter/pull/179870) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179870) 11 additions and 9 deletions in 1 file</sub><br />
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only repaint views that need to be painted (with external texture & platform view support)<br />
-  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179874) 533 additions and 16 deletions in 19 files</sub><br />
+  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179874) 515 additions and 23 deletions in 19 files</sub><br />
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout<br />
   <sub>[#179881](https://github.com/flutter/flutter/pull/179881) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179881) 4 additions and 5 deletions in 2 files</sub><br />
@@ -147,7 +147,7 @@
   <sub>[#179977](https://github.com/flutter/flutter/pull/179977) opened on on December 17, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/179977) 515 additions and 65 deletions in 2 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; feat: Introduce FlutterStringUtils for sanitizing UTF-8 data and JSON escape sequences.<br />
-  <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
+  <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTextSelectionToolbarButton doesn't crash in…<br />
   <sub>[#179995](https://github.com/flutter/flutter/pull/179995) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179995) 13 additions and 0 deletions in 1 file</sub><br />
