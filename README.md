@@ -827,7 +827,7 @@
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Flutter iOS role<br />
-  <sub>[#12817](https://github.com/flutter/website/pull/12817) merged on December 15, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12817) over 2 days, 101 additions and 7 deletions in 3 files</sub><br />
+  <sub>[#12817](https://github.com/flutter/website/pull/12817) merged on December 15, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12817) over 2 days, 101 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Mathew Smith](https://github.com/Monkey-Matt)** &mdash; Fix code example in breaking-change/uiscenedelegate.md<br />
