@@ -36,7 +36,7 @@
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/177888) 437 additions and 43 deletions in 4 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/177888) 437 additions and 43 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
   <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/177954) 165 additions and 5 deletions in 12 files</sub><br />
@@ -137,9 +137,6 @@
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Update link to FlutterTest font generation script<br />
   <sub>[#179957](https://github.com/flutter/flutter/pull/179957) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179957) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix[Android]: InkWell splash and highlight color persistence on long press.<br />
-  <sub>[#179977](https://github.com/flutter/flutter/pull/179977) opened on on December 17, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/179977) 515 additions and 65 deletions in 2 files</sub><br />
-
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; feat: Introduce FlutterStringUtils for sanitizing UTF-8 data and JSON escape sequences.<br />
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
 
@@ -148,4 +145,7 @@
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Semantics headingLeveldoc update<br />
   <sub>[#179999](https://github.com/flutter/flutter/pull/179999) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179999) 6 additions and 6 deletions in 1 file</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for sortable column behavior<br />
+  <sub>[#180011](https://github.com/flutter/flutter/pull/180011) opened on on December 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180011) 5 additions and 0 deletions in 1 file</sub><br />
 
