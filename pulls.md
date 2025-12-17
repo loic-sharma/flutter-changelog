@@ -155,6 +155,3 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Semantics headingLeveldoc update<br />
   <sub>[#179999](https://github.com/flutter/flutter/pull/179999) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179999) 6 additions and 6 deletions in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Bump `engine.version` for 3.40.0-0.2.pre release<br />
-  <sub>[#180004](https://github.com/flutter/flutter/pull/180004) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180004) 1 addition and 1 deletion in 1 file</sub><br />
-
