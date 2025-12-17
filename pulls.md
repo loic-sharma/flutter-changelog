@@ -140,9 +140,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTextSelectionToolbarButton doesn't crash in…<br />
   <sub>[#179995](https://github.com/flutter/flutter/pull/179995) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179995) 13 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Semantics headingLeveldoc update<br />
-  <sub>[#179999](https://github.com/flutter/flutter/pull/179999) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179999) 6 additions and 6 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for sortable column behavior<br />
   <sub>[#180011](https://github.com/flutter/flutter/pull/180011) opened on on December 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180011) 5 additions and 0 deletions in 1 file</sub><br />
 

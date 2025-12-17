@@ -840,7 +840,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-8 commits.
+9 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Refactor AI Toolkit documentation to update LLM provider references a…
   <sub>[#12787](https://github.com/flutter/website/pull/12787) merged on December 16, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/website/pull/12787) over 1 week, 501 additions and 560 deletions in 5 files</sub>
@@ -849,6 +849,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add initial preview and review cards to FWE
   <sub>[#12821](https://github.com/flutter/website/pull/12821) merged on December 15, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/12821) over 21 hours, 624 additions and 5 deletions in 17 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a page on handling input events
+  <sub>[#12824](https://github.com/flutter/website/pull/12824) merged on December 17, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/website/pull/12824) over 2 days, 214 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [Andrew Brogdon](https://github.com/redbrogdon), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Flutter iOS role
   <sub>[#12817](https://github.com/flutter/website/pull/12817) merged on December 15, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12817) over 2 days, 101 additions and 7 deletions in 3 files</sub>
