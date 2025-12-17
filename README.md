@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-31 commits.
+33 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Илия](https://github.com/777genius)** &mdash; Suppress deprecation warning for AChoreographer_postFrameCallback<br />
   <sub>[#178580](https://github.com/flutter/flutter/pull/178580) merged on December 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178580) over 1 month, 34 additions and 29 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `BuildContext` docs to make it easier to understand<br />
+  <sub>[#178616](https://github.com/flutter/flutter/pull/178616) merged on December 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178616) over 1 month, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv] quick fix to enable and re-enable web view's gesture recognizer<br />
   <sub>[#179908](https://github.com/flutter/flutter/pull/179908) merged on December 17, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/179908) over 1 day, 495 additions and 3 deletions in 2 files</sub><br />
@@ -94,6 +98,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Convert paths in ImpellerC command line flags to std::filesystem::path objects<br />
   <sub>[#179717](https://github.com/flutter/flutter/pull/179717) merged on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179717) over 4 days, 64 additions and 61 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSwitch doesn't crash in 0x0 environment<br />
+  <sub>[#179748](https://github.com/flutter/flutter/pull/179748) merged on December 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179748) over 5 days, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Deduplicate wasm dry run entries in analytics.<br />
   <sub>[#179970](https://github.com/flutter/flutter/pull/179970) merged on December 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179970) over 48 minutes, 30 additions and 1 deletion in 2 files</sub><br />
