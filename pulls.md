@@ -144,5 +144,5 @@
   <sub>[#179957](https://github.com/flutter/flutter/pull/179957) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179957) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Modify the `create_cipd_packages.sh` script to allow uploading multiple `build-tools` versions, and update to new bundle<br />
-  <sub>[#179963](https://github.com/flutter/flutter/pull/179963) opened on on December 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179963) 112 additions and 108 deletions in 4 files</sub><br />
+  <sub>[#179963](https://github.com/flutter/flutter/pull/179963) opened on on December 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179963) 115 additions and 111 deletions in 7 files</sub><br />
 
