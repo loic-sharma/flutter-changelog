@@ -87,7 +87,7 @@
   <sub>[#179755](https://github.com/flutter/flutter/pull/179755) opened on on December 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179755) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Fix crash in FlutterJSONMessageCodec when decoding invalid Unicode<br />
-  <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
 
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Fix decorated box<br />
   <sub>[#179802](https://github.com/flutter/flutter/pull/179802) opened on on December 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179802) 173 additions and 21 deletions in 3 files</sub><br />
