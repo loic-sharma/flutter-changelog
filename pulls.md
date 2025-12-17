@@ -123,7 +123,7 @@
   <sub>[#179870](https://github.com/flutter/flutter/pull/179870) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179870) 11 additions and 9 deletions in 1 file</sub><br />
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only repaint views that need to be painted (with external texture & platform view support)<br />
-  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179874) 532 additions and 16 deletions in 19 files</sub><br />
+  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179874) 531 additions and 16 deletions in 19 files</sub><br />
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout<br />
   <sub>[#179881](https://github.com/flutter/flutter/pull/179881) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179881) 4 additions and 5 deletions in 2 files</sub><br />
@@ -147,7 +147,7 @@
   <sub>[#179963](https://github.com/flutter/flutter/pull/179963) opened on on December 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179963) 115 additions and 111 deletions in 7 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix InkWell splash persistence and add coverage tests<br />
-  <sub>[#179977](https://github.com/flutter/flutter/pull/179977) opened on on December 17, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/179977) 338 additions and 52 deletions in 2 files</sub><br />
+  <sub>[#179977](https://github.com/flutter/flutter/pull/179977) opened on on December 17, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/179977) 515 additions and 65 deletions in 2 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; feat: Introduce FlutterStringUtils for sanitizing UTF-8 data and JSON escape sequences.<br />
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
