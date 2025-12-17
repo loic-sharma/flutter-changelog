@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-27 commits.
+28 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub><br />
@@ -86,6 +86,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Convert paths in ImpellerC command line flags to std::filesystem::path objects<br />
   <sub>[#179717](https://github.com/flutter/flutter/pull/179717) merged on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179717) over 4 days, 64 additions and 61 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Platform View Hide/Show Integration test<br />
+  <sub>[#179902](https://github.com/flutter/flutter/pull/179902) merged on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179902) over 1 day, 152 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update some comments related to theme normalization<br />
   <sub>[#179624](https://github.com/flutter/flutter/pull/179624) merged on December 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179624) over 1 week, 52 additions and 22 deletions in 8 files</sub><br />

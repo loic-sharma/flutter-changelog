@@ -104,17 +104,11 @@
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTabScaffold doesn't crash in 0x0 environment<br />
-  <sub>[#179824](https://github.com/flutter/flutter/pull/179824) opened on on December 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179824) 16 additions and 0 deletions in 1 file</sub><br />
-
 * **[ThinkMars](https://github.com/ThinkMars)** &mdash; Fix frequent clipboard access in TextField by adding status check<br />
   <sub>[#179840](https://github.com/flutter/flutter/pull/179840) opened on on December 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179840) 8 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; Improve assertions in Tab widget constructor to provide clearer errors<br />
   <sub>[#179844](https://github.com/flutter/flutter/pull/179844) opened on on December 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179844) 5 additions and 2 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTabView doesn't crash in 0x0 environment<br />
-  <sub>[#179845](https://github.com/flutter/flutter/pull/179845) opened on on December 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179845) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Fix DecoratedSliver sample to avoid antialiasing gap<br />
   <sub>[#179848](https://github.com/flutter/flutter/pull/179848) opened on on December 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179848) 89 additions and 82 deletions in 2 files</sub><br />
@@ -136,9 +130,6 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clamps input value for progress indicator<br />
   <sub>[#179898](https://github.com/flutter/flutter/pull/179898) opened on on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179898) 106 additions and 19 deletions in 2 files</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Platform View Hide/Show Integration test<br />
-  <sub>[#179902](https://github.com/flutter/flutter/pull/179902) opened on on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179902) 152 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: text selection two handles directionality.<br />
   <sub>[#179928](https://github.com/flutter/flutter/pull/179928) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179928) 190 additions and 11 deletions in 2 files</sub><br />
