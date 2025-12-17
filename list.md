@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-44 commits.
+45 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub>
@@ -43,9 +43,9 @@
   <sub>[#175508](https://github.com/flutter/flutter/pull/175508) merged on December 15, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/175508) over 2 months, 38 additions and 108 deletions in 15 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; remove unnecessary virtual destructor from VertexDescriptor
-  <sub>[#178682](https://github.com/flutter/flutter/pull/178682) merged on December 15, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178682) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add package info to wasm dry run events.
+  <sub>[#179826](https://github.com/flutter/flutter/pull/179826) merged on December 17, 2025 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/179826) over 3 days, 577 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[Adil Hanney](https://github.com/adil192)** &mdash; Add `Adwaita Sans` as a font fallback on Linux
   <sub>[#179144](https://github.com/flutter/flutter/pull/179144) merged on December 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179144) over 2 weeks, 5 additions and 3 deletions in 3 files</sub>
@@ -63,9 +63,9 @@
   <sub>[#179908](https://github.com/flutter/flutter/pull/179908) merged on December 17, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/179908) over 1 day, 495 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add package info to wasm dry run events.
-  <sub>[#179826](https://github.com/flutter/flutter/pull/179826) merged on December 17, 2025 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/179826) over 3 days, 577 additions and 10 deletions in 2 files</sub>
-  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Srujan Gaddam](https://github.com/srujzs)</sub>
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; remove unnecessary virtual destructor from VertexDescriptor
+  <sub>[#178682](https://github.com/flutter/flutter/pull/178682) merged on December 15, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178682) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Delete GLES framebuffer objects only on the thread where they were created
   <sub>[#179768](https://github.com/flutter/flutter/pull/179768) merged on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179768) over 3 days, 58 additions and 2 deletions in 4 files</sub>
@@ -79,6 +79,10 @@
   <sub>[#179515](https://github.com/flutter/flutter/pull/179515) merged on December 16, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179515) over 1 week, 42 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "[ios][pv] accept/reject gesture based on hitTest (with new wi…
+  <sub>[#179895](https://github.com/flutter/flutter/pull/179895) merged on December 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179895) over 1 day, 66 additions and 1055 deletions in 38 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix update-packages not accounting for path dependencies
   <sub>[#179951](https://github.com/flutter/flutter/pull/179951) merged on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179951) over 2 hours, 106 additions and 54 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -86,10 +90,6 @@
 * **[JeelChandegra](https://github.com/JeelChandegra)** &mdash; Improve assertion messages in Tab widget for better clarity
   <sub>[#178295](https://github.com/flutter/flutter/pull/178295) merged on December 17, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/178295) over 1 month, 24 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "[ios][pv] accept/reject gesture based on hitTest (with new wi…
-  <sub>[#179895](https://github.com/flutter/flutter/pull/179895) merged on December 16, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179895) over 1 day, 66 additions and 1055 deletions in 38 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Pass DTD URI as a constant in a generated file
   <sub>[#179821](https://github.com/flutter/flutter/pull/179821) merged on December 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179821) over 2 days, 77 additions and 22 deletions in 8 files</sub>
@@ -123,9 +123,9 @@
   <sub>[#179717](https://github.com/flutter/flutter/pull/179717) merged on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179717) over 4 days, 64 additions and 61 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Align `Build.API_LEVELS` usage in `FlutterImageDecoder.java‎` with existing usage
-  <sub>[#179868](https://github.com/flutter/flutter/pull/179868) merged on December 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179868) over 1 day, 5 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [shindonghwi](https://github.com/shindonghwi), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Fix-Forward Website URL
+  <sub>[#180018](https://github.com/flutter/flutter/pull/180018) merged on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180018) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Filter out FrameEvents/updateAcquireFence log spam from adb logcat
   <sub>[#179884](https://github.com/flutter/flutter/pull/179884) merged on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179884) over 1 day, 37 additions and 0 deletions in 2 files</sub>
@@ -174,6 +174,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary unboxing in `FlutterLoader.java‎`
   <sub>[#179869](https://github.com/flutter/flutter/pull/179869) merged on December 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179869) over 6 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Align `Build.API_LEVELS` usage in `FlutterImageDecoder.java‎` with existing usage
+  <sub>[#179868](https://github.com/flutter/flutter/pull/179868) merged on December 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179868) over 1 day, 5 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [shindonghwi](https://github.com/shindonghwi), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Unmodified android sdk bundle
   <sub>[#179920](https://github.com/flutter/flutter/pull/179920) merged on December 16, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/179920) over 18 hours, 266 additions and 421 deletions in 46 files</sub>
