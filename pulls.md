@@ -78,7 +78,7 @@
   <sub>[#179684](https://github.com/flutter/flutter/pull/179684) opened on on December 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179684) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Revert "Revert "Android implementation of content sizing""<br />
-  <sub>[#179753](https://github.com/flutter/flutter/pull/179753) opened on on December 11, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/179753) 418 additions and 16 deletions in 21 files</sub><br />
+  <sub>[#179753](https://github.com/flutter/flutter/pull/179753) opened on on December 11, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/179753) 418 additions and 16 deletions in 21 files</sub><br />
 
 * **[Dharmarajsinh Jethva ](https://github.com/Goku-kun)** &mdash; Add clipboard-write permission to DartPad iframe in docs<br />
   <sub>[#179755](https://github.com/flutter/flutter/pull/179755) opened on on December 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179755) 3 additions and 2 deletions in 1 file</sub><br />
@@ -141,7 +141,7 @@
   <sub>[#179957](https://github.com/flutter/flutter/pull/179957) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179957) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Modify the `create_cipd_packages.sh` script to allow uploading multiple `build-tools` versions, and update to new bundle<br />
-  <sub>[#179963](https://github.com/flutter/flutter/pull/179963) opened on on December 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179963) 115 additions and 111 deletions in 7 files</sub><br />
+  <sub>[#179963](https://github.com/flutter/flutter/pull/179963) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179963) 115 additions and 111 deletions in 7 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix[Android]: InkWell splash and highlight color persistence on long press.<br />
   <sub>[#179977](https://github.com/flutter/flutter/pull/179977) opened on on December 17, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/179977) 515 additions and 65 deletions in 2 files</sub><br />

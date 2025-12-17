@@ -820,7 +820,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-6 commits.
+7 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Refactor AI Toolkit documentation to update LLM provider references a…<br />
   <sub>[#12787](https://github.com/flutter/website/pull/12787) merged on December 16, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/website/pull/12787) over 1 week, 501 additions and 560 deletions in 5 files</sub><br />
@@ -833,6 +833,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Flutter iOS role<br />
   <sub>[#12817](https://github.com/flutter/website/pull/12817) merged on December 15, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/12817) over 2 days, 101 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update Flutter docs to reflect Hooks changes in Dart.<br />
+  <sub>[#12830](https://github.com/flutter/website/pull/12830) merged on December 17, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/website/pull/12830) over 22 hours, 116 additions and 33 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Andrew Brogdon](https://github.com/redbrogdon)** &mdash; Updating banner for livestream<br />
   <sub>[#12836](https://github.com/flutter/website/pull/12836) merged on December 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12836) over 15 minutes, 3 additions and 2 deletions in 1 file</sub><br />
