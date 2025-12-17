@@ -19,13 +19,13 @@
   <sub>[#179581](https://github.com/flutter/flutter/pull/179581) merged on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179581) over 1 week, 95 additions and 39 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmodified android sdk bundle<br />
-  <sub>[#179647](https://github.com/flutter/flutter/pull/179647) merged on December 15, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179647) over 5 days, 265 additions and 421 deletions in 46 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
 * **[Job Guldemeester](https://github.com/Guldem)** &mdash; Adds property passthrough for CheckboxListTile, SwitchListTile and RadioListTile<br />
   <sub>[#178098](https://github.com/flutter/flutter/pull/178098) merged on December 17, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/178098) over 1 month, 1102 additions and 0 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmodified android sdk bundle<br />
+  <sub>[#179647](https://github.com/flutter/flutter/pull/179647) merged on December 15, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179647) over 5 days, 265 additions and 421 deletions in 46 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix pinned header in NestedScrollView<br />
   <sub>[#179210](https://github.com/flutter/flutter/pull/179210) merged on December 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179210) over 2 weeks, 70 additions and 1 deletion in 2 files</sub><br />
