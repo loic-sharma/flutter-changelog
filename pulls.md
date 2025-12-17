@@ -149,3 +149,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for sortable column behavior<br />
   <sub>[#180011](https://github.com/flutter/flutter/pull/180011) opened on on December 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180011) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[richardexfo](https://github.com/richardexfo)** &mdash; Set text input purpose and hints on Linux platform<br />
+  <sub>[#180013](https://github.com/flutter/flutter/pull/180013) opened on on December 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180013) 98 additions and 13 deletions in 3 files</sub><br />
+
