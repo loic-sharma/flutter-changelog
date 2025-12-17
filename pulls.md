@@ -152,9 +152,9 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; feat: Introduce FlutterStringUtils for sanitizing UTF-8 data and JSON escape sequences.<br />
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix RangeSlider dragged cursor handling.<br />
-  <sub>[#179988](https://github.com/flutter/flutter/pull/179988) opened on on December 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179988) 75 additions and 58 deletions in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTextSelectionToolbarButton doesn't crash in…<br />
   <sub>[#179995](https://github.com/flutter/flutter/pull/179995) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179995) 13 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Semantics headingLeveldoc update<br />
+  <sub>[#179999](https://github.com/flutter/flutter/pull/179999) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179999) 6 additions and 6 deletions in 1 file</sub><br />
 
