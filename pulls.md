@@ -155,6 +155,3 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Semantics headingLeveldoc update<br />
   <sub>[#179999](https://github.com/flutter/flutter/pull/179999) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179999) 6 additions and 6 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix MaterialBannerTheme.data nullablity<br />
-  <sub>[#180008](https://github.com/flutter/flutter/pull/180008) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180008) 100 additions and 2 deletions in 2 files</sub><br />
-
