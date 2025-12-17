@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-28 commits.
+29 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Илия](https://github.com/777genius)** &mdash; Suppress deprecation warning for AChoreographer_postFrameCallback<br />
   <sub>[#178580](https://github.com/flutter/flutter/pull/178580) merged on December 15, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178580) over 1 month, 34 additions and 29 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add package info to wasm dry run events.<br />
+  <sub>[#179826](https://github.com/flutter/flutter/pull/179826) merged on December 17, 2025 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/179826) over 3 days, 577 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Adil Hanney](https://github.com/adil192)** &mdash; Add `Adwaita Sans` as a font fallback on Linux<br />
   <sub>[#179144](https://github.com/flutter/flutter/pull/179144) merged on December 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179144) over 2 weeks, 5 additions and 3 deletions in 3 files</sub><br />
