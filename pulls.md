@@ -77,9 +77,6 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy non-const SkData APIs<br />
   <sub>[#179684](https://github.com/flutter/flutter/pull/179684) opened on on December 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179684) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Revert "Revert "Android implementation of content sizing""<br />
-  <sub>[#179753](https://github.com/flutter/flutter/pull/179753) opened on on December 11, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/179753) 418 additions and 16 deletions in 21 files</sub><br />
-
 * **[Dharmarajsinh Jethva ](https://github.com/Goku-kun)** &mdash; Add clipboard-write permission to DartPad iframe in docs<br />
   <sub>[#179755](https://github.com/flutter/flutter/pull/179755) opened on on December 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179755) 3 additions and 2 deletions in 1 file</sub><br />
 
@@ -145,4 +142,7 @@
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Set text input purpose and hints on Linux platform<br />
   <sub>[#180013](https://github.com/flutter/flutter/pull/180013) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180013) 98 additions and 13 deletions in 3 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add explicit `--cross-origin-isolation` flag to `flutter run`.<br />
+  <sub>[#180026](https://github.com/flutter/flutter/pull/180026) opened on on December 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180026) 187 additions and 4 deletions in 10 files</sub><br />
 
