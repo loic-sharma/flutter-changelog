@@ -123,7 +123,7 @@
   <sub>[#179870](https://github.com/flutter/flutter/pull/179870) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179870) 11 additions and 9 deletions in 1 file</sub><br />
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only repaint views that need to be painted (with external texture & platform view support)<br />
-  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179874) 531 additions and 16 deletions in 19 files</sub><br />
+  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179874) 533 additions and 16 deletions in 19 files</sub><br />
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout<br />
   <sub>[#179881](https://github.com/flutter/flutter/pull/179881) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179881) 4 additions and 5 deletions in 2 files</sub><br />
@@ -157,4 +157,7 @@
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Semantics headingLeveldoc update<br />
   <sub>[#179999](https://github.com/flutter/flutter/pull/179999) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179999) 6 additions and 6 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add SnackBarTheme<br />
+  <sub>[#180001](https://github.com/flutter/flutter/pull/180001) opened on on December 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180001) 198 additions and 30 deletions in 4 files</sub><br />
 
