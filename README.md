@@ -812,7 +812,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-4 commits.
+5 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Refactor AI Toolkit documentation to update LLM provider references a…<br />
   <sub>[#12787](https://github.com/flutter/website/pull/12787) merged on December 16, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/website/pull/12787) over 1 week, 501 additions and 560 deletions in 5 files</sub><br />
@@ -825,6 +825,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Flutter iOS role<br />
   <sub>[#12817](https://github.com/flutter/website/pull/12817) merged on December 15, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12817) over 2 days, 101 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Mathew Smith](https://github.com/Monkey-Matt)** &mdash; Fix code example in breaking-change/uiscenedelegate.md<br />
+  <sub>[#12832](https://github.com/flutter/website/pull/12832) merged on December 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12832) over 9 hours, 4 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; [3.41] Remove outdated deployment version section from iOS deployment docs<br />
   <sub>[#12805](https://github.com/flutter/website/pull/12805) merged on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12805) over 5 days, 0 additions and 5 deletions in 1 file</sub><br />
