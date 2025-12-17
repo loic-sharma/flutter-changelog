@@ -146,6 +146,3 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Modify the `create_cipd_packages.sh` script to allow uploading multiple `build-tools` versions, and update to new bundle<br />
   <sub>[#179963](https://github.com/flutter/flutter/pull/179963) opened on on December 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179963) 112 additions and 108 deletions in 4 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ios][pv] quick fix to enable and re-enable web view's gesture recognizer<br />
-  <sub>[#179974](https://github.com/flutter/flutter/pull/179974) opened on on December 17, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/179974) 495 additions and 3 deletions in 2 files</sub><br />
-
