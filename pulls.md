@@ -125,9 +125,6 @@
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Forward proxy 404 responses to client<br />
   <sub>[#179858](https://github.com/flutter/flutter/pull/179858) opened on on December 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179858) 41 additions and 4 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTextField doesn't crash in 0x0 environment<br />
-  <sub>[#179865](https://github.com/flutter/flutter/pull/179865) opened on on December 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179865) 15 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve documentation about ValueNotifier's behavior<br />
   <sub>[#179870](https://github.com/flutter/flutter/pull/179870) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179870) 11 additions and 9 deletions in 1 file</sub><br />
 
@@ -145,9 +142,6 @@
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: text selection two handles directionality.<br />
   <sub>[#179928](https://github.com/flutter/flutter/pull/179928) opened on on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179928) 190 additions and 11 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTextFormFieldRow doesn't crash in 0x0 envir…<br />
-  <sub>[#179932](https://github.com/flutter/flutter/pull/179932) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179932) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
   <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179935) 43 additions and 2 deletions in 7 files</sub><br />
