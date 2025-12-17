@@ -140,9 +140,6 @@
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Update link to FlutterTest font generation script<br />
   <sub>[#179957](https://github.com/flutter/flutter/pull/179957) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179957) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Modify the `create_cipd_packages.sh` script to allow uploading multiple `build-tools` versions, and update to new bundle<br />
-  <sub>[#179963](https://github.com/flutter/flutter/pull/179963) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179963) 115 additions and 111 deletions in 7 files</sub><br />
-
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix[Android]: InkWell splash and highlight color persistence on long press.<br />
   <sub>[#179977](https://github.com/flutter/flutter/pull/179977) opened on on December 17, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/179977) 515 additions and 65 deletions in 2 files</sub><br />
 
