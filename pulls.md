@@ -156,5 +156,5 @@
   <sub>[#179988](https://github.com/flutter/flutter/pull/179988) opened on on December 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179988) 75 additions and 58 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTextSelectionToolbarButton doesn't crash in…<br />
-  <sub>[#179995](https://github.com/flutter/flutter/pull/179995) opened on on December 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179995) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179995](https://github.com/flutter/flutter/pull/179995) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179995) 13 additions and 0 deletions in 1 file</sub><br />
 
