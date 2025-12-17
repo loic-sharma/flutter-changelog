@@ -4,7 +4,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-42 commits.
+43 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub>
@@ -39,9 +39,17 @@
   <sub>[#177855](https://github.com/flutter/flutter/pull/177855) merged on December 16, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/177855) over 1 month, 357 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Bump minSdk to `24` in `engine`
+  <sub>[#175508](https://github.com/flutter/flutter/pull/175508) merged on December 15, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/175508) over 2 months, 38 additions and 108 deletions in 15 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; remove unnecessary virtual destructor from VertexDescriptor
   <sub>[#178682](https://github.com/flutter/flutter/pull/178682) merged on December 15, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178682) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `BuildContext` docs to make it easier to understand
+  <sub>[#178616](https://github.com/flutter/flutter/pull/178616) merged on December 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178616) over 1 month, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv] quick fix to enable and re-enable web view's gesture recognizer
   <sub>[#179908](https://github.com/flutter/flutter/pull/179908) merged on December 17, 2025 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/179908) over 1 day, 495 additions and 3 deletions in 2 files</sub>
@@ -55,17 +63,9 @@
   <sub>[#179765](https://github.com/flutter/flutter/pull/179765) merged on December 17, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/179765) over 5 days, 133 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `BuildContext` docs to make it easier to understand
-  <sub>[#178616](https://github.com/flutter/flutter/pull/178616) merged on December 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178616) over 1 month, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
-
 * **[Adil Hanney](https://github.com/adil192)** &mdash; Add `Adwaita Sans` as a font fallback on Linux
   <sub>[#179144](https://github.com/flutter/flutter/pull/179144) merged on December 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179144) over 2 weeks, 5 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Bump minSdk to `24` in `engine`
-  <sub>[#175508](https://github.com/flutter/flutter/pull/175508) merged on December 15, 2025 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/175508) over 2 months, 38 additions and 108 deletions in 15 files</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Delete GLES framebuffer objects only on the thread where they were created
   <sub>[#179768](https://github.com/flutter/flutter/pull/179768) merged on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179768) over 3 days, 58 additions and 2 deletions in 4 files</sub>
@@ -99,6 +99,10 @@
   <sub>[#179912](https://github.com/flutter/flutter/pull/179912) merged on December 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179912) over 19 hours, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Clamps input value for progress indicator
+  <sub>[#179898](https://github.com/flutter/flutter/pull/179898) merged on December 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179898) over 1 day, 106 additions and 19 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15
   <sub>[#178601](https://github.com/flutter/flutter/pull/178601) merged on December 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178601) over 1 month, 9 additions and 2 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -127,9 +131,9 @@
   <sub>[#179884](https://github.com/flutter/flutter/pull/179884) merged on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179884) over 1 day, 37 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update window settings as they change rather than the more outdated "Apply" pattern.
-  <sub>[#179861](https://github.com/flutter/flutter/pull/179861) merged on December 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179861) over 18 hours, 36 additions and 13 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update more comments related to theme normalization
+  <sub>[#179682](https://github.com/flutter/flutter/pull/179682) merged on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179682) over 6 days, 51 additions and 40 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTextFormFieldRow doesn't crash in 0x0 envir…
   <sub>[#179932](https://github.com/flutter/flutter/pull/179932) merged on December 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179932) over 18 hours, 15 additions and 0 deletions in 1 file</sub>
@@ -143,21 +147,21 @@
   <sub>[#179865](https://github.com/flutter/flutter/pull/179865) merged on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179865) over 2 days, 15 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update window settings as they change rather than the more outdated "Apply" pattern.
+  <sub>[#179861](https://github.com/flutter/flutter/pull/179861) merged on December 15, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/179861) over 18 hours, 36 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoSwitch doesn't crash in 0x0 environment
   <sub>[#179748](https://github.com/flutter/flutter/pull/179748) merged on December 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179748) over 5 days, 11 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update more comments related to theme normalization
-  <sub>[#179682](https://github.com/flutter/flutter/pull/179682) merged on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179682) over 6 days, 51 additions and 40 deletions in 9 files</sub>
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add FloatingActionButtonTheme
+  <sub>[#179736](https://github.com/flutter/flutter/pull/179736) merged on December 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179736) over 6 days, 162 additions and 19 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Deduplicate wasm dry run entries in analytics.
   <sub>[#179970](https://github.com/flutter/flutter/pull/179970) merged on December 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179970) over 48 minutes, 30 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add FloatingActionButtonTheme
-  <sub>[#179736](https://github.com/flutter/flutter/pull/179736) merged on December 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179736) over 6 days, 162 additions and 19 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Platform View Hide/Show Integration test
   <sub>[#179902](https://github.com/flutter/flutter/pull/179902) merged on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179902) over 1 day, 152 additions and 0 deletions in 2 files</sub>
