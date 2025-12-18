@@ -149,3 +149,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove an obsolete TODO in DataTable<br />
   <sub>[#180033](https://github.com/flutter/flutter/pull/180033) opened on on December 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180033) 0 additions and 2 deletions in 1 file</sub><br />
 
+* **[David Iglesias](https://github.com/ditman)** &mdash; Add support for reduced motion/disable animations on the web<br />
+  <sub>[#180041](https://github.com/flutter/flutter/pull/180041) opened on on December 18, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180041) 276 additions and 26 deletions in 5 files</sub><br />
+
