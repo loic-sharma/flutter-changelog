@@ -36,10 +36,7 @@
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/177888) 484 additions and 43 deletions in 4 files</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; wires up SetSemanticsTreeEnabled to android accessibility bridge<br />
-  <sub>[#177954](https://github.com/flutter/flutter/pull/177954) opened on on November 3, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/177954) 165 additions and 5 deletions in 12 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/flutter/pull/177888) 484 additions and 43 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
@@ -79,9 +76,6 @@
 
 * **[Dharmarajsinh Jethva ](https://github.com/Goku-kun)** &mdash; Add clipboard-write permission to DartPad iframe in docs<br />
   <sub>[#179755](https://github.com/flutter/flutter/pull/179755) opened on on December 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179755) 3 additions and 2 deletions in 1 file</sub><br />
-
-* **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Fix crash in FlutterJSONMessageCodec when decoding invalid Unicode<br />
-  <sub>[#179775](https://github.com/flutter/flutter/pull/179775) opened on on December 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179775) 10 additions and 4 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/179810) 169 additions and 169 deletions in 10 files</sub><br />
@@ -143,9 +137,6 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add accessibilityAnnouncement matcher<br />
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) opened on on December 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180058) 129 additions and 42 deletions in 6 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tooltip support to PlatformMenuItem and PlatformMenu.<br />
-  <sub>[#180069](https://github.com/flutter/flutter/pull/180069) opened on on December 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180069) 181 additions and 70 deletions in 4 files</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
   <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
 
@@ -154,4 +145,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedCrossFade does not crash in 0x0 environment<br />
   <sub>[#180088](https://github.com/flutter/flutter/pull/180088) opened on on December 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180088) 19 additions and 0 deletions in 1 file</sub><br />
+
+* **[Jaime Wren](https://github.com/jwren)** &mdash; feat: Enhance running-apps with mDNS discovery, deduplication, and table output<br />
+  <sub>[#180098](https://github.com/flutter/flutter/pull/180098) opened on on December 18, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/180098) 958 additions and 8 deletions in 15 files</sub><br />
 
