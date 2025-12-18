@@ -158,3 +158,6 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add accessibilityAnnouncement matcher<br />
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) opened on on December 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180058) 129 additions and 42 deletions in 6 files</sub><br />
 
+* **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; fix: Enable mouse drag for RefreshIndicator.noSpinner example<br />
+  <sub>[#180066](https://github.com/flutter/flutter/pull/180066) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180066) 13 additions and 2 deletions in 1 file</sub><br />
+
