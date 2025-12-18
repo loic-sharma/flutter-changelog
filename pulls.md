@@ -95,9 +95,6 @@
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
-* **[ThinkMars](https://github.com/ThinkMars)** &mdash; Fix frequent clipboard access in TextField by adding status check<br />
-  <sub>[#179840](https://github.com/flutter/flutter/pull/179840) opened on on December 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179840) 8 additions and 2 deletions in 1 file</sub><br />
-
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Fix DecoratedSliver sample to avoid antialiasing gap<br />
   <sub>[#179848](https://github.com/flutter/flutter/pull/179848) opened on on December 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179848) 89 additions and 82 deletions in 2 files</sub><br />
 
@@ -116,9 +113,6 @@
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout<br />
   <sub>[#179881](https://github.com/flutter/flutter/pull/179881) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179881) 4 additions and 5 deletions in 2 files</sub><br />
 
-* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; fix: text selection two handles directionality.<br />
-  <sub>[#179928](https://github.com/flutter/flutter/pull/179928) opened on on December 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179928) 190 additions and 11 deletions in 2 files</sub><br />
-
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
   <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179935) 45 additions and 2 deletions in 9 files</sub><br />
 
@@ -131,14 +125,11 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; feat: Introduce FlutterStringUtils for sanitizing UTF-8 data and JSON escape sequences.<br />
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CupertinoTextSelectionToolbarButton doesn't crash in…<br />
-  <sub>[#179995](https://github.com/flutter/flutter/pull/179995) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179995) 13 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for sortable column behavior<br />
   <sub>[#180011](https://github.com/flutter/flutter/pull/180011) opened on on December 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180011) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Set text input purpose and hints on Linux platform<br />
-  <sub>[#180013](https://github.com/flutter/flutter/pull/180013) opened on on December 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180013) 98 additions and 13 deletions in 3 files</sub><br />
+  <sub>[#180013](https://github.com/flutter/flutter/pull/180013) opened on on December 17, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/180013) 463 additions and 17 deletions in 6 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; feat: enable const Container constructor<br />
   <sub>[#180029](https://github.com/flutter/flutter/pull/180029) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180029) 148 additions and 90 deletions in 4 files</sub><br />
