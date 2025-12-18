@@ -864,7 +864,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-9 commits.
+10 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Refactor AI Toolkit documentation to update LLM provider references a…
   <sub>[#12787](https://github.com/flutter/website/pull/12787) merged on December 16, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/website/pull/12787) over 1 week, 501 additions and 560 deletions in 5 files</sub>
@@ -889,6 +889,10 @@
 * **[Moritz Messner](https://github.com/MoritzMessner)** &mdash; Fix link to Very Good Engineering architecture documentation
   <sub>[#12835](https://github.com/flutter/website/pull/12835) merged on December 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12835) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Ultraslayyy](https://github.com/ultraslayyy)** &mdash; Update header in `using-packages` for better readability
+  <sub>[#12838](https://github.com/flutter/website/pull/12838) merged on December 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12838) over 12 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Andrew Brogdon](https://github.com/redbrogdon)** &mdash; Updating banner for livestream
   <sub>[#12836](https://github.com/flutter/website/pull/12836) merged on December 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12836) over 15 minutes, 3 additions and 2 deletions in 1 file</sub>
