@@ -717,7 +717,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-2 commits.
+3 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(android): add audio track selection for ExoPlayer<br />
   <sub>[#10312](https://github.com/flutter/packages/pull/10312) merged on December 16, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/10312) over 1 month, 1635 additions and 15 deletions in 19 files</sub><br />
@@ -726,6 +726,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 4<br />
   <sub>[#10440](https://github.com/flutter/packages/pull/10440) merged on December 18, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/10440) over 1 month, 202 additions and 482 deletions in 29 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [pigeon] Fix kotlin warning about calling bridge method<br />
+  <sub>[#10632](https://github.com/flutter/packages/pull/10632) merged on December 18, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/10632) over 2 days, 26 additions and 2 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### December 6, 2025 to December 12, 2025
 
