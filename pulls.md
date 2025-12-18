@@ -150,5 +150,5 @@
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) opened on on December 18, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/180098) 958 additions and 8 deletions in 15 files</sub><br />
 
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
-  <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180100) 212 additions and 51 deletions in 2 files</sub><br />
+  <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180100) 212 additions and 51 deletions in 2 files</sub><br />
 
