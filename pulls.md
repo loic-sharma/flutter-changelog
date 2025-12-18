@@ -36,7 +36,7 @@
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/flutter/pull/177888) 484 additions and 43 deletions in 4 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/177888) 522 additions and 43 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
@@ -148,4 +148,7 @@
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; feat: Enhance running-apps with mDNS discovery, deduplication, and table output<br />
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) opened on on December 18, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/180098) 958 additions and 8 deletions in 15 files</sub><br />
+
+* **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
+  <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180100) 212 additions and 51 deletions in 2 files</sub><br />
 
