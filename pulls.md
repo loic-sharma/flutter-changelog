@@ -147,5 +147,5 @@
   <sub>[#180088](https://github.com/flutter/flutter/pull/180088) opened on on December 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180088) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; feat: Enhance running-apps with mDNS discovery, deduplication, and table output<br />
-  <sub>[#180098](https://github.com/flutter/flutter/pull/180098) opened on on December 18, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/180098) 958 additions and 8 deletions in 15 files</sub><br />
+  <sub>[#180098](https://github.com/flutter/flutter/pull/180098) opened on on December 18, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/180098) 958 additions and 8 deletions in 15 files</sub><br />
 
