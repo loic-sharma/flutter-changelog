@@ -165,5 +165,8 @@
   <sub>[#180069](https://github.com/flutter/flutter/pull/180069) opened on on December 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180069) 181 additions and 70 deletions in 4 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
-  <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
+
+* **[Emmanuel](https://github.com/zemanux)** &mdash; Add RenderSliver.getMaxPaintRect<br />
+  <sub>[#180074](https://github.com/flutter/flutter/pull/180074) opened on on December 18, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/180074) 377 additions and 0 deletions in 2 files</sub><br />
 
