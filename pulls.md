@@ -153,7 +153,7 @@
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) opened on on December 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180058) 129 additions and 42 deletions in 6 files</sub><br />
 
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; fix: Enable mouse drag for RefreshIndicator.noSpinner example<br />
-  <sub>[#180066](https://github.com/flutter/flutter/pull/180066) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180066) 12 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#180066](https://github.com/flutter/flutter/pull/180066) opened on on December 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180066) 12 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tooltip support to PlatformMenuItem and PlatformMenu.<br />
   <sub>[#180069](https://github.com/flutter/flutter/pull/180069) opened on on December 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180069) 181 additions and 70 deletions in 4 files</sub><br />
