@@ -146,3 +146,6 @@
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; feat: enable const Container constructor<br />
   <sub>[#180029](https://github.com/flutter/flutter/pull/180029) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180029) 143 additions and 57 deletions in 2 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove an obsolete TODO in DataTable<br />
+  <sub>[#180033](https://github.com/flutter/flutter/pull/180033) opened on on December 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180033) 0 additions and 2 deletions in 1 file</sub><br />
+
