@@ -878,7 +878,7 @@
   <sub>[#12824](https://github.com/flutter/website/pull/12824) merged on December 17, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/website/pull/12824) over 2 days, 214 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Andrew Brogdon](https://github.com/redbrogdon), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
-* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update Flutter docs to reflect Hooks changes in Dart.<br />
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; [experiment] Update Flutter docs to reflect Hooks changes in Dart.<br />
   <sub>[#12830](https://github.com/flutter/website/pull/12830) merged on December 17, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/12830) over 22 hours, 116 additions and 33 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
