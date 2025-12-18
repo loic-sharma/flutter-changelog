@@ -164,3 +164,6 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add RenderSliver.getMaxPaintRect<br />
   <sub>[#180074](https://github.com/flutter/flutter/pull/180074) opened on on December 18, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180074) 378 additions and 0 deletions in 2 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedCrossFade does not crash in 0x0 environment<br />
+  <sub>[#180088](https://github.com/flutter/flutter/pull/180088) opened on on December 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180088) 19 additions and 0 deletions in 1 file</sub><br />
+
