@@ -726,7 +726,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-3 commits.
+4 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(android): add audio track selection for ExoPlayer
   <sub>[#10312](https://github.com/flutter/packages/pull/10312) merged on December 16, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/10312) over 1 month, 1635 additions and 15 deletions in 19 files</sub>
@@ -735,6 +735,10 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 4
   <sub>[#10440](https://github.com/flutter/packages/pull/10440) merged on December 18, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/10440) over 1 month, 202 additions and 482 deletions in 29 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [video_player_android] update pigeon to 26.1.5
+  <sub>[#10644](https://github.com/flutter/packages/pull/10644) merged on December 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10644) over 2 hours, 128 additions and 152 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [pigeon] Fix kotlin warning about calling bridge method
   <sub>[#10632](https://github.com/flutter/packages/pull/10632) merged on December 18, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/10632) over 2 days, 26 additions and 2 deletions in 6 files</sub>
