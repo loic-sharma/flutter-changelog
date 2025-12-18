@@ -138,7 +138,7 @@
   <sub>[#180011](https://github.com/flutter/flutter/pull/180011) opened on on December 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180011) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Set text input purpose and hints on Linux platform<br />
-  <sub>[#180013](https://github.com/flutter/flutter/pull/180013) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180013) 98 additions and 13 deletions in 3 files</sub><br />
+  <sub>[#180013](https://github.com/flutter/flutter/pull/180013) opened on on December 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180013) 98 additions and 13 deletions in 3 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add explicit `--cross-origin-isolation` flag to `flutter run`.<br />
   <sub>[#180026](https://github.com/flutter/flutter/pull/180026) opened on on December 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180026) 187 additions and 4 deletions in 10 files</sub><br />
@@ -159,5 +159,5 @@
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) opened on on December 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180058) 129 additions and 42 deletions in 6 files</sub><br />
 
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; fix: Enable mouse drag for RefreshIndicator.noSpinner example<br />
-  <sub>[#180066](https://github.com/flutter/flutter/pull/180066) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180066) 13 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#180066](https://github.com/flutter/flutter/pull/180066) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180066) 12 additions and 1 deletion in 1 file</sub><br />
 
