@@ -152,3 +152,6 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; Add support for reduced motion/disable animations on the web<br />
   <sub>[#180041](https://github.com/flutter/flutter/pull/180041) opened on on December 18, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180041) 276 additions and 26 deletions in 5 files</sub><br />
 
+* **[Emmanuel](https://github.com/zemanux)** &mdash; Add accessibilityAnnouncement matcher<br />
+  <sub>[#180058](https://github.com/flutter/flutter/pull/180058) opened on on December 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180058) 129 additions and 42 deletions in 6 files</sub><br />
+
