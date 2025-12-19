@@ -36,7 +36,7 @@
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/177888) 522 additions and 43 deletions in 4 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [44 comments](https://github.com/flutter/flutter/pull/177888) 522 additions and 43 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
@@ -169,9 +169,6 @@
 
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180131) 61 additions and 35 deletions in 2 files</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Partial update for `CHANGELOG` for 3.38.6 release<br />
-  <sub>[#180133](https://github.com/flutter/flutter/pull/180133) opened on on December 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180133) 8 additions and 1 deletion in 1 file</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use a libcxx abi namespace compatible with lldb<br />
   <sub>[#180134](https://github.com/flutter/flutter/pull/180134) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180134) 4 additions and 1 deletion in 1 file</sub><br />
