@@ -253,6 +253,10 @@
   <sub>[#175679](https://github.com/flutter/flutter/pull/175679) merged on December 11, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/175679) over 2 months, 1361 additions and 14 deletions in 27 files</sub>
   <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub>
 
+* **[Youssef Shamass](https://github.com/yshamass9)** &mdash; [ Tool ] Assemble: "Improper" validation error when dealing with base64 encoded dart-define value 
+  <sub>[#178737](https://github.com/flutter/flutter/pull/178737) merged on December 12, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/178737) over 3 weeks, 39 additions and 11 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[b-luk](https://github.com/b-luk)** &mdash; Use kPreventOverdraw for arcs with overlapping stroke caps
   <sub>[#179312](https://github.com/flutter/flutter/pull/179312) merged on December 11, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/179312) over 1 week, 218 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
@@ -266,10 +270,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Android implementation of content sizing
   <sub>[#176063](https://github.com/flutter/flutter/pull/176063) merged on December 8, 2025 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/176063) over 2 months, 439 additions and 17 deletions in 21 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Youssef Shamass](https://github.com/yshamass9)** &mdash; [ Tool ] Assemble: "Improper" validation error when dealing with base64 encoded dart-define value 
-  <sub>[#178737](https://github.com/flutter/flutter/pull/178737) merged on December 12, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/178737) over 3 weeks, 39 additions and 11 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Implements decodeImageFromPixelsSync
   <sub>[#179519](https://github.com/flutter/flutter/pull/179519) merged on December 12, 2025 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/179519) over 6 days, 585 additions and 14 deletions in 23 files</sub>
