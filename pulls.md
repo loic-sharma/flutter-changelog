@@ -120,7 +120,7 @@
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for sortable column behavior<br />
-  <sub>[#180011](https://github.com/flutter/flutter/pull/180011) opened on on December 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180011) 5 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180011](https://github.com/flutter/flutter/pull/180011) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180011) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Set text input purpose and hints on Linux platform<br />
   <sub>[#180013](https://github.com/flutter/flutter/pull/180013) opened on on December 17, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/180013) 463 additions and 17 deletions in 6 files</sub><br />
@@ -150,5 +150,5 @@
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) opened on on December 18, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/180098) 958 additions and 8 deletions in 15 files</sub><br />
 
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
-  <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180100) 212 additions and 51 deletions in 2 files</sub><br />
+  <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180100) 205 additions and 52 deletions in 2 files</sub><br />
 
