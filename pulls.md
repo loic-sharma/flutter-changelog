@@ -152,3 +152,6 @@
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180100) 205 additions and 52 deletions in 2 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Pass canaryFeatures to BuildSettings<br />
+  <sub>[#180108](https://github.com/flutter/flutter/pull/180108) opened on on December 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180108) 2 additions and 0 deletions in 1 file</sub><br />
+
