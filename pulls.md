@@ -170,3 +170,6 @@
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Copy vendored frameworks from plugin podspecs in ios/macos-framework builds<br />
   <sub>[#180135](https://github.com/flutter/flutter/pull/180135) opened on on December 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180135) 229 additions and 0 deletions in 3 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add UUID to registered DTD streams and services<br />
+  <sub>[#180140](https://github.com/flutter/flutter/pull/180140) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180140) 89 additions and 28 deletions in 10 files</sub><br />
+
