@@ -177,5 +177,5 @@
   <sub>[#180134](https://github.com/flutter/flutter/pull/180134) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180134) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Copy vendored frameworks from plugin podspecs in ios/macos-framework builds<br />
-  <sub>[#180135](https://github.com/flutter/flutter/pull/180135) opened on on December 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180135) 229 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#180135](https://github.com/flutter/flutter/pull/180135) opened on on December 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180135) 229 additions and 0 deletions in 3 files</sub><br />
 
