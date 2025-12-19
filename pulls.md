@@ -156,7 +156,7 @@
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180100) 205 additions and 52 deletions in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Pass canaryFeatures to BuildSettings<br />
-  <sub>[#180108](https://github.com/flutter/flutter/pull/180108) opened on on December 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180108) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180108](https://github.com/flutter/flutter/pull/180108) opened on on December 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180108) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove @RequiresApi annotation from FlutterFragment methods<br />
   <sub>[#180117](https://github.com/flutter/flutter/pull/180117) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180117) 0 additions and 5 deletions in 1 file</sub><br />
@@ -169,4 +169,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Web ] Pass `--enable-experimental-ffi` when compiling WASM tests<br />
   <sub>[#180127](https://github.com/flutter/flutter/pull/180127) opened on on December 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180127) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
+  <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180131) 53 additions and 32 deletions in 2 files</sub><br />
 
