@@ -167,9 +167,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix `FocusableActionDetector` example in DartPad not working with `ENTER` key<br />
   <sub>[#180119](https://github.com/flutter/flutter/pull/180119) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180119) 39 additions and 0 deletions in 2 files</sub><br />
 
-* **[Huy](https://github.com/huycozy)** &mdash; Expose the Scroll Controller of a scrollable TabBar<br />
-  <sub>[#180120](https://github.com/flutter/flutter/pull/180120) opened on on December 19, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/180120) 586 additions and 0 deletions in 6 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedList doesn't crash in 0x0 environment<br />
   <sub>[#180123](https://github.com/flutter/flutter/pull/180123) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180123) 12 additions and 0 deletions in 1 file</sub><br />
 
