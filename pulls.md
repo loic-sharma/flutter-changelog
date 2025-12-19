@@ -84,7 +84,7 @@
   <sub>[#179816](https://github.com/flutter/flutter/pull/179816) opened on on December 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179816) 18 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; Add table detailing AI rule file character limits for various tools<br />
-  <sub>[#179817](https://github.com/flutter/flutter/pull/179817) opened on on December 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179817) 17 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#179817](https://github.com/flutter/flutter/pull/179817) opened on on December 12, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/179817) 300 additions and 2 deletions in 4 files</sub><br />
 
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
