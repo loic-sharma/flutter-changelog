@@ -155,9 +155,6 @@
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180100) 205 additions and 52 deletions in 2 files</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Pass canaryFeatures to BuildSettings<br />
-  <sub>[#180108](https://github.com/flutter/flutter/pull/180108) opened on on December 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180108) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove @RequiresApi annotation from FlutterFragment methods<br />
   <sub>[#180117](https://github.com/flutter/flutter/pull/180117) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180117) 0 additions and 5 deletions in 1 file</sub><br />
 
@@ -171,11 +168,14 @@
   <sub>[#180127](https://github.com/flutter/flutter/pull/180127) opened on on December 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180127) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
-  <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180131) 53 additions and 32 deletions in 2 files</sub><br />
+  <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180131) 61 additions and 35 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Partial update for `CHANGELOG` for 3.38.6 release<br />
   <sub>[#180133](https://github.com/flutter/flutter/pull/180133) opened on on December 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180133) 8 additions and 1 deletion in 1 file</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use a libcxx abi namespace compatible with lldb<br />
   <sub>[#180134](https://github.com/flutter/flutter/pull/180134) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180134) 4 additions and 1 deletion in 1 file</sub><br />
+
+* **[Mohammed Tarig Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Copy vendored frameworks from plugin podspecs in ios/macos-framework builds<br />
+  <sub>[#180135](https://github.com/flutter/flutter/pull/180135) opened on on December 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180135) 229 additions and 0 deletions in 3 files</sub><br />
 
