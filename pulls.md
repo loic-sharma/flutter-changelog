@@ -161,3 +161,9 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Pass canaryFeatures to BuildSettings<br />
   <sub>[#180108](https://github.com/flutter/flutter/pull/180108) opened on on December 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180108) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove @RequiresApi annotation from FlutterFragment methods<br />
+  <sub>[#180117](https://github.com/flutter/flutter/pull/180117) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180117) 0 additions and 5 deletions in 1 file</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix `FocusableActionDetector` example in DartPad not working with `ENTER` key<br />
+  <sub>[#180119](https://github.com/flutter/flutter/pull/180119) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180119) 39 additions and 0 deletions in 2 files</sub><br />
+
