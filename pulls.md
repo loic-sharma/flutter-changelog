@@ -137,6 +137,12 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add accessibilityAnnouncement matcher<br />
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) opened on on December 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180058) 129 additions and 42 deletions in 6 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash;  Update `PlatformPlugin` to not call `setStatusBarColor`, `setNavigationBarColor`, `setNavigationBarDividerColor` when disabled<br />
+  <sub>[#180061](https://github.com/flutter/flutter/pull/180061) opened on on December 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180061) 12 additions and 6 deletions in 1 file</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Prevent calling `setStatusBarColor` on `API_35` and update related documentation<br />
+  <sub>[#180062](https://github.com/flutter/flutter/pull/180062) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180062) 8 additions and 3 deletions in 1 file</sub><br />
+
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
   <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
 
