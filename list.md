@@ -901,7 +901,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-10 commits.
+11 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Refactor AI Toolkit documentation to update LLM provider references a…
   <sub>[#12787](https://github.com/flutter/website/pull/12787) merged on December 16, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/website/pull/12787) over 1 week, 501 additions and 560 deletions in 5 files</sub>
@@ -942,6 +942,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; [3.41] Remove outdated deployment version section from iOS deployment docs
   <sub>[#12805](https://github.com/flutter/website/pull/12805) merged on December 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12805) over 5 days, 0 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Revert "Update Flutter docs to reflect Hooks changes in Dart. (#12830)"
+  <sub>[#12843](https://github.com/flutter/website/pull/12843) merged on December 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12843) over 17 hours, 33 additions and 116 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### December 6, 2025 to December 12, 2025
 
