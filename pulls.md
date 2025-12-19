@@ -168,5 +168,5 @@
   <sub>[#180123](https://github.com/flutter/flutter/pull/180123) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180123) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Web ] Pass `--enable-experimental-ffi` when compiling WASM tests<br />
-  <sub>[#180127](https://github.com/flutter/flutter/pull/180127) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180127) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#180127](https://github.com/flutter/flutter/pull/180127) opened on on December 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180127) 1 addition and 0 deletions in 1 file</sub><br />
 
