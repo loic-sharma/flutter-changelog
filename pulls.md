@@ -152,8 +152,14 @@
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180100) 205 additions and 52 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more  `requires 24` anotations<br />
+  <sub>[#180116](https://github.com/flutter/flutter/pull/180116) opened on on December 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180116) 1 addition and 11 deletions in 3 files</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove @RequiresApi annotation from FlutterFragment methods<br />
   <sub>[#180117](https://github.com/flutter/flutter/pull/180117) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180117) 0 additions and 5 deletions in 1 file</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter warnings in `AccessibilityBridgeTest.java‎`<br />
+  <sub>[#180118](https://github.com/flutter/flutter/pull/180118) opened on on December 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180118) 87 additions and 87 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix `FocusableActionDetector` example in DartPad not working with `ENTER` key<br />
   <sub>[#180119](https://github.com/flutter/flutter/pull/180119) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180119) 39 additions and 0 deletions in 2 files</sub><br />
@@ -172,4 +178,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add UUID to registered DTD streams and services<br />
   <sub>[#180140](https://github.com/flutter/flutter/pull/180140) opened on on December 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180140) 96 additions and 28 deletions in 11 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedGrid doesn't crash in 0x0 environment<br />
+  <sub>[#180159](https://github.com/flutter/flutter/pull/180159) opened on on December 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180159) 26 additions and 0 deletions in 1 file</sub><br />
 
