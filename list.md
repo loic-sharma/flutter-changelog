@@ -933,7 +933,7 @@
 
 ### December 13, 2025 to December 19, 2025
 
-13 commits.
+15 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Refactor AI Toolkit documentation to update LLM provider references a…
   <sub>[#12787](https://github.com/flutter/website/pull/12787) merged on December 16, 2025 &mdash; **Large:** [24 comments](https://github.com/flutter/website/pull/12787) over 1 week, 501 additions and 560 deletions in 5 files</sub>
@@ -958,6 +958,14 @@
 * **[Moritz Messner](https://github.com/MoritzMessner)** &mdash; Fix link to Very Good Engineering architecture documentation
   <sub>[#12835](https://github.com/flutter/website/pull/12835) merged on December 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12835) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor updates and fixes to MCP server page
+  <sub>[#12849](https://github.com/flutter/website/pull/12849) merged on December 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12849) over 1 day, 36 additions and 20 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix mention to Code OSS editors
+  <sub>[#12850](https://github.com/flutter/website/pull/12850) merged on December 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12850) over 1 day, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify Flutter SDK requirement in Android setup
   <sub>[#12848](https://github.com/flutter/website/pull/12848) merged on December 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12848) over 3 hours, 9 additions and 3 deletions in 1 file</sub>
