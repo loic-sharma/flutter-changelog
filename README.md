@@ -153,7 +153,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [reland] Unify canvas creation and Surface code in Skwasm and CanvasKit<br />
-  <sub>[#179473](https://github.com/flutter/flutter/pull/179473) merged on December 19, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/179473) over 2 weeks, 1697 additions and 1354 deletions in 38 files</sub><br />
+  <sub>[#179473](https://github.com/flutter/flutter/pull/179473) merged on December 19, 2025 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/179473) over 2 weeks, 1697 additions and 1354 deletions in 38 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; `flutter update-packages --force-upgrade --update-hashes`<br />
