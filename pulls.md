@@ -165,7 +165,7 @@
   <sub>[#180119](https://github.com/flutter/flutter/pull/180119) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180119) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedList doesn't crash in 0x0 environment<br />
-  <sub>[#180123](https://github.com/flutter/flutter/pull/180123) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180123) 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180123](https://github.com/flutter/flutter/pull/180123) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180123) 22 additions and 0 deletions in 1 file</sub><br />
 
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180131) 108 additions and 47 deletions in 2 files</sub><br />
