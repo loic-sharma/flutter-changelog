@@ -191,9 +191,6 @@
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Fix --no-hot flag not working on web-server<br />
   <sub>[#180166](https://github.com/flutter/flutter/pull/180166) opened on on December 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180166) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[ariel](https://github.com/logistmasterbra24)** &mdash; format: format hello_world example and tests<br />
-  <sub>[#180168](https://github.com/flutter/flutter/pull/180168) opened on on December 21, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/180168) 1486 additions and 300 deletions in 117 files</sub><br />
-
 * **[Kishimoto](https://github.com/Koichi5)** &mdash; Fix typo in dropdown_menu.dart<br />
   <sub>[#180172](https://github.com/flutter/flutter/pull/180172) opened on on December 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180172) 4 additions and 4 deletions in 1 file</sub><br />
 
