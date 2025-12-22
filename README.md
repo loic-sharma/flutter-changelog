@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 20, 2025 to December 26, 2025
+
+1 commits.
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove usages of Android's `AsyncTask` in favor of `java.util.concurrent`<br />
+  <sub>[#180050](https://github.com/flutter/flutter/pull/180050) merged on December 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180050) over 4 days, 22 additions and 23 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
 ### December 13, 2025 to December 19, 2025
 
-63 commits.
+<details>
+<summary>63 commits...</summary>
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Platform view blur clipping - Rounded Rect (iOS)<br />
   <sub>[#177551](https://github.com/flutter/flutter/pull/177551) merged on December 16, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/177551) over 1 month, 444 additions and 2 deletions in 22 files</sub><br />
@@ -259,6 +268,8 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Revert "chore: linux fuchsia tests are flaking"<br />
   <sub>[#179897](https://github.com/flutter/flutter/pull/179897) merged on December 16, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179897) over 8 hours, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+</details>
 
 ### December 6, 2025 to December 12, 2025
 
