@@ -4,10 +4,14 @@
 
 ### December 20, 2025 to December 26, 2025
 
-1 commits.
+2 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove usages of Android's `AsyncTask` in favor of `java.util.concurrent`<br />
   <sub>[#180050](https://github.com/flutter/flutter/pull/180050) merged on December 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180050) over 4 days, 22 additions and 23 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small clean up in `LocalizationPlugin`<br />
+  <sub>[#180053](https://github.com/flutter/flutter/pull/180053) merged on December 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180053) over 4 days, 1 addition and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### December 13, 2025 to December 19, 2025
@@ -598,12 +602,16 @@
 
 ### December 20, 2025 to December 26, 2025
 
-2 commits.
+3 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Add AI best practices and Crossword Companion docs<br />
   <sub>[#12853](https://github.com/flutter/website/pull/12853) merged on December 22, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/12853) over 2 days, 1216 additions and 0 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1669" height="1249" alt="Screenshot 2025-12-20 at 6 08 05 AM" src="https://github.com/user-attachments/assets/2aef74c5-5798-4c9d-942f-21c2df70ce23" /></details></sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Added Docs for AGP 9<br />
+  <sub>[#12825](https://github.com/flutter/website/pull/12825) merged on December 22, 2025 &mdash; **Small:** [85 comments](https://github.com/flutter/website/pull/12825) over 6 days, 158 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the banner<br />
   <sub>[#12854](https://github.com/flutter/website/pull/12854) merged on December 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12854) over 1 day, 2 additions and 3 deletions in 1 file</sub><br />
