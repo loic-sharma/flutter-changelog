@@ -197,3 +197,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSize doesn't crash in 0x0 environment<br />
   <sub>[#180174](https://github.com/flutter/flutter/pull/180174) opened on on December 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180174) 14 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSwitcher doesn't crash in 0x0 environment<br />
+  <sub>[#180190](https://github.com/flutter/flutter/pull/180190) opened on on December 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180190) 12 additions and 0 deletions in 1 file</sub><br />
+
