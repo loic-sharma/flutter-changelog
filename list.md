@@ -124,33 +124,33 @@
   <sub>[#179821](https://github.com/flutter/flutter/pull/179821) merged on December 15, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179821) over 2 days, 77 additions and 22 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup)</sub>
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: line endings for flutter/dart/flutter-dev
-  <sub>[#179912](https://github.com/flutter/flutter/pull/179912) merged on December 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179912) over 19 hours, 5 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove unnecessary RadioGroup migration TODOs
+  <sub>[#180105](https://github.com/flutter/flutter/pull/180105) merged on December 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180105) over 1 day, 0 additions and 11 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update the Material `IconAlignment` sample
   <sub>[#179159](https://github.com/flutter/flutter/pull/179159) merged on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179159) over 2 weeks, 126 additions and 133 deletions in 9 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Slider.showValueIndicator property.
-  <sub>[#179661](https://github.com/flutter/flutter/pull/179661) merged on December 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179661) over 1 week, 70 additions and 3 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15
-  <sub>[#178601](https://github.com/flutter/flutter/pull/178601) merged on December 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178601) over 1 month, 9 additions and 2 deletions in 8 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: line endings for flutter/dart/flutter-dev
+  <sub>[#179912](https://github.com/flutter/flutter/pull/179912) merged on December 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179912) over 19 hours, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add default-linux-sysroot to gn frontend args
   <sub>[#179303](https://github.com/flutter/flutter/pull/179303) merged on December 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179303) over 2 weeks, 17 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[LN Liberda](https://github.com/selfisekai)** &mdash; Minor fixes for libstdc++ 15
+  <sub>[#178601](https://github.com/flutter/flutter/pull/178601) merged on December 16, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178601) over 1 month, 9 additions and 2 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Slider.showValueIndicator property.
+  <sub>[#179661](https://github.com/flutter/flutter/pull/179661) merged on December 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179661) over 1 week, 70 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fix rotated image filter shader
   <sub>[#180027](https://github.com/flutter/flutter/pull/180027) merged on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180027) over 23 hours, 57 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [walley892](https://github.com/walley892)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove unnecessary RadioGroup migration TODOs
-  <sub>[#180105](https://github.com/flutter/flutter/pull/180105) merged on December 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180105) over 1 day, 0 additions and 11 deletions in 2 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Convert paths in ImpellerC command line flags to std::filesystem::path objects
   <sub>[#179717](https://github.com/flutter/flutter/pull/179717) merged on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179717) over 4 days, 64 additions and 61 deletions in 11 files</sub>
