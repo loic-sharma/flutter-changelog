@@ -4,7 +4,11 @@
 
 ### December 20, 2025 to December 26, 2025
 
-2 commits.
+3 commits.
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
+  <sub>[#178895](https://github.com/flutter/flutter/pull/178895) merged on December 22, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/178895) over 1 month, 409 additions and 24 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove usages of Android's `AsyncTask` in favor of `java.util.concurrent`<br />
   <sub>[#180050](https://github.com/flutter/flutter/pull/180050) merged on December 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180050) over 4 days, 22 additions and 23 deletions in 1 file</sub><br />
