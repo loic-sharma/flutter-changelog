@@ -4,12 +4,16 @@
 
 ### December 20, 2025 to December 26, 2025
 
-5 commits.
+7 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] iOS style blurring<br />
   <sub>[#175458](https://github.com/flutter/flutter/pull/175458) merged on December 23, 2025 &mdash; **Large:** [104 comments](https://github.com/flutter/flutter/pull/175458) over 3 months, 843 additions and 125 deletions in 35 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1008" height="557" alt="image" src="https://github.com/user-attachments/assets/202fa4a1-a61f-4357-9dce-73c545cf3b07" /><img height="557" alt="image" src="https://github.com/user-attachments/assets/0d544e6a-4c88-488d-84c3-60d617c9d614" /></details></sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; New optimized general convex path shadow algorithm<br />
+  <sub>[#178370](https://github.com/flutter/flutter/pull/178370) merged on December 23, 2025 &mdash; **Extra large:** [143 comments](https://github.com/flutter/flutter/pull/178370) over 1 month, 5351 additions and 111 deletions in 28 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) merged on December 22, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/178895) over 1 month, 409 additions and 24 deletions in 2 files</sub><br />
@@ -18,6 +22,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove usages of Android's `AsyncTask` in favor of `java.util.concurrent`<br />
   <sub>[#180050](https://github.com/flutter/flutter/pull/180050) merged on December 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180050) over 4 days, 22 additions and 23 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; docs: clarify dropdown menu text clearing<br />
+  <sub>[#179676](https://github.com/flutter/flutter/pull/179676) merged on December 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/179676) over 1 week, 15 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add SnackBarTheme<br />
   <sub>[#180001](https://github.com/flutter/flutter/pull/180001) merged on December 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180001) over 5 days, 198 additions and 30 deletions in 4 files</sub><br />
