@@ -540,9 +540,18 @@
 
 ## flutter/packages
 
+### December 20, 2025 to December 26, 2025
+
+1 commits.
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 5<br />
+  <sub>[#10641](https://github.com/flutter/packages/pull/10641) merged on December 23, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/10641) over 5 days, 215 additions and 218 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 ### December 13, 2025 to December 19, 2025
 
-5 commits.
+<details>
+<summary>5 commits...</summary>
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(android): add audio track selection for ExoPlayer<br />
   <sub>[#10312](https://github.com/flutter/packages/pull/10312) merged on December 16, 2025 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/10312) over 1 month, 1635 additions and 15 deletions in 19 files</sub><br />
@@ -563,6 +572,8 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [in_app_purchase_storekit] Fix Xcode 26.2 analyzer warnings<br />
   <sub>[#10649](https://github.com/flutter/packages/pull/10649) merged on December 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10649) over 18 hours, 8 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+</details>
 
 ### December 6, 2025 to December 12, 2025
 
