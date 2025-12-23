@@ -201,5 +201,5 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix resonant explosion of scroll disconnect when scrolling a pv in a list<br />
-  <sub>[#180246](https://github.com/flutter/flutter/pull/180246) opened on on December 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180246) 3 additions and 13 deletions in 1 file</sub><br />
+  <sub>[#180246](https://github.com/flutter/flutter/pull/180246) opened on on December 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180246) 2 additions and 22 deletions in 1 file</sub><br />
 
