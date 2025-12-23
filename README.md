@@ -4,7 +4,12 @@
 
 ### December 20, 2025 to December 26, 2025
 
-3 commits.
+4 commits.
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] iOS style blurring<br />
+  <sub>[#175458](https://github.com/flutter/flutter/pull/175458) merged on December 23, 2025 &mdash; **Large:** [104 comments](https://github.com/flutter/flutter/pull/175458) over 3 months, 843 additions and 125 deletions in 35 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="1008" height="557" alt="image" src="https://github.com/user-attachments/assets/202fa4a1-a61f-4357-9dce-73c545cf3b07" /><img height="557" alt="image" src="https://github.com/user-attachments/assets/0d544e6a-4c88-488d-84c3-60d617c9d614" /></details></sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) merged on December 22, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/178895) over 1 month, 409 additions and 24 deletions in 2 files</sub><br />
