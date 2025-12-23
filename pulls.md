@@ -194,3 +194,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSwitcher doesn't crash in 0x0 environment<br />
   <sub>[#180190](https://github.com/flutter/flutter/pull/180190) opened on on December 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180190) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a WidgetsApp doesn't crash in 0x0 environment<br />
+  <sub>[#180224](https://github.com/flutter/flutter/pull/180224) opened on on December 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180224) 11 additions and 0 deletions in 1 file</sub><br />
+

@@ -4,7 +4,7 @@
 
 ### December 20, 2025 to December 26, 2025
 
-4 commits.
+5 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] iOS style blurring<br />
   <sub>[#175458](https://github.com/flutter/flutter/pull/175458) merged on December 23, 2025 &mdash; **Large:** [104 comments](https://github.com/flutter/flutter/pull/175458) over 3 months, 843 additions and 125 deletions in 35 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove usages of Android's `AsyncTask` in favor of `java.util.concurrent`<br />
   <sub>[#180050](https://github.com/flutter/flutter/pull/180050) merged on December 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180050) over 4 days, 22 additions and 23 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add SnackBarTheme<br />
+  <sub>[#180001](https://github.com/flutter/flutter/pull/180001) merged on December 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180001) over 5 days, 198 additions and 30 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small clean up in `LocalizationPlugin`<br />
   <sub>[#180053](https://github.com/flutter/flutter/pull/180053) merged on December 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180053) over 4 days, 1 addition and 3 deletions in 1 file</sub><br />
