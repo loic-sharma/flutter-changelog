@@ -198,5 +198,5 @@
   <sub>[#180224](https://github.com/flutter/flutter/pull/180224) opened on on December 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180224) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds<br />
-  <sub>[#180234](https://github.com/flutter/flutter/pull/180234) opened on on December 23, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/180234) 329 additions and 94 deletions in 4 files</sub><br />
+  <sub>[#180234](https://github.com/flutter/flutter/pull/180234) opened on on December 23, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/180234) 329 additions and 94 deletions in 4 files</sub><br />
 
