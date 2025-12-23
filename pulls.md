@@ -197,3 +197,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a WidgetsApp doesn't crash in 0x0 environment<br />
   <sub>[#180224](https://github.com/flutter/flutter/pull/180224) opened on on December 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180224) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
+  <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
+
