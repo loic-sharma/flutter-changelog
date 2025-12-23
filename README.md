@@ -606,7 +606,7 @@
 
 ### December 20, 2025 to December 26, 2025
 
-3 commits.
+4 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Add AI best practices and Crossword Companion docs<br />
   <sub>[#12853](https://github.com/flutter/website/pull/12853) merged on December 22, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/12853) over 2 days, 1216 additions and 0 deletions in 14 files</sub><br />
@@ -616,6 +616,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Added Docs for AGP 9<br />
   <sub>[#12825](https://github.com/flutter/website/pull/12825) merged on December 22, 2025 &mdash; **Small:** [85 comments](https://github.com/flutter/website/pull/12825) over 6 days, 158 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Document `flutter create --template=package_ffi`<br />
+  <sub>[#12845](https://github.com/flutter/website/pull/12845) merged on December 23, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12845) over 3 days, 257 additions and 12 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the banner<br />
   <sub>[#12854](https://github.com/flutter/website/pull/12854) merged on December 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12854) over 1 day, 2 additions and 3 deletions in 1 file</sub><br />
