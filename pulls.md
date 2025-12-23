@@ -113,9 +113,6 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; feat: Introduce FlutterStringUtils for sanitizing UTF-8 data and JSON escape sequences.<br />
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for sortable column behavior<br />
-  <sub>[#180011](https://github.com/flutter/flutter/pull/180011) opened on on December 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180011) 5 additions and 0 deletions in 1 file</sub><br />
-
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; feat: enable const Container constructor<br />
   <sub>[#180029](https://github.com/flutter/flutter/pull/180029) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180029) 147 additions and 89 deletions in 3 files</sub><br />
 
@@ -201,5 +198,5 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix resonant explosion of scroll disconnect when scrolling a pv in a list<br />
-  <sub>[#180246](https://github.com/flutter/flutter/pull/180246) opened on on December 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180246) 2 additions and 22 deletions in 1 file</sub><br />
+  <sub>[#180246](https://github.com/flutter/flutter/pull/180246) opened on on December 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180246) 2 additions and 22 deletions in 1 file</sub><br />
 
