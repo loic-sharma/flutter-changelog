@@ -4,7 +4,7 @@
 
 ### December 20, 2025 to December 26, 2025
 
-8 commits.
+9 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] iOS style blurring<br />
   <sub>[#175458](https://github.com/flutter/flutter/pull/175458) merged on December 23, 2025 &mdash; **Large:** [104 comments](https://github.com/flutter/flutter/pull/175458) over 3 months, 843 additions and 125 deletions in 35 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) merged on December 22, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/178895) over 1 month, 409 additions and 24 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: exclude semantics for disabled dates<br />
+  <sub>[#178981](https://github.com/flutter/flutter/pull/178981) merged on December 24, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178981) over 1 month, 170 additions and 15 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for sortable column behavior<br />
   <sub>[#180011](https://github.com/flutter/flutter/pull/180011) merged on December 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180011) over 6 days, 5 additions and 0 deletions in 1 file</sub><br />
