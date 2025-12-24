@@ -185,3 +185,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix resonant explosion of scroll disconnect when scrolling a pv in a list<br />
   <sub>[#180246](https://github.com/flutter/flutter/pull/180246) opened on on December 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180246) 2 additions and 22 deletions in 1 file</sub><br />
 
+* **[William Callahan](https://github.com/WillCallahan)** &mdash; FLUTTER_BUILD_DIR environment variable - default to 'build' on macos<br />
+  <sub>[#180251](https://github.com/flutter/flutter/pull/180251) opened on on December 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180251) 55 additions and 2 deletions in 2 files</sub><br />
+
