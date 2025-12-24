@@ -4,7 +4,7 @@
 
 ### December 20, 2025 to December 26, 2025
 
-7 commits.
+8 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] iOS style blurring
   <sub>[#175458](https://github.com/flutter/flutter/pull/175458) merged on December 23, 2025 &mdash; **Large:** [104 comments](https://github.com/flutter/flutter/pull/175458) over 3 months, 843 additions and 125 deletions in 35 files</sub>
@@ -18,6 +18,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) merged on December 22, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/178895) over 1 month, 409 additions and 24 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for sortable column behavior
+  <sub>[#180011](https://github.com/flutter/flutter/pull/180011) merged on December 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180011) over 6 days, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove usages of Android's `AsyncTask` in favor of `java.util.concurrent`
   <sub>[#180050](https://github.com/flutter/flutter/pull/180050) merged on December 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180050) over 4 days, 22 additions and 23 deletions in 1 file</sub>
