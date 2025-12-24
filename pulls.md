@@ -194,3 +194,6 @@
 * **[Safwan Mamji](https://github.com/safwanidrees)** &mdash; Enhance the Stepper widget by adding customizable header and content padding<br />
   <sub>[#180257](https://github.com/flutter/flutter/pull/180257) opened on on December 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180257) 28 additions and 10 deletions in 1 file</sub><br />
 
+* **[GowsikRaja](https://github.com/gowsikraja)** &mdash; Add API sample and docs for Expansible widget<br />
+  <sub>[#180273](https://github.com/flutter/flutter/pull/180273) opened on on December 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180273) 105 additions and 0 deletions in 3 files</sub><br />
+
