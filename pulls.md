@@ -134,14 +134,11 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add RenderSliver.getMaxPaintRect<br />
   <sub>[#180074](https://github.com/flutter/flutter/pull/180074) opened on on December 18, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180074) 378 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedCrossFade does not crash in 0x0 environment<br />
-  <sub>[#180088](https://github.com/flutter/flutter/pull/180088) opened on on December 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180088) 19 additions and 0 deletions in 1 file</sub><br />
-
 * **[Jaime Wren](https://github.com/jwren)** &mdash; feat: Enhance running-apps with mDNS discovery, deduplication, and table output<br />
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) opened on on December 18, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/180098) 958 additions and 8 deletions in 15 files</sub><br />
 
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
-  <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180100) 205 additions and 52 deletions in 2 files</sub><br />
+  <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180100) 205 additions and 52 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more  `requires 24` anotations<br />
   <sub>[#180116](https://github.com/flutter/flutter/pull/180116) opened on on December 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180116) 1 addition and 11 deletions in 3 files</sub><br />
@@ -180,7 +177,7 @@
   <sub>[#180172](https://github.com/flutter/flutter/pull/180172) opened on on December 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180172) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSwitcher doesn't crash in 0x0 environment<br />
-  <sub>[#180190](https://github.com/flutter/flutter/pull/180190) opened on on December 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180190) 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180190](https://github.com/flutter/flutter/pull/180190) opened on on December 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180190) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
