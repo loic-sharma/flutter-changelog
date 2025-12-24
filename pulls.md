@@ -155,9 +155,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix `FocusableActionDetector` example in DartPad not working with `ENTER` key<br />
   <sub>[#180119](https://github.com/flutter/flutter/pull/180119) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180119) 39 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedList doesn't crash in 0x0 environment<br />
-  <sub>[#180123](https://github.com/flutter/flutter/pull/180123) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180123) 22 additions and 0 deletions in 1 file</sub><br />
-
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180131) 108 additions and 47 deletions in 2 files</sub><br />
 
@@ -170,9 +167,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add UUID to registered DTD streams and services<br />
   <sub>[#180140](https://github.com/flutter/flutter/pull/180140) opened on on December 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180140) 96 additions and 28 deletions in 11 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedGrid doesn't crash in 0x0 environment<br />
-  <sub>[#180159](https://github.com/flutter/flutter/pull/180159) opened on on December 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180159) 26 additions and 0 deletions in 1 file</sub><br />
-
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; docs(CupertinoSheetRoute): clarify fullscreenDialog is not applicable<br />
   <sub>[#180164](https://github.com/flutter/flutter/pull/180164) opened on on December 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180164) 8 additions and 0 deletions in 1 file</sub><br />
 
@@ -183,16 +177,10 @@
   <sub>[#180166](https://github.com/flutter/flutter/pull/180166) opened on on December 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180166) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishimoto](https://github.com/Koichi5)** &mdash; Fix typo in dropdown_menu.dart<br />
-  <sub>[#180172](https://github.com/flutter/flutter/pull/180172) opened on on December 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180172) 4 additions and 4 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSize doesn't crash in 0x0 environment<br />
-  <sub>[#180174](https://github.com/flutter/flutter/pull/180174) opened on on December 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180174) 14 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180172](https://github.com/flutter/flutter/pull/180172) opened on on December 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180172) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSwitcher doesn't crash in 0x0 environment<br />
-  <sub>[#180190](https://github.com/flutter/flutter/pull/180190) opened on on December 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180190) 12 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a WidgetsApp doesn't crash in 0x0 environment<br />
-  <sub>[#180224](https://github.com/flutter/flutter/pull/180224) opened on on December 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180224) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180190](https://github.com/flutter/flutter/pull/180190) opened on on December 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180190) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
