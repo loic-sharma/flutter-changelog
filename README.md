@@ -642,7 +642,7 @@
 
 ### December 20, 2025 to December 26, 2025
 
-4 commits.
+5 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Add AI best practices and Crossword Companion docs<br />
   <sub>[#12853](https://github.com/flutter/website/pull/12853) merged on December 22, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/12853) over 2 days, 1216 additions and 0 deletions in 14 files</sub><br />
@@ -652,6 +652,11 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Added Docs for AGP 9<br />
   <sub>[#12825](https://github.com/flutter/website/pull/12825) merged on December 22, 2025 &mdash; **Small:** [85 comments](https://github.com/flutter/website/pull/12825) over 6 days, 158 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[sabuncu](https://github.com/sabuncu)** &mdash; Remove unused import in widgets.md<br />
+  <sub>[#12855](https://github.com/flutter/website/pull/12855) merged on December 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12855) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="634" height="307" alt="2025-12-21 21-22-47-792 main dart_-_homepage_-_Visual_Studio_Code" src="https://github.com/user-attachments/assets/cd948894-de7b-4717-ac87-b2402338b7bd" /></details></sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Document `flutter create --template=package_ffi`<br />
   <sub>[#12845](https://github.com/flutter/website/pull/12845) merged on December 23, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12845) over 3 days, 257 additions and 12 deletions in 6 files</sub><br />
