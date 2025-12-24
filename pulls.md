@@ -198,5 +198,5 @@
   <sub>[#180273](https://github.com/flutter/flutter/pull/180273) opened on on December 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180273) 105 additions and 0 deletions in 3 files</sub><br />
 
 * **[Abbas](https://github.com/abbashosseinii)** &mdash; Fix selection accuracy for RTL/complex scripts in SelectableText<br />
-  <sub>[#180275](https://github.com/flutter/flutter/pull/180275) opened on on December 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180275) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#180275](https://github.com/flutter/flutter/pull/180275) opened on on December 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180275) 55 additions and 2 deletions in 2 files</sub><br />
 
