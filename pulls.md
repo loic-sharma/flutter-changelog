@@ -203,3 +203,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CheckedModeBanner doesn't crash in 0x0 environment<br />
   <sub>[#180280](https://github.com/flutter/flutter/pull/180280) opened on on December 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180280) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[Md Mushfiqur Rahim](https://github.com/MD-Mushfiqur123)** &mdash; add my name<br />
+  <sub>[#180284](https://github.com/flutter/flutter/pull/180284) opened on on December 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180284) 1 addition and 0 deletions in 1 file</sub><br />
+
