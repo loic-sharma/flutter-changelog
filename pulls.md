@@ -218,3 +218,6 @@
 * **[tradeguruboffin-commits](https://github.com/tradeguruboffin-commits)** &mdash; Created Update<br />
   <sub>[#180300](https://github.com/flutter/flutter/pull/180300) opened on on December 26, 2025 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/180300) 959 additions and 4 deletions in 39 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ColorFiltered doesn't crash 0x0 environment<br />
+  <sub>[#180307](https://github.com/flutter/flutter/pull/180307) opened on on December 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180307) 14 additions and 0 deletions in 1 file</sub><br />
+
