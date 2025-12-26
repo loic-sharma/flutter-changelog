@@ -177,7 +177,7 @@
   <sub>[#180172](https://github.com/flutter/flutter/pull/180172) opened on on December 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180172) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSwitcher doesn't crash in 0x0 environment<br />
-  <sub>[#180190](https://github.com/flutter/flutter/pull/180190) opened on on December 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180190) 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180190](https://github.com/flutter/flutter/pull/180190) opened on on December 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180190) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
@@ -188,9 +188,6 @@
 * **[William Callahan](https://github.com/WillCallahan)** &mdash; FLUTTER_BUILD_DIR environment variable - default to 'build' on macos<br />
   <sub>[#180251](https://github.com/flutter/flutter/pull/180251) opened on on December 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180251) 55 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Banner doesn't crash in 0x0 environment<br />
-  <sub>[#180254](https://github.com/flutter/flutter/pull/180254) opened on on December 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180254) 19 additions and 0 deletions in 1 file</sub><br />
-
 * **[Safwan Mamji](https://github.com/safwanidrees)** &mdash; Enhance the Stepper widget by adding customizable header and content padding<br />
   <sub>[#180257](https://github.com/flutter/flutter/pull/180257) opened on on December 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180257) 28 additions and 10 deletions in 1 file</sub><br />
 
@@ -199,9 +196,6 @@
 
 * **[Abbas](https://github.com/abbashosseinii)** &mdash; Fix selection accuracy for RTL/complex scripts in SelectableText<br />
   <sub>[#180275](https://github.com/flutter/flutter/pull/180275) opened on on December 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180275) 55 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CheckedModeBanner doesn't crash in 0x0 environment<br />
-  <sub>[#180280](https://github.com/flutter/flutter/pull/180280) opened on on December 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180280) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Md Mushfiqur Rahim](https://github.com/MD-Mushfiqur123)** &mdash; add my name<br />
   <sub>[#180284](https://github.com/flutter/flutter/pull/180284) opened on on December 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180284) 1 addition and 0 deletions in 1 file</sub><br />
@@ -217,7 +211,4 @@
 
 * **[tradeguruboffin-commits](https://github.com/tradeguruboffin-commits)** &mdash; Created Update<br />
   <sub>[#180300](https://github.com/flutter/flutter/pull/180300) opened on on December 26, 2025 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/180300) 959 additions and 4 deletions in 39 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ColorFiltered doesn't crash 0x0 environment<br />
-  <sub>[#180307](https://github.com/flutter/flutter/pull/180307) opened on on December 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180307) 14 additions and 0 deletions in 1 file</sub><br />
 
