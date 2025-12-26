@@ -212,3 +212,6 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine] fix missing virtual destructor in Codec base class<br />
   <sub>[#180288](https://github.com/flutter/flutter/pull/180288) opened on on December 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180288) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[tradeguruboffin-commits](https://github.com/tradeguruboffin-commits)** &mdash; Created Update<br />
+  <sub>[#180300](https://github.com/flutter/flutter/pull/180300) opened on on December 26, 2025 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/180300) 959 additions and 4 deletions in 39 files</sub><br />
+
