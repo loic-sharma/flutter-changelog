@@ -212,3 +212,6 @@
 * **[tradeguruboffin-commits](https://github.com/tradeguruboffin-commits)** &mdash; Created Update<br />
   <sub>[#180300](https://github.com/flutter/flutter/pull/180300) opened on on December 26, 2025 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/180300) 959 additions and 4 deletions in 39 files</sub><br />
 
+* **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Fix misleading error message for color/decoration conflict<br />
+  <sub>[#180325](https://github.com/flutter/flutter/pull/180325) opened on on December 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180325) 5 additions and 5 deletions in 2 files</sub><br />
+
