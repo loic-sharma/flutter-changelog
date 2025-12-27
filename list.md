@@ -662,7 +662,7 @@
 
 ### December 20, 2025 to December 26, 2025
 
-5 commits.
+6 commits.
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Add AI best practices and Crossword Companion docs
   <sub>[#12853](https://github.com/flutter/website/pull/12853) merged on December 22, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/12853) over 2 days, 1216 additions and 0 deletions in 14 files</sub>
@@ -681,6 +681,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Document `flutter create --template=package_ffi`
   <sub>[#12845](https://github.com/flutter/website/pull/12845) merged on December 23, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12845) over 3 days, 257 additions and 12 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[autorejecttop](https://github.com/autorejecttop)** &mdash; Update FlutterLogo link to correct documentation
+  <sub>[#12864](https://github.com/flutter/website/pull/12864) merged on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12864) over 7 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the banner
   <sub>[#12854](https://github.com/flutter/website/pull/12854) merged on December 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12854) over 1 day, 2 additions and 3 deletions in 1 file</sub>
