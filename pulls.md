@@ -215,3 +215,6 @@
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Fix misleading error message for color/decoration conflict<br />
   <sub>[#180325](https://github.com/flutter/flutter/pull/180325) opened on on December 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180325) 5 additions and 5 deletions in 2 files</sub><br />
 
+* **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Fix Drawer.child docstring to say ListView instead of SliverList<br />
+  <sub>[#180326](https://github.com/flutter/flutter/pull/180326) opened on on December 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180326) 1 addition and 1 deletion in 1 file</sub><br />
+
