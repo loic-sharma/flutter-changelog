@@ -224,3 +224,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DecoratedBox doesn't crash in 0x0 environment<br />
   <sub>[#180329](https://github.com/flutter/flutter/pull/180329) opened on on December 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180329) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add RawCircleAvatar<br />
+  <sub>[#180338](https://github.com/flutter/flutter/pull/180338) opened on on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180338) 187 additions and 76 deletions in 2 files</sub><br />
+
