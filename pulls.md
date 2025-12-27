@@ -230,3 +230,6 @@
 * **[Bjorn-Donald Bassey](https://github.com/bjorndonald)** &mdash; Modify the SemanticTab class to create <a> element when the node has …<br />
   <sub>[#180339](https://github.com/flutter/flutter/pull/180339) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180339) 113 additions and 1 deletion in 2 files</sub><br />
 
+* **[ashoknarayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message and update template<br />
+  <sub>[#180340](https://github.com/flutter/flutter/pull/180340) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180340) 3 additions and 2 deletions in 2 files</sub><br />
+
