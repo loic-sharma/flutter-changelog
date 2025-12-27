@@ -228,5 +228,5 @@
   <sub>[#180338](https://github.com/flutter/flutter/pull/180338) opened on on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180338) 187 additions and 76 deletions in 2 files</sub><br />
 
 * **[Bjorn-Donald Bassey](https://github.com/bjorndonald)** &mdash; Modify the SemanticTab class to create <a> element when the node has …<br />
-  <sub>[#180339](https://github.com/flutter/flutter/pull/180339) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180339) 28 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#180339](https://github.com/flutter/flutter/pull/180339) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180339) 113 additions and 1 deletion in 2 files</sub><br />
 
