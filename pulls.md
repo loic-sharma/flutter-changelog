@@ -218,6 +218,9 @@
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Fix Drawer.child docstring to say ListView instead of SliverList<br />
   <sub>[#180326](https://github.com/flutter/flutter/pull/180326) opened on on December 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180326) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix ImageStream reporting errors globally when no active listeners exist<br />
+  <sub>[#180327](https://github.com/flutter/flutter/pull/180327) opened on on December 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180327) 137 additions and 37 deletions in 5 files</sub><br />
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DecoratedBox doesn't crash in 0x0 environment<br />
   <sub>[#180329](https://github.com/flutter/flutter/pull/180329) opened on on December 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180329) 12 additions and 0 deletions in 1 file</sub><br />
 
