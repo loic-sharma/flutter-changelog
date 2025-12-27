@@ -233,3 +233,6 @@
 * **[ashoknarayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message and update template<br />
   <sub>[#180340](https://github.com/flutter/flutter/pull/180340) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180340) 3 additions and 2 deletions in 2 files</sub><br />
 
+* **[Divyansh Yagyik](https://github.com/divyanshyagyik)** &mdash; Add regression test for Slider inside TableRow<br />
+  <sub>[#180342](https://github.com/flutter/flutter/pull/180342) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180342) 29 additions and 0 deletions in 1 file</sub><br />
+
