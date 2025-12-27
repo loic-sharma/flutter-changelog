@@ -4,7 +4,7 @@
 
 ### December 20, 2025 to December 26, 2025
 
-13 commits.
+14 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] iOS style blurring<br />
   <sub>[#175458](https://github.com/flutter/flutter/pull/175458) merged on December 23, 2025 &mdash; **Large:** [104 comments](https://github.com/flutter/flutter/pull/175458) over 3 months, 843 additions and 125 deletions in 35 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add SnackBarTheme<br />
   <sub>[#180001](https://github.com/flutter/flutter/pull/180001) merged on December 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180001) over 5 days, 198 additions and 30 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a WidgetsApp doesn't crash in 0x0 environment<br />
+  <sub>[#180224](https://github.com/flutter/flutter/pull/180224) merged on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180224) over 3 days, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSize doesn't crash in 0x0 environment<br />
   <sub>[#180174](https://github.com/flutter/flutter/pull/180174) merged on December 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180174) over 5 days, 14 additions and 0 deletions in 1 file</sub><br />
