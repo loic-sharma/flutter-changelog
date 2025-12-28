@@ -236,3 +236,6 @@
 * **[Divyansh Yagyik](https://github.com/divyanshyagyik)** &mdash; Add regression test for Slider inside TableRow<br />
   <sub>[#180342](https://github.com/flutter/flutter/pull/180342) opened on on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180342) 18 additions and 1 deletion in 1 file</sub><br />
 
+* **[ashoknarayan](https://github.com/ashoknarayan)** &mdash; Fix a11y contrast for pre-test message in flutter_test<br />
+  <sub>[#180348](https://github.com/flutter/flutter/pull/180348) opened on on December 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180348) 3 additions and 3 deletions in 3 files</sub><br />
+
