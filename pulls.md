@@ -132,7 +132,7 @@
   <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
 
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add RenderSliver.getMaxPaintRect<br />
-  <sub>[#180074](https://github.com/flutter/flutter/pull/180074) opened on on December 18, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180074) 378 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#180074](https://github.com/flutter/flutter/pull/180074) opened on on December 18, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180074) 376 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; feat: Enhance running-apps with mDNS discovery, deduplication, and table output<br />
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) opened on on December 18, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/180098) 958 additions and 8 deletions in 15 files</sub><br />
