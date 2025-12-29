@@ -245,3 +245,6 @@
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Fix iOS xattr removal to clear all extended attributes<br />
   <sub>[#180355](https://github.com/flutter/flutter/pull/180355) opened on on December 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180355) 34 additions and 37 deletions in 7 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DisplayFeatureSubScreen doesn't crash in 0x0 environ…<br />
+  <sub>[#180357](https://github.com/flutter/flutter/pull/180357) opened on on December 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180357) 12 additions and 0 deletions in 1 file</sub><br />
+
