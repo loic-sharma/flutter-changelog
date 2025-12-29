@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 27, 2025 to January 2, 2026
+
+1 commits.
+
+* **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Shift-Delete, Ctrl-Insert and Shift-Insert<br />
+  <sub>[#178561](https://github.com/flutter/flutter/pull/178561) merged on December 29, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/178561) over 1 month, 119 additions and 9 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
 ### December 20, 2025 to December 26, 2025
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] iOS style blurring<br />
   <sub>[#175458](https://github.com/flutter/flutter/pull/175458) merged on December 23, 2025 &mdash; **Large:** [104 comments](https://github.com/flutter/flutter/pull/175458) over 3 months, 843 additions and 125 deletions in 35 files</sub><br />
@@ -62,6 +71,8 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small clean up in `LocalizationPlugin`<br />
   <sub>[#180053](https://github.com/flutter/flutter/pull/180053) merged on December 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180053) over 4 days, 1 addition and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+</details>
 
 ### December 13, 2025 to December 19, 2025
 
