@@ -242,3 +242,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Container doesn't crash in 0x0 environment<br />
   <sub>[#180350](https://github.com/flutter/flutter/pull/180350) opened on on December 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180350) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Fix iOS xattr removal to clear all extended attributes<br />
+  <sub>[#180355](https://github.com/flutter/flutter/pull/180355) opened on on December 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180355) 28 additions and 31 deletions in 6 files</sub><br />
+
