@@ -96,7 +96,7 @@
   <sub>[#179870](https://github.com/flutter/flutter/pull/179870) opened on on December 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179870) 11 additions and 9 deletions in 1 file</sub><br />
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only repaint views that need to be painted (with external texture & platform view support)<br />
-  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/179874) 515 additions and 23 deletions in 19 files</sub><br />
+  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179874) 515 additions and 23 deletions in 19 files</sub><br />
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout<br />
   <sub>[#179881](https://github.com/flutter/flutter/pull/179881) opened on on December 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179881) 4 additions and 5 deletions in 2 files</sub><br />
@@ -106,9 +106,6 @@
 
 * **[Roman Laptev](https://github.com/Carapacik)** &mdash; Roll `google_mobile_ads` and `webview_flutter_android`<br />
   <sub>[#179949](https://github.com/flutter/flutter/pull/179949) opened on on December 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179949) 11 additions and 12 deletions in 3 files</sub><br />
-
-* **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Update link to FlutterTest font generation script<br />
-  <sub>[#179957](https://github.com/flutter/flutter/pull/179957) opened on on December 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179957) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; feat: Introduce FlutterStringUtils for sanitizing UTF-8 data and JSON escape sequences.<br />
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
