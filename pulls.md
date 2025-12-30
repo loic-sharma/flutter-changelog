@@ -131,9 +131,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
   <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
 
-* **[Emmanuel](https://github.com/zemanux)** &mdash; Add RenderSliver.getMaxPaintRect<br />
-  <sub>[#180074](https://github.com/flutter/flutter/pull/180074) opened on on December 18, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180074) 376 additions and 0 deletions in 2 files</sub><br />
-
 * **[Jaime Wren](https://github.com/jwren)** &mdash; feat: Enhance running-apps with mDNS discovery, deduplication, and table output<br />
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) opened on on December 18, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/180098) 958 additions and 8 deletions in 15 files</sub><br />
 
@@ -233,26 +230,14 @@
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message and update template<br />
   <sub>[#180340](https://github.com/flutter/flutter/pull/180340) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180340) 3 additions and 2 deletions in 2 files</sub><br />
 
-* **[Divyansh Yagyik](https://github.com/divyanshyagyik)** &mdash; Add regression test for Slider inside TableRow<br />
-  <sub>[#180342](https://github.com/flutter/flutter/pull/180342) opened on on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180342) 18 additions and 1 deletion in 1 file</sub><br />
-
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix a11y contrast for pre-test message in flutter_test<br />
   <sub>[#180348](https://github.com/flutter/flutter/pull/180348) opened on on December 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180348) 3 additions and 3 deletions in 3 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Container doesn't crash in 0x0 environment<br />
-  <sub>[#180350](https://github.com/flutter/flutter/pull/180350) opened on on December 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180350) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Fix iOS xattr removal to clear all extended attributes<br />
   <sub>[#180355](https://github.com/flutter/flutter/pull/180355) opened on on December 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180355) 34 additions and 37 deletions in 7 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DisplayFeatureSubScreen doesn't crash in 0x0 environ…<br />
-  <sub>[#180357](https://github.com/flutter/flutter/pull/180357) opened on on December 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180357) 12 additions and 0 deletions in 1 file</sub><br />
-
 * **[Anish Tiwari](https://github.com/AnishTiwari5077)** &mdash; 180162 fix radio list tile and switch list tile accept widget states controller<br />
   <sub>[#180367](https://github.com/flutter/flutter/pull/180367) opened on on December 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180367) 86 additions and 1 deletion in 7 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Draggable doesn't crash in 0x0 environment<br />
-  <sub>[#180380](https://github.com/flutter/flutter/pull/180380) opened on on December 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180380) 23 additions and 0 deletions in 1 file</sub><br />
 
 * **[lllgm](https://github.com/LailaiMaster)** &mdash; fix(android): add null check for textInputPlugin in FlutterView<br />
   <sub>[#180386](https://github.com/flutter/flutter/pull/180386) opened on on December 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180386) 6 additions and 2 deletions in 1 file</sub><br />
