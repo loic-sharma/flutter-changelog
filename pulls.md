@@ -260,3 +260,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180389) 127 additions and 19 deletions in 2 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Resolve colorscheme.surface in page transitions builders<br />
+  <sub>[#180398](https://github.com/flutter/flutter/pull/180398) opened on on December 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180398) 9 additions and 1 deletion in 1 file</sub><br />
+
