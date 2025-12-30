@@ -4,7 +4,12 @@
 
 ### December 27, 2025 to January 2, 2026
 
-4 commits.
+5 commits.
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Framework] iOS style blurring and `ImageFilterConfig`<br />
+  <sub>[#175473](https://github.com/flutter/flutter/pull/175473) merged on December 30, 2025 &mdash; **Large:** [59 comments](https://github.com/flutter/flutter/pull/175473) over 3 months, 645 additions and 56 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="639" height="411" alt="image" src="https://github.com/user-attachments/assets/4ceb9620-1056-45c3-b5fa-2ed16d90aace" /><img width="639" height="411" alt="image" src="https://github.com/user-attachments/assets/abe564f7-ea60-4d07-ad58-063c0e3794a5" /></details></sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Test cross import lint<br />
   <sub>[#178693](https://github.com/flutter/flutter/pull/178693) merged on December 30, 2025 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/178693) over 1 month, 849 additions and 0 deletions in 3 files</sub><br />
