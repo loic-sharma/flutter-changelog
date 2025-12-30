@@ -4,7 +4,7 @@
 
 ### December 27, 2025 to January 2, 2026
 
-3 commits.
+4 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Test cross import lint<br />
   <sub>[#178693](https://github.com/flutter/flutter/pull/178693) merged on December 30, 2025 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/178693) over 1 month, 849 additions and 0 deletions in 3 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Shift-Delete, Ctrl-Insert and Shift-Insert<br />
   <sub>[#178561](https://github.com/flutter/flutter/pull/178561) merged on December 29, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/178561) over 1 month, 119 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[walley892](https://github.com/walley892)** &mdash; Fix issue with getUniformFloat crashing with hot reload<br />
+  <sub>[#180138](https://github.com/flutter/flutter/pull/180138) merged on December 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180138) over 1 week, 66 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 ### December 20, 2025 to December 26, 2025
 
