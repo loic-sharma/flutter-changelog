@@ -4,7 +4,11 @@
 
 ### December 27, 2025 to January 2, 2026
 
-1 commits.
+2 commits.
+
+* **[walley892](https://github.com/walley892)** &mdash; Allow setting vector uniforms by name.<br />
+  <sub>[#179927](https://github.com/flutter/flutter/pull/179927) merged on December 30, 2025 &mdash; **Large:** [49 comments](https://github.com/flutter/flutter/pull/179927) over 1 week, 485 additions and 48 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Shift-Delete, Ctrl-Insert and Shift-Insert<br />
   <sub>[#178561](https://github.com/flutter/flutter/pull/178561) merged on December 29, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/178561) over 1 month, 119 additions and 9 deletions in 2 files</sub><br />
