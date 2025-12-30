@@ -258,5 +258,5 @@
   <sub>[#180386](https://github.com/flutter/flutter/pull/180386) opened on on December 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180386) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarController<br />
-  <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180389) 56 additions and 19 deletions in 1 file</sub><br />
+  <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180389) 56 additions and 19 deletions in 1 file</sub><br />
 
