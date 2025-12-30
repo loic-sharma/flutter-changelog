@@ -249,7 +249,7 @@
   <sub>[#180357](https://github.com/flutter/flutter/pull/180357) opened on on December 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180357) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Anish Tiwari](https://github.com/AnishTiwari5077)** &mdash; 180162 fix radio list tile and switch list tile accept widget states controller<br />
-  <sub>[#180367](https://github.com/flutter/flutter/pull/180367) opened on on December 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180367) 81 additions and 0 deletions in 6 files</sub><br />
+  <sub>[#180367](https://github.com/flutter/flutter/pull/180367) opened on on December 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180367) 86 additions and 1 deletion in 7 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Draggable doesn't crash in 0x0 environment<br />
   <sub>[#180380](https://github.com/flutter/flutter/pull/180380) opened on on December 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180380) 23 additions and 0 deletions in 1 file</sub><br />
