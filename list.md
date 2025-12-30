@@ -4,7 +4,11 @@
 
 ### December 27, 2025 to January 2, 2026
 
-2 commits.
+3 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Test cross import lint
+  <sub>[#178693](https://github.com/flutter/flutter/pull/178693) merged on December 30, 2025 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/178693) over 1 month, 849 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Navaron Bracke](https://github.com/navaronbracke)</sub>
 
 * **[walley892](https://github.com/walley892)** &mdash; Allow setting vector uniforms by name.
   <sub>[#179927](https://github.com/flutter/flutter/pull/179927) merged on December 30, 2025 &mdash; **Large:** [49 comments](https://github.com/flutter/flutter/pull/179927) over 1 week, 485 additions and 48 deletions in 9 files</sub>
