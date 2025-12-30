@@ -146,9 +146,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter warnings in `AccessibilityBridgeTest.java‎`<br />
   <sub>[#180118](https://github.com/flutter/flutter/pull/180118) opened on on December 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180118) 87 additions and 87 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix `FocusableActionDetector` example in DartPad not working with `ENTER` key<br />
-  <sub>[#180119](https://github.com/flutter/flutter/pull/180119) opened on on December 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180119) 39 additions and 0 deletions in 2 files</sub><br />
-
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180131) 108 additions and 47 deletions in 2 files</sub><br />
 
@@ -218,20 +215,11 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix ImageStream reporting errors globally when no active listeners exist<br />
   <sub>[#180327](https://github.com/flutter/flutter/pull/180327) opened on on December 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180327) 137 additions and 37 deletions in 5 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DecoratedBox doesn't crash in 0x0 environment<br />
-  <sub>[#180329](https://github.com/flutter/flutter/pull/180329) opened on on December 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180329) 12 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add RawCircleAvatar<br />
   <sub>[#180338](https://github.com/flutter/flutter/pull/180338) opened on on December 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180338) 198 additions and 72 deletions in 3 files</sub><br />
 
 * **[Bjorn-Donald Bassey](https://github.com/bjorndonald)** &mdash; Modify the SemanticTab class to create <a> element when the node has …<br />
   <sub>[#180339](https://github.com/flutter/flutter/pull/180339) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180339) 113 additions and 1 deletion in 2 files</sub><br />
-
-* **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message and update template<br />
-  <sub>[#180340](https://github.com/flutter/flutter/pull/180340) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180340) 3 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix a11y contrast for pre-test message in flutter_test<br />
-  <sub>[#180348](https://github.com/flutter/flutter/pull/180348) opened on on December 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180348) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Fix iOS xattr removal to clear all extended attributes<br />
   <sub>[#180355](https://github.com/flutter/flutter/pull/180355) opened on on December 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180355) 34 additions and 37 deletions in 7 files</sub><br />
