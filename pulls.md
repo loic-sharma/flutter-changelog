@@ -257,6 +257,6 @@
 * **[lllgm](https://github.com/LailaiMaster)** &mdash; fix(android): add null check for textInputPlugin in FlutterView<br />
   <sub>[#180386](https://github.com/flutter/flutter/pull/180386) opened on on December 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180386) 6 additions and 2 deletions in 1 file</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarController<br />
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180389) 127 additions and 19 deletions in 2 files</sub><br />
 
