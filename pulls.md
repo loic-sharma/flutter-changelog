@@ -218,3 +218,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180389) 127 additions and 19 deletions in 2 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LongPressDraggable doesn't crash in 0x0 environment<br />
+  <sub>[#180408](https://github.com/flutter/flutter/pull/180408) opened on on December 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180408) 25 additions and 0 deletions in 1 file</sub><br />
+
