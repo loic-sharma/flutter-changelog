@@ -59,9 +59,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
   <sub>[#178931](https://github.com/flutter/flutter/pull/178931) opened on on November 21, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/178931) 2153 additions and 375 deletions in 25 files</sub><br />
 
-* **[rijan-rayamajhi](https://github.com/rijan-rayamajhi)** &mdash; Add Expansible example to Flutter Material samples<br />
-  <sub>[#178948](https://github.com/flutter/flutter/pull/178948) opened on on November 21, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/178948) 193 additions and 0 deletions in 2 files</sub><br />
-
 * **[Mulla Arsiya Tasleem](https://github.com/ArsiyaTasleem90250)** &mdash; Add unit tests for isEven utility function<br />
   <sub>[#179145](https://github.com/flutter/flutter/pull/179145) opened on on November 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179145) 15 additions and 0 deletions in 1 file</sub><br />
 
@@ -220,7 +217,4 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180389) 127 additions and 19 deletions in 2 files</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Resolve colorscheme.surface in page transitions builders<br />
-  <sub>[#180398](https://github.com/flutter/flutter/pull/180398) opened on on December 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180398) 9 additions and 1 deletion in 1 file</sub><br />
 
