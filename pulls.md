@@ -87,7 +87,7 @@
   <sub>[#179858](https://github.com/flutter/flutter/pull/179858) opened on on December 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179858) 41 additions and 4 deletions in 2 files</sub><br />
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only repaint views that need to be painted (with external texture & platform view support)<br />
-  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179874) 515 additions and 23 deletions in 19 files</sub><br />
+  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/179874) 518 additions and 23 deletions in 19 files</sub><br />
 
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
   <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179935) 45 additions and 2 deletions in 9 files</sub><br />
