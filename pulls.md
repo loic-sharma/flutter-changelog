@@ -215,6 +215,3 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LongPressDraggable doesn't crash in 0x0 environment<br />
   <sub>[#180408](https://github.com/flutter/flutter/pull/180408) opened on on December 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180408) 25 additions and 0 deletions in 1 file</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove @override annotations from things which are not overrides<br />
-  <sub>[#180417](https://github.com/flutter/flutter/pull/180417) opened on on December 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180417) 0 additions and 2 deletions in 2 files</sub><br />
-
