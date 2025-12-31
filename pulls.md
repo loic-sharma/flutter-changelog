@@ -215,6 +215,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LongPressDraggable doesn't crash in 0x0 environment<br />
   <sub>[#180408](https://github.com/flutter/flutter/pull/180408) opened on on December 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180408) 25 additions and 0 deletions in 1 file</sub><br />
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add cacheExtent to PageView<br />
+  <sub>[#180411](https://github.com/flutter/flutter/pull/180411) opened on on December 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180411) 280 additions and 11 deletions in 5 files</sub><br />
+
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; fix(windows): use wcsnlen for defensive programming (CWE-126)<br />
   <sub>[#180419](https://github.com/flutter/flutter/pull/180419) opened on on December 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180419) 9 additions and 5 deletions in 1 file</sub><br />
 
