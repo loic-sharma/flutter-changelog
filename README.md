@@ -4,7 +4,7 @@
 
 ### December 27, 2025 to January 2, 2026
 
-8 commits.
+9 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Framework] iOS style blurring and `ImageFilterConfig`<br />
   <sub>[#175473](https://github.com/flutter/flutter/pull/175473) merged on December 30, 2025 &mdash; **Large:** [59 comments](https://github.com/flutter/flutter/pull/175473) over 3 months, 645 additions and 56 deletions in 15 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Shift-Delete, Ctrl-Insert and Shift-Insert<br />
   <sub>[#178561](https://github.com/flutter/flutter/pull/178561) merged on December 29, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/178561) over 1 month, 119 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove @override annotations from things which are not overrides<br />
+  <sub>[#180417](https://github.com/flutter/flutter/pull/180417) merged on December 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180417) over 1 hour, 0 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DecoratedBox doesn't crash in 0x0 environment<br />
   <sub>[#180329](https://github.com/flutter/flutter/pull/180329) merged on December 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180329) over 3 days, 12 additions and 0 deletions in 1 file</sub><br />
