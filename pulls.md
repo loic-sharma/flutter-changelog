@@ -224,3 +224,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DragTarget doesn't crash in 0x0 environment<br />
   <sub>[#180422](https://github.com/flutter/flutter/pull/180422) opened on on January 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180422) 16 additions and 0 deletions in 1 file</sub><br />
 
+* **[Natan Sągol](https://github.com/merlinnot)** &mdash; fix(cmake): make native_assets install conditional<br />
+  <sub>[#180429](https://github.com/flutter/flutter/pull/180429) opened on on January 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180429) 75 additions and 45 deletions in 14 files</sub><br />
+
