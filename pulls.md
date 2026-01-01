@@ -96,7 +96,7 @@
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; feat: enable const Container constructor<br />
-  <sub>[#180029](https://github.com/flutter/flutter/pull/180029) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180029) 147 additions and 89 deletions in 3 files</sub><br />
+  <sub>[#180029](https://github.com/flutter/flutter/pull/180029) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180029) 143 additions and 98 deletions in 3 files</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Add support for reduced motion/disable animations on the web<br />
   <sub>[#180041](https://github.com/flutter/flutter/pull/180041) opened on on December 18, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180041) 276 additions and 26 deletions in 5 files</sub><br />
