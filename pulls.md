@@ -221,3 +221,6 @@
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; fix(windows): use wcsnlen for defensive programming (CWE-126)<br />
   <sub>[#180419](https://github.com/flutter/flutter/pull/180419) opened on on December 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180419) 9 additions and 5 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DragTarget doesn't crash in 0x0 environment<br />
+  <sub>[#180422](https://github.com/flutter/flutter/pull/180422) opened on on January 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180422) 16 additions and 0 deletions in 1 file</sub><br />
+
