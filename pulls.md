@@ -228,5 +228,5 @@
   <sub>[#180429](https://github.com/flutter/flutter/pull/180429) opened on on January 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180429) 75 additions and 45 deletions in 14 files</sub><br />
 
 * **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
-  <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180431) 51 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180431) 51 additions and 6 deletions in 2 files</sub><br />
 
