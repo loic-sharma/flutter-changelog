@@ -233,3 +233,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DraggableScrollableSheet doesn't crash in 0x0 enviro…<br />
   <sub>[#180433](https://github.com/flutter/flutter/pull/180433) opened on on January 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180433) 16 additions and 0 deletions in 1 file</sub><br />
 
+* **[bungeman](https://github.com/bungeman)** &mdash; Add SK_SUPPORT_LEGACY_UNSPANNED_GRADIENTS to SkUserConfig.h<br />
+  <sub>[#180443](https://github.com/flutter/flutter/pull/180443) opened on on January 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180443) 1 addition and 0 deletions in 1 file</sub><br />
+
