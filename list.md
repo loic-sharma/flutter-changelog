@@ -4,7 +4,7 @@
 
 ### December 27, 2025 to January 2, 2026
 
-10 commits.
+11 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Framework] iOS style blurring and `ImageFilterConfig`
   <sub>[#175473](https://github.com/flutter/flutter/pull/175473) merged on December 30, 2025 &mdash; **Large:** [59 comments](https://github.com/flutter/flutter/pull/175473) over 3 months, 645 additions and 56 deletions in 15 files</sub>
@@ -30,6 +30,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Some cleanup of cross library test imports
   <sub>[#177029](https://github.com/flutter/flutter/pull/177029) merged on January 2, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/177029) over 2 months, 236 additions and 297 deletions in 76 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Add SK_SUPPORT_LEGACY_UNSPANNED_GRADIENTS to SkUserConfig.h
+  <sub>[#180443](https://github.com/flutter/flutter/pull/180443) merged on January 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180443) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove @override annotations from things which are not overrides
   <sub>[#180417](https://github.com/flutter/flutter/pull/180417) merged on December 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180417) over 1 hour, 0 additions and 2 deletions in 2 files</sub>
