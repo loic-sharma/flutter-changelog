@@ -155,9 +155,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix resonant explosion of scroll disconnect when scrolling a pv in a list<br />
   <sub>[#180246](https://github.com/flutter/flutter/pull/180246) opened on on December 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180246) 2 additions and 22 deletions in 1 file</sub><br />
 
-* **[William Callahan](https://github.com/WillCallahan)** &mdash; FLUTTER_BUILD_DIR environment variable - default to 'build' on macos<br />
-  <sub>[#180251](https://github.com/flutter/flutter/pull/180251) opened on on December 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180251) 55 additions and 2 deletions in 2 files</sub><br />
-
 * **[Safwan Mamji](https://github.com/safwanidrees)** &mdash; Enhance the Stepper widget by adding customizable header and content padding<br />
   <sub>[#180257](https://github.com/flutter/flutter/pull/180257) opened on on December 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180257) 28 additions and 10 deletions in 1 file</sub><br />
 
@@ -193,9 +190,6 @@
 
 * **[Bjorn-Donald Bassey](https://github.com/bjorndonald)** &mdash; Modify the SemanticTab class to create <a> element when the node has …<br />
   <sub>[#180339](https://github.com/flutter/flutter/pull/180339) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180339) 113 additions and 1 deletion in 2 files</sub><br />
-
-* **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Fix iOS xattr removal to clear all extended attributes<br />
-  <sub>[#180355](https://github.com/flutter/flutter/pull/180355) opened on on December 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180355) 34 additions and 37 deletions in 7 files</sub><br />
 
 * **[Anish Tiwari](https://github.com/AnishTiwari5077)** &mdash; 180162 fix radio list tile and switch list tile accept widget states controller<br />
   <sub>[#180367](https://github.com/flutter/flutter/pull/180367) opened on on December 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180367) 86 additions and 1 deletion in 7 files</sub><br />
