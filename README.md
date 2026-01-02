@@ -4,7 +4,7 @@
 
 ### December 27, 2025 to January 2, 2026
 
-11 commits.
+12 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Framework] iOS style blurring and `ImageFilterConfig`<br />
   <sub>[#175473](https://github.com/flutter/flutter/pull/175473) merged on December 30, 2025 &mdash; **Large:** [59 comments](https://github.com/flutter/flutter/pull/175473) over 3 months, 645 additions and 56 deletions in 15 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Some cleanup of cross library test imports<br />
   <sub>[#177029](https://github.com/flutter/flutter/pull/177029) merged on January 2, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/177029) over 2 months, 236 additions and 297 deletions in 76 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Relands "Feat: Add a11y for loading indicators (#165173)"<br />
+  <sub>[#178402](https://github.com/flutter/flutter/pull/178402) merged on January 2, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/178402) over 1 month, 512 additions and 41 deletions in 27 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Add SK_SUPPORT_LEGACY_UNSPANNED_GRADIENTS to SkUserConfig.h<br />
   <sub>[#180443](https://github.com/flutter/flutter/pull/180443) merged on January 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180443) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
