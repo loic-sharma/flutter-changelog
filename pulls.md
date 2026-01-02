@@ -68,6 +68,9 @@
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
   <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Send statusBarTouch events via dedicated messages<br />
+  <sub>[#179643](https://github.com/flutter/flutter/pull/179643) opened on on December 9, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179643) 305 additions and 206 deletions in 18 files</sub><br />
+
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy non-const SkData APIs<br />
   <sub>[#179684](https://github.com/flutter/flutter/pull/179684) opened on on December 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179684) 2 additions and 2 deletions in 1 file</sub><br />
 
