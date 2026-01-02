@@ -36,7 +36,7 @@
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/177888) 523 additions and 43 deletions in 4 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/177888) 523 additions and 43 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
@@ -57,7 +57,7 @@
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
-  <sub>[#178931](https://github.com/flutter/flutter/pull/178931) opened on on November 21, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/178931) 2153 additions and 375 deletions in 25 files</sub><br />
+  <sub>[#178931](https://github.com/flutter/flutter/pull/178931) opened on on November 21, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) 2153 additions and 375 deletions in 25 files</sub><br />
 
 * **[Mulla Arsiya Tasleem](https://github.com/ArsiyaTasleem90250)** &mdash; Add unit tests for isEven utility function<br />
   <sub>[#179145](https://github.com/flutter/flutter/pull/179145) opened on on November 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179145) 15 additions and 0 deletions in 1 file</sub><br />
@@ -67,9 +67,6 @@
 
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
   <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Send statusBarTouch events via dedicated messages<br />
-  <sub>[#179643](https://github.com/flutter/flutter/pull/179643) opened on on December 9, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/179643) 305 additions and 206 deletions in 18 files</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy non-const SkData APIs<br />
   <sub>[#179684](https://github.com/flutter/flutter/pull/179684) opened on on December 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179684) 2 additions and 2 deletions in 1 file</sub><br />
@@ -133,9 +130,6 @@
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use a libcxx abi namespace compatible with lldb<br />
   <sub>[#180134](https://github.com/flutter/flutter/pull/180134) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180134) 4 additions and 1 deletion in 1 file</sub><br />
-
-* **[Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Copy vendored frameworks from plugin podspecs in ios/macos-framework builds<br />
-  <sub>[#180135](https://github.com/flutter/flutter/pull/180135) opened on on December 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180135) 229 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add UUID to registered DTD streams and services<br />
   <sub>[#180140](https://github.com/flutter/flutter/pull/180140) opened on on December 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180140) 96 additions and 28 deletions in 11 files</sub><br />
