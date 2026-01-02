@@ -4,7 +4,7 @@
 
 ### December 27, 2025 to January 2, 2026
 
-9 commits.
+10 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Framework] iOS style blurring and `ImageFilterConfig`
   <sub>[#175473](https://github.com/flutter/flutter/pull/175473) merged on December 30, 2025 &mdash; **Large:** [59 comments](https://github.com/flutter/flutter/pull/175473) over 3 months, 645 additions and 56 deletions in 15 files</sub>
@@ -26,6 +26,10 @@
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Shift-Delete, Ctrl-Insert and Shift-Insert
   <sub>[#178561](https://github.com/flutter/flutter/pull/178561) merged on December 29, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/178561) over 1 month, 119 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [Bruno Leroux](https://github.com/bleroux)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Some cleanup of cross library test imports
+  <sub>[#177029](https://github.com/flutter/flutter/pull/177029) merged on January 2, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/177029) over 2 months, 236 additions and 297 deletions in 76 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove @override annotations from things which are not overrides
   <sub>[#180417](https://github.com/flutter/flutter/pull/180417) merged on December 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180417) over 1 hour, 0 additions and 2 deletions in 2 files</sub>
