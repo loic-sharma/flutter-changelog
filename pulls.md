@@ -89,9 +89,6 @@
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
   <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/179935) 45 additions and 2 deletions in 9 files</sub><br />
 
-* **[Roman Laptev](https://github.com/Carapacik)** &mdash; Roll `google_mobile_ads` and `webview_flutter_android`<br />
-  <sub>[#179949](https://github.com/flutter/flutter/pull/179949) opened on on December 16, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179949) 11 additions and 12 deletions in 3 files</sub><br />
-
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; feat: Introduce FlutterStringUtils for sanitizing UTF-8 data and JSON escape sequences.<br />
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
 
