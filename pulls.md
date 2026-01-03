@@ -233,3 +233,6 @@
 * **[Abhi Kumar](https://github.com/abhistark007)** &mdash; Add lucy.txt file<br />
   <sub>[#180464](https://github.com/flutter/flutter/pull/180464) opened on on January 3, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/180464) 1 addition and 3569637 deletions in 15337 files</sub><br />
 
+* **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message to require leading v<br />
+  <sub>[#180467](https://github.com/flutter/flutter/pull/180467) opened on on January 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180467) 3 additions and 3 deletions in 2 files</sub><br />
+
