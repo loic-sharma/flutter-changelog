@@ -236,3 +236,6 @@
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message to require leading v<br />
   <sub>[#180467](https://github.com/flutter/flutter/pull/180467) opened on on January 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180467) 3 additions and 3 deletions in 2 files</sub><br />
 
+* **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Improve accessibility contrast for pre-test message<br />
+  <sub>[#180469](https://github.com/flutter/flutter/pull/180469) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180469) 1 addition and 1 deletion in 1 file</sub><br />
+
