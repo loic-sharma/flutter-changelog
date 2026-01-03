@@ -438,9 +438,18 @@
 
 ## flutter/website
 
+### December 27, 2025 to January 2, 2026
+
+1 commits.
+
+* **[Moritz Messner](https://github.com/MoritzMessner)** &mdash; Update link for Activity UI design article<br />
+  <sub>[#12875](https://github.com/flutter/website/pull/12875) merged on January 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12875) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### December 20, 2025 to December 26, 2025
 
-6 commits.
+<details>
+<summary>6 commits...</summary>
 
 * **[Chris Sells](https://github.com/csells)** &mdash; Add AI best practices and Crossword Companion docs<br />
   <sub>[#12853](https://github.com/flutter/website/pull/12853) merged on December 22, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/12853) over 2 days, 1216 additions and 0 deletions in 14 files</sub><br />
@@ -467,6 +476,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the banner<br />
   <sub>[#12854](https://github.com/flutter/website/pull/12854) merged on December 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12854) over 1 day, 2 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### December 13, 2025 to December 19, 2025
 
