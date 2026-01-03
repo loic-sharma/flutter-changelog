@@ -222,7 +222,7 @@
   <sub>[#180451](https://github.com/flutter/flutter/pull/180451) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180451) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
-  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180452) 11 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180452) 9 additions and 8 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix overshoot of paths of rounded superellipses at very large ratio<br />
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180453) 122 additions and 3 deletions in 3 files</sub><br />
