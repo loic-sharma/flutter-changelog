@@ -440,7 +440,11 @@
 
 ### December 27, 2025 to January 2, 2026
 
-1 commits.
+2 commits.
+
+* **[Moritz Messner](https://github.com/MoritzMessner)** &mdash; Fix broken link<br />
+  <sub>[#12874](https://github.com/flutter/website/pull/12874) merged on January 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12874) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Moritz Messner](https://github.com/MoritzMessner)** &mdash; Update link for Activity UI design article<br />
   <sub>[#12875](https://github.com/flutter/website/pull/12875) merged on January 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12875) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
