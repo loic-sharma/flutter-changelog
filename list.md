@@ -440,7 +440,11 @@
 
 ### December 27, 2025 to January 2, 2026
 
-2 commits.
+3 commits.
+
+* **[autorejecttop](https://github.com/autorejecttop)** &mdash; Fix unclosed parentheses error on "Create a widget to make buttons" code excerpt
+  <sub>[#12877](https://github.com/flutter/website/pull/12877) merged on January 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12877) over 16 hours, 2 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Moritz Messner](https://github.com/MoritzMessner)** &mdash; Fix broken link
   <sub>[#12874](https://github.com/flutter/website/pull/12874) merged on January 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12874) over 1 day, 1 addition and 1 deletion in 1 file</sub>
