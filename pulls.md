@@ -227,6 +227,3 @@
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
   <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180452) 9 additions and 8 deletions in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Add TestWidgetsApp utility and refactor widget tests to use WidgetsApp<br />
-  <sub>[#180456](https://github.com/flutter/flutter/pull/180456) opened on on January 3, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/180456) 362 additions and 323 deletions in 5 files</sub><br />
-
