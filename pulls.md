@@ -116,7 +116,7 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more  `requires 24` anotations<br />
   <sub>[#180116](https://github.com/flutter/flutter/pull/180116) opened on on December 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180116) 1 addition and 11 deletions in 3 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove @RequiresApi annotation from FlutterFragment methods<br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `@RequiresApi24` annotations from FlutterFragment methods<br />
   <sub>[#180117](https://github.com/flutter/flutter/pull/180117) opened on on December 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180117) 0 additions and 5 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter warnings in `AccessibilityBridgeTest.java‎`<br />
