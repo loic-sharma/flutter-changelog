@@ -218,3 +218,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DraggableScrollableSheet doesn't crash in 0x0 enviro…<br />
   <sub>[#180433](https://github.com/flutter/flutter/pull/180433) opened on on January 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180433) 16 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: clip ink highlights in NavigationDrawer when footer is present<br />
+  <sub>[#180451](https://github.com/flutter/flutter/pull/180451) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180451) 48 additions and 1 deletion in 2 files</sub><br />
+
