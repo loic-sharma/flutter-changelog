@@ -192,7 +192,7 @@
   <sub>[#180367](https://github.com/flutter/flutter/pull/180367) opened on on December 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180367) 86 additions and 1 deletion in 7 files</sub><br />
 
 * **[lllgm](https://github.com/LailaiMaster)** &mdash; fix(android): add null check for textInputPlugin in FlutterView<br />
-  <sub>[#180386](https://github.com/flutter/flutter/pull/180386) opened on on December 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180386) 6 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#180386](https://github.com/flutter/flutter/pull/180386) opened on on December 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180386) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/180389) 171 additions and 19 deletions in 2 files</sub><br />
@@ -222,7 +222,7 @@
   <sub>[#180451](https://github.com/flutter/flutter/pull/180451) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180451) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
-  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180452) 29 additions and 17 deletions in 1 file</sub><br />
+  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180452) 29 additions and 18 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an EditableText doesn't crash in 0x0 environment<br />
   <sub>[#180457](https://github.com/flutter/flutter/pull/180457) opened on on January 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180457) 24 additions and 0 deletions in 1 file</sub><br />
