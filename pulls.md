@@ -233,6 +233,9 @@
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Improve accessibility contrast for pre-test message<br />
   <sub>[#180469](https://github.com/flutter/flutter/pull/180469) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180469) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary semicolon in `InputConnectionAdaptor.java`<br />
+  <sub>[#180473](https://github.com/flutter/flutter/pull/180473) opened on on January 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180473) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanUp in `FlutterView.java`<br />
   <sub>[#180474](https://github.com/flutter/flutter/pull/180474) opened on on January 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180474) 8 additions and 10 deletions in 1 file</sub><br />
 
