@@ -192,7 +192,7 @@
   <sub>[#180367](https://github.com/flutter/flutter/pull/180367) opened on on December 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180367) 86 additions and 1 deletion in 7 files</sub><br />
 
 * **[lllgm](https://github.com/LailaiMaster)** &mdash; fix(android): add null check for textInputPlugin in FlutterView<br />
-  <sub>[#180386](https://github.com/flutter/flutter/pull/180386) opened on on December 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180386) 6 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#180386](https://github.com/flutter/flutter/pull/180386) opened on on December 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180386) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/180389) 171 additions and 19 deletions in 2 files</sub><br />
