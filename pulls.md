@@ -233,3 +233,6 @@
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Improve accessibility contrast for pre-test message<br />
   <sub>[#180469](https://github.com/flutter/flutter/pull/180469) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180469) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Expansible doesn't crash in 0x0 environment<br />
+  <sub>[#180478](https://github.com/flutter/flutter/pull/180478) opened on on January 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180478) 22 additions and 0 deletions in 1 file</sub><br />
+
