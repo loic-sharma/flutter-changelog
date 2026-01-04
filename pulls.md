@@ -242,6 +242,3 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Expansible doesn't crash in 0x0 environment<br />
   <sub>[#180478](https://github.com/flutter/flutter/pull/180478) opened on on January 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180478) 22 additions and 0 deletions in 1 file</sub><br />
 
-* **[Fazil](https://github.com/fazil-kp)** &mdash; Add isFlexible Parameter to Flexible and Expanded for Conditional Flex Participation<br />
-  <sub>[#180486](https://github.com/flutter/flutter/pull/180486) opened on on January 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180486) 99 additions and 14 deletions in 1 file</sub><br />
-
