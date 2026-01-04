@@ -243,5 +243,5 @@
   <sub>[#180478](https://github.com/flutter/flutter/pull/180478) opened on on January 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180478) 22 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment<br />
-  <sub>[#180487](https://github.com/flutter/flutter/pull/180487) opened on on January 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180487) 131 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#180487](https://github.com/flutter/flutter/pull/180487) opened on on January 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180487) 92 additions and 5 deletions in 2 files</sub><br />
 
