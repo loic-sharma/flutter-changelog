@@ -2,9 +2,19 @@
 
 ## flutter/flutter
 
+### January 3, 2026 to January 9, 2026
+
+1 commits.
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.<br />
+  <sub>[#179493](https://github.com/flutter/flutter/pull/179493) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179493) over 1 month, 87 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="481" height="515" alt="before" src="https://github.com/user-attachments/assets/c9644fed-4016-4dea-9e39-c5c5fa311cee" /><img width="481" height="515" alt="after" src="https://github.com/user-attachments/assets/f77629e3-4d7e-49fb-9e8f-d044e3dd348c" /></details></sub>
+
 ### December 27, 2025 to January 2, 2026
 
-12 commits.
+<details>
+<summary>12 commits...</summary>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Framework] iOS style blurring and `ImageFilterConfig`<br />
   <sub>[#175473](https://github.com/flutter/flutter/pull/175473) merged on December 30, 2025 &mdash; **Large:** [59 comments](https://github.com/flutter/flutter/pull/175473) over 3 months, 645 additions and 56 deletions in 15 files</sub><br />
@@ -54,6 +64,8 @@
 * **[walley892](https://github.com/walley892)** &mdash; Fix issue with getUniformFloat crashing with hot reload<br />
   <sub>[#180138](https://github.com/flutter/flutter/pull/180138) merged on December 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180138) over 1 week, 66 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+</details>
 
 ### December 20, 2025 to December 26, 2025
 
