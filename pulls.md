@@ -254,3 +254,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FadeInImage doesn't crash in 0x0 environment<br />
   <sub>[#180495](https://github.com/flutter/flutter/pull/180495) opened on on January 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180495) 17 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
+  <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
+
