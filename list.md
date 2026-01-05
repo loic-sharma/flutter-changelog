@@ -156,13 +156,24 @@
 
 ## flutter/packages
 
-### December 20, 2025 to December 26, 2025
+### January 3, 2026 to January 9, 2026
 
 1 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Pins github action commit hash
+  <sub>[#10599](https://github.com/flutter/packages/pull/10599) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10599) over 3 weeks, 76 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+### December 20, 2025 to December 26, 2025
+
+<details>
+<summary>1 commits...</summary>
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 5
   <sub>[#10641](https://github.com/flutter/packages/pull/10641) merged on December 23, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/10641) over 5 days, 215 additions and 218 deletions in 20 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+</details>
 
 ## flutter/website
 
