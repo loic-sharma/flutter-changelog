@@ -261,5 +261,5 @@
   <sub>[#180506](https://github.com/flutter/flutter/pull/180506) opened on on January 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180506) 21 additions and 22 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually bump dependencies<br />
-  <sub>[#180509](https://github.com/flutter/flutter/pull/180509) opened on on January 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180509) 35 additions and 35 deletions in 4 files</sub><br />
+  <sub>[#180509](https://github.com/flutter/flutter/pull/180509) opened on on January 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180509) 34 additions and 34 deletions in 4 files</sub><br />
 
