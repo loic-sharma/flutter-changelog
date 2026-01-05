@@ -113,9 +113,6 @@
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180131) 108 additions and 47 deletions in 2 files</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use a libcxx abi namespace compatible with lldb<br />
-  <sub>[#180134](https://github.com/flutter/flutter/pull/180134) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180134) 4 additions and 1 deletion in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add UUID to registered DTD streams and services<br />
   <sub>[#180140](https://github.com/flutter/flutter/pull/180140) opened on on December 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180140) 96 additions and 28 deletions in 11 files</sub><br />
 

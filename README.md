@@ -162,7 +162,11 @@
 
 ### January 3, 2026 to January 9, 2026
 
-1 commits.
+2 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release<br />
+  <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Pins github action commit hash<br />
   <sub>[#10599](https://github.com/flutter/packages/pull/10599) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10599) over 3 weeks, 76 additions and 4 deletions in 4 files</sub><br />
