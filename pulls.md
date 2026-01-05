@@ -117,7 +117,7 @@
   <sub>[#180134](https://github.com/flutter/flutter/pull/180134) opened on on December 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180134) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add UUID to registered DTD streams and services<br />
-  <sub>[#180140](https://github.com/flutter/flutter/pull/180140) opened on on December 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180140) 96 additions and 28 deletions in 11 files</sub><br />
+  <sub>[#180140](https://github.com/flutter/flutter/pull/180140) opened on on December 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180140) 96 additions and 28 deletions in 11 files</sub><br />
 
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; docs(CupertinoSheetRoute): clarify fullscreenDialog is not applicable<br />
   <sub>[#180164](https://github.com/flutter/flutter/pull/180164) opened on on December 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180164) 8 additions and 0 deletions in 1 file</sub><br />
@@ -232,9 +232,6 @@
 
 * **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
   <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
-
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove material import from `opacity_test.dart`<br />
-  <sub>[#180506](https://github.com/flutter/flutter/pull/180506) opened on on January 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180506) 21 additions and 22 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually bump dependencies<br />
   <sub>[#180509](https://github.com/flutter/flutter/pull/180509) opened on on January 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180509) 34 additions and 34 deletions in 4 files</sub><br />
