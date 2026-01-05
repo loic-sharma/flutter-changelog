@@ -101,9 +101,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
   <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
 
-* **[Jaime Wren](https://github.com/jwren)** &mdash; feat: Enhance running-apps with mDNS discovery, deduplication, and table output<br />
-  <sub>[#180098](https://github.com/flutter/flutter/pull/180098) opened on on December 18, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/180098) 959 additions and 9 deletions in 15 files</sub><br />
-
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180100) 205 additions and 52 deletions in 2 files</sub><br />
 
@@ -139,9 +136,6 @@
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix resonant explosion of scroll disconnect when scrolling a pv in a list<br />
-  <sub>[#180246](https://github.com/flutter/flutter/pull/180246) opened on on December 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180246) 2 additions and 22 deletions in 1 file</sub><br />
 
 * **[Safwan Mamji](https://github.com/safwanidrees)** &mdash; Enhance the Stepper widget by adding customizable header and content padding<br />
   <sub>[#180257](https://github.com/flutter/flutter/pull/180257) opened on on December 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180257) 28 additions and 10 deletions in 1 file</sub><br />
