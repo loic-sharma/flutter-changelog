@@ -219,7 +219,7 @@
   <sub>[#180433](https://github.com/flutter/flutter/pull/180433) opened on on January 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180433) 16 additions and 0 deletions in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix IME and selection by syncing text metrics<br />
-  <sub>[#180436](https://github.com/flutter/flutter/pull/180436) opened on on January 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180436) 227 additions and 10 deletions in 6 files</sub><br />
+  <sub>[#180436](https://github.com/flutter/flutter/pull/180436) opened on on January 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180436) 228 additions and 10 deletions in 6 files</sub><br />
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: clip ink highlights in NavigationDrawer when footer is present<br />
   <sub>[#180451](https://github.com/flutter/flutter/pull/180451) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180451) 48 additions and 1 deletion in 2 files</sub><br />
