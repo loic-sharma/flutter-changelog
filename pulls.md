@@ -257,6 +257,9 @@
 * **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
   <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove material import from `opacity_test.dart`<br />
+  <sub>[#180506](https://github.com/flutter/flutter/pull/180506) opened on on January 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180506) 21 additions and 22 deletions in 2 files</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually bump dependencies<br />
   <sub>[#180509](https://github.com/flutter/flutter/pull/180509) opened on on January 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180509) 35 additions and 35 deletions in 4 files</sub><br />
 
