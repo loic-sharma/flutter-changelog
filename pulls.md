@@ -248,3 +248,6 @@
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment<br />
   <sub>[#180487](https://github.com/flutter/flutter/pull/180487) opened on on January 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180487) 92 additions and 5 deletions in 2 files</sub><br />
 
+* **[Zaw Htet Naing](https://github.com/zawhtetnaing10)** &mdash; Added renderOriginalImage flag which allows ImageIcon to bypass IconTheme colorization and render original image colors<br />
+  <sub>[#180491](https://github.com/flutter/flutter/pull/180491) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180491) 48 additions and 2 deletions in 2 files</sub><br />
+
