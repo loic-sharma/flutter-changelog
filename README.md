@@ -187,7 +187,11 @@
 
 ### January 3, 2026 to January 9, 2026
 
-1 commits.
+2 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: update GenUI docs for 0.6.0<br />
+  <sub>[#12883](https://github.com/flutter/website/pull/12883) merged on January 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12883) over 1 hour, 35 additions and 26 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix(docs): Add Groovy syntax tabs to Android deployment guide (fixes #12793)<br />
   <sub>[#12863](https://github.com/flutter/website/pull/12863) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12863) over 1 week, 128 additions and 49 deletions in 1 file</sub><br />
