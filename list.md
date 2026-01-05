@@ -33,6 +33,10 @@
   <sub>[#179927](https://github.com/flutter/flutter/pull/179927) merged on December 30, 2025 &mdash; **Large:** [49 comments](https://github.com/flutter/flutter/pull/179927) over 1 week, 485 additions and 48 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub>
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Some cleanup of cross library test imports
+  <sub>[#177029](https://github.com/flutter/flutter/pull/177029) merged on January 2, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/177029) over 2 months, 236 additions and 297 deletions in 76 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
 * **[Илия](https://github.com/777genius)** &mdash; Improve Container color/decoration error message clarity
   <sub>[#178823](https://github.com/flutter/flutter/pull/178823) merged on December 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178823) over 1 month, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
@@ -40,10 +44,6 @@
 * **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Shift-Delete, Ctrl-Insert and Shift-Insert
   <sub>[#178561](https://github.com/flutter/flutter/pull/178561) merged on December 29, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/178561) over 1 month, 119 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [Bruno Leroux](https://github.com/bleroux)</sub>
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Some cleanup of cross library test imports
-  <sub>[#177029](https://github.com/flutter/flutter/pull/177029) merged on January 2, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/177029) over 2 months, 236 additions and 297 deletions in 76 files</sub>
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relands "Feat: Add a11y for loading indicators (#165173)"
   <sub>[#178402](https://github.com/flutter/flutter/pull/178402) merged on January 2, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/178402) over 1 month, 512 additions and 41 deletions in 27 files</sub>
