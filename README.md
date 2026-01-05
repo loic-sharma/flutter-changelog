@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-9 commits.
+10 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.<br />
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179493) over 1 month, 87 additions and 0 deletions in 2 files</sub><br />
@@ -19,6 +19,10 @@
   <sub>[#180118](https://github.com/flutter/flutter/pull/180118) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180118) over 2 weeks, 87 additions and 87 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>3 images...</summary><img width="466" height="41" alt="linter_warnings" src="https://github.com/user-attachments/assets/4400d046-a505-4e03-9bbf-8a965a8cb572" /><img width="129" height="60" alt="after" src="https://github.com/user-attachments/assets/8b90888e-a275-4008-a2fb-1b8c5522b389" /><img width="102" height="49" alt="after_1" src="https://github.com/user-attachments/assets/f7927a73-4a7e-45ab-8984-507371fb40c5" /></details></sub>
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add the existing compute unit tests to the build<br />
+  <sub>[#179689](https://github.com/flutter/flutter/pull/179689) merged on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179689) over 3 weeks, 18 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use a libcxx abi namespace compatible with lldb<br />
   <sub>[#180134](https://github.com/flutter/flutter/pull/180134) merged on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180134) over 2 weeks, 4 additions and 1 deletion in 1 file</sub><br />
