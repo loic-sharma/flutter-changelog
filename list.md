@@ -4,12 +4,16 @@
 
 ### January 3, 2026 to January 9, 2026
 
-1 commits.
+2 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179493) over 1 month, 87 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary><img width="481" height="515" alt="before" src="https://github.com/user-attachments/assets/c9644fed-4016-4dea-9e39-c5c5fa311cee" /><img width="481" height="515" alt="after" src="https://github.com/user-attachments/assets/f77629e3-4d7e-49fb-9e8f-d044e3dd348c" /></details></sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump deps of hooks,code_assets,native_toolchain_c
+  <sub>[#180504](https://github.com/flutter/flutter/pull/180504) merged on January 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180504) over 44 minutes, 10 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
 
 ### December 27, 2025 to January 2, 2026
 
