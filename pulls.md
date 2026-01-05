@@ -51,7 +51,7 @@
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
@@ -177,7 +177,7 @@
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/180389) 171 additions and 19 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LongPressDraggable doesn't crash in 0x0 environment<br />
-  <sub>[#180408](https://github.com/flutter/flutter/pull/180408) opened on on December 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180408) 25 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180408](https://github.com/flutter/flutter/pull/180408) opened on on December 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180408) 25 additions and 0 deletions in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add cacheExtent to PageView<br />
   <sub>[#180411](https://github.com/flutter/flutter/pull/180411) opened on on December 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180411) 280 additions and 11 deletions in 5 files</sub><br />
@@ -185,17 +185,11 @@
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; fix(windows): use wcsnlen for defensive programming (CWE-126)<br />
   <sub>[#180419](https://github.com/flutter/flutter/pull/180419) opened on on December 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180419) 9 additions and 5 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DragTarget doesn't crash in 0x0 environment<br />
-  <sub>[#180422](https://github.com/flutter/flutter/pull/180422) opened on on January 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180422) 16 additions and 0 deletions in 1 file</sub><br />
-
 * **[Natan Sągol](https://github.com/merlinnot)** &mdash; fix(cmake): make native_assets install conditional<br />
   <sub>[#180429](https://github.com/flutter/flutter/pull/180429) opened on on January 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180429) 75 additions and 45 deletions in 14 files</sub><br />
 
 * **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
   <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/180431) 44 additions and 6 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DraggableScrollableSheet doesn't crash in 0x0 enviro…<br />
-  <sub>[#180433](https://github.com/flutter/flutter/pull/180433) opened on on January 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180433) 16 additions and 0 deletions in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix IME and selection by syncing text metrics<br />
   <sub>[#180436](https://github.com/flutter/flutter/pull/180436) opened on on January 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180436) 228 additions and 10 deletions in 6 files</sub><br />
@@ -206,17 +200,11 @@
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
   <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180452) 18 additions and 25 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an EditableText doesn't crash in 0x0 environment<br />
-  <sub>[#180457](https://github.com/flutter/flutter/pull/180457) opened on on January 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180457) 24 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message to require leading v<br />
   <sub>[#180467](https://github.com/flutter/flutter/pull/180467) opened on on January 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180467) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Improve accessibility contrast for pre-test message<br />
   <sub>[#180469](https://github.com/flutter/flutter/pull/180469) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180469) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Expansible doesn't crash in 0x0 environment<br />
-  <sub>[#180478](https://github.com/flutter/flutter/pull/180478) opened on on January 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180478) 22 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment<br />
   <sub>[#180487](https://github.com/flutter/flutter/pull/180487) opened on on January 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180487) 87 additions and 5 deletions in 2 files</sub><br />
