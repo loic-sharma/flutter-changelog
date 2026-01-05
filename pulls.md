@@ -198,7 +198,7 @@
   <sub>[#180451](https://github.com/flutter/flutter/pull/180451) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180451) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
-  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180452) 18 additions and 25 deletions in 1 file</sub><br />
+  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180452) 15 additions and 21 deletions in 1 file</sub><br />
 
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message to require leading v<br />
   <sub>[#180467](https://github.com/flutter/flutter/pull/180467) opened on on January 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180467) 3 additions and 3 deletions in 2 files</sub><br />
