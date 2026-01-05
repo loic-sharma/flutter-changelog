@@ -242,3 +242,6 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; New isSemantics and deprecate containsSemantics<br />
   <sub>[#180538](https://github.com/flutter/flutter/pull/180538) opened on on January 5, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180538) 291 additions and 87 deletions in 12 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a null check for embedded view being added to accessibility tree<br />
+  <sub>[#180539](https://github.com/flutter/flutter/pull/180539) opened on on January 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180539) 47 additions and 6 deletions in 2 files</sub><br />
+
