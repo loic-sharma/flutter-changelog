@@ -185,9 +185,18 @@
 
 ## flutter/website
 
+### January 3, 2026 to January 9, 2026
+
+1 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix(docs): Add Groovy syntax tabs to Android deployment guide (fixes #12793)
+  <sub>[#12863](https://github.com/flutter/website/pull/12863) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12863) over 1 week, 128 additions and 49 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### December 27, 2025 to January 2, 2026
 
-3 commits.
+<details>
+<summary>3 commits...</summary>
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Fix unclosed parentheses error on "Create a widget to make buttons" code excerpt
   <sub>[#12877](https://github.com/flutter/website/pull/12877) merged on January 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12877) over 16 hours, 2 additions and 4 deletions in 2 files</sub>
@@ -200,6 +209,8 @@
 * **[Moritz Messner](https://github.com/MoritzMessner)** &mdash; Update link for Activity UI design article
   <sub>[#12875](https://github.com/flutter/website/pull/12875) merged on January 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12875) over 1 day, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### December 20, 2025 to December 26, 2025
 

@@ -236,3 +236,6 @@
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Flexible and Expanded (fixes #168365)<br />
   <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180514) 192 additions and 20 deletions in 2 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds interactive mode for running unittests<br />
+  <sub>[#180533](https://github.com/flutter/flutter/pull/180533) opened on on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180533) 182 additions and 0 deletions in 2 files</sub><br />
+
