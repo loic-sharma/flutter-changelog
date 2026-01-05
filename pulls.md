@@ -239,3 +239,6 @@
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Flexible and Expanded (fixes #168365)<br />
   <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180514) 192 additions and 20 deletions in 2 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [CP][stable][web] Fix `resizeToAvoidBottomInset` on Android web (#179581)<br />
+  <sub>[#180535](https://github.com/flutter/flutter/pull/180535) opened on on January 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180535) 95 additions and 39 deletions in 2 files</sub><br />
+
