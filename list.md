@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-8 commits.
+9 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179493) over 1 month, 87 additions and 0 deletions in 2 files</sub>
@@ -19,6 +19,10 @@
   <sub>[#180118](https://github.com/flutter/flutter/pull/180118) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180118) over 2 weeks, 87 additions and 87 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
   <sub><details><summary>3 images...</summary><img width="466" height="41" alt="linter_warnings" src="https://github.com/user-attachments/assets/4400d046-a505-4e03-9bbf-8a965a8cb572" /><img width="129" height="60" alt="after" src="https://github.com/user-attachments/assets/8b90888e-a275-4008-a2fb-1b8c5522b389" /><img width="102" height="49" alt="after_1" src="https://github.com/user-attachments/assets/f7927a73-4a7e-45ab-8984-507371fb40c5" /></details></sub>
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use a libcxx abi namespace compatible with lldb
+  <sub>[#180134](https://github.com/flutter/flutter/pull/180134) merged on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180134) over 2 weeks, 4 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add UUID to registered DTD streams and services
   <sub>[#180140](https://github.com/flutter/flutter/pull/180140) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180140) over 2 weeks, 96 additions and 28 deletions in 11 files</sub>
