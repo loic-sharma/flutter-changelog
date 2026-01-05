@@ -264,5 +264,5 @@
   <sub>[#180509](https://github.com/flutter/flutter/pull/180509) opened on on January 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180509) 34 additions and 34 deletions in 4 files</sub><br />
 
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Flexible and Expanded (fixes #168365)<br />
-  <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180514) 96 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180514) 154 additions and 2 deletions in 2 files</sub><br />
 
