@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-2 commits.
+3 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179493) over 1 month, 87 additions and 0 deletions in 2 files</sub>
@@ -14,6 +14,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump deps of hooks,code_assets,native_toolchain_c
   <sub>[#180504](https://github.com/flutter/flutter/pull/180504) merged on January 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180504) over 44 minutes, 10 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small cleanUp in `FlutterView.java`
+  <sub>[#180474](https://github.com/flutter/flutter/pull/180474) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180474) over 1 day, 8 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 ### December 27, 2025 to January 2, 2026
 
@@ -185,7 +189,7 @@
   <sub><details><summary>1 image...</summary><img width="1669" height="1249" alt="Screenshot 2025-12-20 at 6 08 05 AM" src="https://github.com/user-attachments/assets/2aef74c5-5798-4c9d-942f-21c2df70ce23" /></details></sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Added Docs for AGP 9
-  <sub>[#12825](https://github.com/flutter/website/pull/12825) merged on December 22, 2025 &mdash; **Small:** [85 comments](https://github.com/flutter/website/pull/12825) over 6 days, 158 additions and 0 deletions in 2 files</sub>
+  <sub>[#12825](https://github.com/flutter/website/pull/12825) merged on December 22, 2025 &mdash; **Small:** [86 comments](https://github.com/flutter/website/pull/12825) over 6 days, 158 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[sabuncu](https://github.com/sabuncu)** &mdash; Remove unused import in widgets.md
