@@ -225,7 +225,7 @@
   <sub>[#180491](https://github.com/flutter/flutter/pull/180491) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180491) 52 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FadeInImage doesn't crash in 0x0 environment<br />
-  <sub>[#180495](https://github.com/flutter/flutter/pull/180495) opened on on January 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180495) 17 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180495](https://github.com/flutter/flutter/pull/180495) opened on on January 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180495) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
   <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
@@ -241,7 +241,4 @@
 
 * **[Emmanuel](https://github.com/zemanux)** &mdash; New isSemantics and deprecate containsSemantics<br />
   <sub>[#180538](https://github.com/flutter/flutter/pull/180538) opened on on January 5, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180538) 291 additions and 87 deletions in 12 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a null check for embedded view being added to accessibility tree<br />
-  <sub>[#180539](https://github.com/flutter/flutter/pull/180539) opened on on January 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180539) 47 additions and 6 deletions in 2 files</sub><br />
 
