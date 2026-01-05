@@ -98,9 +98,6 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; Add support for reduced motion/disable animations on the web<br />
   <sub>[#180041](https://github.com/flutter/flutter/pull/180041) opened on on December 18, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180041) 276 additions and 26 deletions in 5 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Prevent calling `setStatusBarColor` on `API_35` and update related documentation<br />
-  <sub>[#180062](https://github.com/flutter/flutter/pull/180062) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180062) 8 additions and 3 deletions in 1 file</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
   <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
 
