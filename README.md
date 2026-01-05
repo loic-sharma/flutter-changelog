@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-5 commits.
+6 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.<br />
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179493) over 1 month, 87 additions and 0 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement popup windows in the API and test code<br />
   <sub>[#179757](https://github.com/flutter/flutter/pull/179757) merged on January 5, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/179757) over 3 weeks, 1113 additions and 134 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add UUID to registered DTD streams and services<br />
+  <sub>[#180140](https://github.com/flutter/flutter/pull/180140) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180140) over 2 weeks, 96 additions and 28 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump deps of hooks,code_assets,native_toolchain_c<br />
   <sub>[#180504](https://github.com/flutter/flutter/pull/180504) merged on January 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180504) over 44 minutes, 10 additions and 10 deletions in 2 files</sub><br />
@@ -187,11 +191,15 @@
 
 ### January 3, 2026 to January 9, 2026
 
-2 commits.
+3 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: update GenUI docs for 0.6.0<br />
   <sub>[#12883](https://github.com/flutter/website/pull/12883) merged on January 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12883) over 1 hour, 35 additions and 26 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update repo README for latest requirements and setup<br />
+  <sub>[#12884](https://github.com/flutter/website/pull/12884) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12884) over 39 minutes, 33 additions and 10 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix(docs): Add Groovy syntax tabs to Android deployment guide (fixes #12793)<br />
   <sub>[#12863](https://github.com/flutter/website/pull/12863) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12863) over 1 week, 128 additions and 49 deletions in 1 file</sub><br />

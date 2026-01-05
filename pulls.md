@@ -113,9 +113,6 @@
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180131) 108 additions and 47 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add UUID to registered DTD streams and services<br />
-  <sub>[#180140](https://github.com/flutter/flutter/pull/180140) opened on on December 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180140) 96 additions and 28 deletions in 11 files</sub><br />
-
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; docs(CupertinoSheetRoute): clarify fullscreenDialog is not applicable<br />
   <sub>[#180164](https://github.com/flutter/flutter/pull/180164) opened on on December 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180164) 8 additions and 0 deletions in 1 file</sub><br />
 
@@ -241,4 +238,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [CP][stable][web] Fix `resizeToAvoidBottomInset` on Android web (#179581)<br />
   <sub>[#180535](https://github.com/flutter/flutter/pull/180535) opened on on January 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180535) 95 additions and 39 deletions in 2 files</sub><br />
+
+* **[Emmanuel](https://github.com/zemanux)** &mdash; New isSemantics and deprecate containsSemantics<br />
+  <sub>[#180538](https://github.com/flutter/flutter/pull/180538) opened on on January 5, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180538) 291 additions and 87 deletions in 12 files</sub><br />
 
