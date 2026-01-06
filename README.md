@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-26 commits.
+27 commits.
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Don't embed unreferenced assets<br />
   <sub>[#179251](https://github.com/flutter/flutter/pull/179251) merged on January 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/179251) over 1 month, 252 additions and 66 deletions in 3 files</sub><br />
@@ -51,6 +51,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve documentation about ValueNotifier's behavior<br />
   <sub>[#179870](https://github.com/flutter/flutter/pull/179870) merged on January 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179870) over 3 weeks, 13 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
+  <sub>[#176992](https://github.com/flutter/flutter/pull/176992) merged on January 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176992) over 2 months, 78 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add accessibilityAnnouncement matcher<br />
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) merged on January 5, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/180058) over 2 weeks, 129 additions and 42 deletions in 6 files</sub><br />

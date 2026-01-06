@@ -26,9 +26,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
-  <sub>[#176992](https://github.com/flutter/flutter/pull/176992) opened on on October 14, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176992) 78 additions and 0 deletions in 2 files</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
@@ -216,7 +213,7 @@
   <sub>[#180584](https://github.com/flutter/flutter/pull/180584) opened on on January 6, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/180584) 708 additions and 11 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for `dart:ffi` imports<br />
-  <sub>[#180586](https://github.com/flutter/flutter/pull/180586) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180586) 238 additions and 3 deletions in 6 files</sub><br />
+  <sub>[#180586](https://github.com/flutter/flutter/pull/180586) opened on on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180586) 238 additions and 3 deletions in 6 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added type annotations and removed lints for run_tests.py<br />
   <sub>[#180597](https://github.com/flutter/flutter/pull/180597) opened on on January 6, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180597) 174 additions and 150 deletions in 1 file</sub><br />
