@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-14 commits.
+18 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.<br />
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179493) over 1 month, 87 additions and 0 deletions in 2 files</sub><br />
@@ -55,6 +55,22 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump deps of hooks,code_assets,native_toolchain_c<br />
   <sub>[#180504](https://github.com/flutter/flutter/pull/180504) merged on January 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180504) over 44 minutes, 10 additions and 10 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DraggableScrollableSheet doesn't crash in 0x0 enviro…<br />
+  <sub>[#180433](https://github.com/flutter/flutter/pull/180433) merged on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180433) over 3 days, 16 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a ColorFiltered doesn't crash 0x0 environment<br />
+  <sub>[#180307](https://github.com/flutter/flutter/pull/180307) merged on January 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180307) over 1 week, 14 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FadeInImage doesn't crash in 0x0 environment<br />
+  <sub>[#180495](https://github.com/flutter/flutter/pull/180495) merged on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180495) over 19 hours, 17 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Draggable doesn't crash in 0x0 environment<br />
+  <sub>[#180380](https://github.com/flutter/flutter/pull/180380) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180380) over 6 days, 23 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary semicolon in `InputConnectionAdaptor.java`<br />
   <sub>[#180473](https://github.com/flutter/flutter/pull/180473) merged on January 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180473) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
