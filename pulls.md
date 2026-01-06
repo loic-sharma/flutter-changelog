@@ -213,8 +213,11 @@
   <sub>[#180586](https://github.com/flutter/flutter/pull/180586) opened on on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180586) 237 additions and 3 deletions in 6 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added type annotations and removed lints for run_tests.py<br />
-  <sub>[#180597](https://github.com/flutter/flutter/pull/180597) opened on on January 6, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/180597) 169 additions and 137 deletions in 1 file</sub><br />
+  <sub>[#180597](https://github.com/flutter/flutter/pull/180597) opened on on January 6, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/180597) 169 additions and 137 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Merge `widget_tester_leaks_free_test.dart` into `widget_tester_test.dart`<br />
   <sub>[#180600](https://github.com/flutter/flutter/pull/180600) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180600) 21 additions and 29 deletions in 2 files</sub><br />
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Do not dispose CupertinoSheetTransition animation on update and throw ticker error<br />
+  <sub>[#180609](https://github.com/flutter/flutter/pull/180609) opened on on January 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180609) 102 additions and 5 deletions in 2 files</sub><br />
 
