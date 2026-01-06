@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-13 commits.
+14 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.<br />
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179493) over 1 month, 87 additions and 0 deletions in 2 files</sub><br />
@@ -23,6 +23,10 @@
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; docs: Impeller usage requirements for ImageFilter.shader and isShader…<br />
   <sub>[#179387](https://github.com/flutter/flutter/pull/179387) merged on January 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/179387) over 1 month, 18 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Replace semantic announcements in expansion tile for Android<br />
+  <sub>[#179917](https://github.com/flutter/flutter/pull/179917) merged on January 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179917) over 3 weeks, 103 additions and 27 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add the existing compute unit tests to the build<br />
   <sub>[#179689](https://github.com/flutter/flutter/pull/179689) merged on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179689) over 3 weeks, 18 additions and 12 deletions in 2 files</sub><br />
