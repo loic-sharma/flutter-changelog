@@ -284,7 +284,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-5 commits.
+6 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add tutorial index page to navigation dropdown
   <sub>[#12882](https://github.com/flutter/website/pull/12882) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12882) over 1 day, 58 additions and 31 deletions in 6 files</sub>
@@ -294,6 +294,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: update GenUI docs for 0.6.0
   <sub>[#12883](https://github.com/flutter/website/pull/12883) merged on January 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12883) over 1 hour, 35 additions and 26 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add DevTools release notes for 2.54.0
+  <sub>[#12889](https://github.com/flutter/website/pull/12889) merged on January 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12889) over 1 hour, 41 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update repo README for latest requirements and setup
   <sub>[#12884](https://github.com/flutter/website/pull/12884) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12884) over 39 minutes, 33 additions and 10 deletions in 1 file</sub>
