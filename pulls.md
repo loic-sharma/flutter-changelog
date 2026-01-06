@@ -212,9 +212,6 @@
 * **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
   <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually bump dependencies<br />
-  <sub>[#180509](https://github.com/flutter/flutter/pull/180509) opened on on January 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180509) 34 additions and 34 deletions in 4 files</sub><br />
-
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Flexible and Expanded (fixes #168365)<br />
   <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180514) 192 additions and 20 deletions in 2 files</sub><br />
 
@@ -226,7 +223,4 @@
 
 * **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; Fix tableview janks<br />
   <sub>[#180563](https://github.com/flutter/flutter/pull/180563) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180563) 133 additions and 16 deletions in 2 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update hook_user_defines_test.dart<br />
-  <sub>[#180564](https://github.com/flutter/flutter/pull/180564) opened on on January 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180564) 5 additions and 0 deletions in 2 files</sub><br />
 
