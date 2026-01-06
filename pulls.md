@@ -218,9 +218,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for `dart:ffi` imports<br />
   <sub>[#180586](https://github.com/flutter/flutter/pull/180586) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180586) 238 additions and 3 deletions in 6 files</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Don't require NDK for Android targets<br />
-  <sub>[#180594](https://github.com/flutter/flutter/pull/180594) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180594) 8 additions and 11 deletions in 2 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added type annotations and removed lints for run_tests.py<br />
   <sub>[#180597](https://github.com/flutter/flutter/pull/180597) opened on on January 6, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180597) 174 additions and 150 deletions in 1 file</sub><br />
 

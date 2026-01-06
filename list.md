@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-25 commits.
+26 commits.
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Don't embed unreferenced assets
   <sub>[#179251](https://github.com/flutter/flutter/pull/179251) merged on January 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/179251) over 1 month, 252 additions and 66 deletions in 3 files</sub>
@@ -67,6 +67,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField.errorBuilder
   <sub>[#179345](https://github.com/flutter/flutter/pull/179345) merged on January 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179345) over 1 month, 93 additions and 30 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Don't require NDK for Android targets
+  <sub>[#180594](https://github.com/flutter/flutter/pull/180594) merged on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180594) over 1 hour, 8 additions and 11 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually bump dependencies
   <sub>[#180509](https://github.com/flutter/flutter/pull/180509) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180509) over 1 day, 34 additions and 34 deletions in 4 files</sub>
@@ -243,11 +247,15 @@
 
 ### January 3, 2026 to January 9, 2026
 
-2 commits.
+3 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release
   <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; Update Google Fonts to v7.0.0 with new and removed fonts
+  <sub>[#10713](https://github.com/flutter/packages/pull/10713) merged on January 6, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10713) over 1 day, 36983 additions and 12154 deletions in 31 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Pins github action commit hash
   <sub>[#10599](https://github.com/flutter/packages/pull/10599) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10599) over 3 weeks, 76 additions and 4 deletions in 4 files</sub>
@@ -268,7 +276,12 @@
 
 ### January 3, 2026 to January 9, 2026
 
-4 commits.
+5 commits.
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; add tutorial index page to navigation dropdown
+  <sub>[#12882](https://github.com/flutter/website/pull/12882) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12882) over 1 day, 58 additions and 31 deletions in 6 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+  <sub><details><summary>1 image...</summary><img width="374" height="395" alt="Bildschirmfoto 2026-01-05 um 10 41 04" src="https://github.com/user-attachments/assets/a4d93345-0cc1-498f-9aa9-d91022d53572" /></details></sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: update GenUI docs for 0.6.0
   <sub>[#12883](https://github.com/flutter/website/pull/12883) merged on January 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12883) over 1 hour, 35 additions and 26 deletions in 2 files</sub>
