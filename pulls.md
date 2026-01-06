@@ -77,9 +77,6 @@
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
-* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Fix web proxy incorrectly merging Set-Cookie headers<br />
-  <sub>[#179849](https://github.com/flutter/flutter/pull/179849) opened on on December 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179849) 161 additions and 1 deletion in 2 files</sub><br />
-
 * **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
   <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179935) 45 additions and 2 deletions in 9 files</sub><br />
 
