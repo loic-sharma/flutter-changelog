@@ -248,7 +248,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-3 commits.
+4 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: update GenUI docs for 0.6.0
   <sub>[#12883](https://github.com/flutter/website/pull/12883) merged on January 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12883) over 1 hour, 35 additions and 26 deletions in 2 files</sub>
@@ -256,6 +256,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update repo README for latest requirements and setup
   <sub>[#12884](https://github.com/flutter/website/pull/12884) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12884) over 39 minutes, 33 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix wrong method channels link in `uiscenedelegate.md`
+  <sub>[#12888](https://github.com/flutter/website/pull/12888) merged on January 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12888) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix(docs): Add Groovy syntax tabs to Android deployment guide (fixes #12793)
