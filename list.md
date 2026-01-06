@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-12 commits.
+13 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradient.scale not preserving transformation.
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179493) over 1 month, 87 additions and 0 deletions in 2 files</sub>
@@ -39,6 +39,10 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add accessibilityAnnouncement matcher
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) merged on January 5, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/180058) over 2 weeks, 129 additions and 42 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump ffigen in templates
+  <sub>[#180513](https://github.com/flutter/flutter/pull/180513) merged on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180513) over 9 hours, 21 additions and 54 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Liam Appelbe](https://github.com/liamappelbe)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a null check for embedded view being added to accessibility tree
   <sub>[#180539](https://github.com/flutter/flutter/pull/180539) merged on January 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180539) over 1 hour, 47 additions and 6 deletions in 2 files</sub>
