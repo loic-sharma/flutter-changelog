@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-22 commits.
+23 commits.
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Don't embed unreferenced assets<br />
   <sub>[#179251](https://github.com/flutter/flutter/pull/179251) merged on January 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/179251) over 1 month, 252 additions and 66 deletions in 3 files</sub><br />
@@ -59,6 +59,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField.errorBuilder<br />
   <sub>[#179345](https://github.com/flutter/flutter/pull/179345) merged on January 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179345) over 1 month, 93 additions and 30 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually bump dependencies<br />
+  <sub>[#180509](https://github.com/flutter/flutter/pull/180509) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180509) over 1 day, 34 additions and 34 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump ffigen in templates<br />
   <sub>[#180513](https://github.com/flutter/flutter/pull/180513) merged on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180513) over 9 hours, 21 additions and 54 deletions in 6 files</sub><br />
