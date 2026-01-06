@@ -227,9 +227,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for `dart:ffi` imports<br />
   <sub>[#180586](https://github.com/flutter/flutter/pull/180586) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180586) 238 additions and 3 deletions in 6 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add a null check for embedded view being added to accessibility tree<br />
-  <sub>[#180592](https://github.com/flutter/flutter/pull/180592) opened on on January 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180592) 47 additions and 6 deletions in 2 files</sub><br />
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Don't require NDK for Android targets<br />
   <sub>[#180594](https://github.com/flutter/flutter/pull/180594) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180594) 8 additions and 11 deletions in 2 files</sub><br />
 
