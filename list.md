@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-20 commits.
+22 commits.
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Don't embed unreferenced assets
   <sub>[#179251](https://github.com/flutter/flutter/pull/179251) merged on January 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/179251) over 1 month, 252 additions and 66 deletions in 3 files</sub>
@@ -51,6 +51,14 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add accessibilityAnnouncement matcher
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) merged on January 5, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/180058) over 2 weeks, 129 additions and 42 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tooltip support to PlatformMenuItem and PlatformMenu.
+  <sub>[#180069](https://github.com/flutter/flutter/pull/180069) merged on January 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180069) over 2 weeks, 181 additions and 70 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField.errorBuilder
+  <sub>[#179345](https://github.com/flutter/flutter/pull/179345) merged on January 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179345) over 1 month, 93 additions and 30 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump ffigen in templates
   <sub>[#180513](https://github.com/flutter/flutter/pull/180513) merged on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180513) over 9 hours, 21 additions and 54 deletions in 6 files</sub>
