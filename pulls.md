@@ -224,3 +224,6 @@
 * **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; Fix tableview janks<br />
   <sub>[#180563](https://github.com/flutter/flutter/pull/180563) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180563) 133 additions and 16 deletions in 2 files</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile <br />
+  <sub>[#180572](https://github.com/flutter/flutter/pull/180572) opened on on January 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180572) 72 additions and 26 deletions in 10 files</sub><br />
+
