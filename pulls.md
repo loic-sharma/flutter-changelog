@@ -74,9 +74,6 @@
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
-* **[shindonghwi](https://github.com/shindonghwi)** &mdash; [flutter_tools] Pass --chrome-binary to app hosting Chrome in flutter drive<br />
-  <sub>[#179935](https://github.com/flutter/flutter/pull/179935) opened on on December 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/179935) 45 additions and 2 deletions in 9 files</sub><br />
-
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; feat: Introduce FlutterStringUtils for sanitizing UTF-8 data and JSON escape sequences.<br />
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
 
@@ -108,7 +105,7 @@
   <sub>[#180165](https://github.com/flutter/flutter/pull/180165) opened on on December 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180165) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Fix --no-hot flag not working on web-server<br />
-  <sub>[#180166](https://github.com/flutter/flutter/pull/180166) opened on on December 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180166) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180166](https://github.com/flutter/flutter/pull/180166) opened on on December 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180166) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishimoto](https://github.com/Koichi5)** &mdash; Fix typo in dropdown_menu.dart<br />
   <sub>[#180172](https://github.com/flutter/flutter/pull/180172) opened on on December 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180172) 4 additions and 4 deletions in 1 file</sub><br />
@@ -183,7 +180,7 @@
   <sub>[#180451](https://github.com/flutter/flutter/pull/180451) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180451) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
-  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180452) 15 additions and 21 deletions in 1 file</sub><br />
+  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180452) 15 additions and 21 deletions in 1 file</sub><br />
 
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message to require leading v<br />
   <sub>[#180467](https://github.com/flutter/flutter/pull/180467) opened on on January 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180467) 3 additions and 3 deletions in 2 files</sub><br />
