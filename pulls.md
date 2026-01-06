@@ -222,5 +222,5 @@
   <sub>[#180535](https://github.com/flutter/flutter/pull/180535) opened on on January 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180535) 95 additions and 39 deletions in 2 files</sub><br />
 
 * **[Emmanuel](https://github.com/zemanux)** &mdash; New isSemantics and deprecate containsSemantics<br />
-  <sub>[#180538](https://github.com/flutter/flutter/pull/180538) opened on on January 5, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/180538) 291 additions and 87 deletions in 12 files</sub><br />
+  <sub>[#180538](https://github.com/flutter/flutter/pull/180538) opened on on January 5, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/180538) 352 additions and 90 deletions in 15 files</sub><br />
 
