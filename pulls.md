@@ -228,5 +228,5 @@
   <sub>[#180563](https://github.com/flutter/flutter/pull/180563) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180563) 133 additions and 16 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update hook_user_defines_test.dart<br />
-  <sub>[#180564](https://github.com/flutter/flutter/pull/180564) opened on on January 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180564) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#180564](https://github.com/flutter/flutter/pull/180564) opened on on January 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180564) 5 additions and 0 deletions in 2 files</sub><br />
 
