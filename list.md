@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-23 commits.
+24 commits.
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Don't embed unreferenced assets
   <sub>[#179251](https://github.com/flutter/flutter/pull/179251) merged on January 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/179251) over 1 month, 252 additions and 66 deletions in 3 files</sub>
@@ -31,6 +31,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Replace semantic announcements in expansion tile for Android
   <sub>[#179917](https://github.com/flutter/flutter/pull/179917) merged on January 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179917) over 3 weeks, 103 additions and 27 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Fix/ios share context menu
+  <sub>[#176199](https://github.com/flutter/flutter/pull/176199) merged on January 6, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/176199) over 3 months, 101 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add the existing compute unit tests to the build
   <sub>[#179689](https://github.com/flutter/flutter/pull/179689) merged on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179689) over 3 weeks, 18 additions and 12 deletions in 2 files</sub>
