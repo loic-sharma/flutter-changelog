@@ -230,3 +230,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update hook_user_defines_test.dart<br />
   <sub>[#180564](https://github.com/flutter/flutter/pull/180564) opened on on January 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180564) 5 additions and 0 deletions in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Unpin DDS<br />
+  <sub>[#180571](https://github.com/flutter/flutter/pull/180571) opened on on January 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180571) 2 additions and 4 deletions in 2 files</sub><br />
+
