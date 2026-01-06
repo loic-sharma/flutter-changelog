@@ -251,7 +251,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-3 commits.
+4 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release<br />
   <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub><br />
@@ -260,6 +260,10 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Update Google Fonts to v7.0.0 with new and removed fonts<br />
   <sub>[#10713](https://github.com/flutter/packages/pull/10713) merged on January 6, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10713) over 1 day, 36983 additions and 12154 deletions in 31 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add iOS SDK 10.x support<br />
+  <sub>[#10720](https://github.com/flutter/packages/pull/10720) merged on January 6, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/10720) over 1 day, 1705 additions and 5 deletions in 51 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Pins github action commit hash<br />
   <sub>[#10599](https://github.com/flutter/packages/pull/10599) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10599) over 3 weeks, 76 additions and 4 deletions in 4 files</sub><br />
