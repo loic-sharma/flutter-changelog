@@ -251,7 +251,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-5 commits.
+7 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release
   <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub>
@@ -260,6 +260,10 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Update Google Fonts to v7.0.0 with new and removed fonts
   <sub>[#10713](https://github.com/flutter/packages/pull/10713) merged on January 6, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10713) over 1 day, 36983 additions and 12154 deletions in 31 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; [rfw] Remove scripting language integration section from `README`
+  <sub>[#10726](https://github.com/flutter/packages/pull/10726) merged on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10726) over 6 hours, 5 additions and 31 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [image_picker] Update for UIScene compatibility
   <sub>[#10677](https://github.com/flutter/packages/pull/10677) merged on January 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10677) over 2 weeks, 172 additions and 86 deletions in 10 files</sub>
@@ -272,6 +276,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Pins github action commit hash
   <sub>[#10599](https://github.com/flutter/packages/pull/10599) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10599) over 3 weeks, 76 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adjust workflow for dispatching go_router batch release
+  <sub>[#10733](https://github.com/flutter/packages/pull/10733) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10733) over 47 minutes, 4 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 ### December 20, 2025 to December 26, 2025
 
