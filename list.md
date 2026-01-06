@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-28 commits.
+29 commits.
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Don't embed unreferenced assets
   <sub>[#179251](https://github.com/flutter/flutter/pull/179251) merged on January 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/179251) over 1 month, 252 additions and 66 deletions in 3 files</sub>
@@ -14,6 +14,11 @@
   <sub>[#179493](https://github.com/flutter/flutter/pull/179493) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179493) over 1 month, 87 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary><img width="481" height="515" alt="before" src="https://github.com/user-attachments/assets/c9644fed-4016-4dea-9e39-c5c5fa311cee" /><img width="481" height="515" alt="after" src="https://github.com/user-attachments/assets/f77629e3-4d7e-49fb-9e8f-d044e3dd348c" /></details></sub>
+
+* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Forward proxy 404 responses to client
+  <sub>[#179858](https://github.com/flutter/flutter/pull/179858) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179858) over 3 weeks, 41 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
+  <sub><details><summary>1 image...</summary><img src="https://talabat-flutterstream.web.app/assets/assets/flutterstream.png" width=60 /></details></sub>
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Restore CLI precedence for web headers and HTTPS over web_dev_config.yaml
   <sub>[#179639](https://github.com/flutter/flutter/pull/179639) merged on January 6, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/179639) over 4 weeks, 333 additions and 35 deletions in 5 files</sub>
