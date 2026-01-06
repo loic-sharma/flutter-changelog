@@ -215,9 +215,6 @@
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Flexible and Expanded (fixes #168365)<br />
   <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180514) 192 additions and 20 deletions in 2 files</sub><br />
 
-* **[Emmanuel](https://github.com/zemanux)** &mdash; New isSemantics and deprecate containsSemantics<br />
-  <sub>[#180538](https://github.com/flutter/flutter/pull/180538) opened on on January 5, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/180538) 355 additions and 90 deletions in 15 files</sub><br />
-
 * **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; Fix tableview janks<br />
   <sub>[#180563](https://github.com/flutter/flutter/pull/180563) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180563) 133 additions and 16 deletions in 2 files</sub><br />
 
@@ -228,5 +225,5 @@
   <sub>[#180584](https://github.com/flutter/flutter/pull/180584) opened on on January 6, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/180584) 708 additions and 11 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for `dart:ffi` imports<br />
-  <sub>[#180586](https://github.com/flutter/flutter/pull/180586) opened on on January 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180586) 238 additions and 3 deletions in 6 files</sub><br />
+  <sub>[#180586](https://github.com/flutter/flutter/pull/180586) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180586) 238 additions and 3 deletions in 6 files</sub><br />
 
