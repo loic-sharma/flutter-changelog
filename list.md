@@ -251,7 +251,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-4 commits.
+5 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release
   <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub>
@@ -260,6 +260,10 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; Update Google Fonts to v7.0.0 with new and removed fonts
   <sub>[#10713](https://github.com/flutter/packages/pull/10713) merged on January 6, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10713) over 1 day, 36983 additions and 12154 deletions in 31 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [image_picker] Update for UIScene compatibility
+  <sub>[#10677](https://github.com/flutter/packages/pull/10677) merged on January 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10677) over 2 weeks, 172 additions and 86 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add iOS SDK 10.x support
   <sub>[#10720](https://github.com/flutter/packages/pull/10720) merged on January 6, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/10720) over 1 day, 1705 additions and 5 deletions in 51 files</sub>
