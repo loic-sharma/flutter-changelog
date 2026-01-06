@@ -90,7 +90,7 @@
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180100) 205 additions and 52 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more  `requires 24` anotations<br />
-  <sub>[#180116](https://github.com/flutter/flutter/pull/180116) opened on on December 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180116) 1 addition and 11 deletions in 3 files</sub><br />
+  <sub>[#180116](https://github.com/flutter/flutter/pull/180116) opened on on December 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180116) 1 addition and 11 deletions in 3 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `@RequiresApi24` annotations from FlutterFragment methods<br />
   <sub>[#180117](https://github.com/flutter/flutter/pull/180117) opened on on December 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180117) 0 additions and 5 deletions in 1 file</sub><br />
