@@ -197,14 +197,8 @@
 * **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; [two_dimensional_scrollables] Fix tableview janks when first row/column pinned<br />
   <sub>[#180563](https://github.com/flutter/flutter/pull/180563) opened on on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180563) 133 additions and 16 deletions in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `AndroidTouchProcessorTest.java`<br />
-  <sub>[#180583](https://github.com/flutter/flutter/pull/180583) opened on on January 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180583) 5 additions and 4 deletions in 1 file</sub><br />
-
 * **[Kishimoto](https://github.com/Koichi5)** &mdash; Add clearOnBlur property to DropdownMenu<br />
   <sub>[#180584](https://github.com/flutter/flutter/pull/180584) opened on on January 6, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/180584) 708 additions and 11 deletions in 2 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `FlutterActivityTest.java`<br />
-  <sub>[#180585](https://github.com/flutter/flutter/pull/180585) opened on on January 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180585) 2 additions and 3 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added type annotations and removed lints for run_tests.py<br />
   <sub>[#180597](https://github.com/flutter/flutter/pull/180597) opened on on January 6, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/180597) 169 additions and 137 deletions in 1 file</sub><br />
@@ -220,4 +214,7 @@
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-296.1.beta<br />
   <sub>[#180633](https://github.com/flutter/flutter/pull/180633) opened on on January 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180633) 9 additions and 18 deletions in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Directly generate a Mach-O dynamic library using gen_snapshot [reland] (#174870)<br />
+  <sub>[#180639](https://github.com/flutter/flutter/pull/180639) opened on on January 7, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180639) 328 additions and 111 deletions in 4 files</sub><br />
 
