@@ -33,7 +33,7 @@
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/177888) 523 additions and 43 deletions in 4 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [49 comments](https://github.com/flutter/flutter/pull/177888) 523 additions and 43 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
