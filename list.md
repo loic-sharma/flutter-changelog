@@ -4,7 +4,11 @@
 
 ### January 3, 2026 to January 9, 2026
 
-30 commits.
+31 commits.
+
+* **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define flag for template variable injection in Flutter web builds
+  <sub>[#175805](https://github.com/flutter/flutter/pull/175805) merged on January 7, 2026 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/175805) over 3 months, 404 additions and 15 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Don't embed unreferenced assets
   <sub>[#179251](https://github.com/flutter/flutter/pull/179251) merged on January 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/179251) over 1 month, 252 additions and 66 deletions in 3 files</sub>
