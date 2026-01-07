@@ -212,3 +212,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Directly generate a Mach-O dynamic library using gen_snapshot [reland] (#174870)<br />
   <sub>[#180639](https://github.com/flutter/flutter/pull/180639) opened on on January 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180639) 328 additions and 111 deletions in 4 files</sub><br />
 
+* **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
+  <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180640) 23 additions and 5 deletions in 1 file</sub><br />
+
