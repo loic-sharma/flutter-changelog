@@ -200,11 +200,8 @@
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Flexible and Expanded (fixes #168365)<br />
   <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180514) 192 additions and 20 deletions in 2 files</sub><br />
 
-* **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; Fix tableview janks<br />
-  <sub>[#180563](https://github.com/flutter/flutter/pull/180563) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180563) 133 additions and 16 deletions in 2 files</sub><br />
-
-* **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile <br />
-  <sub>[#180572](https://github.com/flutter/flutter/pull/180572) opened on on January 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180572) 72 additions and 26 deletions in 10 files</sub><br />
+* **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; [two_dimensional_scrollables] Fix tableview janks when first row/column pinned<br />
+  <sub>[#180563](https://github.com/flutter/flutter/pull/180563) opened on on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180563) 133 additions and 16 deletions in 2 files</sub><br />
 
 * **[Kishimoto](https://github.com/Koichi5)** &mdash; Add clearOnBlur property to DropdownMenu<br />
   <sub>[#180584](https://github.com/flutter/flutter/pull/180584) opened on on January 6, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/180584) 708 additions and 11 deletions in 2 files</sub><br />
