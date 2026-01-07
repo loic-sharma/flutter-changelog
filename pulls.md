@@ -209,12 +209,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlutterLogo doesn't crash in 0x0 environment<br />
   <sub>[#180617](https://github.com/flutter/flutter/pull/180617) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) 10 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `KeyboardManagerTest.java`<br />
-  <sub>[#180625](https://github.com/flutter/flutter/pull/180625) opened on on January 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180625) 112 additions and 154 deletions in 1 file</sub><br />
-
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-296.1.beta<br />
-  <sub>[#180633](https://github.com/flutter/flutter/pull/180633) opened on on January 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180633) 9 additions and 18 deletions in 2 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Directly generate a Mach-O dynamic library using gen_snapshot [reland] (#174870)<br />
-  <sub>[#180639](https://github.com/flutter/flutter/pull/180639) opened on on January 7, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180639) 328 additions and 111 deletions in 4 files</sub><br />
+  <sub>[#180639](https://github.com/flutter/flutter/pull/180639) opened on on January 7, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/180639) 328 additions and 111 deletions in 4 files</sub><br />
 
