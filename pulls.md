@@ -197,9 +197,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Merge `widget_tester_leaks_free_test.dart` into `widget_tester_test.dart`<br />
   <sub>[#180600](https://github.com/flutter/flutter/pull/180600) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180600) 21 additions and 29 deletions in 2 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG` for 3.38.6 release<br />
-  <sub>[#180606](https://github.com/flutter/flutter/pull/180606) opened on on January 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180606) 3 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlutterLogo doesn't crash in 0x0 environment<br />
   <sub>[#180617](https://github.com/flutter/flutter/pull/180617) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) 10 additions and 0 deletions in 1 file</sub><br />
 
@@ -207,7 +204,7 @@
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web][triage] Exclude PRs that have been approved/triaged<br />
-  <sub>[#180644](https://github.com/flutter/flutter/pull/180644) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180644) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#180644](https://github.com/flutter/flutter/pull/180644) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180644) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[walley892](https://github.com/walley892)** &mdash; Add support for fetching array uniforms by name<br />
   <sub>[#180647](https://github.com/flutter/flutter/pull/180647) opened on on January 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/180647) 485 additions and 62 deletions in 9 files</sub><br />
