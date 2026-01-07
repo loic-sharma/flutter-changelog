@@ -98,6 +98,10 @@
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) merged on January 5, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/180058) over 2 weeks, 129 additions and 42 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Slava Egorov](https://github.com/mraleph)** &mdash; Bump target Windows version to 10
+  <sub>[#180624](https://github.com/flutter/flutter/pull/180624) merged on January 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180624) over 7 hours, 5 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `@RequiresApi24` annotations from FlutterFragment methods
   <sub>[#180117](https://github.com/flutter/flutter/pull/180117) merged on January 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180117) over 2 weeks, 0 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
@@ -113,10 +117,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownMenuFormField.errorBuilder
   <sub>[#179345](https://github.com/flutter/flutter/pull/179345) merged on January 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/179345) over 1 month, 93 additions and 30 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Slava Egorov](https://github.com/mraleph)** &mdash; Bump target Windows version to 10
-  <sub>[#180624](https://github.com/flutter/flutter/pull/180624) merged on January 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180624) over 7 hours, 5 additions and 14 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Run hook_user_defines and link_hook integration tests on CI
   <sub>[#180622](https://github.com/flutter/flutter/pull/180622) merged on January 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180622) over 7 hours, 57 additions and 8 deletions in 5 files</sub>
@@ -386,7 +386,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-11 commits.
+12 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add tutorial index page to navigation dropdown
   <sub>[#12882](https://github.com/flutter/website/pull/12882) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12882) over 1 day, 58 additions and 31 deletions in 6 files</sub>
@@ -408,6 +408,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: update GenUI docs for 0.6.0
   <sub>[#12883](https://github.com/flutter/website/pull/12883) merged on January 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12883) over 1 hour, 35 additions and 26 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove the TextField.canRequestFocus breaking change guide
+  <sub>[#12893](https://github.com/flutter/website/pull/12893) merged on January 7, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12893) over 1 hour, 1 addition and 97 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add DevTools release notes for 2.54.0
   <sub>[#12889](https://github.com/flutter/website/pull/12889) merged on January 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12889) over 1 hour, 41 additions and 0 deletions in 1 file</sub>
