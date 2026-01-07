@@ -288,7 +288,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-7 commits.
+8 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release
   <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub>
@@ -309,6 +309,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add iOS SDK 10.x support
   <sub>[#10720](https://github.com/flutter/packages/pull/10720) merged on January 6, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/10720) over 1 day, 1705 additions and 5 deletions in 51 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Augusto César Perin](https://github.com/augustocesarperin)** &mdash; [mustache_template] Improve error throwing
+  <sub>[#10700](https://github.com/flutter/packages/pull/10700) merged on January 7, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10700) over 6 days, 34 additions and 14 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Pins github action commit hash
   <sub>[#10599](https://github.com/flutter/packages/pull/10599) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10599) over 3 weeks, 76 additions and 4 deletions in 4 files</sub>
