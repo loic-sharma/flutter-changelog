@@ -77,9 +77,6 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; feat: Introduce FlutterStringUtils for sanitizing UTF-8 data and JSON escape sequences.<br />
   <sub>[#179978](https://github.com/flutter/flutter/pull/179978) opened on on December 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179978) 287 additions and 7 deletions in 7 files</sub><br />
 
-* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; feat: enable const Container constructor<br />
-  <sub>[#180029](https://github.com/flutter/flutter/pull/180029) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180029) 143 additions and 98 deletions in 3 files</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
   <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
 
@@ -88,9 +85,6 @@
 
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180131) 108 additions and 47 deletions in 2 files</sub><br />
-
-* **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; docs(CupertinoSheetRoute): clarify fullscreenDialog is not applicable<br />
-  <sub>[#180164](https://github.com/flutter/flutter/pull/180164) opened on on December 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180164) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; docs(Path): clarify that zero-length contours are excluded from computeMetrics<br />
   <sub>[#180165](https://github.com/flutter/flutter/pull/180165) opened on on December 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180165) 4 additions and 0 deletions in 1 file</sub><br />
@@ -110,9 +104,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix resonant explosion of scroll disconnect when scrolling a pv in a list<br />
   <sub>[#180246](https://github.com/flutter/flutter/pull/180246) opened on on December 23, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180246) 7 additions and 24 deletions in 2 files</sub><br />
 
-* **[Safwan Mamji](https://github.com/safwanidrees)** &mdash; Enhance the Stepper widget by adding customizable header and content padding<br />
-  <sub>[#180257](https://github.com/flutter/flutter/pull/180257) opened on on December 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180257) 28 additions and 10 deletions in 1 file</sub><br />
-
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; Add API sample and docs for Expansible widget<br />
   <sub>[#180273](https://github.com/flutter/flutter/pull/180273) opened on on December 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180273) 105 additions and 0 deletions in 3 files</sub><br />
 
@@ -127,9 +118,6 @@
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix RenderParagraph to use correct ideographic baseline<br />
   <sub>[#180292](https://github.com/flutter/flutter/pull/180292) opened on on December 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180292) 92 additions and 20 deletions in 4 files</sub><br />
-
-* **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Fix misleading error message for color/decoration conflict<br />
-  <sub>[#180325](https://github.com/flutter/flutter/pull/180325) opened on on December 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180325) 5 additions and 5 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix ImageStream reporting errors globally when no active listeners exist<br />
   <sub>[#180327](https://github.com/flutter/flutter/pull/180327) opened on on December 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180327) 137 additions and 37 deletions in 5 files</sub><br />

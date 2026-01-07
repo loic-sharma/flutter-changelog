@@ -317,7 +317,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-10 commits.
+11 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release
   <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub>
@@ -338,6 +338,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add iOS SDK 10.x support
   <sub>[#10720](https://github.com/flutter/packages/pull/10720) merged on January 6, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/10720) over 1 day, 1705 additions and 5 deletions in 51 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[jalen-videotape](https://github.com/jalen-videotape)** &mdash; [camera_web] Fixed crashing bug on camera_web 0.3.5 for Safari
+  <sub>[#10595](https://github.com/flutter/packages/pull/10595) merged on January 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10595) over 4 weeks, 57 additions and 6 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Augusto César Perin](https://github.com/augustocesarperin)** &mdash; [mustache_template] Improve error throwing
   <sub>[#10700](https://github.com/flutter/packages/pull/10700) merged on January 7, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10700) over 6 days, 34 additions and 14 deletions in 5 files</sub>
