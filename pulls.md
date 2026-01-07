@@ -116,9 +116,6 @@
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; Add API sample and docs for Expansible widget<br />
   <sub>[#180273](https://github.com/flutter/flutter/pull/180273) opened on on December 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180273) 105 additions and 0 deletions in 3 files</sub><br />
 
-* **[Abbas](https://github.com/abbashosseinii)** &mdash; Fix selection accuracy for RTL/complex scripts in SelectableText<br />
-  <sub>[#180275](https://github.com/flutter/flutter/pull/180275) opened on on December 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180275) 53 additions and 2 deletions in 2 files</sub><br />
-
 * **[Md Mushfiqur Rahim](https://github.com/MD-Mushfiqur123)** &mdash; add my name<br />
   <sub>[#180284](https://github.com/flutter/flutter/pull/180284) opened on on December 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180284) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -157,9 +154,6 @@
 
 * **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
   <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/180431) 44 additions and 6 deletions in 2 files</sub><br />
-
-* **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: clip ink highlights in NavigationDrawer when footer is present<br />
-  <sub>[#180451](https://github.com/flutter/flutter/pull/180451) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180451) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
   <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180452) 35 additions and 40 deletions in 1 file</sub><br />
@@ -202,7 +196,4 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web][triage] Exclude PRs that have been approved/triaged<br />
   <sub>[#180644](https://github.com/flutter/flutter/pull/180644) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180644) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[walley892](https://github.com/walley892)** &mdash; Add support for fetching array uniforms by name<br />
-  <sub>[#180647](https://github.com/flutter/flutter/pull/180647) opened on on January 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/180647) 485 additions and 62 deletions in 9 files</sub><br />
 

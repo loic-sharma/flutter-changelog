@@ -317,7 +317,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-9 commits.
+10 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release
   <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub>
@@ -346,6 +346,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Pins github action commit hash
   <sub>[#10599](https://github.com/flutter/packages/pull/10599) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10599) over 3 weeks, 76 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] adjust github action, need to checkout repo before using local action
+  <sub>[#10744](https://github.com/flutter/packages/pull/10744) merged on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10744) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] setup flutter in batch release workflow
   <sub>[#10735](https://github.com/flutter/packages/pull/10735) merged on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10735) over 19 hours, 22 additions and 0 deletions in 2 files</sub>
