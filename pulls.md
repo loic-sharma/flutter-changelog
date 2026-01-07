@@ -161,9 +161,6 @@
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web][triage] Exclude PRs that have been approved/triaged<br />
-  <sub>[#180644](https://github.com/flutter/flutter/pull/180644) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180644) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; [TEST ONLY, DO NOT REVIEW] Revert "Bump target Windows version to 10 (#180624)"<br />
   <sub>[#180656](https://github.com/flutter/flutter/pull/180656) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180656) 14 additions and 5 deletions in 1 file</sub><br />
 
