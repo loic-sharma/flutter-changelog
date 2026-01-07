@@ -33,7 +33,7 @@
   <sub>[#177819](https://github.com/flutter/flutter/pull/177819) opened on on October 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177819) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing<br />
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/177888) 523 additions and 43 deletions in 4 files</sub><br />
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) opened on on November 1, 2025 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/177888) 523 additions and 43 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
@@ -217,9 +217,6 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlutterLogo doesn't crash in 0x0 environment<br />
   <sub>[#180617](https://github.com/flutter/flutter/pull/180617) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) 10 additions and 0 deletions in 1 file</sub><br />
-
-* **[Slava Egorov](https://github.com/mraleph)** &mdash; Bump target Windows version to 10<br />
-  <sub>[#180624](https://github.com/flutter/flutter/pull/180624) opened on on January 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180624) 5 additions and 14 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `KeyboardManagerTest.java`<br />
   <sub>[#180625](https://github.com/flutter/flutter/pull/180625) opened on on January 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180625) 112 additions and 154 deletions in 1 file</sub><br />
