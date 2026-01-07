@@ -218,6 +218,3 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Merge `widget_tester_leaks_free_test.dart` into `widget_tester_test.dart`<br />
   <sub>[#180600](https://github.com/flutter/flutter/pull/180600) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180600) 21 additions and 29 deletions in 2 files</sub><br />
 
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Do not dispose CupertinoSheetTransition animation on update and throw ticker error<br />
-  <sub>[#180609](https://github.com/flutter/flutter/pull/180609) opened on on January 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180609) 39 additions and 5 deletions in 2 files</sub><br />
-
