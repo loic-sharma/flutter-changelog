@@ -146,9 +146,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add RawCircleAvatar<br />
   <sub>[#180338](https://github.com/flutter/flutter/pull/180338) opened on on December 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180338) 198 additions and 72 deletions in 3 files</sub><br />
 
-* **[Bjorn-Donald Bassey](https://github.com/bjorndonald)** &mdash; Modify the SemanticTab class to create <a> element when the node has …<br />
-  <sub>[#180339](https://github.com/flutter/flutter/pull/180339) opened on on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180339) 113 additions and 1 deletion in 2 files</sub><br />
-
 * **[Anish Tiwari](https://github.com/AnishTiwari5077)** &mdash; 180162 fix radio list tile and switch list tile accept widget states controller<br />
   <sub>[#180367](https://github.com/flutter/flutter/pull/180367) opened on on December 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180367) 86 additions and 1 deletion in 7 files</sub><br />
 
@@ -166,9 +163,6 @@
 
 * **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
   <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/180431) 44 additions and 6 deletions in 2 files</sub><br />
-
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix IME and selection by syncing text metrics<br />
-  <sub>[#180436](https://github.com/flutter/flutter/pull/180436) opened on on January 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180436) 228 additions and 10 deletions in 6 files</sub><br />
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: clip ink highlights in NavigationDrawer when footer is present<br />
   <sub>[#180451](https://github.com/flutter/flutter/pull/180451) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180451) 48 additions and 1 deletion in 2 files</sub><br />
@@ -206,12 +200,21 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Merge `widget_tester_leaks_free_test.dart` into `widget_tester_test.dart`<br />
   <sub>[#180600](https://github.com/flutter/flutter/pull/180600) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180600) 21 additions and 29 deletions in 2 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `engine.version` & `DEPS` for 3.38.6 release<br />
+  <sub>[#180605](https://github.com/flutter/flutter/pull/180605) opened on on January 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180605) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG` for 3.38.6 release<br />
+  <sub>[#180606](https://github.com/flutter/flutter/pull/180606) opened on on January 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180606) 3 additions and 0 deletions in 1 file</sub><br />
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlutterLogo doesn't crash in 0x0 environment<br />
   <sub>[#180617](https://github.com/flutter/flutter/pull/180617) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
-  <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 64 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 53 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web][triage] Exclude PRs that have been approved/triaged<br />
   <sub>[#180644](https://github.com/flutter/flutter/pull/180644) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180644) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[walley892](https://github.com/walley892)** &mdash; Add support for fetching array uniforms by name<br />
+  <sub>[#180647](https://github.com/flutter/flutter/pull/180647) opened on on January 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/180647) 485 additions and 62 deletions in 9 files</sub><br />
 
