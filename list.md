@@ -333,7 +333,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-7 commits.
+10 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add tutorial index page to navigation dropdown
   <sub>[#12882](https://github.com/flutter/website/pull/12882) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12882) over 1 day, 58 additions and 31 deletions in 6 files</sub>
@@ -343,6 +343,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add link to the Flutter style updates design doc
   <sub>[#12890](https://github.com/flutter/website/pull/12890) merged on January 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12890) over 57 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: add Viewport to glossary
+  <sub>[#12887](https://github.com/flutter/website/pull/12887) merged on January 7, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12887) over 1 day, 23 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: update GenUI docs for 0.6.0
   <sub>[#12883](https://github.com/flutter/website/pull/12883) merged on January 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12883) over 1 hour, 35 additions and 26 deletions in 2 files</sub>
@@ -355,6 +359,14 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update repo README for latest requirements and setup
   <sub>[#12884](https://github.com/flutter/website/pull/12884) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12884) over 39 minutes, 33 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; fix: correct malformed diff syntax in migrate-to-agp-9.md
+  <sub>[#12885](https://github.com/flutter/website/pull/12885) merged on January 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12885) over 1 day, 40 additions and 35 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clean up the main docs page
+  <sub>[#12886](https://github.com/flutter/website/pull/12886) merged on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12886) over 1 day, 1 addition and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix wrong method channels link in `uiscenedelegate.md`
   <sub>[#12888](https://github.com/flutter/website/pull/12888) merged on January 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12888) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
