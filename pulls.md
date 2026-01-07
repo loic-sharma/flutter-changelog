@@ -210,5 +210,5 @@
   <sub>[#180617](https://github.com/flutter/flutter/pull/180617) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Directly generate a Mach-O dynamic library using gen_snapshot [reland] (#174870)<br />
-  <sub>[#180639](https://github.com/flutter/flutter/pull/180639) opened on on January 7, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/180639) 328 additions and 111 deletions in 4 files</sub><br />
+  <sub>[#180639](https://github.com/flutter/flutter/pull/180639) opened on on January 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180639) 328 additions and 111 deletions in 4 files</sub><br />
 
