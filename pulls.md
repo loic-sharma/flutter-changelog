@@ -215,3 +215,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Merge `widget_tester_leaks_free_test.dart` into `widget_tester_test.dart`<br />
   <sub>[#180600](https://github.com/flutter/flutter/pull/180600) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180600) 21 additions and 29 deletions in 2 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlutterLogo doesn't crash in 0x0 environment<br />
+  <sub>[#180617](https://github.com/flutter/flutter/pull/180617) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) 10 additions and 0 deletions in 1 file</sub><br />
+
