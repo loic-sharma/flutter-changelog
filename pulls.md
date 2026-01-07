@@ -222,5 +222,5 @@
   <sub>[#180625](https://github.com/flutter/flutter/pull/180625) opened on on January 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180625) 112 additions and 154 deletions in 1 file</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-296.1.beta<br />
-  <sub>[#180633](https://github.com/flutter/flutter/pull/180633) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180633) 9 additions and 18 deletions in 2 files</sub><br />
+  <sub>[#180633](https://github.com/flutter/flutter/pull/180633) opened on on January 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180633) 9 additions and 18 deletions in 2 files</sub><br />
 
