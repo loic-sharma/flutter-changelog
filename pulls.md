@@ -179,3 +179,9 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; [TEST ONLY, DO NOT REVIEW] Revert "Bump target Windows version to 10 (#180624)"<br />
   <sub>[#180656](https://github.com/flutter/flutter/pull/180656) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180656) 14 additions and 5 deletions in 1 file</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; draggable_scrollable_sheet_test + list_view_test + focus_traversal_test Material imports clean up<br />
+  <sub>[#180657](https://github.com/flutter/flutter/pull/180657) opened on on January 7, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/180657) 441 additions and 270 deletions in 7 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Move widget_preview_scaffold tests to `dev/integration_tests/widget_preview_scaffold`<br />
+  <sub>[#180658](https://github.com/flutter/flutter/pull/180658) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180658) 54 additions and 121 deletions in 52 files</sub><br />
+
