@@ -81,7 +81,7 @@
   <sub>[#180029](https://github.com/flutter/flutter/pull/180029) opened on on December 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180029) 143 additions and 98 deletions in 3 files</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Add support for reduced motion/disable animations on the web<br />
-  <sub>[#180041](https://github.com/flutter/flutter/pull/180041) opened on on December 18, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180041) 276 additions and 26 deletions in 5 files</sub><br />
+  <sub>[#180041](https://github.com/flutter/flutter/pull/180041) opened on on December 18, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/180041) 276 additions and 26 deletions in 5 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
   <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#180617](https://github.com/flutter/flutter/pull/180617) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
-  <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 53 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web][triage] Exclude PRs that have been approved/triaged<br />
   <sub>[#180644](https://github.com/flutter/flutter/pull/180644) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180644) 1 addition and 1 deletion in 1 file</sub><br />
