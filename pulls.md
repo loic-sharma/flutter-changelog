@@ -125,9 +125,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add RawCircleAvatar<br />
   <sub>[#180338](https://github.com/flutter/flutter/pull/180338) opened on on December 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180338) 198 additions and 72 deletions in 3 files</sub><br />
 
-* **[Anish Tiwari](https://github.com/AnishTiwari5077)** &mdash; 180162 fix radio list tile and switch list tile accept widget states controller<br />
-  <sub>[#180367](https://github.com/flutter/flutter/pull/180367) opened on on December 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180367) 86 additions and 1 deletion in 7 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/180389) 171 additions and 19 deletions in 2 files</sub><br />
 
@@ -139,9 +136,6 @@
 
 * **[Natan Sągol](https://github.com/merlinnot)** &mdash; fix(cmake): make native_assets install conditional<br />
   <sub>[#180429](https://github.com/flutter/flutter/pull/180429) opened on on January 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180429) 75 additions and 45 deletions in 14 files</sub><br />
-
-* **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
-  <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/180431) 44 additions and 6 deletions in 2 files</sub><br />
 
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
   <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180452) 35 additions and 40 deletions in 1 file</sub><br />
@@ -166,9 +160,6 @@
 
 * **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; [two_dimensional_scrollables] Fix tableview janks when first row/column pinned<br />
   <sub>[#180563](https://github.com/flutter/flutter/pull/180563) opened on on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180563) 133 additions and 16 deletions in 2 files</sub><br />
-
-* **[Kishimoto](https://github.com/Koichi5)** &mdash; Add clearOnBlur property to DropdownMenu<br />
-  <sub>[#180584](https://github.com/flutter/flutter/pull/180584) opened on on January 6, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/180584) 708 additions and 11 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added type annotations and removed lints for run_tests.py<br />
   <sub>[#180597](https://github.com/flutter/flutter/pull/180597) opened on on January 6, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/180597) 169 additions and 137 deletions in 1 file</sub><br />
