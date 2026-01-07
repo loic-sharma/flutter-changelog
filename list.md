@@ -423,7 +423,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-16 commits.
+17 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add tutorial index page to navigation dropdown
   <sub>[#12882](https://github.com/flutter/website/pull/12882) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12882) over 1 day, 58 additions and 31 deletions in 6 files</sub>
@@ -469,6 +469,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update repo README for latest requirements and setup
   <sub>[#12884](https://github.com/flutter/website/pull/12884) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12884) over 39 minutes, 33 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add redirect for framework devtool accessibility support
+  <sub>[#12897](https://github.com/flutter/website/pull/12897) merged on January 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12897) over 49 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Apply a clarification to "Frame" glossary entry
   <sub>[#12892](https://github.com/flutter/website/pull/12892) merged on January 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12892) over 2 hours, 8 additions and 5 deletions in 1 file</sub>
