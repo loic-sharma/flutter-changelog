@@ -92,9 +92,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more  `requires 24` anotations<br />
   <sub>[#180116](https://github.com/flutter/flutter/pull/180116) opened on on December 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180116) 1 addition and 11 deletions in 3 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `@RequiresApi24` annotations from FlutterFragment methods<br />
-  <sub>[#180117](https://github.com/flutter/flutter/pull/180117) opened on on December 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180117) 0 additions and 5 deletions in 1 file</sub><br />
-
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180131) 108 additions and 47 deletions in 2 files</sub><br />
 

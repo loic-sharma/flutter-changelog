@@ -4,7 +4,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-32 commits.
+33 commits.
 
 * **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define flag for template variable injection in Flutter web builds
   <sub>[#175805](https://github.com/flutter/flutter/pull/175805) merged on January 7, 2026 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/175805) over 3 months, 404 additions and 15 deletions in 12 files</sub>
@@ -22,7 +22,7 @@
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Forward proxy 404 responses to client
   <sub>[#179858](https://github.com/flutter/flutter/pull/179858) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179858) over 3 weeks, 41 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
-  <sub><details><summary>1 image...</summary>![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://talabat-flutterstream.web.app)</details></sub>
+  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://talabat-flutterstream.web.app) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://talabat-flutterstream.web.app)</details></sub>
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Restore CLI precedence for web headers and HTTPS over web_dev_config.yaml
   <sub>[#179639](https://github.com/flutter/flutter/pull/179639) merged on January 6, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/179639) over 4 weeks, 333 additions and 35 deletions in 5 files</sub>
@@ -76,6 +76,10 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add accessibilityAnnouncement matcher
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) merged on January 5, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/180058) over 2 weeks, 129 additions and 42 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `@RequiresApi24` annotations from FlutterFragment methods
+  <sub>[#180117](https://github.com/flutter/flutter/pull/180117) merged on January 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180117) over 2 weeks, 0 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Disable legacy non-const SkData APIs
   <sub>[#179684](https://github.com/flutter/flutter/pull/179684) merged on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179684) over 3 weeks, 2 additions and 3 deletions in 1 file</sub>
