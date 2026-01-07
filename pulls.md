@@ -162,7 +162,7 @@
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; De-interleaves engine dart test output<br />
-  <sub>[#180651](https://github.com/flutter/flutter/pull/180651) opened on on January 7, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/180651) 288 additions and 163 deletions in 6 files</sub><br />
+  <sub>[#180651](https://github.com/flutter/flutter/pull/180651) opened on on January 7, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/180651) 291 additions and 163 deletions in 6 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; [TEST ONLY, DO NOT REVIEW] Revert "Bump target Windows version to 10 (#180624)"<br />
   <sub>[#180656](https://github.com/flutter/flutter/pull/180656) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180656) 14 additions and 5 deletions in 1 file</sub><br />
@@ -172,7 +172,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Move widget_preview_scaffold tests to `dev/integration_tests/widget_preview_scaffold`<br />
   <sub>[#180658](https://github.com/flutter/flutter/pull/180658) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180658) 54 additions and 121 deletions in 52 files</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Add leadingIndex to CarouselController and onItemChanged to CarouselView<br />
-  <sub>[#180667](https://github.com/flutter/flutter/pull/180667) opened on on January 7, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180667) 319 additions and 14 deletions in 2 files</sub><br />
 
