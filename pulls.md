@@ -174,7 +174,7 @@
   <sub>[#180451](https://github.com/flutter/flutter/pull/180451) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180451) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
-  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180452) 35 additions and 40 deletions in 1 file</sub><br />
+  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180452) 35 additions and 40 deletions in 1 file</sub><br />
 
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message to require leading v<br />
   <sub>[#180467](https://github.com/flutter/flutter/pull/180467) opened on on January 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180467) 3 additions and 3 deletions in 2 files</sub><br />
@@ -209,9 +209,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlutterLogo doesn't crash in 0x0 environment<br />
   <sub>[#180617](https://github.com/flutter/flutter/pull/180617) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) 10 additions and 0 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Directly generate a Mach-O dynamic library using gen_snapshot [reland] (#174870)<br />
-  <sub>[#180639](https://github.com/flutter/flutter/pull/180639) opened on on January 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180639) 328 additions and 111 deletions in 4 files</sub><br />
-
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
-  <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180640) 23 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 23 additions and 5 deletions in 1 file</sub><br />
 
