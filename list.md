@@ -390,7 +390,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-12 commits.
+15 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add tutorial index page to navigation dropdown
   <sub>[#12882](https://github.com/flutter/website/pull/12882) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12882) over 1 day, 58 additions and 31 deletions in 6 files</sub>
@@ -413,6 +413,14 @@
   <sub>[#12883](https://github.com/flutter/website/pull/12883) merged on January 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12883) over 1 hour, 35 additions and 26 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog), [Parker Lougheed](https://github.com/parlough)</sub>
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add resources index and add glossary to sidenav
+  <sub>[#12894](https://github.com/flutter/website/pull/12894) merged on January 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12894) over 2 hours, 9 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Collect AI-related content together and standardize titles
+  <sub>[#12895](https://github.com/flutter/website/pull/12895) merged on January 7, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12895) over 24 minutes, 65 additions and 99 deletions in 20 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove the TextField.canRequestFocus breaking change guide
   <sub>[#12893](https://github.com/flutter/website/pull/12893) merged on January 7, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12893) over 1 hour, 1 addition and 97 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
@@ -424,6 +432,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update repo README for latest requirements and setup
   <sub>[#12884](https://github.com/flutter/website/pull/12884) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12884) over 39 minutes, 33 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Apply a clarification to "Frame" glossary entry
+  <sub>[#12892](https://github.com/flutter/website/pull/12892) merged on January 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12892) over 2 hours, 8 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; fix: correct malformed diff syntax in migrate-to-agp-9.md
   <sub>[#12885](https://github.com/flutter/website/pull/12885) merged on January 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12885) over 1 day, 40 additions and 35 deletions in 1 file</sub>
