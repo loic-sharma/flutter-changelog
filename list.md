@@ -390,12 +390,16 @@
 
 ### January 3, 2026 to January 9, 2026
 
-15 commits.
+16 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add tutorial index page to navigation dropdown
   <sub>[#12882](https://github.com/flutter/website/pull/12882) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12882) over 1 day, 58 additions and 31 deletions in 6 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary><img width="374" height="395" alt="Bildschirmfoto 2026-01-05 um 10 41 04" src="https://github.com/user-attachments/assets/a4d93345-0cc1-498f-9aa9-d91022d53572" /></details></sub>
+
+* **[Emmanuel](https://github.com/zemanux)** &mdash; Deprecate containsSemantics
+  <sub>[#12891](https://github.com/flutter/website/pull/12891) merged on January 7, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/12891) over 12 hours, 89 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify frame reference and add glossary entry
   <sub>[#12860](https://github.com/flutter/website/pull/12860) merged on January 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12860) over 2 weeks, 18 additions and 2 deletions in 3 files</sub>

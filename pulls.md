@@ -177,5 +177,5 @@
   <sub>[#180644](https://github.com/flutter/flutter/pull/180644) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180644) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; [TEST ONLY, DO NOT REVIEW] Revert "Bump target Windows version to 10 (#180624)"<br />
-  <sub>[#180656](https://github.com/flutter/flutter/pull/180656) opened on on January 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180656) 14 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#180656](https://github.com/flutter/flutter/pull/180656) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180656) 14 additions and 5 deletions in 1 file</sub><br />
 
