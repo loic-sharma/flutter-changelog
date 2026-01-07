@@ -22,7 +22,7 @@
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Forward proxy 404 responses to client
   <sub>[#179858](https://github.com/flutter/flutter/pull/179858) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179858) over 3 weeks, 41 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
-  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://talabat-flutterstream.web.app) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://talabat-flutterstream.web.app)</details></sub>
+  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com)</details></sub>
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Restore CLI precedence for web headers and HTTPS over web_dev_config.yaml
   <sub>[#179639](https://github.com/flutter/flutter/pull/179639) merged on January 6, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/179639) over 4 weeks, 333 additions and 35 deletions in 5 files</sub>
