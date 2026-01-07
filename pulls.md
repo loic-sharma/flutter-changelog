@@ -218,3 +218,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlutterLogo doesn't crash in 0x0 environment<br />
   <sub>[#180617](https://github.com/flutter/flutter/pull/180617) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) 10 additions and 0 deletions in 1 file</sub><br />
 
+* **[Slava Egorov](https://github.com/mraleph)** &mdash; Bump target Windows version to 10<br />
+  <sub>[#180624](https://github.com/flutter/flutter/pull/180624) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180624) 3 additions and 3 deletions in 1 file</sub><br />
+
