@@ -161,6 +161,9 @@
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; De-interleaves engine dart test output<br />
+  <sub>[#180651](https://github.com/flutter/flutter/pull/180651) opened on on January 7, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/180651) 288 additions and 163 deletions in 6 files</sub><br />
+
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; [TEST ONLY, DO NOT REVIEW] Revert "Bump target Windows version to 10 (#180624)"<br />
   <sub>[#180656](https://github.com/flutter/flutter/pull/180656) opened on on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180656) 14 additions and 5 deletions in 1 file</sub><br />
 
