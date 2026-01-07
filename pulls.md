@@ -221,3 +221,6 @@
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Bump target Windows version to 10<br />
   <sub>[#180624](https://github.com/flutter/flutter/pull/180624) opened on on January 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180624) 5 additions and 14 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `KeyboardManagerTest.java`<br />
+  <sub>[#180625](https://github.com/flutter/flutter/pull/180625) opened on on January 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180625) 112 additions and 154 deletions in 1 file</sub><br />
+
