@@ -314,6 +314,11 @@
   <sub>[#178981](https://github.com/flutter/flutter/pull/178981) merged on December 24, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178981) over 1 month, 170 additions and 15 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; docs: clarify dropdown menu text clearing<br />
+  <sub>[#179676](https://github.com/flutter/flutter/pull/179676) merged on December 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/179676) over 1 week, 15 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com)</details></sub>
+
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) merged on December 22, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/178895) over 1 month, 409 additions and 24 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -325,10 +330,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove usages of Android's `AsyncTask` in favor of `java.util.concurrent`<br />
   <sub>[#180050](https://github.com/flutter/flutter/pull/180050) merged on December 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180050) over 4 days, 22 additions and 23 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; docs: clarify dropdown menu text clearing<br />
-  <sub>[#179676](https://github.com/flutter/flutter/pull/179676) merged on December 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/179676) over 1 week, 15 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add SnackBarTheme<br />
   <sub>[#180001](https://github.com/flutter/flutter/pull/180001) merged on December 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180001) over 5 days, 198 additions and 30 deletions in 4 files</sub><br />
