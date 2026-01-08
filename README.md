@@ -482,7 +482,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-19 commits.
+20 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add tutorial index page to navigation dropdown<br />
   <sub>[#12882](https://github.com/flutter/website/pull/12882) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12882) over 1 day, 58 additions and 31 deletions in 6 files</sub><br />
@@ -516,6 +516,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: update GenUI docs for 0.6.0<br />
   <sub>[#12883](https://github.com/flutter/website/pull/12883) merged on January 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12883) over 1 hour, 35 additions and 26 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update banner to call out AI best practices docs<br />
+  <sub>[#12903](https://github.com/flutter/website/pull/12903) merged on January 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12903) over 10 minutes, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add resources index and add glossary to sidenav<br />
   <sub>[#12894](https://github.com/flutter/website/pull/12894) merged on January 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12894) over 2 hours, 9 additions and 1 deletion in 2 files</sub><br />
