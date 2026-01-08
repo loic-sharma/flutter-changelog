@@ -27,7 +27,7 @@
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Forward proxy 404 responses to client<br />
   <sub>[#179858](https://github.com/flutter/flutter/pull/179858) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179858) over 3 weeks, 41 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com)</details></sub>
+  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Restore CLI precedence for web headers and HTTPS over web_dev_config.yaml<br />
   <sub>[#179639](https://github.com/flutter/flutter/pull/179639) merged on January 6, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/179639) over 4 weeks, 333 additions and 35 deletions in 5 files</sub><br />
@@ -317,7 +317,7 @@
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; docs: clarify dropdown menu text clearing<br />
   <sub>[#179676](https://github.com/flutter/flutter/pull/179676) merged on December 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/179676) over 1 week, 15 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com)</details></sub>
+  <sub><details><summary>1 image...</summary>![talabat.com](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)<br />
   <sub>[#178895](https://github.com/flutter/flutter/pull/178895) merged on December 22, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/178895) over 1 month, 409 additions and 24 deletions in 2 files</sub><br />
