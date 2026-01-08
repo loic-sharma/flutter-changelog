@@ -506,7 +506,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-20 commits.
+21 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add tutorial index page to navigation dropdown<br />
   <sub>[#12882](https://github.com/flutter/website/pull/12882) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12882) over 1 day, 58 additions and 31 deletions in 6 files</sub><br />
@@ -563,6 +563,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update repo README for latest requirements and setup<br />
   <sub>[#12884](https://github.com/flutter/website/pull/12884) merged on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12884) over 39 minutes, 33 additions and 10 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Ben Christiansen](https://github.com/BenjChristiansen)** &mdash; docs: note scrollbar differences between Material and Cupertino<br />
+  <sub>[#12899](https://github.com/flutter/website/pull/12899) merged on January 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12899) over 15 hours, 13 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add redirect for framework devtool accessibility support<br />
