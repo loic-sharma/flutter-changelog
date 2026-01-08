@@ -234,7 +234,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Fix iOS xattr removal to clear all extended attributes<br />
-  <sub>[#180355](https://github.com/flutter/flutter/pull/180355) merged on January 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180355) over 1 week, 34 additions and 84 deletions in 7 files</sub><br />
+  <sub>[#180355](https://github.com/flutter/flutter/pull/180355) merged on January 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180355) over 1 week, 34 additions and 84 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Move widget_preview_scaffold tests to `dev/integration_tests/widget_preview_scaffold`<br />
