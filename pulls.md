@@ -176,3 +176,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Revert "Directly generate a Mach-O dynamic library using gen_snapshot [reland] (#174870)<br />
   <sub>[#180687](https://github.com/flutter/flutter/pull/180687) opened on on January 8, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/180687) 328 additions and 111 deletions in 4 files</sub><br />
 
+* **[Albert Wolszon](https://github.com/Albert221)** &mdash; Look for project root for FeatureFlags manifest<br />
+  <sub>[#180689](https://github.com/flutter/flutter/pull/180689) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180689) 53 additions and 1 deletion in 2 files</sub><br />
+
