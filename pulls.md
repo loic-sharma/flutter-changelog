@@ -170,3 +170,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Focus doesn't crash in 0x0 environment<br />
   <sub>[#180674](https://github.com/flutter/flutter/pull/180674) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180674) 19 additions and 0 deletions in 1 file</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
+  <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
+
