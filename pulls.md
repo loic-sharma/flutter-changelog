@@ -177,5 +177,5 @@
   <sub>[#180692](https://github.com/flutter/flutter/pull/180692) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180692) 190 additions and 86 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't serve files outside of project<br />
-  <sub>[#180699](https://github.com/flutter/flutter/pull/180699) opened on on January 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180699) 59 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#180699](https://github.com/flutter/flutter/pull/180699) opened on on January 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180699) 59 additions and 5 deletions in 2 files</sub><br />
 
