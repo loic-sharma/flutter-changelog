@@ -167,9 +167,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to 3.11.0-296.2.beta<br />
-  <sub>[#180685](https://github.com/flutter/flutter/pull/180685) opened on on January 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180685) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Revert "Directly generate a Mach-O dynamic library using gen_snapshot [reland] (#174870)<br />
   <sub>[#180687](https://github.com/flutter/flutter/pull/180687) opened on on January 8, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/180687) 328 additions and 111 deletions in 4 files</sub><br />
 
@@ -177,5 +174,5 @@
   <sub>[#180689](https://github.com/flutter/flutter/pull/180689) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180689) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix issue where web embedder is synthesizing key up events too eagerly<br />
-  <sub>[#180692](https://github.com/flutter/flutter/pull/180692) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180692) 127 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#180692](https://github.com/flutter/flutter/pull/180692) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180692) 190 additions and 86 deletions in 2 files</sub><br />
 
