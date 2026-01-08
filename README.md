@@ -429,11 +429,15 @@
 
 ### January 3, 2026 to January 9, 2026
 
-14 commits.
+15 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release<br />
   <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Raju Muliyashiya](https://github.com/raju-muliyashiya)** &mdash; [video_player_avfoundation] Fix deprecated tracksWithMediaType usage<br />
+  <sub>[#10553](https://github.com/flutter/packages/pull/10553) merged on January 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10553) over 1 month, 90 additions and 26 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; Update Google Fonts to v7.0.0 with new and removed fonts<br />
   <sub>[#10713](https://github.com/flutter/packages/pull/10713) merged on January 6, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10713) over 1 day, 36983 additions and 12154 deletions in 31 files</sub><br />
