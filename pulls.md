@@ -86,9 +86,6 @@
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Fix --no-hot flag not working on web-server<br />
   <sub>[#180166](https://github.com/flutter/flutter/pull/180166) opened on on December 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180166) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kishimoto](https://github.com/Koichi5)** &mdash; Fix typo in dropdown_menu.dart<br />
-  <sub>[#180172](https://github.com/flutter/flutter/pull/180172) opened on on December 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180172) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSwitcher doesn't crash in 0x0 environment<br />
   <sub>[#180190](https://github.com/flutter/flutter/pull/180190) opened on on December 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180190) 12 additions and 0 deletions in 1 file</sub><br />
 
@@ -178,4 +175,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't serve files outside of project<br />
   <sub>[#180699](https://github.com/flutter/flutter/pull/180699) opened on on January 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180699) 59 additions and 5 deletions in 2 files</sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix vertical SegmentedButton not filling available width under bounded constraints<br />
+  <sub>[#180701](https://github.com/flutter/flutter/pull/180701) opened on on January 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180701) 73 additions and 0 deletions in 2 files</sub><br />
 
