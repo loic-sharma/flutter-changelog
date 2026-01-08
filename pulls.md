@@ -176,3 +176,6 @@
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Look for project root for FeatureFlags manifest<br />
   <sub>[#180689](https://github.com/flutter/flutter/pull/180689) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180689) 53 additions and 1 deletion in 2 files</sub><br />
 
+* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix issue where web embedder is synthesizing key up events too eagerly<br />
+  <sub>[#180692](https://github.com/flutter/flutter/pull/180692) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180692) 127 additions and 12 deletions in 2 files</sub><br />
+
