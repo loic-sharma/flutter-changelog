@@ -149,9 +149,6 @@
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; draggable_scrollable_sheet_test/focus_traversal_test/linked_scroll_view_test/list_view_test Material imports clean up + remove Divider from scroll_view_test<br />
-  <sub>[#180657](https://github.com/flutter/flutter/pull/180657) opened on on January 7, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/180657) 449 additions and 278 deletions in 8 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Focus doesn't crash in 0x0 environment<br />
   <sub>[#180674](https://github.com/flutter/flutter/pull/180674) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180674) 19 additions and 0 deletions in 1 file</sub><br />
 
@@ -160,9 +157,6 @@
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Look for project root for FeatureFlags manifest<br />
   <sub>[#180689](https://github.com/flutter/flutter/pull/180689) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180689) 53 additions and 1 deletion in 2 files</sub><br />
-
-* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix issue where web embedder is synthesizing key up events too eagerly<br />
-  <sub>[#180692](https://github.com/flutter/flutter/pull/180692) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180692) 190 additions and 86 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't serve files outside of project<br />
   <sub>[#180699](https://github.com/flutter/flutter/pull/180699) opened on on January 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180699) 59 additions and 5 deletions in 2 files</sub><br />
