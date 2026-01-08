@@ -135,7 +135,7 @@
   <sub>[#180429](https://github.com/flutter/flutter/pull/180429) opened on on January 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180429) 75 additions and 45 deletions in 14 files</sub><br />
 
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
-  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180452) 35 additions and 40 deletions in 1 file</sub><br />
+  <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180452) 35 additions and 40 deletions in 1 file</sub><br />
 
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message to require leading v<br />
   <sub>[#180467](https://github.com/flutter/flutter/pull/180467) opened on on January 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180467) 3 additions and 3 deletions in 2 files</sub><br />
@@ -162,7 +162,7 @@
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; De-interleaves engine dart test output<br />
-  <sub>[#180651](https://github.com/flutter/flutter/pull/180651) opened on on January 7, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/180651) 291 additions and 163 deletions in 6 files</sub><br />
+  <sub>[#180651](https://github.com/flutter/flutter/pull/180651) opened on on January 7, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/180651) 291 additions and 163 deletions in 6 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; draggable_scrollable_sheet_test + list_view_test + focus_traversal_test Material imports clean up<br />
   <sub>[#180657](https://github.com/flutter/flutter/pull/180657) opened on on January 7, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/180657) 441 additions and 270 deletions in 7 files</sub><br />
