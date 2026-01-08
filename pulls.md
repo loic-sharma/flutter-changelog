@@ -51,7 +51,7 @@
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
-  <sub>[#178931](https://github.com/flutter/flutter/pull/178931) opened on on November 21, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) 2153 additions and 375 deletions in 25 files</sub><br />
+  <sub>[#178931](https://github.com/flutter/flutter/pull/178931) opened on on November 21, 2025 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) 2433 additions and 535 deletions in 25 files</sub><br />
 
 * **[Mulla Arsiya Tasleem](https://github.com/ArsiyaTasleem90250)** &mdash; Add unit tests for isEven utility function<br />
   <sub>[#179145](https://github.com/flutter/flutter/pull/179145) opened on on November 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179145) 15 additions and 0 deletions in 1 file</sub><br />
@@ -160,9 +160,6 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Revert "Directly generate a Mach-O dynamic library using gen_snapshot [reland] (#174870)<br />
-  <sub>[#180687](https://github.com/flutter/flutter/pull/180687) opened on on January 8, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/180687) 328 additions and 111 deletions in 4 files</sub><br />
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Look for project root for FeatureFlags manifest<br />
   <sub>[#180689](https://github.com/flutter/flutter/pull/180689) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180689) 53 additions and 1 deletion in 2 files</sub><br />
