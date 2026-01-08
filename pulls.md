@@ -171,5 +171,5 @@
   <sub>[#180699](https://github.com/flutter/flutter/pull/180699) opened on on January 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180699) 59 additions and 5 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix vertical SegmentedButton not filling available width under bounded constraints<br />
-  <sub>[#180701](https://github.com/flutter/flutter/pull/180701) opened on on January 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180701) 67 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#180701](https://github.com/flutter/flutter/pull/180701) opened on on January 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180701) 67 additions and 0 deletions in 2 files</sub><br />
 
