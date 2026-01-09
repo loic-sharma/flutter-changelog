@@ -195,5 +195,5 @@
   <sub>[#180737](https://github.com/flutter/flutter/pull/180737) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180737) 7 additions and 2 deletions in 1 file</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Allowlist for dependencies of sdk packages<br />
-  <sub>[#180740](https://github.com/flutter/flutter/pull/180740) opened on on January 9, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/180740) 1729 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#180740](https://github.com/flutter/flutter/pull/180740) opened on on January 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180740) 121 additions and 0 deletions in 1 file</sub><br />
 
