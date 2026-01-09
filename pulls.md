@@ -152,6 +152,9 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Merge `widget_tester_leaks_free_test.dart` into `widget_tester_test.dart`<br />
   <sub>[#180600](https://github.com/flutter/flutter/pull/180600) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180600) 21 additions and 29 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Removes `RequiresApi 23`<br />
+  <sub>[#180629](https://github.com/flutter/flutter/pull/180629) opened on on January 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180629) 1 addition and 13 deletions in 4 files</sub><br />
+
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
@@ -189,7 +192,7 @@
   <sub>[#180730](https://github.com/flutter/flutter/pull/180730) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180730) 27 additions and 22 deletions in 1 file</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
-  <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 108 additions and 14 deletions in 3 files</sub><br />
+  <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add ccache support for custom toolchain<br />
   <sub>[#180737](https://github.com/flutter/flutter/pull/180737) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180737) 7 additions and 2 deletions in 1 file</sub><br />
@@ -199,4 +202,7 @@
 
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; Fixes FocusHighlightMode on Android when typing in software keyboard<br />
   <sub>[#180753](https://github.com/flutter/flutter/pull/180753) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180753) 52 additions and 1 deletion in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enabled some disabled impeller fragment shader dart tests<br />
+  <sub>[#180759](https://github.com/flutter/flutter/pull/180759) opened on on January 9, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/180759) 256 additions and 280 deletions in 4 files</sub><br />
 
