@@ -41,6 +41,10 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
   <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
 
+* **[Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing
+  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) merged on January 8, 2026 &mdash; **Large:** [49 comments](https://github.com/flutter/flutter/pull/177888) over 2 months, 523 additions and 43 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Raw tooltip with smaller API surface that exposes tooltip widget
   <sub>[#177678](https://github.com/flutter/flutter/pull/177678) merged on January 7, 2026 &mdash; **Extra large:** [157 comments](https://github.com/flutter/flutter/pull/177678) over 2 months, 4030 additions and 2562 deletions in 12 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai), [Tong Mu](https://github.com/dkwingsmt)</sub>
@@ -48,10 +52,6 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of tooltip windows for win32
   <sub>[#179147](https://github.com/flutter/flutter/pull/179147) merged on January 8, 2026 &mdash; **Extra large:** [127 comments](https://github.com/flutter/flutter/pull/179147) over 1 month, 2220 additions and 187 deletions in 44 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Auto-generate ExportOptions.plist for manual iOS code signing
-  <sub>[#177888](https://github.com/flutter/flutter/pull/177888) merged on January 8, 2026 &mdash; **Large:** [49 comments](https://github.com/flutter/flutter/pull/177888) over 2 months, 523 additions and 43 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix linter warnings in `AccessibilityBridgeTest.java‎`
   <sub>[#180118](https://github.com/flutter/flutter/pull/180118) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180118) over 2 weeks, 87 additions and 87 deletions in 1 file</sub>
