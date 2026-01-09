@@ -185,9 +185,6 @@
 * **[Ankit Saroj](https://github.com/Ankitsaroj94)** &mdash; widget_inspector: respect SafeArea insets for overlay buttons<br />
   <sub>[#180726](https://github.com/flutter/flutter/pull/180726) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180726) 74 additions and 22 deletions in 2 files</sub><br />
 
-* **[Huy](https://github.com/huycozy)** &mdash; Add TabBar API example for scroll notification integration<br />
-  <sub>[#180728](https://github.com/flutter/flutter/pull/180728) opened on on January 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180728) 261 additions and 0 deletions in 3 files</sub><br />
-
 * **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix/widget inspector overlap with nav bar with safe area<br />
   <sub>[#180730](https://github.com/flutter/flutter/pull/180730) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180730) 27 additions and 22 deletions in 1 file</sub><br />
 
