@@ -168,7 +168,7 @@
   <sub>[#180701](https://github.com/flutter/flutter/pull/180701) opened on on January 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180701) 67 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Remove specific iOS extended attributes to fix code signing<br />
-  <sub>[#180710](https://github.com/flutter/flutter/pull/180710) opened on on January 9, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/180710) 316 additions and 95 deletions in 7 files</sub><br />
+  <sub>[#180710](https://github.com/flutter/flutter/pull/180710) opened on on January 9, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/180710) 316 additions and 95 deletions in 7 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.53<br />
   <sub>[#180712](https://github.com/flutter/flutter/pull/180712) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180712) 1 addition and 1 deletion in 1 file</sub><br />
