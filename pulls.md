@@ -171,7 +171,7 @@
   <sub>[#180710](https://github.com/flutter/flutter/pull/180710) opened on on January 9, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/180710) 316 additions and 95 deletions in 7 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.53<br />
-  <sub>[#180712](https://github.com/flutter/flutter/pull/180712) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180712) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#180712](https://github.com/flutter/flutter/pull/180712) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180712) 1 addition and 21 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FocusScope doesn't crash in 0x0 environment<br />
   <sub>[#180715](https://github.com/flutter/flutter/pull/180715) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180715) 18 additions and 0 deletions in 1 file</sub><br />
@@ -207,7 +207,7 @@
   <sub>[#180759](https://github.com/flutter/flutter/pull/180759) opened on on January 9, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/180759) 248 additions and 262 deletions in 4 files</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Migrate gradient creation to the new SkShaders API<br />
-  <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 46 additions and 29 deletions in 4 files</sub><br />
+  <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 44 additions and 35 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`<br />
   <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180768) 48 additions and 18 deletions in 7 files</sub><br />
