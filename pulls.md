@@ -176,3 +176,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FocusScope doesn't crash in 0x0 environment<br />
   <sub>[#180715](https://github.com/flutter/flutter/pull/180715) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180715) 18 additions and 0 deletions in 1 file</sub><br />
 
+* **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; fix: widget inspector nav bar overlap<br />
+  <sub>[#180721](https://github.com/flutter/flutter/pull/180721) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180721) 30 additions and 22 deletions in 1 file</sub><br />
+
+* **[Ankit Saroj](https://github.com/Ankitsaroj94)** &mdash; widget_inspector: respect SafeArea insets for overlay buttons<br />
+  <sub>[#180723](https://github.com/flutter/flutter/pull/180723) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180723) 74 additions and 22 deletions in 2 files</sub><br />
+
