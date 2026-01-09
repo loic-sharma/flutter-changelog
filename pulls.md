@@ -156,7 +156,7 @@
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Focus doesn't crash in 0x0 environment<br />
-  <sub>[#180674](https://github.com/flutter/flutter/pull/180674) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180674) 19 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180674](https://github.com/flutter/flutter/pull/180674) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180674) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
@@ -174,7 +174,7 @@
   <sub>[#180712](https://github.com/flutter/flutter/pull/180712) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180712) 5 additions and 25 deletions in 4 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FocusScope doesn't crash in 0x0 environment<br />
-  <sub>[#180715](https://github.com/flutter/flutter/pull/180715) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180715) 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180715](https://github.com/flutter/flutter/pull/180715) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180715) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; fix: widget inspector nav bar overlap<br />
   <sub>[#180721](https://github.com/flutter/flutter/pull/180721) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180721) 30 additions and 22 deletions in 1 file</sub><br />
