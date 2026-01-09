@@ -203,9 +203,6 @@
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; Fixes FocusHighlightMode on Android when typing in software keyboard<br />
   <sub>[#180753](https://github.com/flutter/flutter/pull/180753) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180753) 52 additions and 1 deletion in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enabled some disabled impeller fragment shader dart tests<br />
-  <sub>[#180759](https://github.com/flutter/flutter/pull/180759) opened on on January 9, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/180759) 248 additions and 262 deletions in 4 files</sub><br />
-
 * **[bungeman](https://github.com/bungeman)** &mdash; Migrate gradient creation to the new SkShaders API<br />
   <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 44 additions and 35 deletions in 4 files</sub><br />
 
