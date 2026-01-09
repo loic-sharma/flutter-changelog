@@ -147,7 +147,7 @@
   <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180514) 192 additions and 20 deletions in 2 files</sub><br />
 
 * **[Aryan Shukla](https://github.com/Telomelonia)** &mdash; feat: Add --reporter=summary option to flutter test<br />
-  <sub>[#180580](https://github.com/flutter/flutter/pull/180580) opened on on January 6, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/180580) 721 additions and 5 deletions in 7 files</sub><br />
+  <sub>[#180580](https://github.com/flutter/flutter/pull/180580) opened on on January 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/180580) 721 additions and 5 deletions in 7 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Merge `widget_tester_leaks_free_test.dart` into `widget_tester_test.dart`<br />
   <sub>[#180600](https://github.com/flutter/flutter/pull/180600) opened on on January 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180600) 21 additions and 29 deletions in 2 files</sub><br />
