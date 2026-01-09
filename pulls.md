@@ -191,3 +191,6 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 108 additions and 14 deletions in 3 files</sub><br />
 
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add ccache support for custom toolchain<br />
+  <sub>[#180737](https://github.com/flutter/flutter/pull/180737) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180737) 7 additions and 2 deletions in 1 file</sub><br />
+
