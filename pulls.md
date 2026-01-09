@@ -180,7 +180,7 @@
   <sub>[#180721](https://github.com/flutter/flutter/pull/180721) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180721) 30 additions and 22 deletions in 1 file</sub><br />
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Implement superellipse support for CupertinoFocusHalo<br />
-  <sub>[#180724](https://github.com/flutter/flutter/pull/180724) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180724) 192 additions and 43 deletions in 2 files</sub><br />
+  <sub>[#180724](https://github.com/flutter/flutter/pull/180724) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180724) 192 additions and 43 deletions in 2 files</sub><br />
 
 * **[Ankit Saroj](https://github.com/Ankitsaroj94)** &mdash; widget_inspector: respect SafeArea insets for overlay buttons<br />
   <sub>[#180726](https://github.com/flutter/flutter/pull/180726) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180726) 74 additions and 22 deletions in 2 files</sub><br />
