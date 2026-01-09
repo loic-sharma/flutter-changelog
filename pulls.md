@@ -161,3 +161,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix vertical SegmentedButton not filling available width under bounded constraints<br />
   <sub>[#180701](https://github.com/flutter/flutter/pull/180701) opened on on January 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180701) 67 additions and 0 deletions in 2 files</sub><br />
 
+* **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Remove specific iOS extended attributes to fix code signing<br />
+  <sub>[#180710](https://github.com/flutter/flutter/pull/180710) opened on on January 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180710) 225 additions and 68 deletions in 7 files</sub><br />
+
