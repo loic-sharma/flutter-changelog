@@ -179,14 +179,11 @@
 * **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; fix: widget inspector nav bar overlap<br />
   <sub>[#180721](https://github.com/flutter/flutter/pull/180721) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180721) 30 additions and 22 deletions in 1 file</sub><br />
 
-* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Implement superellipse support for CupertinoFocusHalo<br />
-  <sub>[#180724](https://github.com/flutter/flutter/pull/180724) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180724) 192 additions and 43 deletions in 2 files</sub><br />
-
 * **[Ankit Saroj](https://github.com/Ankitsaroj94)** &mdash; widget_inspector: respect SafeArea insets for overlay buttons<br />
   <sub>[#180726](https://github.com/flutter/flutter/pull/180726) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180726) 74 additions and 22 deletions in 2 files</sub><br />
 
 * **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix/widget inspector overlap with nav bar with safe area<br />
-  <sub>[#180730](https://github.com/flutter/flutter/pull/180730) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180730) 27 additions and 22 deletions in 1 file</sub><br />
+  <sub>[#180730](https://github.com/flutter/flutter/pull/180730) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180730) 27 additions and 22 deletions in 1 file</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
