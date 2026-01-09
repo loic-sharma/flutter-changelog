@@ -28,6 +28,10 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>2 images...</summary><img width="481" height="515" alt="before" src="https://github.com/user-attachments/assets/c9644fed-4016-4dea-9e39-c5c5fa311cee" /><img width="481" height="515" alt="after" src="https://github.com/user-attachments/assets/f77629e3-4d7e-49fb-9e8f-d044e3dd348c" /></details></sub>
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement popup windows in the API and test code<br />
+  <sub>[#179757](https://github.com/flutter/flutter/pull/179757) merged on January 5, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/179757) over 3 weeks, 1113 additions and 134 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Restore CLI precedence for web headers and HTTPS over web_dev_config.yaml<br />
   <sub>[#179639](https://github.com/flutter/flutter/pull/179639) merged on January 6, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/179639) over 4 weeks, 333 additions and 35 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -40,10 +44,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Raw tooltip with smaller API surface that exposes tooltip widget<br />
   <sub>[#177678](https://github.com/flutter/flutter/pull/177678) merged on January 7, 2026 &mdash; **Extra large:** [157 comments](https://github.com/flutter/flutter/pull/177678) over 2 months, 4030 additions and 2562 deletions in 12 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implement popup windows in the API and test code<br />
-  <sub>[#179757](https://github.com/flutter/flutter/pull/179757) merged on January 5, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/179757) over 3 weeks, 1113 additions and 134 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of tooltip windows for win32<br />
   <sub>[#179147](https://github.com/flutter/flutter/pull/179147) merged on January 8, 2026 &mdash; **Extra large:** [127 comments](https://github.com/flutter/flutter/pull/179147) over 1 month, 2220 additions and 187 deletions in 44 files</sub><br />
