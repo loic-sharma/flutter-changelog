@@ -86,9 +86,6 @@
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Fix --no-hot flag not working on web-server<br />
   <sub>[#180166](https://github.com/flutter/flutter/pull/180166) opened on on December 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180166) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSwitcher doesn't crash in 0x0 environment<br />
-  <sub>[#180190](https://github.com/flutter/flutter/pull/180190) opened on on December 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180190) 12 additions and 0 deletions in 1 file</sub><br />
-
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
@@ -163,9 +160,6 @@
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Look for project root for FeatureFlags manifest<br />
   <sub>[#180689](https://github.com/flutter/flutter/pull/180689) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180689) 53 additions and 1 deletion in 2 files</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix vertical SegmentedButton not filling available width under bounded constraints<br />
-  <sub>[#180701](https://github.com/flutter/flutter/pull/180701) opened on on January 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180701) 67 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Remove specific iOS extended attributes to fix code signing<br />
   <sub>[#180710](https://github.com/flutter/flutter/pull/180710) opened on on January 9, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/180710) 316 additions and 95 deletions in 7 files</sub><br />
