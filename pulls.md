@@ -200,9 +200,12 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Allowlist for dependencies of sdk packages<br />
   <sub>[#180740](https://github.com/flutter/flutter/pull/180740) opened on on January 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180740) 121 additions and 0 deletions in 1 file</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Adds `clearError` API to Form and FormFieldState<br />
+  <sub>[#180752](https://github.com/flutter/flutter/pull/180752) opened on on January 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180752) 84 additions and 0 deletions in 2 files</sub><br />
+
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; Fixes FocusHighlightMode on Android when typing in software keyboard<br />
   <sub>[#180753](https://github.com/flutter/flutter/pull/180753) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180753) 52 additions and 1 deletion in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enabled some disabled impeller fragment shader dart tests<br />
-  <sub>[#180759](https://github.com/flutter/flutter/pull/180759) opened on on January 9, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/180759) 256 additions and 280 deletions in 4 files</sub><br />
+  <sub>[#180759](https://github.com/flutter/flutter/pull/180759) opened on on January 9, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/180759) 248 additions and 262 deletions in 4 files</sub><br />
 
