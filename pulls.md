@@ -204,11 +204,14 @@
   <sub>[#180753](https://github.com/flutter/flutter/pull/180753) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180753) 52 additions and 1 deletion in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enabled some disabled impeller fragment shader dart tests<br />
-  <sub>[#180759](https://github.com/flutter/flutter/pull/180759) opened on on January 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/180759) 248 additions and 262 deletions in 4 files</sub><br />
+  <sub>[#180759](https://github.com/flutter/flutter/pull/180759) opened on on January 9, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/180759) 248 additions and 262 deletions in 4 files</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Migrate gradient creation to the new SkShaders API<br />
   <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 46 additions and 29 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`<br />
   <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180768) 48 additions and 18 deletions in 7 files</sub><br />
+
+* **[yahyayemen](https://github.com/yahyayemen)** &mdash; Update settings.json<br />
+  <sub>[#180769](https://github.com/flutter/flutter/pull/180769) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180769) 6 additions and 2 deletions in 2 files</sub><br />
 
