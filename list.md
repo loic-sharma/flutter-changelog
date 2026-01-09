@@ -525,6 +525,10 @@
   <sub>[#12860](https://github.com/flutter/website/pull/12860) merged on January 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12860) over 2 weeks, 18 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove the TextField.canRequestFocus breaking change guide
+  <sub>[#12893](https://github.com/flutter/website/pull/12893) merged on January 7, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12893) over 1 hour, 1 addition and 97 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add link to the Flutter style updates design doc
   <sub>[#12890](https://github.com/flutter/website/pull/12890) merged on January 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12890) over 57 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
@@ -552,10 +556,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Collect AI-related content together and standardize titles
   <sub>[#12895](https://github.com/flutter/website/pull/12895) merged on January 7, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12895) over 24 minutes, 65 additions and 99 deletions in 20 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove the TextField.canRequestFocus breaking change guide
-  <sub>[#12893](https://github.com/flutter/website/pull/12893) merged on January 7, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12893) over 1 hour, 1 addition and 97 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add DevTools release notes for 2.54.0
   <sub>[#12889](https://github.com/flutter/website/pull/12889) merged on January 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12889) over 1 hour, 41 additions and 0 deletions in 1 file</sub>
