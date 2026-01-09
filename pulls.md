@@ -209,3 +209,6 @@
 * **[bungeman](https://github.com/bungeman)** &mdash; Migrate gradient creation to the new SkShaders API<br />
   <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 46 additions and 29 deletions in 4 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`<br />
+  <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180768) 48 additions and 18 deletions in 7 files</sub><br />
+
