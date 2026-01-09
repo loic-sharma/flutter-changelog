@@ -71,9 +71,6 @@
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add Translate to iOS selection context menu<br />
-  <sub>[#180021](https://github.com/flutter/flutter/pull/180021) opened on on December 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/180021) 1533 additions and 240 deletions in 265 files</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
   <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
 
