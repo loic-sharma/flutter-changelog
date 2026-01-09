@@ -441,7 +441,7 @@
 
 ### January 3, 2026 to January 9, 2026
 
-15 commits.
+16 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release
   <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub>
@@ -498,6 +498,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adjust workflow for dispatching go_router batch release
   <sub>[#10733](https://github.com/flutter/packages/pull/10733) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10733) over 47 minutes, 4 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from f6ff1529fd6d to 8b872868494e (11 revisions)
+  <sub>[#10755](https://github.com/flutter/packages/pull/10755) merged on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10755) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from 66dd93f9a27f to f6ff1529fd6d (2 revisions)
   <sub>[#10746](https://github.com/flutter/packages/pull/10746) merged on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10746) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
