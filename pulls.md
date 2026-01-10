@@ -78,7 +78,7 @@
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) opened on on December 18, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180100) 205 additions and 52 deletions in 2 files</sub><br />
 
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
-  <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/180131) 106 additions and 47 deletions in 2 files</sub><br />
+  <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/180131) 102 additions and 54 deletions in 2 files</sub><br />
 
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; docs(Path): clarify that zero-length contours are excluded from computeMetrics<br />
   <sub>[#180165](https://github.com/flutter/flutter/pull/180165) opened on on December 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180165) 4 additions and 0 deletions in 1 file</sub><br />
