@@ -167,14 +167,8 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FocusScope doesn't crash in 0x0 environment<br />
   <sub>[#180715](https://github.com/flutter/flutter/pull/180715) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180715) 18 additions and 0 deletions in 1 file</sub><br />
 
-* **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; fix: widget inspector nav bar overlap<br />
-  <sub>[#180721](https://github.com/flutter/flutter/pull/180721) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180721) 30 additions and 22 deletions in 1 file</sub><br />
-
 * **[Ankit Saroj](https://github.com/Ankitsaroj94)** &mdash; widget_inspector: respect SafeArea insets for overlay buttons<br />
   <sub>[#180726](https://github.com/flutter/flutter/pull/180726) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180726) 74 additions and 22 deletions in 2 files</sub><br />
-
-* **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix/widget inspector overlap with nav bar with safe area<br />
-  <sub>[#180730](https://github.com/flutter/flutter/pull/180730) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180730) 27 additions and 22 deletions in 1 file</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -199,4 +193,7 @@
 
 * **[yahyayemen](https://github.com/yahyayemen)** &mdash; Update settings.json<br />
   <sub>[#180769](https://github.com/flutter/flutter/pull/180769) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180769) 6 additions and 2 deletions in 2 files</sub><br />
+
+* **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix widget inspector control layout and add safe area regression test<br />
+  <sub>[#180789](https://github.com/flutter/flutter/pull/180789) opened on on January 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180789) 54 additions and 1 deletion in 2 files</sub><br />
 
