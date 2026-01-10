@@ -197,3 +197,6 @@
 * **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix widget inspector control layout and add safe area regression test<br />
   <sub>[#180789](https://github.com/flutter/flutter/pull/180789) opened on on January 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180789) 54 additions and 1 deletion in 2 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Form doesn't crash in 0x0 environment<br />
+  <sub>[#180792](https://github.com/flutter/flutter/pull/180792) opened on on January 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180792) 12 additions and 0 deletions in 1 file</sub><br />
+
