@@ -200,3 +200,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Form doesn't crash in 0x0 environment<br />
   <sub>[#180792](https://github.com/flutter/flutter/pull/180792) opened on on January 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180792) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Filter error messages from `emulator -list-avds` output<br />
+  <sub>[#180802](https://github.com/flutter/flutter/pull/180802) opened on on January 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180802) 39 additions and 2 deletions in 2 files</sub><br />
+
