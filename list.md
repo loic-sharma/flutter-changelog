@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-8 commits.
+9 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub>
@@ -14,6 +14,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter run -d all` crash
   <sub>[#180845](https://github.com/flutter/flutter/pull/180845) merged on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180845) over 3 hours, 71 additions and 23 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Moritz](https://github.com/mosuem)</sub>
+
+* **[GowsikRaja](https://github.com/gowsikraja)** &mdash; Add API sample and docs for Expansible widget
+  <sub>[#180273](https://github.com/flutter/flutter/pull/180273) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180273) over 2 weeks, 105 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump ffigen
   <sub>[#180507](https://github.com/flutter/flutter/pull/180507) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180507) over 6 days, 15 additions and 9 deletions in 6 files</sub>
@@ -543,11 +547,15 @@
 
 ### January 10, 2026 to January 16, 2026
 
-1 commits.
+2 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add Adaptive definition to glossary
   <sub>[#12909](https://github.com/flutter/website/pull/12909) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12909) over 3 days, 23 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Add page transition builder reorganization guide
+  <sub>[#12914](https://github.com/flutter/website/pull/12914) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12914) over 13 hours, 89 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### January 3, 2026 to January 9, 2026
 
