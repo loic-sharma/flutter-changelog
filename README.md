@@ -558,13 +558,13 @@
 
 2 commits.
 
-* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add Adaptive definition to glossary<br />
-  <sub>[#12909](https://github.com/flutter/website/pull/12909) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12909) over 3 days, 23 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Add page transition builder reorganization guide<br />
   <sub>[#12914](https://github.com/flutter/website/pull/12914) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12914) over 13 hours, 89 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add Adaptive definition to glossary<br />
+  <sub>[#12909](https://github.com/flutter/website/pull/12909) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12909) over 3 days, 23 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 ### January 3, 2026 to January 9, 2026
 
