@@ -224,3 +224,6 @@
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix false positives for hit test misses in flutter_test<br />
   <sub>[#180856](https://github.com/flutter/flutter/pull/180856) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180856) 104 additions and 6 deletions in 3 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Fix `flutter run -d all` crash<br />
+  <sub>[#180864](https://github.com/flutter/flutter/pull/180864) opened on on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180864) 71 additions and 23 deletions in 2 files</sub><br />
+
