@@ -114,7 +114,7 @@
   <sub>[#180411](https://github.com/flutter/flutter/pull/180411) opened on on December 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180411) 280 additions and 11 deletions in 5 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; fix(windows): use wcsnlen for defensive programming (CWE-126)<br />
-  <sub>[#180419](https://github.com/flutter/flutter/pull/180419) opened on on December 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180419) 45 additions and 25 deletions in 5 files</sub><br />
+  <sub>[#180419](https://github.com/flutter/flutter/pull/180419) opened on on December 31, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180419) 45 additions and 25 deletions in 5 files</sub><br />
 
 * **[Natan Sągol](https://github.com/merlinnot)** &mdash; fix(cmake): make native_assets install conditional<br />
   <sub>[#180429](https://github.com/flutter/flutter/pull/180429) opened on on January 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180429) 75 additions and 45 deletions in 14 files</sub><br />
@@ -198,7 +198,7 @@
   <sub>[#180802](https://github.com/flutter/flutter/pull/180802) opened on on January 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180802) 39 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ibrar-devs](https://github.com/Ibrar-devs)** &mdash; fixing listTile Clip behavior <br />
-  <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
 
 * **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …<br />
   <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
@@ -223,4 +223,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Fix `flutter run -d all` crash<br />
   <sub>[#180864](https://github.com/flutter/flutter/pull/180864) opened on on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180864) 71 additions and 23 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Tool ] Fix `flutter run -d all` crash <br />
+  <sub>[#180867](https://github.com/flutter/flutter/pull/180867) opened on on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180867) 67 additions and 14 deletions in 2 files</sub><br />
 
