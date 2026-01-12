@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### January 10, 2026 to January 16, 2026
+
+1 commits.
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlutterLogo doesn't crash in 0x0 environment
+  <sub>[#180617](https://github.com/flutter/flutter/pull/180617) merged on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) over 4 days, 10 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 ### January 3, 2026 to January 9, 2026
 
-83 commits.
+<details>
+<summary>83 commits...</summary>
 
 * **[🧙‍♂️ O Mago do Flutter 🪄](https://github.com/ulisseshen)** &mdash; Add --web-define flag for template variable injection in Flutter web builds
   <sub>[#175805](https://github.com/flutter/flutter/pull/175805) merged on January 7, 2026 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/175805) over 3 months, 404 additions and 15 deletions in 12 files</sub>
@@ -345,6 +354,8 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Revert "Reverts "[reland] Unify canvas creation and Surface code in S…kwasm and CanvasKit (#179473)" (#180152)"
   <sub>[#180610](https://github.com/flutter/flutter/pull/180610) merged on January 8, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/180610) over 1 day, 1704 additions and 1363 deletions in 38 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+</details>
 
 ### December 27, 2025 to January 2, 2026
 
