@@ -140,9 +140,6 @@
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Flexible and Expanded (fixes #168365)<br />
   <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180514) 192 additions and 20 deletions in 2 files</sub><br />
 
-* **[Aryan Shukla](https://github.com/Telomelonia)** &mdash; feat: Add --reporter=summary option to flutter test<br />
-  <sub>[#180580](https://github.com/flutter/flutter/pull/180580) opened on on January 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/180580) 721 additions and 5 deletions in 7 files</sub><br />
-
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
@@ -226,7 +223,4 @@
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix false positives for hit test misses in flutter_test<br />
   <sub>[#180856](https://github.com/flutter/flutter/pull/180856) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180856) 104 additions and 6 deletions in 3 files</sub><br />
-
-* **[b-luk](https://github.com/b-luk)** &mdash; Add build-time checks for ImpellerC's SkSL compiler<br />
-  <sub>[#180861](https://github.com/flutter/flutter/pull/180861) opened on on January 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180861) 158 additions and 1 deletion in 9 files</sub><br />
 
