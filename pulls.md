@@ -117,7 +117,7 @@
   <sub>[#180411](https://github.com/flutter/flutter/pull/180411) opened on on December 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180411) 280 additions and 11 deletions in 5 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; fix(windows): use wcsnlen for defensive programming (CWE-126)<br />
-  <sub>[#180419](https://github.com/flutter/flutter/pull/180419) opened on on December 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180419) 9 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#180419](https://github.com/flutter/flutter/pull/180419) opened on on December 31, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180419) 45 additions and 25 deletions in 5 files</sub><br />
 
 * **[Natan Sągol](https://github.com/merlinnot)** &mdash; fix(cmake): make native_assets install conditional<br />
   <sub>[#180429](https://github.com/flutter/flutter/pull/180429) opened on on January 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180429) 75 additions and 45 deletions in 14 files</sub><br />
@@ -189,7 +189,7 @@
   <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 44 additions and 35 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`<br />
-  <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180768) 48 additions and 18 deletions in 7 files</sub><br />
+  <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180768) 48 additions and 18 deletions in 7 files</sub><br />
 
 * **[yahyayemen](https://github.com/yahyayemen)** &mdash; Update settings.json<br />
   <sub>[#180769](https://github.com/flutter/flutter/pull/180769) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180769) 6 additions and 2 deletions in 2 files</sub><br />
