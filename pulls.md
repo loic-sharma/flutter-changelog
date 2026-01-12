@@ -227,3 +227,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ErrorWidget doesn't crash in 0x0 environment<br />
   <sub>[#180830](https://github.com/flutter/flutter/pull/180830) opened on on January 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180830) 10 additions and 0 deletions in 1 file</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Unpin google_mobile_ads"<br />
+  <sub>[#180838](https://github.com/flutter/flutter/pull/180838) opened on on January 12, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180838) 261 additions and 173 deletions in 6 files</sub><br />
+
