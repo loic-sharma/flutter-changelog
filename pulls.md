@@ -213,10 +213,10 @@
   <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add fields getter to FormState<br />
-  <sub>[#180815](https://github.com/flutter/flutter/pull/180815) opened on on January 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180815) 125 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#180815](https://github.com/flutter/flutter/pull/180815) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180815) 125 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add useStrictAutovalidateMode to respect per-field autovalidateMode<br />
-  <sub>[#180822](https://github.com/flutter/flutter/pull/180822) opened on on January 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180822) 174 additions and 38 deletions in 2 files</sub><br />
+  <sub>[#180822](https://github.com/flutter/flutter/pull/180822) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180822) 178 additions and 38 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ErrorWidget doesn't crash in 0x0 environment<br />
   <sub>[#180830](https://github.com/flutter/flutter/pull/180830) opened on on January 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180830) 10 additions and 0 deletions in 1 file</sub><br />
