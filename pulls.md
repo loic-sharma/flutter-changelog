@@ -170,9 +170,6 @@
 * **[Ankit Saroj](https://github.com/Ankitsaroj94)** &mdash; widget_inspector: respect SafeArea insets for overlay buttons<br />
   <sub>[#180726](https://github.com/flutter/flutter/pull/180726) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180726) 74 additions and 22 deletions in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix `documentation member not recognized` because of missing import in `FlutterEngine.java`<br />
-  <sub>[#180731](https://github.com/flutter/flutter/pull/180731) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180731) 2 additions and 1 deletion in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `BinaryMessenger.java`<br />
   <sub>[#180733](https://github.com/flutter/flutter/pull/180733) opened on on January 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180733) 2 additions and 2 deletions in 1 file</sub><br />
 

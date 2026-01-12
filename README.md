@@ -115,6 +115,10 @@
   <sub>[#179917](https://github.com/flutter/flutter/pull/179917) merged on January 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179917) over 3 weeks, 103 additions and 27 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Unpin google_mobile_ads<br />
+  <sub>[#180573](https://github.com/flutter/flutter/pull/180573) merged on January 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180573) over 3 days, 12 additions and 12 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add UUID to registered DTD streams and services<br />
   <sub>[#180140](https://github.com/flutter/flutter/pull/180140) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180140) over 2 weeks, 96 additions and 28 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
@@ -147,25 +151,13 @@
   <sub>[#179616](https://github.com/flutter/flutter/pull/179616) merged on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179616) over 4 weeks, 175 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Unpin google_mobile_ads<br />
-  <sub>[#180573](https://github.com/flutter/flutter/pull/180573) merged on January 9, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180573) over 3 days, 12 additions and 12 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve documentation about ValueNotifier's behavior<br />
-  <sub>[#179870](https://github.com/flutter/flutter/pull/179870) merged on January 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179870) over 3 weeks, 13 additions and 9 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Do not dispose CupertinoSheetTransition animation on update and throw ticker error<br />
   <sub>[#180609](https://github.com/flutter/flutter/pull/180609) merged on January 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180609) over 1 day, 42 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Infra ] Ignore non-fatal Gradle daemon "termination" message<br />
-  <sub>[#180645](https://github.com/flutter/flutter/pull/180645) merged on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180645) over 52 minutes, 12 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Илия](https://github.com/777genius)** &mdash; Fix division by zero in RenderTable intrinsic size methods<br />
-  <sub>[#178217](https://github.com/flutter/flutter/pull/178217) merged on January 7, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178217) over 1 month, 31 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve documentation about ValueNotifier's behavior<br />
+  <sub>[#179870](https://github.com/flutter/flutter/pull/179870) merged on January 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/179870) over 3 weeks, 13 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Kishimoto](https://github.com/Koichi5)** &mdash; Fix typo in dropdown_menu.dart<br />
   <sub>[#180172](https://github.com/flutter/flutter/pull/180172) merged on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180172) over 2 weeks, 4 additions and 4 deletions in 1 file</sub><br />
@@ -179,9 +171,17 @@
   <sub>[#180655](https://github.com/flutter/flutter/pull/180655) merged on January 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180655) over 19 hours, 63 additions and 43 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Илия](https://github.com/777genius)** &mdash; Fix division by zero in RenderTable intrinsic size methods<br />
+  <sub>[#178217](https://github.com/flutter/flutter/pull/178217) merged on January 7, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178217) over 1 month, 31 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Enable misc leak tracking<br />
   <sub>[#176992](https://github.com/flutter/flutter/pull/176992) merged on January 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/176992) over 2 months, 78 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Infra ] Ignore non-fatal Gradle daemon "termination" message<br />
+  <sub>[#180645](https://github.com/flutter/flutter/pull/180645) merged on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180645) over 52 minutes, 12 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Add accessibilityAnnouncement matcher<br />
   <sub>[#180058](https://github.com/flutter/flutter/pull/180058) merged on January 5, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/180058) over 2 weeks, 129 additions and 42 deletions in 6 files</sub><br />
