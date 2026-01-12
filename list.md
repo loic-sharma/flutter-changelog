@@ -405,41 +405,7 @@
 ### December 20, 2025 to December 26, 2025
 
 <details>
-<summary>14 commits...</summary>
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] iOS style blurring
-  <sub>[#175458](https://github.com/flutter/flutter/pull/175458) merged on December 23, 2025 &mdash; **Large:** [104 comments](https://github.com/flutter/flutter/pull/175458) over 3 months, 843 additions and 125 deletions in 35 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [gaaclarke](https://github.com/gaaclarke)</sub>
-  <sub><details><summary>2 images...</summary><img width="1008" height="557" alt="image" src="https://github.com/user-attachments/assets/202fa4a1-a61f-4357-9dce-73c545cf3b07" /><img height="557" alt="image" src="https://github.com/user-attachments/assets/0d544e6a-4c88-488d-84c3-60d617c9d614" /></details></sub>
-
-* **[Jim Graham](https://github.com/flar)** &mdash; New optimized general convex path shadow algorithm
-  <sub>[#178370](https://github.com/flutter/flutter/pull/178370) merged on December 23, 2025 &mdash; **Extra large:** [143 comments](https://github.com/flutter/flutter/pull/178370) over 1 month, 5351 additions and 111 deletions in 28 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: exclude semantics for disabled dates
-  <sub>[#178981](https://github.com/flutter/flutter/pull/178981) merged on December 24, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178981) over 1 month, 170 additions and 15 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; docs: clarify dropdown menu text clearing
-  <sub>[#179676](https://github.com/flutter/flutter/pull/179676) merged on December 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/179676) over 1 week, 15 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
-  <sub><details><summary>1 image...</summary>![talabat.com](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add error description for nbsp character(\u202f)
-  <sub>[#178895](https://github.com/flutter/flutter/pull/178895) merged on December 22, 2025 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/178895) over 1 month, 409 additions and 24 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Enhance documentation for sortable column behavior
-  <sub>[#180011](https://github.com/flutter/flutter/pull/180011) merged on December 24, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180011) over 6 days, 5 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove usages of Android's `AsyncTask` in favor of `java.util.concurrent`
-  <sub>[#180050](https://github.com/flutter/flutter/pull/180050) merged on December 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180050) over 4 days, 22 additions and 23 deletions in 1 file</sub>
-  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add SnackBarTheme
-  <sub>[#180001](https://github.com/flutter/flutter/pull/180001) merged on December 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180001) over 5 days, 198 additions and 30 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+<summary>5 commits...</summary>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a WidgetsApp doesn't crash in 0x0 environment
   <sub>[#180224](https://github.com/flutter/flutter/pull/180224) merged on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180224) over 3 days, 11 additions and 0 deletions in 1 file</sub>
@@ -460,21 +426,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedList doesn't crash in 0x0 environment
   <sub>[#180123](https://github.com/flutter/flutter/pull/180123) merged on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180123) over 1 week, 22 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small clean up in `LocalizationPlugin`
-  <sub>[#180053](https://github.com/flutter/flutter/pull/180053) merged on December 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180053) over 4 days, 1 addition and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
-
-</details>
-
-### December 13, 2025 to December 19, 2025
-
-<details>
-<summary>1 commits...</summary>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove unnecessary RadioGroup migration TODOs
-  <sub>[#180105](https://github.com/flutter/flutter/pull/180105) merged on December 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180105) over 1 day, 0 additions and 11 deletions in 2 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 </details>
 
@@ -547,17 +498,6 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from 66dd93f9a27f to f6ff1529fd6d (2 revisions)
   <sub>[#10746](https://github.com/flutter/packages/pull/10746) merged on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10746) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-### December 20, 2025 to December 26, 2025
-
-<details>
-<summary>1 commits...</summary>
-
-* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 5
-  <sub>[#10641](https://github.com/flutter/packages/pull/10641) merged on December 23, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/10641) over 5 days, 215 additions and 218 deletions in 20 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
-</details>
 
 ## flutter/website
 
@@ -692,48 +632,11 @@
 ### December 20, 2025 to December 26, 2025
 
 <details>
-<summary>6 commits...</summary>
-
-* **[Chris Sells](https://github.com/csells)** &mdash; Add AI best practices and Crossword Companion docs
-  <sub>[#12853](https://github.com/flutter/website/pull/12853) merged on December 22, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/website/pull/12853) over 2 days, 1216 additions and 0 deletions in 14 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-  <sub><details><summary>1 image...</summary><img width="1669" height="1249" alt="Screenshot 2025-12-20 at 6 08 05 AM" src="https://github.com/user-attachments/assets/2aef74c5-5798-4c9d-942f-21c2df70ce23" /></details></sub>
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Added Docs for AGP 9
-  <sub>[#12825](https://github.com/flutter/website/pull/12825) merged on December 22, 2025 &mdash; **Small:** [86 comments](https://github.com/flutter/website/pull/12825) over 6 days, 158 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
-* **[sabuncu](https://github.com/sabuncu)** &mdash; Remove unused import in widgets.md
-  <sub>[#12855](https://github.com/flutter/website/pull/12855) merged on December 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12855) over 2 days, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-  <sub><details><summary>1 image...</summary><img width="634" height="307" alt="2025-12-21 21-22-47-792 main dart_-_homepage_-_Visual_Studio_Code" src="https://github.com/user-attachments/assets/cd948894-de7b-4717-ac87-b2402338b7bd" /></details></sub>
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Document `flutter create --template=package_ffi`
-  <sub>[#12845](https://github.com/flutter/website/pull/12845) merged on December 23, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12845) over 3 days, 257 additions and 12 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+<summary>1 commits...</summary>
 
 * **[autorejecttop](https://github.com/autorejecttop)** &mdash; Update FlutterLogo link to correct documentation
   <sub>[#12864](https://github.com/flutter/website/pull/12864) merged on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12864) over 7 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
-
-* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the banner
-  <sub>[#12854](https://github.com/flutter/website/pull/12854) merged on December 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12854) over 1 day, 2 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Parker Lougheed](https://github.com/parlough)</sub>
-
-</details>
-
-### December 13, 2025 to December 19, 2025
-
-<details>
-<summary>2 commits...</summary>
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor updates and fixes to MCP server page
-  <sub>[#12849](https://github.com/flutter/website/pull/12849) merged on December 20, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12849) over 1 day, 36 additions and 20 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix mention to Code OSS editors
-  <sub>[#12850](https://github.com/flutter/website/pull/12850) merged on December 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12850) over 1 day, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 </details>
 
