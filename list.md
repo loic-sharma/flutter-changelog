@@ -498,7 +498,11 @@
 
 ### January 10, 2026 to January 16, 2026
 
-1 commits.
+2 commits.
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Update the font generator to exclude variable font entries when a static entry of the same weight and style exists
+  <sub>[#10739](https://github.com/flutter/packages/pull/10739) merged on January 12, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/10739) over 5 days, 7929 additions and 5337 deletions in 34 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Danang Rahmatullah](https://github.com/dasyad00)** &mdash; [camera_android_camerax] get camera name from Camera2CameraInfo.getCameraId in availableCameras
   <sub>[#10775](https://github.com/flutter/packages/pull/10775) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10775) over 10 hours, 53 additions and 15 deletions in 4 files</sub>
@@ -579,7 +583,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-3 commits.
+7 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Add page transition builder reorganization guide
   <sub>[#12914](https://github.com/flutter/website/pull/12914) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12914) over 13 hours, 89 additions and 0 deletions in 2 files</sub>
@@ -589,9 +593,25 @@
   <sub>[#12909](https://github.com/flutter/website/pull/12909) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12909) over 3 days, 23 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix typo and other inconsistencies in glossary entries
+  <sub>[#12917](https://github.com/flutter/website/pull/12917) merged on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12917) over 3 hours, 6 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update a variety of pub dependencies
+  <sub>[#12918](https://github.com/flutter/website/pull/12918) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12918) over 2 hours, 11 additions and 11 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Document Claude and Codex setup on MCP server page
   <sub>[#12919](https://github.com/flutter/website/pull/12919) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12919) over 1 hour, 31 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix(docs): Use .bashrc instead of .bash_profile for Linux install
+  <sub>[#12906](https://github.com/flutter/website/pull/12906) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12906) over 3 days, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add note about Android Studio check in VS Code setup
+  <sub>[#12907](https://github.com/flutter/website/pull/12907) merged on January 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12907) over 3 days, 6 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### January 3, 2026 to January 9, 2026
 
