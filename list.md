@@ -541,9 +541,18 @@
 
 ## flutter/website
 
+### January 10, 2026 to January 16, 2026
+
+1 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add Adaptive definition to glossary
+  <sub>[#12909](https://github.com/flutter/website/pull/12909) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12909) over 3 days, 23 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### January 3, 2026 to January 9, 2026
 
-26 commits.
+<details>
+<summary>26 commits...</summary>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; add tutorial index page to navigation dropdown
   <sub>[#12882](https://github.com/flutter/website/pull/12882) merged on January 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12882) over 1 day, 58 additions and 31 deletions in 6 files</sub>
@@ -649,6 +658,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix(docs): Add Groovy syntax tabs to Android deployment guide (fixes #12793)
   <sub>[#12863](https://github.com/flutter/website/pull/12863) merged on January 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12863) over 1 week, 128 additions and 49 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### December 27, 2025 to January 2, 2026
 
