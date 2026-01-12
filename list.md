@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-13 commits.
+14 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub>
@@ -31,6 +31,10 @@
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; Add API sample and docs for Expansible widget
   <sub>[#180273](https://github.com/flutter/flutter/pull/180273) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180273) over 2 weeks, 105 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.53
+  <sub>[#180712](https://github.com/flutter/flutter/pull/180712) merged on January 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180712) over 3 days, 5 additions and 25 deletions in 10 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turn on fragment shader equality test
   <sub>[#180784](https://github.com/flutter/flutter/pull/180784) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180784) over 2 days, 18 additions and 13 deletions in 3 files</sub>
@@ -492,9 +496,18 @@
 
 ## flutter/packages
 
+### January 10, 2026 to January 16, 2026
+
+1 commits.
+
+* **[Danang Rahmatullah](https://github.com/dasyad00)** &mdash; [camera_android_camerax] get camera name from Camera2CameraInfo.getCameraId in availableCameras
+  <sub>[#10775](https://github.com/flutter/packages/pull/10775) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10775) over 10 hours, 53 additions and 15 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
+
 ### January 3, 2026 to January 9, 2026
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds repo checks in main branch for batch release
   <sub>[#10485](https://github.com/flutter/packages/pull/10485) merged on January 5, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10485) over 1 month, 1215 additions and 288 deletions in 16 files</sub>
@@ -560,11 +573,13 @@
   <sub>[#10746](https://github.com/flutter/packages/pull/10746) merged on January 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10746) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
+</details>
+
 ## flutter/website
 
 ### January 10, 2026 to January 16, 2026
 
-2 commits.
+3 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Add page transition builder reorganization guide
   <sub>[#12914](https://github.com/flutter/website/pull/12914) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12914) over 13 hours, 89 additions and 0 deletions in 2 files</sub>
@@ -573,6 +588,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add Adaptive definition to glossary
   <sub>[#12909](https://github.com/flutter/website/pull/12909) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12909) over 3 days, 23 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Document Claude and Codex setup on MCP server page
+  <sub>[#12919](https://github.com/flutter/website/pull/12919) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12919) over 1 hour, 31 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### January 3, 2026 to January 9, 2026
 
