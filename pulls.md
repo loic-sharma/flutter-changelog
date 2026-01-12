@@ -146,9 +146,6 @@
 * **[Aryan Shukla](https://github.com/Telomelonia)** &mdash; feat: Add --reporter=summary option to flutter test<br />
   <sub>[#180580](https://github.com/flutter/flutter/pull/180580) opened on on January 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/180580) 721 additions and 5 deletions in 7 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Removes `RequiresApi 23`<br />
-  <sub>[#180629](https://github.com/flutter/flutter/pull/180629) opened on on January 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180629) 1 addition and 13 deletions in 4 files</sub><br />
-
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
