@@ -230,3 +230,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Unpin google_mobile_ads"<br />
   <sub>[#180838](https://github.com/flutter/flutter/pull/180838) opened on on January 12, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180838) 261 additions and 173 deletions in 6 files</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; clean up usages of resetXyz for TestFlutterView<br />
+  <sub>[#180840](https://github.com/flutter/flutter/pull/180840) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180840) 9 additions and 15 deletions in 5 files</sub><br />
+
