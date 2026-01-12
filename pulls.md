@@ -213,7 +213,7 @@
   <sub>[#180815](https://github.com/flutter/flutter/pull/180815) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180815) 149 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add useStrictAutovalidateMode to respect per-field autovalidateMode<br />
-  <sub>[#180822](https://github.com/flutter/flutter/pull/180822) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180822) 176 additions and 38 deletions in 2 files</sub><br />
+  <sub>[#180822](https://github.com/flutter/flutter/pull/180822) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180822) 177 additions and 38 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Unpin google_mobile_ads"<br />
   <sub>[#180838](https://github.com/flutter/flutter/pull/180838) opened on on January 12, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180838) 261 additions and 173 deletions in 6 files</sub><br />
@@ -226,4 +226,7 @@
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix false positives for hit test misses in flutter_test<br />
   <sub>[#180856](https://github.com/flutter/flutter/pull/180856) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180856) 104 additions and 6 deletions in 3 files</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Add build-time checks for ImpellerC's SkSL compiler<br />
+  <sub>[#180861](https://github.com/flutter/flutter/pull/180861) opened on on January 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180861) 158 additions and 1 deletion in 9 files</sub><br />
 
