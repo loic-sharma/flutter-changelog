@@ -4,7 +4,12 @@
 
 ### January 10, 2026 to January 16, 2026
 
-3 commits.
+4 commits.
+
+* **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality
+  <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+  <sub><details><summary>2 images...</summary><img width="500" alt="before" src="https://github.com/user-attachments/assets/460f6983-5b25-4a9c-9b1e-457f096e4f82" /><img width="500" alt="after" src="https://github.com/user-attachments/assets/1796b593-c206-4e56-afdb-b0e16e557055" /></details></sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump ffigen
   <sub>[#180507](https://github.com/flutter/flutter/pull/180507) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180507) over 6 days, 15 additions and 9 deletions in 6 files</sub>
@@ -541,6 +546,10 @@
   <sub>[#12860](https://github.com/flutter/website/pull/12860) merged on January 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12860) over 2 weeks, 18 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add link to Flutter Wrapped 2025
+  <sub>[#12911](https://github.com/flutter/website/pull/12911) merged on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12911) over 41 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove the TextField.canRequestFocus breaking change guide
   <sub>[#12893](https://github.com/flutter/website/pull/12893) merged on January 7, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12893) over 1 hour, 1 addition and 97 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
@@ -564,10 +573,6 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; docs: update GenUI docs for 0.6.0
   <sub>[#12883](https://github.com/flutter/website/pull/12883) merged on January 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/12883) over 1 hour, 35 additions and 26 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Greg Spencer](https://github.com/gspencergoog), [Parker Lougheed](https://github.com/parlough)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add link to Flutter Wrapped 2025
-  <sub>[#12911](https://github.com/flutter/website/pull/12911) merged on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12911) over 41 minutes, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update banner to call out AI best practices docs
   <sub>[#12903](https://github.com/flutter/website/pull/12903) merged on January 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12903) over 10 minutes, 2 additions and 2 deletions in 1 file</sub>
