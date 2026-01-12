@@ -144,7 +144,7 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Unpin google_mobile_ads<br />
-  <sub>[#180573](https://github.com/flutter/flutter/pull/180573) merged on January 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180573) over 3 days, 12 additions and 12 deletions in 3 files</sub><br />
+  <sub>[#180573](https://github.com/flutter/flutter/pull/180573) merged on January 9, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180573) over 3 days, 12 additions and 12 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve documentation about ValueNotifier's behavior<br />
