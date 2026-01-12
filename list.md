@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-11 commits.
+12 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub>
@@ -15,6 +15,10 @@
   <sub>[#180731](https://github.com/flutter/flutter/pull/180731) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180731) over 3 days, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
   <sub><details><summary>2 images...</summary><img width="575" height="24" alt="Screenshot 2026-01-09 at 11 32 49" src="https://github.com/user-attachments/assets/0935ae33-2a1c-4fbf-ae3c-7bb815850eea" /><img width="608" height="27" alt="Screenshot 2026-01-09 at 11 35 26" src="https://github.com/user-attachments/assets/407d6a02-dae1-40d4-9ef2-767da3f49637" /></details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash;  Update `PlatformPlugin` to not call `setStatusBarColor`, `setNavigationBarColor`, `setNavigationBarDividerColor` when disabled
+  <sub>[#180061](https://github.com/flutter/flutter/pull/180061) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180061) over 3 weeks, 29 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Augusto César Perin](https://github.com/augustocesarperin)** &mdash; Fix RawAutocomplete unmounted crash during async optionsBuilder
   <sub>[#180824](https://github.com/flutter/flutter/pull/180824) merged on January 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180824) over 20 hours, 70 additions and 0 deletions in 2 files</sub>

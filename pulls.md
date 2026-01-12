@@ -200,11 +200,8 @@
 * **[Ibrar-devs](https://github.com/Ibrar-devs)** &mdash; fixing listTile Clip behavior <br />
   <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FormField doesn't crash at 0x0 environment<br />
-  <sub>[#180810](https://github.com/flutter/flutter/pull/180810) opened on on January 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180810) 14 additions and 0 deletions in 1 file</sub><br />
-
 * **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …<br />
-  <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add fields getter to FormState<br />
   <sub>[#180815](https://github.com/flutter/flutter/pull/180815) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180815) 149 additions and 0 deletions in 2 files</sub><br />
