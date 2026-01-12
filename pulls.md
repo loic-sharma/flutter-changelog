@@ -180,7 +180,7 @@
   <sub>[#180740](https://github.com/flutter/flutter/pull/180740) opened on on January 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180740) 121 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add `clearError` API to Form and FormFieldState<br />
-  <sub>[#180752](https://github.com/flutter/flutter/pull/180752) opened on on January 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180752) 84 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#180752](https://github.com/flutter/flutter/pull/180752) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180752) 84 additions and 0 deletions in 2 files</sub><br />
 
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; Fixes FocusHighlightMode on Android when typing in software keyboard<br />
   <sub>[#180753](https://github.com/flutter/flutter/pull/180753) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180753) 52 additions and 1 deletion in 2 files</sub><br />
@@ -213,7 +213,7 @@
   <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add fields getter to FormState<br />
-  <sub>[#180815](https://github.com/flutter/flutter/pull/180815) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180815) 125 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#180815](https://github.com/flutter/flutter/pull/180815) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180815) 149 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add useStrictAutovalidateMode to respect per-field autovalidateMode<br />
   <sub>[#180822](https://github.com/flutter/flutter/pull/180822) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180822) 176 additions and 38 deletions in 2 files</sub><br />
