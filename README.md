@@ -4,7 +4,11 @@
 
 ### January 10, 2026 to January 16, 2026
 
-1 commits.
+2 commits.
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LongPressDraggable doesn't crash in 0x0 environment<br />
+  <sub>[#180408](https://github.com/flutter/flutter/pull/180408) merged on January 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180408) over 1 week, 25 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlutterLogo doesn't crash in 0x0 environment<br />
   <sub>[#180617](https://github.com/flutter/flutter/pull/180617) merged on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) over 4 days, 10 additions and 0 deletions in 1 file</sub><br />
