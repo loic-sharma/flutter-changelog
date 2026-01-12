@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-4 commits.
+5 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump ffigen<br />
   <sub>[#180507](https://github.com/flutter/flutter/pull/180507) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180507) over 6 days, 15 additions and 9 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Liam Appelbe](https://github.com/liamappelbe)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Migrate doc and code to use sendAnnounce<br />
+  <sub>[#180776](https://github.com/flutter/flutter/pull/180776) merged on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180776) over 2 days, 94 additions and 9 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LongPressDraggable doesn't crash in 0x0 environment<br />
   <sub>[#180408](https://github.com/flutter/flutter/pull/180408) merged on January 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180408) over 1 week, 25 additions and 0 deletions in 1 file</sub><br />
