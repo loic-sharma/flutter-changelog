@@ -122,6 +122,9 @@
 * **[Natan Sągol](https://github.com/merlinnot)** &mdash; fix(cmake): make native_assets install conditional<br />
   <sub>[#180429](https://github.com/flutter/flutter/pull/180429) opened on on January 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180429) 75 additions and 45 deletions in 14 files</sub><br />
 
+* **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
+  <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180431) 44 additions and 6 deletions in 2 files</sub><br />
+
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
   <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180452) 35 additions and 40 deletions in 1 file</sub><br />
 
