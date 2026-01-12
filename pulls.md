@@ -180,7 +180,7 @@
   <sub>[#180740](https://github.com/flutter/flutter/pull/180740) opened on on January 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180740) 121 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add `clearError` API to Form and FormFieldState<br />
-  <sub>[#180752](https://github.com/flutter/flutter/pull/180752) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180752) 84 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#180752](https://github.com/flutter/flutter/pull/180752) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180752) 89 additions and 2 deletions in 2 files</sub><br />
 
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; Fixes FocusHighlightMode on Android when typing in software keyboard<br />
   <sub>[#180753](https://github.com/flutter/flutter/pull/180753) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180753) 52 additions and 1 deletion in 2 files</sub><br />
@@ -229,4 +229,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter run -d all` crash<br />
   <sub>[#180845](https://github.com/flutter/flutter/pull/180845) opened on on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180845) 71 additions and 23 deletions in 2 files</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use renamed GNI filegroup<br />
+  <sub>[#180853](https://github.com/flutter/flutter/pull/180853) opened on on January 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180853) 1 addition and 1 deletion in 1 file</sub><br />
 
