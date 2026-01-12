@@ -230,3 +230,6 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use renamed GNI filegroup<br />
   <sub>[#180853](https://github.com/flutter/flutter/pull/180853) opened on on January 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180853) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix false positives for hit test misses in flutter_test<br />
+  <sub>[#180856](https://github.com/flutter/flutter/pull/180856) opened on on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180856) 113 additions and 2 deletions in 3 files</sub><br />
+
