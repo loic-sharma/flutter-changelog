@@ -4,16 +4,24 @@
 
 ### January 10, 2026 to January 16, 2026
 
-5 commits.
+8 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
   <sub><details><summary>2 images...</summary><img width="500" alt="before" src="https://github.com/user-attachments/assets/460f6983-5b25-4a9c-9b1e-457f096e4f82" /><img width="500" alt="after" src="https://github.com/user-attachments/assets/1796b593-c206-4e56-afdb-b0e16e557055" /></details></sub>
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter run -d all` crash<br />
+  <sub>[#180845](https://github.com/flutter/flutter/pull/180845) merged on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180845) over 3 hours, 71 additions and 23 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Moritz](https://github.com/mosuem)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump ffigen<br />
   <sub>[#180507](https://github.com/flutter/flutter/pull/180507) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180507) over 6 days, 15 additions and 9 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Liam Appelbe](https://github.com/liamappelbe)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `BinaryMessenger.java`<br />
+  <sub>[#180733](https://github.com/flutter/flutter/pull/180733) merged on January 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180733) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Migrate doc and code to use sendAnnounce<br />
   <sub>[#180776](https://github.com/flutter/flutter/pull/180776) merged on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180776) over 2 days, 94 additions and 9 deletions in 7 files</sub><br />
@@ -26,6 +34,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FlutterLogo doesn't crash in 0x0 environment<br />
   <sub>[#180617](https://github.com/flutter/flutter/pull/180617) merged on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180617) over 4 days, 10 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland `Enabled some disabled impeller fragment shader dart tests`<br />
+  <sub>[#180788](https://github.com/flutter/flutter/pull/180788) merged on January 12, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/180788) over 2 days, 261 additions and 265 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 ### January 3, 2026 to January 9, 2026
 
