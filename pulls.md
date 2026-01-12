@@ -99,7 +99,7 @@
   <sub>[#180287](https://github.com/flutter/flutter/pull/180287) opened on on December 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180287) 40 additions and 4 deletions in 3 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine] fix missing virtual destructor in Codec base class<br />
-  <sub>[#180288](https://github.com/flutter/flutter/pull/180288) opened on on December 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180288) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180288](https://github.com/flutter/flutter/pull/180288) opened on on December 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180288) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix RenderParagraph to use correct ideographic baseline<br />
   <sub>[#180292](https://github.com/flutter/flutter/pull/180292) opened on on December 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180292) 92 additions and 20 deletions in 4 files</sub><br />
@@ -234,5 +234,5 @@
   <sub>[#180840](https://github.com/flutter/flutter/pull/180840) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180840) 9 additions and 15 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter run -d all` crash<br />
-  <sub>[#180845](https://github.com/flutter/flutter/pull/180845) opened on on January 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180845) 71 additions and 23 deletions in 2 files</sub><br />
+  <sub>[#180845](https://github.com/flutter/flutter/pull/180845) opened on on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180845) 71 additions and 23 deletions in 2 files</sub><br />
 
