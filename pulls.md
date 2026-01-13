@@ -168,7 +168,7 @@
   <sub>[#180753](https://github.com/flutter/flutter/pull/180753) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180753) 52 additions and 1 deletion in 2 files</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Migrate gradient creation to the new SkShaders API<br />
-  <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 44 additions and 38 deletions in 4 files</sub><br />
+  <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 46 additions and 38 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`<br />
   <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180768) 48 additions and 18 deletions in 7 files</sub><br />
@@ -220,4 +220,10 @@
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; feat(material): add statesController to ExpansionTile<br />
   <sub>[#180897](https://github.com/flutter/flutter/pull/180897) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180897) 73 additions and 0 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
+  <sub>[#180905](https://github.com/flutter/flutter/pull/180905) opened on on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180905) 32 additions and 5 deletions in 2 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a GridPaper doesn't crash in 0x0 environment<br />
+  <sub>[#180906](https://github.com/flutter/flutter/pull/180906) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180906) 10 additions and 0 deletions in 1 file</sub><br />
 
