@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-20 commits.
+22 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub><br />
@@ -36,6 +36,10 @@
   <sub>[#180728](https://github.com/flutter/flutter/pull/180728) merged on January 13, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/180728) over 4 days, 261 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Banner doesn't crash in 0x0 environment<br />
+  <sub>[#180254](https://github.com/flutter/flutter/pull/180254) merged on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180254) over 2 weeks, 19 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DisplayFeatureSubScreen doesn't crash in 0x0 environ…<br />
   <sub>[#180357](https://github.com/flutter/flutter/pull/180357) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180357) over 2 weeks, 12 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
@@ -43,6 +47,10 @@
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; Add API sample and docs for Expansible widget<br />
   <sub>[#180273](https://github.com/flutter/flutter/pull/180273) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180273) over 2 weeks, 105 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds metal background to engine dart tests<br />
+  <sub>[#180700](https://github.com/flutter/flutter/pull/180700) merged on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180700) over 4 days, 182 additions and 12 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually roll test dependencies<br />
   <sub>[#180886](https://github.com/flutter/flutter/pull/180886) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180886) over 5 hours, 21 additions and 21 deletions in 6 files</sub><br />
