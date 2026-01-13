@@ -92,9 +92,6 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine] fix missing virtual destructor in Codec base class<br />
   <sub>[#180288](https://github.com/flutter/flutter/pull/180288) opened on on December 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180288) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix RenderParagraph to use correct ideographic baseline<br />
-  <sub>[#180292](https://github.com/flutter/flutter/pull/180292) opened on on December 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180292) 92 additions and 20 deletions in 4 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix ImageStream reporting errors globally when no active listeners exist<br />
   <sub>[#180327](https://github.com/flutter/flutter/pull/180327) opened on on December 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180327) 137 additions and 37 deletions in 5 files</sub><br />
 
@@ -103,9 +100,6 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/180389) 171 additions and 19 deletions in 2 files</sub><br />
-
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add cacheExtent to PageView<br />
-  <sub>[#180411](https://github.com/flutter/flutter/pull/180411) opened on on December 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180411) 280 additions and 11 deletions in 5 files</sub><br />
 
 * **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
   <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180431) 44 additions and 6 deletions in 2 files</sub><br />
@@ -186,7 +180,7 @@
   <sub>[#180896](https://github.com/flutter/flutter/pull/180896) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180896) 26 additions and 0 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made the bad lines exception print out the bad lines<br />
-  <sub>[#180909](https://github.com/flutter/flutter/pull/180909) opened on on January 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180909) 7 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#180909](https://github.com/flutter/flutter/pull/180909) opened on on January 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180909) 7 additions and 6 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
   <sub>[#180924](https://github.com/flutter/flutter/pull/180924) opened on on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180924) 32 additions and 5 deletions in 2 files</sub><br />
