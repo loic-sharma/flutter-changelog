@@ -198,7 +198,7 @@
   <sub>[#180838](https://github.com/flutter/flutter/pull/180838) opened on on January 12, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180838) 261 additions and 173 deletions in 6 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; clean up usages of resetXyz for TestFlutterView<br />
-  <sub>[#180840](https://github.com/flutter/flutter/pull/180840) opened on on January 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180840) 14 additions and 15 deletions in 8 files</sub><br />
+  <sub>[#180840](https://github.com/flutter/flutter/pull/180840) opened on on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180840) 14 additions and 15 deletions in 8 files</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use renamed GNI filegroup<br />
   <sub>[#180853](https://github.com/flutter/flutter/pull/180853) opened on on January 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180853) 1 addition and 1 deletion in 1 file</sub><br />
