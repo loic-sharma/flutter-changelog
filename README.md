@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-14 commits.
+15 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub><br />
@@ -31,6 +31,10 @@
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; Add API sample and docs for Expansible widget<br />
   <sub>[#180273](https://github.com/flutter/flutter/pull/180273) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180273) over 2 weeks, 105 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually roll test dependencies<br />
+  <sub>[#180886](https://github.com/flutter/flutter/pull/180886) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180886) over 5 hours, 21 additions and 21 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.53<br />
   <sub>[#180712](https://github.com/flutter/flutter/pull/180712) merged on January 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180712) over 3 days, 5 additions and 25 deletions in 10 files</sub><br />
