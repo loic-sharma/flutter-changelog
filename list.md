@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-17 commits.
+19 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub>
@@ -15,6 +15,10 @@
   <sub>[#180731](https://github.com/flutter/flutter/pull/180731) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180731) over 3 days, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
   <sub><details><summary>2 images...</summary><img width="575" height="24" alt="Screenshot 2026-01-09 at 11 32 49" src="https://github.com/user-attachments/assets/0935ae33-2a1c-4fbf-ae3c-7bb815850eea" /><img width="608" height="27" alt="Screenshot 2026-01-09 at 11 35 26" src="https://github.com/user-attachments/assets/407d6a02-dae1-40d4-9ef2-767da3f49637" /></details></sub>
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Add build-time checks for ImpellerC's SkSL compiler
+  <sub>[#180861](https://github.com/flutter/flutter/pull/180861) merged on January 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/180861) over 20 hours, 158 additions and 1 deletion in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash;  Update `PlatformPlugin` to not call `setStatusBarColor`, `setNavigationBarColor`, `setNavigationBarDividerColor` when disabled
   <sub>[#180061](https://github.com/flutter/flutter/pull/180061) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180061) over 3 weeks, 29 additions and 6 deletions in 1 file</sub>
@@ -51,6 +55,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump ffigen
   <sub>[#180507](https://github.com/flutter/flutter/pull/180507) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180507) over 6 days, 15 additions and 9 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Liam Appelbe](https://github.com/liamappelbe)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FormField doesn't crash at 0x0 environment
+  <sub>[#180810](https://github.com/flutter/flutter/pull/180810) merged on January 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180810) over 2 days, 14 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DragTarget doesn't crash in 0x0 environment
   <sub>[#180422](https://github.com/flutter/flutter/pull/180422) merged on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180422) over 1 week, 16 additions and 0 deletions in 1 file</sub>

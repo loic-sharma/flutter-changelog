@@ -224,3 +224,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a GridPaper doesn't crash in 0x0 environment<br />
   <sub>[#180906](https://github.com/flutter/flutter/pull/180906) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180906) 10 additions and 0 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made the bad lines exception print out the bad lines<br />
+  <sub>[#180909](https://github.com/flutter/flutter/pull/180909) opened on on January 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180909) 7 additions and 6 deletions in 1 file</sub><br />
+
