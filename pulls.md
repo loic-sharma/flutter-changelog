@@ -219,5 +219,5 @@
   <sub>[#180867](https://github.com/flutter/flutter/pull/180867) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180867) 67 additions and 14 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix some type checks in the `Actions` widget<br />
-  <sub>[#180883](https://github.com/flutter/flutter/pull/180883) opened on on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180883) 111 additions and 72 deletions in 2 files</sub><br />
+  <sub>[#180883](https://github.com/flutter/flutter/pull/180883) opened on on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180883) 111 additions and 72 deletions in 2 files</sub><br />
 
