@@ -197,9 +197,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Unpin google_mobile_ads"<br />
   <sub>[#180838](https://github.com/flutter/flutter/pull/180838) opened on on January 12, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180838) 261 additions and 173 deletions in 6 files</sub><br />
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use renamed GNI filegroup<br />
-  <sub>[#180853](https://github.com/flutter/flutter/pull/180853) opened on on January 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180853) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix false positives for hit test misses in flutter_test<br />
   <sub>[#180856](https://github.com/flutter/flutter/pull/180856) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180856) 104 additions and 6 deletions in 3 files</sub><br />
 

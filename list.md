@@ -4,12 +4,17 @@
 
 ### January 10, 2026 to January 16, 2026
 
-23 commits.
+24 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
   <sub><details><summary>2 images...</summary><img width="500" alt="before" src="https://github.com/user-attachments/assets/460f6983-5b25-4a9c-9b1e-457f096e4f82" /><img width="500" alt="after" src="https://github.com/user-attachments/assets/1796b593-c206-4e56-afdb-b0e16e557055" /></details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Removes `RequiresApi 23`
+  <sub>[#180629](https://github.com/flutter/flutter/pull/180629) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180629) over 6 days, 1 addition and 13 deletions in 4 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+  <sub><details><summary>1 image...</summary><img width="535" height="255" alt="Screenshot 2026-01-07 at 12 02 30" src="https://github.com/user-attachments/assets/b796c871-7fb4-4944-9c7f-54be8b76a726" /></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix `documentation member not recognized` because of missing import in `FlutterEngine.java`
   <sub>[#180731](https://github.com/flutter/flutter/pull/180731) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180731) over 3 days, 2 additions and 1 deletion in 1 file</sub>
