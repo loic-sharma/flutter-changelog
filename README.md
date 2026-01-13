@@ -595,7 +595,11 @@
 
 ### January 10, 2026 to January 16, 2026
 
-8 commits.
+9 commits.
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up<br />
+  <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub><br />
+  <sub>Reviewed by: [Kilian Schulte](https://github.com/schultek), [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial quizzes to FWE lessons<br />
   <sub>[#12920](https://github.com/flutter/website/pull/12920) merged on January 13, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/12920) over 2 hours, 496 additions and 1 deletion in 16 files</sub><br />
