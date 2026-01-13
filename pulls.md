@@ -215,3 +215,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix some type checks in the `Actions` widget<br />
   <sub>[#180883](https://github.com/flutter/flutter/pull/180883) opened on on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180883) 111 additions and 72 deletions in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually roll test dependencies<br />
+  <sub>[#180886](https://github.com/flutter/flutter/pull/180886) opened on on January 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180886) 21 additions and 21 deletions in 6 files</sub><br />
+
