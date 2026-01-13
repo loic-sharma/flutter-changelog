@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-30 commits.
+31 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
   <sub>[#178931](https://github.com/flutter/flutter/pull/178931) merged on January 13, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) over 1 month, 2433 additions and 535 deletions in 25 files</sub><br />
@@ -45,6 +45,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter run -d all` crash<br />
   <sub>[#180845](https://github.com/flutter/flutter/pull/180845) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180845) over 3 hours, 71 additions and 23 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Moritz](https://github.com/mosuem)</sub><br />
+
+* **[walley892](https://github.com/walley892)** &mdash; Move all getUniformX tests to web_ui/test.<br />
+  <sub>[#180910](https://github.com/flutter/flutter/pull/180910) merged on January 13, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/180910) over 4 hours, 526 additions and 176 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
   <sub>[#180905](https://github.com/flutter/flutter/pull/180905) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180905) over 1 hour, 32 additions and 5 deletions in 2 files</sub><br />
@@ -661,7 +665,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-11 commits.
+12 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up<br />
   <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub><br />
@@ -678,6 +682,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add Adaptive definition to glossary<br />
   <sub>[#12909](https://github.com/flutter/website/pull/12909) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12909) over 3 days, 23 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Refactor Card scss<br />
+  <sub>[#12928](https://github.com/flutter/website/pull/12928) merged on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12928) over 3 hours, 142 additions and 144 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix typo and other inconsistencies in glossary entries<br />
   <sub>[#12917](https://github.com/flutter/website/pull/12917) merged on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12917) over 3 hours, 6 additions and 6 deletions in 1 file</sub><br />

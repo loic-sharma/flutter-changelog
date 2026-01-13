@@ -107,29 +107,17 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add cacheExtent to PageView<br />
   <sub>[#180411](https://github.com/flutter/flutter/pull/180411) opened on on December 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180411) 280 additions and 11 deletions in 5 files</sub><br />
 
-* **[Natan Sągol](https://github.com/merlinnot)** &mdash; fix(cmake): make native_assets install conditional<br />
-  <sub>[#180429](https://github.com/flutter/flutter/pull/180429) opened on on January 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180429) 75 additions and 45 deletions in 14 files</sub><br />
-
 * **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
   <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180431) 44 additions and 6 deletions in 2 files</sub><br />
 
 * **[Prashant kumar](https://github.com/kumarprashant94395)** &mdash; fix: clear git environment variables in version.dart<br />
   <sub>[#180452](https://github.com/flutter/flutter/pull/180452) opened on on January 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180452) 35 additions and 40 deletions in 1 file</sub><br />
 
-* **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Fix deprecation validator message to require leading v<br />
-  <sub>[#180467](https://github.com/flutter/flutter/pull/180467) opened on on January 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180467) 3 additions and 3 deletions in 2 files</sub><br />
-
-* **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Improve accessibility contrast for pre-test message<br />
-  <sub>[#180469](https://github.com/flutter/flutter/pull/180469) opened on on January 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180469) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Zaw Htet Naing](https://github.com/zawhtetnaing10)** &mdash; Added renderOriginalImage flag which allows ImageIcon to bypass IconTheme colorization and render original image colors<br />
   <sub>[#180491](https://github.com/flutter/flutter/pull/180491) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180491) 54 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
   <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
-
-* **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Flexible and Expanded (fixes #168365)<br />
-  <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180514) 192 additions and 20 deletions in 2 files</sub><br />
 
 * **[Lilian Cadiou](https://github.com/Lilian-C)** &mdash; Add bottom navigation bar item semantics label<br />
   <sub>[#180577](https://github.com/flutter/flutter/pull/180577) opened on on January 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180577) 94 additions and 2 deletions in 5 files</sub><br />
