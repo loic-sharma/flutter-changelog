@@ -583,7 +583,11 @@
 
 ### January 10, 2026 to January 16, 2026
 
-7 commits.
+8 commits.
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial quizzes to FWE lessons<br />
+  <sub>[#12920](https://github.com/flutter/website/pull/12920) merged on January 13, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/12920) over 2 hours, 496 additions and 1 deletion in 16 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Add page transition builder reorganization guide<br />
   <sub>[#12914](https://github.com/flutter/website/pull/12914) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12914) over 13 hours, 89 additions and 0 deletions in 2 files</sub><br />

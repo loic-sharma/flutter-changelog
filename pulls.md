@@ -216,5 +216,5 @@
   <sub>[#180864](https://github.com/flutter/flutter/pull/180864) opened on on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180864) 71 additions and 23 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Tool ] Fix `flutter run -d all` crash <br />
-  <sub>[#180867](https://github.com/flutter/flutter/pull/180867) opened on on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180867) 67 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#180867](https://github.com/flutter/flutter/pull/180867) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180867) 67 additions and 14 deletions in 2 files</sub><br />
 
