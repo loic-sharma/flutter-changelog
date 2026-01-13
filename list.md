@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-31 commits.
+32 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency
   <sub>[#178931](https://github.com/flutter/flutter/pull/178931) merged on January 13, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) over 1 month, 2433 additions and 535 deletions in 25 files</sub>
@@ -61,6 +61,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Add TabBar API example for scroll notification integration
   <sub>[#180728](https://github.com/flutter/flutter/pull/180728) merged on January 13, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/180728) over 4 days, 261 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Update link to FlutterTest font generation script
+  <sub>[#179957](https://github.com/flutter/flutter/pull/179957) merged on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179957) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Banner doesn't crash in 0x0 environment
   <sub>[#180254](https://github.com/flutter/flutter/pull/180254) merged on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180254) over 2 weeks, 19 additions and 0 deletions in 1 file</sub>
