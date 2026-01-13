@@ -146,9 +146,6 @@
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Remove specific iOS extended attributes to fix code signing<br />
   <sub>[#180710](https://github.com/flutter/flutter/pull/180710) opened on on January 9, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/180710) 316 additions and 95 deletions in 7 files</sub><br />
 
-* **[Ankit Saroj](https://github.com/Ankitsaroj94)** &mdash; widget_inspector: respect SafeArea insets for overlay buttons<br />
-  <sub>[#180726](https://github.com/flutter/flutter/pull/180726) opened on on January 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180726) 74 additions and 22 deletions in 2 files</sub><br />
-
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
@@ -161,9 +158,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add `clearError` API to Form and FormFieldState<br />
   <sub>[#180752](https://github.com/flutter/flutter/pull/180752) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180752) 89 additions and 2 deletions in 2 files</sub><br />
 
-* **[romain.gyh](https://github.com/romaingyh)** &mdash; Fixes FocusHighlightMode on Android when typing in software keyboard<br />
-  <sub>[#180753](https://github.com/flutter/flutter/pull/180753) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180753) 52 additions and 1 deletion in 2 files</sub><br />
-
 * **[bungeman](https://github.com/bungeman)** &mdash; Migrate gradient creation to the new SkShaders API<br />
   <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 46 additions and 38 deletions in 4 files</sub><br />
 
@@ -172,9 +166,6 @@
 
 * **[yahyayemen](https://github.com/yahyayemen)** &mdash; Update settings.json<br />
   <sub>[#180769](https://github.com/flutter/flutter/pull/180769) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180769) 6 additions and 2 deletions in 2 files</sub><br />
-
-* **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix widget inspector control layout and add safe area regression test<br />
-  <sub>[#180789](https://github.com/flutter/flutter/pull/180789) opened on on January 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180789) 54 additions and 1 deletion in 2 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Filter error messages from `emulator -list-avds` output<br />
   <sub>[#180802](https://github.com/flutter/flutter/pull/180802) opened on on January 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180802) 39 additions and 2 deletions in 2 files</sub><br />
