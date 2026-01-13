@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-19 commits.
+20 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub><br />
@@ -31,6 +31,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter run -d all` crash<br />
   <sub>[#180845](https://github.com/flutter/flutter/pull/180845) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180845) over 3 hours, 71 additions and 23 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Moritz](https://github.com/mosuem)</sub><br />
+
+* **[Huy](https://github.com/huycozy)** &mdash; Add TabBar API example for scroll notification integration<br />
+  <sub>[#180728](https://github.com/flutter/flutter/pull/180728) merged on January 13, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/180728) over 4 days, 261 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DisplayFeatureSubScreen doesn't crash in 0x0 environ…<br />
   <sub>[#180357](https://github.com/flutter/flutter/pull/180357) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180357) over 2 weeks, 12 additions and 0 deletions in 1 file</sub><br />

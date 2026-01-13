@@ -206,11 +206,8 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Fix `flutter run -d all` crash<br />
   <sub>[#180864](https://github.com/flutter/flutter/pull/180864) opened on on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180864) 71 additions and 23 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Tool ] Fix `flutter run -d all` crash <br />
-  <sub>[#180867](https://github.com/flutter/flutter/pull/180867) opened on on January 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180867) 71 additions and 22 deletions in 2 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: macOS: Implement tooltip window controller<br />
-  <sub>[#180895](https://github.com/flutter/flutter/pull/180895) opened on on January 13, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/180895) 636 additions and 105 deletions in 7 files</sub><br />
+  <sub>[#180895](https://github.com/flutter/flutter/pull/180895) opened on on January 13, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/180895) 636 additions and 105 deletions in 7 files</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; ExpansionTile should accept a WidgetStatesController<br />
   <sub>[#180896](https://github.com/flutter/flutter/pull/180896) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180896) 26 additions and 0 deletions in 2 files</sub><br />
@@ -225,5 +222,5 @@
   <sub>[#180909](https://github.com/flutter/flutter/pull/180909) opened on on January 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180909) 7 additions and 6 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In flutter_test_performance, consider the blank line at the start of "flutter test" output to be optional.<br />
-  <sub>[#180911](https://github.com/flutter/flutter/pull/180911) opened on on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180911) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#180911](https://github.com/flutter/flutter/pull/180911) opened on on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180911) 3 additions and 4 deletions in 1 file</sub><br />
 
