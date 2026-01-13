@@ -4,7 +4,12 @@
 
 ### January 10, 2026 to January 16, 2026
 
-26 commits.
+27 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
+  <sub>[#178931](https://github.com/flutter/flutter/pull/178931) merged on January 13, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) over 1 month, 2433 additions and 535 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="400" height="271" alt="Screenshot 2025-12-04 at 4 54 43 PM" src="https://github.com/user-attachments/assets/6cfde6da-3698-4b76-b3b1-725f91fbf58d" /><img width="400" height="195" alt="Screenshot 2025-12-04 at 4 55 13 PM" src="https://github.com/user-attachments/assets/30fa402a-6a11-4df0-b2cd-a4a82197e50a" /></details></sub>
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub><br />
