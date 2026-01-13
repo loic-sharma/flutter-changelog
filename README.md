@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-24 commits.
+25 commits.
 
 * **[Dixita Ganatra](https://github.com/dixita0607)** &mdash; Fix: Allow dartpad embed clipboard-write permission for "Copy to clipboard" functionality<br />
   <sub>[#178057](https://github.com/flutter/flutter/pull/178057) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178057) over 2 months, 3 additions and 3 deletions in 3 files</sub><br />
@@ -36,6 +36,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter run -d all` crash<br />
   <sub>[#180845](https://github.com/flutter/flutter/pull/180845) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180845) over 3 hours, 71 additions and 23 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Moritz](https://github.com/mosuem)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
+  <sub>[#180905](https://github.com/flutter/flutter/pull/180905) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180905) over 1 hour, 32 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Add TabBar API example for scroll notification integration<br />
   <sub>[#180728](https://github.com/flutter/flutter/pull/180728) merged on January 13, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/180728) over 4 days, 261 additions and 0 deletions in 3 files</sub><br />
