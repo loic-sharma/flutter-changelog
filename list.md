@@ -518,7 +518,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-4 commits.
+5 commits.
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Update the font generator to exclude variable font entries when a static entry of the same weight and style exists
   <sub>[#10739](https://github.com/flutter/packages/pull/10739) merged on January 12, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/10739) over 5 days, 7929 additions and 5337 deletions in 34 files</sub>
@@ -531,6 +531,10 @@
 * **[Danang Rahmatullah](https://github.com/dasyad00)** &mdash; [camera_android_camerax] get camera name from Camera2CameraInfo.getCameraId in availableCameras
   <sub>[#10775](https://github.com/flutter/packages/pull/10775) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10775) over 10 hours, 53 additions and 15 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Add missing public API documentation
+  <sub>[#10782](https://github.com/flutter/packages/pull/10782) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10782) over 6 hours, 46 additions and 18 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist include_drafts to false
   <sub>[#10765](https://github.com/flutter/packages/pull/10765) merged on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10765) over 3 days, 1 addition and 0 deletions in 1 file</sub>

@@ -209,9 +209,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-stable][ Tool ] Fix `flutter run -d all` crash <br />
   <sub>[#180867](https://github.com/flutter/flutter/pull/180867) opened on on January 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180867) 71 additions and 22 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix some type checks in the `Actions` widget<br />
-  <sub>[#180883](https://github.com/flutter/flutter/pull/180883) opened on on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180883) 111 additions and 72 deletions in 2 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: macOS: Implement tooltip window controller<br />
   <sub>[#180895](https://github.com/flutter/flutter/pull/180895) opened on on January 13, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/180895) 636 additions and 105 deletions in 7 files</sub><br />
 
@@ -225,8 +222,8 @@
   <sub>[#180906](https://github.com/flutter/flutter/pull/180906) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180906) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made the bad lines exception print out the bad lines<br />
-  <sub>[#180909](https://github.com/flutter/flutter/pull/180909) opened on on January 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180909) 7 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#180909](https://github.com/flutter/flutter/pull/180909) opened on on January 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180909) 7 additions and 6 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In flutter_test_performance, consider the blank line at the start of "flutter test" output to be optional.<br />
-  <sub>[#180911](https://github.com/flutter/flutter/pull/180911) opened on on January 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180911) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#180911](https://github.com/flutter/flutter/pull/180911) opened on on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180911) 3 additions and 3 deletions in 1 file</sub><br />
 
