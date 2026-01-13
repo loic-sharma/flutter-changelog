@@ -218,9 +218,6 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; ExpansionTile should accept a WidgetStatesController<br />
   <sub>[#180896](https://github.com/flutter/flutter/pull/180896) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180896) 26 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; feat(material): add statesController to ExpansionTile<br />
-  <sub>[#180897](https://github.com/flutter/flutter/pull/180897) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180897) 73 additions and 0 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
   <sub>[#180905](https://github.com/flutter/flutter/pull/180905) opened on on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180905) 32 additions and 5 deletions in 2 files</sub><br />
 
