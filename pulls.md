@@ -137,6 +137,9 @@
 * **[Fazil](https://github.com/fazil-kp)** &mdash; Add enabled parameter to Flexible and Expanded (fixes #168365)<br />
   <sub>[#180514](https://github.com/flutter/flutter/pull/180514) opened on on January 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180514) 192 additions and 20 deletions in 2 files</sub><br />
 
+* **[Lilian Cadiou](https://github.com/Lilian-C)** &mdash; Add bottom navigation bar item semantics label<br />
+  <sub>[#180577](https://github.com/flutter/flutter/pull/180577) opened on on January 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180577) 94 additions and 2 deletions in 5 files</sub><br />
+
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
