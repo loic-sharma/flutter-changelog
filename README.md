@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-28 commits.
+29 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
   <sub>[#178931](https://github.com/flutter/flutter/pull/178931) merged on January 13, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) over 1 month, 2433 additions and 535 deletions in 25 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Augusto César Perin](https://github.com/augustocesarperin)** &mdash; Fix RawAutocomplete unmounted crash during async optionsBuilder<br />
   <sub>[#180824](https://github.com/flutter/flutter/pull/180824) merged on January 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180824) over 20 hours, 70 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In flutter_test_performance, consider the blank line at the start of "flutter test" output to be optional.<br />
+  <sub>[#180911](https://github.com/flutter/flutter/pull/180911) merged on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180911) over 1 hour, 3 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `flutter run -d all` crash<br />
   <sub>[#180845](https://github.com/flutter/flutter/pull/180845) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180845) over 3 hours, 71 additions and 23 deletions in 2 files</sub><br />
