@@ -197,9 +197,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Unpin google_mobile_ads"<br />
   <sub>[#180838](https://github.com/flutter/flutter/pull/180838) opened on on January 12, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180838) 261 additions and 173 deletions in 6 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; clean up usages of resetXyz for TestFlutterView<br />
-  <sub>[#180840](https://github.com/flutter/flutter/pull/180840) opened on on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180840) 14 additions and 15 deletions in 8 files</sub><br />
-
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use renamed GNI filegroup<br />
   <sub>[#180853](https://github.com/flutter/flutter/pull/180853) opened on on January 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180853) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -214,7 +211,4 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix some type checks in the `Actions` widget<br />
   <sub>[#180883](https://github.com/flutter/flutter/pull/180883) opened on on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180883) 111 additions and 72 deletions in 2 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually roll test dependencies<br />
-  <sub>[#180886](https://github.com/flutter/flutter/pull/180886) opened on on January 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180886) 21 additions and 21 deletions in 6 files</sub><br />
 
