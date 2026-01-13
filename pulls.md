@@ -224,6 +224,3 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In flutter_test_performance, consider the blank line at the start of "flutter test" output to be optional.<br />
   <sub>[#180911](https://github.com/flutter/flutter/pull/180911) opened on on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180911) 3 additions and 4 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix loading of fragment shader with space in name.<br />
-  <sub>[#180919](https://github.com/flutter/flutter/pull/180919) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180919) 12 additions and 1 deletion in 2 files</sub><br />
-
