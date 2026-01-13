@@ -502,11 +502,15 @@
 
 ### January 10, 2026 to January 16, 2026
 
-3 commits.
+4 commits.
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Update the font generator to exclude variable font entries when a static entry of the same weight and style exists<br />
   <sub>[#10739](https://github.com/flutter/packages/pull/10739) merged on January 12, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/10739) over 5 days, 7929 additions and 5337 deletions in 34 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Migrate iOS heatmaps to Pigeon<br />
+  <sub>[#10754](https://github.com/flutter/packages/pull/10754) merged on January 13, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/10754) over 4 days, 1040 additions and 999 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Danang Rahmatullah](https://github.com/dasyad00)** &mdash; [camera_android_camerax] get camera name from Camera2CameraInfo.getCameraId in availableCameras<br />
   <sub>[#10775](https://github.com/flutter/packages/pull/10775) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10775) over 10 hours, 53 additions and 15 deletions in 4 files</sub><br />
