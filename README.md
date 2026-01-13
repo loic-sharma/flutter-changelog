@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-29 commits.
+30 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
   <sub>[#178931](https://github.com/flutter/flutter/pull/178931) merged on January 13, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) over 1 month, 2433 additions and 535 deletions in 25 files</sub><br />
@@ -49,6 +49,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
   <sub>[#180905](https://github.com/flutter/flutter/pull/180905) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180905) over 1 hour, 32 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix crash trying to check for duplicate vertices in shadow_path code<br />
+  <sub>[#180920](https://github.com/flutter/flutter/pull/180920) merged on January 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180920) over 3 hours, 5 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Add TabBar API example for scroll notification integration<br />
   <sub>[#180728](https://github.com/flutter/flutter/pull/180728) merged on January 13, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/180728) over 4 days, 261 additions and 0 deletions in 3 files</sub><br />
