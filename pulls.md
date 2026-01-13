@@ -213,7 +213,7 @@
   <sub>[#180883](https://github.com/flutter/flutter/pull/180883) opened on on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180883) 111 additions and 72 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: macOS: Implement tooltip window controller<br />
-  <sub>[#180895](https://github.com/flutter/flutter/pull/180895) opened on on January 13, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/180895) 635 additions and 104 deletions in 7 files</sub><br />
+  <sub>[#180895](https://github.com/flutter/flutter/pull/180895) opened on on January 13, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/180895) 636 additions and 105 deletions in 7 files</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; ExpansionTile should accept a WidgetStatesController<br />
   <sub>[#180896](https://github.com/flutter/flutter/pull/180896) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180896) 26 additions and 0 deletions in 2 files</sub><br />
@@ -226,4 +226,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made the bad lines exception print out the bad lines<br />
   <sub>[#180909](https://github.com/flutter/flutter/pull/180909) opened on on January 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180909) 7 additions and 6 deletions in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In flutter_test_performance, consider the blank line at the start of "flutter test" output to be optional.<br />
+  <sub>[#180911](https://github.com/flutter/flutter/pull/180911) opened on on January 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180911) 3 additions and 3 deletions in 1 file</sub><br />
 
