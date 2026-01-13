@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-27 commits.
+28 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
   <sub>[#178931](https://github.com/flutter/flutter/pull/178931) merged on January 13, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) over 1 month, 2433 additions and 535 deletions in 25 files</sub><br />
@@ -61,6 +61,10 @@
 * **[GowsikRaja](https://github.com/gowsikraja)** &mdash; Add API sample and docs for Expansible widget<br />
   <sub>[#180273](https://github.com/flutter/flutter/pull/180273) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180273) over 2 weeks, 105 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reenable 4 fragment shader tests<br />
+  <sub>[#180875](https://github.com/flutter/flutter/pull/180875) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180875) over 17 hours, 26 additions and 21 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds metal background to engine dart tests<br />
   <sub>[#180700](https://github.com/flutter/flutter/pull/180700) merged on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180700) over 4 days, 182 additions and 12 deletions in 5 files</sub><br />
@@ -649,7 +653,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-10 commits.
+11 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up<br />
   <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub><br />
@@ -678,6 +682,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Document Claude and Codex setup on MCP server page<br />
   <sub>[#12919](https://github.com/flutter/website/pull/12919) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12919) over 1 hour, 31 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[David Bebawy](https://github.com/dbebawy)** &mdash; Update Swift Package Manager pubspec.yaml syntax to use config section<br />
+  <sub>[#12925](https://github.com/flutter/website/pull/12925) merged on January 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12925) over 1 hour, 9 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add more mention of mcp to AI pages<br />
   <sub>[#12927](https://github.com/flutter/website/pull/12927) merged on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12927) over 29 minutes, 8 additions and 2 deletions in 1 file</sub><br />
