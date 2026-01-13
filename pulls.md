@@ -218,3 +218,9 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In flutter_test_performance, consider the blank line at the start of "flutter test" output to be optional.<br />
   <sub>[#180911](https://github.com/flutter/flutter/pull/180911) opened on on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180911) 3 additions and 4 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
+  <sub>[#180924](https://github.com/flutter/flutter/pull/180924) opened on on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180924) 32 additions and 5 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
+  <sub>[#180925](https://github.com/flutter/flutter/pull/180925) opened on on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180925) 32 additions and 5 deletions in 2 files</sub><br />
+
