@@ -215,3 +215,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix some type checks in the `Actions` widget<br />
   <sub>[#180883](https://github.com/flutter/flutter/pull/180883) opened on on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180883) 111 additions and 72 deletions in 2 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: macOS: Implement tooltip window controller<br />
+  <sub>[#180895](https://github.com/flutter/flutter/pull/180895) opened on on January 13, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/180895) 635 additions and 104 deletions in 7 files</sub><br />
+
