@@ -192,7 +192,7 @@
   <sub>[#180954](https://github.com/flutter/flutter/pull/180954) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180954) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[Vikash Tiwari](https://github.com/iamvikashtiwari)** &mdash; Add WidgetStatesController support to ExpansionTile<br />
-  <sub>[#180955](https://github.com/flutter/flutter/pull/180955) opened on on January 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180955) 53 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#180955](https://github.com/flutter/flutter/pull/180955) opened on on January 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180955) 52 additions and 0 deletions in 2 files</sub><br />
 
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Remove unnecessary Material import from cupertino/slider_test.dart<br />
   <sub>[#180957](https://github.com/flutter/flutter/pull/180957) opened on on January 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180957) 9 additions and 28 deletions in 1 file</sub><br />
