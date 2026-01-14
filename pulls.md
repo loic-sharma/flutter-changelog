@@ -197,3 +197,6 @@
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Remove unnecessary Material import from cupertino/slider_test.dart<br />
   <sub>[#180957](https://github.com/flutter/flutter/pull/180957) opened on on January 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180957) 9 additions and 28 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
+  <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
+
