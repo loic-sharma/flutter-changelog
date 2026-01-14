@@ -179,9 +179,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Migrate `focus_node.unfocus.0.dart` to use`RadioGroup` instead of `Radio`<br />
   <sub>[#180989](https://github.com/flutter/flutter/pull/180989) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180989) 4 additions and 8 deletions in 1 file</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; add widget test utils; remove unused divider<br />
-  <sub>[#180990](https://github.com/flutter/flutter/pull/180990) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180990) 188 additions and 3 deletions in 3 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `Integer.toString` in `FlutterShellArgs.java`<br />
   <sub>[#180993](https://github.com/flutter/flutter/pull/180993) opened on on January 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180993) 1 addition and 1 deletion in 1 file</sub><br />
 
