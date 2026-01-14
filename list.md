@@ -693,7 +693,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-13 commits.
+15 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up
   <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub>
@@ -730,6 +730,14 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Document Claude and Codex setup on MCP server page
   <sub>[#12919](https://github.com/flutter/website/pull/12919) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12919) over 1 hour, 31 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Explain tree shaking of platform checks
+  <sub>[#12931](https://github.com/flutter/website/pull/12931) merged on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12931) over 21 hours, 8 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing link to VeggieSeasons example, which has been removed from d…
+  <sub>[#12934](https://github.com/flutter/website/pull/12934) merged on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/12934) over 9 hours, 1 addition and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Update Swift Package Manager pubspec.yaml syntax to use config section
   <sub>[#12925](https://github.com/flutter/website/pull/12925) merged on January 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12925) over 1 hour, 9 additions and 2 deletions in 1 file</sub>
