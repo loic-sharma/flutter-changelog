@@ -161,15 +161,6 @@
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix false positives for hit test misses in flutter_test<br />
   <sub>[#180856](https://github.com/flutter/flutter/pull/180856) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180856) 104 additions and 6 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Fix `flutter run -d all` crash<br />
-  <sub>[#180864](https://github.com/flutter/flutter/pull/180864) opened on on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180864) 71 additions and 23 deletions in 2 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
-  <sub>[#180924](https://github.com/flutter/flutter/pull/180924) opened on on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180924) 32 additions and 5 deletions in 2 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
-  <sub>[#180925](https://github.com/flutter/flutter/pull/180925) opened on on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180925) 32 additions and 5 deletions in 2 files</sub><br />
-
 * **[Giancarlo Cante](https://github.com/GiancarloCante)** &mdash; Rename "widgetTester" parameter to "tester" in "WidgetTesterCallback"<br />
   <sub>[#180944](https://github.com/flutter/flutter/pull/180944) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180944) 1 addition and 1 deletion in 1 file</sub><br />
 
