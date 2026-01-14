@@ -138,7 +138,7 @@
   <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 46 additions and 38 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`<br />
-  <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180768) 117 additions and 34 deletions in 10 files</sub><br />
+  <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180768) 120 additions and 34 deletions in 11 files</sub><br />
 
 * **[yahyayemen](https://github.com/yahyayemen)** &mdash; Update settings.json<br />
   <sub>[#180769](https://github.com/flutter/flutter/pull/180769) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180769) 6 additions and 2 deletions in 2 files</sub><br />
@@ -199,4 +199,7 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from draggable_scrollable_sheet_test.dart<br />
   <sub>[#180996](https://github.com/flutter/flutter/pull/180996) opened on on January 14, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180996) 291 additions and 112 deletions in 4 files</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove divider from widgets tests<br />
+  <sub>[#180999](https://github.com/flutter/flutter/pull/180999) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180999) 208 additions and 21 deletions in 5 files</sub><br />
 

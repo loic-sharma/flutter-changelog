@@ -710,7 +710,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-17 commits.
+18 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up
   <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub>
@@ -755,6 +755,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Document Claude and Codex setup on MCP server page
   <sub>[#12919](https://github.com/flutter/website/pull/12919) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12919) over 1 hour, 31 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update android apk build output paths
+  <sub>[#12930](https://github.com/flutter/website/pull/12930) merged on January 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12930) over 23 hours, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Explain tree shaking of platform checks
   <sub>[#12931](https://github.com/flutter/website/pull/12931) merged on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12931) over 21 hours, 8 additions and 0 deletions in 1 file</sub>
