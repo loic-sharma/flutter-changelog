@@ -580,7 +580,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-6 commits.
+7 commits.
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Update the font generator to exclude variable font entries when a static entry of the same weight and style exists<br />
   <sub>[#10739](https://github.com/flutter/packages/pull/10739) merged on January 12, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/10739) over 5 days, 7929 additions and 5337 deletions in 34 files</sub><br />
@@ -593,6 +593,10 @@
 * **[Danang Rahmatullah](https://github.com/dasyad00)** &mdash; [camera_android_camerax] get camera name from Camera2CameraInfo.getCameraId in availableCameras<br />
   <sub>[#10775](https://github.com/flutter/packages/pull/10775) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10775) over 10 hours, 53 additions and 15 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [url_launcher_macos] Migrate XCTest to Swift Testing<br />
+  <sub>[#10763](https://github.com/flutter/packages/pull/10763) merged on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10763) over 4 days, 36 additions and 39 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [path_provider_foundation] Migrate XCTest to Swift Testing<br />
   <sub>[#10761](https://github.com/flutter/packages/pull/10761) merged on January 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/10761) over 4 days, 45 additions and 75 deletions in 3 files</sub><br />
