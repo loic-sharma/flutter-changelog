@@ -116,9 +116,6 @@
 * **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
   <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Lilian Cadiou](https://github.com/Lilian-C)** &mdash; Add bottom navigation bar item semantics label<br />
-  <sub>[#180577](https://github.com/flutter/flutter/pull/180577) opened on on January 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180577) 94 additions and 2 deletions in 5 files</sub><br />
-
 * **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
   <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
 
@@ -207,5 +204,5 @@
   <sub>[#180981](https://github.com/flutter/flutter/pull/180981) opened on on January 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180981) 1 addition and 4 deletions in 1 file</sub><br />
 
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
-  <sub>[#180988](https://github.com/flutter/flutter/pull/180988) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180988) 79 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#180988](https://github.com/flutter/flutter/pull/180988) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180988) 85 additions and 8 deletions in 1 file</sub><br />
 

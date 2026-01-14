@@ -588,7 +588,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-8 commits.
+9 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [pointer_interceptor_ios] Migrate XCTest to Swift Testing<br />
   <sub>[#10762](https://github.com/flutter/packages/pull/10762) merged on January 14, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/10762) over 4 days, 13 additions and 17 deletions in 2 files</sub><br />
@@ -598,6 +598,10 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Update the font generator to exclude variable font entries when a static entry of the same weight and style exists<br />
   <sub>[#10739](https://github.com/flutter/packages/pull/10739) merged on January 12, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/10739) over 5 days, 7929 additions and 5337 deletions in 34 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Update for UIScene compatibility<br />
+  <sub>[#10676](https://github.com/flutter/packages/pull/10676) merged on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10676) over 3 weeks, 60 additions and 40 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Migrate iOS heatmaps to Pigeon<br />
   <sub>[#10754](https://github.com/flutter/packages/pull/10754) merged on January 13, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/10754) over 4 days, 1040 additions and 999 deletions in 21 files</sub><br />
@@ -698,7 +702,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-16 commits.
+17 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up<br />
   <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub><br />
@@ -711,6 +715,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE and /learn landing pages<br />
   <sub>[#12932](https://github.com/flutter/website/pull/12932) merged on January 14, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12932) over 19 hours, 158 additions and 55 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add Dart entry to glossary<br />
+  <sub>[#12916](https://github.com/flutter/website/pull/12916) merged on January 14, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12916) over 1 day, 20 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Bob Nystrom](https://github.com/munificent), [Michael Thomsen](https://github.com/mit-mit), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[epanareda](https://github.com/epanareda)** &mdash; Update developer-experience.md<br />
   <sub>[#12913](https://github.com/flutter/website/pull/12913) merged on January 14, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12913) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
