@@ -54,7 +54,7 @@
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add FlutterFramework as an Xcode SwiftPM local package override<br />
-  <sub>[#179512](https://github.com/flutter/flutter/pull/179512) opened on on December 5, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/179512) 782 additions and 51 deletions in 6 files</sub><br />
+  <sub>[#179512](https://github.com/flutter/flutter/pull/179512) opened on on December 5, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/179512) 782 additions and 51 deletions in 6 files</sub><br />
 
 * **[Takuma Osada](https://github.com/ostk0069)** &mdash; fix: ios switch null check error<br />
   <sub>[#179533](https://github.com/flutter/flutter/pull/179533) opened on on December 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/179533) 3 additions and 3 deletions in 1 file</sub><br />
@@ -205,4 +205,7 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; use null-aware element in `pointer_signal_resolver.0.dart‎`<br />
   <sub>[#180981](https://github.com/flutter/flutter/pull/180981) opened on on January 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180981) 1 addition and 4 deletions in 1 file</sub><br />
+
+* **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
+  <sub>[#180988](https://github.com/flutter/flutter/pull/180988) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180988) 79 additions and 8 deletions in 1 file</sub><br />
 
