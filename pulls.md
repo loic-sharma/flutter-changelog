@@ -173,7 +173,7 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Fix `flutter run -d all` crash<br />
   <sub>[#180864](https://github.com/flutter/flutter/pull/180864) opened on on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180864) 71 additions and 23 deletions in 2 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: macOS: Implement tooltip window controller<br />
+* **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Implement tooltip window controller<br />
   <sub>[#180895](https://github.com/flutter/flutter/pull/180895) opened on on January 13, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/180895) 709 additions and 111 deletions in 8 files</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; ExpansionTile should accept a WidgetStatesController<br />
