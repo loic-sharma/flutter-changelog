@@ -153,7 +153,7 @@
   <sub>[#180802](https://github.com/flutter/flutter/pull/180802) opened on on January 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180802) 39 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ibrar-devs](https://github.com/Ibrar-devs)** &mdash; fixing listTile Clip behavior <br />
-  <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
 
 * **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …<br />
   <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
