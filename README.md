@@ -722,7 +722,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-19 commits.
+21 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up<br />
   <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub><br />
@@ -731,6 +731,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial quizzes to FWE lessons<br />
   <sub>[#12920](https://github.com/flutter/website/pull/12920) merged on January 13, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/12920) over 2 hours, 496 additions and 1 deletion in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; update overlay breaking change<br />
+  <sub>[#12937](https://github.com/flutter/website/pull/12937) merged on January 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12937) over 16 minutes, 36 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE and /learn landing pages<br />
   <sub>[#12932](https://github.com/flutter/website/pull/12932) merged on January 14, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12932) over 19 hours, 158 additions and 55 deletions in 16 files</sub><br />
@@ -767,6 +771,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Document Claude and Codex setup on MCP server page<br />
   <sub>[#12919](https://github.com/flutter/website/pull/12919) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12919) over 1 hour, 31 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add guide for comparing beta releases<br />
+  <sub>[#12929](https://github.com/flutter/website/pull/12929) merged on January 14, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12929) over 1 day, 14 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kilian Schulte](https://github.com/schultek), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add NDK and CMake to android setup requirements<br />
   <sub>[#12926](https://github.com/flutter/website/pull/12926) merged on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12926) over 1 day, 2 additions and 0 deletions in 1 file</sub><br />
