@@ -191,8 +191,14 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; add widget test utils; remove unused divider<br />
   <sub>[#180990](https://github.com/flutter/flutter/pull/180990) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180990) 188 additions and 3 deletions in 3 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `Integer.toString` in `FlutterShellArgs.java`<br />
+  <sub>[#180993](https://github.com/flutter/flutter/pull/180993) opened on on January 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180993) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from focus_traversal_test.dart<br />
   <sub>[#180994](https://github.com/flutter/flutter/pull/180994) opened on on January 14, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180994) 289 additions and 129 deletions in 4 files</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `FlutterJNI.java`<br />
+  <sub>[#180995](https://github.com/flutter/flutter/pull/180995) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180995) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from draggable_scrollable_sheet_test.dart<br />
   <sub>[#180996](https://github.com/flutter/flutter/pull/180996) opened on on January 14, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180996) 291 additions and 112 deletions in 4 files</sub><br />
