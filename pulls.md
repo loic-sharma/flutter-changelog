@@ -179,12 +179,12 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; ExpansionTile should accept a WidgetStatesController<br />
   <sub>[#180896](https://github.com/flutter/flutter/pull/180896) opened on on January 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180896) 26 additions and 0 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made the bad lines exception print out the bad lines<br />
-  <sub>[#180909](https://github.com/flutter/flutter/pull/180909) opened on on January 13, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180909) 9 additions and 6 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
   <sub>[#180924](https://github.com/flutter/flutter/pull/180924) opened on on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180924) 32 additions and 5 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
   <sub>[#180925](https://github.com/flutter/flutter/pull/180925) opened on on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180925) 32 additions and 5 deletions in 2 files</sub><br />
+
+* **[Giancarlo Cante](https://github.com/GiancarloCante)** &mdash; Rename "widgetTester" parameter to "tester" in "WidgetTesterCallback"<br />
+  <sub>[#180944](https://github.com/flutter/flutter/pull/180944) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180944) 1 addition and 1 deletion in 1 file</sub><br />
 

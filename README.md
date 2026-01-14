@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-32 commits.
+34 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
   <sub>[#178931](https://github.com/flutter/flutter/pull/178931) merged on January 13, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) over 1 month, 2433 additions and 535 deletions in 25 files</sub><br />
@@ -54,6 +54,14 @@
   <sub>[#180905](https://github.com/flutter/flutter/pull/180905) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180905) over 1 hour, 32 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made the bad lines exception print out the bad lines<br />
+  <sub>[#180909](https://github.com/flutter/flutter/pull/180909) merged on January 14, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180909) over 7 hours, 9 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix image decoding in CPU-only mode<br />
+  <sub>[#180706](https://github.com/flutter/flutter/pull/180706) merged on January 14, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/180706) over 5 days, 171 additions and 46 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix crash trying to check for duplicate vertices in shadow_path code<br />
   <sub>[#180920](https://github.com/flutter/flutter/pull/180920) merged on January 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180920) over 3 hours, 5 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -86,9 +94,9 @@
   <sub>[#180700](https://github.com/flutter/flutter/pull/180700) merged on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180700) over 4 days, 182 additions and 12 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually roll test dependencies<br />
-  <sub>[#180886](https://github.com/flutter/flutter/pull/180886) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180886) over 5 hours, 21 additions and 21 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump ffigen<br />
+  <sub>[#180507](https://github.com/flutter/flutter/pull/180507) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180507) over 6 days, 15 additions and 9 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Liam Appelbe](https://github.com/liamappelbe)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.53<br />
   <sub>[#180712](https://github.com/flutter/flutter/pull/180712) merged on January 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180712) over 3 days, 5 additions and 25 deletions in 10 files</sub><br />
@@ -98,9 +106,9 @@
   <sub>[#180784](https://github.com/flutter/flutter/pull/180784) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180784) over 2 days, 18 additions and 13 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump ffigen<br />
-  <sub>[#180507](https://github.com/flutter/flutter/pull/180507) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180507) over 6 days, 15 additions and 9 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Liam Appelbe](https://github.com/liamappelbe)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually roll test dependencies<br />
+  <sub>[#180886](https://github.com/flutter/flutter/pull/180886) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180886) over 5 hours, 21 additions and 21 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FocusScope doesn't crash in 0x0 environment<br />
   <sub>[#180715](https://github.com/flutter/flutter/pull/180715) merged on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180715) over 4 days, 18 additions and 0 deletions in 1 file</sub><br />
