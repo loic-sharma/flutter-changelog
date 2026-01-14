@@ -167,9 +167,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ Tool ] Fix `flutter run -d all` crash<br />
   <sub>[#180864](https://github.com/flutter/flutter/pull/180864) opened on on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180864) 71 additions and 23 deletions in 2 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Implement tooltip window controller<br />
-  <sub>[#180895](https://github.com/flutter/flutter/pull/180895) opened on on January 13, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/180895) 709 additions and 111 deletions in 8 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][ Tool ] Handle `DartDevelopmentServiceException` when launching web applications<br />
   <sub>[#180924](https://github.com/flutter/flutter/pull/180924) opened on on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180924) 32 additions and 5 deletions in 2 files</sub><br />
 
@@ -199,4 +196,7 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from focus_traversal_test.dart<br />
   <sub>[#180994](https://github.com/flutter/flutter/pull/180994) opened on on January 14, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180994) 289 additions and 129 deletions in 4 files</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from draggable_scrollable_sheet_test.dart<br />
+  <sub>[#180996](https://github.com/flutter/flutter/pull/180996) opened on on January 14, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180996) 291 additions and 112 deletions in 4 files</sub><br />
 
