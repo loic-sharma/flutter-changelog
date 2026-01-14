@@ -191,3 +191,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Hero doesn't crash in 0x0 environment<br />
   <sub>[#180954](https://github.com/flutter/flutter/pull/180954) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180954) 14 additions and 0 deletions in 1 file</sub><br />
 
+* **[Vikash Tiwari](https://github.com/iamvikashtiwari)** &mdash; Add WidgetStatesController support to ExpansionTile<br />
+  <sub>[#180955](https://github.com/flutter/flutter/pull/180955) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180955) 33 additions and 0 deletions in 2 files</sub><br />
+
