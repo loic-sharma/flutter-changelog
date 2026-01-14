@@ -194,6 +194,9 @@
 * **[Vikash Tiwari](https://github.com/iamvikashtiwari)** &mdash; Add WidgetStatesController support to ExpansionTile<br />
   <sub>[#180955](https://github.com/flutter/flutter/pull/180955) opened on on January 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180955) 52 additions and 0 deletions in 2 files</sub><br />
 
+* **[Patrick Billingsley](https://github.com/patrickBillingsley)** &mdash; Updates MenuAnchor to respect software keyboard<br />
+  <sub>[#180975](https://github.com/flutter/flutter/pull/180975) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180975) 18 additions and 2 deletions in 2 files</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
 
