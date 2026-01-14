@@ -188,3 +188,6 @@
 * **[Giancarlo Cante](https://github.com/GiancarloCante)** &mdash; Rename "widgetTester" parameter to "tester" in "WidgetTesterCallback"<br />
   <sub>[#180944](https://github.com/flutter/flutter/pull/180944) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180944) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Hero doesn't crash in 0x0 environment<br />
+  <sub>[#180954](https://github.com/flutter/flutter/pull/180954) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180954) 14 additions and 0 deletions in 1 file</sub><br />
+
