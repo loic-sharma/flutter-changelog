@@ -591,7 +591,7 @@
 9 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [pointer_interceptor_ios] Migrate XCTest to Swift Testing
-  <sub>[#10762](https://github.com/flutter/packages/pull/10762) merged on January 14, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/10762) over 4 days, 13 additions and 17 deletions in 2 files</sub>
+  <sub>[#10762](https://github.com/flutter/packages/pull/10762) merged on January 14, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10762) over 4 days, 13 additions and 17 deletions in 2 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
   <sub><details><summary>1 image...</summary><img width="339" height="119" alt="Screenshot 2026-01-09 at 7 51 11 PM" src="https://github.com/user-attachments/assets/9b412140-5ecf-4ec0-9ab7-55922c118e7b" /></details></sub>
 
