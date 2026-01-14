@@ -128,9 +128,6 @@
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Look for project root for FeatureFlags manifest<br />
   <sub>[#180689](https://github.com/flutter/flutter/pull/180689) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180689) 53 additions and 1 deletion in 2 files</sub><br />
 
-* **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Remove specific iOS extended attributes to fix code signing<br />
-  <sub>[#180710](https://github.com/flutter/flutter/pull/180710) opened on on January 9, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/180710) 316 additions and 95 deletions in 7 files</sub><br />
-
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
@@ -201,8 +198,11 @@
   <sub>[#180975](https://github.com/flutter/flutter/pull/180975) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180975) 18 additions and 2 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
-  <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from ebaf52c13799 to 8fe983db0c99 (6 revisions)<br />
   <sub>[#180978](https://github.com/flutter/flutter/pull/180978) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180978) 6 additions and 4 deletions in 2 files</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; use null-aware element in `pointer_signal_resolver.0.dart‎`<br />
+  <sub>[#180981](https://github.com/flutter/flutter/pull/180981) opened on on January 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180981) 1 addition and 4 deletions in 1 file</sub><br />
 
