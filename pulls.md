@@ -54,7 +54,7 @@
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add FlutterFramework as an Xcode SwiftPM local package override<br />
-  <sub>[#179512](https://github.com/flutter/flutter/pull/179512) opened on on December 5, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/179512) 776 additions and 51 deletions in 6 files</sub><br />
+  <sub>[#179512](https://github.com/flutter/flutter/pull/179512) opened on on December 5, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/179512) 778 additions and 52 deletions in 7 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179810) 179 additions and 179 deletions in 10 files</sub><br />
@@ -177,7 +177,7 @@
   <sub>[#180954](https://github.com/flutter/flutter/pull/180954) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180954) 14 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
-  <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from ebaf52c13799 to 8fe983db0c99 (6 revisions)<br />
   <sub>[#180978](https://github.com/flutter/flutter/pull/180978) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180978) 6 additions and 4 deletions in 2 files</sub><br />
