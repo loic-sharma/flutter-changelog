@@ -643,6 +643,10 @@
   <sub>[#10722](https://github.com/flutter/packages/pull/10722) merged on January 15, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/10722) over 1 week, 1419 additions and 874 deletions in 26 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Update for UIScene compatibility
+  <sub>[#10676](https://github.com/flutter/packages/pull/10676) merged on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10676) over 3 weeks, 60 additions and 40 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
 * **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Update the font generator to exclude variable font entries when a static entry of the same weight and style exists
   <sub>[#10739](https://github.com/flutter/packages/pull/10739) merged on January 12, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/10739) over 5 days, 7929 additions and 5337 deletions in 34 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -650,10 +654,6 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Convert iOS tests to Swift
   <sub>[#10787](https://github.com/flutter/packages/pull/10787) merged on January 15, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/packages/pull/10787) over 1 day, 755 additions and 884 deletions in 13 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Update for UIScene compatibility
-  <sub>[#10676](https://github.com/flutter/packages/pull/10676) merged on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10676) over 3 weeks, 60 additions and 40 deletions in 7 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Migrate iOS heatmaps to Pigeon
   <sub>[#10754](https://github.com/flutter/packages/pull/10754) merged on January 13, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/10754) over 4 days, 1040 additions and 999 deletions in 21 files</sub>
