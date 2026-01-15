@@ -182,9 +182,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove divider from widgets tests<br />
   <sub>[#180999](https://github.com/flutter/flutter/pull/180999) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180999) 20 additions and 18 deletions in 3 files</sub><br />
 
-* **[Simon Binder](https://github.com/simolus3)** &mdash; Linux build hooks: Read compiler config from CMakeCache.txt<br />
-  <sub>[#181004](https://github.com/flutter/flutter/pull/181004) opened on on January 14, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181004) 271 additions and 102 deletions in 12 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove setup_hooks.dart and move _setupHooks back into natives.dart<br />
   <sub>[#181008](https://github.com/flutter/flutter/pull/181008) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181008) 18 additions and 24 deletions in 3 files</sub><br />
 
