@@ -189,7 +189,7 @@
   <sub>[#181021](https://github.com/flutter/flutter/pull/181021) opened on on January 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181021) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nav](https://github.com/nav9)** &mdash; Enable Gradle caching in gradle.properties template #180382<br />
-  <sub>[#181039](https://github.com/flutter/flutter/pull/181039) opened on on January 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181039) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#181039](https://github.com/flutter/flutter/pull/181039) opened on on January 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181039) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] update hourFormat to use Dart 3 switch expression<br />
   <sub>[#181041](https://github.com/flutter/flutter/pull/181041) opened on on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181041) 28 additions and 13 deletions in 2 files</sub><br />
@@ -199,4 +199,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script<br />
   <sub>[#181045](https://github.com/flutter/flutter/pull/181045) opened on on January 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181045) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Remove use of SkDeserialProcs::fTypefaceProc<br />
+  <sub>[#181047](https://github.com/flutter/flutter/pull/181047) opened on on January 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181047) 4 additions and 7 deletions in 3 files</sub><br />
 
