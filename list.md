@@ -632,7 +632,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-11 commits.
+12 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [pointer_interceptor_ios] Migrate XCTest to Swift Testing
   <sub>[#10762](https://github.com/flutter/packages/pull/10762) merged on January 14, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10762) over 4 days, 13 additions and 17 deletions in 2 files</sub>
@@ -654,6 +654,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Convert iOS tests to Swift
   <sub>[#10787](https://github.com/flutter/packages/pull/10787) merged on January 15, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/packages/pull/10787) over 1 day, 755 additions and 884 deletions in 13 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Migrate Android heatmaps to Pigeon
+  <sub>[#10758](https://github.com/flutter/packages/pull/10758) merged on January 15, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/10758) over 5 days, 1161 additions and 916 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Migrate iOS heatmaps to Pigeon
   <sub>[#10754](https://github.com/flutter/packages/pull/10754) merged on January 13, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/10754) over 4 days, 1040 additions and 999 deletions in 21 files</sub>
