@@ -176,11 +176,11 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `FlutterJNI.java`<br />
   <sub>[#180995](https://github.com/flutter/flutter/pull/180995) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180995) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from draggable_scrollable_sheet_test.dart<br />
-  <sub>[#180996](https://github.com/flutter/flutter/pull/180996) opened on on January 14, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180996) 291 additions and 112 deletions in 4 files</sub><br />
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove MaterialButtons and Divider from draggable_scrollable_sheet_test.dart<br />
+  <sub>[#180996](https://github.com/flutter/flutter/pull/180996) opened on on January 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180996) 153 additions and 105 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove divider from widgets tests<br />
-  <sub>[#180999](https://github.com/flutter/flutter/pull/180999) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180999) 208 additions and 21 deletions in 5 files</sub><br />
+  <sub>[#180999](https://github.com/flutter/flutter/pull/180999) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180999) 20 additions and 18 deletions in 3 files</sub><br />
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Linux build hooks: Read compiler config from CMakeCache.txt<br />
   <sub>[#181004](https://github.com/flutter/flutter/pull/181004) opened on on January 14, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181004) 271 additions and 102 deletions in 12 files</sub><br />
