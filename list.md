@@ -762,7 +762,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-23 commits.
+24 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up
   <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub>
@@ -818,6 +818,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Document Claude and Codex setup on MCP server page
   <sub>[#12919](https://github.com/flutter/website/pull/12919) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12919) over 1 hour, 31 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Remove roots fallback suggestions for antigravity setup
+  <sub>[#12941](https://github.com/flutter/website/pull/12941) merged on January 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12941) over 3 hours, 1 addition and 22 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add guide for comparing beta releases
