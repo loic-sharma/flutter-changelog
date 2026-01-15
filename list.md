@@ -4,7 +4,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-43 commits.
+44 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency
   <sub>[#178931](https://github.com/flutter/flutter/pull/178931) merged on January 13, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) over 1 month, 2433 additions and 535 deletions in 25 files</sub>
@@ -82,6 +82,10 @@
   <sub>[#180728](https://github.com/flutter/flutter/pull/180728) merged on January 13, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/180728) over 4 days, 261 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
+* **[Jon Mountjoy](https://github.com/jonmountjoy)** &mdash; Add RouteSettings to showCupertinoSheet
+  <sub>[#178643](https://github.com/flutter/flutter/pull/178643) merged on January 15, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/178643) over 1 month, 73 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Update link to FlutterTest font generation script
   <sub>[#179957](https://github.com/flutter/flutter/pull/179957) merged on January 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/179957) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -118,17 +122,13 @@
   <sub>[#180507](https://github.com/flutter/flutter/pull/180507) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180507) over 6 days, 15 additions and 9 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Liam Appelbe](https://github.com/liamappelbe)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually roll test dependencies
-  <sub>[#180886](https://github.com/flutter/flutter/pull/180886) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180886) over 5 hours, 21 additions and 21 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turn on fragment shader equality test
   <sub>[#180784](https://github.com/flutter/flutter/pull/180784) merged on January 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180784) over 2 days, 18 additions and 13 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FocusScope doesn't crash in 0x0 environment
-  <sub>[#180715](https://github.com/flutter/flutter/pull/180715) merged on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180715) over 4 days, 18 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manually roll test dependencies
+  <sub>[#180886](https://github.com/flutter/flutter/pull/180886) merged on January 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180886) over 5 hours, 21 additions and 21 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ErrorWidget doesn't crash in 0x0 environment
   <sub>[#180830](https://github.com/flutter/flutter/pull/180830) merged on January 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180830) over 1 day, 10 additions and 0 deletions in 1 file</sub>
@@ -150,25 +150,29 @@
   <sub>[#180986](https://github.com/flutter/flutter/pull/180986) merged on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180986) over 1 hour, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Add missing 'throw' to ImageFilter.shader's validation check
+  <sub>[#180923](https://github.com/flutter/flutter/pull/180923) merged on January 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180923) over 22 hours, 30 additions and 32 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `BinaryMessenger.java`
   <sub>[#180733](https://github.com/flutter/flutter/pull/180733) merged on January 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180733) over 3 days, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Add missing 'throw' to ImageFilter.shader's validation check
-  <sub>[#180923](https://github.com/flutter/flutter/pull/180923) merged on January 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180923) over 22 hours, 30 additions and 32 deletions in 2 files</sub>
+* **[b-luk](https://github.com/b-luk)** &mdash; Fix 'ImageFilter.shader can be applied to canvas operations' test
+  <sub>[#180929](https://github.com/flutter/flutter/pull/180929) merged on January 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180929) over 21 hours, 15 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Migrate doc and code to use sendAnnounce
   <sub>[#180776](https://github.com/flutter/flutter/pull/180776) merged on January 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180776) over 2 days, 94 additions and 9 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Fix 'ImageFilter.shader can be applied to canvas operations' test
-  <sub>[#180929](https://github.com/flutter/flutter/pull/180929) merged on January 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180929) over 21 hours, 15 additions and 8 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [web] Fix loading of fragment shader with space in name.
   <sub>[#180919](https://github.com/flutter/flutter/pull/180919) merged on January 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180919) over 19 hours, 12 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a FocusScope doesn't crash in 0x0 environment
+  <sub>[#180715](https://github.com/flutter/flutter/pull/180715) merged on January 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180715) over 4 days, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a LongPressDraggable doesn't crash in 0x0 environment
   <sub>[#180408](https://github.com/flutter/flutter/pull/180408) merged on January 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180408) over 1 week, 25 additions and 0 deletions in 1 file</sub>
@@ -616,7 +620,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-9 commits.
+10 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [pointer_interceptor_ios] Migrate XCTest to Swift Testing
   <sub>[#10762](https://github.com/flutter/packages/pull/10762) merged on January 14, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10762) over 4 days, 13 additions and 17 deletions in 2 files</sub>
@@ -626,6 +630,10 @@
 * **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Update the font generator to exclude variable font entries when a static entry of the same weight and style exists
   <sub>[#10739](https://github.com/flutter/packages/pull/10739) merged on January 12, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/10739) over 5 days, 7929 additions and 5337 deletions in 34 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Convert iOS tests to Swift
+  <sub>[#10787](https://github.com/flutter/packages/pull/10787) merged on January 15, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/packages/pull/10787) over 1 day, 755 additions and 884 deletions in 13 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Update for UIScene compatibility
   <sub>[#10676](https://github.com/flutter/packages/pull/10676) merged on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10676) over 3 weeks, 60 additions and 40 deletions in 7 files</sub>
