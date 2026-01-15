@@ -84,7 +84,7 @@
   <sub>[#180284](https://github.com/flutter/flutter/pull/180284) opened on on December 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180284) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue on macOS where, after a hot restart with multiple windows, unresponsive windows are left behind.<br />
-  <sub>[#180287](https://github.com/flutter/flutter/pull/180287) opened on on December 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180287) 40 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#180287](https://github.com/flutter/flutter/pull/180287) opened on on December 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180287) 40 additions and 4 deletions in 3 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine] fix missing virtual destructor in Codec base class<br />
   <sub>[#180288](https://github.com/flutter/flutter/pull/180288) opened on on December 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180288) 2 additions and 0 deletions in 1 file</sub><br />
@@ -197,14 +197,8 @@
 * **[巢鹏](https://github.com/chaopeng)** &mdash; Add route for 'tmp' to Flutter runner<br />
   <sub>[#181044](https://github.com/flutter/flutter/pull/181044) opened on on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181044) 7 additions and 2 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script<br />
-  <sub>[#181045](https://github.com/flutter/flutter/pull/181045) opened on on January 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181045) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[bungeman](https://github.com/bungeman)** &mdash; Remove use of SkDeserialProcs::fTypefaceProc<br />
   <sub>[#181047](https://github.com/flutter/flutter/pull/181047) opened on on January 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181047) 4 additions and 7 deletions in 3 files</sub><br />
-
-* **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: clip ink highlights in NavigationDrawer when footer is present<br />
-  <sub>[#181050](https://github.com/flutter/flutter/pull/181050) opened on on January 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181050) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 3 additions and 0 deletions in 1 file</sub><br />
