@@ -170,8 +170,8 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `Integer.toString` in `FlutterShellArgs.java`<br />
   <sub>[#180993](https://github.com/flutter/flutter/pull/180993) opened on on January 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180993) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material buttons and routes from focus_traversal_test.dart<br />
-  <sub>[#180994](https://github.com/flutter/flutter/pull/180994) opened on on January 14, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180994) 252 additions and 109 deletions in 2 files</sub><br />
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material buttons and material routes from focus_traversal_test.dart<br />
+  <sub>[#180994](https://github.com/flutter/flutter/pull/180994) opened on on January 14, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/180994) 200 additions and 107 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `FlutterJNI.java`<br />
   <sub>[#180995](https://github.com/flutter/flutter/pull/180995) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180995) 1 addition and 1 deletion in 1 file</sub><br />
