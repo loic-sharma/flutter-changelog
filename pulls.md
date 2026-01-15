@@ -203,6 +203,3 @@
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix bug in multisurfacerenderer where canvases do not have "position: absolute"<br />
-  <sub>[#181053](https://github.com/flutter/flutter/pull/181053) opened on on January 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181053) 85 additions and 2 deletions in 3 files</sub><br />
-

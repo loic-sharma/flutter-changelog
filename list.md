@@ -640,7 +640,11 @@
 
 ### January 10, 2026 to January 16, 2026
 
-12 commits.
+13 commits.
+
+* **[Pedro Massango](https://github.com/pedromassango)** &mdash; [url_launcher] fix: tab traversal on web
+  <sub>[#10020](https://github.com/flutter/packages/pull/10020) merged on January 15, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/10020) over 4 months, 63 additions and 25 deletions in 5 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [pointer_interceptor_ios] Migrate XCTest to Swift Testing
   <sub>[#10762](https://github.com/flutter/packages/pull/10762) merged on January 14, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10762) over 4 days, 13 additions and 17 deletions in 2 files</sub>
