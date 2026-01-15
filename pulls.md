@@ -189,5 +189,5 @@
   <sub>[#181021](https://github.com/flutter/flutter/pull/181021) opened on on January 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181021) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nav](https://github.com/nav9)** &mdash; Enable Gradle caching in gradle.properties template #180382<br />
-  <sub>[#181039](https://github.com/flutter/flutter/pull/181039) opened on on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181039) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#181039](https://github.com/flutter/flutter/pull/181039) opened on on January 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181039) 1 addition and 0 deletions in 1 file</sub><br />
 
