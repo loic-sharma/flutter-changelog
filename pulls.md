@@ -189,5 +189,8 @@
   <sub>[#181008](https://github.com/flutter/flutter/pull/181008) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181008) 18 additions and 24 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix hcpp flicker when scrolling off/on screen<br />
-  <sub>[#181009](https://github.com/flutter/flutter/pull/181009) opened on on January 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181009) 5 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#181009](https://github.com/flutter/flutter/pull/181009) opened on on January 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181009) 5 additions and 7 deletions in 2 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Icon doesn't crash in 0x0 environment<br />
+  <sub>[#181021](https://github.com/flutter/flutter/pull/181021) opened on on January 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181021) 10 additions and 0 deletions in 1 file</sub><br />
 
