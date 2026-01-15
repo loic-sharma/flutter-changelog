@@ -188,3 +188,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove setup_hooks.dart and move _setupHooks back into natives.dart<br />
   <sub>[#181008](https://github.com/flutter/flutter/pull/181008) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181008) 18 additions and 24 deletions in 3 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix hcpp flicker when scrolling off/on screen<br />
+  <sub>[#181009](https://github.com/flutter/flutter/pull/181009) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181009) 5 additions and 7 deletions in 2 files</sub><br />
+
