@@ -191,6 +191,3 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove setup_hooks.dart and move _setupHooks back into natives.dart<br />
   <sub>[#181008](https://github.com/flutter/flutter/pull/181008) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181008) 18 additions and 24 deletions in 3 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix style manager test by actually focusing the tested element.<br />
-  <sub>[#181012](https://github.com/flutter/flutter/pull/181012) opened on on January 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181012) 21 additions and 21 deletions in 1 file</sub><br />
-
