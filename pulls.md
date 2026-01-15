@@ -194,3 +194,9 @@
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] update hourFormat to use Dart 3 switch expression<br />
   <sub>[#181041](https://github.com/flutter/flutter/pull/181041) opened on on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181041) 28 additions and 13 deletions in 2 files</sub><br />
 
+* **[巢鹏](https://github.com/chaopeng)** &mdash; Add route for 'tmp' to Flutter runner<br />
+  <sub>[#181044](https://github.com/flutter/flutter/pull/181044) opened on on January 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181044) 6 additions and 0 deletions in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script<br />
+  <sub>[#181045](https://github.com/flutter/flutter/pull/181045) opened on on January 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181045) 1 addition and 1 deletion in 1 file</sub><br />
+
