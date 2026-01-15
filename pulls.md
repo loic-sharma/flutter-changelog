@@ -128,9 +128,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Allowlist for dependencies of sdk packages<br />
   <sub>[#180740](https://github.com/flutter/flutter/pull/180740) opened on on January 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180740) 121 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Add `clearError` API to Form and FormFieldState<br />
-  <sub>[#180752](https://github.com/flutter/flutter/pull/180752) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180752) 89 additions and 2 deletions in 2 files</sub><br />
-
 * **[bungeman](https://github.com/bungeman)** &mdash; Migrate gradient creation to the new SkShaders API<br />
   <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 46 additions and 38 deletions in 4 files</sub><br />
 
@@ -148,12 +145,6 @@
 
 * **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …<br />
   <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Add fields getter to FormState<br />
-  <sub>[#180815](https://github.com/flutter/flutter/pull/180815) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180815) 149 additions and 0 deletions in 2 files</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Add useStrictAutovalidateMode to respect per-field autovalidateMode<br />
-  <sub>[#180822](https://github.com/flutter/flutter/pull/180822) opened on on January 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180822) 177 additions and 38 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Unpin google_mobile_ads"<br />
   <sub>[#180838](https://github.com/flutter/flutter/pull/180838) opened on on January 12, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180838) 261 additions and 173 deletions in 6 files</sub><br />
@@ -199,4 +190,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove setup_hooks.dart and move _setupHooks back into natives.dart<br />
   <sub>[#181008](https://github.com/flutter/flutter/pull/181008) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181008) 18 additions and 24 deletions in 3 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix style manager test by actually focusing the tested element.<br />
+  <sub>[#181012](https://github.com/flutter/flutter/pull/181012) opened on on January 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181012) 21 additions and 21 deletions in 1 file</sub><br />
 
