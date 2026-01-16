@@ -802,7 +802,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-26 commits.
+27 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up<br />
   <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub><br />
@@ -862,6 +862,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Document Claude and Codex setup on MCP server page<br />
   <sub>[#12919](https://github.com/flutter/website/pull/12919) merged on January 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12919) over 1 hour, 31 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Christoph Deil](https://github.com/cdeil)** &mdash; Fix typo in flavors-ios.ms<br />
+  <sub>[#12946](https://github.com/flutter/website/pull/12946) merged on January 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12946) over 2 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Marisha](https://github.com/SmallishBubbles)** &mdash; Fix case of autofocus property in user-input.md<br />
