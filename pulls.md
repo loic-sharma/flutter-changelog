@@ -188,6 +188,9 @@
 * **[Nav](https://github.com/nav9)** &mdash; Enable Gradle caching in gradle.properties template #180382<br />
   <sub>[#181039](https://github.com/flutter/flutter/pull/181039) opened on on January 15, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181039) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix DropdownButtonFormField underline alignment at bottom<br />
+  <sub>[#181040](https://github.com/flutter/flutter/pull/181040) opened on on January 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181040) 43 additions and 5 deletions in 2 files</sub><br />
+
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] update hourFormat to use Dart 3 switch expression<br />
   <sub>[#181041](https://github.com/flutter/flutter/pull/181041) opened on on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181041) 34 additions and 13 deletions in 2 files</sub><br />
 
