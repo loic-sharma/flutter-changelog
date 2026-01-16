@@ -127,7 +127,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix bug in multisurfacerenderer where canvases do not have "position: absolute"
-  <sub>[#181053](https://github.com/flutter/flutter/pull/181053) merged on January 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181053) over 3 hours, 85 additions and 2 deletions in 3 files</sub>
+  <sub>[#181053](https://github.com/flutter/flutter/pull/181053) merged on January 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181053) over 3 hours, 85 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Skip flaky test on Firefox
