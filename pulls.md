@@ -212,3 +212,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; ci: Run orchestrator for windows_arm_host_engine on Linux <br />
   <sub>[#181075](https://github.com/flutter/flutter/pull/181075) opened on on January 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181075) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
+  <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
+
