@@ -167,7 +167,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script<br />
-  <sub>[#181045](https://github.com/flutter/flutter/pull/181045) merged on January 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181045) over 21 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#181045](https://github.com/flutter/flutter/pull/181045) merged on January 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181045) over 21 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from ebaf52c13799 to 8fe983db0c99 (6 revisions)<br />
