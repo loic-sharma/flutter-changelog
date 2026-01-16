@@ -128,9 +128,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Allowlist for dependencies of sdk packages<br />
   <sub>[#180740](https://github.com/flutter/flutter/pull/180740) opened on on January 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180740) 121 additions and 0 deletions in 1 file</sub><br />
 
-* **[bungeman](https://github.com/bungeman)** &mdash; Migrate gradient creation to the new SkShaders API<br />
-  <sub>[#180766](https://github.com/flutter/flutter/pull/180766) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180766) 46 additions and 38 deletions in 4 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`<br />
   <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180768) 120 additions and 34 deletions in 11 files</sub><br />
 
@@ -197,9 +194,6 @@
 * **[巢鹏](https://github.com/chaopeng)** &mdash; Add route for 'tmp' to Flutter runner<br />
   <sub>[#181044](https://github.com/flutter/flutter/pull/181044) opened on on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181044) 8 additions and 2 deletions in 2 files</sub><br />
 
-* **[bungeman](https://github.com/bungeman)** &mdash; Remove use of SkDeserialProcs::fTypefaceProc<br />
-  <sub>[#181047](https://github.com/flutter/flutter/pull/181047) opened on on January 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181047) 4 additions and 7 deletions in 3 files</sub><br />
-
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 3 additions and 0 deletions in 1 file</sub><br />
 
@@ -210,7 +204,7 @@
   <sub>[#181074](https://github.com/flutter/flutter/pull/181074) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181074) 48 additions and 2 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; ci: Run orchestrator for windows_arm_host_engine on Linux <br />
-  <sub>[#181075](https://github.com/flutter/flutter/pull/181075) opened on on January 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181075) 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#181075](https://github.com/flutter/flutter/pull/181075) opened on on January 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181075) 20 additions and 0 deletions in 1 file</sub><br />
 
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
