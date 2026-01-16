@@ -203,3 +203,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageFiltered doesn't crash at 0x0 environment<br />
   <sub>[#181067](https://github.com/flutter/flutter/pull/181067) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181067) 17 additions and 0 deletions in 1 file</sub><br />
 
+* **[August](https://github.com/Gustl22)** &mdash; Revert DropdownMenu non-nullable breaking change<br />
+  <sub>[#181074](https://github.com/flutter/flutter/pull/181074) opened on on January 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181074) 48 additions and 2 deletions in 2 files</sub><br />
+
