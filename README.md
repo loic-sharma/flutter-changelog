@@ -802,7 +802,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-27 commits.
+29 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up<br />
   <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub><br />
@@ -839,6 +839,14 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add Adaptive definition to glossary<br />
   <sub>[#12909](https://github.com/flutter/website/pull/12909) merged on January 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12909) over 3 days, 23 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add back other install pages to sidenav<br />
+  <sub>[#12948](https://github.com/flutter/website/pull/12948) merged on January 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12948) over 56 minutes, 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove easily outdated 'Bootstrap into Dart' page<br />
+  <sub>[#12947](https://github.com/flutter/website/pull/12947) merged on January 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12947) over 1 hour, 2 additions and 79 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Fix top nav<br />
   <sub>[#12940](https://github.com/flutter/website/pull/12940) merged on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12940) over 4 hours, 17 additions and 19 deletions in 2 files</sub><br />
