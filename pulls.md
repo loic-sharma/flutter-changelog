@@ -24,7 +24,7 @@
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
-  <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#181074](https://github.com/flutter/flutter/pull/181074) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181074) 48 additions and 2 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; ci: Run orchestrator for windows_arm_host_engine on Linux <br />
-  <sub>[#181075](https://github.com/flutter/flutter/pull/181075) opened on on January 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181075) 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#181075](https://github.com/flutter/flutter/pull/181075) opened on on January 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181075) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
