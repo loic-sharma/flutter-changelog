@@ -167,12 +167,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `FlutterJNI.java`<br />
   <sub>[#180995](https://github.com/flutter/flutter/pull/180995) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180995) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove MaterialButtons and Divider from draggable_scrollable_sheet_test.dart<br />
-  <sub>[#180996](https://github.com/flutter/flutter/pull/180996) opened on on January 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180996) 153 additions and 105 deletions in 2 files</sub><br />
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove divider from widgets tests<br />
-  <sub>[#180999](https://github.com/flutter/flutter/pull/180999) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180999) 20 additions and 18 deletions in 3 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Icon doesn't crash in 0x0 environment<br />
   <sub>[#181021](https://github.com/flutter/flutter/pull/181021) opened on on January 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181021) 10 additions and 0 deletions in 1 file</sub><br />
 
