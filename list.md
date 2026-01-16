@@ -664,7 +664,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-14 commits.
+15 commits.
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; [url_launcher] fix: tab traversal on web
   <sub>[#10020](https://github.com/flutter/packages/pull/10020) merged on January 15, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/10020) over 4 months, 63 additions and 25 deletions in 5 files</sub>
@@ -706,6 +706,10 @@
 * **[Danang Rahmatullah](https://github.com/dasyad00)** &mdash; [camera_android_camerax] get camera name from Camera2CameraInfo.getCameraId in availableCameras
   <sub>[#10775](https://github.com/flutter/packages/pull/10775) merged on January 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10775) over 10 hours, 53 additions and 15 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [two_dimensional_scrollables] Delete iOS and macOS placeholder tests
+  <sub>[#10801](https://github.com/flutter/packages/pull/10801) merged on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10801) over 1 day, 1 addition and 284 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [url_launcher_macos] Migrate XCTest to Swift Testing
   <sub>[#10763](https://github.com/flutter/packages/pull/10763) merged on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10763) over 4 days, 36 additions and 39 deletions in 2 files</sub>

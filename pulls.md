@@ -164,9 +164,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `Integer.toString` in `FlutterShellArgs.java`<br />
   <sub>[#180993](https://github.com/flutter/flutter/pull/180993) opened on on January 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180993) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material buttons and material routes from focus_traversal_test.dart<br />
-  <sub>[#180994](https://github.com/flutter/flutter/pull/180994) opened on on January 14, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/180994) 200 additions and 107 deletions in 2 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `FlutterJNI.java`<br />
   <sub>[#180995](https://github.com/flutter/flutter/pull/180995) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180995) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -189,7 +186,7 @@
   <sub>[#181041](https://github.com/flutter/flutter/pull/181041) opened on on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181041) 34 additions and 13 deletions in 2 files</sub><br />
 
 * **[巢鹏](https://github.com/chaopeng)** &mdash; Add route for 'tmp' to Flutter runner<br />
-  <sub>[#181044](https://github.com/flutter/flutter/pull/181044) opened on on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181044) 8 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#181044](https://github.com/flutter/flutter/pull/181044) opened on on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181044) 7 additions and 2 deletions in 2 files</sub><br />
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 3 additions and 0 deletions in 1 file</sub><br />
