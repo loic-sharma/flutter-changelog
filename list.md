@@ -664,7 +664,7 @@
 
 ### January 10, 2026 to January 16, 2026
 
-13 commits.
+14 commits.
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; [url_launcher] fix: tab traversal on web
   <sub>[#10020](https://github.com/flutter/packages/pull/10020) merged on January 15, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/10020) over 4 months, 63 additions and 25 deletions in 5 files</sub>
@@ -681,6 +681,10 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Update for UIScene compatibility
   <sub>[#10676](https://github.com/flutter/packages/pull/10676) merged on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10676) over 3 weeks, 60 additions and 40 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [local_auth_darwin] Migrate XCTest to Swift Testing
+  <sub>[#10802](https://github.com/flutter/packages/pull/10802) merged on January 16, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/10802) over 1 day, 198 additions and 467 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Update the font generator to exclude variable font entries when a static entry of the same weight and style exists
