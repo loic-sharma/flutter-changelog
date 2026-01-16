@@ -47,7 +47,7 @@
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix style manager test by actually focusing the tested element.<br />
-  <sub>[#181012](https://github.com/flutter/flutter/pull/181012) merged on January 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181012) over 20 hours, 21 additions and 21 deletions in 1 file</sub><br />
+  <sub>[#181012](https://github.com/flutter/flutter/pull/181012) merged on January 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181012) over 20 hours, 21 additions and 21 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In flutter_test_performance, consider the blank line at the start of "flutter test" output to be optional.<br />
