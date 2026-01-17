@@ -91,7 +91,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix crash trying to check for duplicate vertices in shadow_path code
-  <sub>[#180920](https://github.com/flutter/flutter/pull/180920) merged on January 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180920) over 3 hours, 5 additions and 2 deletions in 1 file</sub>
+  <sub>[#180920](https://github.com/flutter/flutter/pull/180920) merged on January 13, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180920) over 3 hours, 5 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Add TabBar API example for scroll notification integration

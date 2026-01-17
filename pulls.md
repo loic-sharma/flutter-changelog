@@ -197,3 +197,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up cache extent type and also fixes unbound shrinkwrap cache ex…<br />
   <sub>[#181092](https://github.com/flutter/flutter/pull/181092) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181092) 240 additions and 2 deletions in 4 files</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [stable] [Impeller] Fix crash trying to check for duplicate vertices in shadow_path code (#180920)<br />
+  <sub>[#181095](https://github.com/flutter/flutter/pull/181095) opened on on January 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181095) 5 additions and 2 deletions in 1 file</sub><br />
+
