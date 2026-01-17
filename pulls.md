@@ -153,7 +153,7 @@
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; use null-aware element in `pointer_signal_resolver.0.dart‎`<br />
-  <sub>[#180981](https://github.com/flutter/flutter/pull/180981) opened on on January 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180981) 1 addition and 4 deletions in 1 file</sub><br />
+  <sub>[#180981](https://github.com/flutter/flutter/pull/180981) opened on on January 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180981) 1 addition and 4 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Migrate `focus_node.unfocus.0.dart` to use`RadioGroup` instead of `Radio`<br />
   <sub>[#180989](https://github.com/flutter/flutter/pull/180989) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180989) 4 additions and 8 deletions in 1 file</sub><br />
