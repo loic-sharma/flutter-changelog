@@ -188,6 +188,9 @@
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
 
+* **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…<br />
+  <sub>[#181082](https://github.com/flutter/flutter/pull/181082) opened on on January 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181082) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up cache extent type and also fixes unbound shrinkwrap cache ex…<br />
   <sub>[#181092](https://github.com/flutter/flutter/pull/181092) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181092) 240 additions and 2 deletions in 4 files</sub><br />
 
