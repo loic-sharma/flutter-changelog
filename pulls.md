@@ -203,3 +203,9 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove Material from box_decoration_test, listener_test, slivers_padding_test, dual_transition_builder_test, rotated_box_test, syncing_test<br />
   <sub>[#181104](https://github.com/flutter/flutter/pull/181104) opened on on January 17, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/181104) 26 additions and 32 deletions in 7 files</sub><br />
 
+* **[Luan Nico](https://github.com/luanpotter)** &mdash; test: Clarify failure messages on gestures/debug_test.dart<br />
+  <sub>[#181109](https://github.com/flutter/flutter/pull/181109) opened on on January 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181109) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
+  <sub>[#181110](https://github.com/flutter/flutter/pull/181110) opened on on January 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181110) 99 additions and 37 deletions in 4 files</sub><br />
+
