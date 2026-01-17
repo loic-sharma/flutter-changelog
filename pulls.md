@@ -201,5 +201,5 @@
   <sub>[#181099](https://github.com/flutter/flutter/pull/181099) opened on on January 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181099) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove Material from box_decoration_test, listener_test, slivers_padding_test, dual_transition_builder_test, rotated_box_test, syncing_test<br />
-  <sub>[#181104](https://github.com/flutter/flutter/pull/181104) opened on on January 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181104) 26 additions and 32 deletions in 7 files</sub><br />
+  <sub>[#181104](https://github.com/flutter/flutter/pull/181104) opened on on January 17, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/181104) 26 additions and 32 deletions in 7 files</sub><br />
 
