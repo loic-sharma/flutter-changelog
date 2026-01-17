@@ -207,5 +207,5 @@
   <sub>[#181109](https://github.com/flutter/flutter/pull/181109) opened on on January 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181109) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
-  <sub>[#181110](https://github.com/flutter/flutter/pull/181110) opened on on January 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181110) 99 additions and 37 deletions in 4 files</sub><br />
+  <sub>[#181110](https://github.com/flutter/flutter/pull/181110) opened on on January 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181110) 95 additions and 38 deletions in 4 files</sub><br />
 
