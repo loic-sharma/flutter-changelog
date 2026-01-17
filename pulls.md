@@ -209,3 +209,6 @@
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
   <sub>[#181110](https://github.com/flutter/flutter/pull/181110) opened on on January 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181110) 95 additions and 38 deletions in 4 files</sub><br />
 
+* **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Save event data by pointer in an extensible _RecognizerEventData structure<br />
+  <sub>[#181113](https://github.com/flutter/flutter/pull/181113) opened on on January 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181113) 30 additions and 7 deletions in 1 file</sub><br />
+
