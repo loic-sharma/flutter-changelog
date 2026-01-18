@@ -219,5 +219,5 @@
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
 
 * **[Raphael Schütz](https://github.com/Raphael2b3)** &mdash; (feat+test) Add an index to DefaultTabController to control active tab declaratively<br />
-  <sub>[#181129](https://github.com/flutter/flutter/pull/181129) opened on on January 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181129) 144 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#181129](https://github.com/flutter/flutter/pull/181129) opened on on January 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181129) 145 additions and 3 deletions in 2 files</sub><br />
 
