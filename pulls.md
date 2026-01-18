@@ -215,3 +215,6 @@
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity<br />
   <sub>[#181124](https://github.com/flutter/flutter/pull/181124) opened on on January 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181124) 137 additions and 4 deletions in 2 files</sub><br />
 
+* **[Divith S](https://github.com/Divith123)** &mdash; RFC: Opt-in Semantic Shadow Tree for Flutter Web SEO<br />
+  <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/181127) 5729 additions and 0 deletions in 17 files</sub><br />
+
