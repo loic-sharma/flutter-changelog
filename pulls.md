@@ -213,5 +213,5 @@
   <sub>[#181113](https://github.com/flutter/flutter/pull/181113) opened on on January 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181113) 37 additions and 7 deletions in 1 file</sub><br />
 
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity<br />
-  <sub>[#181124](https://github.com/flutter/flutter/pull/181124) opened on on January 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181124) 137 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#181124](https://github.com/flutter/flutter/pull/181124) opened on on January 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181124) 137 additions and 4 deletions in 2 files</sub><br />
 
