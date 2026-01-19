@@ -104,9 +104,6 @@
 * **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
   <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Callum Hilton](https://github.com/calltekk)** &mdash; Improve error message when VM service connection closes unexpectedly<br />
-  <sub>[#180640](https://github.com/flutter/flutter/pull/180640) opened on on January 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180640) 60 additions and 3 deletions in 2 files</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
@@ -116,11 +113,8 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add ccache support for custom toolchain<br />
   <sub>[#180737](https://github.com/flutter/flutter/pull/180737) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180737) 7 additions and 2 deletions in 1 file</sub><br />
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Allowlist for dependencies of sdk packages<br />
-  <sub>[#180740](https://github.com/flutter/flutter/pull/180740) opened on on January 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180740) 121 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`<br />
-  <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180768) 120 additions and 34 deletions in 11 files</sub><br />
+  <sub>[#180768](https://github.com/flutter/flutter/pull/180768) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180768) 120 additions and 34 deletions in 11 files</sub><br />
 
 * **[yahyayemen](https://github.com/yahyayemen)** &mdash; Update settings.json<br />
   <sub>[#180769](https://github.com/flutter/flutter/pull/180769) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180769) 6 additions and 2 deletions in 2 files</sub><br />
@@ -133,9 +127,6 @@
 
 * **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …<br />
   <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Unpin google_mobile_ads"<br />
-  <sub>[#180838](https://github.com/flutter/flutter/pull/180838) opened on on January 12, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/180838) 261 additions and 173 deletions in 6 files</sub><br />
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix false positives for hit test misses in flutter_test<br />
   <sub>[#180856](https://github.com/flutter/flutter/pull/180856) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180856) 104 additions and 6 deletions in 3 files</sub><br />
