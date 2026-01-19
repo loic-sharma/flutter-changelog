@@ -618,89 +618,6 @@
 
 </details>
 
-### December 27, 2025 to January 2, 2026
-
-<details>
-<summary>12 commits...</summary>
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Framework] iOS style blurring and `ImageFilterConfig`
-  <sub>[#175473](https://github.com/flutter/flutter/pull/175473) merged on December 30, 2025 &mdash; **Large:** [59 comments](https://github.com/flutter/flutter/pull/175473) over 3 months, 645 additions and 56 deletions in 15 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-  <sub><details><summary>2 images...</summary><img width="639" height="411" alt="image" src="https://github.com/user-attachments/assets/4ceb9620-1056-45c3-b5fa-2ed16d90aace" /><img width="639" height="411" alt="image" src="https://github.com/user-attachments/assets/abe564f7-ea60-4d07-ad58-063c0e3794a5" /></details></sub>
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Test cross import lint
-  <sub>[#178693](https://github.com/flutter/flutter/pull/178693) merged on December 30, 2025 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/178693) over 1 month, 849 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Navaron Bracke](https://github.com/navaronbracke)</sub>
-
-* **[walley892](https://github.com/walley892)** &mdash; Allow setting vector uniforms by name.
-  <sub>[#179927](https://github.com/flutter/flutter/pull/179927) merged on December 30, 2025 &mdash; **Large:** [49 comments](https://github.com/flutter/flutter/pull/179927) over 1 week, 485 additions and 48 deletions in 9 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub>
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Some cleanup of cross library test imports
-  <sub>[#177029](https://github.com/flutter/flutter/pull/177029) merged on January 2, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/177029) over 2 months, 236 additions and 297 deletions in 76 files</sub>
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
-
-* **[Илия](https://github.com/777genius)** &mdash; Improve Container color/decoration error message clarity
-  <sub>[#178823](https://github.com/flutter/flutter/pull/178823) merged on December 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178823) over 1 month, 3 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
-* **[Jonathan Gilbert](https://github.com/logiclrd)** &mdash; Add support for Shift-Delete, Ctrl-Insert and Shift-Insert
-  <sub>[#178561](https://github.com/flutter/flutter/pull/178561) merged on December 29, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/178561) over 1 month, 119 additions and 9 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [Bruno Leroux](https://github.com/bleroux)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Relands "Feat: Add a11y for loading indicators (#165173)"
-  <sub>[#178402](https://github.com/flutter/flutter/pull/178402) merged on January 2, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/178402) over 1 month, 512 additions and 41 deletions in 27 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[bungeman](https://github.com/bungeman)** &mdash; Add SK_SUPPORT_LEGACY_UNSPANNED_GRADIENTS to SkUserConfig.h
-  <sub>[#180443](https://github.com/flutter/flutter/pull/180443) merged on January 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180443) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove @override annotations from things which are not overrides
-  <sub>[#180417](https://github.com/flutter/flutter/pull/180417) merged on December 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180417) over 1 hour, 0 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a DecoratedBox doesn't crash in 0x0 environment
-  <sub>[#180329](https://github.com/flutter/flutter/pull/180329) merged on December 31, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180329) over 3 days, 12 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a CheckedModeBanner doesn't crash in 0x0 environment
-  <sub>[#180280](https://github.com/flutter/flutter/pull/180280) merged on December 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180280) over 5 days, 12 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
-* **[walley892](https://github.com/walley892)** &mdash; Fix issue with getUniformFloat crashing with hot reload
-  <sub>[#180138](https://github.com/flutter/flutter/pull/180138) merged on December 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180138) over 1 week, 66 additions and 0 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
-
-</details>
-
-### December 20, 2025 to December 26, 2025
-
-<details>
-<summary>5 commits...</summary>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a WidgetsApp doesn't crash in 0x0 environment
-  <sub>[#180224](https://github.com/flutter/flutter/pull/180224) merged on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180224) over 3 days, 11 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSize doesn't crash in 0x0 environment
-  <sub>[#180174](https://github.com/flutter/flutter/pull/180174) merged on December 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180174) over 5 days, 14 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jonathanacaofiscaldotrabalho-blip](https://github.com/jonathanacaofiscaldotrabalho-blip), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedGrid doesn't crash in 0x0 environment
-  <sub>[#180159](https://github.com/flutter/flutter/pull/180159) merged on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180159) over 6 days, 26 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedCrossFade does not crash in 0x0 environment
-  <sub>[#180088](https://github.com/flutter/flutter/pull/180088) merged on December 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180088) over 1 week, 19 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedList doesn't crash in 0x0 environment
-  <sub>[#180123](https://github.com/flutter/flutter/pull/180123) merged on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180123) over 1 week, 22 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-</details>
-
 ## flutter/packages
 
 ### January 10, 2026 to January 16, 2026
@@ -1088,17 +1005,6 @@
 
 * **[Moritz Messner](https://github.com/MoritzMessner)** &mdash; Update link for Activity UI design article
   <sub>[#12875](https://github.com/flutter/website/pull/12875) merged on January 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12875) over 1 day, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
-
-</details>
-
-### December 20, 2025 to December 26, 2025
-
-<details>
-<summary>1 commits...</summary>
-
-* **[autorejecttop](https://github.com/autorejecttop)** &mdash; Update FlutterLogo link to correct documentation
-  <sub>[#12864](https://github.com/flutter/website/pull/12864) merged on December 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12864) over 7 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 </details>
