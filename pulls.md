@@ -227,3 +227,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `UrlStringAttribute` class<br />
   <sub>[#181146](https://github.com/flutter/flutter/pull/181146) opened on on January 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181146) 0 additions and 4 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `ViewUtils.java`<br />
+  <sub>[#181147](https://github.com/flutter/flutter/pull/181147) opened on on January 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181147) 3 additions and 4 deletions in 1 file</sub><br />
+
