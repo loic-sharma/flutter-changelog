@@ -218,3 +218,9 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; enable enhanced debugging for GLES playground<br />
   <sub>[#181157](https://github.com/flutter/flutter/pull/181157) opened on on January 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181157) 23 additions and 0 deletions in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Tool ] Handle DartDevelopmentServiceException when launching web applications<br />
+  <sub>[#181162](https://github.com/flutter/flutter/pull/181162) opened on on January 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181162) 32 additions and 5 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Tool ] Fix `flutter run -d all` crash (#180845)<br />
+  <sub>[#181163](https://github.com/flutter/flutter/pull/181163) opened on on January 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181163) 71 additions and 23 deletions in 2 files</sub><br />
+
