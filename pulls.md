@@ -140,9 +140,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; use null-aware element in `pointer_signal_resolver.0.dart‎`<br />
-  <sub>[#180981](https://github.com/flutter/flutter/pull/180981) opened on on January 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180981) 1 addition and 4 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Migrate `focus_node.unfocus.0.dart` to use`RadioGroup` instead of `Radio`<br />
   <sub>[#180989](https://github.com/flutter/flutter/pull/180989) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180989) 4 additions and 8 deletions in 1 file</sub><br />
 
@@ -220,4 +217,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Image doesn't crash in 0x0 environment<br />
   <sub>[#181154](https://github.com/flutter/flutter/pull/181154) opened on on January 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181154) 12 additions and 0 deletions in 1 file</sub><br />
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; enable enhanced debugging for GLES playground<br />
+  <sub>[#181157](https://github.com/flutter/flutter/pull/181157) opened on on January 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181157) 23 additions and 0 deletions in 2 files</sub><br />
 
