@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### January 17, 2026 to January 23, 2026
+
+1 commits.
+
+* **[巢鹏](https://github.com/chaopeng)** &mdash; Add route for 'tmp' to Flutter runner<br />
+  <sub>[#181044](https://github.com/flutter/flutter/pull/181044) merged on January 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181044) over 3 days, 7 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zijiehe@](https://github.com/zijiehe-google-com)</sub><br />
+
 ### January 10, 2026 to January 16, 2026
 
-65 commits.
+<details>
+<summary>65 commits...</summary>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Flutter as a Swift Package dependency<br />
   <sub>[#178931](https://github.com/flutter/flutter/pull/178931) merged on January 13, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/178931) over 1 month, 2433 additions and 535 deletions in 25 files</sub><br />
@@ -270,6 +279,8 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland `Enabled some disabled impeller fragment shader dart tests`<br />
   <sub>[#180788](https://github.com/flutter/flutter/pull/180788) merged on January 12, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/180788) over 2 days, 261 additions and 265 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+</details>
 
 ### January 3, 2026 to January 9, 2026
 
