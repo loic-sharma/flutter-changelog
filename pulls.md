@@ -221,3 +221,6 @@
 * **[Raphael Schütz](https://github.com/Raphael2b3)** &mdash; (feat+test) Add an index to DefaultTabController to control active tab declaratively<br />
   <sub>[#181129](https://github.com/flutter/flutter/pull/181129) opened on on January 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181129) 145 additions and 3 deletions in 2 files</sub><br />
 
+* **[sutes-work](https://github.com/sutes-work)** &mdash; Roll Fuchsia GN SDK from NAEC5tfgSl8g94nwp... to JLBh4Z9PKsjIJcqDU...<br />
+  <sub>[#181139](https://github.com/flutter/flutter/pull/181139) opened on on January 19, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181139) 38 additions and 410 deletions in 10 files</sub><br />
+
