@@ -218,3 +218,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `ViewUtils.java`<br />
   <sub>[#181147](https://github.com/flutter/flutter/pull/181147) opened on on January 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181147) 3 additions and 4 deletions in 1 file</sub><br />
 
+* **[Danilospano00](https://github.com/Danilospano00)** &mdash; fix: boundary check for restored scroll offsets in ScrollPosition<br />
+  <sub>[#181151](https://github.com/flutter/flutter/pull/181151) opened on on January 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181151) 71 additions and 2 deletions in 2 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Image doesn't crash in 0x0 environment<br />
+  <sub>[#181154](https://github.com/flutter/flutter/pull/181154) opened on on January 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181154) 12 additions and 0 deletions in 1 file</sub><br />
+
