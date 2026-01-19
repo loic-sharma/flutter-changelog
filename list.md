@@ -4,7 +4,11 @@
 
 ### January 17, 2026 to January 23, 2026
 
-2 commits.
+3 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`
+  <sub>[#180768](https://github.com/flutter/flutter/pull/180768) merged on January 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180768) over 1 week, 120 additions and 34 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; use null-aware element in `pointer_signal_resolver.0.dart‎`
   <sub>[#180981](https://github.com/flutter/flutter/pull/180981) merged on January 19, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180981) over 5 days, 1 addition and 4 deletions in 1 file</sub>
