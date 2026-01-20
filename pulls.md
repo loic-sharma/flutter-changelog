@@ -140,12 +140,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Migrate `focus_node.unfocus.0.dart` to use`RadioGroup` instead of `Radio`<br />
   <sub>[#180989](https://github.com/flutter/flutter/pull/180989) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180989) 4 additions and 8 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `Integer.toString` in `FlutterShellArgs.java`<br />
-  <sub>[#180993](https://github.com/flutter/flutter/pull/180993) opened on on January 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/180993) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `FlutterJNI.java`<br />
-  <sub>[#180995](https://github.com/flutter/flutter/pull/180995) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180995) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Nav](https://github.com/nav9)** &mdash; Enable Gradle caching in gradle.properties template #180382<br />
   <sub>[#181039](https://github.com/flutter/flutter/pull/181039) opened on on January 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181039) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -202,12 +196,6 @@
 
 * **[sutes-work](https://github.com/sutes-work)** &mdash; Roll Fuchsia GN SDK from NAEC5tfgSl8g94nwp... to JLBh4Z9PKsjIJcqDU...<br />
   <sub>[#181139](https://github.com/flutter/flutter/pull/181139) opened on on January 19, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181139) 42 additions and 410 deletions in 11 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `UrlStringAttribute` class<br />
-  <sub>[#181146](https://github.com/flutter/flutter/pull/181146) opened on on January 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181146) 0 additions and 4 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `ViewUtils.java`<br />
-  <sub>[#181147](https://github.com/flutter/flutter/pull/181147) opened on on January 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181147) 3 additions and 4 deletions in 1 file</sub><br />
 
 * **[Danilospano00](https://github.com/Danilospano00)** &mdash; fix: boundary check for restored scroll offsets in ScrollPosition<br />
   <sub>[#181151](https://github.com/flutter/flutter/pull/181151) opened on on January 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181151) 71 additions and 2 deletions in 2 files</sub><br />
