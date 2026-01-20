@@ -101,7 +101,7 @@
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix style_manager_test for Firefox<br />
-  <sub>[#181084](https://github.com/flutter/flutter/pull/181084) merged on January 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181084) over 5 hours, 20 additions and 23 deletions in 2 files</sub><br />
+  <sub>[#181084](https://github.com/flutter/flutter/pull/181084) merged on January 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181084) over 5 hours, 20 additions and 23 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix style manager test by actually focusing the tested element.<br />
