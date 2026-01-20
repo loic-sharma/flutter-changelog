@@ -231,5 +231,5 @@
   <sub>[#181174](https://github.com/flutter/flutter/pull/181174) opened on on January 20, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181174) 334 additions and 24 deletions in 2 files</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; feat(material): Update state change onReorderStart in ReorderableListView<br />
-  <sub>[#181181](https://github.com/flutter/flutter/pull/181181) opened on on January 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181181) 127 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#181181](https://github.com/flutter/flutter/pull/181181) opened on on January 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181181) 131 additions and 1 deletion in 2 files</sub><br />
 
