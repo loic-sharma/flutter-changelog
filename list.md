@@ -789,9 +789,18 @@
 
 ## flutter/website
 
+### January 17, 2026 to January 23, 2026
+
+1 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix build by pinning liquify to 1.3.1
+  <sub>[#12963](https://github.com/flutter/website/pull/12963) merged on January 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12963) over 9 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
+
 ### January 10, 2026 to January 16, 2026
 
-29 commits.
+<details>
+<summary>29 commits...</summary>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; FWE clean up
   <sub>[#12900](https://github.com/flutter/website/pull/12900) merged on January 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/12900) over 4 days, 517 additions and 157 deletions in 31 files</sub>
@@ -908,6 +917,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add note about Android Studio check in VS Code setup
   <sub>[#12907](https://github.com/flutter/website/pull/12907) merged on January 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12907) over 3 days, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### January 3, 2026 to January 9, 2026
 
