@@ -228,5 +228,5 @@
   <sub>[#181168](https://github.com/flutter/flutter/pull/181168) opened on on January 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181168) 68 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Enhance error handling of WidgetsBindingObserver callbacks<br />
-  <sub>[#181174](https://github.com/flutter/flutter/pull/181174) opened on on January 20, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181174) 287 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#181174](https://github.com/flutter/flutter/pull/181174) opened on on January 20, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181174) 334 additions and 24 deletions in 2 files</sub><br />
 
