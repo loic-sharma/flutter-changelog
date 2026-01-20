@@ -170,14 +170,8 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove Material from box_decoration_test, listener_test, slivers_padding_test, dual_transition_builder_test, rotated_box_test, syncing_test<br />
   <sub>[#181104](https://github.com/flutter/flutter/pull/181104) opened on on January 17, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/181104) 26 additions and 32 deletions in 7 files</sub><br />
 
-* **[Luan Nico](https://github.com/luanpotter)** &mdash; test: Clarify failure messages on gestures/debug_test.dart<br />
-  <sub>[#181109](https://github.com/flutter/flutter/pull/181109) opened on on January 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181109) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
   <sub>[#181110](https://github.com/flutter/flutter/pull/181110) opened on on January 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181110) 95 additions and 38 deletions in 4 files</sub><br />
-
-* **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Save event data by pointer in an extensible _RecognizerEventData structure<br />
-  <sub>[#181113](https://github.com/flutter/flutter/pull/181113) opened on on January 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181113) 37 additions and 7 deletions in 1 file</sub><br />
 
 * **[Divith S](https://github.com/Divith123)** &mdash; RFC: Opt-in Semantic Shadow Tree for Flutter Web SEO<br />
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
@@ -188,12 +182,6 @@
 * **[sutes-work](https://github.com/sutes-work)** &mdash; Roll Fuchsia GN SDK from NAEC5tfgSl8g94nwp... to JLBh4Z9PKsjIJcqDU...<br />
   <sub>[#181139](https://github.com/flutter/flutter/pull/181139) opened on on January 19, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181139) 42 additions and 410 deletions in 11 files</sub><br />
 
-* **[Danilospano00](https://github.com/Danilospano00)** &mdash; fix: boundary check for restored scroll offsets in ScrollPosition<br />
-  <sub>[#181151](https://github.com/flutter/flutter/pull/181151) opened on on January 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181151) 71 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Image doesn't crash in 0x0 environment<br />
-  <sub>[#181154](https://github.com/flutter/flutter/pull/181154) opened on on January 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181154) 12 additions and 0 deletions in 1 file</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; enable enhanced debugging for GLES playground<br />
   <sub>[#181157](https://github.com/flutter/flutter/pull/181157) opened on on January 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181157) 23 additions and 0 deletions in 2 files</sub><br />
 
@@ -203,17 +191,8 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Tool ] Fix `flutter run -d all` crash (#180845)<br />
   <sub>[#181163](https://github.com/flutter/flutter/pull/181163) opened on on January 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181163) 71 additions and 23 deletions in 2 files</sub><br />
 
-* **[Bodhi Silberling](https://github.com/bodhisilberling-2027)** &mdash; Improve WillPopScope deprecation documentation with migration example<br />
-  <sub>[#181168](https://github.com/flutter/flutter/pull/181168) opened on on January 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181168) 68 additions and 0 deletions in 1 file</sub><br />
-
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Enhance error handling of WidgetsBindingObserver callbacks<br />
-  <sub>[#181174](https://github.com/flutter/flutter/pull/181174) opened on on January 20, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181174) 334 additions and 24 deletions in 2 files</sub><br />
-
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; feat(material): Update state change onReorderStart in ReorderableListView<br />
   <sub>[#181181](https://github.com/flutter/flutter/pull/181181) opened on on January 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181181) 131 additions and 1 deletion in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedContainer doesn't crash in 0x0 environment<br />
-  <sub>[#181198](https://github.com/flutter/flutter/pull/181198) opened on on January 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181198) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script"<br />
   <sub>[#181200](https://github.com/flutter/flutter/pull/181200) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181200) 6 additions and 5 deletions in 2 files</sub><br />
@@ -223,7 +202,4 @@
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Use SkPathBuilder with SkPathMeasure::getSegment<br />
   <sub>[#181205](https://github.com/flutter/flutter/pull/181205) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181205) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; fix description for semantics finders<br />
-  <sub>[#181214](https://github.com/flutter/flutter/pull/181214) opened on on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181214) 118 additions and 12 deletions in 2 files</sub><br />
 
