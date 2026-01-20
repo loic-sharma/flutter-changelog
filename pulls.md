@@ -89,9 +89,6 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine] fix missing virtual destructor in Codec base class<br />
   <sub>[#180288](https://github.com/flutter/flutter/pull/180288) opened on on December 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180288) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix ImageStream reporting errors globally when no active listeners exist<br />
-  <sub>[#180327](https://github.com/flutter/flutter/pull/180327) opened on on December 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180327) 137 additions and 37 deletions in 5 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) opened on on December 30, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/180389) 171 additions and 19 deletions in 2 files</sub><br />
 
@@ -128,20 +125,8 @@
 * **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …<br />
   <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
 
-* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix false positives for hit test misses in flutter_test<br />
-  <sub>[#180856](https://github.com/flutter/flutter/pull/180856) opened on on January 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180856) 104 additions and 6 deletions in 3 files</sub><br />
-
-* **[Giancarlo Cante](https://github.com/GiancarloCante)** &mdash; Rename "widgetTester" parameter to "tester" in "WidgetTesterCallback"<br />
-  <sub>[#180944](https://github.com/flutter/flutter/pull/180944) opened on on January 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180944) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Hero doesn't crash in 0x0 environment<br />
-  <sub>[#180954](https://github.com/flutter/flutter/pull/180954) opened on on January 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180954) 14 additions and 0 deletions in 1 file</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Migrate `focus_node.unfocus.0.dart` to use`RadioGroup` instead of `Radio`<br />
-  <sub>[#180989](https://github.com/flutter/flutter/pull/180989) opened on on January 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180989) 4 additions and 8 deletions in 1 file</sub><br />
 
 * **[Nav](https://github.com/nav9)** &mdash; Enable Gradle caching in gradle.properties template #180382<br />
   <sub>[#181039](https://github.com/flutter/flutter/pull/181039) opened on on January 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181039) 1 addition and 0 deletions in 1 file</sub><br />
@@ -163,9 +148,6 @@
 
 * **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…<br />
   <sub>[#181082](https://github.com/flutter/flutter/pull/181082) opened on on January 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181082) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageIcon doesn't crash in 0x0 environment<br />
-  <sub>[#181099](https://github.com/flutter/flutter/pull/181099) opened on on January 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181099) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove Material from box_decoration_test, listener_test, slivers_padding_test, dual_transition_builder_test, rotated_box_test, syncing_test<br />
   <sub>[#181104](https://github.com/flutter/flutter/pull/181104) opened on on January 17, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/181104) 26 additions and 32 deletions in 7 files</sub><br />
