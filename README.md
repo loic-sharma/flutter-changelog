@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-9 commits.
+10 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio<br />
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile <br />
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `Integer.toString` in `FlutterShellArgs.java`<br />
+  <sub>[#180993](https://github.com/flutter/flutter/pull/180993) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180993) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `FlutterJNI.java`<br />
   <sub>[#180995](https://github.com/flutter/flutter/pull/180995) merged on January 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180995) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
