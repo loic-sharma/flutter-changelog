@@ -4,12 +4,21 @@
 
 ### January 17, 2026 to January 23, 2026
 
-10 commits.
+13 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [diffray](https://github.com/diffray-bot)</sub>
   <sub><details><summary>5 images...</summary><img width="476" height="543" alt="image" src="https://github.com/user-attachments/assets/6e6b96ed-80b3-487c-b621-3cddd4537ec0" /><img width="476" height="543" alt="image" src="https://github.com/user-attachments/assets/d93b83be-a9fc-4b25-aca2-0e2c3f9a7e56" /><img width="476" height="543" alt="image" src="https://github.com/user-attachments/assets/bf94a20a-278b-42a2-9162-5aa4a61915af" /><img width="1024" height="796" alt="image" src="https://github.com/user-attachments/assets/053cc229-01f1-4181-97a6-48b96bf16fcf" /><img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/6e741066-89a3-4282-bdc2-fa02b1eea14d" /></details></sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Add leadingIndex to CarouselController and onItemChanged to CarouselView
+  <sub>[#180667](https://github.com/flutter/flutter/pull/180667) merged on January 20, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/180667) over 1 week, 303 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `ViewUtils.java`
+  <sub>[#181147](https://github.com/flutter/flutter/pull/181147) merged on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181147) over 1 day, 3 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+  <sub><details><summary>1 image...</summary><img width="512" height="98" alt="Screenshot 2026-01-19 at 11 09 21" src="https://github.com/user-attachments/assets/d2739ba7-7da8-494f-aded-079b50129a93" /></details></sub>
 
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) merged on January 20, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/180100) over 1 month, 272 additions and 5 deletions in 2 files</sub>
@@ -26,6 +35,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile 
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Remove VMA from build logic
+  <sub>[#181183](https://github.com/flutter/flutter/pull/181183) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181183) over 4 hours, 0 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `Integer.toString` in `FlutterShellArgs.java`
   <sub>[#180993](https://github.com/flutter/flutter/pull/180993) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180993) over 5 days, 1 addition and 1 deletion in 1 file</sub>
