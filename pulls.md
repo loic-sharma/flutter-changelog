@@ -224,3 +224,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Tool ] Fix `flutter run -d all` crash (#180845)<br />
   <sub>[#181163](https://github.com/flutter/flutter/pull/181163) opened on on January 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181163) 71 additions and 23 deletions in 2 files</sub><br />
 
+* **[Bodhi Silberling](https://github.com/bodhisilberling-2027)** &mdash; Improve WillPopScope deprecation documentation with migration example<br />
+  <sub>[#181168](https://github.com/flutter/flutter/pull/181168) opened on on January 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181168) 68 additions and 0 deletions in 1 file</sub><br />
+
