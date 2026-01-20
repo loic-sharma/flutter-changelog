@@ -215,9 +215,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedContainer doesn't crash in 0x0 environment<br />
   <sub>[#181198](https://github.com/flutter/flutter/pull/181198) opened on on January 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181198) 17 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Reset TextFormField to initial value after state change<br />
-  <sub>[#181199](https://github.com/flutter/flutter/pull/181199) opened on on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181199) 40 additions and 1 deletion in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script"<br />
   <sub>[#181200](https://github.com/flutter/flutter/pull/181200) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181200) 6 additions and 5 deletions in 2 files</sub><br />
 
