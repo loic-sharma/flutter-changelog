@@ -4,7 +4,12 @@
 
 ### January 17, 2026 to January 23, 2026
 
-8 commits.
+9 commits.
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio<br />
+  <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [diffray](https://github.com/diffray-bot)</sub><br />
+  <sub><details><summary>5 images...</summary><img width="476" height="543" alt="image" src="https://github.com/user-attachments/assets/6e6b96ed-80b3-487c-b621-3cddd4537ec0" /><img width="476" height="543" alt="image" src="https://github.com/user-attachments/assets/d93b83be-a9fc-4b25-aca2-0e2c3f9a7e56" /><img width="476" height="543" alt="image" src="https://github.com/user-attachments/assets/bf94a20a-278b-42a2-9162-5aa4a61915af" /><img width="1024" height="796" alt="image" src="https://github.com/user-attachments/assets/053cc229-01f1-4181-97a6-48b96bf16fcf" /><img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/6e741066-89a3-4282-bdc2-fa02b1eea14d" /></details></sub>
 
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) merged on January 20, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/180100) over 1 month, 272 additions and 5 deletions in 2 files</sub><br />
