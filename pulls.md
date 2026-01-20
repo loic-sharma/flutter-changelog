@@ -225,7 +225,7 @@
   <sub>[#181200](https://github.com/flutter/flutter/pull/181200) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181200) 6 additions and 5 deletions in 2 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [CP] Fix style_manager_test for Firefox (#181084)<br />
-  <sub>[#181204](https://github.com/flutter/flutter/pull/181204) opened on on January 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181204) 9 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#181204](https://github.com/flutter/flutter/pull/181204) opened on on January 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181204) 9 additions and 6 deletions in 2 files</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Use SkPathBuilder with SkPathMeasure::getSegment<br />
   <sub>[#181205](https://github.com/flutter/flutter/pull/181205) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181205) 2 additions and 2 deletions in 1 file</sub><br />
