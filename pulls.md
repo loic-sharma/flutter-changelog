@@ -230,3 +230,6 @@
 * **[bungeman](https://github.com/bungeman)** &mdash; Use SkPathBuilder with SkPathMeasure::getSegment<br />
   <sub>[#181205](https://github.com/flutter/flutter/pull/181205) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181205) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; fix description for semantics finders<br />
+  <sub>[#181214](https://github.com/flutter/flutter/pull/181214) opened on on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181214) 118 additions and 12 deletions in 2 files</sub><br />
+
