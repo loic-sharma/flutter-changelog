@@ -171,7 +171,7 @@
   <sub>[#181092](https://github.com/flutter/flutter/pull/181092) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181092) 240 additions and 2 deletions in 4 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [stable] [Impeller] Fix crash trying to check for duplicate vertices in shadow_path code (#180920)<br />
-  <sub>[#181095](https://github.com/flutter/flutter/pull/181095) opened on on January 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181095) 5 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#181095](https://github.com/flutter/flutter/pull/181095) opened on on January 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181095) 5 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageIcon doesn't crash in 0x0 environment<br />
   <sub>[#181099](https://github.com/flutter/flutter/pull/181099) opened on on January 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181099) 10 additions and 0 deletions in 1 file</sub><br />
@@ -224,6 +224,6 @@
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; feat(material): Update state change onReorderStart in ReorderableListView<br />
   <sub>[#181181](https://github.com/flutter/flutter/pull/181181) opened on on January 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181181) 131 additions and 1 deletion in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Impeller] Fix crash trying to check for duplicate vertices in shadow_path code<br />
-  <sub>[#181192](https://github.com/flutter/flutter/pull/181192) opened on on January 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181192) 5 additions and 2 deletions in 1 file</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage docs<br />
+  <sub>[#181193](https://github.com/flutter/flutter/pull/181193) opened on on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181193) 1 addition and 8 deletions in 1 file</sub><br />
 

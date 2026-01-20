@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-6 commits.
+7 commits.
 
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) merged on January 20, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/180100) over 1 month, 272 additions and 5 deletions in 2 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile <br />
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use renamed GNI filegroup<br />
+  <sub>[#180853](https://github.com/flutter/flutter/pull/180853) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180853) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Allowlist for dependencies of sdk packages<br />
   <sub>[#180740](https://github.com/flutter/flutter/pull/180740) merged on January 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180740) over 1 week, 121 additions and 0 deletions in 1 file</sub><br />
@@ -791,7 +795,11 @@
 
 ### January 17, 2026 to January 23, 2026
 
-1 commits.
+2 commits.
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add videos to FWE<br />
+  <sub>[#12962](https://github.com/flutter/website/pull/12962) merged on January 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12962) over 1 hour, 6 additions and 11 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix build by pinning liquify to 1.3.1<br />
   <sub>[#12963](https://github.com/flutter/website/pull/12963) merged on January 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12963) over 9 minutes, 1 addition and 1 deletion in 1 file</sub><br />
