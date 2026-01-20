@@ -4,10 +4,10 @@
 
 ### January 17, 2026 to January 23, 2026
 
-7 commits.
+8 commits.
 
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
-  <sub>[#180100](https://github.com/flutter/flutter/pull/180100) merged on January 20, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/180100) over 1 month, 272 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#180100](https://github.com/flutter/flutter/pull/180100) merged on January 20, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/180100) over 1 month, 272 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`<br />
@@ -21,6 +21,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile <br />
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `FlutterJNI.java`<br />
+  <sub>[#180995](https://github.com/flutter/flutter/pull/180995) merged on January 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180995) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use renamed GNI filegroup<br />
   <sub>[#180853](https://github.com/flutter/flutter/pull/180853) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180853) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -655,9 +659,18 @@
 
 ## flutter/packages
 
+### January 17, 2026 to January 23, 2026
+
+1 commits.
+
+* **[Frank](https://github.com/Frank3K)** &mdash; [google_fonts] Add WOFF and WOFF2 font format support for web<br />
+  <sub>[#10703](https://github.com/flutter/packages/pull/10703) merged on January 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10703) over 2 weeks, 204 additions and 9 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Pierre](https://github.com/guidezpl), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 ### January 10, 2026 to January 16, 2026
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Pedro Massango](https://github.com/pedromassango)** &mdash; [url_launcher] fix: tab traversal on web<br />
   <sub>[#10020](https://github.com/flutter/packages/pull/10020) merged on January 15, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/packages/pull/10020) over 4 months, 63 additions and 25 deletions in 5 files</sub><br />
@@ -719,6 +732,8 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Set Gemini Code Assist include_drafts to false<br />
   <sub>[#10765](https://github.com/flutter/packages/pull/10765) merged on January 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10765) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+</details>
 
 ### January 3, 2026 to January 9, 2026
 

@@ -42,7 +42,7 @@
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
@@ -153,22 +153,16 @@
   <sub>[#181041](https://github.com/flutter/flutter/pull/181041) opened on on January 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181041) 34 additions and 13 deletions in 2 files</sub><br />
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
-  <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; Revert DropdownMenu non-nullable breaking change<br />
   <sub>[#181074](https://github.com/flutter/flutter/pull/181074) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181074) 48 additions and 2 deletions in 2 files</sub><br />
-
-* **[August](https://github.com/Gustl22)** &mdash; ci: Run orchestrator for windows_arm_host_engine on Linux <br />
-  <sub>[#181075](https://github.com/flutter/flutter/pull/181075) opened on on January 16, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181075) 20 additions and 0 deletions in 1 file</sub><br />
 
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
 
 * **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…<br />
   <sub>[#181082](https://github.com/flutter/flutter/pull/181082) opened on on January 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181082) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [stable] [Impeller] Fix crash trying to check for duplicate vertices in shadow_path code (#180920)<br />
-  <sub>[#181095](https://github.com/flutter/flutter/pull/181095) opened on on January 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181095) 5 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageIcon doesn't crash in 0x0 environment<br />
   <sub>[#181099](https://github.com/flutter/flutter/pull/181099) opened on on January 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181099) 10 additions and 0 deletions in 1 file</sub><br />
@@ -220,4 +214,19 @@
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; feat(material): Update state change onReorderStart in ReorderableListView<br />
   <sub>[#181181](https://github.com/flutter/flutter/pull/181181) opened on on January 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181181) 131 additions and 1 deletion in 2 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedContainer doesn't crash in 0x0 environment<br />
+  <sub>[#181198](https://github.com/flutter/flutter/pull/181198) opened on on January 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181198) 17 additions and 0 deletions in 1 file</sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Reset TextFormField to initial value after state change<br />
+  <sub>[#181199](https://github.com/flutter/flutter/pull/181199) opened on on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181199) 40 additions and 1 deletion in 2 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script"<br />
+  <sub>[#181200](https://github.com/flutter/flutter/pull/181200) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181200) 6 additions and 5 deletions in 2 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [CP] Fix style_manager_test for Firefox (#181084)<br />
+  <sub>[#181204](https://github.com/flutter/flutter/pull/181204) opened on on January 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181204) 9 additions and 6 deletions in 2 files</sub><br />
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Use SkPathBuilder with SkPathMeasure::getSegment<br />
+  <sub>[#181205](https://github.com/flutter/flutter/pull/181205) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181205) 2 additions and 2 deletions in 1 file</sub><br />
 
