@@ -221,3 +221,6 @@
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Remove unnecessary Material import from dialog_test.dart<br />
   <sub>[#181249](https://github.com/flutter/flutter/pull/181249) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181249) 6 additions and 5 deletions in 2 files</sub><br />
 
+* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix remove material import box decoration test<br />
+  <sub>[#181253](https://github.com/flutter/flutter/pull/181253) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181253) 4 additions and 5 deletions in 2 files</sub><br />
+
