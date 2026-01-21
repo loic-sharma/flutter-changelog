@@ -51,7 +51,7 @@
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
-  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/178922) 2761 additions and 1270 deletions in 124 files</sub><br />
+  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/178922) 2761 additions and 1270 deletions in 124 files</sub><br />
 
 * **[Mulla Arsiya Tasleem](https://github.com/ArsiyaTasleem90250)** &mdash; Add unit tests for isEven utility function<br />
   <sub>[#179145](https://github.com/flutter/flutter/pull/179145) opened on on November 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179145) 15 additions and 0 deletions in 1 file</sub><br />
@@ -161,9 +161,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
   <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedPadding doesn't crash in 0x0 environment<br />
-  <sub>[#181235](https://github.com/flutter/flutter/pull/181235) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181235) 18 additions and 0 deletions in 1 file</sub><br />
-
 * **[crackedhandle](https://github.com/crackedhandle)** &mdash; Expose computeLineMetrics on RenderParagraph<br />
   <sub>[#181240](https://github.com/flutter/flutter/pull/181240) opened on on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181240) 10 additions and 0 deletions in 1 file</sub><br />
 
@@ -178,15 +175,6 @@
 
 * **[preet-jagani-66601](https://github.com/preet-jagani-66601)** &mdash; Skip HardwareKeyboard asserts until keyboard state is initialized<br />
   <sub>[#181247](https://github.com/flutter/flutter/pull/181247) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181247) 45 additions and 0 deletions in 2 files</sub><br />
-
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Remove unnecessary Material import from dialog_test.dart<br />
-  <sub>[#181249](https://github.com/flutter/flutter/pull/181249) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181249) 6 additions and 5 deletions in 2 files</sub><br />
-
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix remove material import box decoration test<br />
-  <sub>[#181253](https://github.com/flutter/flutter/pull/181253) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181253) 4 additions and 5 deletions in 2 files</sub><br />
-
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix remove material import textfield<br />
-  <sub>[#181254](https://github.com/flutter/flutter/pull/181254) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181254) 7 additions and 11 deletions in 2 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; update GLFW to latest and use EGL context creation on linux<br />
   <sub>[#181259](https://github.com/flutter/flutter/pull/181259) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181259) 7 additions and 2 deletions in 3 files</sub><br />
