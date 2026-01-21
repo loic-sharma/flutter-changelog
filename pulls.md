@@ -45,7 +45,7 @@
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Remove bringup flag from Mac_arm64_mokey task<br />
-  <sub>[#178759](https://github.com/flutter/flutter/pull/178759) opened on on November 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/178759) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#178759](https://github.com/flutter/flutter/pull/178759) opened on on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178759) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
@@ -149,9 +149,6 @@
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
 
-* **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…<br />
-  <sub>[#181082](https://github.com/flutter/flutter/pull/181082) opened on on January 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181082) 89 additions and 1 deletion in 2 files</sub><br />
-
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
   <sub>[#181110](https://github.com/flutter/flutter/pull/181110) opened on on January 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181110) 95 additions and 38 deletions in 4 files</sub><br />
 
@@ -231,14 +228,14 @@
   <sub>[#181259](https://github.com/flutter/flutter/pull/181259) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181259) 7 additions and 2 deletions in 3 files</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Move CheckedModeBanner tests to material and remove Material import from widgets banner_test<br />
-  <sub>[#181261](https://github.com/flutter/flutter/pull/181261) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181261) 38 additions and 39 deletions in 3 files</sub><br />
+  <sub>[#181261](https://github.com/flutter/flutter/pull/181261) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181261) 38 additions and 39 deletions in 3 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add stacktrace support when requested for host builds<br />
   <sub>[#181264](https://github.com/flutter/flutter/pull/181264) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181264) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Move heroes_test.dart from widgets to material directory<br />
-  <sub>[#181266](https://github.com/flutter/flutter/pull/181266) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181266) 0 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#181266](https://github.com/flutter/flutter/pull/181266) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181266) 0 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Move scroll_view_test.dart from widgets to material directory<br />
-  <sub>[#181268](https://github.com/flutter/flutter/pull/181268) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181268) 56 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#181268](https://github.com/flutter/flutter/pull/181268) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181268) 56 additions and 1 deletion in 3 files</sub><br />
 
