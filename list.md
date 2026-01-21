@@ -747,7 +747,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-8 commits.
+9 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(ios): add audio track selection support for AVFoundation
   <sub>[#10313](https://github.com/flutter/packages/pull/10313) merged on January 21, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10313) over 2 months, 582 additions and 13 deletions in 18 files</sub>
@@ -756,6 +756,10 @@
 * **[Alexandru Dochioiu](https://github.com/AlexDochioiu)** &mdash; [vector_graphics_compiler] Fix rgb/rgba color parsing to support modern CSS syntax
   <sub>[#10538](https://github.com/flutter/packages/pull/10538) merged on January 21, 2026 &mdash; **Large:** [43 comments](https://github.com/flutter/packages/pull/10538) over 1 month, 465 additions and 42 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [batch-release] Step2 : Publish packages from the release branch 
+  <sub>[#10459](https://github.com/flutter/packages/pull/10459) merged on January 21, 2026 &mdash; **Medium:** [44 comments](https://github.com/flutter/packages/pull/10459) over 2 months, 421 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [batch-release] Step3: Adds github action to create a PR to sync changes on the  go_router release branch back to the main branch
   <sub>[#10393](https://github.com/flutter/packages/pull/10393) merged on January 21, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10393) over 2 months, 24 additions and 0 deletions in 1 file</sub>
