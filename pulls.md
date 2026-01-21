@@ -194,3 +194,6 @@
 * **[Vikash Tiwari](https://github.com/iamvikashtiwari)** &mdash; Add WidgetStatesController support to ExpansionTile<br />
   <sub>[#181238](https://github.com/flutter/flutter/pull/181238) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181238) 68 additions and 0 deletions in 2 files</sub><br />
 
+* **[crackedhandle](https://github.com/crackedhandle)** &mdash; Expose computeLineMetrics on RenderParagraph<br />
+  <sub>[#181240](https://github.com/flutter/flutter/pull/181240) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181240) 11 additions and 0 deletions in 1 file</sub><br />
+
