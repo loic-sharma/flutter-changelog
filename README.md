@@ -848,11 +848,24 @@
 
 ### January 17, 2026 to January 23, 2026
 
-3 commits.
+6 commits.
+
+* **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Add missing text to Prompt vesioning section in `AI > Best practices > Prompting` page<br />
+  <sub>[#12956](https://github.com/flutter/website/pull/12956) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12956) over 1 day, 7 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="890" height="94" alt="Screenshot 2026-01-19 at 10 36 11" src="https://github.com/user-attachments/assets/494099e3-e032-4f89-a6f6-21e6deccc717" /><img width="905" height="139" alt="Screenshot 2026-01-19 at 10 37 43" src="https://github.com/user-attachments/assets/eeddb9a8-29a6-4d55-b9f9-94f21e06412e" /></details></sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add videos to FWE<br />
   <sub>[#12962](https://github.com/flutter/website/pull/12962) merged on January 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12962) over 1 hour, 6 additions and 11 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Ilham A.](https://github.com/ilhamelhamdi)** &mdash; Correct section title from 'implicit' to 'explicit' animations<br />
+  <sub>[#12955](https://github.com/flutter/website/pull/12955) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12955) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Littlegnal](https://github.com/littleGnAl)** &mdash; Add new design doc: multi-view-on-android-ios-runner-api<br />
+  <sub>[#12950](https://github.com/flutter/website/pull/12950) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12950) over 2 days, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Christoph Deil](https://github.com/cdeil)** &mdash; Fix typo in flavors-ios.md<br />
   <sub>[#12961](https://github.com/flutter/website/pull/12961) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12961) over 13 hours, 1 addition and 1 deletion in 1 file</sub><br />
