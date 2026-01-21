@@ -48,7 +48,7 @@
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
-  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/178922) 2761 additions and 1270 deletions in 124 files</sub><br />
+  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/178922) 2761 additions and 1270 deletions in 124 files</sub><br />
 
 * **[Mulla Arsiya Tasleem](https://github.com/ArsiyaTasleem90250)** &mdash; Add unit tests for isEven utility function<br />
   <sub>[#179145](https://github.com/flutter/flutter/pull/179145) opened on on November 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179145) 15 additions and 0 deletions in 1 file</sub><br />
@@ -180,7 +180,7 @@
   <sub>[#181204](https://github.com/flutter/flutter/pull/181204) opened on on January 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181204) 9 additions and 6 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
-  <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181224) 847 additions and 17 deletions in 8 files</sub><br />
+  <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />
 
 * **[Zaw Htet Naing](https://github.com/zawhtetnaing10)** &mdash; Implemented SliverExpansionPanelList<br />
   <sub>[#181232](https://github.com/flutter/flutter/pull/181232) opened on on January 21, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181232) 773 additions and 0 deletions in 4 files</sub><br />
@@ -229,4 +229,7 @@
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Move CheckedModeBanner tests to material and remove Material import from widgets banner_test<br />
   <sub>[#181261](https://github.com/flutter/flutter/pull/181261) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181261) 38 additions and 39 deletions in 3 files</sub><br />
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add stacktrace support when requested for host builds<br />
+  <sub>[#181264](https://github.com/flutter/flutter/pull/181264) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181264) 1 addition and 1 deletion in 1 file</sub><br />
 
