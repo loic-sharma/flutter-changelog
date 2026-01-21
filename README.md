@@ -699,7 +699,11 @@
 
 ### January 17, 2026 to January 23, 2026
 
-1 commits.
+2 commits.
+
+* **[Alexandru Dochioiu](https://github.com/AlexDochioiu)** &mdash; [vector_graphics_compiler] Fix rgb/rgba color parsing to support modern CSS syntax<br />
+  <sub>[#10538](https://github.com/flutter/packages/pull/10538) merged on January 21, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/packages/pull/10538) over 1 month, 465 additions and 42 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Frank](https://github.com/Frank3K)** &mdash; [google_fonts] Add WOFF and WOFF2 font format support for web<br />
   <sub>[#10703](https://github.com/flutter/packages/pull/10703) merged on January 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10703) over 2 weeks, 204 additions and 9 deletions in 4 files</sub><br />
