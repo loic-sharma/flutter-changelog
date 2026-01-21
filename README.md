@@ -735,7 +735,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-7 commits.
+8 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(ios): add audio track selection support for AVFoundation<br />
   <sub>[#10313](https://github.com/flutter/packages/pull/10313) merged on January 21, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10313) over 2 months, 582 additions and 13 deletions in 18 files</sub><br />
@@ -756,6 +756,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [url_launcher_ios] Migrate XCTest to Swift Testing<br />
   <sub>[#10780](https://github.com/flutter/packages/pull/10780) merged on January 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10780) over 1 week, 89 additions and 104 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; [two_dimensional_scrollables] optimizes tableview janks with >250k rows<br />
+  <sub>[#10738](https://github.com/flutter/packages/pull/10738) merged on January 21, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/10738) over 2 weeks, 79 additions and 30 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Ed Pizzi](https://github.com/edpizzi)** &mdash; [in_app_purchase] Fix an issue causing StoreKit 2 transactions remain unfinished<br />
   <sub>[#10656](https://github.com/flutter/packages/pull/10656) merged on January 21, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10656) over 1 month, 32 additions and 8 deletions in 6 files</sub><br />
