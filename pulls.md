@@ -179,6 +179,9 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [CP] Fix style_manager_test for Firefox (#181084)<br />
   <sub>[#181204](https://github.com/flutter/flutter/pull/181204) opened on on January 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181204) 9 additions and 6 deletions in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
+  <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/181224) 847 additions and 17 deletions in 8 files</sub><br />
+
 * **[Zaw Htet Naing](https://github.com/zawhtetnaing10)** &mdash; Implemented SliverExpansionPanelList<br />
   <sub>[#181232](https://github.com/flutter/flutter/pull/181232) opened on on January 21, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181232) 773 additions and 0 deletions in 4 files</sub><br />
 
