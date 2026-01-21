@@ -209,3 +209,6 @@
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in material/dialog.dart<br />
   <sub>[#181244](https://github.com/flutter/flutter/pull/181244) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181244) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Move decorated_sliver_test.dart from widgets to material<br />
+  <sub>[#181245](https://github.com/flutter/flutter/pull/181245) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181245) 0 additions and 0 deletions in 1 file</sub><br />
+
