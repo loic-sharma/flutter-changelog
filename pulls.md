@@ -185,3 +185,6 @@
 * **[Zaw Htet Naing](https://github.com/zawhtetnaing10)** &mdash; Implemented SliverExpansionPanelList<br />
   <sub>[#181232](https://github.com/flutter/flutter/pull/181232) opened on on January 21, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181232) 773 additions and 0 deletions in 4 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedPadding doesn't crash in 0x0 environment<br />
+  <sub>[#181235](https://github.com/flutter/flutter/pull/181235) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181235) 18 additions and 0 deletions in 1 file</sub><br />
+
