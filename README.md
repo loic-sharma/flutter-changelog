@@ -852,7 +852,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-6 commits.
+7 commits.
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Add missing text to Prompt vesioning section in `AI > Best practices > Prompting` page<br />
   <sub>[#12956](https://github.com/flutter/website/pull/12956) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12956) over 1 day, 7 additions and 1 deletion in 1 file</sub><br />
@@ -862,6 +862,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add videos to FWE<br />
   <sub>[#12962](https://github.com/flutter/website/pull/12962) merged on January 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12962) over 1 hour, 6 additions and 11 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Account for recent codelab removals<br />
+  <sub>[#12965](https://github.com/flutter/website/pull/12965) merged on January 21, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12965) over 13 hours, 18 additions and 229 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Ilham A.](https://github.com/ilhamelhamdi)** &mdash; Correct section title from 'implicit' to 'explicit' animations<br />
   <sub>[#12955](https://github.com/flutter/website/pull/12955) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12955) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />

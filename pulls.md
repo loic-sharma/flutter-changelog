@@ -57,7 +57,7 @@
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add FlutterFramework as an Xcode SwiftPM local package override<br />
-  <sub>[#179512](https://github.com/flutter/flutter/pull/179512) opened on on December 5, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/179512) 785 additions and 55 deletions in 7 files</sub><br />
+  <sub>[#179512](https://github.com/flutter/flutter/pull/179512) opened on on December 5, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/179512) 785 additions and 55 deletions in 7 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179810) 179 additions and 179 deletions in 10 files</sub><br />
