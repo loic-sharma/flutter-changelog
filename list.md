@@ -723,7 +723,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-4 commits.
+5 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(ios): add audio track selection support for AVFoundation
   <sub>[#10313](https://github.com/flutter/packages/pull/10313) merged on January 21, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10313) over 2 months, 582 additions and 13 deletions in 18 files</sub>
@@ -736,6 +736,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [batch-release] Step3: Adds github action to create a PR to sync changes on the  go_router release branch back to the main branch
   <sub>[#10393](https://github.com/flutter/packages/pull/10393) merged on January 21, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10393) over 2 months, 24 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Restructure iOS to prep for SwiftPM
+  <sub>[#10839](https://github.com/flutter/packages/pull/10839) merged on January 21, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/10839) over 1 day, 296 additions and 3846 deletions in 236 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Frank](https://github.com/Frank3K)** &mdash; [google_fonts] Add WOFF and WOFF2 font format support for web
   <sub>[#10703](https://github.com/flutter/packages/pull/10703) merged on January 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10703) over 2 weeks, 204 additions and 9 deletions in 4 files</sub>
