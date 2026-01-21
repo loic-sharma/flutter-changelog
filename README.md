@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-23 commits.
+25 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio<br />
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub><br />
@@ -27,6 +27,10 @@
   <sub>[#181147](https://github.com/flutter/flutter/pull/181147) merged on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181147) over 1 day, 3 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
   <sub><details><summary>1 image...</summary><img width="512" height="98" alt="Screenshot 2026-01-19 at 11 09 21" src="https://github.com/user-attachments/assets/d2739ba7-7da8-494f-aded-079b50129a93" /></details></sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Remove bringup flag from Mac_arm64_mokey task<br />
+  <sub>[#178759](https://github.com/flutter/flutter/pull/178759) merged on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178759) over 2 months, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves<br />
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) merged on January 20, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/180100) over 1 month, 272 additions and 5 deletions in 2 files</sub><br />
@@ -51,6 +55,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; use null-aware element in `pointer_signal_resolver.0.dart‎`<br />
   <sub>[#180981](https://github.com/flutter/flutter/pull/180981) merged on January 19, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180981) over 5 days, 1 addition and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Huy](https://github.com/huycozy), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [packages_autoroller] Migrate to `dart build cli`<br />
+  <sub>[#181273](https://github.com/flutter/flutter/pull/181273) merged on January 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181273) over 1 hour, 27 additions and 13 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile <br />
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub><br />

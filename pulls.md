@@ -44,9 +44,6 @@
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Remove bringup flag from Mac_arm64_mokey task<br />
-  <sub>[#178759](https://github.com/flutter/flutter/pull/178759) opened on on November 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178759) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
@@ -179,17 +176,8 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; update GLFW to latest and use EGL context creation on linux<br />
   <sub>[#181259](https://github.com/flutter/flutter/pull/181259) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181259) 7 additions and 2 deletions in 3 files</sub><br />
 
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Move CheckedModeBanner tests to material and remove Material import from widgets banner_test<br />
-  <sub>[#181261](https://github.com/flutter/flutter/pull/181261) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181261) 38 additions and 39 deletions in 3 files</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add stacktrace support when requested for host builds<br />
   <sub>[#181264](https://github.com/flutter/flutter/pull/181264) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181264) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Move heroes_test.dart from widgets to material directory<br />
-  <sub>[#181266](https://github.com/flutter/flutter/pull/181266) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181266) 0 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Move scroll_view_test.dart from widgets to material directory<br />
-  <sub>[#181268](https://github.com/flutter/flutter/pull/181268) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181268) 56 additions and 1 deletion in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks Mac_mokey microbenchmarks to be unflaky<br />
   <sub>[#181276](https://github.com/flutter/flutter/pull/181276) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181276) 0 additions and 1 deletion in 1 file</sub><br />
