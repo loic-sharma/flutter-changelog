@@ -216,5 +216,5 @@
   <sub>[#181268](https://github.com/flutter/flutter/pull/181268) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181268) 56 additions and 1 deletion in 3 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [packages_autoroller] Migrate to `dart build cli`<br />
-  <sub>[#181273](https://github.com/flutter/flutter/pull/181273) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181273) 10 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#181273](https://github.com/flutter/flutter/pull/181273) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181273) 27 additions and 13 deletions in 2 files</sub><br />
 
