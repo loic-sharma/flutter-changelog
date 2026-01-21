@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-15 commits.
+16 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub>
@@ -14,6 +14,10 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add leadingIndex to CarouselController and onItemChanged to CarouselView
   <sub>[#180667](https://github.com/flutter/flutter/pull/180667) merged on January 20, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/180667) over 1 week, 303 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Emmanuel](https://github.com/zemanux)** &mdash; Add RenderSliver.getMaxPaintRect
+  <sub>[#180074](https://github.com/flutter/flutter/pull/180074) merged on January 21, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/180074) over 1 month, 454 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `ViewUtils.java`
   <sub>[#181147](https://github.com/flutter/flutter/pull/181147) merged on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181147) over 1 day, 3 additions and 4 deletions in 1 file</sub>

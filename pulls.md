@@ -147,7 +147,7 @@
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
 
 * **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…<br />
-  <sub>[#181082](https://github.com/flutter/flutter/pull/181082) opened on on January 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181082) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#181082](https://github.com/flutter/flutter/pull/181082) opened on on January 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181082) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
   <sub>[#181110](https://github.com/flutter/flutter/pull/181110) opened on on January 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181110) 95 additions and 38 deletions in 4 files</sub><br />
