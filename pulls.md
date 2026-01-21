@@ -188,3 +188,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedPadding doesn't crash in 0x0 environment<br />
   <sub>[#181235](https://github.com/flutter/flutter/pull/181235) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181235) 18 additions and 0 deletions in 1 file</sub><br />
 
+* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/nav_bar.dart<br />
+  <sub>[#181237](https://github.com/flutter/flutter/pull/181237) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181237) 16 additions and 18 deletions in 1 file</sub><br />
+
