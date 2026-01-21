@@ -159,7 +159,7 @@
   <sub>[#181129](https://github.com/flutter/flutter/pull/181129) opened on on January 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181129) 145 additions and 3 deletions in 2 files</sub><br />
 
 * **[sutes-work](https://github.com/sutes-work)** &mdash; Roll Fuchsia GN SDK from NAEC5tfgSl8g94nwp... to JLBh4Z9PKsjIJcqDU...<br />
-  <sub>[#181139](https://github.com/flutter/flutter/pull/181139) opened on on January 19, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181139) 42 additions and 410 deletions in 11 files</sub><br />
+  <sub>[#181139](https://github.com/flutter/flutter/pull/181139) opened on on January 19, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181139) 42 additions and 410 deletions in 11 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; enable enhanced debugging for GLES playground<br />
   <sub>[#181157](https://github.com/flutter/flutter/pull/181157) opened on on January 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181157) 23 additions and 0 deletions in 2 files</sub><br />

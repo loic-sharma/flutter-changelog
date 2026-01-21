@@ -848,10 +848,14 @@
 
 ### January 17, 2026 to January 23, 2026
 
-2 commits.
+3 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add videos to FWE
   <sub>[#12962](https://github.com/flutter/website/pull/12962) merged on January 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12962) over 1 hour, 6 additions and 11 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Christoph Deil](https://github.com/cdeil)** &mdash; Fix typo in flavors-ios.md
+  <sub>[#12961](https://github.com/flutter/website/pull/12961) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12961) over 13 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix build by pinning liquify to 1.3.1
