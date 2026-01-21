@@ -164,14 +164,8 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
   <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />
 
-* **[Zaw Htet Naing](https://github.com/zawhtetnaing10)** &mdash; Implemented SliverExpansionPanelList<br />
-  <sub>[#181232](https://github.com/flutter/flutter/pull/181232) opened on on January 21, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181232) 773 additions and 0 deletions in 4 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedPadding doesn't crash in 0x0 environment<br />
   <sub>[#181235](https://github.com/flutter/flutter/pull/181235) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181235) 18 additions and 0 deletions in 1 file</sub><br />
-
-* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/nav_bar.dart<br />
-  <sub>[#181237](https://github.com/flutter/flutter/pull/181237) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181237) 16 additions and 18 deletions in 1 file</sub><br />
 
 * **[crackedhandle](https://github.com/crackedhandle)** &mdash; Expose computeLineMetrics on RenderParagraph<br />
   <sub>[#181240](https://github.com/flutter/flutter/pull/181240) opened on on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181240) 10 additions and 0 deletions in 1 file</sub><br />
