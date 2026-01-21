@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-17 commits.
+18 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub>
@@ -47,6 +47,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile 
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Use SkPathBuilder with SkPathMeasure::getSegment
+  <sub>[#181205](https://github.com/flutter/flutter/pull/181205) merged on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181205) over 20 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Form doesn't crash in 0x0 environment
   <sub>[#180792](https://github.com/flutter/flutter/pull/180792) merged on January 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180792) over 1 week, 12 additions and 0 deletions in 1 file</sub>
@@ -702,7 +706,7 @@
 2 commits.
 
 * **[Alexandru Dochioiu](https://github.com/AlexDochioiu)** &mdash; [vector_graphics_compiler] Fix rgb/rgba color parsing to support modern CSS syntax
-  <sub>[#10538](https://github.com/flutter/packages/pull/10538) merged on January 21, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/packages/pull/10538) over 1 month, 465 additions and 42 deletions in 6 files</sub>
+  <sub>[#10538](https://github.com/flutter/packages/pull/10538) merged on January 21, 2026 &mdash; **Large:** [43 comments](https://github.com/flutter/packages/pull/10538) over 1 month, 465 additions and 42 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Frank](https://github.com/Frank3K)** &mdash; [google_fonts] Add WOFF and WOFF2 font format support for web

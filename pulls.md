@@ -227,3 +227,6 @@
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix remove material import textfield<br />
   <sub>[#181254](https://github.com/flutter/flutter/pull/181254) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181254) 8 additions and 11 deletions in 2 files</sub><br />
 
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; update GLFW to latest and use EGL context creation on linux<br />
+  <sub>[#181259](https://github.com/flutter/flutter/pull/181259) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181259) 7 additions and 2 deletions in 3 files</sub><br />
+
