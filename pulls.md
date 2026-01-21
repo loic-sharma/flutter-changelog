@@ -147,7 +147,7 @@
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
 
 * **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…<br />
-  <sub>[#181082](https://github.com/flutter/flutter/pull/181082) opened on on January 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181082) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#181082](https://github.com/flutter/flutter/pull/181082) opened on on January 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181082) 87 additions and 1 deletion in 2 files</sub><br />
 
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
   <sub>[#181110](https://github.com/flutter/flutter/pull/181110) opened on on January 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181110) 95 additions and 38 deletions in 4 files</sub><br />
@@ -178,9 +178,6 @@
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [CP] Fix style_manager_test for Firefox (#181084)<br />
   <sub>[#181204](https://github.com/flutter/flutter/pull/181204) opened on on January 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181204) 9 additions and 6 deletions in 2 files</sub><br />
-
-* **[bungeman](https://github.com/bungeman)** &mdash; Use SkPathBuilder with SkPathMeasure::getSegment<br />
-  <sub>[#181205](https://github.com/flutter/flutter/pull/181205) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181205) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Zaw Htet Naing](https://github.com/zawhtetnaing10)** &mdash; Implemented SliverExpansionPanelList<br />
   <sub>[#181232](https://github.com/flutter/flutter/pull/181232) opened on on January 21, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181232) 773 additions and 0 deletions in 4 files</sub><br />
@@ -226,4 +223,7 @@
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix remove material import textfield<br />
   <sub>[#181254](https://github.com/flutter/flutter/pull/181254) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181254) 8 additions and 11 deletions in 2 files</sub><br />
+
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; Fixes Typo in codebase<br />
+  <sub>[#181256](https://github.com/flutter/flutter/pull/181256) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181256) 49 additions and 47 deletions in 6 files</sub><br />
 
