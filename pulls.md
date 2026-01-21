@@ -171,7 +171,7 @@
   <sub>[#181240](https://github.com/flutter/flutter/pull/181240) opened on on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181240) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Move page_route_builder_test.dart from widgets to material<br />
-  <sub>[#181241](https://github.com/flutter/flutter/pull/181241) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181241) 0 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#181241](https://github.com/flutter/flutter/pull/181241) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181241) 0 additions and 0 deletions in 1 file</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in widgets/routes.dart<br />
   <sub>[#181242](https://github.com/flutter/flutter/pull/181242) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181242) 1 addition and 4 deletions in 1 file</sub><br />
@@ -214,4 +214,7 @@
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Move scroll_view_test.dart from widgets to material directory<br />
   <sub>[#181268](https://github.com/flutter/flutter/pull/181268) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181268) 56 additions and 1 deletion in 3 files</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [packages_autoroller] Migrate to `dart build cli`<br />
+  <sub>[#181273](https://github.com/flutter/flutter/pull/181273) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181273) 10 additions and 2 deletions in 1 file</sub><br />
 
