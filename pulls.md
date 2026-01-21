@@ -216,11 +216,11 @@
   <sub>[#181268](https://github.com/flutter/flutter/pull/181268) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181268) 56 additions and 1 deletion in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks Mac_mokey microbenchmarks to be unflaky<br />
-  <sub>[#181276](https://github.com/flutter/flutter/pull/181276) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181276) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#181276](https://github.com/flutter/flutter/pull/181276) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181276) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks drive_perf_debug_warning to be unflaky<br />
-  <sub>[#181277](https://github.com/flutter/flutter/pull/181277) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181277) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#181277](https://github.com/flutter/flutter/pull/181277) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181277) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Bring Linux coverage out of bringup<br />
-  <sub>[#181280](https://github.com/flutter/flutter/pull/181280) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181280) 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#181280](https://github.com/flutter/flutter/pull/181280) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181280) 0 additions and 2 deletions in 1 file</sub><br />
 
