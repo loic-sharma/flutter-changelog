@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-16 commits.
+17 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub>
@@ -31,6 +31,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`
   <sub>[#180768](https://github.com/flutter/flutter/pull/180768) merged on January 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180768) over 1 week, 120 additions and 34 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage docs
+  <sub>[#181193](https://github.com/flutter/flutter/pull/181193) merged on January 21, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181193) over 6 hours, 6 additions and 11 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSwitcher doesn't crash in 0x0 environment
   <sub>[#180190](https://github.com/flutter/flutter/pull/180190) merged on January 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180190) over 4 weeks, 42 additions and 0 deletions in 1 file</sub>
