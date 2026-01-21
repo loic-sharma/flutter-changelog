@@ -87,7 +87,7 @@
   <sub>[#180284](https://github.com/flutter/flutter/pull/180284) opened on on December 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180284) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue on macOS where, after a hot restart with multiple windows, unresponsive windows are left behind.<br />
-  <sub>[#180287](https://github.com/flutter/flutter/pull/180287) opened on on December 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180287) 47 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#180287](https://github.com/flutter/flutter/pull/180287) opened on on December 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180287) 47 additions and 12 deletions in 4 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine] fix missing virtual destructor in Codec base class<br />
   <sub>[#180288](https://github.com/flutter/flutter/pull/180288) opened on on December 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180288) 2 additions and 0 deletions in 1 file</sub><br />
@@ -126,7 +126,7 @@
   <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
 
 * **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …<br />
-  <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
@@ -134,41 +134,23 @@
 * **[Nav](https://github.com/nav9)** &mdash; Enable Gradle caching in gradle.properties template #180382<br />
   <sub>[#181039](https://github.com/flutter/flutter/pull/181039) opened on on January 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181039) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix DropdownButtonFormField underline alignment at bottom<br />
-  <sub>[#181040](https://github.com/flutter/flutter/pull/181040) opened on on January 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181040) 43 additions and 5 deletions in 2 files</sub><br />
-
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] update hourFormat to use Dart 3 switch expression<br />
   <sub>[#181041](https://github.com/flutter/flutter/pull/181041) opened on on January 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181041) 34 additions and 13 deletions in 2 files</sub><br />
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
 
-* **[August](https://github.com/Gustl22)** &mdash; Revert DropdownMenu non-nullable breaking change<br />
-  <sub>[#181074](https://github.com/flutter/flutter/pull/181074) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181074) 48 additions and 2 deletions in 2 files</sub><br />
-
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
 
-* **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
-  <sub>[#181110](https://github.com/flutter/flutter/pull/181110) opened on on January 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181110) 95 additions and 38 deletions in 4 files</sub><br />
-
 * **[Divith S](https://github.com/Divith123)** &mdash; RFC: Opt-in Semantic Shadow Tree for Flutter Web SEO<br />
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
-
-* **[Raphael Schütz](https://github.com/Raphael2b3)** &mdash; (feat+test) Add an index to DefaultTabController to control active tab declaratively<br />
-  <sub>[#181129](https://github.com/flutter/flutter/pull/181129) opened on on January 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181129) 145 additions and 3 deletions in 2 files</sub><br />
 
 * **[sutes-work](https://github.com/sutes-work)** &mdash; Roll Fuchsia GN SDK from NAEC5tfgSl8g94nwp... to JLBh4Z9PKsjIJcqDU...<br />
   <sub>[#181139](https://github.com/flutter/flutter/pull/181139) opened on on January 19, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181139) 42 additions and 410 deletions in 11 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; enable enhanced debugging for GLES playground<br />
   <sub>[#181157](https://github.com/flutter/flutter/pull/181157) opened on on January 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181157) 23 additions and 0 deletions in 2 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Tool ] Handle DartDevelopmentServiceException when launching web applications<br />
-  <sub>[#181162](https://github.com/flutter/flutter/pull/181162) opened on on January 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181162) 32 additions and 5 deletions in 2 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][ Tool ] Fix `flutter run -d all` crash (#180845)<br />
-  <sub>[#181163](https://github.com/flutter/flutter/pull/181163) opened on on January 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181163) 71 additions and 23 deletions in 2 files</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; feat(material): Update state change onReorderStart in ReorderableListView<br />
   <sub>[#181181](https://github.com/flutter/flutter/pull/181181) opened on on January 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181181) 131 additions and 1 deletion in 2 files</sub><br />

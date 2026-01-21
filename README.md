@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-18 commits.
+19 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio<br />
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub><br />
@@ -48,8 +48,12 @@
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Focus doesn't crash in 0x0 environment<br />
+  <sub>[#180674](https://github.com/flutter/flutter/pull/180674) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180674) over 1 week, 19 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[bungeman](https://github.com/bungeman)** &mdash; Use SkPathBuilder with SkPathMeasure::getSegment<br />
-  <sub>[#181205](https://github.com/flutter/flutter/pull/181205) merged on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181205) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#181205](https://github.com/flutter/flutter/pull/181205) merged on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181205) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Form doesn't crash in 0x0 environment<br />
