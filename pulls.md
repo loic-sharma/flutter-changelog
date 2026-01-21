@@ -167,9 +167,6 @@
 * **[crackedhandle](https://github.com/crackedhandle)** &mdash; Expose computeLineMetrics on RenderParagraph<br />
   <sub>[#181240](https://github.com/flutter/flutter/pull/181240) opened on on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181240) 10 additions and 0 deletions in 1 file</sub><br />
 
-* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Move page_route_builder_test.dart from widgets to material<br />
-  <sub>[#181241](https://github.com/flutter/flutter/pull/181241) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181241) 0 additions and 0 deletions in 1 file</sub><br />
-
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in widgets/routes.dart<br />
   <sub>[#181242](https://github.com/flutter/flutter/pull/181242) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181242) 1 addition and 4 deletions in 1 file</sub><br />
 

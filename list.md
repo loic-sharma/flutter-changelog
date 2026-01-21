@@ -723,7 +723,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-5 commits.
+7 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(ios): add audio track selection support for AVFoundation
   <sub>[#10313](https://github.com/flutter/packages/pull/10313) merged on January 21, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10313) over 2 months, 582 additions and 13 deletions in 18 files</sub>
@@ -740,6 +740,14 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Restructure iOS to prep for SwiftPM
   <sub>[#10839](https://github.com/flutter/packages/pull/10839) merged on January 21, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/10839) over 1 day, 296 additions and 3846 deletions in 236 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [url_launcher_ios] Migrate XCTest to Swift Testing
+  <sub>[#10780](https://github.com/flutter/packages/pull/10780) merged on January 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10780) over 1 week, 89 additions and 104 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Ed Pizzi](https://github.com/edpizzi)** &mdash; [in_app_purchase] Fix an issue causing StoreKit 2 transactions remain unfinished
+  <sub>[#10656](https://github.com/flutter/packages/pull/10656) merged on January 21, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10656) over 1 month, 32 additions and 8 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Frank](https://github.com/Frank3K)** &mdash; [google_fonts] Add WOFF and WOFF2 font format support for web
   <sub>[#10703](https://github.com/flutter/packages/pull/10703) merged on January 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10703) over 2 weeks, 204 additions and 9 deletions in 4 files</sub>
