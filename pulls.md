@@ -191,9 +191,6 @@
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/nav_bar.dart<br />
   <sub>[#181237](https://github.com/flutter/flutter/pull/181237) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181237) 16 additions and 18 deletions in 1 file</sub><br />
 
-* **[Vikash Tiwari](https://github.com/iamvikashtiwari)** &mdash; Add WidgetStatesController support to ExpansionTile<br />
-  <sub>[#181238](https://github.com/flutter/flutter/pull/181238) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181238) 68 additions and 0 deletions in 2 files</sub><br />
-
 * **[crackedhandle](https://github.com/crackedhandle)** &mdash; Expose computeLineMetrics on RenderParagraph<br />
   <sub>[#181240](https://github.com/flutter/flutter/pull/181240) opened on on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181240) 10 additions and 0 deletions in 1 file</sub><br />
 
@@ -225,8 +222,11 @@
   <sub>[#181253](https://github.com/flutter/flutter/pull/181253) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181253) 4 additions and 5 deletions in 2 files</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix remove material import textfield<br />
-  <sub>[#181254](https://github.com/flutter/flutter/pull/181254) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181254) 8 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#181254](https://github.com/flutter/flutter/pull/181254) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181254) 7 additions and 11 deletions in 2 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; update GLFW to latest and use EGL context creation on linux<br />
-  <sub>[#181259](https://github.com/flutter/flutter/pull/181259) opened on on January 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181259) 7 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#181259](https://github.com/flutter/flutter/pull/181259) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181259) 7 additions and 2 deletions in 3 files</sub><br />
+
+* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Move CheckedModeBanner tests to material and remove Material import from widgets banner_test<br />
+  <sub>[#181261](https://github.com/flutter/flutter/pull/181261) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181261) 38 additions and 39 deletions in 3 files</sub><br />
 

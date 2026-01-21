@@ -703,7 +703,11 @@
 
 ### January 17, 2026 to January 23, 2026
 
-2 commits.
+3 commits.
+
+* **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(ios): add audio track selection support for AVFoundation
+  <sub>[#10313](https://github.com/flutter/packages/pull/10313) merged on January 21, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10313) over 2 months, 582 additions and 13 deletions in 18 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Alexandru Dochioiu](https://github.com/AlexDochioiu)** &mdash; [vector_graphics_compiler] Fix rgb/rgba color parsing to support modern CSS syntax
   <sub>[#10538](https://github.com/flutter/packages/pull/10538) merged on January 21, 2026 &mdash; **Large:** [43 comments](https://github.com/flutter/packages/pull/10538) over 1 month, 465 additions and 42 deletions in 6 files</sub>
