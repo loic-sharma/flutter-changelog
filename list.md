@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-26 commits.
+28 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub>
@@ -59,6 +59,14 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; use null-aware element in `pointer_signal_resolver.0.dart‎`
   <sub>[#180981](https://github.com/flutter/flutter/pull/180981) merged on January 19, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180981) over 5 days, 1 addition and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Huy](https://github.com/huycozy), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Bring Linux coverage out of bringup
+  <sub>[#181280](https://github.com/flutter/flutter/pull/181280) merged on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181280) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks Mac_mokey microbenchmarks to be unflaky
+  <sub>[#181276](https://github.com/flutter/flutter/pull/181276) merged on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181276) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [packages_autoroller] Migrate to `dart build cli`
   <sub>[#181273](https://github.com/flutter/flutter/pull/181273) merged on January 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181273) over 1 hour, 27 additions and 13 deletions in 2 files</sub>

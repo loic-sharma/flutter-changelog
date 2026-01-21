@@ -179,9 +179,3 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add stacktrace support when requested for host builds<br />
   <sub>[#181264](https://github.com/flutter/flutter/pull/181264) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181264) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks Mac_mokey microbenchmarks to be unflaky<br />
-  <sub>[#181276](https://github.com/flutter/flutter/pull/181276) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181276) 0 additions and 1 deletion in 1 file</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Bring Linux coverage out of bringup<br />
-  <sub>[#181280](https://github.com/flutter/flutter/pull/181280) opened on on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181280) 0 additions and 2 deletions in 1 file</sub><br />
-
