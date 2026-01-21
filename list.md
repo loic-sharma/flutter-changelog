@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-25 commits.
+26 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub>
@@ -35,6 +35,10 @@
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) merged on January 20, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/180100) over 1 month, 272 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks drive_perf_debug_warning to be unflaky
+  <sub>[#181277](https://github.com/flutter/flutter/pull/181277) merged on January 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181277) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage docs
   <sub>[#181193](https://github.com/flutter/flutter/pull/181193) merged on January 21, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181193) over 6 hours, 6 additions and 11 deletions in 1 file</sub>
