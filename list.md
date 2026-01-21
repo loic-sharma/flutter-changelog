@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-28 commits.
+29 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub>
@@ -75,6 +75,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile 
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a GridPaper doesn't crash in 0x0 environment
+  <sub>[#180906](https://github.com/flutter/flutter/pull/180906) merged on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180906) over 1 week, 10 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing getPositionForOffset
   <sub>[#180913](https://github.com/flutter/flutter/pull/180913) merged on January 21, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180913) over 1 week, 64 additions and 23 deletions in 3 files</sub>
