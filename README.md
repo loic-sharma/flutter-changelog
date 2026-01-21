@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-21 commits.
+22 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio<br />
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub><br />
@@ -12,7 +12,7 @@
   <sub><details><summary>5 images...</summary><img width="476" height="543" alt="image" src="https://github.com/user-attachments/assets/6e6b96ed-80b3-487c-b621-3cddd4537ec0" /><img width="476" height="543" alt="image" src="https://github.com/user-attachments/assets/d93b83be-a9fc-4b25-aca2-0e2c3f9a7e56" /><img width="476" height="543" alt="image" src="https://github.com/user-attachments/assets/bf94a20a-278b-42a2-9162-5aa4a61915af" /><img width="1024" height="796" alt="image" src="https://github.com/user-attachments/assets/053cc229-01f1-4181-97a6-48b96bf16fcf" /><img width="2400" height="1800" alt="image" src="https://github.com/user-attachments/assets/6e741066-89a3-4282-bdc2-fa02b1eea14d" /></details></sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [Android] Add display corner radii support.<br />
-  <sub>[#179219](https://github.com/flutter/flutter/pull/179219) merged on January 21, 2026 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/179219) over 1 month, 725 additions and 23 deletions in 23 files</sub><br />
+  <sub>[#179219](https://github.com/flutter/flutter/pull/179219) merged on January 21, 2026 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/179219) over 1 month, 725 additions and 23 deletions in 23 files</sub><br />
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add leadingIndex to CarouselController and onItemChanged to CarouselView<br />
@@ -55,6 +55,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile <br />
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `UrlStringAttribute` class<br />
+  <sub>[#181146](https://github.com/flutter/flutter/pull/181146) merged on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181146) over 2 days, 0 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Focus doesn't crash in 0x0 environment<br />
   <sub>[#180674](https://github.com/flutter/flutter/pull/180674) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180674) over 1 week, 19 additions and 0 deletions in 1 file</sub><br />
