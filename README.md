@@ -777,7 +777,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-11 commits.
+12 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(ios): add audio track selection support for AVFoundation<br />
   <sub>[#10313](https://github.com/flutter/packages/pull/10313) merged on January 21, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10313) over 2 months, 582 additions and 13 deletions in 18 files</sub><br />
@@ -818,6 +818,10 @@
 * **[Frank](https://github.com/Frank3K)** &mdash; [google_fonts] Add WOFF and WOFF2 font format support for web<br />
   <sub>[#10703](https://github.com/flutter/packages/pull/10703) merged on January 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10703) over 2 weeks, 204 additions and 9 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Pierre](https://github.com/guidezpl), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [pigeon] Modernize Obj-C generation headers<br />
+  <sub>[#10857](https://github.com/flutter/packages/pull/10857) merged on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10857) over 37 minutes, 40 additions and 24 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes sync_release_pr workflow yaml formatting<br />
   <sub>[#10855](https://github.com/flutter/packages/pull/10855) merged on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10855) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />

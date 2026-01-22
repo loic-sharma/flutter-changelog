@@ -194,6 +194,3 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; DNS: Try banning using intel-hosted clang on mac<br />
   <sub>[#181337](https://github.com/flutter/flutter/pull/181337) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181337) 3 additions and 7 deletions in 1 file</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Mark `IconData` `final` and `@mustBeConst`<br />
-  <sub>[#181345](https://github.com/flutter/flutter/pull/181345) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181345) 9 additions and 4 deletions in 2 files</sub><br />
-
