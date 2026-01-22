@@ -57,6 +57,10 @@
   <sub>[#181013](https://github.com/flutter/flutter/pull/181013) merged on January 22, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181013) over 1 week, 281 additions and 140 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
 
+* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] update hourFormat to use Dart 3 switch expression
+  <sub>[#181041](https://github.com/flutter/flutter/pull/181041) merged on January 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181041) over 6 days, 34 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [Huy](https://github.com/huycozy)</sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add RawTooltipl example and test
   <sub>[#180722](https://github.com/flutter/flutter/pull/180722) merged on January 21, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/180722) over 1 week, 154 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Huy](https://github.com/huycozy)</sub>
@@ -84,10 +88,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Fix test cross-imports for ListTile 
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] update hourFormat to use Dart 3 switch expression
-  <sub>[#181041](https://github.com/flutter/flutter/pull/181041) merged on January 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181041) over 6 days, 34 additions and 13 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [Huy](https://github.com/huycozy)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; fix description for semantics finders
   <sub>[#181214](https://github.com/flutter/flutter/pull/181214) merged on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181214) over 1 day, 118 additions and 12 deletions in 2 files</sub>
@@ -768,7 +768,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-9 commits.
+10 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(ios): add audio track selection support for AVFoundation
   <sub>[#10313](https://github.com/flutter/packages/pull/10313) merged on January 21, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10313) over 2 months, 582 additions and 13 deletions in 18 files</sub>
@@ -785,6 +785,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [batch-release] Step3: Adds github action to create a PR to sync changes on the  go_router release branch back to the main branch
   <sub>[#10393](https://github.com/flutter/packages/pull/10393) merged on January 21, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/packages/pull/10393) over 2 months, 24 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Wrappers swift migration - part 6
+  <sub>[#10752](https://github.com/flutter/packages/pull/10752) merged on January 22, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/packages/pull/10752) over 1 week, 405 additions and 488 deletions in 49 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Restructure iOS to prep for SwiftPM
   <sub>[#10839](https://github.com/flutter/packages/pull/10839) merged on January 21, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/10839) over 1 day, 296 additions and 3846 deletions in 236 files</sub>

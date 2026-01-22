@@ -191,6 +191,9 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add ExpansibleController.toggle method.<br />
   <sub>[#181320](https://github.com/flutter/flutter/pull/181320) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181320) 45 additions and 0 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; bump KGP and AGP max known versions<br />
+  <sub>[#181325](https://github.com/flutter/flutter/pull/181325) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181325) 13 additions and 4 deletions in 2 files</sub><br />
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; bump engine version for 3.41.1<br />
   <sub>[#181329](https://github.com/flutter/flutter/pull/181329) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181329) 1 addition and 1 deletion in 1 file</sub><br />
 
