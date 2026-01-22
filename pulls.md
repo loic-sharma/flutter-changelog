@@ -143,9 +143,6 @@
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; feat(material): Update state change onReorderStart in ReorderableListView<br />
   <sub>[#181181](https://github.com/flutter/flutter/pull/181181) opened on on January 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181181) 131 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script"<br />
-  <sub>[#181200](https://github.com/flutter/flutter/pull/181200) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181200) 6 additions and 5 deletions in 2 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
   <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />
 
@@ -190,7 +187,4 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; bump KGP and AGP max known versions<br />
   <sub>[#181325](https://github.com/flutter/flutter/pull/181325) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181325) 13 additions and 4 deletions in 2 files</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; DNS: Try banning using intel-hosted clang on mac<br />
-  <sub>[#181337](https://github.com/flutter/flutter/pull/181337) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181337) 3 additions and 7 deletions in 1 file</sub><br />
 
