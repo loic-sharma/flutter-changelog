@@ -116,9 +116,6 @@
 * **[Ibrar-devs](https://github.com/Ibrar-devs)** &mdash; fixing listTile Clip behavior <br />
   <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
 
-* **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …<br />
-  <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/180814) 86 additions and 1 deletion in 2 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
 
