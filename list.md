@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-32 commits.
+33 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub>
@@ -14,6 +14,11 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; [Android] Add display corner radii support.
   <sub>[#179219](https://github.com/flutter/flutter/pull/179219) merged on January 21, 2026 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/179219) over 1 month, 725 additions and 23 deletions in 23 files</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/nav_bar.dart
+  <sub>[#181237](https://github.com/flutter/flutter/pull/181237) merged on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181237) over 18 hours, 16 additions and 18 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt), [gaaclarke](https://github.com/gaaclarke)</sub>
+  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add leadingIndex to CarouselController and onItemChanged to CarouselView
   <sub>[#180667](https://github.com/flutter/flutter/pull/180667) merged on January 20, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/180667) over 1 week, 303 additions and 1 deletion in 2 files</sub>
