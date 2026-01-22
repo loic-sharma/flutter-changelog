@@ -48,16 +48,13 @@
   <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
-  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/flutter/pull/178922) 2761 additions and 1270 deletions in 124 files</sub><br />
+  <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/178922) 2761 additions and 1270 deletions in 124 files</sub><br />
 
 * **[Mulla Arsiya Tasleem](https://github.com/ArsiyaTasleem90250)** &mdash; Add unit tests for isEven utility function<br />
   <sub>[#179145](https://github.com/flutter/flutter/pull/179145) opened on on November 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/179145) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[maple](https://github.com/maplepy)** &mdash; Fix typos and improve wording in Roadmap.md<br />
   <sub>[#179184](https://github.com/flutter/flutter/pull/179184) opened on on November 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/179184) 4 additions and 4 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add FlutterFramework as an Xcode SwiftPM local package override<br />
-  <sub>[#179512](https://github.com/flutter/flutter/pull/179512) opened on on December 5, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/179512) 785 additions and 55 deletions in 7 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179810) 179 additions and 179 deletions in 10 files</sub><br />
@@ -120,7 +117,7 @@
   <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
 
 * **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …<br />
-  <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#180814](https://github.com/flutter/flutter/pull/180814) opened on on January 11, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180814) 88 additions and 3 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
