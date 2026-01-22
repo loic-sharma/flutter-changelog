@@ -185,6 +185,12 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Fix interpolation error in Rect::TransformAndClipBounds<br />
   <sub>[#181312](https://github.com/flutter/flutter/pull/181312) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181312) 120 additions and 8 deletions in 4 files</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Replace pub run with dart run<br />
+  <sub>[#181317](https://github.com/flutter/flutter/pull/181317) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181317) 3 additions and 3 deletions in 3 files</sub><br />
+
 * **[AmanGitkumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add ExpansibleController.toggle method.<br />
+  <sub>[#181320](https://github.com/flutter/flutter/pull/181320) opened on on January 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181320) 45 additions and 0 deletions in 2 files</sub><br />
 
