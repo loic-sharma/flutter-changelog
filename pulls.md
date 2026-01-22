@@ -149,9 +149,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script"<br />
   <sub>[#181200](https://github.com/flutter/flutter/pull/181200) opened on on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181200) 6 additions and 5 deletions in 2 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [CP] Fix style_manager_test for Firefox (#181084)<br />
-  <sub>[#181204](https://github.com/flutter/flutter/pull/181204) opened on on January 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181204) 9 additions and 6 deletions in 2 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
   <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />
 
@@ -192,5 +189,5 @@
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add ExpansibleController.toggle method.<br />
-  <sub>[#181320](https://github.com/flutter/flutter/pull/181320) opened on on January 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181320) 45 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#181320](https://github.com/flutter/flutter/pull/181320) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181320) 45 additions and 0 deletions in 2 files</sub><br />
 
