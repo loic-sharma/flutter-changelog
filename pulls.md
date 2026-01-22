@@ -179,3 +179,6 @@
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling-2027)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks firebase_release_smoke_test to be unflaky<br />
+  <sub>[#181308](https://github.com/flutter/flutter/pull/181308) opened on on January 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181308) 0 additions and 1 deletion in 1 file</sub><br />
+
