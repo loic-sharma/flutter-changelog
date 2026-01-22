@@ -183,7 +183,7 @@
   <sub>[#181308](https://github.com/flutter/flutter/pull/181308) opened on on January 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181308) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Fix interpolation error in Rect::TransformAndClipBounds<br />
-  <sub>[#181312](https://github.com/flutter/flutter/pull/181312) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181312) 110 additions and 8 deletions in 4 files</sub><br />
+  <sub>[#181312](https://github.com/flutter/flutter/pull/181312) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181312) 120 additions and 8 deletions in 4 files</sub><br />
 
 * **[AmanGitkumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
