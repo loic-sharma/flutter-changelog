@@ -768,7 +768,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-10 commits.
+11 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(ios): add audio track selection support for AVFoundation
   <sub>[#10313](https://github.com/flutter/packages/pull/10313) merged on January 21, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10313) over 2 months, 582 additions and 13 deletions in 18 files</sub>
@@ -809,6 +809,10 @@
 * **[Frank](https://github.com/Frank3K)** &mdash; [google_fonts] Add WOFF and WOFF2 font format support for web
   <sub>[#10703](https://github.com/flutter/packages/pull/10703) merged on January 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10703) over 2 weeks, 204 additions and 9 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Pierre](https://github.com/guidezpl), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes sync_release_pr workflow yaml formatting
+  <sub>[#10855](https://github.com/flutter/packages/pull/10855) merged on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10855) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 ### January 10, 2026 to January 16, 2026
 
