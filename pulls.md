@@ -191,3 +191,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add ExpansibleController.toggle method.<br />
   <sub>[#181320](https://github.com/flutter/flutter/pull/181320) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181320) 45 additions and 0 deletions in 2 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; 3.41.1 dart bump to 3.11.0-296.4.beta <br />
+  <sub>[#181322](https://github.com/flutter/flutter/pull/181322) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181322) 5 additions and 5 deletions in 1 file</sub><br />
+
