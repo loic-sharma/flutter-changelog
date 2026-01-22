@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-33 commits.
+34 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub>
@@ -85,13 +85,17 @@
   <sub>[#180572](https://github.com/flutter/flutter/pull/180572) merged on January 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180572) over 1 week, 72 additions and 26 deletions in 10 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] update hourFormat to use Dart 3 switch expression
+  <sub>[#181041](https://github.com/flutter/flutter/pull/181041) merged on January 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181041) over 6 days, 34 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [Huy](https://github.com/huycozy)</sub>
+
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; fix description for semantics finders
   <sub>[#181214](https://github.com/flutter/flutter/pull/181214) merged on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181214) over 1 day, 118 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Icon doesn't crash in 0x0 environment
-  <sub>[#181021](https://github.com/flutter/flutter/pull/181021) merged on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181021) over 6 days, 10 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[巢鹏](https://github.com/chaopeng)** &mdash; Add route for 'tmp' to Flutter runner
+  <sub>[#181044](https://github.com/flutter/flutter/pull/181044) merged on January 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181044) over 3 days, 7 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zijiehe@](https://github.com/zijiehe-google-com)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a GridPaper doesn't crash in 0x0 environment
   <sub>[#180906](https://github.com/flutter/flutter/pull/180906) merged on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180906) over 1 week, 10 additions and 0 deletions in 1 file</sub>
@@ -137,9 +141,9 @@
   <sub>[#180740](https://github.com/flutter/flutter/pull/180740) merged on January 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180740) over 1 week, 121 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[巢鹏](https://github.com/chaopeng)** &mdash; Add route for 'tmp' to Flutter runner
-  <sub>[#181044](https://github.com/flutter/flutter/pull/181044) merged on January 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181044) over 3 days, 7 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zijiehe@](https://github.com/zijiehe-google-com)</sub>
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Icon doesn't crash in 0x0 environment
+  <sub>[#181021](https://github.com/flutter/flutter/pull/181021) merged on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181021) over 6 days, 10 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 ### January 10, 2026 to January 16, 2026
 
@@ -961,7 +965,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Account for recent codelab removals
-  <sub>[#12965](https://github.com/flutter/website/pull/12965) merged on January 21, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12965) over 13 hours, 18 additions and 229 deletions in 6 files</sub>
+  <sub>[#12965](https://github.com/flutter/website/pull/12965) merged on January 21, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/12965) over 13 hours, 18 additions and 229 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix(deployment): Improve Android build config docs
