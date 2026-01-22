@@ -189,5 +189,5 @@
   <sub>[#181325](https://github.com/flutter/flutter/pull/181325) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181325) 13 additions and 4 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fixes macOS App.framework not being codesigned or find framework<br />
-  <sub>[#181348](https://github.com/flutter/flutter/pull/181348) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181348) 90 additions and 33 deletions in 4 files</sub><br />
+  <sub>[#181348](https://github.com/flutter/flutter/pull/181348) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181348) 90 additions and 33 deletions in 4 files</sub><br />
 
