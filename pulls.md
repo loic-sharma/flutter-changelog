@@ -182,3 +182,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks firebase_release_smoke_test to be unflaky<br />
   <sub>[#181308](https://github.com/flutter/flutter/pull/181308) opened on on January 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181308) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; Fix interpolation error in Rect::TransformAndClipBounds<br />
+  <sub>[#181312](https://github.com/flutter/flutter/pull/181312) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181312) 110 additions and 8 deletions in 4 files</sub><br />
+
