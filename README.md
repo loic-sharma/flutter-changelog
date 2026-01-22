@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-31 commits.
+32 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio<br />
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub><br />
@@ -47,6 +47,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix crash when `@Preview` annotations appeared outside of `lib/`<br />
   <sub>[#180768](https://github.com/flutter/flutter/pull/180768) merged on January 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180768) over 1 week, 120 additions and 34 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enables fragment shader test for impeller (fixes mat2 on vulkan)<br />
+  <sub>[#181013](https://github.com/flutter/flutter/pull/181013) merged on January 22, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181013) over 1 week, 281 additions and 140 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add RawTooltipl example and test<br />
   <sub>[#180722](https://github.com/flutter/flutter/pull/180722) merged on January 21, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/180722) over 1 week, 154 additions and 2 deletions in 3 files</sub><br />
@@ -936,7 +940,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-8 commits.
+9 commits.
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Add missing text to Prompt vesioning section in `AI > Best practices > Prompting` page<br />
   <sub>[#12956](https://github.com/flutter/website/pull/12956) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12956) over 1 day, 7 additions and 1 deletion in 1 file</sub><br />
@@ -945,6 +949,10 @@
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add videos to FWE<br />
   <sub>[#12962](https://github.com/flutter/website/pull/12962) merged on January 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12962) over 1 hour, 6 additions and 11 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Add AI rules limits and compressed files<br />
+  <sub>[#12969](https://github.com/flutter/website/pull/12969) merged on January 22, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12969) over 6 hours, 25 additions and 16 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Account for recent codelab removals<br />
