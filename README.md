@@ -4,7 +4,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-44 commits.
+47 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Improve the algorithm for rounded superellipse paths to work better at very large ratio<br />
   <sub>[#180453](https://github.com/flutter/flutter/pull/180453) merged on January 20, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/180453) over 2 weeks, 556 additions and 196 deletions in 8 files</sub><br />
@@ -29,14 +29,18 @@
   <sub>[#180667](https://github.com/flutter/flutter/pull/180667) merged on January 20, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/180667) over 1 week, 303 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Emmanuel](https://github.com/zemanux)** &mdash; Add RenderSliver.getMaxPaintRect<br />
-  <sub>[#180074](https://github.com/flutter/flutter/pull/180074) merged on January 21, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/180074) over 1 month, 454 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix leaks in `flutter_test` tests<br />
+  <sub>[#180879](https://github.com/flutter/flutter/pull/180879) merged on January 23, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/180879) over 1 week, 330 additions and 242 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `ViewUtils.java`<br />
   <sub>[#181147](https://github.com/flutter/flutter/pull/181147) merged on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181147) over 1 day, 3 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
   <sub><details><summary>1 image...</summary><img width="512" height="98" alt="Screenshot 2026-01-19 at 11 09 21" src="https://github.com/user-attachments/assets/d2739ba7-7da8-494f-aded-079b50129a93" /></details></sub>
+
+* **[Emmanuel](https://github.com/zemanux)** &mdash; Add RenderSliver.getMaxPaintRect<br />
+  <sub>[#180074](https://github.com/flutter/flutter/pull/180074) merged on January 21, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/180074) over 1 month, 454 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Broaden the applicability of `Color` fix_data rules from flutter/painting.dart<br />
   <sub>[#181093](https://github.com/flutter/flutter/pull/181093) merged on January 23, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/181093) over 5 days, 221 additions and 74 deletions in 16 files</sub><br />
@@ -61,6 +65,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage docs<br />
   <sub>[#181193](https://github.com/flutter/flutter/pull/181193) merged on January 21, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181193) over 6 hours, 6 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix `update-packages` failing due to mismatched dependencies between flutter_tools and the framework<br />
+  <sub>[#181335](https://github.com/flutter/flutter/pull/181335) merged on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181335) over 6 hours, 91 additions and 37 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[sutes-work](https://github.com/sutes-work)** &mdash; Roll Fuchsia GN SDK from NAEC5tfgSl8g94nwp... to JLBh4Z9PKsjIJcqDU...<br />
   <sub>[#181139](https://github.com/flutter/flutter/pull/181139) merged on January 22, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181139) over 3 days, 42 additions and 410 deletions in 11 files</sub><br />
@@ -114,25 +122,17 @@
   <sub>[#181320](https://github.com/flutter/flutter/pull/181320) merged on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181320) over 9 hours, 45 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Remove VMA from build logic<br />
-  <sub>[#181183](https://github.com/flutter/flutter/pull/181183) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181183) over 4 hours, 0 additions and 6 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[b-luk](https://github.com/b-luk)** &mdash; Re-enable fragment_shader_tests.dart 'Shader Compiler appropriately pads vec3 uniform arrays' test on Vulkan<br />
+  <sub>[#181292](https://github.com/flutter/flutter/pull/181292) merged on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181292) over 1 day, 27 additions and 22 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `Integer.toString` in `FlutterShellArgs.java`<br />
-  <sub>[#180993](https://github.com/flutter/flutter/pull/180993) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180993) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `FlutterJNI.java`<br />
+  <sub>[#180995](https://github.com/flutter/flutter/pull/180995) merged on January 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180995) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[巢鹏](https://github.com/chaopeng)** &mdash; Add route for 'tmp' to Flutter runner<br />
   <sub>[#181044](https://github.com/flutter/flutter/pull/181044) merged on January 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181044) over 3 days, 7 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zijiehe@](https://github.com/zijiehe-google-com)</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Focus doesn't crash in 0x0 environment<br />
-  <sub>[#180674](https://github.com/flutter/flutter/pull/180674) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180674) over 1 week, 19 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[bungeman](https://github.com/bungeman)** &mdash; Use SkPathBuilder with SkPathMeasure::getSegment<br />
-  <sub>[#181205](https://github.com/flutter/flutter/pull/181205) merged on January 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181205) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Form doesn't crash in 0x0 environment<br />
   <sub>[#180792](https://github.com/flutter/flutter/pull/180792) merged on January 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180792) over 1 week, 12 additions and 0 deletions in 1 file</sub><br />
@@ -154,17 +154,17 @@
   <sub>[#181214](https://github.com/flutter/flutter/pull/181214) merged on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181214) over 1 day, 118 additions and 12 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `String.valueOf` in `FlutterJNI.java`<br />
-  <sub>[#180995](https://github.com/flutter/flutter/pull/180995) merged on January 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180995) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Remove VMA from build logic<br />
+  <sub>[#181183](https://github.com/flutter/flutter/pull/181183) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181183) over 4 hours, 0 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an Icon doesn't crash in 0x0 environment<br />
   <sub>[#181021](https://github.com/flutter/flutter/pull/181021) merged on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181021) over 6 days, 10 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use renamed GNI filegroup<br />
-  <sub>[#180853](https://github.com/flutter/flutter/pull/180853) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180853) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary `Integer.toString` in `FlutterShellArgs.java`<br />
+  <sub>[#180993](https://github.com/flutter/flutter/pull/180993) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180993) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a GridPaper doesn't crash in 0x0 environment<br />
   <sub>[#180906](https://github.com/flutter/flutter/pull/180906) merged on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180906) over 1 week, 10 additions and 0 deletions in 1 file</sub><br />
@@ -181,6 +181,18 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Allowlist for dependencies of sdk packages<br />
   <sub>[#180740](https://github.com/flutter/flutter/pull/180740) merged on January 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180740) over 1 week, 121 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a Focus doesn't crash in 0x0 environment<br />
+  <sub>[#180674](https://github.com/flutter/flutter/pull/180674) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180674) over 1 week, 19 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use renamed GNI filegroup<br />
+  <sub>[#180853](https://github.com/flutter/flutter/pull/180853) merged on January 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/180853) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Use SkPathBuilder with SkPathMeasure::getSegment<br />
+  <sub>[#181205](https://github.com/flutter/flutter/pull/181205) merged on January 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181205) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script"<br />
   <sub>[#181200](https://github.com/flutter/flutter/pull/181200) merged on January 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181200) over 2 days, 6 additions and 5 deletions in 2 files</sub><br />
