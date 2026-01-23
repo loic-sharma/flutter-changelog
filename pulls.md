@@ -183,7 +183,7 @@
   <sub>[#181325](https://github.com/flutter/flutter/pull/181325) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181325) 13 additions and 4 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
-  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181340) 124 additions and 84 deletions in 13 files</sub><br />
+  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181340) 114 additions and 84 deletions in 13 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
   <sub>[#181353](https://github.com/flutter/flutter/pull/181353) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181353) 62 additions and 2 deletions in 3 files</sub><br />
@@ -193,4 +193,13 @@
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize time picker components with Dart 3 switch expressions<br />
   <sub>[#181356](https://github.com/flutter/flutter/pull/181356) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181356) 14 additions and 22 deletions in 1 file</sub><br />
+
+* **[John Washer](https://github.com/jcwasher)** &mdash; Fix PopScope blocking maybePop from sibling widgets<br />
+  <sub>[#181359](https://github.com/flutter/flutter/pull/181359) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181359) 249 additions and 5 deletions in 6 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedAlign doesn't crash in 0x0 environment<br />
+  <sub>[#181361](https://github.com/flutter/flutter/pull/181361) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181361) 19 additions and 0 deletions in 1 file</sub><br />
+
+* **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix nested selection area menu<br />
+  <sub>[#181362](https://github.com/flutter/flutter/pull/181362) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181362) 113 additions and 3 deletions in 2 files</sub><br />
 
