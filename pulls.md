@@ -177,7 +177,7 @@
   <sub>[#181338](https://github.com/flutter/flutter/pull/181338) opened on on January 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181338) 13 additions and 15 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
-  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181340) 114 additions and 84 deletions in 13 files</sub><br />
+  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181340) 114 additions and 84 deletions in 13 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
   <sub>[#181353](https://github.com/flutter/flutter/pull/181353) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181353) 62 additions and 2 deletions in 3 files</sub><br />
@@ -220,4 +220,7 @@
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize Typography._withPlatform with Dart 3 switch expression<br />
   <sub>[#181398](https://github.com/flutter/flutter/pull/181398) opened on on January 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181398) 10 additions and 21 deletions in 1 file</sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Use AnimationStyle curve and reverseCurve in ModalBottomSheet animation<br />
+  <sub>[#181403](https://github.com/flutter/flutter/pull/181403) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181403) 63 additions and 4 deletions in 2 files</sub><br />
 
