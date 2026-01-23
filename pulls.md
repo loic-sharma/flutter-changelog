@@ -131,9 +131,6 @@
 * **[Divith S](https://github.com/Divith123)** &mdash; RFC: Opt-in Semantic Shadow Tree for Flutter Web SEO<br />
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
 
-* **[sutes-work](https://github.com/sutes-work)** &mdash; Roll Fuchsia GN SDK from NAEC5tfgSl8g94nwp... to JLBh4Z9PKsjIJcqDU...<br />
-  <sub>[#181139](https://github.com/flutter/flutter/pull/181139) opened on on January 19, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181139) 42 additions and 410 deletions in 11 files</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; enable enhanced debugging for GLES playground<br />
   <sub>[#181157](https://github.com/flutter/flutter/pull/181157) opened on on January 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181157) 23 additions and 0 deletions in 2 files</sub><br />
 
@@ -174,7 +171,7 @@
   <sub>[#181308](https://github.com/flutter/flutter/pull/181308) opened on on January 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181308) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Fix interpolation error in Rect::TransformAndClipBounds<br />
-  <sub>[#181312](https://github.com/flutter/flutter/pull/181312) opened on on January 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/181312) 346 additions and 28 deletions in 9 files</sub><br />
+  <sub>[#181312](https://github.com/flutter/flutter/pull/181312) opened on on January 22, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/181312) 346 additions and 28 deletions in 9 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Replace pub run with dart run<br />
   <sub>[#181317](https://github.com/flutter/flutter/pull/181317) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181317) 5 additions and 5 deletions in 5 files</sub><br />
@@ -188,6 +185,9 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fixes macOS App.framework not being codesigned or find framework<br />
   <sub>[#181348](https://github.com/flutter/flutter/pull/181348) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181348) 90 additions and 33 deletions in 4 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks linux_chrome_dev_mode to be unflaky<br />
-  <sub>[#181352](https://github.com/flutter/flutter/pull/181352) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181352) 0 additions and 1 deletion in 1 file</sub><br />
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
+  <sub>[#181353](https://github.com/flutter/flutter/pull/181353) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181353) 62 additions and 2 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes Typo in codebase<br />
+  <sub>[#181354](https://github.com/flutter/flutter/pull/181354) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181354) 49 additions and 47 deletions in 6 files</sub><br />
 
