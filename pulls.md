@@ -179,9 +179,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/181340) 141 additions and 94 deletions in 13 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
-  <sub>[#181353](https://github.com/flutter/flutter/pull/181353) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181353) 62 additions and 2 deletions in 3 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes Typo in codebase<br />
   <sub>[#181354](https://github.com/flutter/flutter/pull/181354) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181354) 49 additions and 47 deletions in 6 files</sub><br />
 
