@@ -182,12 +182,12 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; bump KGP and AGP max known versions<br />
   <sub>[#181325](https://github.com/flutter/flutter/pull/181325) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181325) 13 additions and 4 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fixes macOS App.framework not being codesigned or find framework<br />
-  <sub>[#181348](https://github.com/flutter/flutter/pull/181348) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181348) 90 additions and 33 deletions in 4 files</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
   <sub>[#181353](https://github.com/flutter/flutter/pull/181353) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181353) 62 additions and 2 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes Typo in codebase<br />
-  <sub>[#181354](https://github.com/flutter/flutter/pull/181354) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181354) 49 additions and 47 deletions in 6 files</sub><br />
+  <sub>[#181354](https://github.com/flutter/flutter/pull/181354) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181354) 49 additions and 47 deletions in 6 files</sub><br />
+
+* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize time picker components with Dart 3 switch expressions<br />
+  <sub>[#181356](https://github.com/flutter/flutter/pull/181356) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181356) 14 additions and 22 deletions in 1 file</sub><br />
 
