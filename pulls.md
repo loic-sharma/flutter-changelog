@@ -153,7 +153,7 @@
   <sub>[#181247](https://github.com/flutter/flutter/pull/181247) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181247) 59 additions and 0 deletions in 3 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; update GLFW to latest and use EGL context creation on linux<br />
-  <sub>[#181259](https://github.com/flutter/flutter/pull/181259) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181259) 7 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#181259](https://github.com/flutter/flutter/pull/181259) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181259) 10 additions and 3 deletions in 3 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add stacktrace support when requested for host builds<br />
   <sub>[#181264](https://github.com/flutter/flutter/pull/181264) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181264) 1 addition and 1 deletion in 1 file</sub><br />
