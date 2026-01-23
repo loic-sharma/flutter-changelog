@@ -242,3 +242,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll FreeType to 2.14.1<br />
   <sub>[#181428](https://github.com/flutter/flutter/pull/181428) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181428) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_test.dart<br />
+  <sub>[#181429](https://github.com/flutter/flutter/pull/181429) opened on on January 23, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/181429) 396 additions and 287 deletions in 5 files</sub><br />
+
