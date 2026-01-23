@@ -180,7 +180,7 @@
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181340) 114 additions and 84 deletions in 13 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
-  <sub>[#181353](https://github.com/flutter/flutter/pull/181353) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181353) 62 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#181353](https://github.com/flutter/flutter/pull/181353) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181353) 62 additions and 2 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes Typo in codebase<br />
   <sub>[#181354](https://github.com/flutter/flutter/pull/181354) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181354) 49 additions and 47 deletions in 6 files</sub><br />
@@ -223,4 +223,7 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Use AnimationStyle curve and reverseCurve in ModalBottomSheet animation<br />
   <sub>[#181403](https://github.com/flutter/flutter/pull/181403) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181403) 63 additions and 4 deletions in 2 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add changlog entry for 3.38.8<br />
+  <sub>[#181407](https://github.com/flutter/flutter/pull/181407) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181407) 4 additions and 0 deletions in 1 file</sub><br />
 
