@@ -233,3 +233,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Cleanup `ResidentCompiler` initialization logic<br />
   <sub>[#181421](https://github.com/flutter/flutter/pull/181421) opened on on January 23, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181421) 353 additions and 329 deletions in 19 files</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_dispose_test.dart<br />
+  <sub>[#181423](https://github.com/flutter/flutter/pull/181423) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181423) 7 additions and 7 deletions in 2 files</sub><br />
+
