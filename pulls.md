@@ -170,9 +170,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks firebase_release_smoke_test to be unflaky<br />
   <sub>[#181308](https://github.com/flutter/flutter/pull/181308) opened on on January 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181308) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Fix interpolation error in Rect::TransformAndClipBounds<br />
-  <sub>[#181312](https://github.com/flutter/flutter/pull/181312) opened on on January 22, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/181312) 346 additions and 28 deletions in 9 files</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Replace pub run with dart run<br />
   <sub>[#181317](https://github.com/flutter/flutter/pull/181317) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181317) 5 additions and 5 deletions in 5 files</sub><br />
 
@@ -204,5 +201,5 @@
   <sub>[#181362](https://github.com/flutter/flutter/pull/181362) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181362) 113 additions and 3 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [stable] Cherry pick https://github.com/flutter/flutter/pull/181074<br />
-  <sub>[#181367](https://github.com/flutter/flutter/pull/181367) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181367) 98 additions and 4 deletions in 4 files</sub><br />
+  <sub>[#181367](https://github.com/flutter/flutter/pull/181367) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181367) 98 additions and 4 deletions in 4 files</sub><br />
 
