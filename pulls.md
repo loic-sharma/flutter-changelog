@@ -201,8 +201,11 @@
   <sub>[#181367](https://github.com/flutter/flutter/pull/181367) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181367) 98 additions and 4 deletions in 4 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; test: Improve DropdownMenuFormField tests<br />
-  <sub>[#181369](https://github.com/flutter/flutter/pull/181369) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181369) 7 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#181369](https://github.com/flutter/flutter/pull/181369) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181369) 7 additions and 11 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [stable] Cherry pick https://github.com/flutter/flutter/pull/181269<br />
   <sub>[#181371](https://github.com/flutter/flutter/pull/181371) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181371) 8 additions and 4 deletions in 2 files</sub><br />
+
+* **[August](https://github.com/Gustl22)** &mdash; feat: Pass parameters from DropdownMenuFormField to DropDownMenu<br />
+  <sub>[#181373](https://github.com/flutter/flutter/pull/181373) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181373) 145 additions and 0 deletions in 2 files</sub><br />
 
