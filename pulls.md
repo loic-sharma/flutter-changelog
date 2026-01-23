@@ -189,7 +189,7 @@
   <sub>[#181359](https://github.com/flutter/flutter/pull/181359) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181359) 246 additions and 5 deletions in 6 files</sub><br />
 
 * **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix nested selection area menu<br />
-  <sub>[#181362](https://github.com/flutter/flutter/pull/181362) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181362) 113 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#181362](https://github.com/flutter/flutter/pull/181362) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181362) 115 additions and 3 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [stable] Cherry pick https://github.com/flutter/flutter/pull/181074<br />
   <sub>[#181367](https://github.com/flutter/flutter/pull/181367) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181367) 98 additions and 4 deletions in 4 files</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#181389](https://github.com/flutter/flutter/pull/181389) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181389) 172 additions and 92 deletions in 17 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code paths  in `PlatformViewsController.java`<br />
-  <sub>[#181393](https://github.com/flutter/flutter/pull/181393) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181393) 0 additions and 19 deletions in 1 file</sub><br />
+  <sub>[#181393](https://github.com/flutter/flutter/pull/181393) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181393) 0 additions and 20 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `ActivityLifecycleListener` class<br />
   <sub>[#181406](https://github.com/flutter/flutter/pull/181406) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181406) 0 additions and 10 deletions in 2 files</sub><br />
@@ -229,4 +229,7 @@
 
 * **[ljbesigheid-dev](https://github.com/ljbesigheid-dev)** &mdash; Update README.md<br />
   <sub>[#181417](https://github.com/flutter/flutter/pull/181417) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181417) 101 additions and 2 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Cleanup `ResidentCompiler` initialization logic<br />
+  <sub>[#181421](https://github.com/flutter/flutter/pull/181421) opened on on January 23, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181421) 353 additions and 329 deletions in 19 files</sub><br />
 
