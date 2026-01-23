@@ -173,6 +173,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; bump KGP and AGP max known versions<br />
   <sub>[#181325](https://github.com/flutter/flutter/pull/181325) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181325) 13 additions and 4 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `PlatformViewsController.java`<br />
+  <sub>[#181338](https://github.com/flutter/flutter/pull/181338) opened on on January 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181338) 13 additions and 15 deletions in 2 files</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181340) 114 additions and 84 deletions in 13 files</sub><br />
 
