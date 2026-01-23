@@ -128,6 +128,9 @@
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Add DateInputCalendarDelegate to customize date input<br />
+  <sub>[#181105](https://github.com/flutter/flutter/pull/181105) opened on on January 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181105) 524 additions and 0 deletions in 6 files</sub><br />
+
 * **[Divith S](https://github.com/Divith123)** &mdash; RFC: Opt-in Semantic Shadow Tree for Flutter Web SEO<br />
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
 
@@ -174,7 +177,7 @@
   <sub>[#181325](https://github.com/flutter/flutter/pull/181325) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181325) 13 additions and 4 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `PlatformViewsController.java`<br />
-  <sub>[#181338](https://github.com/flutter/flutter/pull/181338) opened on on January 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181338) 13 additions and 15 deletions in 2 files</sub><br />
+  <sub>[#181338](https://github.com/flutter/flutter/pull/181338) opened on on January 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181338) 13 additions and 15 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181340) 114 additions and 84 deletions in 13 files</sub><br />
