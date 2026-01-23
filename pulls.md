@@ -114,7 +114,7 @@
   <sub>[#180802](https://github.com/flutter/flutter/pull/180802) opened on on January 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180802) 39 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ibrar-devs](https://github.com/Ibrar-devs)** &mdash; fixing listTile Clip behavior <br />
-  <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
@@ -177,7 +177,7 @@
   <sub>[#181338](https://github.com/flutter/flutter/pull/181338) opened on on January 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181338) 13 additions and 15 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
-  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/181340) 141 additions and 94 deletions in 13 files</sub><br />
+  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/181340) 141 additions and 94 deletions in 13 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes Typo in codebase<br />
   <sub>[#181354](https://github.com/flutter/flutter/pull/181354) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181354) 49 additions and 47 deletions in 6 files</sub><br />
@@ -212,6 +212,12 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code paths  in `PlatformViewsController.java`<br />
   <sub>[#181393](https://github.com/flutter/flutter/pull/181393) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181393) 0 additions and 19 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `ActivityLifecycleListener` class<br />
+  <sub>[#181406](https://github.com/flutter/flutter/pull/181406) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181406) 0 additions and 10 deletions in 2 files</sub><br />
+
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from placeholder_test.dart<br />
   <sub>[#181410](https://github.com/flutter/flutter/pull/181410) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181410) 6 additions and 3 deletions in 2 files</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; remove material from scroll_position_test.dart<br />
+  <sub>[#181412](https://github.com/flutter/flutter/pull/181412) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181412) 43 additions and 30 deletions in 2 files</sub><br />
 
