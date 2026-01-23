@@ -855,8 +855,8 @@
   <sub>[#10459](https://github.com/flutter/packages/pull/10459) merged on January 21, 2026 &mdash; **Medium:** [44 comments](https://github.com/flutter/packages/pull/10459) over 2 months, 421 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
-* **[Pierre](https://github.com/guidezpl)** &mdash; Update Google Fonts to v8.0.0 with new and removed fonts
-  <sub>[#10785](https://github.com/flutter/packages/pull/10785) merged on January 23, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/10785) over 1 week, 3172 additions and 650 deletions in 18 files</sub>
+* **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Update to v8.0.0 with new and removed fonts
+  <sub>[#10785](https://github.com/flutter/packages/pull/10785) merged on January 23, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/10785) over 1 week, 3172 additions and 650 deletions in 18 files</sub>
   <sub>Reviewed by: [l1qu1d](https://github.com/l1qu1d), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [batch-release] Step3: Adds github action to create a PR to sync changes on the  go_router release branch back to the main branch
@@ -976,7 +976,7 @@
   <sub>[#10553](https://github.com/flutter/packages/pull/10553) merged on January 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10553) over 1 month, 90 additions and 26 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
-* **[Pierre](https://github.com/guidezpl)** &mdash; Update Google Fonts to v7.0.0 with new and removed fonts
+* **[Pierre](https://github.com/guidezpl)** &mdash; [google_fonts] Update to v7.0.0 with new and removed fonts
   <sub>[#10713](https://github.com/flutter/packages/pull/10713) merged on January 6, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/10713) over 1 day, 36983 additions and 12154 deletions in 31 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
