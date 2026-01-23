@@ -174,7 +174,7 @@
   <sub>[#181308](https://github.com/flutter/flutter/pull/181308) opened on on January 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181308) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Fix interpolation error in Rect::TransformAndClipBounds<br />
-  <sub>[#181312](https://github.com/flutter/flutter/pull/181312) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181312) 120 additions and 8 deletions in 4 files</sub><br />
+  <sub>[#181312](https://github.com/flutter/flutter/pull/181312) opened on on January 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/181312) 346 additions and 28 deletions in 9 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Replace pub run with dart run<br />
   <sub>[#181317](https://github.com/flutter/flutter/pull/181317) opened on on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181317) 5 additions and 5 deletions in 5 files</sub><br />
@@ -182,12 +182,12 @@
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add ExpansibleController.toggle method.<br />
-  <sub>[#181320](https://github.com/flutter/flutter/pull/181320) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181320) 45 additions and 0 deletions in 2 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; bump KGP and AGP max known versions<br />
   <sub>[#181325](https://github.com/flutter/flutter/pull/181325) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181325) 13 additions and 4 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fixes macOS App.framework not being codesigned or find framework<br />
-  <sub>[#181348](https://github.com/flutter/flutter/pull/181348) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181348) 90 additions and 33 deletions in 4 files</sub><br />
+  <sub>[#181348](https://github.com/flutter/flutter/pull/181348) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181348) 90 additions and 33 deletions in 4 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks linux_chrome_dev_mode to be unflaky<br />
+  <sub>[#181352](https://github.com/flutter/flutter/pull/181352) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181352) 0 additions and 1 deletion in 1 file</sub><br />
 
