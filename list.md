@@ -841,7 +841,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-12 commits.
+13 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(ios): add audio track selection support for AVFoundation
   <sub>[#10313](https://github.com/flutter/packages/pull/10313) merged on January 21, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10313) over 2 months, 582 additions and 13 deletions in 18 files</sub>
@@ -854,6 +854,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [batch-release] Step2 : Publish packages from the release branch 
   <sub>[#10459](https://github.com/flutter/packages/pull/10459) merged on January 21, 2026 &mdash; **Medium:** [44 comments](https://github.com/flutter/packages/pull/10459) over 2 months, 421 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; Update Google Fonts to v8.0.0 with new and removed fonts
+  <sub>[#10785](https://github.com/flutter/packages/pull/10785) merged on January 23, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/10785) over 1 week, 3172 additions and 650 deletions in 18 files</sub>
+  <sub>Reviewed by: [l1qu1d](https://github.com/l1qu1d), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [batch-release] Step3: Adds github action to create a PR to sync changes on the  go_router release branch back to the main branch
   <sub>[#10393](https://github.com/flutter/packages/pull/10393) merged on January 21, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/10393) over 2 months, 24 additions and 0 deletions in 1 file</sub>
