@@ -129,7 +129,7 @@
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add DateInputCalendarDelegate to customize date input<br />
-  <sub>[#181105](https://github.com/flutter/flutter/pull/181105) opened on on January 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181105) 524 additions and 0 deletions in 6 files</sub><br />
+  <sub>[#181105](https://github.com/flutter/flutter/pull/181105) opened on on January 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181105) 541 additions and 0 deletions in 6 files</sub><br />
 
 * **[Divith S](https://github.com/Divith123)** &mdash; RFC: Opt-in Semantic Shadow Tree for Flutter Web SEO<br />
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
@@ -177,7 +177,7 @@
   <sub>[#181338](https://github.com/flutter/flutter/pull/181338) opened on on January 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181338) 13 additions and 15 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
-  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181340) 114 additions and 84 deletions in 13 files</sub><br />
+  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/181340) 141 additions and 94 deletions in 13 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
   <sub>[#181353](https://github.com/flutter/flutter/pull/181353) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181353) 62 additions and 2 deletions in 3 files</sub><br />
@@ -222,5 +222,8 @@
   <sub>[#181398](https://github.com/flutter/flutter/pull/181398) opened on on January 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181398) 10 additions and 21 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Use AnimationStyle curve and reverseCurve in ModalBottomSheet animation<br />
-  <sub>[#181403](https://github.com/flutter/flutter/pull/181403) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181403) 63 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#181403](https://github.com/flutter/flutter/pull/181403) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181403) 63 additions and 4 deletions in 2 files</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from placeholder_test.dart<br />
+  <sub>[#181410](https://github.com/flutter/flutter/pull/181410) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181410) 6 additions and 3 deletions in 2 files</sub><br />
 
