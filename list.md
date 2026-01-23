@@ -20,6 +20,10 @@
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
   <sub><details><summary>1 image...</summary><img width="265" height="144" alt="Screenshot 2025-12-04 at 10 29 16 PM" src="https://github.com/user-attachments/assets/b822aa3c-14bd-4444-9e44-4e781a5ac11e" /></details></sub>
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix leaks in `flutter_test` tests
+  <sub>[#180879](https://github.com/flutter/flutter/pull/180879) merged on January 23, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/180879) over 1 week, 330 additions and 242 deletions in 15 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/nav_bar.dart
   <sub>[#181237](https://github.com/flutter/flutter/pull/181237) merged on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181237) over 18 hours, 16 additions and 18 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -28,10 +32,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add leadingIndex to CarouselController and onItemChanged to CarouselView
   <sub>[#180667](https://github.com/flutter/flutter/pull/180667) merged on January 20, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/180667) over 1 week, 303 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix leaks in `flutter_test` tests
-  <sub>[#180879](https://github.com/flutter/flutter/pull/180879) merged on January 23, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/180879) over 1 week, 330 additions and 242 deletions in 15 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `ViewUtils.java`
   <sub>[#181147](https://github.com/flutter/flutter/pull/181147) merged on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181147) over 1 day, 3 additions and 4 deletions in 1 file</sub>
