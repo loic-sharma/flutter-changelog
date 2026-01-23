@@ -1054,7 +1054,7 @@
 
 ### January 17, 2026 to January 23, 2026
 
-9 commits.
+11 commits.
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Add missing text to Prompt vesioning section in `AI > Best practices > Prompting` page<br />
   <sub>[#12956](https://github.com/flutter/website/pull/12956) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12956) over 1 day, 7 additions and 1 deletion in 1 file</sub><br />
@@ -1076,6 +1076,14 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix(deployment): Improve Android build config docs<br />
   <sub>[#12964](https://github.com/flutter/website/pull/12964) merged on January 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12964) over 21 hours, 40 additions and 36 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Clarify native code placement in Flutter modules<br />
+  <sub>[#12968](https://github.com/flutter/website/pull/12968) merged on January 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12968) over 1 day, 20 additions and 18 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; make stepper titles selectable<br />
+  <sub>[#12977](https://github.com/flutter/website/pull/12977) merged on January 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12977) over 7 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Ilham A.](https://github.com/ilhamelhamdi)** &mdash; Correct section title from 'implicit' to 'explicit' animations<br />
   <sub>[#12955](https://github.com/flutter/website/pull/12955) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12955) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
