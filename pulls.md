@@ -158,9 +158,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add stacktrace support when requested for host builds<br />
   <sub>[#181264](https://github.com/flutter/flutter/pull/181264) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181264) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default<br />
-  <sub>[#181275](https://github.com/flutter/flutter/pull/181275) opened on on January 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181275) 66 additions and 53 deletions in 8 files</sub><br />
-
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling-2027)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
 
