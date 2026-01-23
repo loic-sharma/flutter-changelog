@@ -218,3 +218,6 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Fix gles interactive tests<br />
   <sub>[#181389](https://github.com/flutter/flutter/pull/181389) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181389) 168 additions and 92 deletions in 17 files</sub><br />
 
+* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize Typography._withPlatform with Dart 3 switch expression<br />
+  <sub>[#181398](https://github.com/flutter/flutter/pull/181398) opened on on January 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181398) 12 additions and 21 deletions in 1 file</sub><br />
+
