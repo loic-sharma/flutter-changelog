@@ -209,3 +209,6 @@
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; [Material] Remove Material import from backdrop_filter_test.dart widget tests<br />
   <sub>[#181386](https://github.com/flutter/flutter/pull/181386) opened on on January 23, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181386) 234 additions and 227 deletions in 3 files</sub><br />
 
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Fix gles interactive tests<br />
+  <sub>[#181389](https://github.com/flutter/flutter/pull/181389) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181389) 168 additions and 92 deletions in 17 files</sub><br />
+
