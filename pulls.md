@@ -236,3 +236,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_dispose_test.dart<br />
   <sub>[#181423](https://github.com/flutter/flutter/pull/181423) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181423) 7 additions and 7 deletions in 2 files</sub><br />
 
+* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize legacy switch statements to expressions across m…<br />
+  <sub>[#181427](https://github.com/flutter/flutter/pull/181427) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181427) 36 additions and 57 deletions in 4 files</sub><br />
+
