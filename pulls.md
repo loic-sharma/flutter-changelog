@@ -177,7 +177,7 @@
   <sub>[#181338](https://github.com/flutter/flutter/pull/181338) opened on on January 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181338) 13 additions and 15 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
-  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/181340) 141 additions and 94 deletions in 13 files</sub><br />
+  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/181340) 141 additions and 94 deletions in 13 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
   <sub>[#181353](https://github.com/flutter/flutter/pull/181353) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181353) 62 additions and 2 deletions in 3 files</sub><br />
@@ -186,13 +186,10 @@
   <sub>[#181354](https://github.com/flutter/flutter/pull/181354) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181354) 49 additions and 47 deletions in 6 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize time picker components with Dart 3 switch expressions<br />
-  <sub>[#181356](https://github.com/flutter/flutter/pull/181356) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181356) 14 additions and 22 deletions in 1 file</sub><br />
+  <sub>[#181356](https://github.com/flutter/flutter/pull/181356) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181356) 14 additions and 22 deletions in 1 file</sub><br />
 
 * **[John Washer](https://github.com/jcwasher)** &mdash; Fix PopScope blocking maybePop from sibling widgets<br />
   <sub>[#181359](https://github.com/flutter/flutter/pull/181359) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181359) 246 additions and 5 deletions in 6 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedAlign doesn't crash in 0x0 environment<br />
-  <sub>[#181361](https://github.com/flutter/flutter/pull/181361) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181361) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix nested selection area menu<br />
   <sub>[#181362](https://github.com/flutter/flutter/pull/181362) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181362) 113 additions and 3 deletions in 2 files</sub><br />
@@ -217,12 +214,6 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code paths  in `PlatformViewsController.java`<br />
   <sub>[#181393](https://github.com/flutter/flutter/pull/181393) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181393) 0 additions and 19 deletions in 1 file</sub><br />
-
-* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize Typography._withPlatform with Dart 3 switch expression<br />
-  <sub>[#181398](https://github.com/flutter/flutter/pull/181398) opened on on January 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181398) 10 additions and 21 deletions in 1 file</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Use AnimationStyle curve and reverseCurve in ModalBottomSheet animation<br />
-  <sub>[#181403](https://github.com/flutter/flutter/pull/181403) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181403) 63 additions and 4 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from placeholder_test.dart<br />
   <sub>[#181410](https://github.com/flutter/flutter/pull/181410) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181410) 6 additions and 3 deletions in 2 files</sub><br />
