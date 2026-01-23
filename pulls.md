@@ -192,7 +192,7 @@
   <sub>[#181361](https://github.com/flutter/flutter/pull/181361) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181361) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix nested selection area menu<br />
-  <sub>[#181362](https://github.com/flutter/flutter/pull/181362) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181362) 113 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#181362](https://github.com/flutter/flutter/pull/181362) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181362) 113 additions and 3 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [stable] Cherry pick https://github.com/flutter/flutter/pull/181074<br />
   <sub>[#181367](https://github.com/flutter/flutter/pull/181367) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181367) 98 additions and 4 deletions in 4 files</sub><br />
