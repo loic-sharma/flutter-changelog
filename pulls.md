@@ -252,5 +252,5 @@
   <sub>[#181432](https://github.com/flutter/flutter/pull/181432) opened on on January 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181432) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[jingweicai](https://github.com/caijw)** &mdash; perf: web ui loadFontFromList<br />
-  <sub>[#181440](https://github.com/flutter/flutter/pull/181440) opened on on January 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181440) 12 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#181440](https://github.com/flutter/flutter/pull/181440) opened on on January 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181440) 13 additions and 16 deletions in 2 files</sub><br />
 
