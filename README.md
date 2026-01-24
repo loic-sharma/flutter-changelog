@@ -50,6 +50,10 @@
   <sub>[#180074](https://github.com/flutter/flutter/pull/180074) merged on January 21, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/180074) over 1 month, 454 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Albert Wolszon](https://github.com/Albert221)** &mdash; Look for project root for FeatureFlags manifest<br />
+  <sub>[#180689](https://github.com/flutter/flutter/pull/180689) merged on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180689) over 2 weeks, 53 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Reset TextFormField to initial value after state change<br />
   <sub>[#181199](https://github.com/flutter/flutter/pull/181199) merged on January 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181199) over 2 days, 41 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
@@ -61,10 +65,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Remove bringup flag from Mac_arm64_mokey task<br />
   <sub>[#178759](https://github.com/flutter/flutter/pull/178759) merged on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178759) over 2 months, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-* **[Albert Wolszon](https://github.com/Albert221)** &mdash; Look for project root for FeatureFlags manifest<br />
-  <sub>[#180689](https://github.com/flutter/flutter/pull/180689) merged on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180689) over 2 weeks, 53 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Make dynamically created shader metadata for runtime effects consistent with metadata for built-in shaders<br />
   <sub>[#181201](https://github.com/flutter/flutter/pull/181201) merged on January 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181201) over 2 days, 67 additions and 20 deletions in 6 files</sub><br />
@@ -1085,6 +1085,10 @@
   <sub>[#12962](https://github.com/flutter/website/pull/12962) merged on January 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12962) over 1 hour, 6 additions and 11 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; make stepper titles selectable<br />
+  <sub>[#12977](https://github.com/flutter/website/pull/12977) merged on January 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12977) over 7 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add AI rules limits and compressed files<br />
   <sub>[#12969](https://github.com/flutter/website/pull/12969) merged on January 22, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12969) over 6 hours, 25 additions and 16 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
@@ -1100,10 +1104,6 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Clarify native code placement in Flutter modules<br />
   <sub>[#12968](https://github.com/flutter/website/pull/12968) merged on January 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12968) over 1 day, 20 additions and 18 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Kilian Schulte](https://github.com/schultek)** &mdash; make stepper titles selectable<br />
-  <sub>[#12977](https://github.com/flutter/website/pull/12977) merged on January 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12977) over 7 hours, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Ilham A.](https://github.com/ilhamelhamdi)** &mdash; Correct section title from 'implicit' to 'explicit' animations<br />
   <sub>[#12955](https://github.com/flutter/website/pull/12955) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12955) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
