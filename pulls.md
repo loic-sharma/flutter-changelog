@@ -267,5 +267,5 @@
   <sub>[#181446](https://github.com/flutter/flutter/pull/181446) opened on on January 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181446) 46 additions and 46 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from text_semantics_test.dart<br />
-  <sub>[#181447](https://github.com/flutter/flutter/pull/181447) opened on on January 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181447) 47 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#181447](https://github.com/flutter/flutter/pull/181447) opened on on January 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181447) 47 additions and 4 deletions in 2 files</sub><br />
 
