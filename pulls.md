@@ -101,6 +101,9 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds opengles to engine dart tests<br />
+  <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/180704) 381 additions and 3 deletions in 5 files</sub><br />
+
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
@@ -177,7 +180,7 @@
   <sub>[#181338](https://github.com/flutter/flutter/pull/181338) opened on on January 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181338) 13 additions and 15 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
-  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/181340) 158 additions and 95 deletions in 13 files</sub><br />
+  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/181340) 158 additions and 95 deletions in 13 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes Typo in codebase<br />
   <sub>[#181354](https://github.com/flutter/flutter/pull/181354) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181354) 49 additions and 47 deletions in 6 files</sub><br />
@@ -244,4 +247,7 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_test.dart<br />
   <sub>[#181429](https://github.com/flutter/flutter/pull/181429) opened on on January 23, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/181429) 396 additions and 287 deletions in 5 files</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: swap app and engine version in vk::ApplicationInfo<br />
+  <sub>[#181432](https://github.com/flutter/flutter/pull/181432) opened on on January 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181432) 5 additions and 5 deletions in 1 file</sub><br />
 
