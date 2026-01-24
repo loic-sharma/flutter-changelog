@@ -263,3 +263,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from simple_semantics_test.dart<br />
   <sub>[#181445](https://github.com/flutter/flutter/pull/181445) opened on on January 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181445) 18 additions and 18 deletions in 2 files</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scroll_activity_test.dart<br />
+  <sub>[#181446](https://github.com/flutter/flutter/pull/181446) opened on on January 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181446) 46 additions and 46 deletions in 2 files</sub><br />
+
