@@ -254,3 +254,6 @@
 * **[jingweicai](https://github.com/caijw)** &mdash; perf: web ui loadFontFromList<br />
   <sub>[#181440](https://github.com/flutter/flutter/pull/181440) opened on on January 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181440) 13 additions and 16 deletions in 2 files</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from debug_test.dart<br />
+  <sub>[#181443](https://github.com/flutter/flutter/pull/181443) opened on on January 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181443) 38 additions and 30 deletions in 2 files</sub><br />
+
