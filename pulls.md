@@ -164,7 +164,7 @@
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add stacktrace support when requested for host builds<br />
   <sub>[#181264](https://github.com/flutter/flutter/pull/181264) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181264) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Bodhi Russell Silberling](https://github.com/bodhisilberling-2027)** &mdash; Improve tooltip position context docs<br />
+* **[Bodhi Russell Silberling](https://github.com/bodhi-silberling)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks firebase_release_smoke_test to be unflaky<br />
@@ -240,7 +240,7 @@
   <sub>[#181423](https://github.com/flutter/flutter/pull/181423) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181423) 7 additions and 7 deletions in 2 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize legacy switch statements to expressions across multiple files<br />
-  <sub>[#181427](https://github.com/flutter/flutter/pull/181427) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181427) 29 additions and 57 deletions in 4 files</sub><br />
+  <sub>[#181427](https://github.com/flutter/flutter/pull/181427) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181427) 25 additions and 54 deletions in 4 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll FreeType to 2.14.1<br />
   <sub>[#181428](https://github.com/flutter/flutter/pull/181428) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181428) 1 addition and 1 deletion in 1 file</sub><br />
