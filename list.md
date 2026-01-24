@@ -37,6 +37,10 @@
   <sub>[#180667](https://github.com/flutter/flutter/pull/180667) merged on January 20, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/180667) over 1 week, 303 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Broaden the applicability of `Color` fix_data rules from flutter/painting.dart
+  <sub>[#181093](https://github.com/flutter/flutter/pull/181093) merged on January 23, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/181093) over 5 days, 221 additions and 74 deletions in 16 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brian Wilkerson](https://github.com/bwilkerson), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `ViewUtils.java`
   <sub>[#181147](https://github.com/flutter/flutter/pull/181147) merged on January 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181147) over 1 day, 3 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
@@ -49,10 +53,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Reset TextFormField to initial value after state change
   <sub>[#181199](https://github.com/flutter/flutter/pull/181199) merged on January 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181199) over 2 days, 41 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
-
-* **[b-luk](https://github.com/b-luk)** &mdash; Broaden the applicability of `Color` fix_data rules from flutter/painting.dart
-  <sub>[#181093](https://github.com/flutter/flutter/pull/181093) merged on January 23, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/181093) over 5 days, 221 additions and 74 deletions in 16 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brian Wilkerson](https://github.com/bwilkerson), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[aaazlkm](https://github.com/aaazlkm)** &mdash; Enhance Hero widget with customizable animation curves
   <sub>[#180100](https://github.com/flutter/flutter/pull/180100) merged on January 20, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/180100) over 1 month, 272 additions and 5 deletions in 2 files</sub>
