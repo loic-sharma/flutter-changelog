@@ -294,5 +294,5 @@
   <sub>[#181467](https://github.com/flutter/flutter/pull/181467) opened on on January 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181467) 106 additions and 103 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from slivers_appbar_floating_pinned_test.dart + slivers_appbar_stretch_test.dart<br />
-  <sub>[#181469](https://github.com/flutter/flutter/pull/181469) opened on on January 25, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/181469) 2072 additions and 2156 deletions in 9 files</sub><br />
+  <sub>[#181469](https://github.com/flutter/flutter/pull/181469) opened on on January 25, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/181469) 2072 additions and 2156 deletions in 9 files</sub><br />
 
