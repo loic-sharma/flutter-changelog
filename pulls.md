@@ -290,3 +290,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart<br />
   <sub>[#181465](https://github.com/flutter/flutter/pull/181465) opened on on January 25, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181465) 296 additions and 468 deletions in 2 files</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Reduce reliance on Material in page_transitions_test.dart<br />
+  <sub>[#181467](https://github.com/flutter/flutter/pull/181467) opened on on January 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181467) 106 additions and 103 deletions in 2 files</sub><br />
+
