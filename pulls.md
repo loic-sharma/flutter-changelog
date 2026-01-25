@@ -278,3 +278,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add onEnd to AnimatedCrossFade<br />
   <sub>[#181455](https://github.com/flutter/flutter/pull/181455) opened on on January 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181455) 143 additions and 0 deletions in 2 files</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_helpers_test.dart<br />
+  <sub>[#181460](https://github.com/flutter/flutter/pull/181460) opened on on January 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181460) 158 additions and 90 deletions in 3 files</sub><br />
+
