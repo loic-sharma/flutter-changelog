@@ -275,3 +275,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedPositionedDirectional doesn't crash in 0x0 …<br />
   <sub>[#181451](https://github.com/flutter/flutter/pull/181451) opened on on January 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181451) 24 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add onEnd to AnimatedCrossFade<br />
+  <sub>[#181455](https://github.com/flutter/flutter/pull/181455) opened on on January 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181455) 143 additions and 0 deletions in 2 files</sub><br />
+
