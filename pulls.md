@@ -281,3 +281,9 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_helpers_test.dart<br />
   <sub>[#181460](https://github.com/flutter/flutter/pull/181460) opened on on January 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181460) 158 additions and 90 deletions in 3 files</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from shape_decoration_test.dart<br />
+  <sub>[#181462](https://github.com/flutter/flutter/pull/181462) opened on on January 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181462) 24 additions and 25 deletions in 2 files</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from run_app_test.dart + run_app_async_test.dart<br />
+  <sub>[#181463](https://github.com/flutter/flutter/pull/181463) opened on on January 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181463) 8 additions and 12 deletions in 3 files</sub><br />
+
