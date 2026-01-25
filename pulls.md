@@ -287,3 +287,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from run_app_test.dart + run_app_async_test.dart<br />
   <sub>[#181463](https://github.com/flutter/flutter/pull/181463) opened on on January 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181463) 8 additions and 12 deletions in 3 files</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart<br />
+  <sub>[#181465](https://github.com/flutter/flutter/pull/181465) opened on on January 25, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181465) 296 additions and 468 deletions in 2 files</sub><br />
+
