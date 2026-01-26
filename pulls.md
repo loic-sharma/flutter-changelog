@@ -171,7 +171,7 @@
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
-  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/181340) 190 additions and 104 deletions in 15 files</sub><br />
+  <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/181340) 190 additions and 104 deletions in 15 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes Typo in codebase<br />
   <sub>[#181354](https://github.com/flutter/flutter/pull/181354) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181354) 49 additions and 47 deletions in 6 files</sub><br />
@@ -262,9 +262,6 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from semantics_test.dart<br />
   <sub>[#181448](https://github.com/flutter/flutter/pull/181448) opened on on January 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181448) 67 additions and 59 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedPositionedDirectional doesn't crash in 0x0 …<br />
-  <sub>[#181451](https://github.com/flutter/flutter/pull/181451) opened on on January 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181451) 24 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add onEnd to AnimatedCrossFade<br />
   <sub>[#181455](https://github.com/flutter/flutter/pull/181455) opened on on January 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181455) 143 additions and 0 deletions in 2 files</sub><br />
