@@ -305,3 +305,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedRotation doesn't crash in 0x0 environment<br />
   <sub>[#181486](https://github.com/flutter/flutter/pull/181486) opened on on January 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181486) 19 additions and 0 deletions in 1 file</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Fix overlay in size to content scenario with loose constraints<br />
+  <sub>[#181490](https://github.com/flutter/flutter/pull/181490) opened on on January 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181490) 4 additions and 4 deletions in 1 file</sub><br />
+
