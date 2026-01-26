@@ -284,3 +284,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds impeller backend to skia gold client<br />
   <sub>[#181503](https://github.com/flutter/flutter/pull/181503) opened on on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181503) 19 additions and 1 deletion in 2 files</sub><br />
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Use AccessibilityFocusBlockType.blockSubtree to replace BlockSemantics in modal routes.<br />
+  <sub>[#181519](https://github.com/flutter/flutter/pull/181519) opened on on January 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181519) 237 additions and 52 deletions in 4 files</sub><br />
+
