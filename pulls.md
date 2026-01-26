@@ -290,6 +290,3 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds impeller backend to skia gold client<br />
   <sub>[#181503](https://github.com/flutter/flutter/pull/181503) opened on on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181503) 19 additions and 1 deletion in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes duplicated import in accessibility test library<br />
-  <sub>[#181506](https://github.com/flutter/flutter/pull/181506) opened on on January 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181506) 4 additions and 5 deletions in 1 file</sub><br />
-
