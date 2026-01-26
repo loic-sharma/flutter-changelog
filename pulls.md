@@ -207,7 +207,7 @@
   <sub>[#181386](https://github.com/flutter/flutter/pull/181386) opened on on January 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181386) 237 additions and 227 deletions in 3 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Fix gles interactive tests<br />
-  <sub>[#181389](https://github.com/flutter/flutter/pull/181389) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181389) 172 additions and 92 deletions in 17 files</sub><br />
+  <sub>[#181389](https://github.com/flutter/flutter/pull/181389) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181389) 175 additions and 93 deletions in 18 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code paths  in `PlatformViewsController.java`<br />
   <sub>[#181393](https://github.com/flutter/flutter/pull/181393) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181393) 0 additions and 20 deletions in 1 file</sub><br />
@@ -303,5 +303,5 @@
   <sub>[#181486](https://github.com/flutter/flutter/pull/181486) opened on on January 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181486) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Fix overlay in size to content scenario with loose constraints<br />
-  <sub>[#181490](https://github.com/flutter/flutter/pull/181490) opened on on January 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181490) 4 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#181490](https://github.com/flutter/flutter/pull/181490) opened on on January 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181490) 38 additions and 3 deletions in 2 files</sub><br />
 
