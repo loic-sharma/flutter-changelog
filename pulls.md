@@ -173,9 +173,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fixes Typo in codebase<br />
   <sub>[#181354](https://github.com/flutter/flutter/pull/181354) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181354) 49 additions and 47 deletions in 6 files</sub><br />
 
-* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize time picker components with Dart 3 switch expressions<br />
-  <sub>[#181356](https://github.com/flutter/flutter/pull/181356) opened on on January 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181356) 14 additions and 22 deletions in 1 file</sub><br />
-
 * **[John Washer](https://github.com/jcwasher)** &mdash; Fix PopScope blocking maybePop from sibling widgets<br />
   <sub>[#181359](https://github.com/flutter/flutter/pull/181359) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181359) 246 additions and 5 deletions in 6 files</sub><br />
 
