@@ -4,7 +4,11 @@
 
 ### January 24, 2026 to January 30, 2026
 
-3 commits.
+4 commits.
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default
+  <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub>
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradle path in Android Platform Embedder README.
   <sub>[#181501](https://github.com/flutter/flutter/pull/181501) merged on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181501) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
