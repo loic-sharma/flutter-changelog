@@ -299,3 +299,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Fix overlay in size to content scenario with loose constraints<br />
   <sub>[#181490](https://github.com/flutter/flutter/pull/181490) opened on on January 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181490) 38 additions and 3 deletions in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradle path in Android Platform Embedder README.<br />
+  <sub>[#181501](https://github.com/flutter/flutter/pull/181501) opened on on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181501) 1 addition and 1 deletion in 1 file</sub><br />
+
