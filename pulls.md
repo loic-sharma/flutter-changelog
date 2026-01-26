@@ -285,7 +285,7 @@
   <sub>[#181475](https://github.com/flutter/flutter/pull/181475) opened on on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181475) 10 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Fix overlay in size to content scenario with loose constraints<br />
-  <sub>[#181490](https://github.com/flutter/flutter/pull/181490) opened on on January 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181490) 63 additions and 30 deletions in 3 files</sub><br />
+  <sub>[#181490](https://github.com/flutter/flutter/pull/181490) opened on on January 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181490) 75 additions and 45 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds impeller backend to skia gold client<br />
   <sub>[#181503](https://github.com/flutter/flutter/pull/181503) opened on on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181503) 19 additions and 1 deletion in 2 files</sub><br />
