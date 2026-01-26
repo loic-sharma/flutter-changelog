@@ -173,9 +173,6 @@
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `PlatformViewsController.java`<br />
-  <sub>[#181338](https://github.com/flutter/flutter/pull/181338) opened on on January 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181338) 13 additions and 15 deletions in 2 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) opened on on January 22, 2026 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/181340) 190 additions and 104 deletions in 15 files</sub><br />
 
@@ -189,7 +186,7 @@
   <sub>[#181359](https://github.com/flutter/flutter/pull/181359) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181359) 246 additions and 5 deletions in 6 files</sub><br />
 
 * **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix nested selection area menu<br />
-  <sub>[#181362](https://github.com/flutter/flutter/pull/181362) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181362) 115 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#181362](https://github.com/flutter/flutter/pull/181362) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181362) 133 additions and 23 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [stable] Cherry pick https://github.com/flutter/flutter/pull/181074<br />
   <sub>[#181367](https://github.com/flutter/flutter/pull/181367) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181367) 98 additions and 4 deletions in 4 files</sub><br />
