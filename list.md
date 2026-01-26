@@ -4,7 +4,11 @@
 
 ### January 24, 2026 to January 30, 2026
 
-6 commits.
+7 commits.
+
+* **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
+  <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks), [Valentin Vignal](https://github.com/ValentinVignal), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) merged on January 26, 2026 &mdash; **Small:** [48 comments](https://github.com/flutter/flutter/pull/181340) over 4 days, 190 additions and 104 deletions in 15 files</sub>
@@ -711,9 +715,18 @@
 
 ## flutter/website
 
+### January 24, 2026 to January 30, 2026
+
+1 commits.
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Patch FWE content
+  <sub>[#12996](https://github.com/flutter/website/pull/12996) merged on January 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12996) over 2 hours, 312 additions and 22 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### January 17, 2026 to January 23, 2026
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Add missing text to Prompt vesioning section in `AI > Best practices > Prompting` page
   <sub>[#12956](https://github.com/flutter/website/pull/12956) merged on January 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/12956) over 1 day, 7 additions and 1 deletion in 1 file</sub>
@@ -759,6 +772,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix build by pinning liquify to 1.3.1
   <sub>[#12963](https://github.com/flutter/website/pull/12963) merged on January 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12963) over 9 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
+
+</details>
 
 ### January 10, 2026 to January 16, 2026
 
