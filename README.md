@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### January 24, 2026 to January 30, 2026
+
+1 commits.
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `PlatformViewsController.java`<br />
+  <sub>[#181338](https://github.com/flutter/flutter/pull/181338) merged on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181338) over 3 days, 13 additions and 15 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### January 17, 2026 to January 23, 2026
 
-62 commits.
+<details>
+<summary>62 commits...</summary>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; CupertinoSheetRoute with scrolling and dragging<br />
   <sub>[#177337](https://github.com/flutter/flutter/pull/177337) merged on January 23, 2026 &mdash; **Large:** [76 comments](https://github.com/flutter/flutter/pull/177337) over 3 months, 866 additions and 49 deletions in 11 files</sub><br />
@@ -260,6 +269,8 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Fix capitalization of the path to FlutterWindowControllerTest.mm in the macOS platform build script"<br />
   <sub>[#181200](https://github.com/flutter/flutter/pull/181200) merged on January 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181200) over 2 days, 6 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+</details>
 
 ### January 10, 2026 to January 16, 2026
 
