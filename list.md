@@ -717,10 +717,18 @@
 
 ### January 24, 2026 to January 30, 2026
 
-1 commits.
+3 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Patch FWE content
   <sub>[#12996](https://github.com/flutter/website/pull/12996) merged on January 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12996) over 2 hours, 312 additions and 22 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Small FWE CSS tweak
+  <sub>[#12994](https://github.com/flutter/website/pull/12994) merged on January 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12994) over 6 hours, 15 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Bilal Pothigara ](https://github.com/UnderTheHoodRobin)** &mdash; fix: update broken Flutter and Dart tutorial links
+  <sub>[#12993](https://github.com/flutter/website/pull/12993) merged on January 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12993) over 6 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### January 17, 2026 to January 23, 2026
