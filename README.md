@@ -4,7 +4,15 @@
 
 ### January 24, 2026 to January 30, 2026
 
-1 commits.
+3 commits.
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradle path in Android Platform Embedder README.<br />
+  <sub>[#181501](https://github.com/flutter/flutter/pull/181501) merged on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181501) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `ActivityLifecycleListener` class<br />
+  <sub>[#181406](https://github.com/flutter/flutter/pull/181406) merged on January 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181406) over 2 days, 0 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `PlatformViewsController.java`<br />
   <sub>[#181338](https://github.com/flutter/flutter/pull/181338) merged on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181338) over 3 days, 13 additions and 15 deletions in 2 files</sub><br />
