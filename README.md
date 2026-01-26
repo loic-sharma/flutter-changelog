@@ -717,7 +717,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-3 commits.
+4 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Patch FWE content<br />
   <sub>[#12996](https://github.com/flutter/website/pull/12996) merged on January 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12996) over 2 hours, 312 additions and 22 deletions in 4 files</sub><br />
@@ -725,6 +725,10 @@
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Small FWE CSS tweak<br />
   <sub>[#12994](https://github.com/flutter/website/pull/12994) merged on January 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12994) over 6 hours, 15 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; add pigeon native interop doc<br />
+  <sub>[#12982](https://github.com/flutter/website/pull/12982) merged on January 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12982) over 2 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Bilal Pothigara ](https://github.com/UnderTheHoodRobin)** &mdash; fix: update broken Flutter and Dart tutorial links<br />
