@@ -2,9 +2,6 @@
 
 ## flutter/flutter
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Set `VM_SERVICE_URL` to the VM service URL for web driver tests<br />
-  <sub>[#174164](https://github.com/flutter/flutter/pull/174164) opened on on August 20, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/174164) 5 additions and 1 deletion in 1 file</sub><br />
-
 * **[Mo Luo](https://github.com/moluopro)** &mdash; Fix: use 'exit' instead of 'return' for curlExitCode<br />
   <sub>[#175025](https://github.com/flutter/flutter/pull/175025) opened on on September 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175025) 1 addition and 1 deletion in 1 file</sub><br />
 
