@@ -299,3 +299,6 @@
 * **[Dmytro Turskyi](https://github.com/Turskyi)** &mdash; Add isDark, isLight, and isSystem getters to ThemeMode<br />
   <sub>[#181475](https://github.com/flutter/flutter/pull/181475) opened on on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181475) 10 additions and 1 deletion in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedScale doesn't crash in 0x0 environment<br />
+  <sub>[#181481](https://github.com/flutter/flutter/pull/181481) opened on on January 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181481) 15 additions and 0 deletions in 1 file</sub><br />
+
