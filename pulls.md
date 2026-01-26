@@ -296,3 +296,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from slivers_appbar_floating_pinned_test.dart + slivers_appbar_stretch_test.dart<br />
   <sub>[#181469](https://github.com/flutter/flutter/pull/181469) opened on on January 25, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/181469) 2073 additions and 2157 deletions in 9 files</sub><br />
 
+* **[Dmytro Turskyi](https://github.com/Turskyi)** &mdash; Add isDark, isLight, and isSystem getters to ThemeMode<br />
+  <sub>[#181475](https://github.com/flutter/flutter/pull/181475) opened on on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181475) 10 additions and 1 deletion in 1 file</sub><br />
+
