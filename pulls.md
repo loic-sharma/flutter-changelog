@@ -302,3 +302,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedScale doesn't crash in 0x0 environment<br />
   <sub>[#181481](https://github.com/flutter/flutter/pull/181481) opened on on January 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181481) 15 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedRotation doesn't crash in 0x0 environment<br />
+  <sub>[#181486](https://github.com/flutter/flutter/pull/181486) opened on on January 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181486) 19 additions and 0 deletions in 1 file</sub><br />
+
