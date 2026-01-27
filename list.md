@@ -764,7 +764,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-5 commits.
+6 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Patch FWE content
   <sub>[#12996](https://github.com/flutter/website/pull/12996) merged on January 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12996) over 2 hours, 312 additions and 22 deletions in 4 files</sub>
@@ -777,6 +777,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add OpenCode integration for MCP
   <sub>[#12997](https://github.com/flutter/website/pull/12997) merged on January 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12997) over 1 hour, 27 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding Declarative to glossary
+  <sub>[#12981](https://github.com/flutter/website/pull/12981) merged on January 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12981) over 4 days, 25 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; add pigeon native interop doc
   <sub>[#12982](https://github.com/flutter/website/pull/12982) merged on January 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12982) over 2 days, 1 addition and 0 deletions in 1 file</sub>
