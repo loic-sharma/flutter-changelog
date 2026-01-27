@@ -30,7 +30,7 @@
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove chrome_and_driver dependency where it's not needed<br />
-  <sub>[#178174](https://github.com/flutter/flutter/pull/178174) opened on on November 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/178174) 1 addition and 52 deletions in 1 file</sub><br />
+  <sub>[#178174](https://github.com/flutter/flutter/pull/178174) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178174) 1 addition and 52 deletions in 1 file</sub><br />
 
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
@@ -96,7 +96,7 @@
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds opengles to engine dart tests<br />
-  <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/180704) 381 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/180704) 381 additions and 3 deletions in 5 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
