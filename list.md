@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-14 commits.
+17 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
@@ -33,6 +33,18 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default
   <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedContainer doesn't crash in 0x0 environment
+  <sub>[#181198](https://github.com/flutter/flutter/pull/181198) merged on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181198) over 1 week, 19 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedRotation doesn't crash in 0x0 environment
+  <sub>[#181486](https://github.com/flutter/flutter/pull/181486) merged on January 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181486) over 1 day, 19 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedPositionedDirectional doesn't crash in 0x0 …
+  <sub>[#181451](https://github.com/flutter/flutter/pull/181451) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181451) over 3 days, 24 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog for 3.38.8.
   <sub>[#181558](https://github.com/flutter/flutter/pull/181558) merged on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181558) over 52 minutes, 4 additions and 0 deletions in 1 file</sub>
