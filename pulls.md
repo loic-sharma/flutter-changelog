@@ -263,9 +263,9 @@
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Add keyboard support for RangeSlider<br />
   <sub>[#181525](https://github.com/flutter/flutter/pull/181525) opened on on January 27, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181525) 518 additions and 32 deletions in 2 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSlide doesn't crash in 0x0 environment<br />
-  <sub>[#181535](https://github.com/flutter/flutter/pull/181535) opened on on January 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181535) 15 additions and 0 deletions in 1 file</sub><br />
-
 * **[Patel Bhavy ](https://github.com/bhavypatel5391)** &mdash; Grammar<br />
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog for 3.38.8.<br />
+  <sub>[#181558](https://github.com/flutter/flutter/pull/181558) opened on on January 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181558) 4 additions and 0 deletions in 1 file</sub><br />
 
