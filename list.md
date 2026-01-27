@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-13 commits.
+14 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
@@ -33,6 +33,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default
   <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog for 3.38.8.
+  <sub>[#181558](https://github.com/flutter/flutter/pull/181558) merged on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181558) over 52 minutes, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize time picker components with Dart 3 switch expressions
   <sub>[#181356](https://github.com/flutter/flutter/pull/181356) merged on January 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181356) over 4 days, 14 additions and 22 deletions in 1 file</sub>
