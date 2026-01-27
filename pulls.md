@@ -128,9 +128,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
   <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />
 
-* **[crackedhandle](https://github.com/crackedhandle)** &mdash; Expose computeLineMetrics on RenderParagraph<br />
-  <sub>[#181240](https://github.com/flutter/flutter/pull/181240) opened on on January 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181240) 11 additions and 0 deletions in 1 file</sub><br />
-
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in widgets/routes.dart<br />
   <sub>[#181242](https://github.com/flutter/flutter/pull/181242) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181242) 1 addition and 4 deletions in 1 file</sub><br />
 
@@ -139,9 +136,6 @@
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in material/dialog.dart<br />
   <sub>[#181244](https://github.com/flutter/flutter/pull/181244) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181244) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[preet-canary](https://github.com/preet-canary)** &mdash; Skip HardwareKeyboard asserts until keyboard state is initialized<br />
-  <sub>[#181247](https://github.com/flutter/flutter/pull/181247) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181247) 59 additions and 0 deletions in 3 files</sub><br />
 
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
@@ -236,12 +230,15 @@
 * **[Dmytro Turskyi](https://github.com/Turskyi)** &mdash; Add isDark, isLight, and isSystem getters to ThemeMode<br />
   <sub>[#181475](https://github.com/flutter/flutter/pull/181475) opened on on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181475) 10 additions and 1 deletion in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds impeller backend to skia gold client<br />
-  <sub>[#181503](https://github.com/flutter/flutter/pull/181503) opened on on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181503) 24 additions and 3 deletions in 3 files</sub><br />
-
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Add keyboard support for RangeSlider<br />
   <sub>[#181525](https://github.com/flutter/flutter/pull/181525) opened on on January 27, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181525) 518 additions and 32 deletions in 2 files</sub><br />
 
 * **[Patel Bhavy ](https://github.com/bhavypatel5391)** &mdash; Grammar<br />
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add changelog for 3.38.9.<br />
+  <sub>[#181572](https://github.com/flutter/flutter/pull/181572) opened on on January 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181572) 4 additions and 0 deletions in 1 file</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
+  <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181574) 48 additions and 27 deletions in 2 files</sub><br />
 
