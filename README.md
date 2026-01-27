@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-9 commits.
+10 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default<br />
   <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Replace `pub run` mentions with `dart run`<br />
+  <sub>[#181317](https://github.com/flutter/flutter/pull/181317) merged on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181317) over 4 days, 5 additions and 5 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes duplicated import in accessibility test library<br />
   <sub>[#181506](https://github.com/flutter/flutter/pull/181506) merged on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181506) over 1 hour, 4 additions and 5 deletions in 1 file</sub><br />
@@ -597,9 +601,18 @@
 
 ## flutter/packages
 
+### January 24, 2026 to January 30, 2026
+
+1 commits.
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Replace pub run with dart run<br />
+  <sub>[#10849](https://github.com/flutter/packages/pull/10849) merged on January 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10849) over 4 days, 3 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 ### January 17, 2026 to January 23, 2026
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; feat(ios): add audio track selection support for AVFoundation<br />
   <sub>[#10313](https://github.com/flutter/packages/pull/10313) merged on January 21, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10313) over 2 months, 582 additions and 13 deletions in 18 files</sub><br />
@@ -652,6 +665,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes sync_release_pr workflow yaml formatting<br />
   <sub>[#10855](https://github.com/flutter/packages/pull/10855) merged on January 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10855) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+</details>
 
 ### January 10, 2026 to January 16, 2026
 
