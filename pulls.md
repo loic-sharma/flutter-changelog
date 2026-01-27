@@ -260,6 +260,3 @@
 * **[Patel Bhavy ](https://github.com/bhavypatel5391)** &mdash; Grammar<br />
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog for 3.38.8.<br />
-  <sub>[#181558](https://github.com/flutter/flutter/pull/181558) opened on on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181558) 4 additions and 0 deletions in 1 file</sub><br />
-
