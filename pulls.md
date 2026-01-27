@@ -203,9 +203,6 @@
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize legacy switch statements to expressions across multiple files<br />
   <sub>[#181427](https://github.com/flutter/flutter/pull/181427) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181427) 25 additions and 54 deletions in 4 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll FreeType to 2.14.1<br />
-  <sub>[#181428](https://github.com/flutter/flutter/pull/181428) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181428) 20 additions and 19 deletions in 2 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_test.dart<br />
   <sub>[#181429](https://github.com/flutter/flutter/pull/181429) opened on on January 23, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/181429) 396 additions and 287 deletions in 5 files</sub><br />
 
@@ -269,6 +266,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSlide doesn't crash in 0x0 environment<br />
   <sub>[#181535](https://github.com/flutter/flutter/pull/181535) opened on on January 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181535) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Roll libpng to version 1.6.53<br />
-  <sub>[#181543](https://github.com/flutter/flutter/pull/181543) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181543) 5 additions and 25 deletions in 10 files</sub><br />
+* **[Patel Bhavy ](https://github.com/bhavypatel5391)** &mdash; Grammar<br />
+  <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 

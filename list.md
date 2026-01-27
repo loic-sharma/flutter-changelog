@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-11 commits.
+12 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
@@ -17,6 +17,10 @@
 * **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…
   <sub>[#181082](https://github.com/flutter/flutter/pull/181082) merged on January 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181082) over 1 week, 87 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll FreeType to 2.14.1
+  <sub>[#181428](https://github.com/flutter/flutter/pull/181428) merged on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181428) over 3 days, 20 additions and 19 deletions in 2 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks linux_chrome_dev_mode to be unflaky
   <sub>[#181352](https://github.com/flutter/flutter/pull/181352) merged on January 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181352) over 4 days, 0 additions and 1 deletion in 1 file</sub>
