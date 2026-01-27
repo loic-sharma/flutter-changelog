@@ -269,3 +269,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedSlide doesn't crash in 0x0 environment<br />
   <sub>[#181535](https://github.com/flutter/flutter/pull/181535) opened on on January 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181535) 15 additions and 0 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Roll libpng to version 1.6.53<br />
+  <sub>[#181543](https://github.com/flutter/flutter/pull/181543) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181543) 5 additions and 25 deletions in 10 files</sub><br />
+
