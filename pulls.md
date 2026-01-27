@@ -273,5 +273,5 @@
   <sub>[#181535](https://github.com/flutter/flutter/pull/181535) opened on on January 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181535) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix TextScaler.clamp assertion failure when clamping already-clamped …<br />
-  <sub>[#181537](https://github.com/flutter/flutter/pull/181537) opened on on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181537) 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#181537](https://github.com/flutter/flutter/pull/181537) opened on on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181537) 5 additions and 3 deletions in 1 file</sub><br />
 
