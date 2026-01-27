@@ -619,7 +619,15 @@
 
 ### January 24, 2026 to January 30, 2026
 
-3 commits.
+5 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [pigeon] Migrate XCTest to Swift Testing
+  <sub>[#10905](https://github.com/flutter/packages/pull/10905) merged on January 27, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/10905) over 20 hours, 462 additions and 395 deletions in 15 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [shared_preferences_foundation] Migrate XCTest to Swift Testing
+  <sub>[#10766](https://github.com/flutter/packages/pull/10766) merged on January 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10766) over 2 weeks, 124 additions and 124 deletions in 4 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Add post release label to sync_release_pr workflow
   <sub>[#10864](https://github.com/flutter/packages/pull/10864) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10864) over 3 days, 1 addition and 0 deletions in 1 file</sub>
