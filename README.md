@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-12 commits.
+13 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub><br />
@@ -13,6 +13,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) merged on January 26, 2026 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/181340) over 4 days, 190 additions and 104 deletions in 15 files</sub><br />
   <sub>Reviewed by: [walley892](https://github.com/walley892), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Change update_engine_version documenation<br />
+  <sub>[#181508](https://github.com/flutter/flutter/pull/181508) merged on January 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181508) over 20 hours, 5 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…<br />
   <sub>[#181082](https://github.com/flutter/flutter/pull/181082) merged on January 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181082) over 1 week, 87 additions and 1 deletion in 2 files</sub><br />
