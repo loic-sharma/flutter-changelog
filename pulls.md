@@ -59,9 +59,6 @@
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
-  <sub>[#180072](https://github.com/flutter/flutter/pull/180072) opened on on December 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180072) 36 additions and 11 deletions in 1 file</sub><br />
-
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/180131) 106 additions and 54 deletions in 2 files</sub><br />
 
@@ -104,9 +101,6 @@
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add ccache support for custom toolchain<br />
-  <sub>[#180737](https://github.com/flutter/flutter/pull/180737) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180737) 7 additions and 2 deletions in 1 file</sub><br />
-
 * **[yahyayemen](https://github.com/yahyayemen)** &mdash; Update settings.json<br />
   <sub>[#180769](https://github.com/flutter/flutter/pull/180769) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180769) 6 additions and 2 deletions in 2 files</sub><br />
 
@@ -130,9 +124,6 @@
 
 * **[Divith S](https://github.com/Divith123)** &mdash; RFC: Opt-in Semantic Shadow Tree for Flutter Web SEO<br />
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
-
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; enable enhanced debugging for GLES playground<br />
-  <sub>[#181157](https://github.com/flutter/flutter/pull/181157) opened on on January 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181157) 23 additions and 0 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
   <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />

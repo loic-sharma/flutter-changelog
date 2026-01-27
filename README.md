@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-7 commits.
+9 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub><br />
@@ -13,6 +13,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) merged on January 26, 2026 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/181340) over 4 days, 190 additions and 104 deletions in 15 files</sub><br />
   <sub>Reviewed by: [walley892](https://github.com/walley892), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
+
+* **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…<br />
+  <sub>[#181082](https://github.com/flutter/flutter/pull/181082) merged on January 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181082) over 1 week, 87 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks linux_chrome_dev_mode to be unflaky<br />
+  <sub>[#181352](https://github.com/flutter/flutter/pull/181352) merged on January 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181352) over 4 days, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default<br />
   <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub><br />
@@ -717,7 +725,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-4 commits.
+5 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Patch FWE content<br />
   <sub>[#12996](https://github.com/flutter/website/pull/12996) merged on January 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12996) over 2 hours, 312 additions and 22 deletions in 4 files</sub><br />
@@ -726,6 +734,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Small FWE CSS tweak<br />
   <sub>[#12994](https://github.com/flutter/website/pull/12994) merged on January 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/12994) over 6 hours, 15 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add OpenCode integration for MCP<br />
+  <sub>[#12997](https://github.com/flutter/website/pull/12997) merged on January 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/12997) over 1 hour, 27 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; add pigeon native interop doc<br />
   <sub>[#12982](https://github.com/flutter/website/pull/12982) merged on January 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/12982) over 2 days, 1 addition and 0 deletions in 1 file</sub><br />
