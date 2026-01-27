@@ -90,7 +90,7 @@
   <sub>[#180491](https://github.com/flutter/flutter/pull/180491) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180491) 54 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
-  <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
@@ -258,7 +258,7 @@
   <sub>[#181475](https://github.com/flutter/flutter/pull/181475) opened on on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181475) 10 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Fix overlay in size to content scenario with loose constraints<br />
-  <sub>[#181490](https://github.com/flutter/flutter/pull/181490) opened on on January 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181490) 75 additions and 45 deletions in 4 files</sub><br />
+  <sub>[#181490](https://github.com/flutter/flutter/pull/181490) opened on on January 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181490) 92 additions and 62 deletions in 5 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds impeller backend to skia gold client<br />
   <sub>[#181503](https://github.com/flutter/flutter/pull/181503) opened on on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181503) 19 additions and 1 deletion in 2 files</sub><br />

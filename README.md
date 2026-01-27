@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-10 commits.
+11 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default<br />
   <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize time picker components with Dart 3 switch expressions<br />
+  <sub>[#181356](https://github.com/flutter/flutter/pull/181356) merged on January 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181356) over 4 days, 14 additions and 22 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [Huy](https://github.com/huycozy)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Replace `pub run` mentions with `dart run`<br />
   <sub>[#181317](https://github.com/flutter/flutter/pull/181317) merged on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181317) over 4 days, 5 additions and 5 deletions in 5 files</sub><br />
