@@ -152,12 +152,6 @@
 * **[preet-jagani-66601](https://github.com/preet-jagani-66601)** &mdash; Skip HardwareKeyboard asserts until keyboard state is initialized<br />
   <sub>[#181247](https://github.com/flutter/flutter/pull/181247) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181247) 59 additions and 0 deletions in 3 files</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; update GLFW to latest and use EGL context creation on linux<br />
-  <sub>[#181259](https://github.com/flutter/flutter/pull/181259) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181259) 10 additions and 3 deletions in 3 files</sub><br />
-
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add stacktrace support when requested for host builds<br />
-  <sub>[#181264](https://github.com/flutter/flutter/pull/181264) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181264) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
 
@@ -194,9 +188,6 @@
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; [Material] Remove Material import from backdrop_filter_test.dart widget tests<br />
   <sub>[#181386](https://github.com/flutter/flutter/pull/181386) opened on on January 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181386) 237 additions and 227 deletions in 3 files</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Fix gles interactive tests<br />
-  <sub>[#181389](https://github.com/flutter/flutter/pull/181389) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181389) 175 additions and 93 deletions in 18 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code paths  in `PlatformViewsController.java`<br />
   <sub>[#181393](https://github.com/flutter/flutter/pull/181393) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181393) 0 additions and 20 deletions in 1 file</sub><br />
 
@@ -216,7 +207,7 @@
   <sub>[#181417](https://github.com/flutter/flutter/pull/181417) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181417) 101 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Cleanup `ResidentCompiler` initialization logic<br />
-  <sub>[#181421](https://github.com/flutter/flutter/pull/181421) opened on on January 23, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181421) 354 additions and 329 deletions in 19 files</sub><br />
+  <sub>[#181421](https://github.com/flutter/flutter/pull/181421) opened on on January 23, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181421) 354 additions and 329 deletions in 19 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_dispose_test.dart<br />
   <sub>[#181423](https://github.com/flutter/flutter/pull/181423) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181423) 7 additions and 7 deletions in 2 files</sub><br />
