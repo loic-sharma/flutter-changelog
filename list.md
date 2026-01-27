@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-17 commits.
+19 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
@@ -33,6 +33,14 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default
   <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedAlign doesn't crash in 0x0 environment
+  <sub>[#181361](https://github.com/flutter/flutter/pull/181361) merged on January 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181361) over 4 days, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageIcon doesn't crash in 0x0 environment
+  <sub>[#181099](https://github.com/flutter/flutter/pull/181099) merged on January 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181099) over 1 week, 11 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedContainer doesn't crash in 0x0 environment
   <sub>[#181198](https://github.com/flutter/flutter/pull/181198) merged on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181198) over 1 week, 19 additions and 0 deletions in 1 file</sub>
