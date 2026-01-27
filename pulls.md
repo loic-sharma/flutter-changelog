@@ -191,9 +191,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_test.dart<br />
   <sub>[#181429](https://github.com/flutter/flutter/pull/181429) opened on on January 23, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/181429) 396 additions and 287 deletions in 5 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: swap app and engine version in vk::ApplicationInfo<br />
-  <sub>[#181432](https://github.com/flutter/flutter/pull/181432) opened on on January 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181432) 33 additions and 5 deletions in 3 files</sub><br />
-
 * **[jingweicai](https://github.com/caijw)** &mdash; perf: web ui loadFontFromList<br />
   <sub>[#181440](https://github.com/flutter/flutter/pull/181440) opened on on January 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181440) 13 additions and 16 deletions in 2 files</sub><br />
 
