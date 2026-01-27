@@ -245,9 +245,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds impeller backend to skia gold client<br />
   <sub>[#181503](https://github.com/flutter/flutter/pull/181503) opened on on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181503) 24 additions and 3 deletions in 3 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Use AccessibilityFocusBlockType.blockSubtree to replace BlockSemantics in modal routes.<br />
-  <sub>[#181519](https://github.com/flutter/flutter/pull/181519) opened on on January 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181519) 237 additions and 52 deletions in 4 files</sub><br />
-
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Add keyboard support for RangeSlider<br />
   <sub>[#181525](https://github.com/flutter/flutter/pull/181525) opened on on January 27, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181525) 518 additions and 32 deletions in 2 files</sub><br />
 
