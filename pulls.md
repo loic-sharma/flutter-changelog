@@ -30,7 +30,7 @@
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove chrome_and_driver dependency where it's not needed<br />
-  <sub>[#178174](https://github.com/flutter/flutter/pull/178174) opened on on November 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178174) 1 addition and 52 deletions in 1 file</sub><br />
+  <sub>[#178174](https://github.com/flutter/flutter/pull/178174) opened on on November 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178174) 1 addition and 52 deletions in 1 file</sub><br />
 
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
@@ -126,7 +126,7 @@
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
-  <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />
+  <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />
 
 * **[crackedhandle](https://github.com/crackedhandle)** &mdash; Expose computeLineMetrics on RenderParagraph<br />
   <sub>[#181240](https://github.com/flutter/flutter/pull/181240) opened on on January 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181240) 11 additions and 0 deletions in 1 file</sub><br />
@@ -167,14 +167,8 @@
 * **[August](https://github.com/Gustl22)** &mdash; test: Improve DropdownMenuFormField tests<br />
   <sub>[#181369](https://github.com/flutter/flutter/pull/181369) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181369) 7 additions and 11 deletions in 1 file</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [stable] Cherry pick https://github.com/flutter/flutter/pull/181269<br />
-  <sub>[#181371](https://github.com/flutter/flutter/pull/181371) opened on on January 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181371) 8 additions and 4 deletions in 2 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; feat: Pass parameters from DropdownMenuFormField to DropDownMenu<br />
   <sub>[#181373](https://github.com/flutter/flutter/pull/181373) opened on on January 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181373) 145 additions and 0 deletions in 2 files</sub><br />
-
-* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; [Material] Remove Material import from backdrop_filter_test.dart widget tests<br />
-  <sub>[#181386](https://github.com/flutter/flutter/pull/181386) opened on on January 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181386) 237 additions and 227 deletions in 3 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code paths  in `PlatformViewsController.java`<br />
   <sub>[#181393](https://github.com/flutter/flutter/pull/181393) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181393) 0 additions and 20 deletions in 1 file</sub><br />
@@ -267,5 +261,5 @@
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog for 3.38.8.<br />
-  <sub>[#181558](https://github.com/flutter/flutter/pull/181558) opened on on January 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181558) 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#181558](https://github.com/flutter/flutter/pull/181558) opened on on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181558) 4 additions and 0 deletions in 1 file</sub><br />
 
