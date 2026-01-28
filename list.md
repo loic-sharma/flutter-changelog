@@ -4,15 +4,24 @@
 
 ### January 24, 2026 to January 30, 2026
 
-19 commits.
+21 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks), [Valentin Vignal](https://github.com/ValentinVignal), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix remove material import box decoration test
+  <sub>[#181253](https://github.com/flutter/flutter/pull/181253) merged on January 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181253) over 6 days, 4 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+  <sub><details><summary>1 image...</summary>![talabat.com](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) merged on January 26, 2026 &mdash; **Small:** [53 comments](https://github.com/flutter/flutter/pull/181340) over 4 days, 190 additions and 104 deletions in 15 files</sub>
   <sub>Reviewed by: [walley892](https://github.com/walley892), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks firebase_release_smoke_test to be unflaky
+  <sub>[#181308](https://github.com/flutter/flutter/pull/181308) merged on January 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181308) over 5 days, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Change update_engine_version documenation
   <sub>[#181508](https://github.com/flutter/flutter/pull/181508) merged on January 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181508) over 20 hours, 5 additions and 0 deletions in 2 files</sub>
@@ -792,7 +801,11 @@
 
 ### January 24, 2026 to January 30, 2026
 
-6 commits.
+7 commits.
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Separate /learn into its own nav
+  <sub>[#12974](https://github.com/flutter/website/pull/12974) merged on January 28, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/website/pull/12974) over 5 days, 686 additions and 503 deletions in 38 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Patch FWE content
   <sub>[#12996](https://github.com/flutter/website/pull/12996) merged on January 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12996) over 2 hours, 312 additions and 22 deletions in 4 files</sub>

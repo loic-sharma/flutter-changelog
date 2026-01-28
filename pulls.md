@@ -206,9 +206,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from semantics_test.dart<br />
   <sub>[#181448](https://github.com/flutter/flutter/pull/181448) opened on on January 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181448) 67 additions and 59 deletions in 2 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add onEnd to AnimatedCrossFade<br />
-  <sub>[#181455](https://github.com/flutter/flutter/pull/181455) opened on on January 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181455) 143 additions and 0 deletions in 2 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_helpers_test.dart<br />
   <sub>[#181460](https://github.com/flutter/flutter/pull/181460) opened on on January 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181460) 158 additions and 90 deletions in 3 files</sub><br />
 
@@ -240,5 +237,5 @@
   <sub>[#181572](https://github.com/flutter/flutter/pull/181572) opened on on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181572) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
-  <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181574) 48 additions and 27 deletions in 2 files</sub><br />
+  <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181574) 49 additions and 26 deletions in 2 files</sub><br />
 
