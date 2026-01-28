@@ -4,11 +4,15 @@
 
 ### January 24, 2026 to January 30, 2026
 
-27 commits.
+28 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks), [Valentin Vignal](https://github.com/ValentinVignal), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add RoundedSuperellipseInputBorder
+  <sub>[#177220](https://github.com/flutter/flutter/pull/177220) merged on January 28, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/177220) over 3 months, 580 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix remove material import box decoration test
   <sub>[#181253](https://github.com/flutter/flutter/pull/181253) merged on January 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181253) over 6 days, 4 additions and 5 deletions in 2 files</sub>
