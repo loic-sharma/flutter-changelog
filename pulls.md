@@ -246,5 +246,5 @@
   <sub>[#181586](https://github.com/flutter/flutter/pull/181586) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181586) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix generating both `settings.gradle` and `settings.gradle.kts` for plugins<br />
-  <sub>[#181592](https://github.com/flutter/flutter/pull/181592) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181592) 23 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#181592](https://github.com/flutter/flutter/pull/181592) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181592) 22 additions and 2 deletions in 3 files</sub><br />
 
