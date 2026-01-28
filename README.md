@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-29 commits.
+30 commits.
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix `todayBorder` todayBorder color is incorrectly overridden by `todayForegroundColor` in CalendarDatePicker<br />
   <sub>[#178792](https://github.com/flutter/flutter/pull/178792) merged on January 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178792) over 2 months, 87 additions and 9 deletions in 4 files</sub><br />
@@ -27,6 +27,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) merged on January 26, 2026 &mdash; **Small:** [53 comments](https://github.com/flutter/flutter/pull/181340) over 4 days, 190 additions and 104 deletions in 15 files</sub><br />
   <sub>Reviewed by: [walley892](https://github.com/walley892), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix generating both `settings.gradle` and `settings.gradle.kts` for plugins<br />
+  <sub>[#181592](https://github.com/flutter/flutter/pull/181592) merged on January 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181592) over 4 hours, 22 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
   <sub>[#181353](https://github.com/flutter/flutter/pull/181353) merged on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181353) over 5 days, 62 additions and 2 deletions in 3 files</sub><br />
@@ -834,7 +838,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-7 commits.
+9 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Separate /learn into its own nav<br />
   <sub>[#12974](https://github.com/flutter/website/pull/12974) merged on January 28, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/website/pull/12974) over 5 days, 686 additions and 503 deletions in 38 files</sub><br />
@@ -842,6 +846,14 @@
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Patch FWE content<br />
   <sub>[#12996](https://github.com/flutter/website/pull/12996) merged on January 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/12996) over 2 hours, 312 additions and 22 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Remove references to `plugin_ffi`<br />
+  <sub>[#13004](https://github.com/flutter/website/pull/13004) merged on January 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13004) over 7 hours, 20 additions and 98 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; adds redirect for /learn restructure<br />
+  <sub>[#13007](https://github.com/flutter/website/pull/13007) merged on January 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13007) over 40 minutes, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Small FWE CSS tweak<br />
