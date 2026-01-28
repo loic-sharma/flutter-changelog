@@ -242,9 +242,6 @@
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware spread in material/app.dart<br />
   <sub>[#181586](https://github.com/flutter/flutter/pull/181586) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181586) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix generating both `settings.gradle` and `settings.gradle.kts` for plugins<br />
-  <sub>[#181592](https://github.com/flutter/flutter/pull/181592) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181592) 22 additions and 2 deletions in 3 files</sub><br />
-
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Impeller: avoid blocking on image upload scheduling<br />
   <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
 
