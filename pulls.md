@@ -71,9 +71,6 @@
 * **[Md Mushfiqur Rahim](https://github.com/MD-Mushfiqur123)** &mdash; add my name<br />
   <sub>[#180284](https://github.com/flutter/flutter/pull/180284) opened on on December 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180284) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix the issue on macOS where, after a hot restart with multiple windows, unresponsive windows are left behind.<br />
-  <sub>[#180287](https://github.com/flutter/flutter/pull/180287) opened on on December 25, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180287) 47 additions and 12 deletions in 4 files</sub><br />
-
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine] fix missing virtual destructor in Codec base class<br />
   <sub>[#180288](https://github.com/flutter/flutter/pull/180288) opened on on December 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180288) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -141,7 +138,7 @@
   <sub>[#181417](https://github.com/flutter/flutter/pull/181417) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181417) 101 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Cleanup `ResidentCompiler` initialization logic<br />
-  <sub>[#181421](https://github.com/flutter/flutter/pull/181421) opened on on January 23, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/181421) 353 additions and 329 deletions in 19 files</sub><br />
+  <sub>[#181421](https://github.com/flutter/flutter/pull/181421) opened on on January 23, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/181421) 353 additions and 329 deletions in 19 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from basic_test.dart<br />
   <sub>[#181444](https://github.com/flutter/flutter/pull/181444) opened on on January 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181444) 220 additions and 257 deletions in 3 files</sub><br />
@@ -165,7 +162,7 @@
   <sub>[#181586](https://github.com/flutter/flutter/pull/181586) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181586) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Impeller: avoid blocking on image upload scheduling<br />
-  <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix layout for macOS frameworks for code assets<br />
   <sub>[#181607](https://github.com/flutter/flutter/pull/181607) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181607) 21 additions and 2 deletions in 2 files</sub><br />
@@ -181,4 +178,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.54<br />
   <sub>[#181625](https://github.com/flutter/flutter/pull/181625) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181625) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark `hybrid_android_views_integration_test` as bringup<br />
+  <sub>[#181628](https://github.com/flutter/flutter/pull/181628) opened on on January 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181628) 0 additions and 1 deletion in 1 file</sub><br />
 
