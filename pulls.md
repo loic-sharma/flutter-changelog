@@ -177,5 +177,5 @@
   <sub>[#181618](https://github.com/flutter/flutter/pull/181618) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181618) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Migration: Remove material.dart dependency from framework_test.dart (Issue #177414)<br />
-  <sub>[#181620](https://github.com/flutter/flutter/pull/181620) opened on on January 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181620) 34 additions and 28 deletions in 1 file</sub><br />
+  <sub>[#181620](https://github.com/flutter/flutter/pull/181620) opened on on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181620) 36 additions and 28 deletions in 1 file</sub><br />
 
