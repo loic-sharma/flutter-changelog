@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-33 commits.
+34 commits.
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix `todayBorder` todayBorder color is incorrectly overridden by `todayForegroundColor` in CalendarDatePicker
   <sub>[#178792](https://github.com/flutter/flutter/pull/178792) merged on January 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178792) over 2 months, 87 additions and 9 deletions in 4 files</sub>
@@ -52,6 +52,10 @@
   <sub>[#181082](https://github.com/flutter/flutter/pull/181082) merged on January 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181082) over 1 week, 87 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: swap app and engine version in vk::ApplicationInfo
+  <sub>[#181432](https://github.com/flutter/flutter/pull/181432) merged on January 28, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/181432) over 4 days, 40 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove chrome_and_driver dependency where it's not needed
   <sub>[#178174](https://github.com/flutter/flutter/pull/178174) merged on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178174) over 2 months, 1 addition and 52 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -88,9 +92,9 @@
   <sub>[#181235](https://github.com/flutter/flutter/pull/181235) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181235) over 6 days, 20 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageFiltered doesn't crash at 0x0 environment
-  <sub>[#181067](https://github.com/flutter/flutter/pull/181067) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181067) over 1 week, 17 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `PlatformViewsController.java`
+  <sub>[#181338](https://github.com/flutter/flutter/pull/181338) merged on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181338) over 3 days, 13 additions and 15 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedAlign doesn't crash in 0x0 environment
   <sub>[#181361](https://github.com/flutter/flutter/pull/181361) merged on January 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181361) over 4 days, 18 additions and 0 deletions in 1 file</sub>
@@ -136,9 +140,9 @@
   <sub>[#181406](https://github.com/flutter/flutter/pull/181406) merged on January 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181406) over 2 days, 0 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `PlatformViewsController.java`
-  <sub>[#181338](https://github.com/flutter/flutter/pull/181338) merged on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181338) over 3 days, 13 additions and 15 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageFiltered doesn't crash at 0x0 environment
+  <sub>[#181067](https://github.com/flutter/flutter/pull/181067) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181067) over 1 week, 17 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 ### January 17, 2026 to January 23, 2026
 

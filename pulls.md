@@ -18,7 +18,7 @@
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
-  <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
@@ -101,9 +101,6 @@
 * **[yahyayemen](https://github.com/yahyayemen)** &mdash; Update settings.json<br />
   <sub>[#180769](https://github.com/flutter/flutter/pull/180769) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180769) 6 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ibrar-devs](https://github.com/Ibrar-devs)** &mdash; fixing listTile Clip behavior <br />
-  <sub>[#180805](https://github.com/flutter/flutter/pull/180805) opened on on January 10, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180805) 96 additions and 12 deletions in 2 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) opened on on January 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180976) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -115,9 +112,6 @@
 
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Add DateInputCalendarDelegate to customize date input<br />
-  <sub>[#181105](https://github.com/flutter/flutter/pull/181105) opened on on January 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181105) 541 additions and 0 deletions in 6 files</sub><br />
 
 * **[Divith S](https://github.com/Divith123)** &mdash; RFC: Opt-in Semantic Shadow Tree for Flutter Web SEO<br />
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
@@ -140,12 +134,6 @@
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix nested selection area menu<br />
-  <sub>[#181362](https://github.com/flutter/flutter/pull/181362) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181362) 133 additions and 23 deletions in 2 files</sub><br />
-
-* **[August](https://github.com/Gustl22)** &mdash; test: Improve DropdownMenuFormField tests<br />
-  <sub>[#181369](https://github.com/flutter/flutter/pull/181369) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181369) 7 additions and 11 deletions in 1 file</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from sliver_tree_test.dart<br />
   <sub>[#181415](https://github.com/flutter/flutter/pull/181415) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181415) 121 additions and 90 deletions in 2 files</sub><br />
 
@@ -155,29 +143,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Cleanup `ResidentCompiler` initialization logic<br />
   <sub>[#181421](https://github.com/flutter/flutter/pull/181421) opened on on January 23, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181421) 354 additions and 329 deletions in 19 files</sub><br />
 
-* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize legacy switch statements to expressions across multiple files<br />
-  <sub>[#181427](https://github.com/flutter/flutter/pull/181427) opened on on January 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181427) 25 additions and 54 deletions in 4 files</sub><br />
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_test.dart<br />
-  <sub>[#181429](https://github.com/flutter/flutter/pull/181429) opened on on January 23, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/181429) 396 additions and 287 deletions in 5 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from basic_test.dart<br />
   <sub>[#181444](https://github.com/flutter/flutter/pull/181444) opened on on January 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181444) 220 additions and 257 deletions in 3 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_helpers_test.dart<br />
-  <sub>[#181460](https://github.com/flutter/flutter/pull/181460) opened on on January 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181460) 158 additions and 90 deletions in 3 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart<br />
   <sub>[#181465](https://github.com/flutter/flutter/pull/181465) opened on on January 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181465) 296 additions and 468 deletions in 2 files</sub><br />
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Reduce reliance on Material in page_transitions_test.dart<br />
-  <sub>[#181467](https://github.com/flutter/flutter/pull/181467) opened on on January 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181467) 106 additions and 103 deletions in 2 files</sub><br />
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from slivers_appbar_floating_pinned_test.dart + slivers_appbar_stretch_test.dart<br />
-  <sub>[#181469](https://github.com/flutter/flutter/pull/181469) opened on on January 25, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/181469) 2073 additions and 2157 deletions in 9 files</sub><br />
-
-* **[Dmytro Turskyi](https://github.com/Turskyi)** &mdash; Add isDark, isLight, and isSystem getters to ThemeMode<br />
-  <sub>[#181475](https://github.com/flutter/flutter/pull/181475) opened on on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181475) 10 additions and 1 deletion in 1 file</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Add keyboard support for RangeSlider<br />
   <sub>[#181525](https://github.com/flutter/flutter/pull/181525) opened on on January 27, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181525) 518 additions and 32 deletions in 2 files</sub><br />
@@ -187,9 +157,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
   <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181574) 49 additions and 26 deletions in 2 files</sub><br />
-
-* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Move semantics_debugger_test.dart from widgets to material<br />
-  <sub>[#181584](https://github.com/flutter/flutter/pull/181584) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181584) 0 additions and 0 deletions in 1 file</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware spread in cupertino/app.dart<br />
   <sub>[#181585](https://github.com/flutter/flutter/pull/181585) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181585) 1 addition and 1 deletion in 1 file</sub><br />
@@ -205,4 +172,10 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cross imports cleanups<br />
   <sub>[#181611](https://github.com/flutter/flutter/pull/181611) opened on on January 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181611) 340 additions and 280 deletions in 18 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump engine.version for 3.38.9.<br />
+  <sub>[#181618](https://github.com/flutter/flutter/pull/181618) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181618) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[David Bebawy](https://github.com/dbebawy)** &mdash; [stable] Fix layout for macOS frameworks for code assets<br />
+  <sub>[#181619](https://github.com/flutter/flutter/pull/181619) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181619) 21 additions and 2 deletions in 2 files</sub><br />
 
