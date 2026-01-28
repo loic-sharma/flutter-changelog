@@ -96,7 +96,7 @@
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds opengles to engine dart tests<br />
-  <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/180704) 426 additions and 7 deletions in 6 files</sub><br />
+  <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/180704) 426 additions and 7 deletions in 6 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -230,6 +230,9 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
   <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181574) 49 additions and 26 deletions in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Generate Flutter framework swift package<br />
+  <sub>[#181578](https://github.com/flutter/flutter/pull/181578) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181578) 116 additions and 0 deletions in 5 files</sub><br />
+
 * **[Patrick Billingsley](https://github.com/patrickBillingsley)** &mdash; Propagates Overlay's MediaQueryData to OverlayPortal child<br />
   <sub>[#181579](https://github.com/flutter/flutter/pull/181579) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181579) 71 additions and 1 deletion in 2 files</sub><br />
 
@@ -244,4 +247,7 @@
 
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Impeller: avoid blocking on image upload scheduling<br />
   <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Fix CupertinoSheetRoute getting stuck when catching a dismiss gesture<br />
+  <sub>[#181605](https://github.com/flutter/flutter/pull/181605) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181605) 13 additions and 6 deletions in 1 file</sub><br />
 
