@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-30 commits.
+32 commits.
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix `todayBorder` todayBorder color is incorrectly overridden by `todayForegroundColor` in CalendarDatePicker
   <sub>[#178792](https://github.com/flutter/flutter/pull/178792) merged on January 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178792) over 2 months, 87 additions and 9 deletions in 4 files</sub>
@@ -51,6 +51,14 @@
 * **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…
   <sub>[#181082](https://github.com/flutter/flutter/pull/181082) merged on January 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181082) over 1 week, 87 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove chrome_and_driver dependency where it's not needed
+  <sub>[#178174](https://github.com/flutter/flutter/pull/178174) merged on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178174) over 2 months, 1 addition and 52 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: Windows_mokey basic_material_app_win__compile !bringup
+  <sub>[#180985](https://github.com/flutter/flutter/pull/180985) merged on January 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180985) over 1 week, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll FreeType to 2.14.1
   <sub>[#181428](https://github.com/flutter/flutter/pull/181428) merged on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181428) over 3 days, 20 additions and 19 deletions in 2 files</sub>

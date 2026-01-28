@@ -29,9 +29,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove chrome_and_driver dependency where it's not needed<br />
-  <sub>[#178174](https://github.com/flutter/flutter/pull/178174) opened on on November 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178174) 1 addition and 52 deletions in 1 file</sub><br />
-
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -230,9 +227,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
   <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181574) 49 additions and 26 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Generate Flutter framework swift package<br />
-  <sub>[#181578](https://github.com/flutter/flutter/pull/181578) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181578) 116 additions and 0 deletions in 5 files</sub><br />
-
 * **[Patrick Billingsley](https://github.com/patrickBillingsley)** &mdash; Propagates Overlay's MediaQueryData to OverlayPortal child<br />
   <sub>[#181579](https://github.com/flutter/flutter/pull/181579) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181579) 71 additions and 1 deletion in 2 files</sub><br />
 
@@ -250,4 +244,7 @@
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Fix CupertinoSheetRoute getting stuck when catching a dismiss gesture<br />
   <sub>[#181605](https://github.com/flutter/flutter/pull/181605) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181605) 13 additions and 6 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix layout for macOS frameworks for code assets<br />
+  <sub>[#181607](https://github.com/flutter/flutter/pull/181607) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181607) 21 additions and 2 deletions in 2 files</sub><br />
 
