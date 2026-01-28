@@ -237,7 +237,7 @@
   <sub>[#181579](https://github.com/flutter/flutter/pull/181579) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181579) 71 additions and 1 deletion in 2 files</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Move semantics_debugger_test.dart from widgets to material<br />
-  <sub>[#181584](https://github.com/flutter/flutter/pull/181584) opened on on January 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181584) 0 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#181584](https://github.com/flutter/flutter/pull/181584) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181584) 0 additions and 0 deletions in 1 file</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware spread in cupertino/app.dart<br />
   <sub>[#181585](https://github.com/flutter/flutter/pull/181585) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181585) 1 addition and 1 deletion in 1 file</sub><br />
