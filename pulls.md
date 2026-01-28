@@ -237,5 +237,5 @@
   <sub>[#181572](https://github.com/flutter/flutter/pull/181572) opened on on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181572) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
-  <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181574) 49 additions and 26 deletions in 2 files</sub><br />
+  <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181574) 49 additions and 26 deletions in 2 files</sub><br />
 

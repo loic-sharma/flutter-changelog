@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-23 commits.
+25 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub><br />
@@ -18,6 +18,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes metal vec3 uniform padding<br />
   <sub>[#181340](https://github.com/flutter/flutter/pull/181340) merged on January 26, 2026 &mdash; **Small:** [53 comments](https://github.com/flutter/flutter/pull/181340) over 4 days, 190 additions and 104 deletions in 15 files</sub><br />
   <sub>Reviewed by: [walley892](https://github.com/walley892), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
+  <sub>[#181353](https://github.com/flutter/flutter/pull/181353) merged on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181353) over 5 days, 62 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks firebase_release_smoke_test to be unflaky<br />
   <sub>[#181308](https://github.com/flutter/flutter/pull/181308) merged on January 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181308) over 5 days, 0 additions and 1 deletion in 1 file</sub><br />
@@ -42,6 +46,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default<br />
   <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Luan Nico](https://github.com/luanpotter)** &mdash; test: Clarify failure messages on gestures/debug_test.dart<br />
+  <sub>[#181109](https://github.com/flutter/flutter/pull/181109) merged on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181109) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedPadding doesn't crash in 0x0 environment<br />
   <sub>[#181235](https://github.com/flutter/flutter/pull/181235) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181235) over 6 days, 20 additions and 0 deletions in 1 file</sub><br />
