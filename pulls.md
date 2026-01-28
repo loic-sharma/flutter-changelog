@@ -227,9 +227,6 @@
 * **[Patel Bhavy ](https://github.com/bhavypatel5391)** &mdash; Grammar<br />
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add changelog for 3.38.9.<br />
-  <sub>[#181572](https://github.com/flutter/flutter/pull/181572) opened on on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181572) 4 additions and 0 deletions in 1 file</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
   <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181574) 49 additions and 26 deletions in 2 files</sub><br />
 
@@ -247,4 +244,7 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix generating both `settings.gradle` and `settings.gradle.kts` for plugins<br />
   <sub>[#181592](https://github.com/flutter/flutter/pull/181592) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181592) 22 additions and 2 deletions in 3 files</sub><br />
+
+* **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Impeller: avoid blocking on image upload scheduling<br />
+  <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
 
