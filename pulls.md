@@ -141,7 +141,7 @@
   <sub>[#181417](https://github.com/flutter/flutter/pull/181417) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181417) 101 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Cleanup `ResidentCompiler` initialization logic<br />
-  <sub>[#181421](https://github.com/flutter/flutter/pull/181421) opened on on January 23, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181421) 354 additions and 329 deletions in 19 files</sub><br />
+  <sub>[#181421](https://github.com/flutter/flutter/pull/181421) opened on on January 23, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/181421) 353 additions and 329 deletions in 19 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from basic_test.dart<br />
   <sub>[#181444](https://github.com/flutter/flutter/pull/181444) opened on on January 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181444) 220 additions and 257 deletions in 3 files</sub><br />
@@ -156,7 +156,7 @@
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
-  <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181574) 49 additions and 26 deletions in 2 files</sub><br />
+  <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181574) 49 additions and 39 deletions in 2 files</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware spread in cupertino/app.dart<br />
   <sub>[#181585](https://github.com/flutter/flutter/pull/181585) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181585) 1 addition and 1 deletion in 1 file</sub><br />
