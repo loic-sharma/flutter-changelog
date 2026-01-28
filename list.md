@@ -4,7 +4,12 @@
 
 ### January 24, 2026 to January 30, 2026
 
-28 commits.
+29 commits.
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix `todayBorder` todayBorder color is incorrectly overridden by `todayForegroundColor` in CalendarDatePicker
+  <sub>[#178792](https://github.com/flutter/flutter/pull/178792) merged on January 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178792) over 2 months, 87 additions and 9 deletions in 4 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+  <sub><details><summary>2 images...</summary><img width="400" src="https://github.com/user-attachments/assets/59c70071-d278-46f8-a566-40589cf01f9a"><img width="400" src="https://github.com/user-attachments/assets/a4309fb0-7360-4c11-a9c1-dd1f1ebf9190"></details></sub>
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
