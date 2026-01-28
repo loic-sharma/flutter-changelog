@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-25 commits.
+26 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
@@ -26,6 +26,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks firebase_release_smoke_test to be unflaky
   <sub>[#181308](https://github.com/flutter/flutter/pull/181308) merged on January 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181308) over 5 days, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add onEnd to AnimatedCrossFade
+  <sub>[#181455](https://github.com/flutter/flutter/pull/181455) merged on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181455) over 2 days, 143 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Change update_engine_version documenation
   <sub>[#181508](https://github.com/flutter/flutter/pull/181508) merged on January 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181508) over 20 hours, 5 additions and 0 deletions in 2 files</sub>
