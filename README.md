@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-36 commits.
+37 commits.
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix `todayBorder` todayBorder color is incorrectly overridden by `todayForegroundColor` in CalendarDatePicker<br />
   <sub>[#178792](https://github.com/flutter/flutter/pull/178792) merged on January 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178792) over 2 months, 87 additions and 9 deletions in 4 files</sub><br />
@@ -44,17 +44,21 @@
   <sub>[#181308](https://github.com/flutter/flutter/pull/181308) merged on January 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181308) over 5 days, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool / Engine ] Cleanup x86 references<br />
-  <sub>[#181152](https://github.com/flutter/flutter/pull/181152) merged on January 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181152) over 1 week, 37 additions and 108 deletions in 11 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Change update_engine_version documenation<br />
   <sub>[#181508](https://github.com/flutter/flutter/pull/181508) merged on January 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181508) over 20 hours, 5 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Camille Simon](https://github.com/camsim99)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool / Engine ] Cleanup x86 references<br />
+  <sub>[#181152](https://github.com/flutter/flutter/pull/181152) merged on January 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181152) over 1 week, 37 additions and 108 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Christoph Prenissl](https://github.com/chris-prenissl)** &mdash; Fix Range Slider issue where indescrete ranges lead to out of range r…<br />
   <sub>[#181082](https://github.com/flutter/flutter/pull/181082) merged on January 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181082) over 1 week, 87 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[walley892](https://github.com/walley892)** &mdash; Account for vec3 padding in Metal<br />
+  <sub>[#181563](https://github.com/flutter/flutter/pull/181563) merged on January 28, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/181563) over 1 day, 233 additions and 138 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue on macOS where, after a hot restart with multiple windows, unresponsive windows are left behind.<br />
   <sub>[#180287](https://github.com/flutter/flutter/pull/180287) merged on January 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180287) over 1 month, 47 additions and 12 deletions in 4 files</sub><br />
@@ -104,10 +108,6 @@
   <sub>[#181338](https://github.com/flutter/flutter/pull/181338) merged on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181338) over 3 days, 13 additions and 15 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedAlign doesn't crash in 0x0 environment<br />
-  <sub>[#181361](https://github.com/flutter/flutter/pull/181361) merged on January 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181361) over 4 days, 18 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageIcon doesn't crash in 0x0 environment<br />
   <sub>[#181099](https://github.com/flutter/flutter/pull/181099) merged on January 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181099) over 1 week, 11 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -151,6 +151,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageFiltered doesn't crash at 0x0 environment<br />
   <sub>[#181067](https://github.com/flutter/flutter/pull/181067) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181067) over 1 week, 17 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedAlign doesn't crash in 0x0 environment<br />
+  <sub>[#181361](https://github.com/flutter/flutter/pull/181361) merged on January 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181361) over 4 days, 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 ### January 17, 2026 to January 23, 2026
 

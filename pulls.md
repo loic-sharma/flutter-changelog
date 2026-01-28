@@ -170,14 +170,11 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cross imports cleanups<br />
   <sub>[#181611](https://github.com/flutter/flutter/pull/181611) opened on on January 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181611) 340 additions and 280 deletions in 18 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump engine.version for 3.38.9.<br />
-  <sub>[#181618](https://github.com/flutter/flutter/pull/181618) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181618) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Migration: Remove material.dart dependency from framework_test.dart (Issue #177414)<br />
   <sub>[#181620](https://github.com/flutter/flutter/pull/181620) opened on on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181620) 36 additions and 28 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.54<br />
-  <sub>[#181625](https://github.com/flutter/flutter/pull/181625) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181625) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#181625](https://github.com/flutter/flutter/pull/181625) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181625) 5 additions and 5 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark `hybrid_android_views_integration_test` as bringup<br />
   <sub>[#181628](https://github.com/flutter/flutter/pull/181628) opened on on January 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181628) 0 additions and 1 deletion in 1 file</sub><br />
