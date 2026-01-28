@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-21 commits.
+23 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
@@ -42,6 +42,14 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default
   <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedPadding doesn't crash in 0x0 environment
+  <sub>[#181235](https://github.com/flutter/flutter/pull/181235) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181235) over 6 days, 20 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageFiltered doesn't crash at 0x0 environment
+  <sub>[#181067](https://github.com/flutter/flutter/pull/181067) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181067) over 1 week, 17 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedAlign doesn't crash in 0x0 environment
   <sub>[#181361](https://github.com/flutter/flutter/pull/181361) merged on January 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181361) over 4 days, 18 additions and 0 deletions in 1 file</sub>
