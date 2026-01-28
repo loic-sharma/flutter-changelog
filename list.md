@@ -701,7 +701,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-6 commits.
+7 commits.
 
 * **[celvinren](https://github.com/celvinren)** &mdash; [image_picker] Transparent pressing on iOS 26 (#173453)
   <sub>[#10533](https://github.com/flutter/packages/pull/10533) merged on January 28, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/packages/pull/10533) over 2 months, 144 additions and 7 deletions in 5 files</sub>
@@ -714,6 +714,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [shared_preferences_foundation] Migrate XCTest to Swift Testing
   <sub>[#10766](https://github.com/flutter/packages/pull/10766) merged on January 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10766) over 2 weeks, 124 additions and 124 deletions in 4 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Improve error messages when image capture fails
+  <sub>[#10846](https://github.com/flutter/packages/pull/10846) merged on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10846) over 1 week, 110 additions and 24 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Add post release label to sync_release_pr workflow
   <sub>[#10864](https://github.com/flutter/packages/pull/10864) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10864) over 3 days, 1 addition and 0 deletions in 1 file</sub>

@@ -179,3 +179,6 @@
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Migration: Remove material.dart dependency from framework_test.dart (Issue #177414)<br />
   <sub>[#181620](https://github.com/flutter/flutter/pull/181620) opened on on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181620) 36 additions and 28 deletions in 1 file</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.54<br />
+  <sub>[#181625](https://github.com/flutter/flutter/pull/181625) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181625) 1 addition and 1 deletion in 1 file</sub><br />
+
