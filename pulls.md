@@ -216,5 +216,8 @@
   <sub>[#181610](https://github.com/flutter/flutter/pull/181610) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181610) 32 additions and 0 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cross imports cleanups<br />
-  <sub>[#181611](https://github.com/flutter/flutter/pull/181611) opened on on January 28, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181611) 340 additions and 280 deletions in 18 files</sub><br />
+  <sub>[#181611](https://github.com/flutter/flutter/pull/181611) opened on on January 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181611) 340 additions and 280 deletions in 18 files</sub><br />
+
+* **[Rick Hohler](https://github.com/rickhohler)** &mdash; Cleanup legacy Material imports in test/widgets<br />
+  <sub>[#181612](https://github.com/flutter/flutter/pull/181612) opened on on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181612) 109 additions and 82 deletions in 4 files</sub><br />
 
