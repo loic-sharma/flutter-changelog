@@ -246,5 +246,5 @@
   <sub>[#181592](https://github.com/flutter/flutter/pull/181592) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181592) 22 additions and 2 deletions in 3 files</sub><br />
 
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Impeller: avoid blocking on image upload scheduling<br />
-  <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
 
