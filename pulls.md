@@ -146,9 +146,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; test: Improve DropdownMenuFormField tests<br />
   <sub>[#181369](https://github.com/flutter/flutter/pull/181369) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181369) 7 additions and 11 deletions in 1 file</sub><br />
 
-* **[August](https://github.com/Gustl22)** &mdash; feat: Pass parameters from DropdownMenuFormField to DropDownMenu<br />
-  <sub>[#181373](https://github.com/flutter/flutter/pull/181373) opened on on January 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181373) 145 additions and 0 deletions in 2 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from sliver_tree_test.dart<br />
   <sub>[#181415](https://github.com/flutter/flutter/pull/181415) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181415) 121 additions and 90 deletions in 2 files</sub><br />
 
@@ -163,9 +160,6 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_test.dart<br />
   <sub>[#181429](https://github.com/flutter/flutter/pull/181429) opened on on January 23, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/181429) 396 additions and 287 deletions in 5 files</sub><br />
-
-* **[jingweicai](https://github.com/caijw)** &mdash; perf: web ui loadFontFromList<br />
-  <sub>[#181440](https://github.com/flutter/flutter/pull/181440) opened on on January 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181440) 13 additions and 16 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from basic_test.dart<br />
   <sub>[#181444](https://github.com/flutter/flutter/pull/181444) opened on on January 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181444) 220 additions and 257 deletions in 3 files</sub><br />
@@ -206,18 +200,9 @@
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Impeller: avoid blocking on image upload scheduling<br />
   <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Fix CupertinoSheetRoute getting stuck when catching a dismiss gesture<br />
-  <sub>[#181605](https://github.com/flutter/flutter/pull/181605) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181605) 13 additions and 6 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix layout for macOS frameworks for code assets<br />
   <sub>[#181607](https://github.com/flutter/flutter/pull/181607) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181607) 21 additions and 2 deletions in 2 files</sub><br />
 
-* **[Rick Hohler](https://github.com/rickhohler)** &mdash; Add statesController to ExpansionTile<br />
-  <sub>[#181610](https://github.com/flutter/flutter/pull/181610) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181610) 32 additions and 0 deletions in 2 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cross imports cleanups<br />
   <sub>[#181611](https://github.com/flutter/flutter/pull/181611) opened on on January 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/181611) 340 additions and 280 deletions in 18 files</sub><br />
-
-* **[Rick Hohler](https://github.com/rickhohler)** &mdash; Cleanup legacy Material imports in test/widgets<br />
-  <sub>[#181612](https://github.com/flutter/flutter/pull/181612) opened on on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181612) 109 additions and 82 deletions in 4 files</sub><br />
 
