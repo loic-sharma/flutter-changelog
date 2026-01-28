@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-26 commits.
+27 commits.
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub>
@@ -50,6 +50,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Don't strip symbols from `libapp.so` on android by default
   <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code paths  in `PlatformViewsController.java`
+  <sub>[#181393](https://github.com/flutter/flutter/pull/181393) merged on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181393) over 4 days, 0 additions and 20 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; test: Clarify failure messages on gestures/debug_test.dart
   <sub>[#181109](https://github.com/flutter/flutter/pull/181109) merged on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181109) over 1 week, 1 addition and 1 deletion in 1 file</sub>
