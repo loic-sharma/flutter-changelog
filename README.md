@@ -4,20 +4,20 @@
 
 ### January 24, 2026 to January 30, 2026
 
-32 commits.
+33 commits.
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix `todayBorder` todayBorder color is incorrectly overridden by `todayForegroundColor` in CalendarDatePicker<br />
   <sub>[#178792](https://github.com/flutter/flutter/pull/178792) merged on January 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178792) over 2 months, 87 additions and 9 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
   <sub><details><summary>2 images...</summary><img width="400" src="https://github.com/user-attachments/assets/59c70071-d278-46f8-a566-40589cf01f9a"><img width="400" src="https://github.com/user-attachments/assets/a4309fb0-7360-4c11-a9c1-dd1f1ebf9190"></details></sub>
 
-* **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
-  <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks), [Valentin Vignal](https://github.com/ValentinVignal), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add RoundedSuperellipseInputBorder<br />
   <sub>[#177220](https://github.com/flutter/flutter/pull/177220) merged on January 28, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/177220) over 3 months, 580 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
+  <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks), [Valentin Vignal](https://github.com/ValentinVignal), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix remove material import box decoration test<br />
   <sub>[#181253](https://github.com/flutter/flutter/pull/181253) merged on January 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181253) over 6 days, 4 additions and 5 deletions in 2 files</sub><br />
@@ -32,6 +32,10 @@
   <sub>[#181592](https://github.com/flutter/flutter/pull/181592) merged on January 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181592) over 4 hours, 22 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add onEnd to AnimatedCrossFade<br />
+  <sub>[#181455](https://github.com/flutter/flutter/pull/181455) merged on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181455) over 2 days, 143 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Don't pass bounds to saveLayer call when painting ImageFilter<br />
   <sub>[#181353](https://github.com/flutter/flutter/pull/181353) merged on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181353) over 5 days, 62 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
@@ -39,10 +43,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks firebase_release_smoke_test to be unflaky<br />
   <sub>[#181308](https://github.com/flutter/flutter/pull/181308) merged on January 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181308) over 5 days, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add onEnd to AnimatedCrossFade<br />
-  <sub>[#181455](https://github.com/flutter/flutter/pull/181455) merged on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181455) over 2 days, 143 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Change update_engine_version documenation<br />
   <sub>[#181508](https://github.com/flutter/flutter/pull/181508) merged on January 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181508) over 20 hours, 5 additions and 0 deletions in 2 files</sub><br />
@@ -55,6 +55,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove chrome_and_driver dependency where it's not needed<br />
   <sub>[#178174](https://github.com/flutter/flutter/pull/178174) merged on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/178174) over 2 months, 1 addition and 52 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds impeller backend to skia gold client<br />
+  <sub>[#181503](https://github.com/flutter/flutter/pull/181503) merged on January 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181503) over 1 day, 25 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: Windows_mokey basic_material_app_win__compile !bringup<br />
   <sub>[#180985](https://github.com/flutter/flutter/pull/180985) merged on January 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180985) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
@@ -693,7 +697,11 @@
 
 ### January 24, 2026 to January 30, 2026
 
-5 commits.
+6 commits.
+
+* **[celvinren](https://github.com/celvinren)** &mdash; [image_picker] Transparent pressing on iOS 26 (#173453)<br />
+  <sub>[#10533](https://github.com/flutter/packages/pull/10533) merged on January 28, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/packages/pull/10533) over 2 months, 144 additions and 7 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [pigeon] Migrate XCTest to Swift Testing<br />
   <sub>[#10905](https://github.com/flutter/packages/pull/10905) merged on January 27, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/10905) over 20 hours, 462 additions and 395 deletions in 15 files</sub><br />
