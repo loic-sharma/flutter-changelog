@@ -721,7 +721,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-8 commits.
+9 commits.
 
 * **[celvinren](https://github.com/celvinren)** &mdash; [image_picker] Transparent pressing on iOS 26 (#173453)
   <sub>[#10533](https://github.com/flutter/packages/pull/10533) merged on January 28, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/packages/pull/10533) over 2 months, 144 additions and 7 deletions in 5 files</sub>
@@ -730,6 +730,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [pigeon] Migrate XCTest to Swift Testing
   <sub>[#10905](https://github.com/flutter/packages/pull/10905) merged on January 27, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/10905) over 20 hours, 462 additions and 395 deletions in 15 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [quick_actions_ios] Migrate XCTest to Swift Testing
+  <sub>[#10767](https://github.com/flutter/packages/pull/10767) merged on January 28, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/10767) over 2 weeks, 63 additions and 59 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [shared_preferences_foundation] Migrate XCTest to Swift Testing
   <sub>[#10766](https://github.com/flutter/packages/pull/10766) merged on January 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10766) over 2 weeks, 124 additions and 124 deletions in 4 files</sub>
