@@ -149,9 +149,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; feat: Pass parameters from DropdownMenuFormField to DropDownMenu<br />
   <sub>[#181373](https://github.com/flutter/flutter/pull/181373) opened on on January 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181373) 145 additions and 0 deletions in 2 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from placeholder_test.dart<br />
-  <sub>[#181410](https://github.com/flutter/flutter/pull/181410) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181410) 6 additions and 3 deletions in 2 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; remove material from scroll_position_test.dart<br />
   <sub>[#181412](https://github.com/flutter/flutter/pull/181412) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181412) 43 additions and 30 deletions in 2 files</sub><br />
 
@@ -244,4 +241,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix layout for macOS frameworks for code assets<br />
   <sub>[#181607](https://github.com/flutter/flutter/pull/181607) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181607) 21 additions and 2 deletions in 2 files</sub><br />
+
+* **[Rick Hohler](https://github.com/rickhohler)** &mdash; Add statesController to ExpansionTile<br />
+  <sub>[#181610](https://github.com/flutter/flutter/pull/181610) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181610) 32 additions and 0 deletions in 2 files</sub><br />
 
