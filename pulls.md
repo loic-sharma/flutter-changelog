@@ -93,7 +93,7 @@
   <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
-  <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds opengles to engine dart tests<br />
   <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/180704) 426 additions and 7 deletions in 6 files</sub><br />
