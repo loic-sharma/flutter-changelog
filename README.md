@@ -721,7 +721,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-7 commits.
+8 commits.
 
 * **[celvinren](https://github.com/celvinren)** &mdash; [image_picker] Transparent pressing on iOS 26 (#173453)<br />
   <sub>[#10533](https://github.com/flutter/packages/pull/10533) merged on January 28, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/packages/pull/10533) over 2 months, 144 additions and 7 deletions in 5 files</sub><br />
@@ -734,6 +734,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [shared_preferences_foundation] Migrate XCTest to Swift Testing<br />
   <sub>[#10766](https://github.com/flutter/packages/pull/10766) merged on January 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/10766) over 2 weeks, 124 additions and 124 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Improve documentation on `cameraId` parameter<br />
+  <sub>[#10844](https://github.com/flutter/packages/pull/10844) merged on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10844) over 1 week, 38 additions and 58 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Improve error messages when image capture fails<br />
   <sub>[#10846](https://github.com/flutter/packages/pull/10846) merged on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10846) over 1 week, 110 additions and 24 deletions in 10 files</sub><br />
