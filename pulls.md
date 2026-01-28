@@ -179,3 +179,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark `hybrid_android_views_integration_test` as bringup<br />
   <sub>[#181628](https://github.com/flutter/flutter/pull/181628) opened on on January 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181628) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cupertino cross imports<br />
+  <sub>[#181634](https://github.com/flutter/flutter/pull/181634) opened on on January 28, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/181634) 715 additions and 788 deletions in 12 files</sub><br />
+
