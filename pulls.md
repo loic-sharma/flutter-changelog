@@ -209,6 +209,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Extend the Windows tool_integration_tests_2_9 shard timeout to 1 hour<br />
   <sub>[#181678](https://github.com/flutter/flutter/pull/181678) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181678) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add `android_sdk` dependency to `android_engine_opengles_tests<br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add `android_sdk` dependency to `android_engine_opengles_tests`<br />
   <sub>[#181681](https://github.com/flutter/flutter/pull/181681) opened on on January 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181681) 1 addition and 0 deletions in 1 file</sub><br />
 
