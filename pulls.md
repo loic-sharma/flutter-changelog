@@ -180,7 +180,7 @@
   <sub>[#181625](https://github.com/flutter/flutter/pull/181625) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181625) 5 additions and 5 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add mechanism for setting Android engine flags via Android manifest (take 2)<br />
-  <sub>[#181632](https://github.com/flutter/flutter/pull/181632) opened on on January 28, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/181632) 1717 additions and 607 deletions in 24 files</sub><br />
+  <sub>[#181632](https://github.com/flutter/flutter/pull/181632) opened on on January 28, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/181632) 1717 additions and 607 deletions in 24 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix cross imports for all Cupertino tests<br />
   <sub>[#181634](https://github.com/flutter/flutter/pull/181634) opened on on January 28, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/181634) 882 additions and 942 deletions in 19 files</sub><br />
@@ -204,5 +204,5 @@
   <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181657) 166 additions and 183 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Send statusBarTouch events via dedicated messages<br />
-  <sub>[#181670](https://github.com/flutter/flutter/pull/181670) opened on on January 29, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181670) 304 additions and 206 deletions in 18 files</sub><br />
+  <sub>[#181670](https://github.com/flutter/flutter/pull/181670) opened on on January 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181670) 304 additions and 206 deletions in 18 files</sub><br />
 
