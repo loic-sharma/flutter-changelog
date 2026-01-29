@@ -197,3 +197,6 @@
 * **[Eren Gun](https://github.com/Erengun)** &mdash; Remove Material library dependency from expansible_test.dart<br />
   <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181657) 166 additions and 183 deletions in 2 files</sub><br />
 
+* **[Akhil George](https://github.com/akhil-ge0rge)** &mdash; Fix(Material): DateRangePicker respects DatePickerTheme.dayShape<br />
+  <sub>[#181658](https://github.com/flutter/flutter/pull/181658) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181658) 64 additions and 6 deletions in 2 files</sub><br />
+
