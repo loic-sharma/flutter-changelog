@@ -761,7 +761,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-10 commits.
+11 commits.
 
 * **[celvinren](https://github.com/celvinren)** &mdash; [image_picker] Transparent pressing on iOS 26 (#173453)
   <sub>[#10533](https://github.com/flutter/packages/pull/10533) merged on January 28, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/packages/pull/10533) over 2 months, 144 additions and 7 deletions in 5 files</sub>
@@ -786,6 +786,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Improve documentation on `cameraId` parameter
   <sub>[#10844](https://github.com/flutter/packages/pull/10844) merged on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10844) over 1 week, 38 additions and 58 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Retrieve lens direction from CameraX directly
+  <sub>[#10847](https://github.com/flutter/packages/pull/10847) merged on January 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10847) over 1 week, 151 additions and 100 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Improve error messages when image capture fails
   <sub>[#10846](https://github.com/flutter/packages/pull/10846) merged on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10846) over 1 week, 110 additions and 24 deletions in 10 files</sub>

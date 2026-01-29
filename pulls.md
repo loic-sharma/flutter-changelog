@@ -210,5 +210,8 @@
   <sub>[#181678](https://github.com/flutter/flutter/pull/181678) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181678) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add `android_sdk` dependency to `android_engine_opengles_tests`<br />
-  <sub>[#181681](https://github.com/flutter/flutter/pull/181681) opened on on January 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181681) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#181681](https://github.com/flutter/flutter/pull/181681) opened on on January 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181681) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
+  <sub>[#181686](https://github.com/flutter/flutter/pull/181686) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181686) 87 additions and 8 deletions in 10 files</sub><br />
 
