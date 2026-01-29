@@ -200,6 +200,9 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused test file<br />
   <sub>[#181671](https://github.com/flutter/flutter/pull/181671) opened on on January 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181671) 0 additions and 59 deletions in 1 file</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; [Tool] Remove redundant name fields in an enum<br />
+  <sub>[#181674](https://github.com/flutter/flutter/pull/181674) opened on on January 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181674) 0 additions and 6 deletions in 1 file</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds batch release doc for flutter/package<br />
   <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
 
