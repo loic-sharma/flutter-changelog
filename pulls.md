@@ -176,12 +176,15 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.54<br />
   <sub>[#181625](https://github.com/flutter/flutter/pull/181625) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181625) 5 additions and 5 deletions in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark `hybrid_android_views_integration_test` as bringup<br />
-  <sub>[#181628](https://github.com/flutter/flutter/pull/181628) opened on on January 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181628) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cupertino cross imports<br />
   <sub>[#181634](https://github.com/flutter/flutter/pull/181634) opened on on January 28, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/181634) 715 additions and 788 deletions in 12 files</sub><br />
 
 * **[Caden Fehr](https://github.com/CadenFehr)** &mdash; Add allow fling property fix 151223<br />
   <sub>[#181644](https://github.com/flutter/flutter/pull/181644) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181644) 79 additions and 2 deletions in 3 files</sub><br />
+
+* **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; Run Headless FlutterEngine in iOS app service extensions<br />
+  <sub>[#181645](https://github.com/flutter/flutter/pull/181645) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181645) 17 additions and 5 deletions in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks Mac_arm64_mokey entrypoint_dart_registrant unflaky<br />
+  <sub>[#181648](https://github.com/flutter/flutter/pull/181648) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181648) 0 additions and 1 deletion in 1 file</sub><br />
 
