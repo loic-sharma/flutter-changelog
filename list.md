@@ -11,7 +11,7 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Send statusBarTouch events via dedicated messages
-  <sub>[#179643](https://github.com/flutter/flutter/pull/179643) merged on January 28, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/179643) over 1 month, 304 additions and 206 deletions in 18 files</sub>
+  <sub>[#179643](https://github.com/flutter/flutter/pull/179643) merged on January 28, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/179643) over 1 month, 304 additions and 206 deletions in 18 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix `todayBorder` todayBorder color is incorrectly overridden by `todayForegroundColor` in CalendarDatePicker
@@ -61,7 +61,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool / Engine ] Cleanup x86 references
-  <sub>[#181152](https://github.com/flutter/flutter/pull/181152) merged on January 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181152) over 1 week, 37 additions and 108 deletions in 11 files</sub>
+  <sub>[#181152](https://github.com/flutter/flutter/pull/181152) merged on January 28, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181152) over 1 week, 37 additions and 108 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[walley892](https://github.com/walley892)** &mdash; Account for vec3 padding in Metal
