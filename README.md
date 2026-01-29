@@ -4,7 +4,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-40 commits.
+42 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Add animations to MenuAnchor.<br />
   <sub>[#176494](https://github.com/flutter/flutter/pull/176494) merged on January 29, 2026 &mdash; **Extra large:** [52 comments](https://github.com/flutter/flutter/pull/176494) over 3 months, 1982 additions and 75 deletions in 6 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add `alignment` to `SizeTransition`<br />
   <sub>[#177895](https://github.com/flutter/flutter/pull/177895) merged on January 26, 2026 &mdash; **Small:** [61 comments](https://github.com/flutter/flutter/pull/177895) over 2 months, 153 additions and 22 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks), [Valentin Vignal](https://github.com/ValentinVignal), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[walley892](https://github.com/walley892)** &mdash; Fixes getUniformX for Vulkan<br />
+  <sub>[#181286](https://github.com/flutter/flutter/pull/181286) merged on January 29, 2026 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/181286) over 1 week, 366 additions and 105 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Kazbek Sultanov](https://github.com/kazbeksultanov)** &mdash; Fix remove material import box decoration test<br />
   <sub>[#181253](https://github.com/flutter/flutter/pull/181253) merged on January 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181253) over 6 days, 4 additions and 5 deletions in 2 files</sub><br />
@@ -100,25 +104,21 @@
   <sub>[#181275](https://github.com/flutter/flutter/pull/181275) merged on January 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181275) over 4 days, 66 additions and 53 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[August](https://github.com/Gustl22)** &mdash; test: Improve DropdownMenuFormField tests<br />
-  <sub>[#181369](https://github.com/flutter/flutter/pull/181369) merged on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181369) over 5 days, 7 additions and 11 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[Dmytro Turskyi](https://github.com/Turskyi)** &mdash; Add isDark, isLight, and isSystem getters to ThemeMode<br />
+  <sub>[#181475](https://github.com/flutter/flutter/pull/181475) merged on January 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181475) over 3 days, 30 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Gradle path in Android Platform Embedder README.<br />
   <sub>[#181501](https://github.com/flutter/flutter/pull/181501) merged on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181501) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `ActivityLifecycleListener` class<br />
+  <sub>[#181406](https://github.com/flutter/flutter/pull/181406) merged on January 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181406) over 2 days, 0 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `PlatformViewsController.java`<br />
   <sub>[#181338](https://github.com/flutter/flutter/pull/181338) merged on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181338) over 3 days, 13 additions and 15 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageIcon doesn't crash in 0x0 environment<br />
-  <sub>[#181099](https://github.com/flutter/flutter/pull/181099) merged on January 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181099) over 1 week, 11 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedContainer doesn't crash in 0x0 environment<br />
-  <sub>[#181198](https://github.com/flutter/flutter/pull/181198) merged on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181198) over 1 week, 19 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedRotation doesn't crash in 0x0 environment<br />
   <sub>[#181486](https://github.com/flutter/flutter/pull/181486) merged on January 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181486) over 1 day, 19 additions and 0 deletions in 1 file</sub><br />
@@ -156,17 +156,25 @@
   <sub>[#181067](https://github.com/flutter/flutter/pull/181067) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181067) over 1 week, 17 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes duplicated import in accessibility test library<br />
-  <sub>[#181506](https://github.com/flutter/flutter/pull/181506) merged on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181506) over 1 hour, 4 additions and 5 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[August](https://github.com/Gustl22)** &mdash; test: Improve DropdownMenuFormField tests<br />
+  <sub>[#181369](https://github.com/flutter/flutter/pull/181369) merged on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181369) over 5 days, 7 additions and 11 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedAlign doesn't crash in 0x0 environment<br />
   <sub>[#181361](https://github.com/flutter/flutter/pull/181361) merged on January 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181361) over 4 days, 18 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `ActivityLifecycleListener` class<br />
-  <sub>[#181406](https://github.com/flutter/flutter/pull/181406) merged on January 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181406) over 2 days, 0 additions and 10 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes duplicated import in accessibility test library<br />
+  <sub>[#181506](https://github.com/flutter/flutter/pull/181506) merged on January 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181506) over 1 hour, 4 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an ImageIcon doesn't crash in 0x0 environment<br />
+  <sub>[#181099](https://github.com/flutter/flutter/pull/181099) merged on January 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181099) over 1 week, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedContainer doesn't crash in 0x0 environment<br />
+  <sub>[#181198](https://github.com/flutter/flutter/pull/181198) merged on January 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181198) over 1 week, 19 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 ### January 17, 2026 to January 23, 2026
 
