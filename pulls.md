@@ -191,3 +191,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Apply workaround for generating gradle lock files in hybrid_android_views<br />
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
 
+* **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; [Impeller] Fix fail to render pixel buffer texture on Linux<br />
+  <sub>[#181656](https://github.com/flutter/flutter/pull/181656) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181656) 4 additions and 1 deletion in 1 file</sub><br />
+
+* **[Eren Gun](https://github.com/Erengun)** &mdash; refactor: Remove Material library dependency from expansible_test.dart<br />
+  <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181657) 67 additions and 61 deletions in 1 file</sub><br />
+
