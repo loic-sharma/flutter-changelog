@@ -203,3 +203,6 @@
 * **[Akhil George](https://github.com/akhil-ge0rge)** &mdash; Fix(Material): DateRangePicker ignores DatePickerTheme.dayShape<br />
   <sub>[#181658](https://github.com/flutter/flutter/pull/181658) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181658) 64 additions and 5 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog for 3.38.9<br />
+  <sub>[#181668](https://github.com/flutter/flutter/pull/181668) opened on on January 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181668) 4 additions and 0 deletions in 1 file</sub><br />
+
