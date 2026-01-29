@@ -176,7 +176,7 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.54<br />
   <sub>[#181625](https://github.com/flutter/flutter/pull/181625) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181625) 5 additions and 5 deletions in 2 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cupertino cross imports<br />
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix cross imports for all Cupertino tests<br />
   <sub>[#181634](https://github.com/flutter/flutter/pull/181634) opened on on January 28, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/181634) 882 additions and 942 deletions in 19 files</sub><br />
 
 * **[Caden Fehr](https://github.com/CadenFehr)** &mdash; Add allow fling property fix 151223<br />
