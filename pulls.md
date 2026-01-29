@@ -177,7 +177,7 @@
   <sub>[#181625](https://github.com/flutter/flutter/pull/181625) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181625) 5 additions and 5 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cupertino cross imports<br />
-  <sub>[#181634](https://github.com/flutter/flutter/pull/181634) opened on on January 28, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/181634) 715 additions and 788 deletions in 12 files</sub><br />
+  <sub>[#181634](https://github.com/flutter/flutter/pull/181634) opened on on January 28, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/181634) 882 additions and 942 deletions in 19 files</sub><br />
 
 * **[Caden Fehr](https://github.com/CadenFehr)** &mdash; Add allow fling property fix 151223<br />
   <sub>[#181644](https://github.com/flutter/flutter/pull/181644) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181644) 79 additions and 2 deletions in 3 files</sub><br />
