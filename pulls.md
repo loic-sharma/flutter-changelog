@@ -122,9 +122,6 @@
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/list_tile.dart<br />
   <sub>[#181243](https://github.com/flutter/flutter/pull/181243) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181243) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in material/dialog.dart<br />
-  <sub>[#181244](https://github.com/flutter/flutter/pull/181244) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181244) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
 
@@ -155,15 +152,6 @@
 * **[Patel Bhavy ](https://github.com/bhavypatel5391)** &mdash; Grammar<br />
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
-  <sub>[#181574](https://github.com/flutter/flutter/pull/181574) opened on on January 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181574) 124 additions and 45 deletions in 7 files</sub><br />
-
-* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware spread in cupertino/app.dart<br />
-  <sub>[#181585](https://github.com/flutter/flutter/pull/181585) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181585) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware spread in material/app.dart<br />
-  <sub>[#181586](https://github.com/flutter/flutter/pull/181586) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181586) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Impeller: avoid blocking on image upload scheduling<br />
   <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
 
@@ -173,17 +161,11 @@
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Migration: Remove material.dart dependency from framework_test.dart (Issue #177414)<br />
   <sub>[#181620](https://github.com/flutter/flutter/pull/181620) opened on on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181620) 36 additions and 28 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll libpng to version 1.6.54<br />
-  <sub>[#181625](https://github.com/flutter/flutter/pull/181625) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181625) 5 additions and 5 deletions in 2 files</sub><br />
-
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add mechanism for setting Android engine flags via Android manifest (take 2)<br />
   <sub>[#181632](https://github.com/flutter/flutter/pull/181632) opened on on January 28, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/181632) 1717 additions and 607 deletions in 24 files</sub><br />
 
 * **[Caden Fehr](https://github.com/CadenFehr)** &mdash; Add allow fling property fix 151223<br />
   <sub>[#181644](https://github.com/flutter/flutter/pull/181644) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181644) 79 additions and 2 deletions in 3 files</sub><br />
-
-* **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; Run Headless FlutterEngine in iOS app service extensions<br />
-  <sub>[#181645](https://github.com/flutter/flutter/pull/181645) opened on on January 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181645) 16 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks Mac_arm64_mokey entrypoint_dart_registrant unflaky<br />
   <sub>[#181648](https://github.com/flutter/flutter/pull/181648) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181648) 0 additions and 1 deletion in 1 file</sub><br />
@@ -195,10 +177,7 @@
   <sub>[#181656](https://github.com/flutter/flutter/pull/181656) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181656) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Eren Gun](https://github.com/Erengun)** &mdash; Remove Material library dependency from expansible_test.dart<br />
-  <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181657) 166 additions and 183 deletions in 2 files</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused test file<br />
-  <sub>[#181671](https://github.com/flutter/flutter/pull/181671) opened on on January 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181671) 0 additions and 59 deletions in 1 file</sub><br />
+  <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181657) 166 additions and 183 deletions in 2 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; [Tool] Remove redundant name fields in an enum<br />
   <sub>[#181674](https://github.com/flutter/flutter/pull/181674) opened on on January 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181674) 0 additions and 6 deletions in 1 file</sub><br />
@@ -213,5 +192,5 @@
   <sub>[#181681](https://github.com/flutter/flutter/pull/181681) opened on on January 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181681) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
-  <sub>[#181686](https://github.com/flutter/flutter/pull/181686) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181686) 87 additions and 8 deletions in 10 files</sub><br />
+  <sub>[#181686](https://github.com/flutter/flutter/pull/181686) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181686) 87 additions and 9 deletions in 10 files</sub><br />
 
