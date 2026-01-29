@@ -162,7 +162,7 @@
   <sub>[#181585](https://github.com/flutter/flutter/pull/181585) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181585) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware spread in material/app.dart<br />
-  <sub>[#181586](https://github.com/flutter/flutter/pull/181586) opened on on January 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181586) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#181586](https://github.com/flutter/flutter/pull/181586) opened on on January 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181586) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Impeller: avoid blocking on image upload scheduling<br />
   <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
@@ -201,8 +201,11 @@
   <sub>[#181670](https://github.com/flutter/flutter/pull/181670) opened on on January 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181670) 304 additions and 206 deletions in 18 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused test file<br />
-  <sub>[#181671](https://github.com/flutter/flutter/pull/181671) opened on on January 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181671) 0 additions and 59 deletions in 1 file</sub><br />
+  <sub>[#181671](https://github.com/flutter/flutter/pull/181671) opened on on January 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181671) 0 additions and 59 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds batch release doc for flutter/package<br />
-  <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Extend the Windows tool_integration_tests_2_9 shard timeout to 1 hour<br />
+  <sub>[#181678](https://github.com/flutter/flutter/pull/181678) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181678) 1 addition and 1 deletion in 1 file</sub><br />
 
