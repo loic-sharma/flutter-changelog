@@ -15,7 +15,7 @@
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Deprecate onReorder callback<br />
-  <sub>[#178242](https://github.com/flutter/flutter/pull/178242) merged on January 29, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/178242) over 2 months, 798 additions and 186 deletions in 11 files</sub><br />
+  <sub>[#178242](https://github.com/flutter/flutter/pull/178242) merged on January 29, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/178242) over 2 months, 798 additions and 186 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix `todayBorder` todayBorder color is incorrectly overridden by `todayForegroundColor` in CalendarDatePicker<br />
