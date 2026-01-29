@@ -120,7 +120,7 @@
   <sub>[#181242](https://github.com/flutter/flutter/pull/181242) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181242) 1 addition and 4 deletions in 1 file</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/list_tile.dart<br />
-  <sub>[#181243](https://github.com/flutter/flutter/pull/181243) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181243) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#181243](https://github.com/flutter/flutter/pull/181243) opened on on January 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181243) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in material/dialog.dart<br />
   <sub>[#181244](https://github.com/flutter/flutter/pull/181244) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181244) 1 addition and 1 deletion in 1 file</sub><br />
