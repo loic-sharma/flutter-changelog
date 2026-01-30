@@ -222,7 +222,7 @@
   <sub>[#181716](https://github.com/flutter/flutter/pull/181716) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181716) 29 additions and 3 deletions in 2 files</sub><br />
 
 * **[prinsh-canary](https://github.com/prinsh-canary)** &mdash; Fixed keyboard assertion crash during app startup and added tests<br />
-  <sub>[#181719](https://github.com/flutter/flutter/pull/181719) opened on on January 30, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181719) 322 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#181719](https://github.com/flutter/flutter/pull/181719) opened on on January 30, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181719) 303 additions and 5 deletions in 2 files</sub><br />
 
 * **[nmarci89](https://github.com/westito)** &mdash; Fix P3-to-sRGB color conversion to operate in linear light<br />
   <sub>[#181720](https://github.com/flutter/flutter/pull/181720) opened on on January 30, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181720) 261 additions and 70 deletions in 4 files</sub><br />
