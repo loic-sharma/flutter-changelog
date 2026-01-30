@@ -189,13 +189,13 @@
   <sub>[#181686](https://github.com/flutter/flutter/pull/181686) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181686) 106 additions and 10 deletions in 11 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from ticker mode test<br />
-  <sub>[#181696](https://github.com/flutter/flutter/pull/181696) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181696) 227 additions and 6 deletions in 4 files</sub><br />
+  <sub>[#181696](https://github.com/flutter/flutter/pull/181696) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181696) 230 additions and 6 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from ticker provider test<br />
-  <sub>[#181697](https://github.com/flutter/flutter/pull/181697) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181697) 265 additions and 9 deletions in 4 files</sub><br />
+  <sub>[#181697](https://github.com/flutter/flutter/pull/181697) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181697) 268 additions and 9 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from actions test<br />
-  <sub>[#181702](https://github.com/flutter/flutter/pull/181702) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181702) 34 additions and 79 deletions in 2 files</sub><br />
+  <sub>[#181702](https://github.com/flutter/flutter/pull/181702) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181702) 32 additions and 103 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove obsolete null checks from style guide<br />
   <sub>[#181703](https://github.com/flutter/flutter/pull/181703) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181703) 3 additions and 4 deletions in 1 file</sub><br />
@@ -213,8 +213,8 @@
   <sub>[#181707](https://github.com/flutter/flutter/pull/181707) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181707) 7 additions and 9 deletions in 9 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from Modal barrier tests<br />
-  <sub>[#181708](https://github.com/flutter/flutter/pull/181708) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181708) 244 additions and 26 deletions in 4 files</sub><br />
+  <sub>[#181708](https://github.com/flutter/flutter/pull/181708) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181708) 246 additions and 25 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material imports from Inherited Model<br />
-  <sub>[#181709](https://github.com/flutter/flutter/pull/181709) opened on on January 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181709) 391 additions and 181 deletions in 4 files</sub><br />
+  <sub>[#181709](https://github.com/flutter/flutter/pull/181709) opened on on January 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181709) 393 additions and 180 deletions in 4 files</sub><br />
 
