@@ -233,3 +233,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Ensure content-sizing resize is run on UI thread<br />
   <sub>[#181732](https://github.com/flutter/flutter/pull/181732) opened on on January 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181732) 106 additions and 10 deletions in 11 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix type conversion warnings seen on Windows when Impeller GL API wrappers log arguments with function types<br />
+  <sub>[#181734](https://github.com/flutter/flutter/pull/181734) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181734) 16 additions and 4 deletions in 2 files</sub><br />
+
