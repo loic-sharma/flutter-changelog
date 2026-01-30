@@ -798,7 +798,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-12 commits.
+13 commits.
 
 * **[celvinren](https://github.com/celvinren)** &mdash; [image_picker] Transparent pressing on iOS 26 (#173453)
   <sub>[#10533](https://github.com/flutter/packages/pull/10533) merged on January 28, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/packages/pull/10533) over 2 months, 144 additions and 7 deletions in 5 files</sub>
@@ -807,6 +807,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [pigeon] Migrate XCTest to Swift Testing
   <sub>[#10905](https://github.com/flutter/packages/pull/10905) merged on January 27, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/10905) over 20 hours, 462 additions and 395 deletions in 15 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Raju Muliyashiya](https://github.com/raju-muliyashiya)** &mdash; [cross_file] [web] Separate "Save As" implementation details from XFile web class
+  <sub>[#10397](https://github.com/flutter/packages/pull/10397) merged on January 30, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/10397) over 2 months, 57 additions and 57 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Adjust error message when `downgrade` fails
   <sub>[#10734](https://github.com/flutter/packages/pull/10734) merged on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10734) over 3 weeks, 4 additions and 2 deletions in 2 files</sub>
