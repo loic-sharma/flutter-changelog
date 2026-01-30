@@ -210,7 +210,7 @@
   <sub>[#181706](https://github.com/flutter/flutter/pull/181706) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181706) 23 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Export `ValueListenable` in widgets library<br />
-  <sub>[#181707](https://github.com/flutter/flutter/pull/181707) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181707) 7 additions and 9 deletions in 9 files</sub><br />
+  <sub>[#181707](https://github.com/flutter/flutter/pull/181707) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181707) 7 additions and 9 deletions in 9 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from Modal barrier tests<br />
   <sub>[#181708](https://github.com/flutter/flutter/pull/181708) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181708) 246 additions and 25 deletions in 4 files</sub><br />
