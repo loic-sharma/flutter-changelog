@@ -234,5 +234,5 @@
   <sub>[#181722](https://github.com/flutter/flutter/pull/181722) opened on on January 30, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181722) 221 additions and 121 deletions in 4 files</sub><br />
 
 * **[Nurda](https://github.com/yeltayev22)** &mdash; Replace MaterialApp with TestWidgetsApp in placeholder_test.dart<br />
-  <sub>[#181723](https://github.com/flutter/flutter/pull/181723) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181723) 4 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#181723](https://github.com/flutter/flutter/pull/181723) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181723) 4 additions and 3 deletions in 2 files</sub><br />
 
