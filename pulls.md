@@ -138,7 +138,7 @@
   <sub>[#181421](https://github.com/flutter/flutter/pull/181421) opened on on January 23, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/181421) 353 additions and 329 deletions in 19 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from basic_test.dart<br />
-  <sub>[#181444](https://github.com/flutter/flutter/pull/181444) opened on on January 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181444) 220 additions and 257 deletions in 3 files</sub><br />
+  <sub>[#181444](https://github.com/flutter/flutter/pull/181444) opened on on January 24, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/181444) 220 additions and 257 deletions in 3 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart<br />
   <sub>[#181465](https://github.com/flutter/flutter/pull/181465) opened on on January 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181465) 296 additions and 468 deletions in 2 files</sub><br />
@@ -231,7 +231,7 @@
   <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
 
 * **[rizwan-saleem](https://github.com/rizwan-saleem)** &mdash; Remove Material Dependency from `semantics_debugger_test`<br />
-  <sub>[#181722](https://github.com/flutter/flutter/pull/181722) opened on on January 30, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181722) 221 additions and 121 deletions in 4 files</sub><br />
+  <sub>[#181722](https://github.com/flutter/flutter/pull/181722) opened on on January 30, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181722) 215 additions and 121 deletions in 4 files</sub><br />
 
 * **[Nurda](https://github.com/yeltayev22)** &mdash; Replace MaterialApp with TestWidgetsApp in placeholder_test.dart<br />
   <sub>[#181723](https://github.com/flutter/flutter/pull/181723) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181723) 4 additions and 3 deletions in 2 files</sub><br />
