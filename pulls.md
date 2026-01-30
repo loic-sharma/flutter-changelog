@@ -227,3 +227,6 @@
 * **[nmarci89](https://github.com/westito)** &mdash; Fix P3-to-sRGB color conversion to operate in linear light<br />
   <sub>[#181720](https://github.com/flutter/flutter/pull/181720) opened on on January 30, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181720) 261 additions and 70 deletions in 4 files</sub><br />
 
+* **[rizwan-saleem](https://github.com/rizwan-saleem)** &mdash; Remove Material Dependency from `semantics_debugger_test`<br />
+  <sub>[#181722](https://github.com/flutter/flutter/pull/181722) opened on on January 30, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/181722) 223 additions and 120 deletions in 3 files</sub><br />
+
