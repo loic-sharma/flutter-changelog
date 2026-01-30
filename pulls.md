@@ -204,7 +204,7 @@
   <sub>[#181704](https://github.com/flutter/flutter/pull/181704) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181704) 27 additions and 28 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove `DisposableBuildContext` type argument<br />
-  <sub>[#181705](https://github.com/flutter/flutter/pull/181705) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181705) 15 additions and 19 deletions in 4 files</sub><br />
+  <sub>[#181705](https://github.com/flutter/flutter/pull/181705) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181705) 15 additions and 19 deletions in 4 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Bugfix in the `absorbTicker` method<br />
   <sub>[#181706](https://github.com/flutter/flutter/pull/181706) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181706) 23 additions and 1 deletion in 2 files</sub><br />
