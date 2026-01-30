@@ -185,9 +185,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds batch release doc for flutter/package<br />
   <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Extend the Windows tool_integration_tests_2_9 shard timeout to 1 hour<br />
-  <sub>[#181678](https://github.com/flutter/flutter/pull/181678) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181678) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
   <sub>[#181686](https://github.com/flutter/flutter/pull/181686) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181686) 106 additions and 10 deletions in 11 files</sub><br />
 
