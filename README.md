@@ -793,7 +793,7 @@
 
 ### January 24, 2026 to January 30, 2026
 
-11 commits.
+12 commits.
 
 * **[celvinren](https://github.com/celvinren)** &mdash; [image_picker] Transparent pressing on iOS 26 (#173453)<br />
   <sub>[#10533](https://github.com/flutter/packages/pull/10533) merged on January 28, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/packages/pull/10533) over 2 months, 144 additions and 7 deletions in 5 files</sub><br />
@@ -834,6 +834,10 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Replace pub run with dart run<br />
   <sub>[#10849](https://github.com/flutter/packages/pull/10849) merged on January 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10849) over 4 days, 3 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from bd7a4a6b5576 to 67323de285b0 (3 revisions)<br />
+  <sub>[#10924](https://github.com/flutter/packages/pull/10924) merged on January 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/10924) over 8 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 8b872868494e to bd7a4a6b5576 (6 revisions)<br />
   <sub>[#10913](https://github.com/flutter/packages/pull/10913) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10913) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
