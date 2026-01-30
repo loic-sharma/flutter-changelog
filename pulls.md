@@ -224,9 +224,6 @@
 * **[prinsh-canary](https://github.com/prinsh-canary)** &mdash; Fixed keyboard assertion crash during app startup and added tests<br />
   <sub>[#181719](https://github.com/flutter/flutter/pull/181719) opened on on January 30, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181719) 303 additions and 5 deletions in 2 files</sub><br />
 
-* **[nmarci89](https://github.com/westito)** &mdash; Fix P3-to-sRGB color conversion to operate in linear light<br />
-  <sub>[#181720](https://github.com/flutter/flutter/pull/181720) opened on on January 30, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181720) 380 additions and 96 deletions in 5 files</sub><br />
-
 * **[Ilyosbek Ibrokhimov](https://github.com/ilyosbek22)** &mdash; remove MaterialApp import from raw_radio_test.dart<br />
   <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
 
