@@ -230,3 +230,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Ensure content-sizing resize is run on UI thread<br />
   <sub>[#181732](https://github.com/flutter/flutter/pull/181732) opened on on January 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181732) 106 additions and 10 deletions in 11 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Re-enable AddressSanitizer on the linux_unopt builder<br />
+  <sub>[#181741](https://github.com/flutter/flutter/pull/181741) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181741) 1 addition and 0 deletions in 1 file</sub><br />
+
