@@ -188,3 +188,27 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure content-sizing resize is run on UI thread<br />
   <sub>[#181686](https://github.com/flutter/flutter/pull/181686) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181686) 106 additions and 10 deletions in 11 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add routes support in TestWidgetsApp<br />
+  <sub>[#181695](https://github.com/flutter/flutter/pull/181695) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181695) 223 additions and 3 deletions in 2 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from ticker mode test<br />
+  <sub>[#181696](https://github.com/flutter/flutter/pull/181696) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181696) 227 additions and 5 deletions in 3 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from ticker provider test<br />
+  <sub>[#181697](https://github.com/flutter/flutter/pull/181697) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181697) 265 additions and 8 deletions in 3 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from actions test<br />
+  <sub>[#181702](https://github.com/flutter/flutter/pull/181702) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181702) 34 additions and 78 deletions in 1 file</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove obsolete null checks from style guide<br />
+  <sub>[#181703](https://github.com/flutter/flutter/pull/181703) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181703) 3 additions and 4 deletions in 1 file</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Bugfix in the `absorbTicker` method<br />
+  <sub>[#181706](https://github.com/flutter/flutter/pull/181706) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181706) 23 additions and 1 deletion in 2 files</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Export `ValueListenable` in widgets library<br />
+  <sub>[#181707](https://github.com/flutter/flutter/pull/181707) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181707) 7 additions and 9 deletions in 9 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from Modal barrier tests<br />
+  <sub>[#181708](https://github.com/flutter/flutter/pull/181708) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181708) 244 additions and 25 deletions in 3 files</sub><br />
+
