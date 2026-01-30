@@ -218,3 +218,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material imports from Inherited Model<br />
   <sub>[#181709](https://github.com/flutter/flutter/pull/181709) opened on on January 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181709) 393 additions and 180 deletions in 4 files</sub><br />
 
+* **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error<br />
+  <sub>[#181716](https://github.com/flutter/flutter/pull/181716) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181716) 29 additions and 3 deletions in 2 files</sub><br />
+
