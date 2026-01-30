@@ -140,9 +140,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart<br />
   <sub>[#181465](https://github.com/flutter/flutter/pull/181465) opened on on January 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181465) 296 additions and 468 deletions in 2 files</sub><br />
 
-* **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Add keyboard support for RangeSlider<br />
-  <sub>[#181525](https://github.com/flutter/flutter/pull/181525) opened on on January 27, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181525) 518 additions and 32 deletions in 2 files</sub><br />
-
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot. [reland]<br />
   <sub>[#181539](https://github.com/flutter/flutter/pull/181539) opened on on January 27, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181539) 111 additions and 328 deletions in 4 files</sub><br />
 
