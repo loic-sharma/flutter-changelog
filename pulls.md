@@ -204,7 +204,7 @@
   <sub>[#181706](https://github.com/flutter/flutter/pull/181706) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181706) 23 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Export `ValueListenable` in widgets library<br />
-  <sub>[#181707](https://github.com/flutter/flutter/pull/181707) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181707) 7 additions and 9 deletions in 9 files</sub><br />
+  <sub>[#181707](https://github.com/flutter/flutter/pull/181707) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181707) 7 additions and 9 deletions in 9 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from Modal barrier tests<br />
   <sub>[#181708](https://github.com/flutter/flutter/pull/181708) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181708) 246 additions and 25 deletions in 4 files</sub><br />
@@ -232,4 +232,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Re-enable AddressSanitizer on the linux_unopt builder<br />
   <sub>[#181741](https://github.com/flutter/flutter/pull/181741) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181741) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Add buffer around rerasterized input to fragment shaders to maintain coordinate space when clipped<br />
+  <sub>[#181743](https://github.com/flutter/flutter/pull/181743) opened on on January 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181743) 82 additions and 1 deletion in 2 files</sub><br />
 
