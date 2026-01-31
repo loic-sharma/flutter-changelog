@@ -237,5 +237,5 @@
   <sub>[#181743](https://github.com/flutter/flutter/pull/181743) opened on on January 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181743) 82 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ahmet Aydın](https://github.com/ahmtydn)** &mdash; Fix nested scrollable gesture propagation<br />
-  <sub>[#181761](https://github.com/flutter/flutter/pull/181761) opened on on January 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181761) 294 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#181761](https://github.com/flutter/flutter/pull/181761) opened on on January 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181761) 295 additions and 0 deletions in 2 files</sub><br />
 
