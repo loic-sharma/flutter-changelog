@@ -50,7 +50,7 @@
   <sub><details><summary>1 image...</summary>![talabat.com](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
 
 * **[nmarci89](https://github.com/westito)** &mdash; Fix P3-to-sRGB color conversion to operate in linear light
-  <sub>[#181720](https://github.com/flutter/flutter/pull/181720) merged on January 30, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/181720) over 10 hours, 380 additions and 96 deletions in 5 files</sub>
+  <sub>[#181720](https://github.com/flutter/flutter/pull/181720) merged on January 30, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/181720) over 10 hours, 380 additions and 96 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[walley892](https://github.com/walley892)** &mdash; Fixes getUniformX for Vulkan
