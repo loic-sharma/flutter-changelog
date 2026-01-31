@@ -209,8 +209,8 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from Modal barrier tests<br />
   <sub>[#181708](https://github.com/flutter/flutter/pull/181708) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181708) 246 additions and 25 deletions in 4 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material imports from Inherited Model<br />
-  <sub>[#181709](https://github.com/flutter/flutter/pull/181709) opened on on January 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181709) 393 additions and 180 deletions in 4 files</sub><br />
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material imports from Inherited Model, Magnifier, SafeArea, UndoHistory, Navigator and Layers test<br />
+  <sub>[#181709](https://github.com/flutter/flutter/pull/181709) opened on on January 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181709) 454 additions and 241 deletions in 8 files</sub><br />
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error<br />
   <sub>[#181716](https://github.com/flutter/flutter/pull/181716) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181716) 29 additions and 3 deletions in 2 files</sub><br />
@@ -234,5 +234,5 @@
   <sub>[#181741](https://github.com/flutter/flutter/pull/181741) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181741) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Add buffer around rerasterized input to fragment shaders to maintain coordinate space when clipped<br />
-  <sub>[#181743](https://github.com/flutter/flutter/pull/181743) opened on on January 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181743) 82 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#181743](https://github.com/flutter/flutter/pull/181743) opened on on January 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181743) 82 additions and 1 deletion in 2 files</sub><br />
 
