@@ -89,12 +89,16 @@
   <sub>[#181624](https://github.com/flutter/flutter/pull/181624) merged on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181624) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; update GLFW to latest and use EGL context creation on linux<br />
-  <sub>[#181259](https://github.com/flutter/flutter/pull/181259) merged on January 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181259) over 1 week, 10 additions and 3 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Split debug info into `.dsym` files<br />
+  <sub>[#181533](https://github.com/flutter/flutter/pull/181533) merged on January 30, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/181533) over 3 days, 280 additions and 37 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add ccache support for custom toolchain<br />
-  <sub>[#180737](https://github.com/flutter/flutter/pull/180737) merged on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180737) over 3 weeks, 7 additions and 2 deletions in 1 file</sub><br />
+* **[walley892](https://github.com/walley892)** &mdash; Account for vec3 padding in Metal<br />
+  <sub>[#181563](https://github.com/flutter/flutter/pull/181563) merged on January 28, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/181563) over 1 day, 233 additions and 138 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; enable enhanced debugging for GLES playground<br />
+  <sub>[#181157](https://github.com/flutter/flutter/pull/181157) merged on January 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181157) over 1 week, 23 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool / Engine ] Cleanup x86 references<br />
@@ -105,17 +109,17 @@
   <sub>[#181686](https://github.com/flutter/flutter/pull/181686) merged on January 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181686) over 20 hours, 106 additions and 10 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; enable enhanced debugging for GLES playground<br />
-  <sub>[#181157](https://github.com/flutter/flutter/pull/181157) merged on January 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181157) over 1 week, 23 additions and 0 deletions in 2 files</sub><br />
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update New Android API Docs<br />
+  <sub>[#180604](https://github.com/flutter/flutter/pull/180604) merged on January 30, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180604) over 3 weeks, 165 additions and 106 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; update GLFW to latest and use EGL context creation on linux<br />
+  <sub>[#181259](https://github.com/flutter/flutter/pull/181259) merged on January 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181259) over 1 week, 10 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Anish Tiwari](https://github.com/AnishTiwari5077)** &mdash; 180162 fix radio list tile and switch list tile accept widget states controller<br />
-  <sub>[#180367](https://github.com/flutter/flutter/pull/180367) merged on January 29, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180367) over 1 month, 86 additions and 0 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
-* **[walley892](https://github.com/walley892)** &mdash; Account for vec3 padding in Metal<br />
-  <sub>[#181563](https://github.com/flutter/flutter/pull/181563) merged on January 28, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/181563) over 1 day, 233 additions and 138 deletions in 15 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add stacktrace support when requested for host builds<br />
+  <sub>[#181264](https://github.com/flutter/flutter/pull/181264) merged on January 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181264) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Change update_engine_version documenation<br />
   <sub>[#181508](https://github.com/flutter/flutter/pull/181508) merged on January 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181508) over 20 hours, 5 additions and 0 deletions in 2 files</sub><br />
@@ -125,17 +129,13 @@
   <sub>[#181082](https://github.com/flutter/flutter/pull/181082) merged on January 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181082) over 1 week, 87 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update New Android API Docs<br />
-  <sub>[#180604](https://github.com/flutter/flutter/pull/180604) merged on January 30, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180604) over 3 weeks, 165 additions and 106 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add stacktrace support when requested for host builds<br />
-  <sub>[#181264](https://github.com/flutter/flutter/pull/181264) merged on January 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181264) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; add ccache support for custom toolchain<br />
+  <sub>[#180737](https://github.com/flutter/flutter/pull/180737) merged on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180737) over 3 weeks, 7 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Split debug info into `.dsym` files<br />
-  <sub>[#181533](https://github.com/flutter/flutter/pull/181533) merged on January 30, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/181533) over 3 days, 280 additions and 37 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Anish Tiwari](https://github.com/AnishTiwari5077)** &mdash; 180162 fix radio list tile and switch list tile accept widget states controller<br />
+  <sub>[#180367](https://github.com/flutter/flutter/pull/180367) merged on January 29, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180367) over 1 month, 86 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue on macOS where, after a hot restart with multiple windows, unresponsive windows are left behind.<br />
   <sub>[#180287](https://github.com/flutter/flutter/pull/180287) merged on January 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180287) over 1 month, 47 additions and 12 deletions in 4 files</sub><br />
