@@ -243,5 +243,5 @@
   <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/181774) 315 additions and 391 deletions in 12 files</sub><br />
 
 * **[sangeerth Bs](https://github.com/hackersbs)** &mdash; Fix: Handle division by zero in unit_coverage tool<br />
-  <sub>[#181798](https://github.com/flutter/flutter/pull/181798) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181798) 138 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#181798](https://github.com/flutter/flutter/pull/181798) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181798) 139 additions and 7 deletions in 3 files</sub><br />
 
