@@ -242,3 +242,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix wrong comment about default impeller value<br />
   <sub>[#181831](https://github.com/flutter/flutter/pull/181831) opened on on February 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181831) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Shortcuts] Improve focus node debug labels<br />
+  <sub>[#181834](https://github.com/flutter/flutter/pull/181834) opened on on February 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181834) 26 additions and 2 deletions in 2 files</sub><br />
+
