@@ -5,17 +5,11 @@
 * **[Mo Luo](https://github.com/moluopro)** &mdash; Fix: use 'exit' instead of 'return' for curlExitCode<br />
   <sub>[#175025](https://github.com/flutter/flutter/pull/175025) opened on on September 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175025) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[eevanlai-stack](https://github.com/eevanlai-stack)** &mdash; Create devcontainer.json<br />
-  <sub>[#175475](https://github.com/flutter/flutter/pull/175475) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175475) 18 additions and 0 deletions in 1 file</sub><br />
-
-* **[eevanlai-stack](https://github.com/eevanlai-stack)** &mdash; Create devcontainer.json<br />
-  <sub>[#175477](https://github.com/flutter/flutter/pull/175477) opened on on September 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175477) 4 additions and 0 deletions in 1 file</sub><br />
-
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README<br />
-  <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#175587](https://github.com/flutter/flutter/pull/175587) opened on on September 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175587) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
@@ -137,9 +131,6 @@
 * **[Patel Bhavy ](https://github.com/bhavypatel5391)** &mdash; Grammar<br />
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix layout for macOS frameworks for code assets<br />
-  <sub>[#181607](https://github.com/flutter/flutter/pull/181607) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181607) 21 additions and 2 deletions in 2 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Clean up cross imports in single_child_scroll_view_test.dart, decorated_sliver_test.dart, draggable_scrollable_sheet_test.dart<br />
   <sub>[#181613](https://github.com/flutter/flutter/pull/181613) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181613) 139 additions and 152 deletions in 5 files</sub><br />
 
@@ -162,7 +153,7 @@
   <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181657) 44 additions and 52 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor accessibility guidelines out to widget layer<br />
-  <sub>[#181672](https://github.com/flutter/flutter/pull/181672) opened on on January 29, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/181672) 877 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#181672](https://github.com/flutter/flutter/pull/181672) opened on on January 29, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/181672) 877 additions and 0 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds batch release doc for flutter/package<br />
   <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
