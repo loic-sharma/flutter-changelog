@@ -240,5 +240,5 @@
   <sub>[#181761](https://github.com/flutter/flutter/pull/181761) opened on on January 31, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/181761) 309 additions and 0 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart<br />
-  <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/181774) 260 additions and 314 deletions in 12 files</sub><br />
+  <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181774) 260 additions and 314 deletions in 12 files</sub><br />
 
