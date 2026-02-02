@@ -213,7 +213,7 @@
   <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
 
 * **[rizwan-saleem](https://github.com/rizwan-saleem)** &mdash; Remove Material Dependency from `semantics_debugger_test`<br />
-  <sub>[#181722](https://github.com/flutter/flutter/pull/181722) opened on on January 30, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/181722) 215 additions and 121 deletions in 4 files</sub><br />
+  <sub>[#181722](https://github.com/flutter/flutter/pull/181722) opened on on January 30, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/181722) 215 additions and 121 deletions in 4 files</sub><br />
 
 * **[Nurda](https://github.com/yeltayev22)** &mdash; Replace MaterialApp with TestWidgetsApp in placeholder_test.dart<br />
   <sub>[#181723](https://github.com/flutter/flutter/pull/181723) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181723) 4 additions and 3 deletions in 2 files</sub><br />
@@ -244,4 +244,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add exception to log message in ContentSizingFlag.java<br />
   <sub>[#181813](https://github.com/flutter/flutter/pull/181813) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181813) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[sangeerth Bs](https://github.com/hackersbs)** &mdash; Fix/merge bug docs<br />
+  <sub>[#181815](https://github.com/flutter/flutter/pull/181815) opened on on February 2, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181815) 1299 additions and 6 deletions in 10 files</sub><br />
 
