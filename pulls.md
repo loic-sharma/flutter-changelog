@@ -120,7 +120,7 @@
   <sub>[#181242](https://github.com/flutter/flutter/pull/181242) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181242) 1 addition and 4 deletions in 1 file</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/list_tile.dart<br />
-  <sub>[#181243](https://github.com/flutter/flutter/pull/181243) opened on on January 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181243) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#181243](https://github.com/flutter/flutter/pull/181243) opened on on January 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181243) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
@@ -247,4 +247,7 @@
 
 * **[Nurda](https://github.com/yeltayev22)** &mdash; Cleanup cross imports<br />
   <sub>[#181807](https://github.com/flutter/flutter/pull/181807) opened on on February 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181807) 9 additions and 7 deletions in 3 files</sub><br />
+
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress indicator to artifact downloads<br />
+  <sub>[#181808](https://github.com/flutter/flutter/pull/181808) opened on on February 2, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/181808) 335 additions and 56 deletions in 3 files</sub><br />
 
