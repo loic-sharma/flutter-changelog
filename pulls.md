@@ -161,6 +161,9 @@
 * **[Eren Gun](https://github.com/Erengun)** &mdash; Remove Material library dependency from expansible_test.dart<br />
   <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181657) 44 additions and 52 deletions in 2 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor accessibility guidelines out to widget layer<br />
+  <sub>[#181672](https://github.com/flutter/flutter/pull/181672) opened on on January 29, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/181672) 877 additions and 0 deletions in 3 files</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds batch release doc for flutter/package<br />
   <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
 
@@ -243,5 +246,5 @@
   <sub>[#181831](https://github.com/flutter/flutter/pull/181831) opened on on February 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181831) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Shortcuts] Improve focus node debug labels<br />
-  <sub>[#181834](https://github.com/flutter/flutter/pull/181834) opened on on February 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181834) 26 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#181834](https://github.com/flutter/flutter/pull/181834) opened on on February 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181834) 26 additions and 2 deletions in 2 files</sub><br />
 
