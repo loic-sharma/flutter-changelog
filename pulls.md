@@ -168,7 +168,7 @@
   <sub>[#181656](https://github.com/flutter/flutter/pull/181656) opened on on January 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181656) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Eren Gun](https://github.com/Erengun)** &mdash; Remove Material library dependency from expansible_test.dart<br />
-  <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181657) 44 additions and 52 deletions in 2 files</sub><br />
+  <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181657) 44 additions and 52 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds batch release doc for flutter/package<br />
   <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
@@ -246,5 +246,5 @@
   <sub>[#181813](https://github.com/flutter/flutter/pull/181813) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181813) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[sangeerth Bs](https://github.com/hackersbs)** &mdash; Fix/merge bug docs<br />
-  <sub>[#181815](https://github.com/flutter/flutter/pull/181815) opened on on February 2, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181815) 1299 additions and 6 deletions in 10 files</sub><br />
+  <sub>[#181815](https://github.com/flutter/flutter/pull/181815) opened on on February 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181815) 328 additions and 10 deletions in 12 files</sub><br />
 
