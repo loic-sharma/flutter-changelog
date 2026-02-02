@@ -119,9 +119,6 @@
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in widgets/routes.dart<br />
   <sub>[#181242](https://github.com/flutter/flutter/pull/181242) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181242) 1 addition and 4 deletions in 1 file</sub><br />
 
-* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/list_tile.dart<br />
-  <sub>[#181243](https://github.com/flutter/flutter/pull/181243) opened on on January 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181243) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
 
@@ -247,4 +244,10 @@
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move tap_region_test.dart from widgets to material<br />
   <sub>[#181809](https://github.com/flutter/flutter/pull/181809) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181809) 0 additions and 0 deletions in 1 file</sub><br />
+
+* **[sangeerth Bs](https://github.com/hackersbs)** &mdash; divide-by-zero guard + XCResult grammar<br />
+  <sub>[#181812](https://github.com/flutter/flutter/pull/181812) opened on on February 2, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181812) 1567 additions and 6 deletions in 9 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add exception to log message in ContentSizingFlag.java<br />
+  <sub>[#181813](https://github.com/flutter/flutter/pull/181813) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181813) 1 addition and 1 deletion in 1 file</sub><br />
 
