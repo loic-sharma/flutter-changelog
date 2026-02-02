@@ -4,7 +4,12 @@
 
 ### January 31, 2026 to February 6, 2026
 
-2 commits.
+3 commits.
+
+* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in material/dialog.dart
+  <sub>[#181244](https://github.com/flutter/flutter/pull/181244) merged on February 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181244) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware spread in cupertino/app.dart
   <sub>[#181585](https://github.com/flutter/flutter/pull/181585) merged on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181585) over 5 days, 1 addition and 1 deletion in 1 file</sub>
