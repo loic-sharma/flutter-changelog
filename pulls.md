@@ -243,7 +243,7 @@
   <sub>[#181807](https://github.com/flutter/flutter/pull/181807) opened on on February 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181807) 9 additions and 7 deletions in 3 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress indicator to artifact downloads<br />
-  <sub>[#181808](https://github.com/flutter/flutter/pull/181808) opened on on February 2, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181808) 335 additions and 56 deletions in 3 files</sub><br />
+  <sub>[#181808](https://github.com/flutter/flutter/pull/181808) opened on on February 2, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181808) 338 additions and 56 deletions in 3 files</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move tap_region_test.dart from widgets to material<br />
   <sub>[#181809](https://github.com/flutter/flutter/pull/181809) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181809) 0 additions and 0 deletions in 1 file</sub><br />
