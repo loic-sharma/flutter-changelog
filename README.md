@@ -4,7 +4,11 @@
 
 ### January 31, 2026 to February 6, 2026
 
-4 commits.
+5 commits.
+
+* **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity<br />
+  <sub>[#181124](https://github.com/flutter/flutter/pull/181124) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181124) over 2 weeks, 137 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/list_tile.dart<br />
   <sub>[#181243](https://github.com/flutter/flutter/pull/181243) merged on February 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181243) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -75,7 +79,7 @@
   <sub><details><summary>1 image...</summary>![talabat.com](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
 
 * **[nmarci89](https://github.com/westito)** &mdash; Fix P3-to-sRGB color conversion to operate in linear light<br />
-  <sub>[#181720](https://github.com/flutter/flutter/pull/181720) merged on January 30, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/181720) over 10 hours, 380 additions and 96 deletions in 5 files</sub><br />
+  <sub>[#181720](https://github.com/flutter/flutter/pull/181720) merged on January 30, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/181720) over 10 hours, 380 additions and 96 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[walley892](https://github.com/walley892)** &mdash; Fixes getUniformX for Vulkan<br />
