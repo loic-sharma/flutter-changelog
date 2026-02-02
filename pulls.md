@@ -62,9 +62,6 @@
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; docs(Path): clarify that zero-length contours are excluded from computeMetrics<br />
   <sub>[#180165](https://github.com/flutter/flutter/pull/180165) opened on on December 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180165) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Fix --no-hot flag not working on web-server<br />
-  <sub>[#180166](https://github.com/flutter/flutter/pull/180166) opened on on December 20, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/180166) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
@@ -172,9 +169,6 @@
 
 * **[Eren Gun](https://github.com/Erengun)** &mdash; Remove Material library dependency from expansible_test.dart<br />
   <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181657) 44 additions and 52 deletions in 2 files</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; [Tool] Remove redundant name fields in an enum<br />
-  <sub>[#181674](https://github.com/flutter/flutter/pull/181674) opened on on January 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181674) 0 additions and 6 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds batch release doc for flutter/package<br />
   <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
