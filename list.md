@@ -104,7 +104,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Cleanup `ResidentCompiler` initialization logic
-  <sub>[#181421](https://github.com/flutter/flutter/pull/181421) merged on January 30, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/181421) over 6 days, 353 additions and 329 deletions in 19 files</sub>
+  <sub>[#181421](https://github.com/flutter/flutter/pull/181421) merged on January 30, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/181421) over 6 days, 353 additions and 329 deletions in 19 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nicholas Shahan](https://github.com/nshahan), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Use defensive null check in text editing placeElement
@@ -637,9 +637,18 @@
 
 ## flutter/packages
 
+### January 31, 2026 to February 6, 2026
+
+1 commits.
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [local_auth_darwin][UIScene] Add UIScene lifecycle support
+  <sub>[#10836](https://github.com/flutter/packages/pull/10836) merged on February 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10836) over 1 week, 68 additions and 12 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 ### January 24, 2026 to January 30, 2026
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[celvinren](https://github.com/celvinren)** &mdash; [image_picker] Transparent pressing on iOS 26 (#173453)
   <sub>[#10533](https://github.com/flutter/packages/pull/10533) merged on January 28, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/packages/pull/10533) over 2 months, 144 additions and 7 deletions in 5 files</sub>
@@ -696,6 +705,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 8b872868494e to bd7a4a6b5576 (6 revisions)
   <sub>[#10913](https://github.com/flutter/packages/pull/10913) merged on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10913) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### January 17, 2026 to January 23, 2026
 

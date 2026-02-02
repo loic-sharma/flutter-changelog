@@ -33,13 +33,10 @@
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
-  <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
-
-* **[mscottsmitty-hub](https://github.com/mscottsmitty-hub)** &mdash; Update config.yaml<br />
-  <sub>[#178784](https://github.com/flutter/flutter/pull/178784) opened on on November 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/178784) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; [a11y] Add semantics to the Expansible widget<br />
   <sub>[#178922](https://github.com/flutter/flutter/pull/178922) opened on on November 21, 2025 &mdash; **Extra large:** [24 comments](https://github.com/flutter/flutter/pull/178922) 2761 additions and 1270 deletions in 124 files</sub><br />
@@ -87,10 +84,10 @@
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds opengles to engine dart tests<br />
-  <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/180704) 562 additions and 36 deletions in 9 files</sub><br />
+  <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/180704) 562 additions and 36 deletions in 9 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
-  <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
+  <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
 * **[yahyayemen](https://github.com/yahyayemen)** &mdash; Update settings.json<br />
   <sub>[#180769](https://github.com/flutter/flutter/pull/180769) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180769) 6 additions and 2 deletions in 2 files</sub><br />
@@ -140,9 +137,6 @@
 * **[Patel Bhavy ](https://github.com/bhavypatel5391)** &mdash; Grammar<br />
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Impeller: avoid blocking on image upload scheduling<br />
-  <sub>[#181601](https://github.com/flutter/flutter/pull/181601) opened on on January 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181601) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix layout for macOS frameworks for code assets<br />
   <sub>[#181607](https://github.com/flutter/flutter/pull/181607) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181607) 21 additions and 2 deletions in 2 files</sub><br />
 
@@ -163,9 +157,6 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Apply workaround for generating gradle lock files in hybrid_android_views<br />
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
-
-* **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; [Impeller] Fix fail to render pixel buffer texture on Linux<br />
-  <sub>[#181656](https://github.com/flutter/flutter/pull/181656) opened on on January 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181656) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Eren Gun](https://github.com/Erengun)** &mdash; Remove Material library dependency from expansible_test.dart<br />
   <sub>[#181657](https://github.com/flutter/flutter/pull/181657) opened on on January 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181657) 44 additions and 52 deletions in 2 files</sub><br />
@@ -218,6 +209,9 @@
 * **[Nurda](https://github.com/yeltayev22)** &mdash; Replace MaterialApp with TestWidgetsApp in placeholder_test.dart<br />
   <sub>[#181723](https://github.com/flutter/flutter/pull/181723) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181723) 4 additions and 3 deletions in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove the Flutter.xcframework as a swift dependency<br />
+  <sub>[#181739](https://github.com/flutter/flutter/pull/181739) opened on on January 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181739) 52 additions and 1246 deletions in 10 files</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Re-enable AddressSanitizer on the linux_unopt builder<br />
   <sub>[#181741](https://github.com/flutter/flutter/pull/181741) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181741) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -236,12 +230,15 @@
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move tap_region_test.dart from widgets to material<br />
   <sub>[#181809](https://github.com/flutter/flutter/pull/181809) opened on on February 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181809) 0 additions and 0 deletions in 1 file</sub><br />
 
-* **[sangeerth Bs](https://github.com/hackersbs)** &mdash; divide-by-zero guard + XCResult grammar<br />
-  <sub>[#181812](https://github.com/flutter/flutter/pull/181812) opened on on February 2, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181812) 1567 additions and 6 deletions in 9 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add exception to log message in ContentSizingFlag.java<br />
   <sub>[#181813](https://github.com/flutter/flutter/pull/181813) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181813) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[sangeerth Bs](https://github.com/hackersbs)** &mdash; Fix/merge bug docs<br />
-  <sub>[#181815](https://github.com/flutter/flutter/pull/181815) opened on on February 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181815) 328 additions and 10 deletions in 12 files</sub><br />
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix wrong link to `Testing the engine readme file`<br />
+  <sub>[#181827](https://github.com/flutter/flutter/pull/181827) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181827) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link to c_cpp_properties.json reference in `Setting-up-the-Engine-development-environment.md`<br />
+  <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix wrong comment about default impeller value<br />
+  <sub>[#181831](https://github.com/flutter/flutter/pull/181831) opened on on February 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181831) 1 addition and 1 deletion in 1 file</sub><br />
 
