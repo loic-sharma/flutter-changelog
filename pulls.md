@@ -240,5 +240,8 @@
   <sub>[#181761](https://github.com/flutter/flutter/pull/181761) opened on on January 31, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/181761) 309 additions and 0 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart<br />
-  <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181774) 260 additions and 314 deletions in 12 files</sub><br />
+  <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/181774) 315 additions and 391 deletions in 12 files</sub><br />
+
+* **[sangeerth Bs](https://github.com/Hackersbs)** &mdash; Fix: Handle division by zero in unit_coverage tool<br />
+  <sub>[#181798](https://github.com/flutter/flutter/pull/181798) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181798) 9 additions and 5 deletions in 1 file</sub><br />
 
