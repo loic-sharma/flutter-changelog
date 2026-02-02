@@ -2,9 +2,24 @@
 
 ## flutter/flutter
 
+### January 31, 2026 to February 6, 2026
+
+2 commits.
+
+* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware spread in cupertino/app.dart
+  <sub>[#181585](https://github.com/flutter/flutter/pull/181585) merged on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181585) over 5 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
+
+* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware spread in material/app.dart
+  <sub>[#181586](https://github.com/flutter/flutter/pull/181586) merged on February 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181586) over 5 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
+
 ### January 24, 2026 to January 30, 2026
 
-70 commits.
+<details>
+<summary>70 commits...</summary>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Add animations to MenuAnchor.
   <sub>[#176494](https://github.com/flutter/flutter/pull/176494) merged on January 29, 2026 &mdash; **Extra large:** [52 comments](https://github.com/flutter/flutter/pull/176494) over 3 months, 1982 additions and 75 deletions in 6 files</sub>
@@ -288,6 +303,8 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve code quality in `PlatformViewsController.java`
   <sub>[#181338](https://github.com/flutter/flutter/pull/181338) merged on January 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181338) over 3 days, 13 additions and 15 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+</details>
 
 ### January 17, 2026 to January 23, 2026
 
