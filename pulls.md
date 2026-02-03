@@ -227,3 +227,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters in `user_messages.dart`<br />
   <sub>[#181867](https://github.com/flutter/flutter/pull/181867) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181867) 0 additions and 50 deletions in 1 file</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the Web codec tests, skip an undecodable image that is used to test a Skia error handling code path.<br />
+  <sub>[#181870](https://github.com/flutter/flutter/pull/181870) opened on on February 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181870) 4 additions and 0 deletions in 1 file</sub><br />
+
