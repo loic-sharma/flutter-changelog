@@ -195,7 +195,7 @@
   <sub>[#181723](https://github.com/flutter/flutter/pull/181723) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181723) 4 additions and 3 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove the Flutter.xcframework as a swift dependency<br />
-  <sub>[#181739](https://github.com/flutter/flutter/pull/181739) opened on on January 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181739) 52 additions and 1246 deletions in 10 files</sub><br />
+  <sub>[#181739](https://github.com/flutter/flutter/pull/181739) opened on on January 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181739) 54 additions and 1263 deletions in 12 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Re-enable AddressSanitizer on the linux_unopt builder<br />
   <sub>[#181741](https://github.com/flutter/flutter/pull/181741) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181741) 11 additions and 2 deletions in 2 files</sub><br />
