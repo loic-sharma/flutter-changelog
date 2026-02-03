@@ -218,6 +218,3 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the Web codec tests, skip an undecodable image that is used to test a Skia error handling code path.<br />
   <sub>[#181870](https://github.com/flutter/flutter/pull/181870) opened on on February 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181870) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[crackedhandle](https://github.com/crackedhandle)** &mdash; Encourage splitting large test files in testing documentation<br />
-  <sub>[#181878](https://github.com/flutter/flutter/pull/181878) opened on on February 3, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/181878) 5806 additions and 2156 deletions in 169 files</sub><br />
-
