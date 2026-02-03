@@ -4,7 +4,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-20 commits.
+21 commits.
 
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity<br />
   <sub>[#181124](https://github.com/flutter/flutter/pull/181124) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181124) over 2 weeks, 137 additions and 4 deletions in 2 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from slivers_appbar_floating_pinned_test.dart + slivers_appbar_stretch_test.dart + sliver_persistent_header_test.dart + slivers_appbar_floating_test.dart<br />
   <sub>[#181469](https://github.com/flutter/flutter/pull/181469) merged on February 3, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/181469) over 1 week, 2078 additions and 2163 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Web] Fix flt-platform-view comment<br />
+  <sub>[#181576](https://github.com/flutter/flutter/pull/181576) merged on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181576) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README<br />
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) merged on February 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175587) over 4 months, 1 addition and 0 deletions in 1 file</sub><br />
