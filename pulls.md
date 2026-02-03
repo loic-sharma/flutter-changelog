@@ -228,5 +228,5 @@
   <sub>[#181834](https://github.com/flutter/flutter/pull/181834) opened on on February 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181834) 26 additions and 2 deletions in 2 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Mark all `IconData` fields as entrypoints to prevent tree shaking its fields<br />
-  <sub>[#181849](https://github.com/flutter/flutter/pull/181849) opened on on February 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181849) 5 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#181849](https://github.com/flutter/flutter/pull/181849) opened on on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181849) 12 additions and 0 deletions in 1 file</sub><br />
 
