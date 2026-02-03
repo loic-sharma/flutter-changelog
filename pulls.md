@@ -15,7 +15,7 @@
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
-  <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
+  <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
@@ -229,7 +229,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
-
-* **[Florin Malita](https://github.com/fmalita)** &mdash; Skip undecodable Skia test images in codecs_test.dart<br />
-  <sub>[#181863](https://github.com/flutter/flutter/pull/181863) opened on on February 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181863) 8 additions and 0 deletions in 1 file</sub><br />
 
