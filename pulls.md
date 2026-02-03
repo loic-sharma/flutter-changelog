@@ -126,7 +126,7 @@
   <sub>[#181620](https://github.com/flutter/flutter/pull/181620) opened on on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181620) 37 additions and 29 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add mechanism for setting Android engine flags via Android manifest (take 2)<br />
-  <sub>[#181632](https://github.com/flutter/flutter/pull/181632) opened on on January 28, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/181632) 1751 additions and 607 deletions in 24 files</sub><br />
+  <sub>[#181632](https://github.com/flutter/flutter/pull/181632) opened on on January 28, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/181632) 1751 additions and 607 deletions in 24 files</sub><br />
 
 * **[Caden Fehr](https://github.com/CadenFehr)** &mdash; Add allow fling property fix 151223<br />
   <sub>[#181644](https://github.com/flutter/flutter/pull/181644) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181644) 79 additions and 2 deletions in 3 files</sub><br />
@@ -229,4 +229,10 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `Config complete` log when using `flutter build apk --config-only`<br />
+  <sub>[#181864](https://github.com/flutter/flutter/pull/181864) opened on on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181864) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters in `user_messages.dart`<br />
+  <sub>[#181867](https://github.com/flutter/flutter/pull/181867) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181867) 0 additions and 50 deletions in 1 file</sub><br />
 
