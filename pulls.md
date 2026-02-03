@@ -192,7 +192,7 @@
   <sub>[#181723](https://github.com/flutter/flutter/pull/181723) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181723) 4 additions and 3 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove the Flutter.xcframework as a swift dependency<br />
-  <sub>[#181739](https://github.com/flutter/flutter/pull/181739) opened on on January 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181739) 54 additions and 1320 deletions in 12 files</sub><br />
+  <sub>[#181739](https://github.com/flutter/flutter/pull/181739) opened on on January 30, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181739) 54 additions and 1320 deletions in 12 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Re-enable AddressSanitizer on the linux_unopt builder<br />
   <sub>[#181741](https://github.com/flutter/flutter/pull/181741) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181741) 11 additions and 2 deletions in 2 files</sub><br />
@@ -229,4 +229,7 @@
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Mark all `IconData` fields as entrypoints to prevent tree shaking its fields<br />
   <sub>[#181849](https://github.com/flutter/flutter/pull/181849) opened on on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181849) 12 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
+  <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
