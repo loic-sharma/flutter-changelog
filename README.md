@@ -793,9 +793,22 @@
 
 ## flutter/website
 
+### January 31, 2026 to February 6, 2026
+
+2 commits.
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [3.41] Add Android Content Sizing Documentation<br />
+  <sub>[#13000](https://github.com/flutter/website/pull/13000) merged on February 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13000) over 6 days, 60 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Fix use_null_aware_elements lint to unblock ci<br />
+  <sub>[#13020](https://github.com/flutter/website/pull/13020) merged on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13020) over 11 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### January 24, 2026 to January 30, 2026
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Separate /learn into its own nav<br />
   <sub>[#12974](https://github.com/flutter/website/pull/12974) merged on January 28, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/website/pull/12974) over 5 days, 686 additions and 503 deletions in 38 files</sub><br />
@@ -832,6 +845,8 @@
 * **[Bilal Pothigara ](https://github.com/UnderTheHoodRobin)** &mdash; fix: update broken Flutter and Dart tutorial links<br />
   <sub>[#12993](https://github.com/flutter/website/pull/12993) merged on January 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/12993) over 6 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### January 17, 2026 to January 23, 2026
 
