@@ -4,7 +4,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-12 commits.
+15 commits.
 
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity
   <sub>[#181124](https://github.com/flutter/flutter/pull/181124) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181124) over 2 weeks, 137 additions and 4 deletions in 2 files</sub>
@@ -35,6 +35,10 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds batch release doc for flutter/package
+  <sub>[#181676](https://github.com/flutter/flutter/pull/181676) merged on February 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181676) over 4 days, 75 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from slivers_appbar_floating_pinned_test.dart + slivers_appbar_stretch_test.dart + sliver_persistent_header_test.dart + slivers_appbar_floating_test.dart
   <sub>[#181469](https://github.com/flutter/flutter/pull/181469) merged on February 3, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/181469) over 1 week, 2078 additions and 2163 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
@@ -46,6 +50,14 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Reduce reliance on Material in page_transitions_test.dart
   <sub>[#181467](https://github.com/flutter/flutter/pull/181467) merged on February 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181467) over 1 week, 106 additions and 103 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters on AndroidProject class
+  <sub>[#181860](https://github.com/flutter/flutter/pull/181860) merged on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181860) over 1 hour, 0 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Don't use `globals.platform` in `getFlutterRoot()`
+  <sub>[#181859](https://github.com/flutter/flutter/pull/181859) merged on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181859) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from basic_test.dart
   <sub>[#181444](https://github.com/flutter/flutter/pull/181444) merged on February 3, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/181444) over 1 week, 199 additions and 257 deletions in 3 files</sub>

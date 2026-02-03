@@ -134,12 +134,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Apply workaround for generating gradle lock files in hybrid_android_views<br />
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor accessibility guidelines out to widget layer<br />
-  <sub>[#181672](https://github.com/flutter/flutter/pull/181672) opened on on January 29, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/181672) 877 additions and 0 deletions in 3 files</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds batch release doc for flutter/package<br />
-  <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from ticker mode test<br />
   <sub>[#181696](https://github.com/flutter/flutter/pull/181696) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181696) 268 additions and 6 deletions in 4 files</sub><br />
 
@@ -190,9 +184,6 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart<br />
   <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/181774) 315 additions and 391 deletions in 12 files</sub><br />
-
-* **[Nurda](https://github.com/yeltayev22)** &mdash; Cleanup cross imports<br />
-  <sub>[#181807](https://github.com/flutter/flutter/pull/181807) opened on on February 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181807) 9 additions and 7 deletions in 3 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress indicator to artifact downloads<br />
   <sub>[#181808](https://github.com/flutter/flutter/pull/181808) opened on on February 2, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181808) 338 additions and 56 deletions in 3 files</sub><br />
