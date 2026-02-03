@@ -4,7 +4,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-15 commits.
+17 commits.
 
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity
   <sub>[#181124](https://github.com/flutter/flutter/pull/181124) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181124) over 2 weeks, 137 additions and 4 deletions in 2 files</sub>
@@ -43,6 +43,10 @@
   <sub>[#181469](https://github.com/flutter/flutter/pull/181469) merged on February 3, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/181469) over 1 week, 2078 additions and 2163 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
+* **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README
+  <sub>[#175587](https://github.com/flutter/flutter/pull/175587) merged on February 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175587) over 4 months, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_helpers_test.dart
   <sub>[#181460](https://github.com/flutter/flutter/pull/181460) merged on February 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/181460) over 1 week, 83 additions and 87 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
@@ -50,6 +54,10 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Reduce reliance on Material in page_transitions_test.dart
   <sub>[#181467](https://github.com/flutter/flutter/pull/181467) merged on February 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181467) over 1 week, 106 additions and 103 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Roll customer tests
+  <sub>[#181825](https://github.com/flutter/flutter/pull/181825) merged on February 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181825) over 22 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters on AndroidProject class
   <sub>[#181860](https://github.com/flutter/flutter/pull/181860) merged on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181860) over 1 hour, 0 additions and 8 deletions in 1 file</sub>
@@ -815,7 +823,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-3 commits.
+4 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix typo in Checkbox.fillColor migration guide
   <sub>[#13011](https://github.com/flutter/website/pull/13011) merged on February 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13011) over 3 days, 1 addition and 1 deletion in 1 file</sub>
@@ -824,6 +832,10 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [3.41] Add Android Content Sizing Documentation
   <sub>[#13000](https://github.com/flutter/website/pull/13000) merged on February 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13000) over 6 days, 60 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Add Docs Warning Plugins are not supported in AGP 9
+  <sub>[#13015](https://github.com/flutter/website/pull/13015) merged on February 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13015) over 23 hours, 18 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Fix use_null_aware_elements lint to unblock ci
   <sub>[#13020](https://github.com/flutter/website/pull/13020) merged on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13020) over 11 minutes, 1 addition and 1 deletion in 1 file</sub>
