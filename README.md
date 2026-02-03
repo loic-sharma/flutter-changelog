@@ -40,7 +40,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_helpers_test.dart<br />
-  <sub>[#181460](https://github.com/flutter/flutter/pull/181460) merged on February 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181460) over 1 week, 83 additions and 87 deletions in 3 files</sub><br />
+  <sub>[#181460](https://github.com/flutter/flutter/pull/181460) merged on February 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/181460) over 1 week, 83 additions and 87 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Reduce reliance on Material in page_transitions_test.dart<br />
