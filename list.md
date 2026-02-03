@@ -655,7 +655,11 @@
 
 ### January 31, 2026 to February 6, 2026
 
-2 commits.
+3 commits.
+
+* **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] handle interruptions and use single offset
+  <sub>[#8982](https://github.com/flutter/packages/pull/8982) merged on February 3, 2026 &mdash; **Medium:** [58 comments](https://github.com/flutter/packages/pull/8982) over 10 months, 295 additions and 76 deletions in 11 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [local_auth_darwin][UIScene] Add UIScene lifecycle support
   <sub>[#10836](https://github.com/flutter/packages/pull/10836) merged on February 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10836) over 1 week, 68 additions and 12 deletions in 6 files</sub>

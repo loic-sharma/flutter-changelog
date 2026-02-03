@@ -147,7 +147,7 @@
   <sub>[#181672](https://github.com/flutter/flutter/pull/181672) opened on on January 29, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/181672) 877 additions and 0 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds batch release doc for flutter/package<br />
-  <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#181676](https://github.com/flutter/flutter/pull/181676) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181676) 75 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from ticker mode test<br />
   <sub>[#181696](https://github.com/flutter/flutter/pull/181696) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181696) 268 additions and 6 deletions in 4 files</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#181808](https://github.com/flutter/flutter/pull/181808) opened on on February 2, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181808) 338 additions and 56 deletions in 3 files</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move tap_region_test.dart from widgets to material<br />
-  <sub>[#181809](https://github.com/flutter/flutter/pull/181809) opened on on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181809) 90 additions and 66 deletions in 1 file</sub><br />
+  <sub>[#181809](https://github.com/flutter/flutter/pull/181809) opened on on February 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181809) 90 additions and 66 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add exception to log message in ContentSizingFlag.java<br />
   <sub>[#181813](https://github.com/flutter/flutter/pull/181813) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181813) 1 addition and 1 deletion in 1 file</sub><br />
