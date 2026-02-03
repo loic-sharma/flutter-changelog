@@ -4,7 +4,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-22 commits.
+23 commits.
 
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity
   <sub>[#181124](https://github.com/flutter/flutter/pull/181124) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181124) over 2 weeks, 137 additions and 4 deletions in 2 files</sub>
@@ -34,6 +34,10 @@
   <sub>[#181586](https://github.com/flutter/flutter/pull/181586) merged on February 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181586) over 5 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kostia Sokolovskyi](https://github.com/ksokolovskyi), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove the Flutter.xcframework as a swift dependency
+  <sub>[#181739](https://github.com/flutter/flutter/pull/181739) merged on February 3, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181739) over 3 days, 54 additions and 1320 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implementation of tooltips in the `_TestWindowingOwner` and minor bugfixes to the multiple windows example app
   <sub>[#181510](https://github.com/flutter/flutter/pull/181510) merged on February 3, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/181510) over 1 week, 310 additions and 116 deletions in 7 files</sub>

@@ -149,9 +149,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove `DisposableBuildContext` type argument<br />
   <sub>[#181705](https://github.com/flutter/flutter/pull/181705) opened on on January 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181705) 15 additions and 19 deletions in 4 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Bugfix in the `absorbTicker` method<br />
-  <sub>[#181706](https://github.com/flutter/flutter/pull/181706) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181706) 23 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from Modal barrier tests<br />
   <sub>[#181708](https://github.com/flutter/flutter/pull/181708) opened on on January 30, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181708) 284 additions and 25 deletions in 4 files</sub><br />
 
@@ -169,9 +166,6 @@
 
 * **[Nurda](https://github.com/yeltayev22)** &mdash; Replace MaterialApp with TestWidgetsApp in placeholder_test.dart<br />
   <sub>[#181723](https://github.com/flutter/flutter/pull/181723) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181723) 4 additions and 3 deletions in 2 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove the Flutter.xcframework as a swift dependency<br />
-  <sub>[#181739](https://github.com/flutter/flutter/pull/181739) opened on on January 30, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181739) 54 additions and 1320 deletions in 12 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Re-enable AddressSanitizer on the linux_unopt builder<br />
   <sub>[#181741](https://github.com/flutter/flutter/pull/181741) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181741) 11 additions and 2 deletions in 2 files</sub><br />
