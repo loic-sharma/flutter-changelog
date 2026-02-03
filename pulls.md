@@ -95,9 +95,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
   <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />
 
-* **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in widgets/routes.dart<br />
-  <sub>[#181242](https://github.com/flutter/flutter/pull/181242) opened on on January 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181242) 1 addition and 4 deletions in 1 file</sub><br />
-
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
 
@@ -122,23 +119,11 @@
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Migration: Remove material.dart dependency from framework_test.dart (Issue #177414)<br />
   <sub>[#181620](https://github.com/flutter/flutter/pull/181620) opened on on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181620) 37 additions and 29 deletions in 2 files</sub><br />
 
-* **[Caden Fehr](https://github.com/CadenFehr)** &mdash; Add allow fling property fix 151223<br />
-  <sub>[#181644](https://github.com/flutter/flutter/pull/181644) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181644) 79 additions and 2 deletions in 3 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks Mac_arm64_mokey entrypoint_dart_registrant unflaky<br />
   <sub>[#181648](https://github.com/flutter/flutter/pull/181648) opened on on January 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181648) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Apply workaround for generating gradle lock files in hybrid_android_views<br />
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from ticker mode test<br />
-  <sub>[#181696](https://github.com/flutter/flutter/pull/181696) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181696) 268 additions and 6 deletions in 4 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from ticker provider test<br />
-  <sub>[#181697](https://github.com/flutter/flutter/pull/181697) opened on on January 30, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181697) 303 additions and 9 deletions in 4 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from actions test<br />
-  <sub>[#181702](https://github.com/flutter/flutter/pull/181702) opened on on January 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181702) 32 additions and 103 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove obsolete null checks from style guide<br />
   <sub>[#181703](https://github.com/flutter/flutter/pull/181703) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181703) 3 additions and 4 deletions in 1 file</sub><br />
@@ -149,17 +134,11 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove `DisposableBuildContext` type argument<br />
   <sub>[#181705](https://github.com/flutter/flutter/pull/181705) opened on on January 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181705) 15 additions and 19 deletions in 4 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from Modal barrier tests<br />
-  <sub>[#181708](https://github.com/flutter/flutter/pull/181708) opened on on January 30, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181708) 284 additions and 25 deletions in 4 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material imports from Inherited Model, Magnifier, SafeArea, UndoHistory, Navigator and Layers test<br />
   <sub>[#181709](https://github.com/flutter/flutter/pull/181709) opened on on January 30, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/181709) 492 additions and 245 deletions in 8 files</sub><br />
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error<br />
   <sub>[#181716](https://github.com/flutter/flutter/pull/181716) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181716) 29 additions and 3 deletions in 2 files</sub><br />
-
-* **[prinsh-canary](https://github.com/prinsh-canary)** &mdash; Fixed keyboard assertion crash during app startup and added tests<br />
-  <sub>[#181719](https://github.com/flutter/flutter/pull/181719) opened on on January 30, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/181719) 303 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ilyosbek Ibrokhimov](https://github.com/ilyosbek22)** &mdash; remove MaterialApp import from raw_radio_test.dart<br />
   <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
@@ -169,9 +148,6 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Re-enable AddressSanitizer on the linux_unopt builder<br />
   <sub>[#181741](https://github.com/flutter/flutter/pull/181741) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181741) 11 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ahmet Aydın](https://github.com/ahmtydn)** &mdash; Fix nested scrollable gesture propagation<br />
-  <sub>[#181761](https://github.com/flutter/flutter/pull/181761) opened on on January 31, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/181761) 309 additions and 0 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart<br />
   <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/181774) 315 additions and 391 deletions in 12 files</sub><br />
@@ -194,12 +170,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix wrong comment about default impeller value<br />
   <sub>[#181831](https://github.com/flutter/flutter/pull/181831) opened on on February 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181831) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Shortcuts] Improve focus node debug labels<br />
-  <sub>[#181834](https://github.com/flutter/flutter/pull/181834) opened on on February 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181834) 26 additions and 2 deletions in 2 files</sub><br />
-
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Mark all `IconData` fields as entrypoints to prevent tree shaking its fields<br />
-  <sub>[#181849](https://github.com/flutter/flutter/pull/181849) opened on on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181849) 12 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
@@ -213,5 +183,5 @@
   <sub>[#181870](https://github.com/flutter/flutter/pull/181870) opened on on February 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181870) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[crackedhandle](https://github.com/crackedhandle)** &mdash; Encourage splitting large test files in testing documentation<br />
-  <sub>[#181880](https://github.com/flutter/flutter/pull/181880) opened on on February 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181880) 15 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#181880](https://github.com/flutter/flutter/pull/181880) opened on on February 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181880) 15 additions and 0 deletions in 1 file</sub><br />
 

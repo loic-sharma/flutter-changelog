@@ -4,7 +4,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-23 commits.
+24 commits.
 
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity
   <sub>[#181124](https://github.com/flutter/flutter/pull/181124) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181124) over 2 weeks, 137 additions and 4 deletions in 2 files</sub>
@@ -54,6 +54,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Web] Fix flt-platform-view comment
   <sub>[#181576](https://github.com/flutter/flutter/pull/181576) merged on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181576) over 6 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Remove unnecessary Material import from cupertino/slider_test.dart
+  <sub>[#180957](https://github.com/flutter/flutter/pull/180957) merged on February 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180957) over 2 weeks, 103 additions and 123 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Jonathan Reimer](https://github.com/jonathimer)** &mdash; Add Linux Foundation Health Score badge to README
   <sub>[#175587](https://github.com/flutter/flutter/pull/175587) merged on February 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175587) over 4 months, 1 addition and 0 deletions in 1 file</sub>
