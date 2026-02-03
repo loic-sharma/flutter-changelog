@@ -62,9 +62,6 @@
 * **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
   <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/180431) 44 additions and 6 deletions in 2 files</sub><br />
 
-* **[Zaw Htet Naing](https://github.com/zawhtetnaing10)** &mdash; Added renderOriginalImage flag which allows ImageIcon to bypass IconTheme colorization and render original image colors<br />
-  <sub>[#180491](https://github.com/flutter/flutter/pull/180491) opened on on January 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180491) 53 additions and 2 deletions in 2 files</sub><br />
-
 * **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
   <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
 
@@ -125,15 +122,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Apply workaround for generating gradle lock files in hybrid_android_views<br />
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove obsolete null checks from style guide<br />
-  <sub>[#181703](https://github.com/flutter/flutter/pull/181703) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181703) 3 additions and 4 deletions in 1 file</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStatesConstraint` as a mixin<br />
-  <sub>[#181704](https://github.com/flutter/flutter/pull/181704) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181704) 27 additions and 28 deletions in 2 files</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove `DisposableBuildContext` type argument<br />
-  <sub>[#181705](https://github.com/flutter/flutter/pull/181705) opened on on January 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181705) 15 additions and 19 deletions in 4 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material imports from Inherited Model, Magnifier, SafeArea, UndoHistory, Navigator and Layers test<br />
   <sub>[#181709](https://github.com/flutter/flutter/pull/181709) opened on on January 30, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/181709) 492 additions and 245 deletions in 8 files</sub><br />
 
@@ -181,7 +169,4 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the Web codec tests, skip an undecodable image that is used to test a Skia error handling code path.<br />
   <sub>[#181870](https://github.com/flutter/flutter/pull/181870) opened on on February 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181870) 4 additions and 0 deletions in 1 file</sub><br />
-
-* **[crackedhandle](https://github.com/crackedhandle)** &mdash; Encourage splitting large test files in testing documentation<br />
-  <sub>[#181880](https://github.com/flutter/flutter/pull/181880) opened on on February 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181880) 15 additions and 0 deletions in 1 file</sub><br />
 
