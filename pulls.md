@@ -180,5 +180,5 @@
   <sub>[#181894](https://github.com/flutter/flutter/pull/181894) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181894) 135 additions and 32 deletions in 2 files</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Refactor autofill_group_test.dart to remove Material dependencies<br />
-  <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 63 deletions in 1 file</sub><br />
+  <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 63 deletions in 1 file</sub><br />
 
