@@ -171,7 +171,7 @@
   <sub>[#181884](https://github.com/flutter/flutter/pull/181884) opened on on February 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181884) 123 additions and 3 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FlWindowMonitor API<br />
-  <sub>[#181885](https://github.com/flutter/flutter/pull/181885) opened on on February 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181885) 27 additions and 38 deletions in 1 file</sub><br />
+  <sub>[#181885](https://github.com/flutter/flutter/pull/181885) opened on on February 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181885) 27 additions and 38 deletions in 1 file</sub><br />
 
 * **[Nightmare](https://github.com/Laurie-Lin)** &mdash; flutter_tools: support transformers for flutter.shaders<br />
   <sub>[#181889](https://github.com/flutter/flutter/pull/181889) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181889) 222 additions and 49 deletions in 8 files</sub><br />
@@ -184,4 +184,7 @@
 
 * **[nmarci89](https://github.com/westito)** &mdash; Fix SubmenuButton submenu positioning<br />
   <sub>[#181908](https://github.com/flutter/flutter/pull/181908) opened on on February 4, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181908) 1036 additions and 52 deletions in 3 files</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; engine: Use a super-parameter in one missed case<br />
+  <sub>[#181914](https://github.com/flutter/flutter/pull/181914) opened on on February 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181914) 2 additions and 2 deletions in 1 file</sub><br />
 
