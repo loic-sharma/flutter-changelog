@@ -182,3 +182,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add missing dependencies to framework_tests_misc_leak_tracking<br />
   <sub>[#181929](https://github.com/flutter/flutter/pull/181929) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181929) 4 additions and 1 deletion in 1 file</sub><br />
 
+* **[serbandin](https://github.com/serbandin)** &mdash; fix-huawei-imagereader-166481<br />
+  <sub>[#181931](https://github.com/flutter/flutter/pull/181931) opened on on February 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181931) 54 additions and 1 deletion in 4 files</sub><br />
+
