@@ -4,7 +4,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-29 commits.
+30 commits.
 
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity<br />
   <sub>[#181124](https://github.com/flutter/flutter/pull/181124) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181124) over 2 weeks, 137 additions and 4 deletions in 2 files</sub><br />
@@ -66,6 +66,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Web] Fix flt-platform-view comment<br />
   <sub>[#181576](https://github.com/flutter/flutter/pull/181576) merged on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181576) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Patrick Billingsley](https://github.com/patrickBillingsley)** &mdash; Propagates Overlay's MediaQueryData to OverlayPortal child<br />
+  <sub>[#181579](https://github.com/flutter/flutter/pull/181579) merged on February 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181579) over 6 days, 137 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [patrick-billingsley](https://github.com/patrick-billingsley), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Nhan Nguyen](https://github.com/nathannewyen)** &mdash; Remove unnecessary Material import from cupertino/slider_test.dart<br />
   <sub>[#180957](https://github.com/flutter/flutter/pull/180957) merged on February 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180957) over 2 weeks, 103 additions and 123 deletions in 2 files</sub><br />
@@ -731,11 +735,15 @@
 
 ### January 31, 2026 to February 6, 2026
 
-3 commits.
+4 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] handle interruptions and use single offset<br />
   <sub>[#8982](https://github.com/flutter/packages/pull/8982) merged on February 3, 2026 &mdash; **Medium:** [58 comments](https://github.com/flutter/packages/pull/8982) over 10 months, 295 additions and 76 deletions in 11 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add support for `@TypedGoRouteParameter` to customize parameter names<br />
+  <sub>[#10793](https://github.com/flutter/packages/pull/10793) merged on February 4, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/10793) over 2 weeks, 325 additions and 10 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [local_auth_darwin][UIScene] Add UIScene lifecycle support<br />
   <sub>[#10836](https://github.com/flutter/packages/pull/10836) merged on February 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10836) over 1 week, 68 additions and 12 deletions in 6 files</sub><br />
