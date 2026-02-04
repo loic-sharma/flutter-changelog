@@ -69,7 +69,7 @@
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds opengles to engine dart tests<br />
-  <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/180704) 615 additions and 75 deletions in 9 files</sub><br />
+  <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/180704) 615 additions and 75 deletions in 9 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -168,7 +168,7 @@
   <sub>[#181870](https://github.com/flutter/flutter/pull/181870) opened on on February 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181870) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Deprecate web hot reload flag<br />
-  <sub>[#181884](https://github.com/flutter/flutter/pull/181884) opened on on February 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181884) 123 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#181884](https://github.com/flutter/flutter/pull/181884) opened on on February 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181884) 125 additions and 3 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FlWindowMonitor API<br />
   <sub>[#181885](https://github.com/flutter/flutter/pull/181885) opened on on February 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181885) 27 additions and 38 deletions in 1 file</sub><br />

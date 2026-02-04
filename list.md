@@ -763,7 +763,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-6 commits.
+7 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] handle interruptions and use single offset
   <sub>[#8982](https://github.com/flutter/packages/pull/8982) merged on February 3, 2026 &mdash; **Medium:** [58 comments](https://github.com/flutter/packages/pull/8982) over 10 months, 295 additions and 76 deletions in 11 files</sub>
@@ -780,6 +780,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Remove use of OCMock
   <sub>[#10863](https://github.com/flutter/packages/pull/10863) merged on February 4, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10863) over 1 week, 815 additions and 370 deletions in 42 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[ivan-vanyusho](https://github.com/ivan-vanyusho)** &mdash; [camera_avfoundation] ios saving path
+  <sub>[#10832](https://github.com/flutter/packages/pull/10832) merged on February 4, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/10832) over 2 weeks, 44 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [local_auth_darwin][UIScene] Add UIScene lifecycle support
   <sub>[#10836](https://github.com/flutter/packages/pull/10836) merged on February 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10836) over 1 week, 68 additions and 12 deletions in 6 files</sub>
@@ -915,7 +919,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-7 commits.
+8 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Some FWE cleanup and styling fixes.
   <sub>[#13024](https://github.com/flutter/website/pull/13024) merged on February 4, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13024) over 5 hours, 10 additions and 317 deletions in 5 files</sub>
@@ -928,6 +932,10 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [3.41] Add Android Content Sizing Documentation
   <sub>[#13000](https://github.com/flutter/website/pull/13000) merged on February 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13000) over 6 days, 60 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Add To App Setup Docs
+  <sub>[#13023](https://github.com/flutter/website/pull/13023) merged on February 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13023) over 19 hours, 12 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Add go/packaged-ai-assets go link
