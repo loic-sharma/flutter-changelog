@@ -143,9 +143,6 @@
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move tap_region_test.dart from widgets to material<br />
   <sub>[#181809](https://github.com/flutter/flutter/pull/181809) opened on on February 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181809) 90 additions and 67 deletions in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add exception to log message in ContentSizingFlag.java<br />
-  <sub>[#181813](https://github.com/flutter/flutter/pull/181813) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181813) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix wrong link to `Testing the engine readme file`<br />
   <sub>[#181827](https://github.com/flutter/flutter/pull/181827) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181827) 1 addition and 1 deletion in 1 file</sub><br />
 
