@@ -179,3 +179,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FlWindowMonitor API<br />
   <sub>[#181885](https://github.com/flutter/flutter/pull/181885) opened on on February 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181885) 27 additions and 38 deletions in 1 file</sub><br />
 
+* **[Nightmare](https://github.com/Laurie-Lin)** &mdash; flutter_tools: support transformers for flutter.shaders<br />
+  <sub>[#181889](https://github.com/flutter/flutter/pull/181889) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181889) 220 additions and 48 deletions in 7 files</sub><br />
+
