@@ -164,9 +164,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the Web codec tests, skip an undecodable image that is used to test a Skia error handling code path.<br />
   <sub>[#181870](https://github.com/flutter/flutter/pull/181870) opened on on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181870) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Deprecate web hot reload flag<br />
-  <sub>[#181884](https://github.com/flutter/flutter/pull/181884) opened on on February 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181884) 116 additions and 1 deletion in 3 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FlWindowMonitor API<br />
   <sub>[#181885](https://github.com/flutter/flutter/pull/181885) opened on on February 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181885) 27 additions and 38 deletions in 1 file</sub><br />
 
