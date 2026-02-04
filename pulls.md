@@ -126,7 +126,7 @@
   <sub>[#181709](https://github.com/flutter/flutter/pull/181709) opened on on January 30, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/181709) 492 additions and 245 deletions in 8 files</sub><br />
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error<br />
-  <sub>[#181716](https://github.com/flutter/flutter/pull/181716) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181716) 29 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#181716](https://github.com/flutter/flutter/pull/181716) opened on on January 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181716) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ilyosbek Ibrokhimov](https://github.com/ilyosbek22)** &mdash; remove MaterialApp import from raw_radio_test.dart<br />
   <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
@@ -182,6 +182,6 @@
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Refactor autofill_group_test.dart to remove Material dependencies<br />
   <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 63 deletions in 1 file</sub><br />
 
-* **[nmarci89](https://github.com/westito)** &mdash; Fix SubmenuButton submenu offset to account for parent menu padding<br />
-  <sub>[#181908](https://github.com/flutter/flutter/pull/181908) opened on on February 4, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181908) 939 additions and 112 deletions in 3 files</sub><br />
+* **[nmarci89](https://github.com/westito)** &mdash; Fix SubmenuButton submenu positioning<br />
+  <sub>[#181908](https://github.com/flutter/flutter/pull/181908) opened on on February 4, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181908) 933 additions and 124 deletions in 4 files</sub><br />
 
