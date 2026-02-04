@@ -171,7 +171,7 @@
   <sub>[#181889](https://github.com/flutter/flutter/pull/181889) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181889) 222 additions and 49 deletions in 8 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Disable hardware keyboard regularity warning by default<br />
-  <sub>[#181894](https://github.com/flutter/flutter/pull/181894) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181894) 135 additions and 32 deletions in 2 files</sub><br />
+  <sub>[#181894](https://github.com/flutter/flutter/pull/181894) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181894) 132 additions and 32 deletions in 2 files</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Refactor autofill_group_test.dart to remove Material dependencies<br />
   <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 64 deletions in 2 files</sub><br />
