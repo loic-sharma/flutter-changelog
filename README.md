@@ -763,7 +763,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-4 commits.
+5 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] handle interruptions and use single offset<br />
   <sub>[#8982](https://github.com/flutter/packages/pull/8982) merged on February 3, 2026 &mdash; **Medium:** [58 comments](https://github.com/flutter/packages/pull/8982) over 10 months, 295 additions and 76 deletions in 11 files</sub><br />
@@ -772,6 +772,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add support for `@TypedGoRouteParameter` to customize parameter names<br />
   <sub>[#10793](https://github.com/flutter/packages/pull/10793) merged on February 4, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/packages/pull/10793) over 2 weeks, 325 additions and 10 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Remove use of OCMock<br />
+  <sub>[#10863](https://github.com/flutter/packages/pull/10863) merged on February 4, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10863) over 1 week, 815 additions and 370 deletions in 42 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [local_auth_darwin][UIScene] Add UIScene lifecycle support<br />
   <sub>[#10836](https://github.com/flutter/packages/pull/10836) merged on February 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/10836) over 1 week, 68 additions and 12 deletions in 6 files</sub><br />
