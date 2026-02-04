@@ -919,7 +919,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-11 commits.
+15 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Some FWE cleanup and styling fixes.
   <sub>[#13024](https://github.com/flutter/website/pull/13024) merged on February 4, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13024) over 5 hours, 10 additions and 317 deletions in 5 files</sub>
@@ -931,6 +931,18 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kilian Schulte](https://github.com/schultek), [Shams Zakhour](https://github.com/sfshaza2)</sub>
   <sub><details><summary>2 images...</summary><img width="1471" height="391" alt="Bildschirmfoto 2026-01-28 um 17 27 51" src="https://github.com/user-attachments/assets/34cbde5c-c78d-4fbb-a909-cc50e54748a8" /><img width="1477" height="624" alt="Bildschirmfoto 2026-01-28 um 17 28 20" src="https://github.com/user-attachments/assets/e8cd3a14-a85f-4653-a50e-f23ae11c88ba" /></details></sub>
 
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add "Cupertino" and "Material" glossary entries
+  <sub>[#12999](https://github.com/flutter/website/pull/12999) merged on February 4, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12999) over 1 week, 45 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Khanh Nguyen](https://github.com/khanhnwin), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add 'pub' to glossary
+  <sub>[#12980](https://github.com/flutter/website/pull/12980) merged on February 4, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/12980) over 1 week, 22 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jonas Finnemann Jensen](https://github.com/jonasfj), [Loïc Sharma](https://github.com/loic-sharma), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; fix non-collapsible steppers
+  <sub>[#13029](https://github.com/flutter/website/pull/13029) merged on February 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13029) over 21 minutes, 20 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Andrei Vidican](https://github.com/avidican)** &mdash; Update user-input.md
   <sub>[#13027](https://github.com/flutter/website/pull/13027) merged on February 4, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13027) over 2 hours, 6 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
@@ -941,6 +953,10 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [3.41] Add Android Content Sizing Documentation
   <sub>[#13000](https://github.com/flutter/website/pull/13000) merged on February 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13000) over 6 days, 60 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[PTMakes](https://github.com/PTMakes)** &mdash; Fix callback name to match example code from 'onGuessSubmitted' to 'onSubmitGuess'
+  <sub>[#13009](https://github.com/flutter/website/pull/13009) merged on February 4, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13009) over 5 days, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Amr Moustafa](https://github.com/oceansync)** &mdash; fix(devtools): add missing parameters to Tile constructor in GamePage snippet
