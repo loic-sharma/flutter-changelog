@@ -4,7 +4,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-27 commits.
+29 commits.
 
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity
   <sub>[#181124](https://github.com/flutter/flutter/pull/181124) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181124) over 2 weeks, 137 additions and 4 deletions in 2 files</sub>
@@ -14,6 +14,10 @@
   <sub>[#179848](https://github.com/flutter/flutter/pull/179848) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/179848) over 1 month, 89 additions and 82 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
   <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
+
+* **[Emmanuel](https://github.com/zemanux)** &mdash; Fix decorated box
+  <sub>[#179802](https://github.com/flutter/flutter/pull/179802) merged on February 3, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/179802) over 1 month, 118 additions and 21 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mohellebi Abdessalem](https://github.com/AbdeMohlbi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Use null-aware elements in cupertino/list_tile.dart
   <sub>[#181243](https://github.com/flutter/flutter/pull/181243) merged on February 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181243) over 1 week, 1 addition and 1 deletion in 1 file</sub>
@@ -90,6 +94,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Roll customer tests
   <sub>[#181825](https://github.com/flutter/flutter/pull/181825) merged on February 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181825) over 22 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that an AnimatedScale doesn't crash in 0x0 environment
+  <sub>[#181481](https://github.com/flutter/flutter/pull/181481) merged on February 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181481) over 1 week, 15 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Eren Gun](https://github.com/Erengun)** &mdash; Remove Material library dependency from expansible_test.dart
   <sub>[#181657](https://github.com/flutter/flutter/pull/181657) merged on February 3, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181657) over 5 days, 44 additions and 52 deletions in 2 files</sub>
