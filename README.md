@@ -4,11 +4,16 @@
 
 ### January 31, 2026 to February 6, 2026
 
-30 commits.
+33 commits.
 
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity<br />
   <sub>[#181124](https://github.com/flutter/flutter/pull/181124) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181124) over 2 weeks, 137 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix flattening of very large zoomed curves with tiny stroke widths<br />
+  <sub>[#181505](https://github.com/flutter/flutter/pull/181505) merged on February 4, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/181505) over 1 week, 111 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="784" height="732" alt="Screenshot 2026-01-26 at 11 13 33 AM" src="https://github.com/user-attachments/assets/7cd749a8-eed5-41cb-9ab3-dd438b26f13e" /></details></sub>
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Fix DecoratedSliver sample to avoid antialiasing gap<br />
   <sub>[#179848](https://github.com/flutter/flutter/pull/179848) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/179848) over 1 month, 89 additions and 82 deletions in 2 files</sub><br />
@@ -43,6 +48,10 @@
   <sub>[#181742](https://github.com/flutter/flutter/pull/181742) merged on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181742) over 3 days, 115 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
+* **[August](https://github.com/Gustl22)** &mdash; feat: Pass parameters from DropdownMenuFormField to DropDownMenu<br />
+  <sub>[#181373](https://github.com/flutter/flutter/pull/181373) merged on February 4, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/181373) over 1 week, 149 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[walley892](https://github.com/walley892)** &mdash; Organize and update fragment shader uniform tests.<br />
   <sub>[#181822](https://github.com/flutter/flutter/pull/181822) merged on February 3, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/181822) over 1 day, 656 additions and 304 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -66,6 +75,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Web] Fix flt-platform-view comment<br />
   <sub>[#181576](https://github.com/flutter/flutter/pull/181576) merged on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181576) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `Config complete` log when using `flutter build apk --config-only`<br />
+  <sub>[#181864](https://github.com/flutter/flutter/pull/181864) merged on February 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181864) over 7 hours, 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[Patrick Billingsley](https://github.com/patrickBillingsley)** &mdash; Propagates Overlay's MediaQueryData to OverlayPortal child<br />
   <sub>[#181579](https://github.com/flutter/flutter/pull/181579) merged on February 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181579) over 6 days, 137 additions and 2 deletions in 2 files</sub><br />

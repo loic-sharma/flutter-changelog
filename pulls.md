@@ -161,9 +161,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `Config complete` log when using `flutter build apk --config-only`<br />
-  <sub>[#181864](https://github.com/flutter/flutter/pull/181864) opened on on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181864) 3 additions and 3 deletions in 2 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters in `user_messages.dart`<br />
   <sub>[#181867](https://github.com/flutter/flutter/pull/181867) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181867) 0 additions and 50 deletions in 1 file</sub><br />
 
@@ -180,5 +177,5 @@
   <sub>[#181885](https://github.com/flutter/flutter/pull/181885) opened on on February 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181885) 27 additions and 38 deletions in 1 file</sub><br />
 
 * **[Nightmare](https://github.com/Laurie-Lin)** &mdash; flutter_tools: support transformers for flutter.shaders<br />
-  <sub>[#181889](https://github.com/flutter/flutter/pull/181889) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181889) 220 additions and 48 deletions in 7 files</sub><br />
+  <sub>[#181889](https://github.com/flutter/flutter/pull/181889) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181889) 222 additions and 49 deletions in 8 files</sub><br />
 
