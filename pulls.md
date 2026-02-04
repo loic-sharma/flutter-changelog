@@ -131,9 +131,6 @@
 * **[Ilyosbek Ibrokhimov](https://github.com/ilyosbek22)** &mdash; remove MaterialApp import from raw_radio_test.dart<br />
   <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
 
-* **[Nurda](https://github.com/yeltayev22)** &mdash; Replace MaterialApp with TestWidgetsApp in placeholder_test.dart<br />
-  <sub>[#181723](https://github.com/flutter/flutter/pull/181723) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181723) 4 additions and 3 deletions in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Re-enable AddressSanitizer on the linux_unopt builder<br />
   <sub>[#181741](https://github.com/flutter/flutter/pull/181741) opened on on January 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181741) 14 additions and 2 deletions in 3 files</sub><br />
 
