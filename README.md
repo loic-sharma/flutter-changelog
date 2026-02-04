@@ -911,7 +911,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-6 commits.
+7 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Some FWE cleanup and styling fixes.<br />
   <sub>[#13024](https://github.com/flutter/website/pull/13024) merged on February 4, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13024) over 5 hours, 10 additions and 317 deletions in 5 files</sub><br />
@@ -925,6 +925,10 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [3.41] Add Android Content Sizing Documentation<br />
   <sub>[#13000](https://github.com/flutter/website/pull/13000) merged on February 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13000) over 6 days, 60 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Add go/packaged-ai-assets go link<br />
+  <sub>[#13022](https://github.com/flutter/website/pull/13022) merged on February 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13022) over 17 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Deni-al](https://github.com/Deni-al)** &mdash; Add go link for video_player background playback design doc<br />
   <sub>[#13006](https://github.com/flutter/website/pull/13006) merged on February 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13006) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
