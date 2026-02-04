@@ -122,6 +122,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Apply workaround for generating gradle lock files in hybrid_android_views<br />
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update date localization<br />
+  <sub>[#181685](https://github.com/flutter/flutter/pull/181685) opened on on January 29, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181685) 619 additions and 616 deletions in 3 files</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material imports from Inherited Model, Magnifier, SafeArea, UndoHistory, Navigator and Layers test<br />
   <sub>[#181709](https://github.com/flutter/flutter/pull/181709) opened on on January 30, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/181709) 492 additions and 245 deletions in 8 files</sub><br />
 
