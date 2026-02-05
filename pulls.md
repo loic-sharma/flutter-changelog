@@ -116,9 +116,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Apply workaround for generating gradle lock files in hybrid_android_views<br />
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update date localization<br />
-  <sub>[#181685](https://github.com/flutter/flutter/pull/181685) opened on on January 29, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181685) 619 additions and 616 deletions in 3 files</sub><br />
-
 * **[Ilyosbek Ibrokhimov](https://github.com/ilyosbek22)** &mdash; remove MaterialApp import from raw_radio_test.dart<br />
   <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
 
@@ -166,9 +163,6 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; engine: Use a super-parameter in one missed case<br />
   <sub>[#181914](https://github.com/flutter/flutter/pull/181914) opened on on February 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181914) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Migrate json decoder in FlutterCodecs and the tests to swift<br />
-  <sub>[#181921](https://github.com/flutter/flutter/pull/181921) opened on on February 4, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/181921) 224 additions and 100 deletions in 6 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add missing dependencies to framework_tests_misc_leak_tracking<br />
   <sub>[#181929](https://github.com/flutter/flutter/pull/181929) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181929) 4 additions and 1 deletion in 1 file</sub><br />
