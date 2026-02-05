@@ -108,7 +108,7 @@
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Clean up cross imports in single_child_scroll_view_test.dart, decorated_sliver_test.dart, draggable_scrollable_sheet_test.dart<br />
-  <sub>[#181613](https://github.com/flutter/flutter/pull/181613) opened on on January 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181613) 139 additions and 152 deletions in 5 files</sub><br />
+  <sub>[#181613](https://github.com/flutter/flutter/pull/181613) opened on on January 28, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/181613) 174 additions and 160 deletions in 5 files</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Migration: Remove material.dart dependency from framework_test.dart (Issue #177414)<br />
   <sub>[#181620](https://github.com/flutter/flutter/pull/181620) opened on on January 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181620) 37 additions and 29 deletions in 2 files</sub><br />
