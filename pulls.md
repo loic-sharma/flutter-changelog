@@ -180,5 +180,5 @@
   <sub>[#181972](https://github.com/flutter/flutter/pull/181972) opened on on February 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181972) 96 additions and 62 deletions in 13 files</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from rotated_box_test.dart<br />
-  <sub>[#181974](https://github.com/flutter/flutter/pull/181974) opened on on February 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181974) 3 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#181974](https://github.com/flutter/flutter/pull/181974) opened on on February 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181974) 5 additions and 4 deletions in 2 files</sub><br />
 
