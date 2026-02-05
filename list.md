@@ -803,7 +803,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-10 commits.
+11 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] handle interruptions and use single offset
   <sub>[#8982](https://github.com/flutter/packages/pull/8982) merged on February 3, 2026 &mdash; **Medium:** [58 comments](https://github.com/flutter/packages/pull/8982) over 10 months, 295 additions and 76 deletions in 11 files</sub>
@@ -840,6 +840,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add `TypedQueryParameter` annotation
   <sub>[#10792](https://github.com/flutter/packages/pull/10792) merged on February 3, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10792) over 2 weeks, 40 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera] Remove unused test file
+  <sub>[#10966](https://github.com/flutter/packages/pull/10966) merged on February 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10966) over 1 day, 0 additions and 49 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Frank](https://github.com/Frank3K)** &mdash; [google_fonts] Fix file type priority in asset path lookup
   <sub>[#10907](https://github.com/flutter/packages/pull/10907) merged on February 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10907) over 1 week, 20 additions and 12 deletions in 4 files</sub>
