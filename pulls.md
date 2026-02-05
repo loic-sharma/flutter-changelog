@@ -179,3 +179,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Temporarily remove the Pixel 9/API 36 device from the Firebase Test Lab tests.<br />
   <sub>[#181956](https://github.com/flutter/flutter/pull/181956) opened on on February 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181956) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix NavigationDrawer highlight rendering when index changes externally (#180359)<br />
+  <sub>[#181960](https://github.com/flutter/flutter/pull/181960) opened on on February 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181960) 24 additions and 29 deletions in 2 files</sub><br />
+
