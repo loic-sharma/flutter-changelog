@@ -123,7 +123,7 @@
   <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart<br />
-  <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/181774) 315 additions and 392 deletions in 12 files</sub><br />
+  <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/181774) 315 additions and 392 deletions in 12 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress indicator to artifact downloads<br />
   <sub>[#181808](https://github.com/flutter/flutter/pull/181808) opened on on February 2, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181808) 338 additions and 56 deletions in 3 files</sub><br />
@@ -177,7 +177,7 @@
   <sub>[#181951](https://github.com/flutter/flutter/pull/181951) opened on on February 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181951) 79 additions and 81 deletions in 3 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Temporarily remove the Pixel 9/API 36 device from the Firebase Test Lab tests.<br />
-  <sub>[#181956](https://github.com/flutter/flutter/pull/181956) opened on on February 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181956) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#181956](https://github.com/flutter/flutter/pull/181956) opened on on February 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181956) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix NavigationDrawer highlight rendering when index changes externally (#180359)<br />
   <sub>[#181960](https://github.com/flutter/flutter/pull/181960) opened on on February 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181960) 24 additions and 29 deletions in 2 files</sub><br />
