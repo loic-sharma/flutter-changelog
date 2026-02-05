@@ -787,7 +787,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-8 commits.
+9 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] handle interruptions and use single offset<br />
   <sub>[#8982](https://github.com/flutter/packages/pull/8982) merged on February 3, 2026 &mdash; **Medium:** [58 comments](https://github.com/flutter/packages/pull/8982) over 10 months, 295 additions and 76 deletions in 11 files</sub><br />
@@ -804,6 +804,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Remove use of OCMock<br />
   <sub>[#10863](https://github.com/flutter/packages/pull/10863) merged on February 4, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10863) over 1 week, 815 additions and 370 deletions in 42 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Fix crash in iOS external native API<br />
+  <sub>[#10959](https://github.com/flutter/packages/pull/10959) merged on February 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/10959) over 1 day, 29 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[ivan-vanyusho](https://github.com/ivan-vanyusho)** &mdash; [camera_avfoundation] ios saving path<br />
   <sub>[#10832](https://github.com/flutter/packages/pull/10832) merged on February 4, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/10832) over 2 weeks, 44 additions and 5 deletions in 4 files</sub><br />
