@@ -179,3 +179,6 @@
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix NavigationDrawer highlight rendering when index changes externally (#180359)<br />
   <sub>[#181960](https://github.com/flutter/flutter/pull/181960) opened on on February 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181960) 24 additions and 29 deletions in 2 files</sub><br />
 
+* **[Ricky van den berg](https://github.com/RickyvdBerg)** &mdash; [Impeller] Fix VkImageView leak in WrappedTextureSourceVK<br />
+  <sub>[#181966](https://github.com/flutter/flutter/pull/181966) opened on on February 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181966) 13 additions and 9 deletions in 1 file</sub><br />
+
