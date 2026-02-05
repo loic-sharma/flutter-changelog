@@ -947,7 +947,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-15 commits.
+16 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Some FWE cleanup and styling fixes.<br />
   <sub>[#13024](https://github.com/flutter/website/pull/13024) merged on February 4, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13024) over 5 hours, 10 additions and 317 deletions in 5 files</sub><br />
@@ -982,6 +982,10 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [3.41] Add Android Content Sizing Documentation<br />
   <sub>[#13000](https://github.com/flutter/website/pull/13000) merged on February 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13000) over 6 days, 60 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `/go/transitions-everywhere` design doc redirect<br />
+  <sub>[#13036](https://github.com/flutter/website/pull/13036) merged on February 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13036) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[PTMakes](https://github.com/PTMakes)** &mdash; Fix callback name to match example code from 'onGuessSubmitted' to 'onSubmitGuess'<br />
   <sub>[#13009](https://github.com/flutter/website/pull/13009) merged on February 4, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13009) over 5 days, 2 additions and 2 deletions in 1 file</sub><br />
