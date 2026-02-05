@@ -131,9 +131,6 @@
 * **[Ilyosbek Ibrokhimov](https://github.com/ilyosbek22)** &mdash; remove MaterialApp import from raw_radio_test.dart<br />
   <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Re-enable AddressSanitizer on the linux_unopt builder<br />
-  <sub>[#181741](https://github.com/flutter/flutter/pull/181741) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181741) 14 additions and 2 deletions in 3 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart<br />
   <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/181774) 315 additions and 391 deletions in 12 files</sub><br />
 
@@ -181,7 +178,4 @@
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add missing dependencies to framework_tests_misc_leak_tracking<br />
   <sub>[#181929](https://github.com/flutter/flutter/pull/181929) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181929) 4 additions and 1 deletion in 1 file</sub><br />
-
-* **[serbandin](https://github.com/serbandin)** &mdash; fix-huawei-imagereader-166481<br />
-  <sub>[#181931](https://github.com/flutter/flutter/pull/181931) opened on on February 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181931) 54 additions and 1 deletion in 4 files</sub><br />
 
