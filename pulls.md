@@ -173,12 +173,15 @@
 * **[Ricky van den berg](https://github.com/RickyvdBerg)** &mdash; [Impeller] Fix VkImageView leak in WrappedTextureSourceVK<br />
   <sub>[#181966](https://github.com/flutter/flutter/pull/181966) opened on on February 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181966) 13 additions and 9 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Update doc in foundation to match the style guide<br />
-  <sub>[#181972](https://github.com/flutter/flutter/pull/181972) opened on on February 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181972) 96 additions and 62 deletions in 13 files</sub><br />
-
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from rotated_box_test.dart<br />
   <sub>[#181974](https://github.com/flutter/flutter/pull/181974) opened on on February 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181974) 5 additions and 4 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Added Warning Against Updating to AGP 9<br />
   <sub>[#181977](https://github.com/flutter/flutter/pull/181977) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181977) 31 additions and 9 deletions in 2 files</sub><br />
+
+* **[Dominique Martinet](https://github.com/martinetd)** &mdash; [gn] fix --stripped being disabled for all targets<br />
+  <sub>[#181984](https://github.com/flutter/flutter/pull/181984) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181984) 3 additions and 1 deletion in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia from 39aa2a70213a to 9a983f6c2c06<br />
+  <sub>[#181986](https://github.com/flutter/flutter/pull/181986) opened on on February 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181986) 7 additions and 7 deletions in 2 files</sub><br />
 
