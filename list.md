@@ -1011,7 +1011,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-19 commits.
+20 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Some FWE cleanup and styling fixes.
   <sub>[#13024](https://github.com/flutter/website/pull/13024) merged on February 4, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13024) over 5 hours, 10 additions and 317 deletions in 5 files</sub>
@@ -1022,6 +1022,10 @@
   <sub>[#13008](https://github.com/flutter/website/pull/13008) merged on February 4, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13008) over 1 week, 69 additions and 112 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kilian Schulte](https://github.com/schultek), [Shams Zakhour](https://github.com/sfshaza2)</sub>
   <sub><details><summary>2 images...</summary><img width="1471" height="391" alt="Bildschirmfoto 2026-01-28 um 17 27 51" src="https://github.com/user-attachments/assets/34cbde5c-c78d-4fbb-a909-cc50e54748a8" /><img width="1477" height="624" alt="Bildschirmfoto 2026-01-28 um 17 28 20" src="https://github.com/user-attachments/assets/e8cd3a14-a85f-4653-a50e-f23ae11c88ba" /></details></sub>
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Add onReorder callback migration guide
+  <sub>[#13012](https://github.com/flutter/website/pull/13012) merged on February 6, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/website/pull/13012) over 6 days, 175 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add "Cupertino" and "Material" glossary entries
   <sub>[#12999](https://github.com/flutter/website/pull/12999) merged on February 4, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12999) over 1 week, 45 additions and 0 deletions in 1 file</sub>
