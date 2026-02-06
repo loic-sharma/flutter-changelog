@@ -182,3 +182,6 @@
 * **[EricApostal](https://github.com/EricApostal)** &mdash; Fix Viewport incorrectly calculating implicit scroll offset when anchored<br />
   <sub>[#181989](https://github.com/flutter/flutter/pull/181989) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181989) 80 additions and 1 deletion in 2 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Add alwaysSizeToContent argument to Overlay.<br />
+  <sub>[#182009](https://github.com/flutter/flutter/pull/182009) opened on on February 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182009) 121 additions and 9 deletions in 2 files</sub><br />
+

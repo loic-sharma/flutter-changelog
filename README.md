@@ -7,7 +7,7 @@
 54 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino.dart] Implement CupertinoMenuAnchor and CupertinoMenuItem using RawMenuAnchor<br />
-  <sub>[#174695](https://github.com/flutter/flutter/pull/174695) merged on February 6, 2026 &mdash; **Extra large:** [140 comments](https://github.com/flutter/flutter/pull/174695) over 5 months, 10177 additions and 2 deletions in 8 files</sub><br />
+  <sub>[#174695](https://github.com/flutter/flutter/pull/174695) merged on February 6, 2026 &mdash; **Extra large:** [142 comments](https://github.com/flutter/flutter/pull/174695) over 5 months, 10177 additions and 2 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[moko256](https://github.com/moko256)** &mdash; [Android] Add predictive back support for FlutterFragment and FlutterFragmentActivity<br />
