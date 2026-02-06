@@ -176,6 +176,9 @@
 * **[EricApostal](https://github.com/EricApostal)** &mdash; Fix Viewport incorrectly calculating implicit scroll offset when anchored<br />
   <sub>[#181989](https://github.com/flutter/flutter/pull/181989) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181989) 80 additions and 1 deletion in 2 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused constant in `bundle.dart`<br />
+  <sub>[#182023](https://github.com/flutter/flutter/pull/182023) opened on on February 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182023) 0 additions and 2 deletions in 1 file</sub><br />
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari<br />
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) opened on on February 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182024) 313 additions and 205 deletions in 4 files</sub><br />
 
