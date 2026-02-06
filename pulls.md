@@ -183,5 +183,8 @@
   <sub>[#181984](https://github.com/flutter/flutter/pull/181984) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181984) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia from 39aa2a70213a to 9a983f6c2c06<br />
-  <sub>[#181986](https://github.com/flutter/flutter/pull/181986) opened on on February 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181986) 7 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#181986](https://github.com/flutter/flutter/pull/181986) opened on on February 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181986) 14 additions and 7 deletions in 3 files</sub><br />
+
+* **[EricApostal](https://github.com/EricApostal)** &mdash; Fix Viewport incorrectly calculating implicit scroll offset when anchored<br />
+  <sub>[#181989](https://github.com/flutter/flutter/pull/181989) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181989) 80 additions and 1 deletion in 2 files</sub><br />
 
