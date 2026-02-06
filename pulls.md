@@ -56,9 +56,6 @@
 * **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
   <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/180431) 44 additions and 6 deletions in 2 files</sub><br />
 
-* **[Jason Huang](https://github.com/zxcv1884)** &mdash; Fix external texture support in embedder for Impeller<br />
-  <sub>[#180505](https://github.com/flutter/flutter/pull/180505) opened on on January 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180505) 2 additions and 1 deletion in 1 file</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
