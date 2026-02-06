@@ -212,7 +212,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Update Dart SDK to 3.12 beta1<br />
-  <sub>[#181948](https://github.com/flutter/flutter/pull/181948) merged on February 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181948) over 16 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#181948](https://github.com/flutter/flutter/pull/181948) merged on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181948) over 16 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters on AndroidProject class<br />
