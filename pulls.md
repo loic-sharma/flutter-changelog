@@ -98,9 +98,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart<br />
   <sub>[#181465](https://github.com/flutter/flutter/pull/181465) opened on on January 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181465) 296 additions and 468 deletions in 2 files</sub><br />
 
-* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot. [reland]<br />
-  <sub>[#181539](https://github.com/flutter/flutter/pull/181539) opened on on January 27, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/181539) 111 additions and 328 deletions in 4 files</sub><br />
-
 * **[Patel Bhavy ](https://github.com/bhavypatel5391)** &mdash; Grammar<br />
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -181,4 +178,7 @@
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from rotated_box_test.dart<br />
   <sub>[#181974](https://github.com/flutter/flutter/pull/181974) opened on on February 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181974) 5 additions and 4 deletions in 2 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Added Warning Against Updating to AGP 9<br />
+  <sub>[#181977](https://github.com/flutter/flutter/pull/181977) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181977) 31 additions and 9 deletions in 2 files</sub><br />
 
