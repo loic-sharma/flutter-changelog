@@ -134,9 +134,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix wrong comment about default impeller value<br />
   <sub>[#181831](https://github.com/flutter/flutter/pull/181831) opened on on February 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181831) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Migrate engine internal swift code to strict concurrency<br />
-  <sub>[#181837](https://github.com/flutter/flutter/pull/181837) opened on on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181837) 54 additions and 42 deletions in 7 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
