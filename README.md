@@ -835,7 +835,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-11 commits.
+12 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] handle interruptions and use single offset<br />
   <sub>[#8982](https://github.com/flutter/packages/pull/8982) merged on February 3, 2026 &mdash; **Medium:** [58 comments](https://github.com/flutter/packages/pull/8982) over 10 months, 295 additions and 76 deletions in 11 files</sub><br />
@@ -872,6 +872,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add `TypedQueryParameter` annotation<br />
   <sub>[#10792](https://github.com/flutter/packages/pull/10792) merged on February 3, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10792) over 2 weeks, 40 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [flutter_svg] Convert example app to Swift<br />
+  <sub>[#10968](https://github.com/flutter/packages/pull/10968) merged on February 6, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/10968) over 16 hours, 158 additions and 153 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera] Remove unused test file<br />
   <sub>[#10966](https://github.com/flutter/packages/pull/10966) merged on February 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/10966) over 1 day, 0 additions and 49 deletions in 1 file</sub><br />
