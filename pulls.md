@@ -179,3 +179,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari<br />
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) opened on on February 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182024) 313 additions and 205 deletions in 4 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Stop double loading fonts for WebParagraph<br />
+  <sub>[#182026](https://github.com/flutter/flutter/pull/182026) opened on on February 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182026) 20 additions and 94 deletions in 2 files</sub><br />
+
