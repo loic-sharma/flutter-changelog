@@ -59,9 +59,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds opengles to engine dart tests<br />
-  <sub>[#180704](https://github.com/flutter/flutter/pull/180704) opened on on January 8, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/180704) 615 additions and 75 deletions in 9 files</sub><br />
-
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
@@ -182,6 +179,6 @@
 * **[EricApostal](https://github.com/EricApostal)** &mdash; Fix Viewport incorrectly calculating implicit scroll offset when anchored<br />
   <sub>[#181989](https://github.com/flutter/flutter/pull/181989) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181989) 80 additions and 1 deletion in 2 files</sub><br />
 
-* **[sangeerth Bs](https://github.com/hackersbs)** &mdash; Fix/bug 4 5 divide by zero coverage calculation<br />
-  <sub>[#182022](https://github.com/flutter/flutter/pull/182022) opened on on February 6, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/182022) 774 additions and 8 deletions in 5 files</sub><br />
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari<br />
+  <sub>[#182024](https://github.com/flutter/flutter/pull/182024) opened on on February 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182024) 313 additions and 205 deletions in 4 files</sub><br />
 

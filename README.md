@@ -1011,7 +1011,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-20 commits.
+21 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Some FWE cleanup and styling fixes.<br />
   <sub>[#13024](https://github.com/flutter/website/pull/13024) merged on February 4, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13024) over 5 hours, 10 additions and 317 deletions in 5 files</sub><br />
@@ -1054,6 +1054,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix sitemap date formatting to fix build<br />
   <sub>[#13040](https://github.com/flutter/website/pull/13040) merged on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13040) over 15 minutes, 10 additions and 10 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Lazaro Marques](https://github.com/lazarohcm)** &mdash; Update flutter flavor instructions<br />
+  <sub>[#13037](https://github.com/flutter/website/pull/13037) merged on February 6, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13037) over 1 day, 66 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Tim Preston](https://github.com/tmpreston)** &mdash; docs Tile constructor params wrong<br />
   <sub>[#13001](https://github.com/flutter/website/pull/13001) merged on February 5, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13001) over 1 week, 3 additions and 3 deletions in 2 files</sub><br />
