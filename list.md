@@ -1040,7 +1040,7 @@
   <sub><details><summary>2 images...</summary><img width="1471" height="391" alt="Bildschirmfoto 2026-01-28 um 17 27 51" src="https://github.com/user-attachments/assets/34cbde5c-c78d-4fbb-a909-cc50e54748a8" /><img width="1477" height="624" alt="Bildschirmfoto 2026-01-28 um 17 28 20" src="https://github.com/user-attachments/assets/e8cd3a14-a85f-4653-a50e-f23ae11c88ba" /></details></sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Add onReorder callback migration guide
-  <sub>[#13012](https://github.com/flutter/website/pull/13012) merged on February 6, 2026 &mdash; **Small:** [32 comments](https://github.com/flutter/website/pull/13012) over 6 days, 175 additions and 0 deletions in 2 files</sub>
+  <sub>[#13012](https://github.com/flutter/website/pull/13012) merged on February 6, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/website/pull/13012) over 6 days, 175 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add Kotlin DSL examples to Android build docs

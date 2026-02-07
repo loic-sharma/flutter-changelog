@@ -144,7 +144,7 @@
   <sub>[#181889](https://github.com/flutter/flutter/pull/181889) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181889) 222 additions and 49 deletions in 8 files</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Refactor autofill_group_test.dart to remove Material dependencies<br />
-  <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 64 deletions in 2 files</sub><br />
+  <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 64 deletions in 2 files</sub><br />
 
 * **[nmarci89](https://github.com/westito)** &mdash; Fix SubmenuButton submenu positioning<br />
   <sub>[#181908](https://github.com/flutter/flutter/pull/181908) opened on on February 4, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181908) 1036 additions and 52 deletions in 3 files</sub><br />
@@ -156,7 +156,7 @@
   <sub>[#181929](https://github.com/flutter/flutter/pull/181929) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181929) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move SelectionArea web test from widgets to material folder<br />
-  <sub>[#181951](https://github.com/flutter/flutter/pull/181951) opened on on February 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181951) 79 additions and 81 deletions in 3 files</sub><br />
+  <sub>[#181951](https://github.com/flutter/flutter/pull/181951) opened on on February 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181951) 79 additions and 81 deletions in 3 files</sub><br />
 
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix NavigationDrawer highlight rendering when index changes externally (#180359)<br />
   <sub>[#181960](https://github.com/flutter/flutter/pull/181960) opened on on February 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181960) 24 additions and 29 deletions in 2 files</sub><br />
@@ -165,7 +165,7 @@
   <sub>[#181966](https://github.com/flutter/flutter/pull/181966) opened on on February 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181966) 13 additions and 9 deletions in 1 file</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from rotated_box_test.dart<br />
-  <sub>[#181974](https://github.com/flutter/flutter/pull/181974) opened on on February 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181974) 5 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#181974](https://github.com/flutter/flutter/pull/181974) opened on on February 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181974) 5 additions and 4 deletions in 2 files</sub><br />
 
 * **[Dominique Martinet](https://github.com/martinetd)** &mdash; [gn] fix --stripped being disabled for all targets<br />
   <sub>[#181984](https://github.com/flutter/flutter/pull/181984) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181984) 3 additions and 1 deletion in 1 file</sub><br />
