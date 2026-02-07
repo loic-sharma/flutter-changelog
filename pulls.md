@@ -185,6 +185,9 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Clean up include paths for Fuchsia in the flutter engine<br />
   <sub>[#182031](https://github.com/flutter/flutter/pull/182031) opened on on February 6, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182031) 218 additions and 268 deletions in 107 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out unnecessary `assert`s<br />
+  <sub>[#182042](https://github.com/flutter/flutter/pull/182042) opened on on February 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182042) 7 additions and 14 deletions in 2 files</sub><br />
+
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
