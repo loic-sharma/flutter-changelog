@@ -851,7 +851,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-12 commits.
+13 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] handle interruptions and use single offset<br />
   <sub>[#8982](https://github.com/flutter/packages/pull/8982) merged on February 3, 2026 &mdash; **Medium:** [58 comments](https://github.com/flutter/packages/pull/8982) over 10 months, 295 additions and 76 deletions in 11 files</sub><br />
@@ -888,6 +888,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add `TypedQueryParameter` annotation<br />
   <sub>[#10792](https://github.com/flutter/packages/pull/10792) merged on February 3, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/10792) over 2 weeks, 40 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Pigeon swift migration - part 1<br />
+  <sub>[#10939](https://github.com/flutter/packages/pull/10939) merged on February 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10939) over 5 days, 21 additions and 18 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [flutter_svg] Convert example app to Swift<br />
   <sub>[#10968](https://github.com/flutter/packages/pull/10968) merged on February 6, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/10968) over 16 hours, 158 additions and 153 deletions in 26 files</sub><br />
