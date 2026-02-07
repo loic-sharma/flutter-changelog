@@ -50,6 +50,10 @@
   <sub>[#181743](https://github.com/flutter/flutter/pull/181743) merged on February 7, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/181743) over 1 week, 125 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's style guide for dot shorthands and extension methods
+  <sub>[#181934](https://github.com/flutter/flutter/pull/181934) merged on February 7, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181934) over 1 day, 334 additions and 12 deletions in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add `clearError` API to Form and FormFieldState
   <sub>[#180752](https://github.com/flutter/flutter/pull/180752) merged on February 5, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180752) over 3 weeks, 99 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -82,10 +86,6 @@
 * **[Emmanuel](https://github.com/zemanux)** &mdash; Fix decorated box
   <sub>[#179802](https://github.com/flutter/flutter/pull/179802) merged on February 3, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/179802) over 1 month, 118 additions and 21 deletions in 2 files</sub>
   <sub>Reviewed by: [Mohellebi Abdessalem](https://github.com/AbdeMohlbi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's style guide for dot shorthands and extension methods
-  <sub>[#181934](https://github.com/flutter/flutter/pull/181934) merged on February 7, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181934) over 1 day, 334 additions and 12 deletions in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Improve accessibility contrast for pre-test message
   <sub>[#180469](https://github.com/flutter/flutter/pull/180469) merged on February 5, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/180469) over 1 month, 16 additions and 1 deletion in 2 files</sub>
@@ -1027,7 +1027,7 @@
 
 ### January 31, 2026 to February 6, 2026
 
-22 commits.
+23 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Some FWE cleanup and styling fixes.
   <sub>[#13024](https://github.com/flutter/website/pull/13024) merged on February 4, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13024) over 5 hours, 10 additions and 317 deletions in 5 files</sub>
@@ -1042,6 +1042,10 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Add onReorder callback migration guide
   <sub>[#13012](https://github.com/flutter/website/pull/13012) merged on February 6, 2026 &mdash; **Small:** [32 comments](https://github.com/flutter/website/pull/13012) over 6 days, 175 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add Kotlin DSL examples to Android build docs
+  <sub>[#13034](https://github.com/flutter/website/pull/13034) merged on February 7, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13034) over 2 days, 185 additions and 7 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add "Cupertino" and "Material" glossary entries
   <sub>[#12999](https://github.com/flutter/website/pull/12999) merged on February 4, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/12999) over 1 week, 45 additions and 0 deletions in 1 file</sub>
