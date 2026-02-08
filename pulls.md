@@ -194,3 +194,6 @@
 * **[Divyansh Shah](https://github.com/crackedhandle)** &mdash; Encourage splitting large test files in testing documentation 2<br />
   <sub>[#182051](https://github.com/flutter/flutter/pull/182051) opened on on February 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182051) 33 additions and 0 deletions in 1 file</sub><br />
 
+* **[qian](https://github.com/HuQian)** &mdash; fix build fail for wayland only platform<br />
+  <sub>[#182057](https://github.com/flutter/flutter/pull/182057) opened on on February 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182057) 4 additions and 0 deletions in 1 file</sub><br />
+
