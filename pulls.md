@@ -200,3 +200,6 @@
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM: Model-Based Regeneration<br />
   <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182065) 299 additions and 65 deletions in 9 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update example description<br />
+  <sub>[#182067](https://github.com/flutter/flutter/pull/182067) opened on on February 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182067) 1 addition and 2 deletions in 1 file</sub><br />
+
