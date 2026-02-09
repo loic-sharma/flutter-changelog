@@ -4,7 +4,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-7 commits.
+9 commits.
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment
   <sub>[#180487](https://github.com/flutter/flutter/pull/180487) merged on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180487) over 1 month, 89 additions and 7 deletions in 3 files</sub>
@@ -15,6 +15,10 @@
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) merged on February 9, 2026 &mdash; **Large:** [148 comments](https://github.com/flutter/flutter/pull/180098) over 1 month, 1306 additions and 19 deletions in 17 files</sub>
   <sub>Reviewed by: [Jacob MacDonald](https://github.com/jakemac53), [Nate Bosch](https://github.com/natebosch), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor accessibility guidelines out to widget layer
+  <sub>[#181672](https://github.com/flutter/flutter/pull/181672) merged on February 9, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/181672) over 1 week, 902 additions and 0 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[b-luk](https://github.com/b-luk)** &mdash; Adds opengles to engine dart tests
   <sub>[#181933](https://github.com/flutter/flutter/pull/181933) merged on February 9, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/181933) over 4 days, 658 additions and 154 deletions in 18 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -22,6 +26,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant
   <sub>[#181224](https://github.com/flutter/flutter/pull/181224) merged on February 9, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181224) over 2 weeks, 834 additions and 17 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep
+  <sub>[#180976](https://github.com/flutter/flutter/pull/180976) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180976) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [walley892](https://github.com/walley892)</sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused constant in `bundle.dart`
   <sub>[#182023](https://github.com/flutter/flutter/pull/182023) merged on February 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182023) over 3 days, 0 additions and 2 deletions in 1 file</sub>
