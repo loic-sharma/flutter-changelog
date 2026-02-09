@@ -77,9 +77,6 @@
 * **[Divith S](https://github.com/Divith123)** &mdash; RFC: Opt-in Semantic Shadow Tree for Flutter Web SEO<br />
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
-  <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181224) 834 additions and 17 deletions in 9 files</sub><br />
-
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
 

@@ -4,11 +4,23 @@
 
 ### February 7, 2026 to February 13, 2026
 
-3 commits.
+6 commits.
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; Add a new flutter cli command, running-apps, using mDNS app discovery<br />
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) merged on February 9, 2026 &mdash; **Large:** [148 comments](https://github.com/flutter/flutter/pull/180098) over 1 month, 1306 additions and 19 deletions in 17 files</sub><br />
   <sub>Reviewed by: [Jacob MacDonald](https://github.com/jakemac53), [Nate Bosch](https://github.com/natebosch), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Adds opengles to engine dart tests<br />
+  <sub>[#181933](https://github.com/flutter/flutter/pull/181933) merged on February 9, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/181933) over 4 days, 658 additions and 154 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
+  <sub>[#181224](https://github.com/flutter/flutter/pull/181224) merged on February 9, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181224) over 2 weeks, 834 additions and 17 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused constant in `bundle.dart`<br />
+  <sub>[#182023](https://github.com/flutter/flutter/pull/182023) merged on February 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182023) over 3 days, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters in `user_messages.dart`<br />
   <sub>[#181867](https://github.com/flutter/flutter/pull/181867) merged on February 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181867) over 6 days, 0 additions and 50 deletions in 1 file</sub><br />
