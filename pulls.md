@@ -78,7 +78,7 @@
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add command to build a Swift Package for Add to App and generate FlutterPluginRegistrant<br />
-  <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181224) 851 additions and 17 deletions in 8 files</sub><br />
+  <sub>[#181224](https://github.com/flutter/flutter/pull/181224) opened on on January 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181224) 834 additions and 17 deletions in 9 files</sub><br />
 
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling)** &mdash; Improve tooltip position context docs<br />
   <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
@@ -185,6 +185,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 first grouped tests<br />
   <sub>[#182077](https://github.com/flutter/flutter/pull/182077) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182077) 146 additions and 1 deletion in 7 files</sub><br />
 
-* **[AD](https://github.com/BrainLUX)** &mdash; Fix positionInlineChildren assert text<br />
-  <sub>[#182091](https://github.com/flutter/flutter/pull/182091) opened on on February 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182091) 1 addition and 1 deletion in 1 file</sub><br />
+* **[AD](https://github.com/BrainLUX)** &mdash; Make positionInlineChildren assert much clearer<br />
+  <sub>[#182093](https://github.com/flutter/flutter/pull/182093) opened on on February 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182093) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Jorge Betancourt](https://github.com/jbeta51)** &mdash; Update Skia logging ports: Replace SkDebug with SkLog<br />
+  <sub>[#182094](https://github.com/flutter/flutter/pull/182094) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182094) 6 additions and 6 deletions in 1 file</sub><br />
 
