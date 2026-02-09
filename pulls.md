@@ -110,9 +110,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart<br />
   <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181774) 330 additions and 403 deletions in 12 files</sub><br />
 
-* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress indicator to artifact downloads<br />
-  <sub>[#181808](https://github.com/flutter/flutter/pull/181808) opened on on February 2, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/181808) 338 additions and 56 deletions in 3 files</sub><br />
-
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move tap_region_test.dart from widgets to material<br />
   <sub>[#181809](https://github.com/flutter/flutter/pull/181809) opened on on February 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181809) 90 additions and 67 deletions in 2 files</sub><br />
 
@@ -125,20 +122,11 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link to c_cpp_properties.json reference in `Setting-up-the-Engine-development-environment.md`<br />
   <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix wrong comment about default impeller value<br />
-  <sub>[#181831](https://github.com/flutter/flutter/pull/181831) opened on on February 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181831) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters in `user_messages.dart`<br />
-  <sub>[#181867](https://github.com/flutter/flutter/pull/181867) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181867) 0 additions and 50 deletions in 1 file</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Avoid unnecessary ImageFilter::makeWithLocalMatrix in ImageFilterLayer::Diff<br />
   <sub>[#181869](https://github.com/flutter/flutter/pull/181869) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181869) 9 additions and 10 deletions in 1 file</sub><br />
-
-* **[Nightmare](https://github.com/Laurie-Lin)** &mdash; flutter_tools: support transformers for flutter.shaders<br />
-  <sub>[#181889](https://github.com/flutter/flutter/pull/181889) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181889) 222 additions and 49 deletions in 8 files</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Refactor autofill_group_test.dart to remove Material dependencies<br />
   <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 64 deletions in 2 files</sub><br />
@@ -170,9 +158,6 @@
 * **[EricApostal](https://github.com/EricApostal)** &mdash; Fix Viewport incorrectly calculating implicit scroll offset when anchored<br />
   <sub>[#181989](https://github.com/flutter/flutter/pull/181989) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181989) 80 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused constant in `bundle.dart`<br />
-  <sub>[#182023](https://github.com/flutter/flutter/pull/182023) opened on on February 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182023) 0 additions and 2 deletions in 1 file</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari<br />
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) opened on on February 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182024) 313 additions and 205 deletions in 4 files</sub><br />
 
@@ -199,7 +184,4 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 first grouped tests<br />
   <sub>[#182077](https://github.com/flutter/flutter/pull/182077) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182077) 146 additions and 1 deletion in 7 files</sub><br />
-
-* **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Fix `flutter build web` ignoring `--web-define` flag<br />
-  <sub>[#182079](https://github.com/flutter/flutter/pull/182079) opened on on February 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182079) 167 additions and 0 deletions in 5 files</sub><br />
 
