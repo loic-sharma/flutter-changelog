@@ -185,3 +185,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 first grouped tests<br />
   <sub>[#182077](https://github.com/flutter/flutter/pull/182077) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182077) 146 additions and 1 deletion in 7 files</sub><br />
 
+* **[AD](https://github.com/BrainLUX)** &mdash; Fix positionInlineChildren assert text<br />
+  <sub>[#182091](https://github.com/flutter/flutter/pull/182091) opened on on February 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182091) 1 addition and 1 deletion in 1 file</sub><br />
+

@@ -700,11 +700,28 @@
 
 ### February 7, 2026 to February 13, 2026
 
-3 commits.
+7 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [3.41] Add `RepeatingAnimationBuilder` to the widget catalog<br />
+  <sub>[#12870](https://github.com/flutter/website/pull/12870) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12870) over 1 month, 15 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="311" height="388" alt="image" src="https://github.com/user-attachments/assets/a81f5a25-5864-4dfb-b1d5-19a0d78d3f02" /></details></sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [3.41] Document content-based resizing for add-to-app on iOS<br />
   <sub>[#12810](https://github.com/flutter/website/pull/12810) merged on February 9, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/12810) over 2 months, 64 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; [3.41] Add platform-specific assets documentation<br />
+  <sub>[#12967](https://github.com/flutter/website/pull/12967) merged on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/12967) over 2 weeks, 29 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Lau Ching Jun](https://github.com/chingjun), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [3.41] Updated fragment shader api to reflect new uniform-by-name accessors.<br />
+  <sub>[#12556](https://github.com/flutter/website/pull/12556) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12556) over 3 months, 64 additions and 57 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds cacheExtent and cacheExtentStyle migration guide<br />
+  <sub>[#13044](https://github.com/flutter/website/pull/13044) merged on February 9, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13044) over 2 days, 120 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Document dylib naming constraints<br />
   <sub>[#13047](https://github.com/flutter/website/pull/13047) merged on February 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13047) over 9 hours, 64 additions and 0 deletions in 1 file</sub><br />
