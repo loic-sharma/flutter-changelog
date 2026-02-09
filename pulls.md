@@ -137,9 +137,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Avoid unnecessary ImageFilter::makeWithLocalMatrix in ImageFilterLayer::Diff<br />
   <sub>[#181869](https://github.com/flutter/flutter/pull/181869) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181869) 9 additions and 10 deletions in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FlWindowMonitor API<br />
-  <sub>[#181885](https://github.com/flutter/flutter/pull/181885) opened on on February 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181885) 27 additions and 38 deletions in 1 file</sub><br />
-
 * **[Nightmare](https://github.com/Laurie-Lin)** &mdash; flutter_tools: support transformers for flutter.shaders<br />
   <sub>[#181889](https://github.com/flutter/flutter/pull/181889) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181889) 222 additions and 49 deletions in 8 files</sub><br />
 
