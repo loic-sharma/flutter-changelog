@@ -4,11 +4,15 @@
 
 ### February 7, 2026 to February 13, 2026
 
-1 commits.
+2 commits.
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; Add a new flutter cli command, running-apps, using mDNS app discovery
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) merged on February 9, 2026 &mdash; **Large:** [148 comments](https://github.com/flutter/flutter/pull/180098) over 1 month, 1306 additions and 19 deletions in 17 files</sub>
   <sub>Reviewed by: [Jacob MacDonald](https://github.com/jakemac53), [Nate Bosch](https://github.com/natebosch), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update example description
+  <sub>[#182067](https://github.com/flutter/flutter/pull/182067) merged on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182067) over 14 hours, 1 addition and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 ### January 31, 2026 to February 6, 2026
 
@@ -694,9 +698,18 @@
 
 ## flutter/website
 
+### February 7, 2026 to February 13, 2026
+
+1 commits.
+
+* **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Update body widget in layout.md to use Text instead of tile
+  <sub>[#13048](https://github.com/flutter/website/pull/13048) merged on February 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13048) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### January 31, 2026 to February 6, 2026
 
-24 commits.
+<details>
+<summary>24 commits...</summary>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Some FWE cleanup and styling fixes.
   <sub>[#13024](https://github.com/flutter/website/pull/13024) merged on February 4, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13024) over 5 hours, 10 additions and 317 deletions in 5 files</sub>
@@ -795,6 +808,8 @@
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Fix use_null_aware_elements lint to unblock ci
   <sub>[#13020](https://github.com/flutter/website/pull/13020) merged on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13020) over 11 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### January 24, 2026 to January 30, 2026
 
