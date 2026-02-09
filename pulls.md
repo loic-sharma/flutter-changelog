@@ -170,11 +170,8 @@
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
-* **[Divyansh Shah](https://github.com/crackedhandle)** &mdash; Encourage splitting large test files in testing documentation 2<br />
-  <sub>[#182051](https://github.com/flutter/flutter/pull/182051) opened on on February 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182051) 33 additions and 0 deletions in 1 file</sub><br />
-
 * **[qian](https://github.com/HuQian)** &mdash; fix build fail for wayland only platform<br />
-  <sub>[#182057](https://github.com/flutter/flutter/pull/182057) opened on on February 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182057) 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#182057](https://github.com/flutter/flutter/pull/182057) opened on on February 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182057) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM: Model-Based Regeneration<br />
   <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182065) 4470 additions and 876 deletions in 138 files</sub><br />
