@@ -700,7 +700,11 @@
 
 ### February 7, 2026 to February 13, 2026
 
-1 commits.
+2 commits.
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Document dylib naming constraints<br />
+  <sub>[#13047](https://github.com/flutter/website/pull/13047) merged on February 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13047) over 9 hours, 64 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Update body widget in layout.md to use Text instead of tile<br />
   <sub>[#13048](https://github.com/flutter/website/pull/13048) merged on February 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13048) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
