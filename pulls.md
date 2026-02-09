@@ -125,9 +125,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Avoid unnecessary ImageFilter::makeWithLocalMatrix in ImageFilterLayer::Diff<br />
-  <sub>[#181869](https://github.com/flutter/flutter/pull/181869) opened on on February 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181869) 9 additions and 10 deletions in 1 file</sub><br />
-
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Refactor autofill_group_test.dart to remove Material dependencies<br />
   <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 64 deletions in 2 files</sub><br />
 
@@ -187,4 +184,10 @@
 
 * **[AD](https://github.com/BrainLUX)** &mdash; Make positionInlineChildren assert much clearer<br />
   <sub>[#182093](https://github.com/flutter/flutter/pull/182093) opened on on February 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182093) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Bump Dart version + update DEPS for 3.41 stable release<br />
+  <sub>[#182098](https://github.com/flutter/flutter/pull/182098) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182098) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Relands "[cupertino.dart] Implement CupertinoMenuAnchor and Cupertino…<br />
+  <sub>[#182103](https://github.com/flutter/flutter/pull/182103) opened on on February 9, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/182103) 10177 additions and 2 deletions in 8 files</sub><br />
 

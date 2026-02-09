@@ -704,7 +704,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-7 commits.
+9 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [3.41] Add `RepeatingAnimationBuilder` to the widget catalog<br />
   <sub>[#12870](https://github.com/flutter/website/pull/12870) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12870) over 1 month, 15 additions and 0 deletions in 1 file</sub><br />
@@ -727,9 +727,17 @@
   <sub>[#13044](https://github.com/flutter/website/pull/13044) merged on February 9, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13044) over 2 days, 120 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Dart IntelliJ plugin issue tracker link<br />
+  <sub>[#13050](https://github.com/flutter/website/pull/13050) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13050) over 2 hours, 11 additions and 11 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Document dylib naming constraints<br />
   <sub>[#13047](https://github.com/flutter/website/pull/13047) merged on February 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13047) over 9 hours, 64 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Update version information for scroll-cache-extent<br />
+  <sub>[#13051](https://github.com/flutter/website/pull/13051) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13051) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Update body widget in layout.md to use Text instead of tile<br />
   <sub>[#13048](https://github.com/flutter/website/pull/13048) merged on February 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13048) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
