@@ -4,7 +4,12 @@
 
 ### February 7, 2026 to February 13, 2026
 
-6 commits.
+7 commits.
+
+* **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment<br />
+  <sub>[#180487](https://github.com/flutter/flutter/pull/180487) merged on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180487) over 1 month, 89 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="1654" height="444" alt="image" src="https://github.com/user-attachments/assets/98cade3a-34d5-4891-9d2e-2071d461f2b5" /><img width="887" height="241" alt="image" src="https://github.com/user-attachments/assets/11ff3b3e-013f-4a7d-aff5-f21fc64e3e6c" /></details></sub>
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; Add a new flutter cli command, running-apps, using mDNS app discovery<br />
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) merged on February 9, 2026 &mdash; **Large:** [148 comments](https://github.com/flutter/flutter/pull/180098) over 1 month, 1306 additions and 19 deletions in 17 files</sub><br />
