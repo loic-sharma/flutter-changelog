@@ -177,16 +177,13 @@
   <sub>[#182057](https://github.com/flutter/flutter/pull/182057) opened on on February 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182057) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM: Model-Based Regeneration<br />
-  <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182065) 395 additions and 84 deletions in 11 files</sub><br />
+  <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182065) 4470 additions and 876 deletions in 138 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 first grouped tests<br />
   <sub>[#182077](https://github.com/flutter/flutter/pull/182077) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182077) 146 additions and 1 deletion in 7 files</sub><br />
 
 * **[AD](https://github.com/BrainLUX)** &mdash; Make positionInlineChildren assert much clearer<br />
   <sub>[#182093](https://github.com/flutter/flutter/pull/182093) opened on on February 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182093) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Bump Dart version + update DEPS for 3.41 stable release<br />
-  <sub>[#182098](https://github.com/flutter/flutter/pull/182098) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182098) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Relands "[cupertino.dart] Implement CupertinoMenuAnchor and Cupertino…<br />
   <sub>[#182103](https://github.com/flutter/flutter/pull/182103) opened on on February 9, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/182103) 10177 additions and 2 deletions in 8 files</sub><br />
