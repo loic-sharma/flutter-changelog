@@ -41,6 +41,9 @@
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only repaint views that need to be painted (with external texture & platform view support)<br />
+  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/179874) 538 additions and 23 deletions in 21 files</sub><br />
+
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/180131) 106 additions and 54 deletions in 2 files</sub><br />
 
@@ -132,7 +135,7 @@
   <sub>[#181914](https://github.com/flutter/flutter/pull/181914) opened on on February 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181914) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Add missing dependencies to framework_tests_misc_leak_tracking<br />
-  <sub>[#181929](https://github.com/flutter/flutter/pull/181929) opened on on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181929) 4 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#181929](https://github.com/flutter/flutter/pull/181929) opened on on February 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181929) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move SelectionArea web test from widgets to material folder<br />
   <sub>[#181951](https://github.com/flutter/flutter/pull/181951) opened on on February 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181951) 79 additions and 81 deletions in 3 files</sub><br />
