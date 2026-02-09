@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### February 7, 2026 to February 13, 2026
+
+1 commits.
+
+* **[Jaime Wren](https://github.com/jwren)** &mdash; Add a new flutter cli command, running-apps, using mDNS app discovery<br />
+  <sub>[#180098](https://github.com/flutter/flutter/pull/180098) merged on February 9, 2026 &mdash; **Large:** [148 comments](https://github.com/flutter/flutter/pull/180098) over 1 month, 1306 additions and 19 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [Jacob MacDonald](https://github.com/jakemac53), [Nate Bosch](https://github.com/natebosch), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 ### January 31, 2026 to February 6, 2026
 
-59 commits.
+<details>
+<summary>59 commits...</summary>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino.dart] Implement CupertinoMenuAnchor and CupertinoMenuItem using RawMenuAnchor<br />
   <sub>[#174695](https://github.com/flutter/flutter/pull/174695) merged on February 6, 2026 &mdash; **Extra large:** [142 comments](https://github.com/flutter/flutter/pull/174695) over 5 months, 10177 additions and 2 deletions in 8 files</sub><br />
@@ -250,6 +259,8 @@
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Directly generate a Mach-O dynamic library using gen_snapshot. [reland]<br />
   <sub>[#181539](https://github.com/flutter/flutter/pull/181539) merged on February 5, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/181539) over 1 week, 111 additions and 328 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+</details>
 
 ### January 24, 2026 to January 30, 2026
 
