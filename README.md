@@ -700,7 +700,11 @@
 
 ### February 7, 2026 to February 13, 2026
 
-2 commits.
+3 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [3.41] Document content-based resizing for add-to-app on iOS<br />
+  <sub>[#12810](https://github.com/flutter/website/pull/12810) merged on February 9, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/12810) over 2 months, 64 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Document dylib naming constraints<br />
   <sub>[#13047](https://github.com/flutter/website/pull/13047) merged on February 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13047) over 9 hours, 64 additions and 0 deletions in 1 file</sub><br />
