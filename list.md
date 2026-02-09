@@ -4,11 +4,15 @@
 
 ### February 7, 2026 to February 13, 2026
 
-2 commits.
+3 commits.
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; Add a new flutter cli command, running-apps, using mDNS app discovery
   <sub>[#180098](https://github.com/flutter/flutter/pull/180098) merged on February 9, 2026 &mdash; **Large:** [148 comments](https://github.com/flutter/flutter/pull/180098) over 1 month, 1306 additions and 19 deletions in 17 files</sub>
   <sub>Reviewed by: [Jacob MacDonald](https://github.com/jakemac53), [Nate Bosch](https://github.com/natebosch), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters in `user_messages.dart`
+  <sub>[#181867](https://github.com/flutter/flutter/pull/181867) merged on February 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181867) over 6 days, 0 additions and 50 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update example description
   <sub>[#182067](https://github.com/flutter/flutter/pull/182067) merged on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182067) over 14 hours, 1 addition and 2 deletions in 1 file</sub>

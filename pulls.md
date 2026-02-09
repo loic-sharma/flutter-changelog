@@ -177,7 +177,7 @@
   <sub>[#182051](https://github.com/flutter/flutter/pull/182051) opened on on February 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182051) 33 additions and 0 deletions in 1 file</sub><br />
 
 * **[qian](https://github.com/HuQian)** &mdash; fix build fail for wayland only platform<br />
-  <sub>[#182057](https://github.com/flutter/flutter/pull/182057) opened on on February 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182057) 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#182057](https://github.com/flutter/flutter/pull/182057) opened on on February 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182057) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM: Model-Based Regeneration<br />
   <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182065) 395 additions and 84 deletions in 11 files</sub><br />
@@ -189,5 +189,5 @@
   <sub>[#182093](https://github.com/flutter/flutter/pull/182093) opened on on February 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182093) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jorge Betancourt](https://github.com/jbeta51)** &mdash; Update Skia logging ports: Replace SkDebug with SkLog<br />
-  <sub>[#182094](https://github.com/flutter/flutter/pull/182094) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182094) 6 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#182094](https://github.com/flutter/flutter/pull/182094) opened on on February 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182094) 6 additions and 6 deletions in 1 file</sub><br />
 
