@@ -174,7 +174,7 @@
   <sub>[#182177](https://github.com/flutter/flutter/pull/182177) opened on on February 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182177) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Fix incorrect rendering from drawImageNine when running on impeller with opengles<br />
-  <sub>[#182179](https://github.com/flutter/flutter/pull/182179) opened on on February 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182179) 8 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#182179](https://github.com/flutter/flutter/pull/182179) opened on on February 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182179) 8 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to ad5b0084fe6b<br />
   <sub>[#182183](https://github.com/flutter/flutter/pull/182183) opened on on February 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182183) 1 addition and 1 deletion in 1 file</sub><br />
