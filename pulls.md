@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
-  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
+  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
 * **[HelloMacro](https://github.com/HelloMacro)** &mdash; [web] Fix canvas rendering artifacts in animations when 'createImageBitmap' is not supported<br />
   <sub>[#176192](https://github.com/flutter/flutter/pull/176192) opened on on September 29, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176192) 63 additions and 0 deletions in 2 files</sub><br />
@@ -166,4 +166,10 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reverts deletion of `FlutterShellArgs`<br />
   <sub>[#182165](https://github.com/flutter/flutter/pull/182165) opened on on February 10, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182165) 838 additions and 783 deletions in 23 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [web] Makes Tappable semantics behavior adaptive<br />
+  <sub>[#182167](https://github.com/flutter/flutter/pull/182167) opened on on February 10, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/182167) 346 additions and 80 deletions in 6 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure resize listener is not added if content sizing is not turned on<br />
+  <sub>[#182168](https://github.com/flutter/flutter/pull/182168) opened on on February 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182168) 6 additions and 2 deletions in 1 file</sub><br />
 
