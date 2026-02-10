@@ -117,7 +117,7 @@
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Refactor autofill_group_test.dart to remove Material dependencies<br />
-  <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 64 deletions in 2 files</sub><br />
+  <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 64 deletions in 2 files</sub><br />
 
 * **[nmarci89](https://github.com/westito)** &mdash; Fix SubmenuButton submenu positioning<br />
   <sub>[#181908](https://github.com/flutter/flutter/pull/181908) opened on on February 4, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181908) 1036 additions and 52 deletions in 3 files</sub><br />
@@ -164,9 +164,6 @@
 * **[AD](https://github.com/BrainLUX)** &mdash; Make positionInlineChildren assert much clearer<br />
   <sub>[#182093](https://github.com/flutter/flutter/pull/182093) opened on on February 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182093) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[nmarci89](https://github.com/westito)** &mdash; Fix font size mismatch on Windows and Linux by scaling points to logical pixels<br />
-  <sub>[#182140](https://github.com/flutter/flutter/pull/182140) opened on on February 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182140) 66 additions and 2 deletions in 3 files</sub><br />
-
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from transformed_scrollable_test.dart<br />
-  <sub>[#182141](https://github.com/flutter/flutter/pull/182141) opened on on February 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182141) 16 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#182141](https://github.com/flutter/flutter/pull/182141) opened on on February 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182141) 16 additions and 10 deletions in 2 files</sub><br />
 
