@@ -176,3 +176,6 @@
 * **[Jaime Wren](https://github.com/jwren)** &mdash; running-apps: update running-apps to use Duration.ago()<br />
   <sub>[#182172](https://github.com/flutter/flutter/pull/182172) opened on on February 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182172) 18 additions and 69 deletions in 6 files</sub><br />
 
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Cleanup the unused DDC flag<br />
+  <sub>[#182177](https://github.com/flutter/flutter/pull/182177) opened on on February 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182177) 0 additions and 1 deletion in 1 file</sub><br />
+
