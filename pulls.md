@@ -173,3 +173,9 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure resize listener is not added if content sizing is not turned on<br />
   <sub>[#182168](https://github.com/flutter/flutter/pull/182168) opened on on February 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182168) 6 additions and 2 deletions in 1 file</sub><br />
 
+* **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM integration (Redux)<br />
+  <sub>[#182171](https://github.com/flutter/flutter/pull/182171) opened on on February 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182171) 460 additions and 190 deletions in 17 files</sub><br />
+
+* **[Jaime Wren](https://github.com/jwren)** &mdash; running-apps: update running-apps to use Duration.ago()<br />
+  <sub>[#182172](https://github.com/flutter/flutter/pull/182172) opened on on February 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182172) 18 additions and 69 deletions in 6 files</sub><br />
+
