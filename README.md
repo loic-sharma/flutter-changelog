@@ -4,7 +4,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-22 commits.
+23 commits.
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment<br />
   <sub>[#180487](https://github.com/flutter/flutter/pull/180487) merged on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180487) over 1 month, 89 additions and 7 deletions in 3 files</sub><br />
@@ -30,6 +30,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce ScrollCacheExtent and also fixes unbound shrinkwrap cache ex…<br />
   <sub>[#181092](https://github.com/flutter/flutter/pull/181092) merged on February 9, 2026 &mdash; **Extra large:** [39 comments](https://github.com/flutter/flutter/pull/181092) over 3 weeks, 1959 additions and 83 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove Material import from focus_traversal_test.dart<br />
+  <sub>[#180994](https://github.com/flutter/flutter/pull/180994) merged on February 10, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/180994) over 3 weeks, 154 additions and 165 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: migrate CupertinoPageTransitionsBuilder to cupertino folder<br />
   <sub>[#179776](https://github.com/flutter/flutter/pull/179776) merged on February 10, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/179776) over 1 month, 124 additions and 42 deletions in 10 files</sub><br />

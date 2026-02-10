@@ -129,16 +129,13 @@
   <sub>[#181914](https://github.com/flutter/flutter/pull/181914) opened on on February 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181914) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move SelectionArea web test from widgets to material folder<br />
-  <sub>[#181951](https://github.com/flutter/flutter/pull/181951) opened on on February 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181951) 79 additions and 81 deletions in 3 files</sub><br />
+  <sub>[#181951](https://github.com/flutter/flutter/pull/181951) opened on on February 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181951) 12 additions and 83 deletions in 3 files</sub><br />
 
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix NavigationDrawer highlight rendering when index changes externally (#180359)<br />
   <sub>[#181960](https://github.com/flutter/flutter/pull/181960) opened on on February 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181960) 24 additions and 29 deletions in 2 files</sub><br />
 
 * **[Ricky van den berg](https://github.com/RickyvdBerg)** &mdash; [Impeller] Fix VkImageView leak in WrappedTextureSourceVK<br />
   <sub>[#181966](https://github.com/flutter/flutter/pull/181966) opened on on February 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181966) 13 additions and 9 deletions in 1 file</sub><br />
-
-* **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from rotated_box_test.dart<br />
-  <sub>[#181974](https://github.com/flutter/flutter/pull/181974) opened on on February 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181974) 5 additions and 4 deletions in 2 files</sub><br />
 
 * **[Dominique Martinet](https://github.com/martinetd)** &mdash; [gn] fix --stripped being disabled for all targets<br />
   <sub>[#181984](https://github.com/flutter/flutter/pull/181984) opened on on February 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181984) 3 additions and 1 deletion in 1 file</sub><br />
