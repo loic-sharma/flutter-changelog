@@ -75,7 +75,7 @@
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
 
 * **[Bodhi Russell Silberling](https://github.com/bodhisilberling)** &mdash; Improve tooltip position context docs<br />
-  <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
 
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
@@ -178,4 +178,7 @@
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Cleanup the unused DDC flag<br />
   <sub>[#182177](https://github.com/flutter/flutter/pull/182177) opened on on February 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182177) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Fix incorrect rendering from drawImageNine when running on impeller with opengles<br />
+  <sub>[#182179](https://github.com/flutter/flutter/pull/182179) opened on on February 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182179) 8 additions and 1 deletion in 1 file</sub><br />
 
