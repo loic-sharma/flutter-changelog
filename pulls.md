@@ -168,7 +168,7 @@
   <sub>[#182165](https://github.com/flutter/flutter/pull/182165) opened on on February 10, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182165) 838 additions and 783 deletions in 23 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [web] Makes Tappable semantics behavior adaptive<br />
-  <sub>[#182167](https://github.com/flutter/flutter/pull/182167) opened on on February 10, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/182167) 346 additions and 80 deletions in 6 files</sub><br />
+  <sub>[#182167](https://github.com/flutter/flutter/pull/182167) opened on on February 10, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/182167) 442 additions and 80 deletions in 7 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure resize listener is not added if content sizing is not turned on<br />
   <sub>[#182168](https://github.com/flutter/flutter/pull/182168) opened on on February 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182168) 6 additions and 2 deletions in 1 file</sub><br />
