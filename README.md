@@ -4,7 +4,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-23 commits.
+24 commits.
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment<br />
   <sub>[#180487](https://github.com/flutter/flutter/pull/180487) merged on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180487) over 1 month, 89 additions and 7 deletions in 3 files</sub><br />
@@ -58,6 +58,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Delete the last remaining skia only fragment shader tests<br />
   <sub>[#182127](https://github.com/flutter/flutter/pull/182127) merged on February 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182127) over 3 hours, 7 additions and 13 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
+
+* **[Dominique Martinet](https://github.com/martinetd)** &mdash; [gn] fix --stripped being disabled for all targets<br />
+  <sub>[#181984](https://github.com/flutter/flutter/pull/181984) merged on February 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181984) over 4 days, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Divyansh Shah](https://github.com/crackedhandle)** &mdash; Encourage splitting large test files in testing documentation 2<br />
   <sub>[#182051](https://github.com/flutter/flutter/pull/182051) merged on February 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182051) over 2 days, 33 additions and 0 deletions in 1 file</sub><br />
