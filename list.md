@@ -4,7 +4,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-15 commits.
+17 commits.
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment
   <sub>[#180487](https://github.com/flutter/flutter/pull/180487) merged on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180487) over 1 month, 89 additions and 7 deletions in 3 files</sub>
@@ -34,6 +34,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add mechanism for setting Android engine flags via Android manifest (take 2)
   <sub>[#181632](https://github.com/flutter/flutter/pull/181632) merged on February 9, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/181632) over 1 week, 2017 additions and 567 deletions in 24 files</sub>
   <sub>Reviewed by: [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Bump Dart to 3.10
+  <sub>[#174066](https://github.com/flutter/flutter/pull/174066) merged on February 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/174066) over 5 months, 132 additions and 132 deletions in 132 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180976) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
@@ -66,6 +70,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update example description
   <sub>[#182067](https://github.com/flutter/flutter/pull/182067) merged on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182067) over 14 hours, 1 addition and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android_emu android_display_cutout to be flaky
+  <sub>[#181901](https://github.com/flutter/flutter/pull/181901) merged on February 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181901) over 5 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 ### January 31, 2026 to February 6, 2026
 
