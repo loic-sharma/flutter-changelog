@@ -96,7 +96,7 @@
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ilyosbek Ibrokhimov](https://github.com/ilyosbek22)** &mdash; remove MaterialApp import from raw_radio_test.dart<br />
-  <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#181721](https://github.com/flutter/flutter/pull/181721) opened on on January 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181721) 5 additions and 4 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart<br />
   <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181774) 330 additions and 403 deletions in 12 files</sub><br />
@@ -158,9 +158,12 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 first grouped tests<br />
   <sub>[#182077](https://github.com/flutter/flutter/pull/182077) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182077) 146 additions and 1 deletion in 7 files</sub><br />
 
-* **[AD](https://github.com/BrainLUX)** &mdash; Make positionInlineChildren assert much clearer<br />
+* **[Alexander Dmitriev](https://github.com/BrainLUX)** &mdash; Make positionInlineChildren assert much clearer<br />
   <sub>[#182093](https://github.com/flutter/flutter/pull/182093) opened on on February 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182093) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from transformed_scrollable_test.dart<br />
   <sub>[#182141](https://github.com/flutter/flutter/pull/182141) opened on on February 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182141) 14 additions and 10 deletions in 2 files</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Reverts deletion of `FlutterShellArgs`<br />
+  <sub>[#182165](https://github.com/flutter/flutter/pull/182165) opened on on February 10, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182165) 838 additions and 783 deletions in 23 files</sub><br />
 

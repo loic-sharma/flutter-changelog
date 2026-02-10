@@ -662,9 +662,26 @@
 
 ## flutter/packages
 
+### February 7, 2026 to February 13, 2026
+
+3 commits.
+
+* **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter_web] Add Advanced markers support (web)<br />
+  <sub>[#9773](https://github.com/flutter/packages/pull/9773) merged on February 10, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/packages/pull/9773) over 6 months, 1833 additions and 313 deletions in 23 files</sub><br />
+  <sub>Reviewed by: [Ville Välimaa](https://github.com/illuminati1911), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix custom marker icons on iOS<br />
+  <sub>[#10993](https://github.com/flutter/packages/pull/10993) merged on February 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10993) over 38 minutes, 40 additions and 3 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [google_sign_in_ios][UIScene] Migrate to UIScene<br />
+  <sub>[#10960](https://github.com/flutter/packages/pull/10960) merged on February 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10960) over 6 days, 50 additions and 13 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
 ### January 31, 2026 to February 6, 2026
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] handle interruptions and use single offset<br />
   <sub>[#8982](https://github.com/flutter/packages/pull/8982) merged on February 3, 2026 &mdash; **Medium:** [58 comments](https://github.com/flutter/packages/pull/8982) over 10 months, 295 additions and 76 deletions in 11 files</sub><br />
@@ -721,6 +738,8 @@
 * **[Frank](https://github.com/Frank3K)** &mdash; [google_fonts] Fix file type priority in asset path lookup<br />
   <sub>[#10907](https://github.com/flutter/packages/pull/10907) merged on February 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/10907) over 1 week, 20 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Pierre](https://github.com/guidezpl), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+</details>
 
 ### January 24, 2026 to January 30, 2026
 
