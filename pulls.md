@@ -153,7 +153,7 @@
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM: Model-Based Regeneration<br />
-  <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182065) 4470 additions and 876 deletions in 138 files</sub><br />
+  <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/182065) 4470 additions and 876 deletions in 138 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 first grouped tests<br />
   <sub>[#182077](https://github.com/flutter/flutter/pull/182077) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182077) 146 additions and 1 deletion in 7 files</sub><br />
@@ -163,9 +163,6 @@
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from transformed_scrollable_test.dart<br />
   <sub>[#182141](https://github.com/flutter/flutter/pull/182141) opened on on February 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182141) 14 additions and 10 deletions in 2 files</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Reverts deletion of `FlutterShellArgs`<br />
-  <sub>[#182165](https://github.com/flutter/flutter/pull/182165) opened on on February 10, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182165) 838 additions and 783 deletions in 23 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [web] Makes Tappable semantics behavior adaptive<br />
   <sub>[#182167](https://github.com/flutter/flutter/pull/182167) opened on on February 10, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/182167) 442 additions and 80 deletions in 7 files</sub><br />
