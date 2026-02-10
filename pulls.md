@@ -119,9 +119,6 @@
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Refactor autofill_group_test.dart to remove Material dependencies<br />
   <sub>[#181903](https://github.com/flutter/flutter/pull/181903) opened on on February 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181903) 54 additions and 64 deletions in 2 files</sub><br />
 
-* **[nmarci89](https://github.com/westito)** &mdash; Fix SubmenuButton submenu positioning<br />
-  <sub>[#181908](https://github.com/flutter/flutter/pull/181908) opened on on February 4, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/181908) 1036 additions and 52 deletions in 3 files</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; engine: Use a super-parameter in one missed case<br />
   <sub>[#181914](https://github.com/flutter/flutter/pull/181914) opened on on February 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181914) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -133,9 +130,6 @@
 
 * **[Ricky van den berg](https://github.com/RickyvdBerg)** &mdash; [Impeller] Fix VkImageView leak in WrappedTextureSourceVK<br />
   <sub>[#181966](https://github.com/flutter/flutter/pull/181966) opened on on February 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181966) 13 additions and 9 deletions in 1 file</sub><br />
-
-* **[EricApostal](https://github.com/EricApostal)** &mdash; Fix Viewport incorrectly calculating implicit scroll offset when anchored<br />
-  <sub>[#181989](https://github.com/flutter/flutter/pull/181989) opened on on February 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181989) 80 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari<br />
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) opened on on February 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182024) 313 additions and 205 deletions in 4 files</sub><br />
@@ -181,4 +175,7 @@
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Fix incorrect rendering from drawImageNine when running on impeller with opengles<br />
   <sub>[#182179](https://github.com/flutter/flutter/pull/182179) opened on on February 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182179) 8 additions and 1 deletion in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to ad5b0084fe6b<br />
+  <sub>[#182183](https://github.com/flutter/flutter/pull/182183) opened on on February 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182183) 1 addition and 1 deletion in 1 file</sub><br />
 
