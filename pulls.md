@@ -39,7 +39,7 @@
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only repaint views that need to be painted (with external texture & platform view support)<br />
-  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/179874) 531 additions and 23 deletions in 21 files</sub><br />
+  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/179874) 531 additions and 23 deletions in 21 files</sub><br />
 
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/180131) 106 additions and 54 deletions in 2 files</sub><br />
@@ -154,4 +154,7 @@
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM integration (Redux)<br />
   <sub>[#182171](https://github.com/flutter/flutter/pull/182171) opened on on February 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182171) 460 additions and 190 deletions in 17 files</sub><br />
+
+* **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from semantics_keep_alive_offstage_test.dart<br />
+  <sub>[#182211](https://github.com/flutter/flutter/pull/182211) opened on on February 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182211) 8 additions and 7 deletions in 2 files</sub><br />
 
