@@ -4,7 +4,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-44 commits.
+45 commits.
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment
   <sub>[#180487](https://github.com/flutter/flutter/pull/180487) merged on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180487) over 1 month, 89 additions and 7 deletions in 3 files</sub>
@@ -64,13 +64,13 @@
   <sub>[#181632](https://github.com/flutter/flutter/pull/181632) merged on February 9, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/181632) over 1 week, 2017 additions and 567 deletions in 24 files</sub>
   <sub>Reviewed by: [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure resize listener is not added if content sizing is not turned on
-  <sub>[#182168](https://github.com/flutter/flutter/pull/182168) merged on February 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182168) over 3 hours, 6 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Disable hardware keyboard regularity warning by default
   <sub>[#181894](https://github.com/flutter/flutter/pull/181894) merged on February 10, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/181894) over 6 days, 144 additions and 31 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure resize listener is not added if content sizing is not turned on
+  <sub>[#182168](https://github.com/flutter/flutter/pull/182168) merged on February 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182168) over 3 hours, 6 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[lllgm](https://github.com/LailaiMaster)** &mdash; fix(android): add null check for textInputPlugin in FlutterView
   <sub>[#180386](https://github.com/flutter/flutter/pull/180386) merged on February 10, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/180386) over 1 month, 42 additions and 2 deletions in 2 files</sub>
@@ -108,25 +108,29 @@
   <sub>[#182127](https://github.com/flutter/flutter/pull/182127) merged on February 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182127) over 3 hours, 7 additions and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
+* **[Michael Brase](https://github.com/mbrase)** &mdash; Clean up include paths for Fuchsia in the flutter engine
+  <sub>[#182031](https://github.com/flutter/flutter/pull/182031) merged on February 11, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/182031) over 4 days, 218 additions and 268 deletions in 107 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jonny Wang](https://github.com/jrwang)</sub>
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG` to include 3.41 stable release
   <sub>[#182227](https://github.com/flutter/flutter/pull/182227) merged on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182227) over 1 hour, 7 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; engine: Use a super-parameter in one missed case
-  <sub>[#181914](https://github.com/flutter/flutter/pull/181914) merged on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181914) over 1 week, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix wrong comment about default impeller value
+  <sub>[#181831](https://github.com/flutter/flutter/pull/181831) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181831) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused constant in `bundle.dart`
   <sub>[#182023](https://github.com/flutter/flutter/pull/182023) merged on February 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182023) over 3 days, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters in `user_messages.dart`
-  <sub>[#181867](https://github.com/flutter/flutter/pull/181867) merged on February 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181867) over 6 days, 0 additions and 50 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update example description
+  <sub>[#182067](https://github.com/flutter/flutter/pull/182067) merged on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182067) over 14 hours, 1 addition and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix wrong comment about default impeller value
-  <sub>[#181831](https://github.com/flutter/flutter/pull/181831) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181831) over 1 week, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; engine: Use a super-parameter in one missed case
+  <sub>[#181914](https://github.com/flutter/flutter/pull/181914) merged on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181914) over 1 week, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Fix incorrect rendering from drawImageNine when running on impeller with opengles
   <sub>[#182179](https://github.com/flutter/flutter/pull/182179) merged on February 11, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182179) over 19 hours, 10 additions and 1 deletion in 1 file</sub>
@@ -140,21 +144,21 @@
   <sub>[#182177](https://github.com/flutter/flutter/pull/182177) merged on February 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182177) over 15 hours, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Update linux_unopt CI: Increase timeout and remove --quiet flag
-  <sub>[#182162](https://github.com/flutter/flutter/pull/182162) merged on February 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182162) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub>
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Added Warning Against Updating to AGP 9
   <sub>[#181977](https://github.com/flutter/flutter/pull/181977) merged on February 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181977) over 3 days, 37 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Dominique Martinet](https://github.com/martinetd)** &mdash; [gn] fix --stripped being disabled for all targets
-  <sub>[#181984](https://github.com/flutter/flutter/pull/181984) merged on February 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181984) over 4 days, 3 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+* **[b-luk](https://github.com/b-luk)** &mdash; Update linux_unopt CI: Increase timeout and remove --quiet flag
+  <sub>[#182162](https://github.com/flutter/flutter/pull/182162) merged on February 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182162) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[qian](https://github.com/HuQian)** &mdash; fix build fail for wayland only platform
   <sub>[#182057](https://github.com/flutter/flutter/pull/182057) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182057) over 1 day, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub>
+
+* **[Dominique Martinet](https://github.com/martinetd)** &mdash; [gn] fix --stripped being disabled for all targets
+  <sub>[#181984](https://github.com/flutter/flutter/pull/181984) merged on February 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181984) over 4 days, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Divyansh Shah](https://github.com/crackedhandle)** &mdash; Encourage splitting large test files in testing documentation 2
   <sub>[#182051](https://github.com/flutter/flutter/pull/182051) merged on February 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182051) over 2 days, 33 additions and 0 deletions in 1 file</sub>
@@ -164,17 +168,13 @@
   <sub>[#181929](https://github.com/flutter/flutter/pull/181929) merged on February 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181929) over 5 days, 4 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused getters in `user_messages.dart`
+  <sub>[#181867](https://github.com/flutter/flutter/pull/181867) merged on February 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181867) over 6 days, 0 additions and 50 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Intercept UIScene device log and print a guided warning
   <sub>[#181515](https://github.com/flutter/flutter/pull/181515) merged on February 9, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/181515) over 1 week, 279 additions and 55 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update example description
-  <sub>[#182067](https://github.com/flutter/flutter/pull/182067) merged on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182067) over 14 hours, 1 addition and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
-
-* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android_emu android_display_cutout to be flaky
-  <sub>[#181901](https://github.com/flutter/flutter/pull/181901) merged on February 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181901) over 5 days, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "Send statusBarTouch events via dedicated messages (#179643)"
   <sub>[#182223](https://github.com/flutter/flutter/pull/182223) merged on February 11, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/182223) over 2 hours, 206 additions and 304 deletions in 18 files</sub>
@@ -182,6 +182,10 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - Update date localization
   <sub>[#182189](https://github.com/flutter/flutter/pull/182189) merged on February 11, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/182189) over 15 hours, 621 additions and 618 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_android_emu android_display_cutout to be flaky
+  <sub>[#181901](https://github.com/flutter/flutter/pull/181901) merged on February 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181901) over 5 days, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 ### January 31, 2026 to February 6, 2026
