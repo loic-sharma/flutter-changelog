@@ -4,7 +4,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-30 commits.
+31 commits.
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment<br />
   <sub>[#180487](https://github.com/flutter/flutter/pull/180487) merged on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180487) over 1 month, 89 additions and 7 deletions in 3 files</sub><br />
@@ -30,6 +30,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce ScrollCacheExtent and also fixes unbound shrinkwrap cache ex…<br />
   <sub>[#181092](https://github.com/flutter/flutter/pull/181092) merged on February 9, 2026 &mdash; **Extra large:** [39 comments](https://github.com/flutter/flutter/pull/181092) over 3 weeks, 1959 additions and 83 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Updates to style guide<br />
+  <sub>[#181985](https://github.com/flutter/flutter/pull/181985) merged on February 11, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181985) over 5 days, 21 additions and 134 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Sigurd Meldgaard](https://github.com/sigurdm), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Reid Baker](https://github.com/reidbaker), and [3 others](https://github.com/flutter/flutter/pull/181985)</sub><br />
 
 * **[walley892](https://github.com/walley892)** &mdash; Add getUniformMatX support for desktop and mobile<br />
   <sub>[#182117](https://github.com/flutter/flutter/pull/182117) merged on February 11, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/182117) over 1 day, 1402 additions and 17 deletions in 15 files</sub><br />
