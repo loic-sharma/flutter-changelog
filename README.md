@@ -836,7 +836,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-10 commits.
+12 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [3.41] Add `RepeatingAnimationBuilder` to the widget catalog<br />
   <sub>[#12870](https://github.com/flutter/website/pull/12870) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12870) over 1 month, 15 additions and 0 deletions in 1 file</sub><br />
@@ -855,8 +855,16 @@
   <sub>[#12556](https://github.com/flutter/website/pull/12556) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12556) over 3 months, 64 additions and 57 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; UIScene Migration documentation updates<br />
+  <sub>[#13045](https://github.com/flutter/website/pull/13045) merged on February 11, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13045) over 4 days, 110 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds cacheExtent and cacheExtentStyle migration guide<br />
   <sub>[#13044](https://github.com/flutter/website/pull/13044) merged on February 9, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13044) over 2 days, 120 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update index and released in version for 3.41 breaking changes<br />
+  <sub>[#13055](https://github.com/flutter/website/pull/13055) merged on February 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13055) over 18 hours, 76 additions and 60 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Dart IntelliJ plugin issue tracker link<br />
