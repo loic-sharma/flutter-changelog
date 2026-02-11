@@ -155,6 +155,3 @@
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM integration (Redux)<br />
   <sub>[#182171](https://github.com/flutter/flutter/pull/182171) opened on on February 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182171) 460 additions and 190 deletions in 17 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to ad5b0084fe6b<br />
-  <sub>[#182183](https://github.com/flutter/flutter/pull/182183) opened on on February 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182183) 1 addition and 1 deletion in 1 file</sub><br />
-
