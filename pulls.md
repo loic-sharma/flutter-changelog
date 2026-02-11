@@ -152,9 +152,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [web] Makes Tappable semantics behavior adaptive<br />
   <sub>[#182167](https://github.com/flutter/flutter/pull/182167) opened on on February 10, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/182167) 442 additions and 80 deletions in 7 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Ensure resize listener is not added if content sizing is not turned on<br />
-  <sub>[#182168](https://github.com/flutter/flutter/pull/182168) opened on on February 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182168) 6 additions and 2 deletions in 1 file</sub><br />
-
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM integration (Redux)<br />
   <sub>[#182171](https://github.com/flutter/flutter/pull/182171) opened on on February 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182171) 460 additions and 190 deletions in 17 files</sub><br />
 
@@ -164,6 +161,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to ad5b0084fe6b<br />
   <sub>[#182183](https://github.com/flutter/flutter/pull/182183) opened on on February 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182183) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland - Update date localization<br />
-  <sub>[#182189](https://github.com/flutter/flutter/pull/182189) opened on on February 11, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182189) 621 additions and 618 deletions in 4 files</sub><br />
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino/dialog.dart] CupertinoPopupSurface: remove bounded parameter from ImageFilterConfig.blur<br />
+  <sub>[#182193](https://github.com/flutter/flutter/pull/182193) opened on on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182193) 5 additions and 3 deletions in 1 file</sub><br />
 
