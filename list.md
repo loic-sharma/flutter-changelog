@@ -721,11 +721,15 @@
 
 ### February 7, 2026 to February 13, 2026
 
-3 commits.
+4 commits.
 
 * **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter_web] Add Advanced markers support (web)
   <sub>[#9773](https://github.com/flutter/packages/pull/9773) merged on February 10, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/packages/pull/9773) over 6 months, 1833 additions and 313 deletions in 23 files</sub>
   <sub>Reviewed by: [Ville Välimaa](https://github.com/illuminati1911), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] updates `update-release-info` to support batch release
+  <sub>[#10958](https://github.com/flutter/packages/pull/10958) merged on February 11, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/10958) over 1 week, 333 additions and 27 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix custom marker icons on iOS
   <sub>[#10993](https://github.com/flutter/packages/pull/10993) merged on February 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10993) over 38 minutes, 40 additions and 3 deletions in 6 files</sub>
