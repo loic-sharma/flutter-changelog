@@ -64,6 +64,10 @@
   <sub>[#180386](https://github.com/flutter/flutter/pull/180386) merged on February 10, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/180386) over 1 month, 42 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Mairramer](https://github.com/Mairramer), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Camille Simon](https://github.com/camsim99)</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Disable hardware keyboard regularity warning by default<br />
+  <sub>[#181894](https://github.com/flutter/flutter/pull/181894) merged on February 10, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/181894) over 6 days, 144 additions and 31 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update date localization<br />
   <sub>[#181685](https://github.com/flutter/flutter/pull/181685) merged on February 10, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/181685) over 1 week, 619 additions and 616 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -83,10 +87,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated Shaderc dep<br />
   <sub>[#180976](https://github.com/flutter/flutter/pull/180976) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180976) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [walley892](https://github.com/walley892)</sub><br />
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Disable hardware keyboard regularity warning by default<br />
-  <sub>[#181894](https://github.com/flutter/flutter/pull/181894) merged on February 10, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/181894) over 6 days, 144 additions and 31 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to ad5b0084fe6b<br />
   <sub>[#182183](https://github.com/flutter/flutter/pull/182183) merged on February 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182183) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
