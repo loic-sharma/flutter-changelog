@@ -4,7 +4,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-32 commits.
+33 commits.
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment<br />
   <sub>[#180487](https://github.com/flutter/flutter/pull/180487) merged on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180487) over 1 month, 89 additions and 7 deletions in 3 files</sub><br />
@@ -30,6 +30,11 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce ScrollCacheExtent and also fixes unbound shrinkwrap cache ex…<br />
   <sub>[#181092](https://github.com/flutter/flutter/pull/181092) merged on February 9, 2026 &mdash; **Extra large:** [39 comments](https://github.com/flutter/flutter/pull/181092) over 3 weeks, 1959 additions and 83 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino/dialog.dart] CupertinoPopupSurface: remove bounded parameter from ImageFilterConfig.blur<br />
+  <sub>[#182195](https://github.com/flutter/flutter/pull/182195) merged on February 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182195) over 2 hours, 28 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="600" alt="Before" src="https://github.com/user-attachments/assets/29573ca2-eef7-4443-947c-58a7d30d060d" /><img width="600"  alt="After" src="https://github.com/user-attachments/assets/abae388a-ff40-494e-8137-13083e05ea81" /></details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Updates to style guide<br />
   <sub>[#181985](https://github.com/flutter/flutter/pull/181985) merged on February 11, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181985) over 5 days, 21 additions and 134 deletions in 1 file</sub><br />
