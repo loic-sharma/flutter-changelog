@@ -161,6 +161,3 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to ad5b0084fe6b<br />
   <sub>[#182183](https://github.com/flutter/flutter/pull/182183) opened on on February 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182183) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino/dialog.dart] CupertinoPopupSurface: remove bounded parameter from ImageFilterConfig.blur<br />
-  <sub>[#182193](https://github.com/flutter/flutter/pull/182193) opened on on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182193) 5 additions and 3 deletions in 1 file</sub><br />
-
