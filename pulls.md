@@ -137,9 +137,6 @@
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Use bilinear filtering for non-uniform scaled text<br />
   <sub>[#182224](https://github.com/flutter/flutter/pull/182224) opened on on February 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182224) 23 additions and 2 deletions in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `CHANGELOG` to include 3.41 stable release<br />
-  <sub>[#182227](https://github.com/flutter/flutter/pull/182227) opened on on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182227) 7 additions and 0 deletions in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify batch release mode requirements<br />
   <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
 
