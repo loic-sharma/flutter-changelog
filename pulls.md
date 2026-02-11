@@ -146,9 +146,6 @@
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from transformed_scrollable_test.dart<br />
   <sub>[#182141](https://github.com/flutter/flutter/pull/182141) opened on on February 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182141) 14 additions and 10 deletions in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; [web] Makes Tappable semantics behavior adaptive<br />
-  <sub>[#182167](https://github.com/flutter/flutter/pull/182167) opened on on February 10, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/182167) 442 additions and 80 deletions in 7 files</sub><br />
-
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM integration (Redux)<br />
   <sub>[#182171](https://github.com/flutter/flutter/pull/182171) opened on on February 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182171) 460 additions and 190 deletions in 17 files</sub><br />
 
