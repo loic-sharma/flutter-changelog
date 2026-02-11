@@ -885,7 +885,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-13 commits.
+14 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [3.41] Add `RepeatingAnimationBuilder` to the widget catalog
   <sub>[#12870](https://github.com/flutter/website/pull/12870) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12870) over 1 month, 15 additions and 0 deletions in 1 file</sub>
@@ -923,6 +923,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Document dylib naming constraints
   <sub>[#13047](https://github.com/flutter/website/pull/13047) merged on February 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13047) over 9 hours, 64 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Whats new
+  <sub>[#13058](https://github.com/flutter/website/pull/13058) merged on February 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13058) over 2 hours, 41 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the banner for the release
   <sub>[#13059](https://github.com/flutter/website/pull/13059) merged on February 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13059) over 20 minutes, 2 additions and 2 deletions in 1 file</sub>

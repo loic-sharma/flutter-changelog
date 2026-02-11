@@ -50,9 +50,6 @@
 * **[Md Mushfiqur Rahim](https://github.com/MD-Mushfiqur123)** &mdash; add my name<br />
   <sub>[#180284](https://github.com/flutter/flutter/pull/180284) opened on on December 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180284) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Parryword](https://github.com/Parryword)** &mdash; 40601 fix: Overflowing stepper<br />
-  <sub>[#180431](https://github.com/flutter/flutter/pull/180431) opened on on January 2, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/180431) 44 additions and 6 deletions in 2 files</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
 
@@ -110,9 +107,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
-* **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move SelectionArea web test from widgets to material folder<br />
-  <sub>[#181951](https://github.com/flutter/flutter/pull/181951) opened on on February 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181951) 12 additions and 83 deletions in 3 files</sub><br />
-
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix NavigationDrawer highlight rendering when index changes externally (#180359)<br />
   <sub>[#181960](https://github.com/flutter/flutter/pull/181960) opened on on February 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181960) 24 additions and 29 deletions in 2 files</sub><br />
 
@@ -125,17 +119,11 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Clean up include paths for Fuchsia in the flutter engine<br />
   <sub>[#182031](https://github.com/flutter/flutter/pull/182031) opened on on February 6, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/182031) 218 additions and 268 deletions in 107 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out unnecessary `assert`s<br />
-  <sub>[#182042](https://github.com/flutter/flutter/pull/182042) opened on on February 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182042) 7 additions and 14 deletions in 2 files</sub><br />
-
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM: Model-Based Regeneration<br />
   <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/182065) 4470 additions and 876 deletions in 138 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 first grouped tests<br />
-  <sub>[#182077](https://github.com/flutter/flutter/pull/182077) opened on on February 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182077) 146 additions and 1 deletion in 7 files</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from transformed_scrollable_test.dart<br />
   <sub>[#182141](https://github.com/flutter/flutter/pull/182141) opened on on February 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182141) 14 additions and 10 deletions in 2 files</sub><br />
@@ -153,5 +141,5 @@
   <sub>[#182227](https://github.com/flutter/flutter/pull/182227) opened on on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182227) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify batch release mode requirements<br />
-  <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
 
