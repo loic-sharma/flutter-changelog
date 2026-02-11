@@ -905,12 +905,16 @@
 
 ### February 7, 2026 to February 13, 2026
 
-14 commits.
+15 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [3.41] Add `RepeatingAnimationBuilder` to the widget catalog
   <sub>[#12870](https://github.com/flutter/website/pull/12870) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12870) over 1 month, 15 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary><img width="311" height="388" alt="image" src="https://github.com/user-attachments/assets/a81f5a25-5864-4dfb-b1d5-19a0d78d3f02" /></details></sub>
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.41 release notes
+  <sub>[#13052](https://github.com/flutter/website/pull/13052) merged on February 11, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/13052) over 2 days, 938 additions and 1 deletion in 5 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [3.41] Document content-based resizing for add-to-app on iOS
   <sub>[#12810](https://github.com/flutter/website/pull/12810) merged on February 9, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/12810) over 2 months, 64 additions and 3 deletions in 1 file</sub>

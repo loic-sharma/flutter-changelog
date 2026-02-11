@@ -120,7 +120,7 @@
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM: Model-Based Regeneration<br />
-  <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/182065) 4470 additions and 876 deletions in 138 files</sub><br />
+  <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/182065) 354 additions and 113 deletions in 13 files</sub><br />
 
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from transformed_scrollable_test.dart<br />
   <sub>[#182141](https://github.com/flutter/flutter/pull/182141) opened on on February 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182141) 14 additions and 10 deletions in 2 files</sub><br />
