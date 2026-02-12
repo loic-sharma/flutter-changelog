@@ -117,7 +117,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; [Tool] Remove redundant name fields in an enum
-  <sub>[#181674](https://github.com/flutter/flutter/pull/181674) merged on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181674) over 1 week, 0 additions and 6 deletions in 1 file</sub>
+  <sub>[#181674](https://github.com/flutter/flutter/pull/181674) merged on February 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181674) over 1 week, 0 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Increase timeout for tracing_test.dart's "Canvas.saveLayer emits tracing"
