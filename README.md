@@ -793,7 +793,11 @@
 
 ### February 7, 2026 to February 13, 2026
 
-13 commits.
+14 commits.
+
+* **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera_avfoundation] Adds support for video stabilization<br />
+  <sub>[#10367](https://github.com/flutter/packages/pull/10367) merged on February 12, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/10367) over 3 months, 649 additions and 22 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter_web] Add Advanced markers support (web)<br />
   <sub>[#9773](https://github.com/flutter/packages/pull/9773) merged on February 10, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/packages/pull/9773) over 6 months, 1833 additions and 313 deletions in 23 files</sub><br />
