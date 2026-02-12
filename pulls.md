@@ -75,7 +75,7 @@
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS/macOS plugin template to add dependency on FlutterFramework<br />
-  <sub>[#181416](https://github.com/flutter/flutter/pull/181416) opened on on January 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181416) 39 additions and 9 deletions in 5 files</sub><br />
+  <sub>[#181416](https://github.com/flutter/flutter/pull/181416) opened on on January 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181416) 39 additions and 9 deletions in 5 files</sub><br />
 
 * **[ljbesigheid-dev](https://github.com/ljbesigheid-dev)** &mdash; Update README.md<br />
   <sub>[#181417](https://github.com/flutter/flutter/pull/181417) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181417) 101 additions and 2 deletions in 1 file</sub><br />
@@ -99,7 +99,7 @@
   <sub>[#181827](https://github.com/flutter/flutter/pull/181827) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181827) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate abi build paths to use new abi filtering api #AGP9<br />
-  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) opened on on February 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181828) 151 additions and 51 deletions in 5 files</sub><br />
+  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) opened on on February 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181828) 151 additions and 51 deletions in 5 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link to c_cpp_properties.json reference in `Setting-up-the-Engine-development-environment.md`<br />
   <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
@@ -162,8 +162,8 @@
   <sub>[#182276](https://github.com/flutter/flutter/pull/182276) opened on on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182276) 91 additions and 12 deletions in 4 files</sub><br />
 
 * **[Divyansh Shah](https://github.com/crackedhandle)** &mdash; flutter analyze: suggest running dart fix --apply when issues are found<br />
-  <sub>[#182288](https://github.com/flutter/flutter/pull/182288) opened on on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182288) 6 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#182288](https://github.com/flutter/flutter/pull/182288) opened on on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182288) 30 additions and 19 deletions in 3 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Add move timer runloop mode to common modes<br />
-  <sub>[#182295](https://github.com/flutter/flutter/pull/182295) opened on on February 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182295) 65 additions and 0 deletions in 3 files</sub><br />
+* **[Soufian El-Fouzari](https://github.com/SoufianElfouzari)** &mdash; Improved complete hello_world example: Added German versions, and widget tests, formatted and added Keys to other examples. <br />
+  <sub>[#182297](https://github.com/flutter/flutter/pull/182297) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182297) 82 additions and 6 deletions in 6 files</sub><br />
 

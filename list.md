@@ -773,7 +773,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-9 commits.
+10 commits.
 
 * **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter_web] Add Advanced markers support (web)
   <sub>[#9773](https://github.com/flutter/packages/pull/9773) merged on February 10, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/packages/pull/9773) over 6 months, 1833 additions and 313 deletions in 23 files</sub>
@@ -798,6 +798,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix custom marker icons on iOS
   <sub>[#10993](https://github.com/flutter/packages/pull/10993) merged on February 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10993) over 38 minutes, 40 additions and 3 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; [video_player_avfoundation] Fix regression where http headers were ignored
+  <sub>[#10991](https://github.com/flutter/packages/pull/10991) merged on February 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10991) over 2 days, 6 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update codeowners
   <sub>[#11004](https://github.com/flutter/packages/pull/11004) merged on February 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11004) over 57 minutes, 1 addition and 1 deletion in 1 file</sub>
