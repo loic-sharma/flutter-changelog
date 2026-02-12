@@ -165,5 +165,5 @@
   <sub>[#182288](https://github.com/flutter/flutter/pull/182288) opened on on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182288) 6 additions and 2 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Add move timer runloop mode to common modes<br />
-  <sub>[#182295](https://github.com/flutter/flutter/pull/182295) opened on on February 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182295) 65 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#182295](https://github.com/flutter/flutter/pull/182295) opened on on February 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182295) 65 additions and 0 deletions in 3 files</sub><br />
 
