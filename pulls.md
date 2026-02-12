@@ -99,7 +99,7 @@
   <sub>[#181827](https://github.com/flutter/flutter/pull/181827) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181827) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate abi build paths to use new abi filtering api #AGP9<br />
-  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) opened on on February 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181828) 151 additions and 51 deletions in 5 files</sub><br />
+  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) opened on on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181828) 151 additions and 51 deletions in 5 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link to c_cpp_properties.json reference in `Setting-up-the-Engine-development-environment.md`<br />
   <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
@@ -169,7 +169,4 @@
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made sure no test() declaration happens asynchronously in fragment shader tests.<br />
-  <sub>[#182306](https://github.com/flutter/flutter/pull/182306) opened on on February 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182306) 30 additions and 24 deletions in 1 file</sub><br />
 
