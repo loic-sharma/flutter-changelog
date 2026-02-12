@@ -937,7 +937,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-15 commits.
+16 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [3.41] Add `RepeatingAnimationBuilder` to the widget catalog<br />
   <sub>[#12870](https://github.com/flutter/website/pull/12870) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12870) over 1 month, 15 additions and 0 deletions in 1 file</sub><br />
@@ -966,6 +966,10 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds cacheExtent and cacheExtentStyle migration guide<br />
   <sub>[#13044](https://github.com/flutter/website/pull/13044) merged on February 9, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13044) over 2 days, 120 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Design Doc: Post-Decoupling Breaking Changes<br />
+  <sub>[#13063](https://github.com/flutter/website/pull/13063) merged on February 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13063) over 4 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update index and released in version for 3.41 breaking changes<br />
