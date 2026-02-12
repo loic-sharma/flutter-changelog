@@ -173,3 +173,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin dependencies to Add to App FlutterPluginRegistrant<br />
   <sub>[#182304](https://github.com/flutter/flutter/pull/182304) opened on on February 12, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/182304) 1015 additions and 23 deletions in 7 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Ensure resize listener is not added if content sizing is not turned on<br />
+  <sub>[#182320](https://github.com/flutter/flutter/pull/182320) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182320) 6 additions and 2 deletions in 1 file</sub><br />
+
