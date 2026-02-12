@@ -137,9 +137,12 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify batch release mode requirements<br />
   <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turns on most of fragment_shader_test.dart for opengles<br />
+  <sub>[#182229](https://github.com/flutter/flutter/pull/182229) opened on on February 11, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182229) 382 additions and 135 deletions in 15 files</sub><br />
+
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; dev: Use a super-parameter in several missed cases<br />
   <sub>[#182251](https://github.com/flutter/flutter/pull/182251) opened on on February 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182251) 27 additions and 33 deletions in 7 files</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Add support for high contrast and color inversion on Android<br />
-  <sub>[#182263](https://github.com/flutter/flutter/pull/182263) opened on on February 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/182263) 351 additions and 102 deletions in 4 files</sub><br />
+  <sub>[#182263](https://github.com/flutter/flutter/pull/182263) opened on on February 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/182263) 341 additions and 102 deletions in 4 files</sub><br />
 
