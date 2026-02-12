@@ -174,5 +174,5 @@
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin dependencies to Add to App FlutterPluginRegistrant<br />
-  <sub>[#182304](https://github.com/flutter/flutter/pull/182304) opened on on February 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182304) 1081 additions and 23 deletions in 7 files</sub><br />
+  <sub>[#182304](https://github.com/flutter/flutter/pull/182304) opened on on February 12, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/182304) 1081 additions and 23 deletions in 7 files</sub><br />
 
