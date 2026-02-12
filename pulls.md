@@ -162,5 +162,5 @@
   <sub>[#182276](https://github.com/flutter/flutter/pull/182276) opened on on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182276) 91 additions and 12 deletions in 4 files</sub><br />
 
 * **[Divyansh Shah](https://github.com/crackedhandle)** &mdash; flutter analyze: suggest running dart fix --apply when issues are found<br />
-  <sub>[#182288](https://github.com/flutter/flutter/pull/182288) opened on on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182288) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#182288](https://github.com/flutter/flutter/pull/182288) opened on on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182288) 6 additions and 2 deletions in 2 files</sub><br />
 
