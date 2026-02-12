@@ -765,11 +765,15 @@
 
 ### February 7, 2026 to February 13, 2026
 
-6 commits.
+8 commits.
 
 * **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter_web] Add Advanced markers support (web)<br />
   <sub>[#9773](https://github.com/flutter/packages/pull/9773) merged on February 10, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/packages/pull/9773) over 6 months, 1833 additions and 313 deletions in 23 files</sub><br />
   <sub>Reviewed by: [Ville Välimaa](https://github.com/illuminati1911), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Create SDK 9 and 10 packages for iOS<br />
+  <sub>[#10852](https://github.com/flutter/packages/pull/10852) merged on February 12, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/10852) over 2 weeks, 88147 additions and 25 deletions in 445 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Convert iOS unit tests to Swift<br />
   <sub>[#10989](https://github.com/flutter/packages/pull/10989) merged on February 11, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/10989) over 1 day, 1260 additions and 1529 deletions in 18 files</sub><br />
@@ -782,6 +786,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix custom marker icons on iOS<br />
   <sub>[#10993](https://github.com/flutter/packages/pull/10993) merged on February 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/10993) over 38 minutes, 40 additions and 3 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update codeowners<br />
+  <sub>[#11004](https://github.com/flutter/packages/pull/11004) merged on February 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11004) over 57 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [google_sign_in_ios][UIScene] Migrate to UIScene<br />
   <sub>[#10960](https://github.com/flutter/packages/pull/10960) merged on February 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/10960) over 6 days, 50 additions and 13 deletions in 8 files</sub><br />
