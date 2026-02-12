@@ -144,5 +144,5 @@
   <sub>[#182251](https://github.com/flutter/flutter/pull/182251) opened on on February 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182251) 27 additions and 33 deletions in 7 files</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Add support for high contrast and color inversion on Android<br />
-  <sub>[#182263](https://github.com/flutter/flutter/pull/182263) opened on on February 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/182263) 341 additions and 102 deletions in 4 files</sub><br />
+  <sub>[#182263](https://github.com/flutter/flutter/pull/182263) opened on on February 11, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/182263) 341 additions and 102 deletions in 4 files</sub><br />
 
