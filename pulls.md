@@ -153,7 +153,7 @@
   <sub>[#182270](https://github.com/flutter/flutter/pull/182270) opened on on February 12, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/182270) 344 additions and 3 deletions in 4 files</sub><br />
 
 * **[EricApostal](https://github.com/EricApostal)** &mdash; Don't throw an exception if no web define variable is set<br />
-  <sub>[#182273](https://github.com/flutter/flutter/pull/182273) opened on on February 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182273) 103 additions and 48 deletions in 7 files</sub><br />
+  <sub>[#182273](https://github.com/flutter/flutter/pull/182273) opened on on February 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182273) 158 additions and 39 deletions in 7 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
   <sub>[#182275](https://github.com/flutter/flutter/pull/182275) opened on on February 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182275) 382 additions and 2 deletions in 3 files</sub><br />
