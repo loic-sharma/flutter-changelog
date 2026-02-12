@@ -75,7 +75,7 @@
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS/macOS plugin template to add dependency on FlutterFramework<br />
-  <sub>[#181416](https://github.com/flutter/flutter/pull/181416) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181416) 39 additions and 9 deletions in 5 files</sub><br />
+  <sub>[#181416](https://github.com/flutter/flutter/pull/181416) opened on on January 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/181416) 45 additions and 11 deletions in 5 files</sub><br />
 
 * **[ljbesigheid-dev](https://github.com/ljbesigheid-dev)** &mdash; Update README.md<br />
   <sub>[#181417](https://github.com/flutter/flutter/pull/181417) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181417) 101 additions and 2 deletions in 1 file</sub><br />
@@ -125,6 +125,9 @@
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM: Model-Based Regeneration<br />
   <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/182065) 354 additions and 113 deletions in 13 files</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix iOS CI tests for Xcode 26 Swift compatibility<br />
+  <sub>[#182132](https://github.com/flutter/flutter/pull/182132) opened on on February 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182132) 33 additions and 3 deletions in 6 files</sub><br />
+
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from transformed_scrollable_test.dart<br />
   <sub>[#182141](https://github.com/flutter/flutter/pull/182141) opened on on February 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182141) 14 additions and 10 deletions in 2 files</sub><br />
 
@@ -169,4 +172,7 @@
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin dependencies to Add to App FlutterPluginRegistrant<br />
+  <sub>[#182304](https://github.com/flutter/flutter/pull/182304) opened on on February 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182304) 1081 additions and 23 deletions in 7 files</sub><br />
 
