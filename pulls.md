@@ -167,3 +167,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [CP][stable] Fix bug in multisurfacerenderer where canvases do not have "position: absolute"<br />
   <sub>[#182299](https://github.com/flutter/flutter/pull/182299) opened on on February 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182299) 85 additions and 2 deletions in 3 files</sub><br />
 
+* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
+  <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
+

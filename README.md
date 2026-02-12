@@ -24,7 +24,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Fix `flutter build ios-framework`<br />
-  <sub>[#181507](https://github.com/flutter/flutter/pull/181507) merged on February 12, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/181507) over 2 weeks, 906 additions and 479 deletions in 29 files</sub><br />
+  <sub>[#181507](https://github.com/flutter/flutter/pull/181507) merged on February 12, 2026 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/181507) over 2 weeks, 906 additions and 479 deletions in 29 files</sub><br />
   <sub>Reviewed by: [Kishan Raja](https://github.com/HyperlinkKishanr), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor accessibility guidelines out to widget layer<br />
