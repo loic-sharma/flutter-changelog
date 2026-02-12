@@ -789,7 +789,7 @@
 
 ### February 7, 2026 to February 13, 2026
 
-12 commits.
+13 commits.
 
 * **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter_web] Add Advanced markers support (web)
   <sub>[#9773](https://github.com/flutter/packages/pull/9773) merged on February 10, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/packages/pull/9773) over 6 months, 1833 additions and 313 deletions in 23 files</sub>
@@ -814,6 +814,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] updates `update-release-info` to support batch release
   <sub>[#10958](https://github.com/flutter/packages/pull/10958) merged on February 11, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/10958) over 1 week, 333 additions and 27 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add README section about SDK versions
+  <sub>[#11005](https://github.com/flutter/packages/pull/11005) merged on February 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11005) over 6 hours, 38 additions and 23 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Modernize `url_launcher_ios` example
   <sub>[#11002](https://github.com/flutter/packages/pull/11002) merged on February 12, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/11002) over 22 hours, 661 additions and 517 deletions in 44 files</sub>
