@@ -125,9 +125,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify batch release mode requirements<br />
   <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turns on most of fragment_shader_test.dart for opengles<br />
-  <sub>[#182229](https://github.com/flutter/flutter/pull/182229) opened on on February 11, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/182229) 426 additions and 143 deletions in 20 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Prompt plugin authors to add Swift Package Manager compatibility to their plugin<br />
   <sub>[#182246](https://github.com/flutter/flutter/pull/182246) opened on on February 11, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182246) 577 additions and 0 deletions in 3 files</sub><br />
 
