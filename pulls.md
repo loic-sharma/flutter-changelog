@@ -74,9 +74,6 @@
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS/macOS plugin template to add dependency on FlutterFramework<br />
-  <sub>[#181416](https://github.com/flutter/flutter/pull/181416) opened on on January 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181416) 45 additions and 11 deletions in 5 files</sub><br />
-
 * **[ljbesigheid-dev](https://github.com/ljbesigheid-dev)** &mdash; Update README.md<br />
   <sub>[#181417](https://github.com/flutter/flutter/pull/181417) opened on on January 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181417) 101 additions and 2 deletions in 1 file</sub><br />
 
@@ -138,7 +135,7 @@
   <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turns on most of fragment_shader_test.dart for opengles<br />
-  <sub>[#182229](https://github.com/flutter/flutter/pull/182229) opened on on February 11, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/182229) 426 additions and 143 deletions in 20 files</sub><br />
+  <sub>[#182229](https://github.com/flutter/flutter/pull/182229) opened on on February 11, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/182229) 426 additions and 143 deletions in 20 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Prompt plugin authors to add Swift Package Manager compatibility to their plugin<br />
   <sub>[#182246](https://github.com/flutter/flutter/pull/182246) opened on on February 11, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182246) 577 additions and 0 deletions in 3 files</sub><br />
@@ -166,9 +163,6 @@
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin dependencies to Add to App FlutterPluginRegistrant<br />
-  <sub>[#182304](https://github.com/flutter/flutter/pull/182304) opened on on February 12, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/182304) 1009 additions and 23 deletions in 7 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Ensure resize listener is not added if content sizing is not turned on<br />
   <sub>[#182320](https://github.com/flutter/flutter/pull/182320) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182320) 6 additions and 2 deletions in 1 file</sub><br />
