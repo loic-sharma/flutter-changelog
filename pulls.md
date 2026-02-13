@@ -198,5 +198,5 @@
   <sub>[#182362](https://github.com/flutter/flutter/pull/182362) opened on on February 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182362) 52 additions and 1 deletion in 2 files</sub><br />
 
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add Michal Kucharski to AUTHORS<br />
-  <sub>[#182365](https://github.com/flutter/flutter/pull/182365) opened on on February 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182365) 157 additions and 0 deletions in 6 files</sub><br />
+  <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />
 
