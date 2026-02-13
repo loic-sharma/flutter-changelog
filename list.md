@@ -121,7 +121,7 @@
   <sub>Reviewed by: [walley892](https://github.com/walley892)</sub>
 
 * **[EricApostal](https://github.com/EricApostal)** &mdash; Don't throw an exception if no web define variable is set
-  <sub>[#182273](https://github.com/flutter/flutter/pull/182273) merged on February 13, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/182273) over 23 hours, 158 additions and 39 deletions in 7 files</sub>
+  <sub>[#182273](https://github.com/flutter/flutter/pull/182273) merged on February 13, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/182273) over 23 hours, 158 additions and 39 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Navaron Bracke](https://github.com/navaronbracke), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize legacy switch statements to expressions across multiple files
