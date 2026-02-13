@@ -80,9 +80,6 @@
 * **[Patel Bhavy ](https://github.com/bhavypatel5391)** &mdash; Grammar<br />
   <sub>[#181546](https://github.com/flutter/flutter/pull/181546) opened on on January 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181546) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Rick Hohler](https://github.com/rickhohler)** &mdash; Migration: Remove material.dart dependency from framework_test.dart (Issue #177414)<br />
-  <sub>[#181620](https://github.com/flutter/flutter/pull/181620) opened on on January 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181620) 37 additions and 31 deletions in 2 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks Mac_arm64_mokey entrypoint_dart_registrant unflaky<br />
   <sub>[#181648](https://github.com/flutter/flutter/pull/181648) opened on on January 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181648) 0 additions and 1 deletion in 1 file</sub><br />
 
@@ -118,9 +115,6 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix iOS CI tests for Xcode 26 Swift compatibility<br />
   <sub>[#182132](https://github.com/flutter/flutter/pull/182132) opened on on February 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182132) 33 additions and 3 deletions in 6 files</sub><br />
-
-* **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from transformed_scrollable_test.dart<br />
-  <sub>[#182141](https://github.com/flutter/flutter/pull/182141) opened on on February 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182141) 14 additions and 10 deletions in 2 files</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM integration (Redux)<br />
   <sub>[#182171](https://github.com/flutter/flutter/pull/182171) opened on on February 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182171) 460 additions and 190 deletions in 17 files</sub><br />
