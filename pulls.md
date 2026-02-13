@@ -188,3 +188,9 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Clean up `animation_controller.dart`<br />
   <sub>[#182338](https://github.com/flutter/flutter/pull/182338) opened on on February 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182338) 33 additions and 49 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix `flutter build web` ignoring `--web-define` flag<br />
+  <sub>[#182344](https://github.com/flutter/flutter/pull/182344) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182344) 156 additions and 0 deletions in 5 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix `flutter build web` ignoring `--web-define` flag<br />
+  <sub>[#182345](https://github.com/flutter/flutter/pull/182345) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182345) 156 additions and 0 deletions in 5 files</sub><br />
+
