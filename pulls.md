@@ -99,7 +99,7 @@
   <sub>[#181827](https://github.com/flutter/flutter/pull/181827) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181827) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate abi build paths to use new abi filtering api #AGP9<br />
-  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) opened on on February 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/181828) 155 additions and 52 deletions in 5 files</sub><br />
+  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) opened on on February 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/181828) 156 additions and 53 deletions in 5 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link to c_cpp_properties.json reference in `Setting-up-the-Engine-development-environment.md`<br />
   <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
@@ -168,7 +168,7 @@
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin dependencies to Add to App FlutterPluginRegistrant<br />
-  <sub>[#182304](https://github.com/flutter/flutter/pull/182304) opened on on February 12, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/182304) 1015 additions and 23 deletions in 7 files</sub><br />
+  <sub>[#182304](https://github.com/flutter/flutter/pull/182304) opened on on February 12, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/182304) 1015 additions and 23 deletions in 7 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Ensure resize listener is not added if content sizing is not turned on<br />
   <sub>[#182320](https://github.com/flutter/flutter/pull/182320) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182320) 6 additions and 2 deletions in 1 file</sub><br />
@@ -195,7 +195,7 @@
   <sub>[#182345](https://github.com/flutter/flutter/pull/182345) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182345) 156 additions and 0 deletions in 5 files</sub><br />
 
 * **[eMxPi](https://github.com/eMxPi)** &mdash; flutter#182361 Fix delegate copy on plugins init<br />
-  <sub>[#182362](https://github.com/flutter/flutter/pull/182362) opened on on February 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182362) 49 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#182362](https://github.com/flutter/flutter/pull/182362) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182362) 49 additions and 1 deletion in 2 files</sub><br />
 
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add Michal Kucharski to AUTHORS<br />
   <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />
