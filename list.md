@@ -266,6 +266,10 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
   <sub><details><summary>1 image...</summary><img width="784" height="732" alt="Screenshot 2026-01-26 at 11 13 33 AM" src="https://github.com/user-attachments/assets/7cd749a8-eed5-41cb-9ab3-dd438b26f13e" /></details></sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's style guide for dot shorthands and extension methods
+  <sub>[#181934](https://github.com/flutter/flutter/pull/181934) merged on February 7, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181934) over 1 day, 334 additions and 12 deletions in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Implement tooltip window controller
   <sub>[#180895](https://github.com/flutter/flutter/pull/180895) merged on February 5, 2026 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/180895) over 3 weeks, 799 additions and 131 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae), [hellohuanlin](https://github.com/hellohuanlin)</sub>
@@ -282,10 +286,6 @@
   <sub>[#181261](https://github.com/flutter/flutter/pull/181261) merged on February 4, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/181261) over 1 week, 5 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
   <sub><details><summary>1 image...</summary>![talabat.com](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's style guide for dot shorthands and extension methods
-  <sub>[#181934](https://github.com/flutter/flutter/pull/181934) merged on February 7, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181934) over 1 day, 334 additions and 12 deletions in 1 file</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Brahim GUAALI](https://github.com/brahim-guaali)** &mdash; Fix DecoratedSliver sample to avoid antialiasing gap
   <sub>[#179848](https://github.com/flutter/flutter/pull/179848) merged on February 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/179848) over 1 month, 89 additions and 82 deletions in 2 files</sub>
