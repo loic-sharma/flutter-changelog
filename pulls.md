@@ -125,9 +125,6 @@
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM integration (Redux)<br />
   <sub>[#182171](https://github.com/flutter/flutter/pull/182171) opened on on February 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182171) 460 additions and 190 deletions in 17 files</sub><br />
 
-* **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Remove Material dependency from semantics_keep_alive_offstage_test.dart<br />
-  <sub>[#182211](https://github.com/flutter/flutter/pull/182211) opened on on February 11, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182211) 20 additions and 20 deletions in 2 files</sub><br />
-
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Use bilinear filtering for non-uniform scaled text<br />
   <sub>[#182224](https://github.com/flutter/flutter/pull/182224) opened on on February 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182224) 23 additions and 2 deletions in 1 file</sub><br />
 
@@ -171,7 +168,7 @@
   <sub>[#182327](https://github.com/flutter/flutter/pull/182327) opened on on February 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182327) 816 additions and 339 deletions in 6 files</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Remove `FML_DCHECK` around `CanReactOnCurrentThread()` in `ReactorGLES::CreateUntrackedHandle()<br />
-  <sub>[#182329](https://github.com/flutter/flutter/pull/182329) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182329) 2 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#182329](https://github.com/flutter/flutter/pull/182329) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182329) 2 additions and 5 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Eliminate rebuilds for Scaffold FAB animation<br />
   <sub>[#182331](https://github.com/flutter/flutter/pull/182331) opened on on February 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182331) 56 additions and 11 deletions in 2 files</sub><br />
