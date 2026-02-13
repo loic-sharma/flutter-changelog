@@ -99,7 +99,7 @@
   <sub>[#181827](https://github.com/flutter/flutter/pull/181827) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181827) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate abi build paths to use new abi filtering api #AGP9<br />
-  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) opened on on February 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181828) 151 additions and 51 deletions in 5 files</sub><br />
+  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) opened on on February 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/181828) 151 additions and 51 deletions in 5 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link to c_cpp_properties.json reference in `Setting-up-the-Engine-development-environment.md`<br />
   <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
@@ -138,7 +138,7 @@
   <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turns on most of fragment_shader_test.dart for opengles<br />
-  <sub>[#182229](https://github.com/flutter/flutter/pull/182229) opened on on February 11, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182229) 419 additions and 141 deletions in 18 files</sub><br />
+  <sub>[#182229](https://github.com/flutter/flutter/pull/182229) opened on on February 11, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/182229) 419 additions and 141 deletions in 18 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Prompt plugin authors to add Swift Package Manager compatibility to their plugin<br />
   <sub>[#182246](https://github.com/flutter/flutter/pull/182246) opened on on February 11, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182246) 577 additions and 0 deletions in 3 files</sub><br />
@@ -181,4 +181,7 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Eliminate rebuilds for Scaffold FAB animation<br />
   <sub>[#182331](https://github.com/flutter/flutter/pull/182331) opened on on February 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182331) 56 additions and 11 deletions in 2 files</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
+  <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182333) 117 additions and 6 deletions in 2 files</sub><br />
 
