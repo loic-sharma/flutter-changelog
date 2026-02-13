@@ -194,3 +194,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix `flutter build web` ignoring `--web-define` flag<br />
   <sub>[#182345](https://github.com/flutter/flutter/pull/182345) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182345) 156 additions and 0 deletions in 5 files</sub><br />
 
+* **[eMxPi](https://github.com/eMxPi)** &mdash; flutter#182361 Fix delegate copy on plugins init<br />
+  <sub>[#182362](https://github.com/flutter/flutter/pull/182362) opened on on February 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182362) 52 additions and 1 deletion in 2 files</sub><br />
+
