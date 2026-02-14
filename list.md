@@ -44,7 +44,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix cross imports for all Cupertino tests
-  <sub>[#181634](https://github.com/flutter/flutter/pull/181634) merged on February 13, 2026 &mdash; **Extra large:** [39 comments](https://github.com/flutter/flutter/pull/181634) over 2 weeks, 728 additions and 877 deletions in 21 files</sub>
+  <sub>[#181634](https://github.com/flutter/flutter/pull/181634) merged on February 13, 2026 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/181634) over 2 weeks, 728 additions and 877 deletions in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin dependencies to Add to App FlutterPluginRegistrant
