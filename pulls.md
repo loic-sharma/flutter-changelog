@@ -182,6 +182,3 @@
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; Improve SwiftPM minimum platform mismatch diagnostics<br />
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182375) 234 additions and 5 deletions in 5 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Disable multithread opengles, enables remaining fragment shader tests<br />
-  <sub>[#182384](https://github.com/flutter/flutter/pull/182384) opened on on February 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182384) 78 additions and 101 deletions in 2 files</sub><br />
-
