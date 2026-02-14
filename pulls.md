@@ -185,3 +185,6 @@
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize legacy switch statements to expressions in app.dart, bottom_navigation_bar.dart, and button.dart<br />
   <sub>[#182415](https://github.com/flutter/flutter/pull/182415) opened on on February 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182415) 135 additions and 158 deletions in 4 files</sub><br />
 
+* **[Andrei Kabylin](https://github.com/sysint64)** &mdash; Add bottom safe area padding to licenses package license page<br />
+  <sub>[#182425](https://github.com/flutter/flutter/pull/182425) opened on on February 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182425) 50 additions and 1 deletion in 2 files</sub><br />
+
