@@ -140,25 +140,41 @@
   <sub>[#181849](https://github.com/flutter/flutter/pull/181849) merged on February 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181849) over 1 week, 12 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Slava Egorov](https://github.com/mraleph), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize legacy switch statements to expressions across multiple files<br />
-  <sub>[#181427](https://github.com/flutter/flutter/pull/181427) merged on February 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181427) over 2 weeks, 36 additions and 55 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS/macOS plugin template to add dependency on FlutterFramework<br />
-  <sub>[#181416](https://github.com/flutter/flutter/pull/181416) merged on February 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181416) over 2 weeks, 45 additions and 11 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cross imports cleanups<br />
-  <sub>[#181611](https://github.com/flutter/flutter/pull/181611) merged on February 11, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/181611) over 1 week, 265 additions and 263 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Standardize on Test* widgets in *_tester.dart files<br />
+  <sub>[#182395](https://github.com/flutter/flutter/pull/182395) merged on February 13, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/182395) over 1 hour, 237 additions and 218 deletions in 34 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[EricApostal](https://github.com/EricApostal)** &mdash; Don't throw an exception if no web define variable is set<br />
   <sub>[#182273](https://github.com/flutter/flutter/pull/182273) merged on February 13, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/182273) over 23 hours, 158 additions and 39 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Navaron Bracke](https://github.com/navaronbracke), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cross imports cleanups<br />
+  <sub>[#181611](https://github.com/flutter/flutter/pull/181611) merged on February 11, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/181611) over 1 week, 265 additions and 263 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS/macOS plugin template to add dependency on FlutterFramework<br />
+  <sub>[#181416](https://github.com/flutter/flutter/pull/181416) merged on February 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181416) over 2 weeks, 45 additions and 11 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize legacy switch statements to expressions across multiple files<br />
+  <sub>[#181427](https://github.com/flutter/flutter/pull/181427) merged on February 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181427) over 2 weeks, 36 additions and 55 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Jaime Wren](https://github.com/jwren)** &mdash; refactor: Centralize table formatting logic into a new `formatTable` utility function.<br />
+  <sub>[#182196](https://github.com/flutter/flutter/pull/182196) merged on February 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182196) over 2 days, 102 additions and 48 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to ad5b0084fe6b<br />
   <sub>[#182183](https://github.com/flutter/flutter/pull/182183) merged on February 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182183) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Delete the last remaining skia only fragment shader tests<br />
+  <sub>[#182127](https://github.com/flutter/flutter/pull/182127) merged on February 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182127) over 3 hours, 7 additions and 13 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [ Tool ] Allow creation of projects inside the engine's examples directory<br />
+  <sub>[#182268](https://github.com/flutter/flutter/pull/182268) merged on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182268) over 22 hours, 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made sure no test() declaration happens asynchronously in fragment shader tests<br />
   <sub>[#182306](https://github.com/flutter/flutter/pull/182306) merged on February 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182306) over 2 hours, 30 additions and 24 deletions in 1 file</sub><br />
@@ -167,22 +183,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Changelog entry for 3.38.10 stable hotfix<br />
   <sub>[#182237](https://github.com/flutter/flutter/pull/182237) merged on February 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182237) over 35 minutes, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Delete the last remaining skia only fragment shader tests<br />
-  <sub>[#182127](https://github.com/flutter/flutter/pull/182127) merged on February 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182127) over 3 hours, 7 additions and 13 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
-
-* **[Jaime Wren](https://github.com/jwren)** &mdash; refactor: Centralize table formatting logic into a new `formatTable` utility function.<br />
-  <sub>[#182196](https://github.com/flutter/flutter/pull/182196) merged on February 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182196) over 2 days, 102 additions and 48 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [ Tool ] Allow creation of projects inside the engine's examples directory<br />
-  <sub>[#182268](https://github.com/flutter/flutter/pull/182268) merged on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182268) over 22 hours, 47 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Standardize on Test* widgets in *_tester.dart files<br />
-  <sub>[#182395](https://github.com/flutter/flutter/pull/182395) merged on February 13, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/182395) over 1 hour, 237 additions and 218 deletions in 34 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await to tester.pump callsites<br />
   <sub>[#182398](https://github.com/flutter/flutter/pull/182398) merged on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182398) over 1 hour, 3 additions and 3 deletions in 3 files</sub><br />
