@@ -402,10 +402,6 @@
   <sub>[#180469](https://github.com/flutter/flutter/pull/180469) merged on February 5, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/180469) over 1 month, 16 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Constrain RawAutocomplete options by soft keyboard<br />
-  <sub>[#181930](https://github.com/flutter/flutter/pull/181930) merged on February 5, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/181930) over 22 hours, 121 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web_ui): handle non-invertible matrices in ImageFilter.matrix<br />
   <sub>[#181742](https://github.com/flutter/flutter/pull/181742) merged on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181742) over 3 days, 115 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
@@ -421,14 +417,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; feat: Pass parameters from DropdownMenuFormField to DropDownMenu<br />
   <sub>[#181373](https://github.com/flutter/flutter/pull/181373) merged on February 4, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/181373) over 1 week, 149 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[walley892](https://github.com/walley892)** &mdash; Organize and update fragment shader uniform tests.<br />
-  <sub>[#181822](https://github.com/flutter/flutter/pull/181822) merged on February 3, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/181822) over 1 day, 656 additions and 304 deletions in 14 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove the Flutter.xcframework as a swift dependency<br />
-  <sub>[#181739](https://github.com/flutter/flutter/pull/181739) merged on February 3, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181739) over 3 days, 54 additions and 1320 deletions in 12 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implementation of tooltips in the `_TestWindowingOwner` and minor bugfixes to the multiple windows example app<br />
   <sub>[#181510](https://github.com/flutter/flutter/pull/181510) merged on February 3, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/181510) over 1 week, 310 additions and 116 deletions in 7 files</sub><br />
@@ -446,13 +434,25 @@
   <sub>[#181972](https://github.com/flutter/flutter/pull/181972) merged on February 6, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181972) over 22 hours, 84 additions and 62 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
+* **[walley892](https://github.com/walley892)** &mdash; Organize and update fragment shader uniform tests.<br />
+  <sub>[#181822](https://github.com/flutter/flutter/pull/181822) merged on February 3, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/181822) over 1 day, 656 additions and 304 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Giancarlo Cante](https://github.com/GiancarloCante)** &mdash; Rename "widgetTester" parameter to "tester" in "WidgetTesterCallback"<br />
   <sub>[#180944](https://github.com/flutter/flutter/pull/180944) merged on February 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180944) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove the Flutter.xcframework as a swift dependency<br />
+  <sub>[#181739](https://github.com/flutter/flutter/pull/181739) merged on February 3, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/181739) over 3 days, 54 additions and 1320 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Web] Fix flt-platform-view comment<br />
   <sub>[#181576](https://github.com/flutter/flutter/pull/181576) merged on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181576) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Constrain RawAutocomplete options by soft keyboard<br />
+  <sub>[#181930](https://github.com/flutter/flutter/pull/181930) merged on February 5, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/181930) over 22 hours, 121 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Deprecate web hot reload flag<br />
   <sub>[#181884](https://github.com/flutter/flutter/pull/181884) merged on February 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181884) over 20 hours, 116 additions and 1 deletion in 3 files</sub><br />
