@@ -341,13 +341,13 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>1 image...</summary><img width="784" height="732" alt="Screenshot 2026-01-26 at 11 13 33 AM" src="https://github.com/user-attachments/assets/7cd749a8-eed5-41cb-9ab3-dd438b26f13e" /></details></sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's style guide for dot shorthands and extension methods<br />
-  <sub>[#181934](https://github.com/flutter/flutter/pull/181934) merged on February 7, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181934) over 1 day, 334 additions and 12 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Implement tooltip window controller<br />
   <sub>[#180895](https://github.com/flutter/flutter/pull/180895) merged on February 5, 2026 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/180895) over 3 weeks, 799 additions and 131 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter's style guide for dot shorthands and extension methods<br />
+  <sub>[#181934](https://github.com/flutter/flutter/pull/181934) merged on February 7, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181934) over 1 day, 334 additions and 12 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Bump minimum required Xcode version to 15 and recommended to 16<br />
   <sub>[#180531](https://github.com/flutter/flutter/pull/180531) merged on February 5, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/180531) over 1 month, 77 additions and 56 deletions in 7 files</sub><br />
