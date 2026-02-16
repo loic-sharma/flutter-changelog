@@ -156,7 +156,7 @@
   <sub>[#182320](https://github.com/flutter/flutter/pull/182320) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182320) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[Luka Pervan](https://github.com/pervanluka)** &mdash; Fix NestedScrollView fling, overscroll, and animateTo with unified offset model<br />
-  <sub>[#182327](https://github.com/flutter/flutter/pull/182327) opened on on February 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182327) 816 additions and 339 deletions in 6 files</sub><br />
+  <sub>[#182327](https://github.com/flutter/flutter/pull/182327) opened on on February 12, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182327) 816 additions and 339 deletions in 6 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Eliminate rebuilds for Scaffold FAB animation<br />
   <sub>[#182331](https://github.com/flutter/flutter/pull/182331) opened on on February 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182331) 56 additions and 11 deletions in 2 files</sub><br />
