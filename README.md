@@ -691,9 +691,18 @@
 
 ## flutter/website
 
+### February 14, 2026 to February 20, 2026
+
+1 commits.
+
+* **[Hamza Gohar](https://github.com/HamzaGohar-2k23-BSCS-249)** &mdash; Typo in implicit-animations.md<br />
+  <sub>[#13076](https://github.com/flutter/website/pull/13076) merged on February 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13076) over 2 days, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### February 7, 2026 to February 13, 2026
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [3.41] Add `RepeatingAnimationBuilder` to the widget catalog<br />
   <sub>[#12870](https://github.com/flutter/website/pull/12870) merged on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/12870) over 1 month, 15 additions and 0 deletions in 1 file</sub><br />
@@ -763,6 +772,8 @@
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Update body widget in layout.md to use Text instead of tile<br />
   <sub>[#13048](https://github.com/flutter/website/pull/13048) merged on February 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13048) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### January 31, 2026 to February 6, 2026
 
