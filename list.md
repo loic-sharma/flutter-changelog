@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### February 14, 2026 to February 20, 2026
+
+1 commits.
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add routes support in TestWidgetsApp
+  <sub>[#181695](https://github.com/flutter/flutter/pull/181695) merged on February 16, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181695) over 2 weeks, 345 additions and 14 deletions in 2 files</sub>
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 ### February 7, 2026 to February 13, 2026
 
-76 commits.
+<details>
+<summary>76 commits...</summary>
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; fix: OutlineInputBorder not respecting BorderSide stroke alignment
   <sub>[#180487](https://github.com/flutter/flutter/pull/180487) merged on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180487) over 1 month, 89 additions and 7 deletions in 3 files</sub>
@@ -311,6 +320,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Skia from 67c11c6611d6 to e2991aa99710 (2 revisions)
   <sub>[#182370](https://github.com/flutter/flutter/pull/182370) merged on February 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182370) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### January 31, 2026 to February 6, 2026
 
