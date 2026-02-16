@@ -695,12 +695,12 @@
 
 2 commits.
 
-* **[IMØ](https://github.com/warioddly)** &mdash; Rename onPressed to nextArticleCallback in ArticlePage
-  <sub>[#13066](https://github.com/flutter/website/pull/13066) merged on February 16, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13066) over 3 days, 5 additions and 7 deletions in 1 file</sub>
+* **[Hamza Gohar](https://github.com/HamzaGohar-2k23-BSCS-249)** &mdash; Typo in implicit-animations.md
+  <sub>[#13076](https://github.com/flutter/website/pull/13076) merged on February 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13076) over 2 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
-* **[Hamza Gohar](https://github.com/HamzaGohar-2k23-BSCS-249)** &mdash; Typo in implicit-animations.md
-  <sub>[#13076](https://github.com/flutter/website/pull/13076) merged on February 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13076) over 2 days, 3 additions and 3 deletions in 1 file</sub>
+* **[IMØ](https://github.com/warioddly)** &mdash; Rename onPressed to nextArticleCallback in ArticlePage
+  <sub>[#13066](https://github.com/flutter/website/pull/13066) merged on February 16, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13066) over 3 days, 5 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### February 7, 2026 to February 13, 2026
