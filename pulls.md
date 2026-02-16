@@ -198,5 +198,5 @@
   <sub>[#182461](https://github.com/flutter/flutter/pull/182461) opened on on February 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182461) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Carousel: Migration from Scrollable+Viewport to CustomScrollView<br />
-  <sub>[#182475](https://github.com/flutter/flutter/pull/182475) opened on on February 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182475) 7 additions and 24 deletions in 1 file</sub><br />
+  <sub>[#182475](https://github.com/flutter/flutter/pull/182475) opened on on February 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182475) 7 additions and 24 deletions in 1 file</sub><br />
 
