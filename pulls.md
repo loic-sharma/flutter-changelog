@@ -194,3 +194,6 @@
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
   <sub>[#182426](https://github.com/flutter/flutter/pull/182426) opened on on February 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182426) 30 additions and 2 deletions in 1 file</sub><br />
 
+* **[Akshat.Shukla](https://github.com/Akshat-Shuklaaa)** &mdash; docs: fix grammar in animation library documentation<br />
+  <sub>[#182461](https://github.com/flutter/flutter/pull/182461) opened on on February 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182461) 1 addition and 1 deletion in 1 file</sub><br />
+
