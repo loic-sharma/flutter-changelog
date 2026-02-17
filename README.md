@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-8 commits.
+9 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Do not wait until dispose before removing replaced/popped page<br />
   <sub>[#182315](https://github.com/flutter/flutter/pull/182315) merged on February 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182315) over 5 days, 22 additions and 3 deletions in 2 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "[Android] Add mechanism for setting Android engine flags via …<br />
   <sub>[#182388](https://github.com/flutter/flutter/pull/182388) merged on February 17, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182388) over 3 days, 567 additions and 2017 deletions in 24 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more getters from userMessages class<br />
+  <sub>[#182166](https://github.com/flutter/flutter/pull/182166) merged on February 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182166) over 1 week, 96 additions and 144 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix iOS CI tests for Xcode 26 Swift compatibility<br />
   <sub>[#182132](https://github.com/flutter/flutter/pull/182132) merged on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182132) over 1 week, 33 additions and 3 deletions in 6 files</sub><br />
