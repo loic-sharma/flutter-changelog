@@ -149,9 +149,6 @@
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
 
-* **[Luka Pervan](https://github.com/pervanluka)** &mdash; Fix NestedScrollView fling, overscroll, and animateTo with unified offset model<br />
-  <sub>[#182327](https://github.com/flutter/flutter/pull/182327) opened on on February 12, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/182327) 816 additions and 339 deletions in 6 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
 
@@ -162,7 +159,7 @@
   <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Implement popup windows for macOS<br />
-  <sub>[#182371](https://github.com/flutter/flutter/pull/182371) opened on on February 13, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/182371) 934 additions and 52 deletions in 17 files</sub><br />
+  <sub>[#182371](https://github.com/flutter/flutter/pull/182371) opened on on February 13, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/182371) 934 additions and 52 deletions in 17 files</sub><br />
 
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; Improve SwiftPM minimum platform mismatch diagnostics<br />
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182375) 234 additions and 5 deletions in 5 files</sub><br />
@@ -173,20 +170,11 @@
 * **[Andrei Kabylin](https://github.com/sysint64)** &mdash; Add bottom safe area padding to licenses package license page<br />
   <sub>[#182425](https://github.com/flutter/flutter/pull/182425) opened on on February 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182425) 53 additions and 5 deletions in 2 files</sub><br />
 
-* **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
-  <sub>[#182426](https://github.com/flutter/flutter/pull/182426) opened on on February 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182426) 30 additions and 2 deletions in 1 file</sub><br />
-
-* **[Akshat.Shukla](https://github.com/Akshat-Shuklaaa)** &mdash; docs: fix grammar in animation library documentation<br />
-  <sub>[#182461](https://github.com/flutter/flutter/pull/182461) opened on on February 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182461) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Carousel: Migration from Scrollable+Viewport to CustomScrollView<br />
   <sub>[#182475](https://github.com/flutter/flutter/pull/182475) opened on on February 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182475) 7 additions and 24 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Unify text direction handling in InputDecorator and TextField/TextFormField<br />
   <sub>[#182477](https://github.com/flutter/flutter/pull/182477) opened on on February 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182477) 187 additions and 5 deletions in 7 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a StretchingOverscrollIndicator doesn't crash when it …<br />
-  <sub>[#182499](https://github.com/flutter/flutter/pull/182499) opened on on February 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182499) 12 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix: disable NavigationDestination tooltip when message is empty<br />
   <sub>[#182500](https://github.com/flutter/flutter/pull/182500) opened on on February 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182500) 48 additions and 22 deletions in 2 files</sub><br />
