@@ -116,8 +116,8 @@
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM: Model-Based Regeneration<br />
   <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/182065) 354 additions and 113 deletions in 13 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix iOS CI tests for Xcode 26 Swift compatibility<br />
-  <sub>[#182132](https://github.com/flutter/flutter/pull/182132) opened on on February 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182132) 33 additions and 3 deletions in 6 files</sub><br />
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Run webparagraph tests in CI<br />
+  <sub>[#182092](https://github.com/flutter/flutter/pull/182092) opened on on February 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182092) 37 additions and 1 deletion in 3 files</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM integration (Redux)<br />
   <sub>[#182171](https://github.com/flutter/flutter/pull/182171) opened on on February 10, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182171) 876 additions and 668 deletions in 20 files</sub><br />
@@ -144,7 +144,7 @@
   <sub>[#182275](https://github.com/flutter/flutter/pull/182275) opened on on February 12, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/182275) 382 additions and 2 deletions in 3 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Support linux-arm64 host for Android gen_snapshot artifact download<br />
-  <sub>[#182276](https://github.com/flutter/flutter/pull/182276) opened on on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182276) 91 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#182276](https://github.com/flutter/flutter/pull/182276) opened on on February 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182276) 91 additions and 12 deletions in 4 files</sub><br />
 
 * **[Soufian El-Fouzari](https://github.com/SoufianElfouzari)** &mdash; Improved complete hello_world example: Added German versions, and widget tests, formatted and added Keys to other examples. <br />
   <sub>[#182297](https://github.com/flutter/flutter/pull/182297) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182297) 79 additions and 5 deletions in 6 files</sub><br />
@@ -206,6 +206,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a StretchingOverscrollIndicator doesn't crash when it …<br />
   <sub>[#182499](https://github.com/flutter/flutter/pull/182499) opened on on February 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182499) 12 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; fix: hide NavigationDestination tooltip when message is empty<br />
-  <sub>[#182500](https://github.com/flutter/flutter/pull/182500) opened on on February 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182500) 49 additions and 22 deletions in 2 files</sub><br />
+* **[Mairramer](https://github.com/Mairramer)** &mdash; fix: disable NavigationDestination tooltip when message is empty<br />
+  <sub>[#182500](https://github.com/flutter/flutter/pull/182500) opened on on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182500) 48 additions and 22 deletions in 2 files</sub><br />
 
