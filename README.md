@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-5 commits.
+6 commits.
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Filter error messages from `emulator -list-avds` output<br />
   <sub>[#180802](https://github.com/flutter/flutter/pull/180802) merged on February 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180802) over 1 month, 39 additions and 2 deletions in 2 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add routes support in TestWidgetsApp<br />
   <sub>[#181695](https://github.com/flutter/flutter/pull/181695) merged on February 16, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181695) over 2 weeks, 345 additions and 14 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Илия](https://github.com/777genius)** &mdash; Add contentTextStyle support to SimpleDialog<br />
+  <sub>[#178824](https://github.com/flutter/flutter/pull/178824) merged on February 17, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178824) over 3 months, 83 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "[Android] Add mechanism for setting Android engine flags via …<br />
   <sub>[#182388](https://github.com/flutter/flutter/pull/182388) merged on February 17, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182388) over 3 days, 567 additions and 2017 deletions in 24 files</sub><br />
@@ -595,7 +599,11 @@
 
 ### February 14, 2026 to February 20, 2026
 
-6 commits.
+7 commits.
+
+* **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature <br />
+  <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Camille Simon](https://github.com/camsim99), [Enrico Zamagni](https://github.com/ezamagni-tg), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon), and [3 others](https://github.com/flutter/packages/pull/9925)</sub><br />
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter_android] Add advanced markers support<br />
   <sub>[#10381](https://github.com/flutter/packages/pull/10381) merged on February 17, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/10381) over 3 months, 2706 additions and 273 deletions in 32 files</sub><br />
