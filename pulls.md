@@ -141,7 +141,7 @@
   <sub>[#182270](https://github.com/flutter/flutter/pull/182270) opened on on February 12, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/182270) 344 additions and 3 deletions in 4 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
-  <sub>[#182275](https://github.com/flutter/flutter/pull/182275) opened on on February 12, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/182275) 382 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#182275](https://github.com/flutter/flutter/pull/182275) opened on on February 12, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/182275) 382 additions and 2 deletions in 3 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Support linux-arm64 host for Android gen_snapshot artifact download<br />
   <sub>[#182276](https://github.com/flutter/flutter/pull/182276) opened on on February 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182276) 91 additions and 12 deletions in 4 files</sub><br />
