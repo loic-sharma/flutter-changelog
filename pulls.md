@@ -204,8 +204,8 @@
   <sub>[#182499](https://github.com/flutter/flutter/pull/182499) opened on on February 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182499) 12 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix: disable NavigationDestination tooltip when message is empty<br />
-  <sub>[#182500](https://github.com/flutter/flutter/pull/182500) opened on on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182500) 48 additions and 22 deletions in 2 files</sub><br />
+  <sub>[#182500](https://github.com/flutter/flutter/pull/182500) opened on on February 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182500) 48 additions and 22 deletions in 2 files</sub><br />
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Analyzer, require 10.1.0, fix deprecations in dependency_graph.dart<br />
-  <sub>[#182507](https://github.com/flutter/flutter/pull/182507) opened on on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182507) 25 additions and 25 deletions in 5 files</sub><br />
+  <sub>[#182507](https://github.com/flutter/flutter/pull/182507) opened on on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182507) 26 additions and 26 deletions in 5 files</sub><br />
 

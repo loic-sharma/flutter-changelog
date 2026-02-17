@@ -4,7 +4,11 @@
 
 ### February 14, 2026 to February 20, 2026
 
-3 commits.
+5 commits.
+
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Filter error messages from `emulator -list-avds` output
+  <sub>[#180802](https://github.com/flutter/flutter/pull/180802) merged on February 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180802) over 1 month, 39 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add routes support in TestWidgetsApp
   <sub>[#181695](https://github.com/flutter/flutter/pull/181695) merged on February 16, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181695) over 2 weeks, 345 additions and 14 deletions in 2 files</sub>
@@ -17,6 +21,10 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix iOS CI tests for Xcode 26 Swift compatibility
   <sub>[#182132](https://github.com/flutter/flutter/pull/182132) merged on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182132) over 1 week, 33 additions and 3 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [Reland] Cupertino cross imports
+  <sub>[#182416](https://github.com/flutter/flutter/pull/182416) merged on February 17, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/182416) over 3 days, 728 additions and 877 deletions in 21 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 ### February 7, 2026 to February 13, 2026
 
