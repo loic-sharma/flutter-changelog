@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-2 commits.
+3 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add routes support in TestWidgetsApp<br />
   <sub>[#181695](https://github.com/flutter/flutter/pull/181695) merged on February 16, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181695) over 2 weeks, 345 additions and 14 deletions in 2 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "[Android] Add mechanism for setting Android engine flags via …<br />
   <sub>[#182388](https://github.com/flutter/flutter/pull/182388) merged on February 17, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182388) over 3 days, 567 additions and 2017 deletions in 24 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix iOS CI tests for Xcode 26 Swift compatibility<br />
+  <sub>[#182132](https://github.com/flutter/flutter/pull/182132) merged on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182132) over 1 week, 33 additions and 3 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 ### February 7, 2026 to February 13, 2026
 
@@ -581,9 +585,18 @@
 
 ## flutter/packages
 
+### February 14, 2026 to February 20, 2026
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update release to 3.41<br />
+  <sub>[#11014](https://github.com/flutter/packages/pull/11014) merged on February 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11014) over 4 days, 22 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
 ### February 7, 2026 to February 13, 2026
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera_avfoundation] Adds support for video stabilization<br />
   <sub>[#10367](https://github.com/flutter/packages/pull/10367) merged on February 12, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/10367) over 3 months, 649 additions and 22 deletions in 19 files</sub><br />
@@ -640,6 +653,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 67323de285b0 to 44a626f4f002 (1372 revisions)<br />
   <sub>[#10999](https://github.com/flutter/packages/pull/10999) merged on February 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10999) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### January 31, 2026 to February 6, 2026
 
