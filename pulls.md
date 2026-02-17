@@ -155,9 +155,6 @@
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Ensure resize listener is not added if content sizing is not turned on<br />
-  <sub>[#182320](https://github.com/flutter/flutter/pull/182320) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182320) 6 additions and 2 deletions in 1 file</sub><br />
-
 * **[Luka Pervan](https://github.com/pervanluka)** &mdash; Fix NestedScrollView fling, overscroll, and animateTo with unified offset model<br />
   <sub>[#182327](https://github.com/flutter/flutter/pull/182327) opened on on February 12, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182327) 816 additions and 339 deletions in 6 files</sub><br />
 
@@ -180,7 +177,7 @@
   <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Implement popup windows for macOS<br />
-  <sub>[#182371](https://github.com/flutter/flutter/pull/182371) opened on on February 13, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/182371) 933 additions and 52 deletions in 17 files</sub><br />
+  <sub>[#182371](https://github.com/flutter/flutter/pull/182371) opened on on February 13, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/182371) 934 additions and 52 deletions in 17 files</sub><br />
 
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; Improve SwiftPM minimum platform mismatch diagnostics<br />
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182375) 234 additions and 5 deletions in 5 files</sub><br />
