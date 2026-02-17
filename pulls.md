@@ -156,7 +156,7 @@
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Luka Pervan](https://github.com/pervanluka)** &mdash; Fix NestedScrollView fling, overscroll, and animateTo with unified offset model<br />
-  <sub>[#182327](https://github.com/flutter/flutter/pull/182327) opened on on February 12, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182327) 816 additions and 339 deletions in 6 files</sub><br />
+  <sub>[#182327](https://github.com/flutter/flutter/pull/182327) opened on on February 12, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/182327) 816 additions and 339 deletions in 6 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Eliminate rebuilds for Scaffold FAB animation<br />
   <sub>[#182331](https://github.com/flutter/flutter/pull/182331) opened on on February 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182331) 56 additions and 11 deletions in 2 files</sub><br />
@@ -195,11 +195,11 @@
   <sub>[#182426](https://github.com/flutter/flutter/pull/182426) opened on on February 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182426) 30 additions and 2 deletions in 1 file</sub><br />
 
 * **[Akshat.Shukla](https://github.com/Akshat-Shuklaaa)** &mdash; docs: fix grammar in animation library documentation<br />
-  <sub>[#182461](https://github.com/flutter/flutter/pull/182461) opened on on February 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182461) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#182461](https://github.com/flutter/flutter/pull/182461) opened on on February 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182461) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Carousel: Migration from Scrollable+Viewport to CustomScrollView<br />
   <sub>[#182475](https://github.com/flutter/flutter/pull/182475) opened on on February 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182475) 7 additions and 24 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Unify text direction handling in InputDecorator and TextField/TextFormField<br />
-  <sub>[#182477](https://github.com/flutter/flutter/pull/182477) opened on on February 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182477) 188 additions and 5 deletions in 7 files</sub><br />
+  <sub>[#182477](https://github.com/flutter/flutter/pull/182477) opened on on February 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182477) 187 additions and 5 deletions in 7 files</sub><br />
 

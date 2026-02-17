@@ -4,11 +4,15 @@
 
 ### February 14, 2026 to February 20, 2026
 
-1 commits.
+2 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add routes support in TestWidgetsApp
   <sub>[#181695](https://github.com/flutter/flutter/pull/181695) merged on February 16, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181695) over 2 weeks, 345 additions and 14 deletions in 2 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "[Android] Add mechanism for setting Android engine flags via …
+  <sub>[#182388](https://github.com/flutter/flutter/pull/182388) merged on February 17, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182388) over 3 days, 567 additions and 2017 deletions in 24 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 ### February 7, 2026 to February 13, 2026
 
