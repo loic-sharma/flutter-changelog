@@ -587,7 +587,11 @@
 
 ### February 14, 2026 to February 20, 2026
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update repo for 3.41
+  <sub>[#11017](https://github.com/flutter/packages/pull/11017) merged on February 17, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/11017) over 4 days, 327 additions and 241 deletions in 170 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Robert Ancell](https://github.com/robert-ancell), [Matt Boetger](https://github.com/mboetger), [Tarrin Neal](https://github.com/tarrinneal), and [1 other](https://github.com/flutter/packages/pull/11017)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update release to 3.41
   <sub>[#11014](https://github.com/flutter/packages/pull/11014) merged on February 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11014) over 4 days, 22 additions and 7 deletions in 4 files</sub>
