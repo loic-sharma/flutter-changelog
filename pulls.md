@@ -35,9 +35,6 @@
 * **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
   <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only repaint views that need to be painted (with external texture & platform view support)<br />
-  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) opened on on December 15, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/179874) 531 additions and 23 deletions in 21 files</sub><br />
-
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/180131) 106 additions and 54 deletions in 2 files</sub><br />
 
@@ -96,7 +93,7 @@
   <sub>[#181827](https://github.com/flutter/flutter/pull/181827) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181827) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate abi build paths to use new abi filtering api #AGP9<br />
-  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) opened on on February 2, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/181828) 160 additions and 53 deletions in 5 files</sub><br />
+  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) opened on on February 2, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/181828) 159 additions and 53 deletions in 5 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link to c_cpp_properties.json reference in `Setting-up-the-Engine-development-environment.md`<br />
   <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
@@ -113,11 +110,11 @@
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
-* **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM: Model-Based Regeneration<br />
-  <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/182065) 354 additions and 113 deletions in 13 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Run webparagraph tests in CI<br />
   <sub>[#182092](https://github.com/flutter/flutter/pull/182092) opened on on February 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182092) 37 additions and 1 deletion in 3 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove FlutterFramework app migration<br />
+  <sub>[#182100](https://github.com/flutter/flutter/pull/182100) opened on on February 9, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/182100) 347 additions and 755 deletions in 11 files</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM integration (Redux)<br />
   <sub>[#182171](https://github.com/flutter/flutter/pull/182171) opened on on February 10, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182171) 876 additions and 668 deletions in 20 files</sub><br />

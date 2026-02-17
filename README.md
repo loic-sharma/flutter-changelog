@@ -587,11 +587,19 @@
 
 ### February 14, 2026 to February 20, 2026
 
-2 commits.
+4 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Standardize iOS class and file names<br />
+  <sub>[#10964](https://github.com/flutter/packages/pull/10964) merged on February 17, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10964) over 1 week, 1657 additions and 1709 deletions in 181 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update repo for 3.41<br />
   <sub>[#11017](https://github.com/flutter/packages/pull/11017) merged on February 17, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/11017) over 4 days, 327 additions and 241 deletions in 170 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Robert Ancell](https://github.com/robert-ancell), [Matt Boetger](https://github.com/mboetger), [Tarrin Neal](https://github.com/tarrinneal), and [1 other](https://github.com/flutter/packages/pull/11017)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Simply Kotlin/Java interop utils<br />
+  <sub>[#11011](https://github.com/flutter/packages/pull/11011) merged on February 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11011) over 4 days, 21 additions and 41 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update release to 3.41<br />
   <sub>[#11014](https://github.com/flutter/packages/pull/11014) merged on February 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11014) over 4 days, 22 additions and 7 deletions in 4 files</sub><br />
