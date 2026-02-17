@@ -147,7 +147,7 @@
   <sub>[#182297](https://github.com/flutter/flutter/pull/182297) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182297) 79 additions and 5 deletions in 6 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [CP][stable] Fix bug in multisurfacerenderer where canvases do not have "position: absolute"<br />
-  <sub>[#182299](https://github.com/flutter/flutter/pull/182299) opened on on February 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182299) 85 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#182299](https://github.com/flutter/flutter/pull/182299) opened on on February 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182299) 85 additions and 2 deletions in 3 files</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
@@ -164,12 +164,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Clean up `animation_controller.dart`<br />
   <sub>[#182338](https://github.com/flutter/flutter/pull/182338) opened on on February 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182338) 33 additions and 49 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix `flutter build web` ignoring `--web-define` flag<br />
-  <sub>[#182344](https://github.com/flutter/flutter/pull/182344) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182344) 156 additions and 0 deletions in 5 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix `flutter build web` ignoring `--web-define` flag<br />
-  <sub>[#182345](https://github.com/flutter/flutter/pull/182345) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182345) 156 additions and 0 deletions in 5 files</sub><br />
-
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add Michal Kucharski to AUTHORS<br />
   <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -178,9 +172,6 @@
 
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; Improve SwiftPM minimum platform mismatch diagnostics<br />
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182375) 234 additions and 5 deletions in 5 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland #179643, only scroll hit-testable primary scroll views on status bar tap<br />
-  <sub>[#182391](https://github.com/flutter/flutter/pull/182391) opened on on February 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/182391) 515 additions and 178 deletions in 20 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize legacy switch statements to expressions in app.dart, bottom_navigation_bar.dart, and button.dart<br />
   <sub>[#182415](https://github.com/flutter/flutter/pull/182415) opened on on February 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182415) 135 additions and 158 deletions in 4 files</sub><br />

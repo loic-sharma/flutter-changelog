@@ -4,7 +4,11 @@
 
 ### February 14, 2026 to February 20, 2026
 
-6 commits.
+8 commits.
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Do not wait until dispose before removing replaced/popped page<br />
+  <sub>[#182315](https://github.com/flutter/flutter/pull/182315) merged on February 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182315) over 5 days, 22 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Filter error messages from `emulator -list-avds` output<br />
   <sub>[#180802](https://github.com/flutter/flutter/pull/180802) merged on February 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180802) over 1 month, 39 additions and 2 deletions in 2 files</sub><br />
@@ -17,6 +21,10 @@
 * **[Илия](https://github.com/777genius)** &mdash; Add contentTextStyle support to SimpleDialog<br />
   <sub>[#178824](https://github.com/flutter/flutter/pull/178824) merged on February 17, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178824) over 3 months, 83 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[walley892](https://github.com/walley892)** &mdash; Implement getUniformMatX and getUniformMatXArray functionality on web<br />
+  <sub>[#182249](https://github.com/flutter/flutter/pull/182249) merged on February 17, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/182249) over 5 days, 1275 additions and 23 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "[Android] Add mechanism for setting Android engine flags via …<br />
   <sub>[#182388](https://github.com/flutter/flutter/pull/182388) merged on February 17, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182388) over 3 days, 567 additions and 2017 deletions in 24 files</sub><br />
