@@ -183,7 +183,7 @@
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182375) 234 additions and 5 deletions in 5 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland #179643, only scroll hit-testable primary scroll views on status bar tap<br />
-  <sub>[#182391](https://github.com/flutter/flutter/pull/182391) opened on on February 13, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/182391) 515 additions and 178 deletions in 20 files</sub><br />
+  <sub>[#182391](https://github.com/flutter/flutter/pull/182391) opened on on February 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182391) 515 additions and 178 deletions in 20 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] modernize legacy switch statements to expressions in app.dart, bottom_navigation_bar.dart, and button.dart<br />
   <sub>[#182415](https://github.com/flutter/flutter/pull/182415) opened on on February 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182415) 135 additions and 158 deletions in 4 files</sub><br />
@@ -208,4 +208,7 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix: disable NavigationDestination tooltip when message is empty<br />
   <sub>[#182500](https://github.com/flutter/flutter/pull/182500) opened on on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182500) 48 additions and 22 deletions in 2 files</sub><br />
+
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Analyzer, require 10.1.0, fix deprecations in dependency_graph.dart<br />
+  <sub>[#182507](https://github.com/flutter/flutter/pull/182507) opened on on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182507) 25 additions and 25 deletions in 5 files</sub><br />
 
