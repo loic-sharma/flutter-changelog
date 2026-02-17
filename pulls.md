@@ -117,7 +117,7 @@
   <sub>[#182065](https://github.com/flutter/flutter/pull/182065) opened on on February 8, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/182065) 354 additions and 113 deletions in 13 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix iOS CI tests for Xcode 26 Swift compatibility<br />
-  <sub>[#182132](https://github.com/flutter/flutter/pull/182132) opened on on February 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182132) 33 additions and 3 deletions in 6 files</sub><br />
+  <sub>[#182132](https://github.com/flutter/flutter/pull/182132) opened on on February 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182132) 33 additions and 3 deletions in 6 files</sub><br />
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Hardening SPM integration (Redux)<br />
   <sub>[#182171](https://github.com/flutter/flutter/pull/182171) opened on on February 10, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182171) 876 additions and 668 deletions in 20 files</sub><br />
@@ -202,4 +202,10 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Unify text direction handling in InputDecorator and TextField/TextFormField<br />
   <sub>[#182477](https://github.com/flutter/flutter/pull/182477) opened on on February 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182477) 187 additions and 5 deletions in 7 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Make sure that a StretchingOverscrollIndicator doesn't crash when it …<br />
+  <sub>[#182499](https://github.com/flutter/flutter/pull/182499) opened on on February 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182499) 12 additions and 1 deletion in 2 files</sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; fix: hide NavigationDestination tooltip when message is empty<br />
+  <sub>[#182500](https://github.com/flutter/flutter/pull/182500) opened on on February 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182500) 49 additions and 22 deletions in 2 files</sub><br />
 
