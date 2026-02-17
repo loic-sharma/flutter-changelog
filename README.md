@@ -779,11 +779,19 @@
 
 ### February 14, 2026 to February 20, 2026
 
-2 commits.
+4 commits.
 
 * **[Hamza Gohar](https://github.com/HamzaGohar-2k23-BSCS-249)** &mdash; Typo in implicit-animations.md<br />
   <sub>[#13076](https://github.com/flutter/website/pull/13076) merged on February 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13076) over 2 days, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Include site sections on mobile sidenav<br />
+  <sub>[#13085](https://github.com/flutter/website/pull/13085) merged on February 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13085) over 8 hours, 23 additions and 25 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; more edits to uiscene migration documentation<br />
+  <sub>[#13072](https://github.com/flutter/website/pull/13072) merged on February 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13072) over 4 days, 8 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[IMØ](https://github.com/warioddly)** &mdash; Rename onPressed to nextArticleCallback in ArticlePage<br />
   <sub>[#13066](https://github.com/flutter/website/pull/13066) merged on February 16, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13066) over 3 days, 5 additions and 7 deletions in 1 file</sub><br />
