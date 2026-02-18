@@ -19,7 +19,7 @@
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Илия](https://github.com/777genius)** &mdash; Add contentTextStyle support to SimpleDialog<br />
-  <sub>[#178824](https://github.com/flutter/flutter/pull/178824) merged on February 17, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/178824) over 3 months, 83 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#178824](https://github.com/flutter/flutter/pull/178824) merged on February 17, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/178824) over 3 months, 83 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[walley892](https://github.com/walley892)** &mdash; Implement getUniformMatX and getUniformMatXArray functionality on web<br />
