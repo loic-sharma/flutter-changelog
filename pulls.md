@@ -131,9 +131,6 @@
 * **[Soufian El-Fouzari](https://github.com/SoufianElfouzari)** &mdash; Improved complete hello_world example: Added German versions, and widget tests, formatted and added Keys to other examples. <br />
   <sub>[#182297](https://github.com/flutter/flutter/pull/182297) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182297) 79 additions and 5 deletions in 6 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [CP][stable] Fix bug in multisurfacerenderer where canvases do not have "position: absolute"<br />
-  <sub>[#182299](https://github.com/flutter/flutter/pull/182299) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182299) 85 additions and 2 deletions in 3 files</sub><br />
-
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
 
@@ -153,19 +150,10 @@
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182375) 234 additions and 5 deletions in 5 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided error message when CocoaPod and SwiftPM dependency conflicts<br />
-  <sub>[#182392](https://github.com/flutter/flutter/pull/182392) opened on on February 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182392) 135 additions and 13 deletions in 5 files</sub><br />
+  <sub>[#182392](https://github.com/flutter/flutter/pull/182392) opened on on February 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182392) 135 additions and 13 deletions in 5 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided message when project is not compatible with SwiftPM<br />
   <sub>[#182394](https://github.com/flutter/flutter/pull/182394) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182394) 116 additions and 21 deletions in 3 files</sub><br />
-
-* **[Andrei Kabylin](https://github.com/sysint64)** &mdash; Add bottom safe area padding to licenses package license page<br />
-  <sub>[#182425](https://github.com/flutter/flutter/pull/182425) opened on on February 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182425) 53 additions and 5 deletions in 2 files</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Carousel: Migration from Scrollable+Viewport to CustomScrollView<br />
-  <sub>[#182475](https://github.com/flutter/flutter/pull/182475) opened on on February 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182475) 7 additions and 24 deletions in 1 file</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Unify text direction handling in InputDecorator and TextField/TextFormField<br />
-  <sub>[#182477](https://github.com/flutter/flutter/pull/182477) opened on on February 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182477) 187 additions and 5 deletions in 7 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show warning when plugins do not support SwiftPM<br />
   <sub>[#182506](https://github.com/flutter/flutter/pull/182506) opened on on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182506) 36 additions and 4 deletions in 2 files</sub><br />
@@ -182,18 +170,9 @@
 * **[Apoorv Darshan](https://github.com/apoorvdarshan)** &mdash; Move misplaced Material tests from test/widgets/ to test/material/<br />
   <sub>[#182546](https://github.com/flutter/flutter/pull/182546) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182546) 0 additions and 0 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Don't throw an exception if no web define variable is set<br />
-  <sub>[#182548](https://github.com/flutter/flutter/pull/182548) opened on on February 18, 2026 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/182548) 158 additions and 39 deletions in 7 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Don't throw an exception if no web define variable is set<br />
-  <sub>[#182549](https://github.com/flutter/flutter/pull/182549) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182549) 158 additions and 39 deletions in 7 files</sub><br />
-
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
   <sub>[#182552](https://github.com/flutter/flutter/pull/182552) opened on on February 18, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/182552) 474 additions and 14 deletions in 7 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark stable vulkan platform view tests as bringup<br />
-  <sub>[#182554](https://github.com/flutter/flutter/pull/182554) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182554) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Hashem](https://github.com/haashem)** &mdash; fix: [iOS] [a11y] Skip unnamed route screen-change announcements<br />
-  <sub>[#182556](https://github.com/flutter/flutter/pull/182556) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182556) 96 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#182556](https://github.com/flutter/flutter/pull/182556) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182556) 98 additions and 5 deletions in 2 files</sub><br />
 

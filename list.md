@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-15 commits.
+16 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) merged on February 18, 2026 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/180389) over 1 month, 346 additions and 16 deletions in 2 files</sub>
@@ -33,6 +33,10 @@
 * **[walley892](https://github.com/walley892)** &mdash; Implement getUniformMatX and getUniformMatXArray functionality on web
   <sub>[#182249](https://github.com/flutter/flutter/pull/182249) merged on February 17, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/182249) over 5 days, 1275 additions and 23 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Pass form validation errors to screen readers via aria-description
+  <sub>[#180556](https://github.com/flutter/flutter/pull/180556) merged on February 18, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/180556) over 1 month, 224 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "[Android] Add mechanism for setting Android engine flags via …
   <sub>[#182388](https://github.com/flutter/flutter/pull/182388) merged on February 17, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182388) over 3 days, 567 additions and 2017 deletions in 24 files</sub>
@@ -823,7 +827,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-6 commits.
+7 commits.
 
 * **[Hamza Gohar](https://github.com/HamzaGohar-2k23-BSCS-249)** &mdash; Typo in implicit-animations.md
   <sub>[#13076](https://github.com/flutter/website/pull/13076) merged on February 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13076) over 2 days, 3 additions and 3 deletions in 1 file</sub>
@@ -836,6 +840,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Include site sections on mobile sidenav
   <sub>[#13085](https://github.com/flutter/website/pull/13085) merged on February 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13085) over 8 hours, 23 additions and 25 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Mention that UIScene is now the default
+  <sub>[#13090](https://github.com/flutter/website/pull/13090) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13090) over 18 hours, 18 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Thomas Schattschneider](https://github.com/TSchattschneider)** &mdash; Docs: Fix phrasing in case-study/index.md
   <sub>[#13083](https://github.com/flutter/website/pull/13083) merged on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13083) over 11 hours, 2 additions and 2 deletions in 1 file</sub>
