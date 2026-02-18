@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-19 commits.
+20 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) merged on February 18, 2026 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/180389) over 1 month, 346 additions and 16 deletions in 2 files</sub>
@@ -37,6 +37,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update android symbolication instructions
   <sub>[#181267](https://github.com/flutter/flutter/pull/181267) merged on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181267) over 4 weeks, 11 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart
+  <sub>[#181465](https://github.com/flutter/flutter/pull/181465) merged on February 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181465) over 3 weeks, 296 additions and 468 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Pass form validation errors to screen readers via aria-description
   <sub>[#180556](https://github.com/flutter/flutter/pull/180556) merged on February 18, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/180556) over 1 month, 224 additions and 4 deletions in 5 files</sub>
