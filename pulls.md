@@ -123,7 +123,7 @@
   <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Prompt plugin authors to add Swift Package Manager compatibility to their plugin<br />
-  <sub>[#182246](https://github.com/flutter/flutter/pull/182246) opened on on February 11, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/182246) 510 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#182246](https://github.com/flutter/flutter/pull/182246) opened on on February 11, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182246) 510 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; dev: Use a super-parameter in several missed cases<br />
   <sub>[#182251](https://github.com/flutter/flutter/pull/182251) opened on on February 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182251) 27 additions and 33 deletions in 7 files</sub><br />
@@ -135,7 +135,7 @@
   <sub>[#182297](https://github.com/flutter/flutter/pull/182297) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182297) 79 additions and 5 deletions in 6 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [CP][stable] Fix bug in multisurfacerenderer where canvases do not have "position: absolute"<br />
-  <sub>[#182299](https://github.com/flutter/flutter/pull/182299) opened on on February 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182299) 85 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#182299](https://github.com/flutter/flutter/pull/182299) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182299) 85 additions and 2 deletions in 3 files</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
   <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
@@ -192,5 +192,5 @@
   <sub>[#182549](https://github.com/flutter/flutter/pull/182549) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182549) 158 additions and 39 deletions in 7 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
-  <sub>[#182552](https://github.com/flutter/flutter/pull/182552) opened on on February 18, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/182552) 474 additions and 14 deletions in 7 files</sub><br />
+  <sub>[#182552](https://github.com/flutter/flutter/pull/182552) opened on on February 18, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/182552) 474 additions and 14 deletions in 7 files</sub><br />
 
