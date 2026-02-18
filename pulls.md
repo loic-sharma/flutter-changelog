@@ -167,8 +167,8 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Resolve inconsistency with SchedulerBinding.scheduleTask usage recomm…<br />
   <sub>[#182531](https://github.com/flutter/flutter/pull/182531) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182531) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Apoorv Darshan](https://github.com/apoorvdarshan)** &mdash; Move misplaced Material tests from test/widgets/ to test/material/<br />
-  <sub>[#182546](https://github.com/flutter/flutter/pull/182546) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182546) 0 additions and 0 deletions in 2 files</sub><br />
+* **[Apoorv Darshan](https://github.com/apoorvdarshan)** &mdash; Remove material imports from navigator_on_did_remove_page_test and scrollable_in_overlay_test<br />
+  <sub>[#182546](https://github.com/flutter/flutter/pull/182546) opened on on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182546) 40 additions and 26 deletions in 3 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
   <sub>[#182552](https://github.com/flutter/flutter/pull/182552) opened on on February 18, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/182552) 474 additions and 14 deletions in 7 files</sub><br />
@@ -177,8 +177,5 @@
   <sub>[#182556](https://github.com/flutter/flutter/pull/182556) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182556) 98 additions and 5 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Bump engine version for 3.41.2 stable release<br />
-  <sub>[#182559](https://github.com/flutter/flutter/pull/182559) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182559) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; CHANGELOG for 3.41.2 stable<br />
-  <sub>[#182561](https://github.com/flutter/flutter/pull/182561) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182561) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#182559](https://github.com/flutter/flutter/pull/182559) opened on on February 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182559) 1 addition and 1 deletion in 1 file</sub><br />
 

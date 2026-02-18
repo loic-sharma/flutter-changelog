@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-17 commits.
+18 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) merged on February 18, 2026 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/180389) over 1 month, 346 additions and 16 deletions in 2 files</sub>
@@ -33,6 +33,10 @@
 * **[walley892](https://github.com/walley892)** &mdash; Implement getUniformMatX and getUniformMatXArray functionality on web
   <sub>[#182249](https://github.com/flutter/flutter/pull/182249) merged on February 17, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/182249) over 5 days, 1275 additions and 23 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Update android symbolication instructions
+  <sub>[#181267](https://github.com/flutter/flutter/pull/181267) merged on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181267) over 4 weeks, 11 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Pass form validation errors to screen readers via aria-description
   <sub>[#180556](https://github.com/flutter/flutter/pull/180556) merged on February 18, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/180556) over 1 month, 224 additions and 4 deletions in 5 files</sub>
