@@ -779,14 +779,22 @@
 
 ### February 14, 2026 to February 20, 2026
 
-4 commits.
+6 commits.
 
 * **[Hamza Gohar](https://github.com/HamzaGohar-2k23-BSCS-249)** &mdash; Typo in implicit-animations.md<br />
   <sub>[#13076](https://github.com/flutter/website/pull/13076) merged on February 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13076) over 2 days, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update links to learning resources page<br />
+  <sub>[#13065](https://github.com/flutter/website/pull/13065) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13065) over 5 days, 19 additions and 19 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Include site sections on mobile sidenav<br />
   <sub>[#13085](https://github.com/flutter/website/pull/13085) merged on February 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13085) over 8 hours, 23 additions and 25 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Thomas Schattschneider](https://github.com/TSchattschneider)** &mdash; Docs: Fix phrasing in case-study/index.md<br />
+  <sub>[#13083](https://github.com/flutter/website/pull/13083) merged on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13083) over 11 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; more edits to uiscene migration documentation<br />
