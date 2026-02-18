@@ -638,7 +638,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Pigeon swift migration - part 2<br />
-  <sub>[#10980](https://github.com/flutter/packages/pull/10980) merged on February 18, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/10980) over 1 week, 2103 additions and 2455 deletions in 38 files</sub><br />
+  <sub>[#10980](https://github.com/flutter/packages/pull/10980) merged on February 18, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/10980) over 1 week, 2103 additions and 2455 deletions in 38 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter_android] Add advanced markers support<br />
