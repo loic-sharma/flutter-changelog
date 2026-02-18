@@ -114,7 +114,7 @@
   <sub>[#182092](https://github.com/flutter/flutter/pull/182092) opened on on February 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182092) 37 additions and 1 deletion in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove FlutterFramework app migration<br />
-  <sub>[#182100](https://github.com/flutter/flutter/pull/182100) opened on on February 9, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182100) 347 additions and 755 deletions in 11 files</sub><br />
+  <sub>[#182100](https://github.com/flutter/flutter/pull/182100) opened on on February 9, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/182100) 347 additions and 755 deletions in 11 files</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Use bilinear filtering for non-uniform scaled text<br />
   <sub>[#182224](https://github.com/flutter/flutter/pull/182224) opened on on February 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182224) 23 additions and 2 deletions in 1 file</sub><br />
@@ -174,7 +174,7 @@
   <sub>[#182506](https://github.com/flutter/flutter/pull/182506) opened on on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182506) 36 additions and 4 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant<br />
-  <sub>[#182523](https://github.com/flutter/flutter/pull/182523) opened on on February 18, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/182523) 302 additions and 32 deletions in 2 files</sub><br />
+  <sub>[#182523](https://github.com/flutter/flutter/pull/182523) opened on on February 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) 302 additions and 32 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 second grouped test<br />
   <sub>[#182529](https://github.com/flutter/flutter/pull/182529) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182529) 144 additions and 0 deletions in 8 files</sub><br />
@@ -193,4 +193,7 @@
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
   <sub>[#182552](https://github.com/flutter/flutter/pull/182552) opened on on February 18, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/182552) 474 additions and 14 deletions in 7 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark stable vulkan platform view tests as bringup<br />
+  <sub>[#182554](https://github.com/flutter/flutter/pull/182554) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182554) 0 additions and 1 deletion in 1 file</sub><br />
 

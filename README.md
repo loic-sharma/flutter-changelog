@@ -682,7 +682,7 @@
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Fix syntax error in auto-labeler<br />
-  <sub>[#11052](https://github.com/flutter/packages/pull/11052) merged on February 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11052) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#11052](https://github.com/flutter/packages/pull/11052) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11052) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Simply Kotlin/Java interop utils<br />
