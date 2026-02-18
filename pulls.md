@@ -170,9 +170,6 @@
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
   <sub>[#182552](https://github.com/flutter/flutter/pull/182552) opened on on February 18, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/182552) 474 additions and 14 deletions in 7 files</sub><br />
 
-* **[Hashem](https://github.com/haashem)** &mdash; fix: [iOS] [a11y] Skip unnamed route screen-change announcements<br />
-  <sub>[#182556](https://github.com/flutter/flutter/pull/182556) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182556) 98 additions and 5 deletions in 2 files</sub><br />
-
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Rename "dart-pkg" to "dart_pkg" in the Fuchsia Flutter Engine<br />
-  <sub>[#182574](https://github.com/flutter/flutter/pull/182574) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182574) 56 additions and 56 deletions in 52 files</sub><br />
+  <sub>[#182574](https://github.com/flutter/flutter/pull/182574) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182574) 59 additions and 57 deletions in 52 files</sub><br />
 
