@@ -120,7 +120,7 @@
   <sub>[#182224](https://github.com/flutter/flutter/pull/182224) opened on on February 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182224) 23 additions and 2 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify batch release mode requirements<br />
-  <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Prompt plugin authors to add Swift Package Manager compatibility to their plugin<br />
   <sub>[#182246](https://github.com/flutter/flutter/pull/182246) opened on on February 11, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/182246) 510 additions and 0 deletions in 2 files</sub><br />
@@ -186,7 +186,7 @@
   <sub>[#182531](https://github.com/flutter/flutter/pull/182531) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182531) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Apoorv Darshan](https://github.com/apoorvdarshan)** &mdash; Move misplaced Material tests from test/widgets/ to test/material/<br />
-  <sub>[#182546](https://github.com/flutter/flutter/pull/182546) opened on on February 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182546) 0 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#182546](https://github.com/flutter/flutter/pull/182546) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182546) 0 additions and 0 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Don't throw an exception if no web define variable is set<br />
   <sub>[#182548](https://github.com/flutter/flutter/pull/182548) opened on on February 18, 2026 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/182548) 158 additions and 39 deletions in 7 files</sub><br />
