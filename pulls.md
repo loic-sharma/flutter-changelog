@@ -173,3 +173,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Unify text direction handling in InputDecorator and TextField/TextFormField<br />
   <sub>[#182477](https://github.com/flutter/flutter/pull/182477) opened on on February 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182477) 187 additions and 5 deletions in 7 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 second grouped test<br />
+  <sub>[#182529](https://github.com/flutter/flutter/pull/182529) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182529) 144 additions and 0 deletions in 8 files</sub><br />
+
