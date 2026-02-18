@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-12 commits.
+13 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Do not wait until dispose before removing replaced/popped page<br />
   <sub>[#182315](https://github.com/flutter/flutter/pull/182315) merged on February 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182315) over 5 days, 22 additions and 3 deletions in 2 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] RangeSlider  mouse interaction should change keyboard focus<br />
   <sub>[#182185](https://github.com/flutter/flutter/pull/182185) merged on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182185) over 6 days, 187 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Clean up cross imports in single_child_scroll_view_test.dart, decorated_sliver_test.dart, draggable_scrollable_sheet_test.dart<br />
+  <sub>[#181613](https://github.com/flutter/flutter/pull/181613) merged on February 18, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/181613) over 2 weeks, 176 additions and 160 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from actions test<br />
   <sub>[#181702](https://github.com/flutter/flutter/pull/181702) merged on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181702) over 2 weeks, 32 additions and 103 deletions in 2 files</sub><br />
