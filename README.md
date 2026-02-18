@@ -4,7 +4,11 @@
 
 ### February 14, 2026 to February 20, 2026
 
-13 commits.
+14 commits.
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
+  <sub>[#180389](https://github.com/flutter/flutter/pull/180389) merged on February 18, 2026 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/180389) over 1 month, 346 additions and 16 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Huy](https://github.com/huycozy), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Do not wait until dispose before removing replaced/popped page<br />
   <sub>[#182315](https://github.com/flutter/flutter/pull/182315) merged on February 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182315) over 5 days, 22 additions and 3 deletions in 2 files</sub><br />
@@ -627,7 +631,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-12 commits.
+13 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature <br />
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub><br />
@@ -668,6 +672,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Update Android to exoplayer 1.9.1<br />
   <sub>[#10904](https://github.com/flutter/packages/pull/10904) merged on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10904) over 3 weeks, 24 additions and 8 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Google Admin](https://github.com/google-admin)** &mdash; Refactor Github Action per b/485167538<br />
+  <sub>[#11051](https://github.com/flutter/packages/pull/11051) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11051) over 1 hour, 6 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Simply Kotlin/Java interop utils<br />
   <sub>[#11011](https://github.com/flutter/packages/pull/11011) merged on February 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11011) over 4 days, 21 additions and 41 deletions in 4 files</sub><br />
