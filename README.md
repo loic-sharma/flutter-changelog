@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-10 commits.
+12 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Do not wait until dispose before removing replaced/popped page<br />
   <sub>[#182315](https://github.com/flutter/flutter/pull/182315) merged on February 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182315) over 5 days, 22 additions and 3 deletions in 2 files</sub><br />
@@ -33,6 +33,14 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] RangeSlider  mouse interaction should change keyboard focus<br />
   <sub>[#182185](https://github.com/flutter/flutter/pull/182185) merged on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182185) over 6 days, 187 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from actions test<br />
+  <sub>[#181702](https://github.com/flutter/flutter/pull/181702) merged on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181702) over 2 weeks, 32 additions and 103 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Analyzer, require 10.1.0, fix deprecations in dependency_graph.dart<br />
+  <sub>[#182507](https://github.com/flutter/flutter/pull/182507) merged on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182507) over 5 hours, 26 additions and 26 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more getters from userMessages class<br />
   <sub>[#182166](https://github.com/flutter/flutter/pull/182166) merged on February 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182166) over 1 week, 96 additions and 144 deletions in 6 files</sub><br />
