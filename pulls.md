@@ -179,3 +179,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Bump engine version for 3.41.2 stable release<br />
   <sub>[#182559](https://github.com/flutter/flutter/pull/182559) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182559) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; CHANGELOG for 3.41.2 stable<br />
+  <sub>[#182561](https://github.com/flutter/flutter/pull/182561) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182561) 2 additions and 0 deletions in 1 file</sub><br />
+

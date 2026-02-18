@@ -657,6 +657,10 @@
   <sub>[#10381](https://github.com/flutter/packages/pull/10381) merged on February 17, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/10381) over 3 months, 2706 additions and 273 deletions in 32 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui] Add material_ui package
+  <sub>[#11043](https://github.com/flutter/packages/pull/11043) merged on February 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11043) over 21 hours, 153 additions and 0 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Standardize iOS class and file names
   <sub>[#10964](https://github.com/flutter/packages/pull/10964) merged on February 17, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10964) over 1 week, 1657 additions and 1709 deletions in 181 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
@@ -664,10 +668,6 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update repo for 3.41
   <sub>[#11017](https://github.com/flutter/packages/pull/11017) merged on February 17, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/11017) over 4 days, 327 additions and 241 deletions in 170 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Robert Ancell](https://github.com/robert-ancell), [Matt Boetger](https://github.com/mboetger), [Tarrin Neal](https://github.com/tarrinneal), and [1 other](https://github.com/flutter/packages/pull/11017)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui] Add material_ui package
-  <sub>[#11043](https://github.com/flutter/packages/pull/11043) merged on February 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11043) over 21 hours, 153 additions and 0 deletions in 12 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [cupertino_ui] Add cupertino_ui package
   <sub>[#11042](https://github.com/flutter/packages/pull/11042) merged on February 18, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11042) over 21 hours, 152 additions and 0 deletions in 12 files</sub>
