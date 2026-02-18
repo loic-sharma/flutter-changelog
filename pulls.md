@@ -150,7 +150,7 @@
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182375) 234 additions and 5 deletions in 5 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided error message when CocoaPod and SwiftPM dependency conflicts<br />
-  <sub>[#182392](https://github.com/flutter/flutter/pull/182392) opened on on February 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182392) 135 additions and 13 deletions in 5 files</sub><br />
+  <sub>[#182392](https://github.com/flutter/flutter/pull/182392) opened on on February 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/182392) 152 additions and 13 deletions in 5 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided message when project is not compatible with SwiftPM<br />
   <sub>[#182394](https://github.com/flutter/flutter/pull/182394) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182394) 116 additions and 21 deletions in 3 files</sub><br />
@@ -175,4 +175,7 @@
 
 * **[Hashem](https://github.com/haashem)** &mdash; fix: [iOS] [a11y] Skip unnamed route screen-change announcements<br />
   <sub>[#182556](https://github.com/flutter/flutter/pull/182556) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182556) 98 additions and 5 deletions in 2 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Bump engine version for 3.41.2 stable release<br />
+  <sub>[#182559](https://github.com/flutter/flutter/pull/182559) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182559) 1 addition and 1 deletion in 1 file</sub><br />
 
