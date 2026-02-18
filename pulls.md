@@ -176,3 +176,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 second grouped test<br />
   <sub>[#182529](https://github.com/flutter/flutter/pull/182529) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182529) 144 additions and 0 deletions in 8 files</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Resolve inconsistency with SchedulerBinding.scheduleTask usage recomm…<br />
+  <sub>[#182531](https://github.com/flutter/flutter/pull/182531) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182531) 2 additions and 2 deletions in 1 file</sub><br />
+
