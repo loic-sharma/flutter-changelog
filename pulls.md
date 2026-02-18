@@ -165,10 +165,10 @@
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182375) 234 additions and 5 deletions in 5 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided error message when CocoaPod and SwiftPM dependency conflicts<br />
-  <sub>[#182392](https://github.com/flutter/flutter/pull/182392) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182392) 135 additions and 13 deletions in 5 files</sub><br />
+  <sub>[#182392](https://github.com/flutter/flutter/pull/182392) opened on on February 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182392) 135 additions and 13 deletions in 5 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided message when project is not compatible with SwiftPM<br />
-  <sub>[#182394](https://github.com/flutter/flutter/pull/182394) opened on on February 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182394) 116 additions and 21 deletions in 3 files</sub><br />
+  <sub>[#182394](https://github.com/flutter/flutter/pull/182394) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182394) 116 additions and 21 deletions in 3 files</sub><br />
 
 * **[Andrei Kabylin](https://github.com/sysint64)** &mdash; Add bottom safe area padding to licenses package license page<br />
   <sub>[#182425](https://github.com/flutter/flutter/pull/182425) opened on on February 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182425) 53 additions and 5 deletions in 2 files</sub><br />
