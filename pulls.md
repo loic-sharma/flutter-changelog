@@ -101,9 +101,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
-* **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix NavigationDrawer highlight rendering when index changes externally (#180359)<br />
-  <sub>[#181960](https://github.com/flutter/flutter/pull/181960) opened on on February 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181960) 24 additions and 29 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Stop double loading fonts for WebParagraph<br />
   <sub>[#182026](https://github.com/flutter/flutter/pull/182026) opened on on February 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182026) 18 additions and 94 deletions in 2 files</sub><br />
 
@@ -196,4 +193,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark stable vulkan platform view tests as bringup<br />
   <sub>[#182554](https://github.com/flutter/flutter/pull/182554) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182554) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Hashem](https://github.com/haashem)** &mdash; fix: [iOS] [a11y] Skip unnamed route screen-change announcements<br />
+  <sub>[#182556](https://github.com/flutter/flutter/pull/182556) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182556) 96 additions and 3 deletions in 2 files</sub><br />
 
