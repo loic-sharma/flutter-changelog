@@ -655,7 +655,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-14 commits.
+15 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature <br />
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub><br />
@@ -676,6 +676,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui] Add material_ui package<br />
   <sub>[#11043](https://github.com/flutter/packages/pull/11043) merged on February 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11043) over 21 hours, 153 additions and 0 deletions in 12 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Steven Landow](https://github.com/stevenctl)** &mdash; [vector_graphics_compiler] support percentage units SVG shape attributes<br />
+  <sub>[#10577](https://github.com/flutter/packages/pull/10577) merged on February 18, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/10577) over 2 months, 155 additions and 5 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Standardize iOS class and file names<br />
   <sub>[#10964](https://github.com/flutter/packages/pull/10964) merged on February 17, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10964) over 1 week, 1657 additions and 1709 deletions in 181 files</sub><br />

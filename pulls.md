@@ -176,6 +176,3 @@
 * **[Hashem](https://github.com/haashem)** &mdash; fix: [iOS] [a11y] Skip unnamed route screen-change announcements<br />
   <sub>[#182556](https://github.com/flutter/flutter/pull/182556) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182556) 98 additions and 5 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Bump engine version for 3.41.2 stable release<br />
-  <sub>[#182559](https://github.com/flutter/flutter/pull/182559) opened on on February 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182559) 1 addition and 1 deletion in 1 file</sub><br />
-
