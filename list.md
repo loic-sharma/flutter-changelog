@@ -655,7 +655,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-15 commits.
+16 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature 
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub>
@@ -680,6 +680,10 @@
 * **[Steven Landow](https://github.com/stevenctl)** &mdash; [vector_graphics_compiler] support percentage units SVG shape attributes
   <sub>[#10577](https://github.com/flutter/packages/pull/10577) merged on February 18, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/10577) over 2 months, 155 additions and 5 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Convert example app to Swift
+  <sub>[#11003](https://github.com/flutter/packages/pull/11003) merged on February 18, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/11003) over 1 week, 421 additions and 271 deletions in 39 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Standardize iOS class and file names
   <sub>[#10964](https://github.com/flutter/packages/pull/10964) merged on February 17, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/10964) over 1 week, 1657 additions and 1709 deletions in 181 files</sub>

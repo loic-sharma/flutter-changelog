@@ -83,9 +83,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Apply workaround for generating gradle lock files in hybrid_android_views<br />
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material imports from Inherited Model, Magnifier, SafeArea, UndoHistory, Navigator and Layers test<br />
-  <sub>[#181709](https://github.com/flutter/flutter/pull/181709) opened on on January 30, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/181709) 229 additions and 243 deletions in 6 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart<br />
   <sub>[#181774](https://github.com/flutter/flutter/pull/181774) opened on on February 1, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/181774) 315 additions and 402 deletions in 11 files</sub><br />
 
