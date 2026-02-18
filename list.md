@@ -222,7 +222,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[EricApostal](https://github.com/EricApostal)** &mdash; Don't throw an exception if no web define variable is set
-  <sub>[#182273](https://github.com/flutter/flutter/pull/182273) merged on February 13, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/182273) over 23 hours, 158 additions and 39 deletions in 7 files</sub>
+  <sub>[#182273](https://github.com/flutter/flutter/pull/182273) merged on February 13, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/182273) over 23 hours, 158 additions and 39 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Navaron Bracke](https://github.com/navaronbracke), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Cross imports cleanups
@@ -627,7 +627,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-9 commits.
+12 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature 
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub>
@@ -652,6 +652,18 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update repo for 3.41
   <sub>[#11017](https://github.com/flutter/packages/pull/11017) merged on February 17, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/11017) over 4 days, 327 additions and 241 deletions in 170 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Robert Ancell](https://github.com/robert-ancell), [Matt Boetger](https://github.com/mboetger), [Tarrin Neal](https://github.com/tarrinneal), and [1 other](https://github.com/flutter/packages/pull/11017)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui] Add material_ui package
+  <sub>[#11043](https://github.com/flutter/packages/pull/11043) merged on February 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11043) over 21 hours, 153 additions and 0 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [cupertino_ui] Add cupertino_ui package
+  <sub>[#11042](https://github.com/flutter/packages/pull/11042) merged on February 18, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11042) over 21 hours, 152 additions and 0 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; [camera][google_fonts] Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks
+  <sub>[#11009](https://github.com/flutter/packages/pull/11009) merged on February 18, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11009) over 5 days, 42 additions and 24 deletions in 17 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Update Android to exoplayer 1.9.1
   <sub>[#10904](https://github.com/flutter/packages/pull/10904) merged on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10904) over 3 weeks, 24 additions and 8 deletions in 5 files</sub>
