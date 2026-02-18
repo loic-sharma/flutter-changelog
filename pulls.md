@@ -173,6 +173,3 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Unify text direction handling in InputDecorator and TextField/TextFormField<br />
   <sub>[#182477](https://github.com/flutter/flutter/pull/182477) opened on on February 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182477) 187 additions and 5 deletions in 7 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; fix: disable NavigationDestination tooltip when message is empty<br />
-  <sub>[#182500](https://github.com/flutter/flutter/pull/182500) opened on on February 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182500) 48 additions and 22 deletions in 2 files</sub><br />
-
